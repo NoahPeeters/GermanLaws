@@ -1,0 +1,73 @@
+{
+  "documentIdentifier" : "BJNR329200004",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR329200004BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR329200004BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Fortführung der Bundesversicherungsanstalt für Angestellte (BfA)"
+        },
+        {
+          "documentIdentifier" : "BJNR329200004BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Eingliederung des Verbandes Deutscher Rentenversicherungsträger e. V.\n(VDR)"
+        },
+        {
+          "documentIdentifier" : "BJNR329200004BJNE000301308",
+          "paragraph" : "§ 3",
+          "title" : "Genehmigung der Satzung"
+        },
+        {
+          "documentIdentifier" : "BJNR329200004BJNE000600308",
+          "paragraph" : "§ 3a",
+          "title" : "Dienstleistungen für Bundesbehörden"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Errichtung der Deutschen Rentenversicherung Bund"
+    },
+    {
+      "documentIdentifier" : "BJNR329200004BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR329200004BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Fortführung der Bundesknappschaft"
+        },
+        {
+          "documentIdentifier" : "BJNR329200004BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Eingliederung der Bahnversicherungsanstalt und der Seekasse"
+        },
+        {
+          "documentIdentifier" : "BJNR329200004BJNE000700119",
+          "paragraph" : "§ 6",
+          "title" : "Stellenbörse"
+        },
+        {
+          "documentIdentifier" : "BJNR329200004BJNE000701126",
+          "paragraph" : "§ 7",
+          "title" : "Beauftragung im Zusammenhang mit der Administration und Prüfung von Förderprogrammen und Förderprojekten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Errichtung der Deutschen Rentenversicherung Knappschaft-Bahn-See"
+    }
+  ]
+}

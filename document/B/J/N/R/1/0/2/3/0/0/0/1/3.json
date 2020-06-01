@@ -1,0 +1,250 @@
+{
+  "documentIdentifier" : "BJNR102300013",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR102300013BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR102300013BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR102300013BJNE000301360",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR102300013BJNE000401360",
+          "paragraph" : "§ 3",
+          "title" : "Aggregationsregeln"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR102300013BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR102300013BJNE000501360",
+          "paragraph" : "§ 4",
+          "title" : "Emissionsgrenzwerte für Großfeuerungsanlagen bei Einsatz fester Brennstoffe, ausgenommen Biobrennstoffe"
+        },
+        {
+          "documentIdentifier" : "BJNR102300013BJNE000601360",
+          "paragraph" : "§ 5",
+          "title" : "Emissionsgrenzwerte für Großfeuerungsanlagen bei Einsatz von Biobrennstoffen"
+        },
+        {
+          "documentIdentifier" : "BJNR102300013BJNE000701360",
+          "paragraph" : "§ 6",
+          "title" : "Emissionsgrenzwerte für Großfeuerungsanlagen bei Einsatz flüssiger Brennstoffe"
+        },
+        {
+          "documentIdentifier" : "BJNR102300013BJNE000801360",
+          "paragraph" : "§ 7",
+          "title" : "Emissionsgrenzwerte für Großfeuerungsanlagen bei Einsatz gasförmiger Brennstoffe"
+        },
+        {
+          "documentIdentifier" : "BJNR102300013BJNE000901360",
+          "paragraph" : "§ 8",
+          "title" : "Emissionsgrenzwerte für Gasturbinenanlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR102300013BJNE001001360",
+          "paragraph" : "§ 9",
+          "title" : "Emissionsgrenzwerte für Gasmotoranlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR102300013BJNE001101360",
+          "paragraph" : "§ 10",
+          "title" : "Emissionsgrenzwerte bei Betrieb mit mehreren Brennstoffen"
+        },
+        {
+          "documentIdentifier" : "BJNR102300013BJNE003600360",
+          "paragraph" : "§ 10a",
+          "title" : "Kompensationsmöglichkeit in Raffinerien"
+        },
+        {
+          "documentIdentifier" : "BJNR102300013BJNE001202360",
+          "paragraph" : "§ 11",
+          "title" : "Im Jahresmittel einzuhaltende Emissionsgrenzwerte zur Absicherung von Umweltqualitätsanforderungen"
+        },
+        {
+          "documentIdentifier" : "BJNR102300013BJNE001300000",
+          "paragraph" : "§ 12",
+          "title" : "Kraft-Wärme-Kopplung"
+        },
+        {
+          "documentIdentifier" : "BJNR102300013BJNE001400000",
+          "paragraph" : "§ 13",
+          "title" : "Wesentliche Änderung von Anlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR102300013BJNE001500000",
+          "paragraph" : "§ 14",
+          "title" : "Anlagen zur Abscheidung und Kompression von Kohlendioxid"
+        },
+        {
+          "documentIdentifier" : "BJNR102300013BJNE001600000",
+          "paragraph" : "§ 15",
+          "title" : "Begrenzung von Emissionen bei Lagerungs- und Transportvorgängen"
+        },
+        {
+          "documentIdentifier" : "BJNR102300013BJNE001700000",
+          "paragraph" : "§ 16",
+          "title" : "Ableitbedingungen für Abgase"
+        },
+        {
+          "documentIdentifier" : "BJNR102300013BJNE001800000",
+          "paragraph" : "§ 17",
+          "title" : "Abgasreinigungseinrichtungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Anforderungen an die Errichtung und den Betrieb"
+    },
+    {
+      "documentIdentifier" : "BJNR102300013BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR102300013BJNE001900000",
+          "paragraph" : "§ 18",
+          "title" : "Messplätze"
+        },
+        {
+          "documentIdentifier" : "BJNR102300013BJNE002000000",
+          "paragraph" : "§ 19",
+          "title" : "Messverfahren und Messeinrichtungen"
+        },
+        {
+          "documentIdentifier" : "BJNR102300013BJNE002101360",
+          "paragraph" : "§ 20",
+          "title" : "Kontinuierliche Messungen"
+        },
+        {
+          "documentIdentifier" : "BJNR102300013BJNE002200000",
+          "paragraph" : "§ 21",
+          "title" : "Ausnahmen vom Erfordernis kontinuierlicher Messungen"
+        },
+        {
+          "documentIdentifier" : "BJNR102300013BJNE002301360",
+          "paragraph" : "§ 22",
+          "title" : "Auswertung und Beurteilung von kontinuierlichen Messungen"
+        },
+        {
+          "documentIdentifier" : "BJNR102300013BJNE002400000",
+          "paragraph" : "§ 23",
+          "title" : "Einzelmessungen"
+        },
+        {
+          "documentIdentifier" : "BJNR102300013BJNE002500000",
+          "paragraph" : "§ 24",
+          "title" : "Berichte und Beurteilung von Einzelmessungen"
+        },
+        {
+          "documentIdentifier" : "BJNR102300013BJNE002600000",
+          "paragraph" : "§ 25",
+          "title" : "Jährliche Berichte über Emissionen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Messung und Überwachung"
+    },
+    {
+      "documentIdentifier" : "BJNR102300013BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR102300013BJNE002701116",
+          "paragraph" : "§ 26",
+          "title" : "Zulassung von Ausnahmen"
+        },
+        {
+          "documentIdentifier" : "BJNR102300013BJNE002800000",
+          "paragraph" : "§ 27",
+          "title" : "Weitergehende Anforderungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gemeinsame Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR102300013BJNG000500000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR102300013BJNE002900000",
+          "paragraph" : "§ 28",
+          "title" : "Zugänglichkeit und Gleichwertigkeit von Normen und Arbeitsblättern"
+        },
+        {
+          "documentIdentifier" : "BJNR102300013BJNE003001360",
+          "paragraph" : "§ 29",
+          "title" : "Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR102300013BJNE003101360",
+          "paragraph" : "§ 30",
+          "title" : "Übergangsregelungen"
+        },
+        {
+          "documentIdentifier" : "BJNR102300013BJNE003200000",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 4 Absatz 1 und 2, § 5 Absatz 1, § 6 Absatz 1 und § 23 Absatz 4)"
+        },
+        {
+          "documentIdentifier" : "BJNR102300013BJNE003300000",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu Anlage 1 Buchstabe d)"
+        },
+        {
+          "documentIdentifier" : "BJNR102300013BJNE003401360",
+          "paragraph" : "Anlage 3",
+          "title" : "(zu § 19 Absatz 1 und § 22 Absatz 3)"
+        },
+        {
+          "documentIdentifier" : "BJNR102300013BJNE003500000",
+          "paragraph" : "Anlage 4",
+          "title" : "(zu § 2 Absatz 5)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussvorschriften"
+    }
+  ]
+}

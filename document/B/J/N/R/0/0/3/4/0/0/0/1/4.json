@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR003400014",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR003400014Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR003400014BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Formular"
+        },
+        {
+          "documentIdentifier" : "BJNR003400014BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Vereinfachte Erklärung"
+        },
+        {
+          "documentIdentifier" : "BJNR003400014BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Zulässige Abweichungen"
+        },
+        {
+          "documentIdentifier" : "BJNR003400014BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

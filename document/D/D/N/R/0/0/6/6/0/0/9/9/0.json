@@ -1,0 +1,64 @@
+{
+  "documentIdentifier" : "DDNR006600990",
+  "sections" : [
+    {
+      "documentIdentifier" : "DDNR006600990Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "DDNR006600990BJNE000200314",
+          "paragraph" : "§ 1",
+          "title" : "Kommunales Vermögen"
+        },
+        {
+          "documentIdentifier" : "DDNR006600990BJNE000300314",
+          "paragraph" : "§ 2",
+          "title" : "Vermögen der Gemeinden und Städte"
+        },
+        {
+          "documentIdentifier" : "DDNR006600990BJNE000400314",
+          "paragraph" : "§ 3",
+          "title" : "Vermögen der Landkreise"
+        },
+        {
+          "documentIdentifier" : "DDNR006600990BJNE000500314",
+          "paragraph" : "§ 4",
+          "title" : "Sonderregelungen"
+        },
+        {
+          "documentIdentifier" : "DDNR006600990BJNE000600314",
+          "paragraph" : "§ 5",
+          "title" : "Nutzung des kommunalen Vermögens"
+        },
+        {
+          "documentIdentifier" : "DDNR006600990BJNE000700314",
+          "paragraph" : "§ 6",
+          "title" : "Kommunale Betriebe und Einrichtungen"
+        },
+        {
+          "documentIdentifier" : "DDNR006600990BJNE001200314",
+          "paragraph" : "§ 9",
+          "title" : "Übergangsbestimmung"
+        },
+        {
+          "documentIdentifier" : "DDNR006600990BJNE001300314",
+          "paragraph" : "§ 10",
+          "title" : "Schlußbestimmung"
+        },
+        {
+          "documentIdentifier" : "DDNR006600990BJNE888800301",
+          "paragraph" : "Anhang EV",
+          "title" : "Auszug aus EinigVtr Anlage II Kapitel IV Abschnitt III\n"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

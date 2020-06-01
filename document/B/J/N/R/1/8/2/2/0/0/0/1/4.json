@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR182200014",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR182200014Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR182200014BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Steuersätze 2015"
+        },
+        {
+          "documentIdentifier" : "BJNR182200014BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

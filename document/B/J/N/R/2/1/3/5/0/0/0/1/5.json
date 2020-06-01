@@ -1,0 +1,69 @@
+{
+  "documentIdentifier" : "BJNR213500015",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR213500015Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR213500015BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Inhalt und Aufbau des Registers"
+        },
+        {
+          "documentIdentifier" : "BJNR213500015BJNE000302000",
+          "paragraph" : "§ 2",
+          "title" : "Einreichung"
+        },
+        {
+          "documentIdentifier" : "BJNR213500015BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Einstellung"
+        },
+        {
+          "documentIdentifier" : "BJNR213500015BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Abruf"
+        },
+        {
+          "documentIdentifier" : "BJNR213500015BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Protokollierungs- und Mitteilungspflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR213500015BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Löschung"
+        },
+        {
+          "documentIdentifier" : "BJNR213500015BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Datensicherheit"
+        },
+        {
+          "documentIdentifier" : "BJNR213500015BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Störungen"
+        },
+        {
+          "documentIdentifier" : "BJNR213500015BJNE001000000",
+          "paragraph" : "§ 9",
+          "title" : "Barrierefreiheit"
+        },
+        {
+          "documentIdentifier" : "BJNR213500015BJNE001100000",
+          "paragraph" : "§ 10",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

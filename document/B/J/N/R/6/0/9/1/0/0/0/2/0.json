@@ -1,0 +1,149 @@
+{
+  "documentIdentifier" : "BJNR609100020",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR609100020BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR609100020BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Zweck der Verordnung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Zweck der Verordnung"
+    },
+    {
+      "documentIdentifier" : "BJNR609100020BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR609100020BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Unterrichtsveranstaltungen"
+        },
+        {
+          "documentIdentifier" : "BJNR609100020BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Krankenpflegedienst"
+        },
+        {
+          "documentIdentifier" : "BJNR609100020BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Famulatur"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Regelungen zur Anrechnung von Studienleistungen bei Mitwirkung an der Gesundheitsversorgung"
+    },
+    {
+      "documentIdentifier" : "BJNR609100020BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR609100020BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Vorzeitiges Praktisches Jahr"
+        },
+        {
+          "documentIdentifier" : "BJNR609100020BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Fehlzeitenregelung"
+        },
+        {
+          "documentIdentifier" : "BJNR609100020BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Zeitpunkt und Voraussetzung für das Ablegen des Zweiten und Dritten Abschnitts der Ärztlichen Prüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR609100020BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Abweichende Regelungen über die Durchführung des Zweiten Abschnitts der Ärztlichen Prüfung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Regelungen zum Zeitpunkt und zu den Anforderungen an die Durchführung des Zweiten Abschnitts der Ärztlichen Prüfung"
+    },
+    {
+      "documentIdentifier" : "BJNR609100020BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR609100020BJNE001000000",
+          "paragraph" : "§ 9",
+          "title" : "Abweichende Durchführung des Dritten Abschnitts der Ärztlichen Prüfung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Regelungen zu den Anforderungen an die Durchführung des Dritten Abschnitts der Ärztlichen Prüfung"
+    },
+    {
+      "documentIdentifier" : "BJNR609100020BJNG000500000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR609100020BJNE001100000",
+          "paragraph" : "§ 10",
+          "title" : "Meldung und Zulassung zum Zweiten und Dritten Abschnitt der Ärztlichen Prüfung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Prüfungsbestimmungen"
+    },
+    {
+      "documentIdentifier" : "BJNR609100020BJNG000600000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR609100020BJNE001200000",
+          "paragraph" : "§ 11",
+          "title" : "Übergangsregelung"
+        },
+        {
+          "documentIdentifier" : "BJNR609100020BJNE001300000",
+          "paragraph" : "§ 12",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übergangsregelung und Inkrafttreten"
+    }
+  ]
+}

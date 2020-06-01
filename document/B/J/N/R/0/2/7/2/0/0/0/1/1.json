@@ -1,0 +1,125 @@
+{
+  "documentIdentifier" : "BJNR027200011",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR027200011BJNG000101116",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR027200011BJNE000102116",
+          "paragraph" : "§ 1",
+          "title" : "Rechtsform und Bezeichnung"
+        },
+        {
+          "documentIdentifier" : "BJNR027200011BJNE000202116",
+          "paragraph" : "§ 2",
+          "title" : "Aufgaben und Organisation der FMSA; Trägerschaft und Unterstützung durch die Finanzagentur"
+        },
+        {
+          "documentIdentifier" : "BJNR027200011BJNE000301116",
+          "paragraph" : "§ 3",
+          "title" : "Rechts- und Fachaufsicht"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Grundlagen der Organisation"
+    },
+    {
+      "documentIdentifier" : "BJNR027200011BJNG000201116",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR027200011BJNE000401116",
+          "paragraph" : "§ 4",
+          "title" : "Organe"
+        },
+        {
+          "documentIdentifier" : "BJNR027200011BJNE000503116",
+          "paragraph" : "§ 5",
+          "title" : "Zusammensetzung und Beschlüsse des Leitungsausschusses"
+        },
+        {
+          "documentIdentifier" : "BJNR027200011BJNE000603116",
+          "paragraph" : "§ 6",
+          "title" : "Rechtsstellung der Leitung"
+        },
+        {
+          "documentIdentifier" : "BJNR027200011BJNE000702116",
+          "paragraph" : "§ 7",
+          "title" : "Aufgaben und Zuständigkeiten der Leitung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Leitungsausschuss"
+    },
+    {
+      "documentIdentifier" : "BJNR027200011BJNG000301116",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR027200011BJNE000801116",
+          "paragraph" : "§ 8",
+          "title" : "Vertretung der FMSA"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Vertretung"
+    },
+    {
+      "documentIdentifier" : "BJNR027200011BJNG000401116",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR027200011BJNE000902116",
+          "paragraph" : "§ 9",
+          "title" : "Personal"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Personal"
+    },
+    {
+      "documentIdentifier" : "BJNR027200011BJNG000501116",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR027200011BJNE001103116",
+          "paragraph" : "§ 10",
+          "title" : "Haushaltsführung, Wirtschaftsführung, Rechnungslegung, Revision"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Haushalts- und Wirtschaftsführung"
+    }
+  ]
+}

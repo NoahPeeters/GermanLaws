@@ -1,0 +1,59 @@
+{
+  "documentIdentifier" : "BJNR015880991",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR015880991Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR015880991BJNE000200307",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR015880991BJNE000301116",
+          "paragraph" : "§ 2",
+          "title" : "Immissionsrichtwerte"
+        },
+        {
+          "documentIdentifier" : "BJNR015880991BJNE000400307",
+          "paragraph" : "§ 3",
+          "title" : "Maßnahmen"
+        },
+        {
+          "documentIdentifier" : "BJNR015880991BJNE000500307",
+          "paragraph" : "§ 4",
+          "title" : "Weitergehende Vorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR015880991BJNE000601116",
+          "paragraph" : "§ 5",
+          "title" : "Nebenbestimmungen und Anordnungen im Einzelfall"
+        },
+        {
+          "documentIdentifier" : "BJNR015880991BJNE001100310",
+          "paragraph" : "§ 6",
+          "title" : "Zulassung von Ausnahmen"
+        },
+        {
+          "documentIdentifier" : "BJNR015880991BJNE000701310",
+          "paragraph" : "§ 7",
+          "title" : "Zugänglichkeit der Norm- und Richtlinienblätter"
+        },
+        {
+          "documentIdentifier" : "BJNR015880991BJNE000801310",
+          "paragraph" : "§ 8",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

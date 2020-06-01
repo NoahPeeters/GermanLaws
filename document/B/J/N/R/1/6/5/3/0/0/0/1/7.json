@@ -1,0 +1,147 @@
+{
+  "documentIdentifier" : "BJNR165300017",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR165300017BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR165300017BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR165300017BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR165300017BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Anzeige der Teilnahme am Förderprogramm"
+        },
+        {
+          "documentIdentifier" : "BJNR165300017BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Erlöschen der Teilnahmeberechtigung"
+        },
+        {
+          "documentIdentifier" : "BJNR165300017BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Ausnahmen von der Pflicht zur Einrichtung einer gemeinsamen Internetplattform"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR165300017BJNG000200000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR165300017BJNG000300000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR165300017BJNE000700000",
+              "paragraph" : "§ 6",
+              "title" : "Anspruch auf die Erstattung wirtschaftlicher Nachteile"
+            },
+            {
+              "documentIdentifier" : "BJNR165300017BJNE000800000",
+              "paragraph" : "§ 7",
+              "title" : "Erstattung des wirtschaftlichen Nachteils bei Letztverbrauchern"
+            },
+            {
+              "documentIdentifier" : "BJNR165300017BJNE000900000",
+              "paragraph" : "§ 8",
+              "title" : "Erstattung wirtschaftlicher Nachteile von Betreibern von Stromspeichern oder Anlagen zur Umwandlung von elektrischer Energie in andere Energieträger"
+            },
+            {
+              "documentIdentifier" : "BJNR165300017BJNE001000000",
+              "paragraph" : "§ 9",
+              "title" : "Erstattung wirtschaftlicher Nachteile von Betreibern von Anlagen zur Erzeugung von Strom aus erneuerbaren Energien"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Erstattung wirtschaftlicher Nachteile aufgrund der Projekttätigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR165300017BJNG000400000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR165300017BJNE001100000",
+              "paragraph" : "§ 10",
+              "title" : "Anrechnung wirtschaftlicher Vorteile"
+            },
+            {
+              "documentIdentifier" : "BJNR165300017BJNE001200000",
+              "paragraph" : "§ 11",
+              "title" : "Auszahlung verbliebener Vorteile"
+            },
+            {
+              "documentIdentifier" : "BJNR165300017BJNE001300000",
+              "paragraph" : "§ 12",
+              "title" : "Feststellung der Ansprüche; Beweislast"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Durchführung der Erstattung wirtschaftlicher Nachteile; Vorteilsanrechnung"
+        }
+      ],
+      "title" : "Behandlung wirtschaftlicher Vor- und Nachteile"
+    },
+    {
+      "documentIdentifier" : "BJNR165300017BJNG000500000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR165300017BJNE001400000",
+          "paragraph" : "§ 13",
+          "title" : "Bericht"
+        },
+        {
+          "documentIdentifier" : "BJNR165300017BJNE001500000",
+          "paragraph" : "§ 14",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussvorschriften"
+    }
+  ]
+}

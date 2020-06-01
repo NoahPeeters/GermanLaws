@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR104100020",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR104100020Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR104100020BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR104100020BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Ortsübliche und öffentliche Bekanntmachungen"
+        },
+        {
+          "documentIdentifier" : "BJNR104100020BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Auslegung von Unterlagen oder Entscheidungen"
+        },
+        {
+          "documentIdentifier" : "BJNR104100020BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Erklärungen zur Niederschrift"
+        },
+        {
+          "documentIdentifier" : "BJNR104100020BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Erörterungstermine, mündliche Verhandlungen und Antragskonferenzen"
+        },
+        {
+          "documentIdentifier" : "BJNR104100020BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Übergangsregelung"
+        },
+        {
+          "documentIdentifier" : "BJNR104100020BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

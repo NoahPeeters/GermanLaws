@@ -1,0 +1,107 @@
+{
+  "documentIdentifier" : "BJNR324100006",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR324100006BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR324100006BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich; Begriffsbestimmung"
+        },
+        {
+          "documentIdentifier" : "BJNR324100006BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Form des Refinanzierungsregisters"
+        },
+        {
+          "documentIdentifier" : "BJNR324100006BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Vollständigkeit und Richtigkeit des Refinanzierungsregisters"
+        },
+        {
+          "documentIdentifier" : "BJNR324100006BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Bezeichnung des Refinanzierungsregisters sowie der Abteilungen und\nUnterabteilungen"
+        },
+        {
+          "documentIdentifier" : "BJNR324100006BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Art und Weise der Aufzeichnung"
+        },
+        {
+          "documentIdentifier" : "BJNR324100006BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Eintragung ausländischer Sicherungsrechte"
+        },
+        {
+          "documentIdentifier" : "BJNR324100006BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Schutz des Refinanzierungsregisters"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Anwendungsbereich; allgemeine Anforderungen"
+    },
+    {
+      "documentIdentifier" : "BJNR324100006BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR324100006BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Begriff und allgemeine Anforderungen"
+        },
+        {
+          "documentIdentifier" : "BJNR324100006BJNE001000000",
+          "paragraph" : "§ 9",
+          "title" : "Technische und organisatorische Maßnahmen zur Gewährleistung von\nDatenschutz und Datensicherheit"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Zusätzliche Anforderungen bei elektronischer Registerführung"
+    },
+    {
+      "documentIdentifier" : "BJNR324100006BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR324100006BJNE001100000",
+          "paragraph" : "§ 10",
+          "title" : "Übergangsbestimmung"
+        },
+        {
+          "documentIdentifier" : "BJNR324100006BJNE001200000",
+          "paragraph" : "§ 11",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR324100006BJNE001300000",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 5)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussbestimmungen"
+    }
+  ]
+}

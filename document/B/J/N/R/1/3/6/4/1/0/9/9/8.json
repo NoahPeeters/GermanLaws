@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR136410998",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR136410998Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR136410998BJNE000206311",
+          "paragraph" : "§ 1",
+          "title" : "Formulare"
+        },
+        {
+          "documentIdentifier" : "BJNR136410998BJNE000304311",
+          "paragraph" : "§ 2",
+          "title" : "Ausführung der Formulare"
+        },
+        {
+          "documentIdentifier" : "BJNR136410998BJNE000403311",
+          "paragraph" : "§ 3",
+          "title" : "Zulässige Abweichungen"
+        },
+        {
+          "documentIdentifier" : "BJNR136410998BJNE000503311",
+          "paragraph" : "§ 4",
+          "title" : "Übergangsvorschrift"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

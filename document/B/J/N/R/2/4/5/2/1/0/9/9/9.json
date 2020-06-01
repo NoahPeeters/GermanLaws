@@ -1,0 +1,244 @@
+{
+  "documentIdentifier" : "BJNR245210999",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR245210999BJNG000102310",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR245210999BJNE000602310",
+          "paragraph" : "§ 1",
+          "title" : "Anordnung als Bundesstatistik"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschrift"
+    },
+    {
+      "documentIdentifier" : "BJNR245210999BJNG000202310",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR245210999BJNE000701310",
+          "paragraph" : "§ 2",
+          "title" : "Erhebungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR245210999BJNE000801310",
+          "paragraph" : "§ 3",
+          "title" : "Schifffahrtsstatistik"
+        },
+        {
+          "documentIdentifier" : "BJNR245210999BJNE000901310",
+          "paragraph" : "§ 4",
+          "title" : "Unternehmensstatistik der Binnenschifffahrt"
+        },
+        {
+          "documentIdentifier" : "BJNR245210999BJNE001003116",
+          "paragraph" : "§ 5",
+          "title" : "Anschriftenübermittlung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Statistik der See- und Binnenschifffahrt"
+    },
+    {
+      "documentIdentifier" : "BJNR245210999BJNG000302310",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR245210999BJNE001102310",
+          "paragraph" : "§ 6",
+          "title" : "Erhebungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR245210999BJNE001201310",
+          "paragraph" : "§ 7",
+          "title" : "Güterkraftverkehrsstatistik"
+        },
+        {
+          "documentIdentifier" : "BJNR245210999BJNE001303310",
+          "paragraph" : "§ 8",
+          "title" : "Unternehmensstatistik des Güterkraftverkehrs"
+        },
+        {
+          "documentIdentifier" : "BJNR245210999BJNE001402310",
+          "paragraph" : "§ 9",
+          "title" : "Kennzeichenübermittlung"
+        },
+        {
+          "documentIdentifier" : "BJNR245210999BJNE001502310",
+          "paragraph" : "§ 10",
+          "title" : "Vernichtung von Erhebungsunterlagen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Statistik des Güterkraftverkehrs"
+    },
+    {
+      "documentIdentifier" : "BJNR245210999BJNG000501310",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR245210999BJNE002301310",
+          "paragraph" : "§ 11",
+          "title" : "Erhebungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR245210999BJNE002401310",
+          "paragraph" : "§ 12",
+          "title" : "Luftverkehrsstatistik"
+        },
+        {
+          "documentIdentifier" : "BJNR245210999BJNE002501310",
+          "paragraph" : "§ 13",
+          "title" : "Unternehmensstatistik der Luftfahrt"
+        },
+        {
+          "documentIdentifier" : "BJNR245210999BJNE002601310",
+          "paragraph" : "§ 14",
+          "title" : "Berichtszeitraum"
+        },
+        {
+          "documentIdentifier" : "BJNR245210999BJNE002701310",
+          "paragraph" : "§ 15",
+          "title" : "Anschriftenübermittlung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Statistik des Luftverkehrs"
+    },
+    {
+      "documentIdentifier" : "BJNR245210999BJNG000601310",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR245210999BJNE002801310",
+          "paragraph" : "§ 16",
+          "title" : "Erhebungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR245210999BJNE002901310",
+          "paragraph" : "§ 17",
+          "title" : "Personenverkehrsstatistik"
+        },
+        {
+          "documentIdentifier" : "BJNR245210999BJNE003001310",
+          "paragraph" : "§ 18",
+          "title" : "Schienen-Personenfernverkehrsstatistik"
+        },
+        {
+          "documentIdentifier" : "BJNR245210999BJNE003101310",
+          "paragraph" : "§ 19",
+          "title" : "Schienen-Güterverkehrsstatistik"
+        },
+        {
+          "documentIdentifier" : "BJNR245210999BJNE003201310",
+          "paragraph" : "§ 20",
+          "title" : "Schieneninfrastrukturstatistik"
+        },
+        {
+          "documentIdentifier" : "BJNR245210999BJNE003301310",
+          "paragraph" : "§ 21",
+          "title" : "Schienenverkehrsunfallstatistik"
+        },
+        {
+          "documentIdentifier" : "BJNR245210999BJNE003401310",
+          "paragraph" : "§ 22",
+          "title" : "Statistik der Verkehrsströme im Eisenbahnnetz"
+        },
+        {
+          "documentIdentifier" : "BJNR245210999BJNE003501310",
+          "paragraph" : "§ 23",
+          "title" : "Berichtszeitraum"
+        },
+        {
+          "documentIdentifier" : "BJNR245210999BJNE003601310",
+          "paragraph" : "§ 24",
+          "title" : "Anschriftenübermittlung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Statistik des Schienenverkehrs und des gewerblichen Straßen-Personenverkehrs"
+    },
+    {
+      "documentIdentifier" : "BJNR245210999BJNG000402310",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR245210999BJNE001602310",
+          "paragraph" : "§ 25",
+          "title" : "Hilfsmerkmale"
+        },
+        {
+          "documentIdentifier" : "BJNR245210999BJNE001703116",
+          "paragraph" : "§ 26",
+          "title" : "Auskunftspflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR245210999BJNE001803310",
+          "paragraph" : "§ 27",
+          "title" : "Durchführung"
+        },
+        {
+          "documentIdentifier" : "BJNR245210999BJNE001902310",
+          "paragraph" : "§ 28",
+          "title" : "Übermittlungsregelung"
+        },
+        {
+          "documentIdentifier" : "BJNR245210999BJNE002003310",
+          "paragraph" : "§ 29",
+          "title" : "Veröffentlichung"
+        },
+        {
+          "documentIdentifier" : "BJNR245210999BJNE002104116",
+          "paragraph" : "§ 30",
+          "title" : "Verordnungsermächtigung"
+        },
+        {
+          "documentIdentifier" : "BJNR245210999BJNE002202310",
+          "paragraph" : "§ 31",
+          "title" : "Zuständigkeit für die Verfolgung und Ahndung von\nOrdnungswidrigkeiten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Durchführungsbestimmungen"
+    }
+  ]
+}

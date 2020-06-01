@@ -1,0 +1,69 @@
+{
+  "documentIdentifier" : "BJNR379000009",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR379000009Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR379000009BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Abzinsung von Rückstellungen"
+        },
+        {
+          "documentIdentifier" : "BJNR379000009BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Datengrundlage"
+        },
+        {
+          "documentIdentifier" : "BJNR379000009BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Berechnungsgrundlagen und deren Abkürzungen"
+        },
+        {
+          "documentIdentifier" : "BJNR379000009BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Umrechnung von Festzins-Swapsätzen in Null-Kupon-Swapsätze"
+        },
+        {
+          "documentIdentifier" : "BJNR379000009BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Interpolation fehlender Laufzeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR379000009BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Berechnung des Aufschlags"
+        },
+        {
+          "documentIdentifier" : "BJNR379000009BJNE001000123",
+          "paragraph" : "§ 6a",
+          "title" : "Berechnung des Aufschlags bei Rückstellungen für Altersversorgungsverpflichtungen"
+        },
+        {
+          "documentIdentifier" : "BJNR379000009BJNE000801360",
+          "paragraph" : "§ 7",
+          "title" : "Bekanntgabe"
+        },
+        {
+          "documentIdentifier" : "BJNR379000009BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR379000009BJNE001100123",
+          "paragraph" : "§ 8",
+          "title" : "Übergangsvorschrift zum Gesetz zur Umsetzung der Wohnimmobilienkreditrichtlinie und zur Änderung handelsrechtlicher Vorschriften"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

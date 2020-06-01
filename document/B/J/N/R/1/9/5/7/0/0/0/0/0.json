@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR195700000",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR195700000Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR195700000BJNE000101118",
+          "paragraph" : "§ 1",
+          "title" : "Eingliederung"
+        },
+        {
+          "documentIdentifier" : "BJNR195700000BJNE000200305",
+          "paragraph" : "§ 2",
+          "title" : "Übergang von Rechten und Pflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR195700000BJNE000300305",
+          "paragraph" : "§ 3",
+          "title" : "Bezeichnung des Bundesausfuhramtes"
+        },
+        {
+          "documentIdentifier" : "BJNR195700000BJNE000401118",
+          "paragraph" : "§ 4",
+          "title" : "Anpassung von Bezeichnungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

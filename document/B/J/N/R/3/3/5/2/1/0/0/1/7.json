@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR335210017",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR335210017Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR335210017BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR335210017BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Berichtspflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR335210017BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Umgang mit Beschwerden über rechtswidrige Inhalte"
+        },
+        {
+          "documentIdentifier" : "BJNR335210017BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Bußgeldvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR335210017BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Inländischer Zustellungsbevollmächtigter"
+        },
+        {
+          "documentIdentifier" : "BJNR335210017BJNE000600000",
+          "paragraph" : "§ 6",
+          "title" : "Übergangsvorschriften"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

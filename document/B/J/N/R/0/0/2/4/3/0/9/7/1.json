@@ -1,0 +1,659 @@
+{
+  "documentIdentifier" : "BJNR002430971",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR002430971BJNG000101306",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR002430971BJNE001504311",
+          "paragraph" : "§ 1",
+          "title" : "Bundeszentralregister"
+        },
+        {
+          "documentIdentifier" : "BJNR002430971BJNE001604301",
+          "paragraph" : "§ 2",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Registerbehörde"
+    },
+    {
+      "documentIdentifier" : "BJNR002430971BJNG000201306",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR002430971BJNG000301306",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR002430971BJNE001704311",
+              "paragraph" : "§ 3",
+              "title" : "Inhalt des Registers"
+            },
+            {
+              "documentIdentifier" : "BJNR002430971BJNE001801306",
+              "paragraph" : "§ 4",
+              "title" : "Verurteilungen"
+            },
+            {
+              "documentIdentifier" : "BJNR002430971BJNE001906125",
+              "paragraph" : "§ 5",
+              "title" : "Inhalt der Eintragung"
+            },
+            {
+              "documentIdentifier" : "BJNR002430971BJNE002101306",
+              "paragraph" : "§ 6",
+              "title" : "Gesamtstrafe und Einheitsstrafe"
+            },
+            {
+              "documentIdentifier" : "BJNR002430971BJNE002203311",
+              "paragraph" : "§ 7",
+              "title" : "Aussetzung zur Bewährung; Vorbehalt der Entscheidung über die Aussetzung"
+            },
+            {
+              "documentIdentifier" : "BJNR002430971BJNE002301306",
+              "paragraph" : "§ 8",
+              "title" : "Sperre für Fahrerlaubnis"
+            },
+            {
+              "documentIdentifier" : "BJNR002430971BJNE002507311",
+              "paragraph" : "§ 10",
+              "title" : "Entscheidungen von Verwaltungsbehörden und Gerichten"
+            },
+            {
+              "documentIdentifier" : "BJNR002430971BJNE002605125",
+              "paragraph" : "§ 11",
+              "title" : "Schuldunfähigkeit"
+            },
+            {
+              "documentIdentifier" : "BJNR002430971BJNE002805301",
+              "paragraph" : "§ 12",
+              "title" : "Nachträgliche Entscheidungen nach allgemeinem Strafrecht"
+            },
+            {
+              "documentIdentifier" : "BJNR002430971BJNE002907311",
+              "paragraph" : "§ 13",
+              "title" : "Nachträgliche Entscheidungen nach Jugendstrafrecht"
+            },
+            {
+              "documentIdentifier" : "BJNR002430971BJNE003002306",
+              "paragraph" : "§ 14",
+              "title" : "Gnadenerweise und Amnestien"
+            },
+            {
+              "documentIdentifier" : "BJNR002430971BJNE003103308",
+              "paragraph" : "§ 15",
+              "title" : "Eintragung der Vollstreckung und des Freiheitsentzugs"
+            },
+            {
+              "documentIdentifier" : "BJNR002430971BJNE003201306",
+              "paragraph" : "§ 16",
+              "title" : "Wiederaufnahme des Verfahrens"
+            },
+            {
+              "documentIdentifier" : "BJNR002430971BJNE008801306",
+              "paragraph" : "§ 17",
+              "title" : "Sonstige Entscheidungen und gerichtliche Feststellungen"
+            },
+            {
+              "documentIdentifier" : "BJNR002430971BJNE008901306",
+              "paragraph" : "§ 18",
+              "title" : "Straftaten im Zusammenhang mit der Ausübung eines\nGewerbes"
+            },
+            {
+              "documentIdentifier" : "BJNR002430971BJNE003303311",
+              "paragraph" : "§ 19",
+              "title" : "Aufhebung von Entscheidungen"
+            },
+            {
+              "documentIdentifier" : "BJNR002430971BJNE003405125",
+              "paragraph" : "§ 20",
+              "title" : "Mitteilungen, Berichtigungen, Sperrvermerke"
+            },
+            {
+              "documentIdentifier" : "BJNR002430971BJNE009704125",
+              "paragraph" : "§ 20a",
+              "title" : "Änderung von Personendaten"
+            },
+            {
+              "documentIdentifier" : "BJNR002430971BJNE009004125",
+              "paragraph" : "§ 21",
+              "title" : "Automatisiertes Auskunftsverfahren"
+            },
+            {
+              "documentIdentifier" : "BJNR002430971BJNE009905125",
+              "paragraph" : "§ 21a",
+              "title" : "Protokollierungen"
+            },
+            {
+              "documentIdentifier" : "BJNR002430971BJNE003504308",
+              "paragraph" : "§ 22",
+              "title" : "Hinweispflicht der Registerbehörde"
+            },
+            {
+              "documentIdentifier" : "BJNR002430971BJNE009101306",
+              "paragraph" : "§ 23",
+              "title" : "Hinweis auf Gesamtstrafenbildung"
+            },
+            {
+              "documentIdentifier" : "BJNR002430971BJNE003603310",
+              "paragraph" : "§ 24",
+              "title" : "Entfernung von Eintragungen"
+            },
+            {
+              "documentIdentifier" : "BJNR002430971BJNE003706311",
+              "paragraph" : "§ 25",
+              "title" : "Anordnung der Entfernung"
+            },
+            {
+              "documentIdentifier" : "BJNR002430971BJNE003803311",
+              "paragraph" : "§ 26",
+              "title" : "Zu Unrecht entfernte Eintragungen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Inhalt und Führung des Registers"
+        },
+        {
+          "documentIdentifier" : "BJNR002430971BJNG000402310",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR002430971BJNE003906311",
+              "paragraph" : "§ 27",
+              "title" : "Speicherung"
+            },
+            {
+              "documentIdentifier" : "BJNR002430971BJNE004002311",
+              "paragraph" : "§ 28",
+              "title" : "Behandlung"
+            },
+            {
+              "documentIdentifier" : "BJNR002430971BJNE004102311",
+              "paragraph" : "§ 29",
+              "title" : "Erledigung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Suchvermerke"
+        },
+        {
+          "documentIdentifier" : "BJNR002430971BJNG000502308",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              3
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR002430971BJNG000601306",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR002430971BJNE004205311",
+                  "paragraph" : "§ 30",
+                  "title" : "Antrag"
+                },
+                {
+                  "documentIdentifier" : "BJNR002430971BJNE011200311",
+                  "paragraph" : "§ 30a",
+                  "title" : "Antrag auf ein erweitertes Führungszeugnis"
+                },
+                {
+                  "documentIdentifier" : "BJNR002430971BJNE010502311",
+                  "paragraph" : "§ 30b",
+                  "title" : "Europäisches Führungszeugnis"
+                },
+                {
+                  "documentIdentifier" : "BJNR002430971BJNE011102125",
+                  "paragraph" : "§ 30c",
+                  "title" : "Elektronische Antragstellung"
+                },
+                {
+                  "documentIdentifier" : "BJNR002430971BJNE004303311",
+                  "paragraph" : "§ 31",
+                  "title" : "Erteilung des Führungszeugnisses und des erweiterten Führungszeugnisses an Behörden"
+                },
+                {
+                  "documentIdentifier" : "BJNR002430971BJNE004413311",
+                  "paragraph" : "§ 32",
+                  "title" : "Inhalt des Führungszeugnisses"
+                },
+                {
+                  "documentIdentifier" : "BJNR002430971BJNE004502306",
+                  "paragraph" : "§ 33",
+                  "title" : "Nichtaufnahme von Verurteilungen nach Fristablauf"
+                },
+                {
+                  "documentIdentifier" : "BJNR002430971BJNE004712311",
+                  "paragraph" : "§ 34",
+                  "title" : "Länge der Frist"
+                },
+                {
+                  "documentIdentifier" : "BJNR002430971BJNE004802311",
+                  "paragraph" : "§ 35",
+                  "title" : "Gesamtstrafe, Einheitsstrafe und Nebenentscheidungen"
+                },
+                {
+                  "documentIdentifier" : "BJNR002430971BJNE004901306",
+                  "paragraph" : "§ 36",
+                  "title" : "Beginn der Frist"
+                },
+                {
+                  "documentIdentifier" : "BJNR002430971BJNE005003311",
+                  "paragraph" : "§ 37",
+                  "title" : "Ablaufhemmung"
+                },
+                {
+                  "documentIdentifier" : "BJNR002430971BJNE005102306",
+                  "paragraph" : "§ 38",
+                  "title" : "Mehrere Verurteilungen"
+                },
+                {
+                  "documentIdentifier" : "BJNR002430971BJNE005205311",
+                  "paragraph" : "§ 39",
+                  "title" : "Anordnung der Nichtaufnahme"
+                },
+                {
+                  "documentIdentifier" : "BJNR002430971BJNE005303311",
+                  "paragraph" : "§ 40",
+                  "title" : "Nachträgliche Eintragung"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  3,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Führungszeugnis"
+            },
+            {
+              "documentIdentifier" : "BJNR002430971BJNG000702308",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR002430971BJNE005426125",
+                  "paragraph" : "§ 41",
+                  "title" : "Umfang der Auskunft"
+                },
+                {
+                  "documentIdentifier" : "BJNR002430971BJNE005506125",
+                  "paragraph" : "§ 42",
+                  "title" : "Auskunft an die betroffene Person"
+                },
+                {
+                  "documentIdentifier" : "BJNR002430971BJNE010004125",
+                  "paragraph" : "§ 42a",
+                  "title" : "Auskunft für wissenschaftliche Zwecke"
+                },
+                {
+                  "documentIdentifier" : "BJNR002430971BJNE010100310",
+                  "paragraph" : "§ 42b",
+                  "title" : "Auskünfte zur Vorbereitung von Rechtsvorschriften\nund allgemeinen Verwaltungsvorschriften"
+                },
+                {
+                  "documentIdentifier" : "BJNR002430971BJNE005601306",
+                  "paragraph" : "§ 43",
+                  "title" : "Weiterleitung von Auskünften"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  3,
+                  2
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Unbeschränkte Auskunft aus dem Register"
+            },
+            {
+              "documentIdentifier" : "BJNR002430971BJNG000802311",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR002430971BJNE010600308",
+                  "paragraph" : "§ 43a",
+                  "title" : "Verfahrensübergreifende Mitteilungen von Amts wegen"
+                },
+                {
+                  "documentIdentifier" : "BJNR002430971BJNE005702308",
+                  "paragraph" : "§ 44",
+                  "title" : "Vertrauliche Behandlung der Auskünfte"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  3,
+                  3
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Auskünfte an Behörden"
+            },
+            {
+              "documentIdentifier" : "BJNR002430971BJNG001600310",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR002430971BJNE010402311",
+                  "paragraph" : "§ 44a",
+                  "title" : "Versagung der Auskunft"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  3,
+                  4
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Versagung der Auskunft zu Zwecken des Zeugenschutzes"
+            }
+          ],
+          "title" : "Auskunft aus dem Register"
+        },
+        {
+          "documentIdentifier" : "BJNR002430971BJNG000901306",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR002430971BJNE005803311",
+              "paragraph" : "§ 45",
+              "title" : "Tilgung nach Fristablauf"
+            },
+            {
+              "documentIdentifier" : "BJNR002430971BJNE006009311",
+              "paragraph" : "§ 46",
+              "title" : "Länge der Tilgungsfrist"
+            },
+            {
+              "documentIdentifier" : "BJNR002430971BJNE006102310",
+              "paragraph" : "§ 47",
+              "title" : "Feststellung der Frist und Ablaufhemmung"
+            },
+            {
+              "documentIdentifier" : "BJNR002430971BJNE006203311",
+              "paragraph" : "§ 48",
+              "title" : "Anordnung der Tilgung wegen Gesetzesänderung"
+            },
+            {
+              "documentIdentifier" : "BJNR002430971BJNE006304311",
+              "paragraph" : "§ 49",
+              "title" : "Anordnung der Tilgung in besonderen Fällen"
+            },
+            {
+              "documentIdentifier" : "BJNR002430971BJNE006403311",
+              "paragraph" : "§ 50",
+              "title" : "Zu Unrecht getilgte Eintragungen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Tilgung"
+        },
+        {
+          "documentIdentifier" : "BJNR002430971BJNG001001306",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR002430971BJNE006502311",
+              "paragraph" : "§ 51",
+              "title" : "Verwertungsverbot"
+            },
+            {
+              "documentIdentifier" : "BJNR002430971BJNE006606311",
+              "paragraph" : "§ 52",
+              "title" : "Ausnahmen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              5
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Rechtswirkungen der Tilgung"
+        },
+        {
+          "documentIdentifier" : "BJNR002430971BJNG001101306",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR002430971BJNE006702311",
+              "paragraph" : "§ 53",
+              "title" : "Offenbarungspflicht bei Verurteilungen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              6
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Begrenzung von Offenbarungspflichten des Verurteilten"
+        },
+        {
+          "documentIdentifier" : "BJNR002430971BJNG001203308",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR002430971BJNE010700308",
+              "paragraph" : "§ 53a",
+              "title" : "Grenzen der internationalen Zusammenarbeit"
+            },
+            {
+              "documentIdentifier" : "BJNR002430971BJNE006804311",
+              "paragraph" : "§ 54",
+              "title" : "Eintragungen in das Register"
+            },
+            {
+              "documentIdentifier" : "BJNR002430971BJNE009204311",
+              "paragraph" : "§ 55",
+              "title" : "Verfahren bei der Eintragung"
+            },
+            {
+              "documentIdentifier" : "BJNR002430971BJNE009302308",
+              "paragraph" : "§ 56",
+              "title" : "Behandlung von Eintragungen"
+            },
+            {
+              "documentIdentifier" : "BJNR002430971BJNE010801311",
+              "paragraph" : "§ 56a",
+              "title" : "(weggefallen)"
+            },
+            {
+              "documentIdentifier" : "BJNR002430971BJNE010900308",
+              "paragraph" : "§ 56b",
+              "title" : "Speicherung zum Zweck der Auskunftserteilung an Mitgliedstaaten der Europäischen Union"
+            },
+            {
+              "documentIdentifier" : "BJNR002430971BJNE006907125",
+              "paragraph" : "§ 57",
+              "title" : "Auskunft an ausländische sowie über- und zwischenstaatliche Stellen"
+            },
+            {
+              "documentIdentifier" : "BJNR002430971BJNE011000308",
+              "paragraph" : "§ 57a",
+              "title" : "Austausch von Registerinformationen mit Mitgliedstaaten der Europäischen Union"
+            },
+            {
+              "documentIdentifier" : "BJNR002430971BJNE007003311",
+              "paragraph" : "§ 58",
+              "title" : "Berücksichtigung von Verurteilungen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              7
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Internationaler Austausch von Registerinformationen"
+        }
+      ],
+      "title" : "Das Zentralregister"
+    },
+    {
+      "documentIdentifier" : "BJNR002430971BJNG001301306",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR002430971BJNE007102308",
+          "paragraph" : "§ 59",
+          "title" : "Führung des Erziehungsregisters"
+        },
+        {
+          "documentIdentifier" : "BJNR002430971BJNE007211311",
+          "paragraph" : "§ 60",
+          "title" : "Eintragungen in das Erziehungsregister"
+        },
+        {
+          "documentIdentifier" : "BJNR002430971BJNE007309125",
+          "paragraph" : "§ 61",
+          "title" : "Auskunft aus dem Erziehungsregister"
+        },
+        {
+          "documentIdentifier" : "BJNR002430971BJNE007403311",
+          "paragraph" : "§ 62",
+          "title" : "Suchvermerke"
+        },
+        {
+          "documentIdentifier" : "BJNR002430971BJNE007503311",
+          "paragraph" : "§ 63",
+          "title" : "Entfernung von Eintragungen"
+        },
+        {
+          "documentIdentifier" : "BJNR002430971BJNE007703125",
+          "paragraph" : "§ 64",
+          "title" : "Begrenzung von Offenbarungspflichten der betroffenen Person"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Das Erziehungsregister"
+    },
+    {
+      "documentIdentifier" : "BJNR002430971BJNG001500309",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR002430971BJNE009403308",
+          "paragraph" : "§ 64a",
+          "title" : "Strafregister der Deutschen Demokratischen Republik"
+        },
+        {
+          "documentIdentifier" : "BJNR002430971BJNE009512360",
+          "paragraph" : "§ 64b",
+          "title" : "Eintragungen und Eintragungsunterlagen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übernahme des Strafregisters beim Generalstaatsanwalt der Deutschen Demokratischen Republik"
+    },
+    {
+      "documentIdentifier" : "BJNR002430971BJNG001402309",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR002430971BJNE007802311",
+          "paragraph" : "§ 65",
+          "title" : "Übernahme von Eintragungen in das Zentralregister"
+        },
+        {
+          "documentIdentifier" : "BJNR002430971BJNE007901306",
+          "paragraph" : "§ 66",
+          "title" : "Bei Inkrafttreten dieses Gesetzes getilgte oder tilgungsreife\nEintragungen"
+        },
+        {
+          "documentIdentifier" : "BJNR002430971BJNE008101306",
+          "paragraph" : "§ 67",
+          "title" : "Eintragungen in der Erziehungskartei"
+        },
+        {
+          "documentIdentifier" : "BJNR002430971BJNE008501306",
+          "paragraph" : "§ 68",
+          "title" : "Bestimmungen und Bezeichnungen in anderen Vorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR002430971BJNE008610125",
+          "paragraph" : "§ 69",
+          "title" : "Übergangsvorschriften"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übergangs- und Schlußvorschriften"
+    }
+  ]
+}

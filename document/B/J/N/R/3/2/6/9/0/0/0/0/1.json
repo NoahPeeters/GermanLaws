@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR326900001",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR326900001Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR326900001BJNE000100305",
+          "paragraph" : "I.",
+          "title" : "Erlass von Widerspruchsbescheiden"
+        },
+        {
+          "documentIdentifier" : "BJNR326900001BJNE000200305",
+          "paragraph" : "II.",
+          "title" : "Vertretung bei Klagen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

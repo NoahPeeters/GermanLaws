@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR004040986",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR004040986Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR004040986BJNE000200326",
+          "paragraph" : "§ 1",
+          "title" : "Zuständige Stelle"
+        },
+        {
+          "documentIdentifier" : "BJNR004040986BJNE000300326",
+          "paragraph" : "§ 2",
+          "title" : "Fachliche Eignung"
+        },
+        {
+          "documentIdentifier" : "BJNR004040986BJNE000400326",
+          "paragraph" : "§ 3",
+          "title" : "Berlin-Klausel"
+        },
+        {
+          "documentIdentifier" : "BJNR004040986BJNE000500326",
+          "paragraph" : "§ 4",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

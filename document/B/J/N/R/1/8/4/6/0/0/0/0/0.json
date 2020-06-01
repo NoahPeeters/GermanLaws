@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR184600000",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR184600000Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR184600000BJNE000200305",
+          "paragraph" : "§ 1",
+          "title" : "Zweck des Gesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR184600000BJNE000300305",
+          "paragraph" : "§ 2",
+          "title" : "Anspruchsberechtigte, Einkommen"
+        },
+        {
+          "documentIdentifier" : "BJNR184600000BJNE000400305",
+          "paragraph" : "§ 3",
+          "title" : "Höhe des Zuschusses"
+        },
+        {
+          "documentIdentifier" : "BJNR184600000BJNE000500305",
+          "paragraph" : "§ 4",
+          "title" : "Amtsgrundsatz, Antrag"
+        },
+        {
+          "documentIdentifier" : "BJNR184600000BJNE000600305",
+          "paragraph" : "§ 5",
+          "title" : "Kostenerstattung des Bundes"
+        },
+        {
+          "documentIdentifier" : "BJNR184600000BJNE000700305",
+          "paragraph" : "§ 6",
+          "title" : "Entsprechend anzuwendende Vorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR184600000BJNE000800305",
+          "paragraph" : "§ 7",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

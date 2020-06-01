@@ -1,0 +1,1435 @@
+{
+  "documentIdentifier" : "BJNR024480976",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR024480976BJNG000104310",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR024480976BJNE002003310",
+          "paragraph" : "§ 1",
+          "title" : "Zweck des Gesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE002119116",
+          "paragraph" : "§ 2",
+          "title" : "Arzneimittelbegriff"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE002204310",
+          "paragraph" : "§ 3",
+          "title" : "Stoffbegriff"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE002321116",
+          "paragraph" : "§ 4",
+          "title" : "Sonstige Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE019905310",
+          "paragraph" : "§ 4a",
+          "title" : "Ausnahmen vom Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE022703116",
+          "paragraph" : "§ 4b",
+          "title" : "Sondervorschriften für Arzneimittel für neuartige Therapien"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Zweck des Gesetzes und Begriffsbestimmungen, Anwendungsbereich"
+    },
+    {
+      "documentIdentifier" : "BJNR024480976BJNG000203310",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR024480976BJNE002404310",
+          "paragraph" : "§ 5",
+          "title" : "Verbot bedenklicher Arzneimittel"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE002509116",
+          "paragraph" : "§ 6",
+          "title" : "Verbote zum Schutz der Gesundheit, Verordnungsermächtigungen"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE019008116",
+          "paragraph" : "§ 6a",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE002608116",
+          "paragraph" : "§ 7",
+          "title" : "Radioaktive und mit ionisierenden Strahlen behandelte Arzneimittel"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE002706140",
+          "paragraph" : "§ 8",
+          "title" : "Verbote zum Schutz vor Täuschung"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE002806310",
+          "paragraph" : "§ 9",
+          "title" : "Der Verantwortliche für das Inverkehrbringen"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE002938116",
+          "paragraph" : "§ 10",
+          "title" : "Kennzeichnung"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE003118116",
+          "paragraph" : "§ 11",
+          "title" : "Packungsbeilage"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE013115116",
+          "paragraph" : "§ 11a",
+          "title" : "Fachinformation"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE003216116",
+          "paragraph" : "§ 12",
+          "title" : "Ermächtigung für die Kennzeichnung, die Packungsbeilage und die Packungsgrößen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Anforderungen an die Arzneimittel"
+    },
+    {
+      "documentIdentifier" : "BJNR024480976BJNG000303310",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR024480976BJNE003321116",
+          "paragraph" : "§ 13",
+          "title" : "Herstellungserlaubnis"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE003420116",
+          "paragraph" : "§ 14",
+          "title" : "Entscheidung über die Herstellungserlaubnis"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE003520360",
+          "paragraph" : "§ 15",
+          "title" : "Sachkenntnis"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE003606310",
+          "paragraph" : "§ 16",
+          "title" : "Begrenzung der Herstellungserlaubnis"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE003705310",
+          "paragraph" : "§ 17",
+          "title" : "Fristen für die Erteilung"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE003803310",
+          "paragraph" : "§ 18",
+          "title" : "Rücknahme, Widerruf, Ruhen"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE003907310",
+          "paragraph" : "§ 19",
+          "title" : "Verantwortungsbereiche"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE004004310",
+          "paragraph" : "§ 20",
+          "title" : "Anzeigepflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE019104310",
+          "paragraph" : "§ 20a",
+          "title" : "Geltung für Wirkstoffe und andere Stoffe"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE021803116",
+          "paragraph" : "§ 20b",
+          "title" : "Erlaubnis für die Gewinnung von Gewebe und die Laboruntersuchungen"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE021902116",
+          "paragraph" : "§ 20c",
+          "title" : "Erlaubnis für die Be- oder Verarbeitung, Konservierung, Prüfung, Lagerung oder das Inverkehrbringen von Gewebe oder Gewebezubereitungen"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE022801116",
+          "paragraph" : "§ 20d",
+          "title" : "Ausnahme von der Erlaubnispflicht für Gewebe und Gewebezubereitungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Herstellung von Arzneimitteln"
+    },
+    {
+      "documentIdentifier" : "BJNR024480976BJNG000403310",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR024480976BJNE004114140",
+          "paragraph" : "§ 21",
+          "title" : "Zulassungspflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE022005116",
+          "paragraph" : "§ 21a",
+          "title" : "Genehmigung von Gewebezubereitungen"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE004211140",
+          "paragraph" : "§ 22",
+          "title" : "Zulassungsunterlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE004410360",
+          "paragraph" : "§ 23",
+          "title" : "Besondere Unterlagen bei Arzneimitteln für Tiere"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE004608360",
+          "paragraph" : "§ 24",
+          "title" : "Sachverständigengutachten"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE013208310",
+          "paragraph" : "§ 24a",
+          "title" : "Verwendung von Unterlagen eines Vorantragstellers"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE021003360",
+          "paragraph" : "§ 24b",
+          "title" : "Zulassung eines Generikums, Unterlagenschutz"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE013305310",
+          "paragraph" : "§ 24c",
+          "title" : "Nachforderungen"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE014106310",
+          "paragraph" : "§ 24d",
+          "title" : "Allgemeine Verwertungsbefugnis"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE004817116",
+          "paragraph" : "§ 25",
+          "title" : "Entscheidung über die Zulassung"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE014205140",
+          "paragraph" : "§ 25a",
+          "title" : "Vorprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE021103140",
+          "paragraph" : "§ 25b",
+          "title" : "Verfahren der gegenseitigen Anerkennung und dezentralisiertes Verfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE022901140",
+          "paragraph" : "§ 25c",
+          "title" : "Maßnahmen der zuständigen Bundesoberbehörde zu Entscheidungen oder Beschlüssen der Europäischen Gemeinschaft oder der Europäischen Union"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE005017116",
+          "paragraph" : "§ 26",
+          "title" : "Arzneimittelprüfrichtlinien"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE005106310",
+          "paragraph" : "§ 27",
+          "title" : "Fristen für die Erteilung"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE005313116",
+          "paragraph" : "§ 28",
+          "title" : "Auflagenbefugnis"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE005418360",
+          "paragraph" : "§ 29",
+          "title" : "Anzeigepflicht, Neuzulassung"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE005610140",
+          "paragraph" : "§ 30",
+          "title" : "Rücknahme, Widerruf, Ruhen"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE005811140",
+          "paragraph" : "§ 31",
+          "title" : "Erlöschen, Verlängerung"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE005909116",
+          "paragraph" : "§ 32",
+          "title" : "Staatliche Chargenprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE006025116",
+          "paragraph" : "§ 33",
+          "title" : "Gebühren und Auslagen"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE006109116",
+          "paragraph" : "§ 34",
+          "title" : "Information der Öffentlichkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE006210116",
+          "paragraph" : "§ 35",
+          "title" : "Ermächtigungen zur Zulassung und Freistellung"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE006314116",
+          "paragraph" : "§ 36",
+          "title" : "Ermächtigung für Standardzulassungen"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE006411116",
+          "paragraph" : "§ 37",
+          "title" : "Genehmigung der Europäischen Gemeinschaft oder der Europäischen Union für das Inverkehrbringen, Zulassungen von Arzneimitteln aus anderen Staaten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Zulassung der Arzneimittel"
+    },
+    {
+      "documentIdentifier" : "BJNR024480976BJNG000504310",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR024480976BJNE006509140",
+          "paragraph" : "§ 38",
+          "title" : "Registrierung homöopathischer Arzneimittel"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE006622116",
+          "paragraph" : "§ 39",
+          "title" : "Entscheidung über die Registrierung homöopathischer Arzneimittel, Verfahrensvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE021201310",
+          "paragraph" : "§ 39a",
+          "title" : "Registrierung traditioneller pflanzlicher Arzneimittel"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE021303140",
+          "paragraph" : "§ 39b",
+          "title" : "Registrierungsunterlagen für traditionelle pflanzliche Arzneimittel"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE021402140",
+          "paragraph" : "§ 39c",
+          "title" : "Entscheidung über die Registrierung traditioneller pflanzlicher Arzneimittel"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE021508301",
+          "paragraph" : "§ 39d",
+          "title" : "Sonstige Verfahrensvorschriften für traditionelle pflanzliche Arzneimittel"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Registrierung von Arzneimitteln"
+    },
+    {
+      "documentIdentifier" : "BJNR024480976BJNG000605310",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR024480976BJNE006717116",
+          "paragraph" : "§ 40",
+          "title" : "Allgemeine Voraussetzungen der klinischen Prüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE006806310",
+          "paragraph" : "§ 41",
+          "title" : "Besondere Voraussetzungen der klinischen Prüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE025900116",
+          "paragraph" : "§ 41a",
+          "title" : "Registrierungsverfahren für Ethik-Kommissionen"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE026000116",
+          "paragraph" : "§ 41b",
+          "title" : "Verfahrensordnung und Geschäftsverteilungsplan"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE026100116",
+          "paragraph" : "§ 41c",
+          "title" : "Verordnungsermächtigung"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE006912116",
+          "paragraph" : "§ 42",
+          "title" : "Verfahren bei der Ethik-Kommission, Genehmigungsverfahren bei der Bundesoberbehörde"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE020204140",
+          "paragraph" : "§ 42a",
+          "title" : "Rücknahme, Widerruf und Ruhen der Genehmigung oder der zustimmenden Bewertung"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE023205116",
+          "paragraph" : "§ 42b",
+          "title" : "Veröffentlichung der Ergebnisse klinischer Prüfungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schutz des Menschen bei der klinischen Prüfung"
+    },
+    {
+      "documentIdentifier" : "BJNR024480976BJNG000705310",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR024480976BJNE007010360",
+          "paragraph" : "§ 43",
+          "title" : "Apothekenpflicht, Inverkehrbringen durch Tierärzte"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE007107310",
+          "paragraph" : "§ 44",
+          "title" : "Ausnahme von der Apothekenpflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE007210116",
+          "paragraph" : "§ 45",
+          "title" : "Ermächtigung zu weiteren Ausnahmen von der Apothekenpflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE007308116",
+          "paragraph" : "§ 46",
+          "title" : "Ermächtigung zur Ausweitung der Apothekenpflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE007419116",
+          "paragraph" : "§ 47",
+          "title" : "Vertriebsweg"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE019501310",
+          "paragraph" : "§ 47a",
+          "title" : "Sondervertriebsweg, Nachweispflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE022700360",
+          "paragraph" : "§ 47b",
+          "title" : "Sondervertriebsweg Diamorphin"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE007518116",
+          "paragraph" : "§ 48",
+          "title" : "Verschreibungspflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE007812116",
+          "paragraph" : "§ 50",
+          "title" : "Einzelhandel mit freiverkäuflichen Arzneimitteln"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE007904310",
+          "paragraph" : "§ 51",
+          "title" : "Abgabe im Reisegewerbe"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE008006310",
+          "paragraph" : "§ 52",
+          "title" : "Verbot der Selbstbedienung"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE020305116",
+          "paragraph" : "§ 52a",
+          "title" : "Großhandel mit Arzneimitteln"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE023004116",
+          "paragraph" : "§ 52b",
+          "title" : "Bereitstellung von Arzneimitteln"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE023800140",
+          "paragraph" : "§ 52c",
+          "title" : "Arzneimittelvermittlung"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE008109116",
+          "paragraph" : "§ 53",
+          "title" : "Anhörung von Sachverständigen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Abgabe von Arzneimitteln"
+    },
+    {
+      "documentIdentifier" : "BJNR024480976BJNG000805310",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR024480976BJNE008216116",
+          "paragraph" : "§ 54",
+          "title" : "Betriebsverordnungen"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE008311116",
+          "paragraph" : "§ 55",
+          "title" : "Arzneibuch"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE014503310",
+          "paragraph" : "§ 55a",
+          "title" : "Amtliche Sammlung von Untersuchungsverfahren"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          8
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Sicherung und Kontrolle der Qualität"
+    },
+    {
+      "documentIdentifier" : "BJNR024480976BJNG000905310",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR024480976BJNE008411116",
+          "paragraph" : "§ 56",
+          "title" : "Fütterungsarzneimittel"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE008517116",
+          "paragraph" : "§ 56a",
+          "title" : "Verschreibung, Abgabe und Anwendung von Arzneimitteln durch Tierärzte"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE020003116",
+          "paragraph" : "§ 56b",
+          "title" : "Ausnahmen"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE008614116",
+          "paragraph" : "§ 57",
+          "title" : "Erwerb und Besitz durch Tierhalter, Nachweise"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE023400360",
+          "paragraph" : "§ 57a",
+          "title" : "Anwendung durch Tierhalter"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE008711116",
+          "paragraph" : "§ 58",
+          "title" : "Anwendung bei Tieren, die der Gewinnung von Lebensmitteln dienen"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE024801116",
+          "paragraph" : "§ 58a",
+          "title" : "Mitteilungen über Tierhaltungen"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE024900116",
+          "paragraph" : "§ 58b",
+          "title" : "Mitteilungen über Arzneimittelverwendung"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE025001116",
+          "paragraph" : "§ 58c",
+          "title" : "Ermittlung der Therapiehäufigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE025100116",
+          "paragraph" : "§ 58d",
+          "title" : "Verringerung der Behandlung mit antibakteriell wirksamen Stoffen"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE025201116",
+          "paragraph" : "§ 58e",
+          "title" : "Verordnungsermächtigungen"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE025302116",
+          "paragraph" : "§ 58f",
+          "title" : "Verwendung von Daten"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE025401116",
+          "paragraph" : "§ 58g",
+          "title" : "Evaluierung"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE008806360",
+          "paragraph" : "§ 59",
+          "title" : "Klinische Prüfung und Rückstandsprüfung bei Tieren, die der Lebensmittelgewinnung dienen"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE008906310",
+          "paragraph" : "§ 59a",
+          "title" : "Verkehr mit Stoffen und Zubereitungen aus Stoffen"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE014304310",
+          "paragraph" : "§ 59b",
+          "title" : "Stoffe zur Durchführung von Rückstandskontrollen"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE018602310",
+          "paragraph" : "§ 59c",
+          "title" : "Nachweispflichten für Stoffe, die als Tierarzneimittel\nverwendet werden können"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE023507116",
+          "paragraph" : "§ 59d",
+          "title" : "Verabreichung pharmakologisch wirksamer Stoffe an Tiere, die der Lebensmittelgewinnung dienen"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE009009116",
+          "paragraph" : "§ 60",
+          "title" : "Heimtiere"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE009103310",
+          "paragraph" : "§ 61",
+          "title" : "Befugnisse tierärztlicher Bildungsstätten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          9
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Sondervorschriften für Arzneimittel, die bei Tieren angewendet werden"
+    },
+    {
+      "documentIdentifier" : "BJNR024480976BJNG001007116",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR024480976BJNE009211116",
+          "paragraph" : "§ 62",
+          "title" : "Organisation"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE009305310",
+          "paragraph" : "§ 63",
+          "title" : "Stufenplan"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE013907310",
+          "paragraph" : "§ 63a",
+          "title" : "Stufenplanbeauftragter"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE020506140",
+          "paragraph" : "§ 63b",
+          "title" : "Allgemeine Pharmakovigilanz-Pflichten des Inhabers der Zulassung"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE022102140",
+          "paragraph" : "§ 63c",
+          "title" : "Dokumentations- und Meldepflichten des Inhabers der Zulassung für Arzneimittel, die zur Anwendung bei Menschen bestimmt sind, für Verdachtsfälle von Nebenwirkungen"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE023901140",
+          "paragraph" : "§ 63d",
+          "title" : "Regelmäßige aktualisierte Unbedenklichkeitsberichte"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE024000140",
+          "paragraph" : "§ 63e",
+          "title" : "Europäisches Verfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE024102116",
+          "paragraph" : "§ 63f",
+          "title" : "Allgemeine Voraussetzungen für nichtinterventionelle Unbedenklichkeitsprüfungen"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE024200140",
+          "paragraph" : "§ 63g",
+          "title" : "Besondere Voraussetzungen für angeordnete nichtinterventionelle Unbedenklichkeitsprüfungen"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE024300140",
+          "paragraph" : "§ 63h",
+          "title" : "Dokumentations- und Meldepflichten für Arzneimittel, die zur Anwendung bei Tieren bestimmt sind"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE024402116",
+          "paragraph" : "§ 63i",
+          "title" : "Dokumentations- und Meldepflichten bei Blut- und Gewebezubereitungen und Gewebe"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE027200116",
+          "paragraph" : "§ 63j",
+          "title" : "(zukünftig in Kraft)"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE024502116",
+          "paragraph" : "§ 63k",
+          "title" : "Ausnahmen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          10
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Beobachtung, Sammlung und Auswertung von Arzneimittelrisiken"
+    },
+    {
+      "documentIdentifier" : "BJNR024480976BJNG001105310",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR024480976BJNE009424116",
+          "paragraph" : "§ 64",
+          "title" : "Durchführung der Überwachung"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE009508310",
+          "paragraph" : "§ 65",
+          "title" : "Probenahme"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE009608140",
+          "paragraph" : "§ 66",
+          "title" : "Duldungs- und Mitwirkungspflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE009722116",
+          "paragraph" : "§ 67",
+          "title" : "Allgemeine Anzeigepflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE019211116",
+          "paragraph" : "§ 67a",
+          "title" : "Datenbankgestütztes Informationssystem"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE025600116",
+          "paragraph" : "§ 67b",
+          "title" : "EU-Kompendium der Gewebeeinrichtungen, EU-Kompendium der Gewebe- und Zellprodukte, Unterrichtungspflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE009813116",
+          "paragraph" : "§ 68",
+          "title" : "Mitteilungs- und Unterrichtungspflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE009912116",
+          "paragraph" : "§ 69",
+          "title" : "Maßnahmen der zuständigen Behörden"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE018703360",
+          "paragraph" : "§ 69a",
+          "title" : "Überwachung von Stoffen, die als Tierarzneimittel verwendet werden können"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE020802116",
+          "paragraph" : "§ 69b",
+          "title" : "Verwendung bestimmter Daten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          11
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Überwachung"
+    },
+    {
+      "documentIdentifier" : "BJNR024480976BJNG001206310",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR024480976BJNE010005310",
+          "paragraph" : "§ 70",
+          "title" : "Anwendung und Vollzug des Gesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE010111116",
+          "paragraph" : "§ 71",
+          "title" : "Ausnahmen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          12
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Sondervorschriften für Bundeswehr, Bundespolizei, Bereitschaftspolizei, Zivilschutz"
+    },
+    {
+      "documentIdentifier" : "BJNR024480976BJNG001306310",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR024480976BJNE010213116",
+          "paragraph" : "§ 72",
+          "title" : "Einfuhrerlaubnis"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE014019116",
+          "paragraph" : "§ 72a",
+          "title" : "Zertifikate"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE022203116",
+          "paragraph" : "§ 72b",
+          "title" : "Einfuhrerlaubnis und Zertifikate für Gewebe und bestimmte Gewebezubereitungen"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE025700116",
+          "paragraph" : "§ 72c",
+          "title" : "Einmalige Einfuhr von Gewebe oder Gewebezubereitungen"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE010321360",
+          "paragraph" : "§ 73",
+          "title" : "Verbringungsverbot"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE014408116",
+          "paragraph" : "§ 73a",
+          "title" : "Ausfuhr"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE010411116",
+          "paragraph" : "§ 74",
+          "title" : "Mitwirkung von Zolldienststellen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          13
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Einfuhr und Ausfuhr"
+    },
+    {
+      "documentIdentifier" : "BJNR024480976BJNG001406310",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR024480976BJNE014606140",
+          "paragraph" : "§ 74a",
+          "title" : "Informationsbeauftragter"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE010509310",
+          "paragraph" : "§ 75",
+          "title" : "Sachkenntnis"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE010606116",
+          "paragraph" : "§ 76",
+          "title" : "Pflichten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          14
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Informationsbeauftragter, Pharmaberater"
+    },
+    {
+      "documentIdentifier" : "BJNR024480976BJNG001505310",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR024480976BJNE010711116",
+          "paragraph" : "§ 77",
+          "title" : "Zuständige Bundesoberbehörde"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE021602116",
+          "paragraph" : "§ 77a",
+          "title" : "Unabhängigkeit und Transparenz"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE010817116",
+          "paragraph" : "§ 78",
+          "title" : "Preise"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE010912116",
+          "paragraph" : "§ 79",
+          "title" : "Ausnahmeermächtigungen für Krisenzeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE011015116",
+          "paragraph" : "§ 80",
+          "title" : "Ermächtigung für Verfahrens- und Härtefallregelungen"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE011104116",
+          "paragraph" : "§ 81",
+          "title" : "Verhältnis zu anderen Gesetzen"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE011206116",
+          "paragraph" : "§ 82",
+          "title" : "Allgemeine Verwaltungsvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE011306140",
+          "paragraph" : "§ 83",
+          "title" : "Angleichung an das Recht der Europäischen Union"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE023602116",
+          "paragraph" : "§ 83a",
+          "title" : "Rechtsverordnungen in bestimmten Fällen"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE023601116",
+          "paragraph" : "§ 83b",
+          "title" : "Verkündung von Rechtsverordnungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          15
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Bestimmung der zuständigen Bundesoberbehörden und sonstige Bestimmungen"
+    },
+    {
+      "documentIdentifier" : "BJNR024480976BJNG001605310",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR024480976BJNE011405310",
+          "paragraph" : "§ 84",
+          "title" : "Gefährdungshaftung"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE019702310",
+          "paragraph" : "§ 84a",
+          "title" : "Auskunftsanspruch"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE011503310",
+          "paragraph" : "§ 85",
+          "title" : "Mitverschulden"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE011604116",
+          "paragraph" : "§ 86",
+          "title" : "Umfang der Ersatzpflicht bei Tötung"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE011704310",
+          "paragraph" : "§ 87",
+          "title" : "Umfang der Ersatzpflicht bei Körperverletzung"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE011805310",
+          "paragraph" : "§ 88",
+          "title" : "Höchstbeträge"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE011904310",
+          "paragraph" : "§ 89",
+          "title" : "Schadensersatz durch Geldrenten"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE012103310",
+          "paragraph" : "§ 91",
+          "title" : "Weitergehende Haftung"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE012203310",
+          "paragraph" : "§ 92",
+          "title" : "Unabdingbarkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE012303310",
+          "paragraph" : "§ 93",
+          "title" : "Mehrere Ersatzpflichtige"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE012407140",
+          "paragraph" : "§ 94",
+          "title" : "Deckungsvorsorge"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE012504310",
+          "paragraph" : "§ 94a",
+          "title" : "Örtliche Zuständigkeit"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          16
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Haftung für Arzneimittelschäden"
+    },
+    {
+      "documentIdentifier" : "BJNR024480976BJNG001705310",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR024480976BJNE012619116",
+          "paragraph" : "§ 95",
+          "title" : "Strafvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE012726116",
+          "paragraph" : "§ 96",
+          "title" : "Strafvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE012834116",
+          "paragraph" : "§ 97",
+          "title" : "Bußgeldvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNE012903310",
+          "paragraph" : "§ 98",
+          "title" : "Einziehung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          17
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Straf- und Bußgeldvorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR024480976BJNG002003310",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          18
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR024480976BJNG002103310",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR024480976BJNE014703310",
+              "paragraph" : "§ 99",
+              "title" : "Arzneimittelgesetz 1961"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              18,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Überleitungsvorschriften aus Anlass des Gesetzes zur Neuordnung des Arzneimittelrechts"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNG002203310",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              18,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Übergangsvorschriften aus Anlass des Ersten Gesetzes zur Änderung des Arzneimittelgesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNG002303310",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              18,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Übergangsvorschriften aus Anlass des Zweiten Gesetzes zur Änderung des Arzneimittelgesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNG002403310",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              18,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Übergangsvorschriften aus Anlass des Fünften Gesetzes zur Änderung des Arzneimittelgesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNG002502310",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              18,
+              5
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Übergangsvorschrift aus Anlass des Siebten Gesetzes zur Änderung des Arzneimittelgesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNG002602310",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              18,
+              6
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Übergangsvorschriften aus Anlass des Transfusionsgesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNG002702310",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              18,
+              7
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Übergangsvorschriften aus Anlass des Achten Gesetzes zur Änderung des Arzneimittelgesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNG002801310",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              18,
+              8
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Übergangsvorschriften aus Anlass des Zehnten Gesetzes zur Änderung des Arzneimittelgesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNG002901310",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              18,
+              9
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Übergangsvorschriften aus Anlass des Elften Gesetzes zur Änderung des Arzneimittelgesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNG003001310",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              18,
+              10
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Übergangsvorschriften aus Anlass des Zwölften Gesetzes zur Änderung des Arzneimittelgesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNG003101310",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              18,
+              11
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Übergangsvorschriften aus Anlass des Ersten Gesetzes zur Änderung des Transfusionsgesetzes und arzneimittelrechtlicher Vorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNG003201310",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              18,
+              12
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Übergangsvorschriften aus Anlass des Dreizehnten Gesetzes zur Änderung des Arzneimittelgesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNG003301310",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              18,
+              13
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Übergangsvorschriften aus Anlass des Vierzehnten Gesetzes zur Änderung des Arzneimittelgesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNG003400310",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR024480976BJNE022300310",
+              "paragraph" : "§ 142",
+              "title" : "Übergangsvorschriften aus Anlass des Gewebegesetzes"
+            },
+            {
+              "documentIdentifier" : "BJNR024480976BJNE025801116",
+              "paragraph" : "§ 142a",
+              "title" : "Übergangs- und Bestandsschutzvorschrift aus Anlass des Gesetzes zur Umsetzung der Richtlinien (EU) 2015\/566 und (EU) 2015\/565 zur Einfuhr und zur Kodierung menschlicher Gewebe und Gewebezubereitungen"
+            },
+            {
+              "documentIdentifier" : "BJNR024480976BJNE026900116",
+              "paragraph" : "§ 142b",
+              "title" : "Übergangsvorschrift aus Anlass des Gesetzes zur Fortschreibung der Vorschriften für Blut- und Gewebezubereitungen und zur Änderung anderer Vorschriften"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              18,
+              14
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Vierzehnter Unterabschnitt"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNG003500377",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR024480976BJNE022402116",
+              "paragraph" : "§ 143",
+              "title" : "(weggefallen)"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              18,
+              15
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Fünfzehnter Unterabschnitt"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNG003600310",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              18,
+              16
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Übergangsvorschriften aus Anlass des Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNG003700360",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR024480976BJNE023300360",
+              "paragraph" : "§ 145",
+              "title" : "Übergangsvorschriften aus Anlass des Gesetzes zur Neuordnung des Arzneimittelmarktes"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              18,
+              17
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Siebzehnter Unterabschnitt"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNG003800140",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR024480976BJNE023702116",
+              "paragraph" : "§ 146",
+              "title" : "Übergangsvorschriften aus Anlass des Zweiten Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              18,
+              18
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Übergangsvorschrift"
+        },
+        {
+          "documentIdentifier" : "BJNR024480976BJNG003900116",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR024480976BJNE024700116",
+              "paragraph" : "§ 147",
+              "title" : "Übergangsvorschrift aus Anlass des Dritten Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften"
+            },
+            {
+              "documentIdentifier" : "BJNR024480976BJNE027100116",
+              "paragraph" : "Anlage",
+              "title" : "(zu § 6)"
+            },
+            {
+              "documentIdentifier" : "BJNR024480976BJNE022504116",
+              "paragraph" : "Anhang",
+              "title" : "(weggefallen)"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              18,
+              19
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Übergangsvorschrift"
+        }
+      ],
+      "title" : "Überleitungs- und Übergangsvorschriften"
+    }
+  ]
+}

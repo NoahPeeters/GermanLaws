@@ -1,0 +1,64 @@
+{
+  "documentIdentifier" : "BJNR103800012",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR103800012Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR103800012BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR103800012BJNE000301305",
+          "paragraph" : "§ 2",
+          "title" : "Zuständige Behörden"
+        },
+        {
+          "documentIdentifier" : "BJNR103800012BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Antragstellung"
+        },
+        {
+          "documentIdentifier" : "BJNR103800012BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Anhörungsverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR103800012BJNE000601305",
+          "paragraph" : "§ 5",
+          "title" : "Pflichten des Unternehmers und des Fahrzeugführers oder der Fahrzeugführerin"
+        },
+        {
+          "documentIdentifier" : "BJNR103800012BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Aufsicht, Amtshilfe gegenüber ausländischen Behörden"
+        },
+        {
+          "documentIdentifier" : "BJNR103800012BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Maßnahmen der Kontrolle"
+        },
+        {
+          "documentIdentifier" : "BJNR103800012BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR103800012BJNE001000000",
+          "paragraph" : "§ 9",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

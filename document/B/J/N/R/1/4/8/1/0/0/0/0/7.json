@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR148100007",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR148100007Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR148100007BJNE000202311",
+          "paragraph" : "§ 1",
+          "title" : "Gleichstellung von Prüfungszeugnissen"
+        },
+        {
+          "documentIdentifier" : "BJNR148100007BJNE000301311",
+          "paragraph" : "§ 2",
+          "title" : "Fortgeltung von Gleichstellungen"
+        },
+        {
+          "documentIdentifier" : "BJNR148100007BJNE000402311",
+          "paragraph" : "§ 3",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

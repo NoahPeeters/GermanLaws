@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR006900012",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR006900012Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR006900012BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Bericht der Übertragungsnetzbetreiber"
+        },
+        {
+          "documentIdentifier" : "BJNR006900012BJNE000301118",
+          "paragraph" : "§ 2",
+          "title" : "Festlegung europäisch kritischer Anlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR006900012BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Sicherheitsbeauftragte"
+        },
+        {
+          "documentIdentifier" : "BJNR006900012BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Sicherheitspläne"
+        },
+        {
+          "documentIdentifier" : "BJNR006900012BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Bestätigung des Sicherheitsplans und Beanstandungen"
+        },
+        {
+          "documentIdentifier" : "BJNR006900012BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Einstufung als Verschlusssache"
+        },
+        {
+          "documentIdentifier" : "BJNR006900012BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

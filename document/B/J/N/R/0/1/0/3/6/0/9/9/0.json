@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR010360990",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR010360990Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR010360990BJNE000200328",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR010360990BJNE000301116",
+          "paragraph" : "§ 2",
+          "title" : "Immissionsgrenzwerte"
+        },
+        {
+          "documentIdentifier" : "BJNR010360990BJNE000401116",
+          "paragraph" : "§ 3",
+          "title" : "Berechnung des Beurteilungspegels für Straßen"
+        },
+        {
+          "documentIdentifier" : "BJNR010360990BJNE000502116",
+          "paragraph" : "§ 4",
+          "title" : "Berechnung des Beurteilungspegels für Schienenwege"
+        },
+        {
+          "documentIdentifier" : "BJNR010360990BJNE000601116",
+          "paragraph" : "§ 5",
+          "title" : "Festlegung akustischer Kennwerte für abweichende Bahntechnik und schalltechnische Innovationen"
+        },
+        {
+          "documentIdentifier" : "BJNR010360990BJNE000801116",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 3) "
+        },
+        {
+          "documentIdentifier" : "BJNR010360990BJNE000901116",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 4) "
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

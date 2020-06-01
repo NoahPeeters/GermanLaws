@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR007420956",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR007420956Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR007420956BJNE000200306",
+          "paragraph" : "§ 1",
+          "title" : "Selbständige Anmeldung"
+        },
+        {
+          "documentIdentifier" : "BJNR007420956BJNE000300306",
+          "paragraph" : "§ 2",
+          "title" : "Vorlage und Hinterlegung"
+        },
+        {
+          "documentIdentifier" : "BJNR007420956BJNE000400306",
+          "paragraph" : "§ 3",
+          "title" : "Zinsscheine von Dollarbonds"
+        },
+        {
+          "documentIdentifier" : "BJNR007420956BJNE000500306",
+          "paragraph" : "§ 4",
+          "title" : "Land Berlin"
+        },
+        {
+          "documentIdentifier" : "BJNR007420956BJNE000600306",
+          "paragraph" : "§ 5",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

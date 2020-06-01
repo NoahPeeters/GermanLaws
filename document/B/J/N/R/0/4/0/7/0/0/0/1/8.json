@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR040700018",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR040700018Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR040700018BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Vollzug der Umsatzsteuerverteilung und des Finanzausgleichs im Ausgleichsjahr 2018"
+        },
+        {
+          "documentIdentifier" : "BJNR040700018BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

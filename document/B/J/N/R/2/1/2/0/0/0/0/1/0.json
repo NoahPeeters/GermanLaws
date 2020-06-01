@@ -1,0 +1,79 @@
+{
+  "documentIdentifier" : "BJNR212000010",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR212000010Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR212000010BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Gegenstand der Zertifizierung"
+        },
+        {
+          "documentIdentifier" : "BJNR212000010BJNE000301116",
+          "paragraph" : "§ 2",
+          "title" : "Antrag"
+        },
+        {
+          "documentIdentifier" : "BJNR212000010BJNE000401116",
+          "paragraph" : "§ 3",
+          "title" : "Änderungszertifizierung"
+        },
+        {
+          "documentIdentifier" : "BJNR212000010BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Anzeige unwesentlicher Änderungen nach § 15a Absatz 3 Satz 4 des BDBOS-Gesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR212000010BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Anforderungen und Prüfkriterien; BOS-IOP-Richtlinien"
+        },
+        {
+          "documentIdentifier" : "BJNR212000010BJNE000701116",
+          "paragraph" : "§ 6",
+          "title" : "Veröffentlichung nicht allgemein zugänglicher Informationen"
+        },
+        {
+          "documentIdentifier" : "BJNR212000010BJNE000801116",
+          "paragraph" : "§ 7",
+          "title" : "Überprüfung der Endgeräte"
+        },
+        {
+          "documentIdentifier" : "BJNR212000010BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Mitwirkungspflichten des Antragstellers"
+        },
+        {
+          "documentIdentifier" : "BJNR212000010BJNE001001116",
+          "paragraph" : "§ 9",
+          "title" : "Zertifikat"
+        },
+        {
+          "documentIdentifier" : "BJNR212000010BJNE001100000",
+          "paragraph" : "§ 10",
+          "title" : "Rückgabe von Einzelstücken"
+        },
+        {
+          "documentIdentifier" : "BJNR212000010BJNE001200000",
+          "paragraph" : "§ 11",
+          "title" : "Übergangsregelung"
+        },
+        {
+          "documentIdentifier" : "BJNR212000010BJNE001300000",
+          "paragraph" : "§ 12",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR038700009",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR038700009Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR038700009BJNE000100000",
+          "paragraph" : "I.",
+          "title" : "Erlass von Widerspruchsbescheiden"
+        },
+        {
+          "documentIdentifier" : "BJNR038700009BJNE000200000",
+          "paragraph" : "II.",
+          "title" : "Vertretung bei Klagen aus dem Beamtenverhältnis"
+        },
+        {
+          "documentIdentifier" : "BJNR038700009BJNE000300000",
+          "paragraph" : "III.",
+          "title" : "Bürgerlichrechtliche, arbeits- und sozialrechtliche Angelegenheiten"
+        },
+        {
+          "documentIdentifier" : "BJNR038700009BJNE000400000",
+          "paragraph" : "IV.",
+          "title" : "Vorbehaltsklausel"
+        },
+        {
+          "documentIdentifier" : "BJNR038700009BJNE000500000",
+          "paragraph" : "V.",
+          "title" : "Schlussvorschriften"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

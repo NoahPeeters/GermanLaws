@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR224400018",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR224400018Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR224400018BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Steuersätze 2019"
+        },
+        {
+          "documentIdentifier" : "BJNR224400018BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

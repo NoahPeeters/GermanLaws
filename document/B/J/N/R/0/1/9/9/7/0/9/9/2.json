@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR019970992",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR019970992Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR019970992BJNE000201308",
+          "paragraph" : "§ 1",
+          "title" : "Grundsatz"
+        },
+        {
+          "documentIdentifier" : "BJNR019970992BJNE000301308",
+          "paragraph" : "§ 2",
+          "title" : "Aufteilung der Ausgaben für Leistungen zur\nTeilhabe"
+        },
+        {
+          "documentIdentifier" : "BJNR019970992BJNE000400307",
+          "paragraph" : "§ 3",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

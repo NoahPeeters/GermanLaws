@@ -1,0 +1,74 @@
+{
+  "documentIdentifier" : "BJNR147200003",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR147200003Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR147200003BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR147200003BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Allgemeine Anforderungen an die Bescheinigung"
+        },
+        {
+          "documentIdentifier" : "BJNR147200003BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Bescheinigung und Dokumentation von Qualifizierungsbausteinen"
+        },
+        {
+          "documentIdentifier" : "BJNR147200003BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Bestätigung des Qualifizierungsbildes"
+        },
+        {
+          "documentIdentifier" : "BJNR147200003BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Ermittlung der Befähigung"
+        },
+        {
+          "documentIdentifier" : "BJNR147200003BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Leistungsbewertung"
+        },
+        {
+          "documentIdentifier" : "BJNR147200003BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Zeugnis und Teilnahmebescheinigung"
+        },
+        {
+          "documentIdentifier" : "BJNR147200003BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR147200003BJNE001000000",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 3 Abs. 2)"
+        },
+        {
+          "documentIdentifier" : "BJNR147200003BJNE001100000",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 7 Abs. 1)"
+        },
+        {
+          "documentIdentifier" : "BJNR147200003BJNE001200000",
+          "paragraph" : "Anlage 3",
+          "title" : "(zu § 7 Abs. 2)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

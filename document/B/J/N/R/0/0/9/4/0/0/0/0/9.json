@@ -1,0 +1,74 @@
+{
+  "documentIdentifier" : "BJNR009400009",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR009400009Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR009400009BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Geltungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR009400009BJNE000301305",
+          "paragraph" : "§ 2",
+          "title" : "Grundausbildung"
+        },
+        {
+          "documentIdentifier" : "BJNR009400009BJNE000401305",
+          "paragraph" : "§ 3",
+          "title" : "Ausbildungsrahmenplan"
+        },
+        {
+          "documentIdentifier" : "BJNR009400009BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Zulassung der Bewerber"
+        },
+        {
+          "documentIdentifier" : "BJNR009400009BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Durchführung der Grundausbildung"
+        },
+        {
+          "documentIdentifier" : "BJNR009400009BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Prüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR009400009BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Prüfungsverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR009400009BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Befugnisse der Aufsichtsbehörden"
+        },
+        {
+          "documentIdentifier" : "BJNR009400009BJNE001000000",
+          "paragraph" : "§ 9",
+          "title" : "Zulassung zum Seelotsenanwärter"
+        },
+        {
+          "documentIdentifier" : "BJNR009400009BJNE001101305",
+          "paragraph" : "§ 10",
+          "title" : "Kosten der Grundausbildung"
+        },
+        {
+          "documentIdentifier" : "BJNR009400009BJNE001200000",
+          "paragraph" : "§ 11",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

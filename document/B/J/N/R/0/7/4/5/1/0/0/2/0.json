@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR074510020",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR074510020Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR074510020BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR074510020BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Einführung der elektronischen Akte"
+        },
+        {
+          "documentIdentifier" : "BJNR074510020BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Struktur und Format der elektronischen Akten; Repräsentat"
+        },
+        {
+          "documentIdentifier" : "BJNR074510020BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Bearbeitung der elektronischen Akte"
+        },
+        {
+          "documentIdentifier" : "BJNR074510020BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Barrierefreiheit"
+        },
+        {
+          "documentIdentifier" : "BJNR074510020BJNE000600000",
+          "paragraph" : "§ 6",
+          "title" : "Ersatzmaßnahmen"
+        },
+        {
+          "documentIdentifier" : "BJNR074510020BJNE000700000",
+          "paragraph" : "§ 7",
+          "title" : "Bekanntmachung technischer Anforderungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

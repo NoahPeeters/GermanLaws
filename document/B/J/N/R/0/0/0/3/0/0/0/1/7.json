@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR000300017",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR000300017Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR000300017BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Gebühren- und Auslagenerhebung"
+        },
+        {
+          "documentIdentifier" : "BJNR000300017BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR000300017BJNE000400000",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 1)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

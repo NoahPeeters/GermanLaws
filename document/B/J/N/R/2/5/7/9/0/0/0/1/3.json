@@ -1,0 +1,59 @@
+{
+  "documentIdentifier" : "BJNR257900013",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR257900013Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR257900013BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Mitglieder"
+        },
+        {
+          "documentIdentifier" : "BJNR257900013BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Vorsitz"
+        },
+        {
+          "documentIdentifier" : "BJNR257900013BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Leitung der Sitzungen"
+        },
+        {
+          "documentIdentifier" : "BJNR257900013BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Geschäftsführung"
+        },
+        {
+          "documentIdentifier" : "BJNR257900013BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Sitzungen"
+        },
+        {
+          "documentIdentifier" : "BJNR257900013BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Beschlüsse"
+        },
+        {
+          "documentIdentifier" : "BJNR257900013BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Ausschussangelegenheiten, Ergebnisniederschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR257900013BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Unterausschüsse"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

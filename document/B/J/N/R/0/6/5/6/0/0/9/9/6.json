@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR065600996",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR065600996Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR065600996BJNE000200310",
+          "paragraph" : "(XXXX) Art 1 bis 5",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR065600996BJNE000300310",
+          "paragraph" : "Art 6",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

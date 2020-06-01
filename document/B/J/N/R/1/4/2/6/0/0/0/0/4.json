@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR142600004",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR142600004Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR142600004BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendbarkeit des Beschlusses"
+        },
+        {
+          "documentIdentifier" : "BJNR142600004BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

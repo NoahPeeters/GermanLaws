@@ -1,0 +1,165 @@
+{
+  "documentIdentifier" : "BJNR011490982",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR011490982BJNG000200314",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR011490982BJNE000901308",
+          "paragraph" : "§ 1",
+          "title" : "Aufgaben"
+        },
+        {
+          "documentIdentifier" : "BJNR011490982BJNE001000314",
+          "paragraph" : "§ 2",
+          "title" : "Zusammensetzung"
+        },
+        {
+          "documentIdentifier" : "BJNR011490982BJNE001100314",
+          "paragraph" : "§ 3",
+          "title" : "Rechte und Pflichten der Mitglieder"
+        },
+        {
+          "documentIdentifier" : "BJNR011490982BJNE001200314",
+          "paragraph" : "§ 4",
+          "title" : "Amtsdauer"
+        },
+        {
+          "documentIdentifier" : "BJNR011490982BJNE001302308",
+          "paragraph" : "§ 5",
+          "title" : "Vorsitz"
+        },
+        {
+          "documentIdentifier" : "BJNR011490982BJNE001403311",
+          "paragraph" : "§ 6",
+          "title" : "Einberufung"
+        },
+        {
+          "documentIdentifier" : "BJNR011490982BJNE001500314",
+          "paragraph" : "§ 7",
+          "title" : "Sitzung"
+        },
+        {
+          "documentIdentifier" : "BJNR011490982BJNE001600314",
+          "paragraph" : "§ 8",
+          "title" : "Beschlußfassung"
+        },
+        {
+          "documentIdentifier" : "BJNR011490982BJNE001707124",
+          "paragraph" : "§ 9",
+          "title" : "Erstattung der baren Auslagen, Pauschbetrag für Zeitaufwand"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1,
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Beirat"
+    },
+    {
+      "documentIdentifier" : "BJNR011490982BJNG000300314",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR011490982BJNE001800314",
+          "paragraph" : "§ 10",
+          "title" : "Berufung der Mitglieder"
+        },
+        {
+          "documentIdentifier" : "BJNR011490982BJNE001900314",
+          "paragraph" : "§ 11",
+          "title" : "Berufung der Stellvertreter"
+        },
+        {
+          "documentIdentifier" : "BJNR011490982BJNE002000314",
+          "paragraph" : "§ 12",
+          "title" : "Amtsdauer"
+        },
+        {
+          "documentIdentifier" : "BJNR011490982BJNE002100314",
+          "paragraph" : "§ 13",
+          "title" : "Vorsitz"
+        },
+        {
+          "documentIdentifier" : "BJNR011490982BJNE002202308",
+          "paragraph" : "§ 14",
+          "title" : "Zuständigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR011490982BJNE002300314",
+          "paragraph" : "§ 15",
+          "title" : "Einberufung"
+        },
+        {
+          "documentIdentifier" : "BJNR011490982BJNE002400314",
+          "paragraph" : "§ 16",
+          "title" : "Sitzung"
+        },
+        {
+          "documentIdentifier" : "BJNR011490982BJNE002500314",
+          "paragraph" : "§ 17",
+          "title" : "Hinderungsgründe"
+        },
+        {
+          "documentIdentifier" : "BJNR011490982BJNE002600314",
+          "paragraph" : "§ 18",
+          "title" : "Entscheidung"
+        },
+        {
+          "documentIdentifier" : "BJNR011490982BJNE002700314",
+          "paragraph" : "§ 19",
+          "title" : "Niederschrift"
+        },
+        {
+          "documentIdentifier" : "BJNR011490982BJNE002801311",
+          "paragraph" : "§ 20",
+          "title" : "Widerspruchsbescheid"
+        },
+        {
+          "documentIdentifier" : "BJNR011490982BJNE002903311",
+          "paragraph" : "§ 21",
+          "title" : "Beanstandung von Rechtsverstößen"
+        },
+        {
+          "documentIdentifier" : "BJNR011490982BJNE003001308",
+          "paragraph" : "§ 22",
+          "title" : "Erstattung der baren Auslagen, Pauschbetrag für Zeitaufwand"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1,
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Ausschüsse"
+    },
+    {
+      "documentIdentifier" : "BJNR011490982BJNG000401308",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR011490982BJNE003101308",
+          "paragraph" : "§ 23",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1,
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlußvorschrift"
+    }
+  ]
+}

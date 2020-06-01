@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR172400996",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR172400996Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR172400996BJNE000201308",
+          "paragraph" : "§ 1",
+          "title" : "Vergabe der Mitgliedsnummer"
+        },
+        {
+          "documentIdentifier" : "BJNR172400996BJNE000301308",
+          "paragraph" : "§ 2",
+          "title" : "Zusammensetzung der Mitgliedsnummer"
+        },
+        {
+          "documentIdentifier" : "BJNR172400996BJNE000400310",
+          "paragraph" : "§ 3",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR172400996BJNE000602308",
+          "paragraph" : "Anlage 1",
+          "title" : "Bereichsnummern"
+        },
+        {
+          "documentIdentifier" : "BJNR172400996BJNE000700310",
+          "paragraph" : "Anlage 2",
+          "title" : "Prüfziffer"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

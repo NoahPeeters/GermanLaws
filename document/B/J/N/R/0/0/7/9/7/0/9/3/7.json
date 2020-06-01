@@ -1,0 +1,89 @@
+{
+  "documentIdentifier" : "BJNR007970937",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR007970937BJNG000101301",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR007970937BJNE000503140",
+          "paragraph" : "§ 1",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR007970937BJNE000602140",
+          "paragraph" : "§ 2",
+          "title" : "Anmeldungspflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR007970937BJNE000902301",
+          "paragraph" : "§ 5",
+          "title" : "Ausnahme von der Besteuerung bei Viehversicherungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Bestimmungen"
+    },
+    {
+      "documentIdentifier" : "BJNR007970937BJNG000201301",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR007970937BJNG000301301",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR007970937BJNE001002301",
+              "paragraph" : "(XXXX) §§ 6 bis 9",
+              "title" : "(weggefallen)"
+            },
+            {
+              "documentIdentifier" : "BJNR007970937BJNE001403140",
+              "paragraph" : "§ 10",
+              "title" : "Entrichtung der Steuer im Pauschverfahren"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Entrichtung der Steuer durch den Versicherer"
+        },
+        {
+          "documentIdentifier" : "BJNR007970937BJNG000401301",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Entrichtung der Steuer durch den Versicherungsnehmer"
+        }
+      ],
+      "title" : "Besteuerungsverfahren"
+    }
+  ]
+}

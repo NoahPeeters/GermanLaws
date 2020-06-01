@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR304510016",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR304510016Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR304510016BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Zweck"
+        },
+        {
+          "documentIdentifier" : "BJNR304510016BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Voraussetzungen und Höhe einer Vergünstigung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

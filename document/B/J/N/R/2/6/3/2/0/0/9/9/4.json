@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR263200994",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR263200994Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR263200994BJNE000103308",
+          "paragraph" : "§ 1",
+          "title" : "Grundsätze der Entschädigung"
+        },
+        {
+          "documentIdentifier" : "BJNR263200994BJNE000202301",
+          "paragraph" : "§ 2",
+          "title" : "Höhe der Entschädigung"
+        },
+        {
+          "documentIdentifier" : "BJNR263200994BJNE000301301",
+          "paragraph" : "§ 3",
+          "title" : "Anrechnung einer erhaltenen Gegenleistung oder einer\nEntschädigung"
+        },
+        {
+          "documentIdentifier" : "BJNR263200994BJNE000403308",
+          "paragraph" : "§ 4",
+          "title" : "Zuständige Behörde, Verfahren"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

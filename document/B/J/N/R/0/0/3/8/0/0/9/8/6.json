@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR003800986",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR003800986Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR003800986BJNE000200326",
+          "paragraph" : "§ 1",
+          "title" : "Zuständigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR003800986BJNE000300326",
+          "paragraph" : "§ 2",
+          "title" : "Besonderheiten des Genehmigungsverfahrens"
+        },
+        {
+          "documentIdentifier" : "BJNR003800986BJNE000400326",
+          "paragraph" : "§ 3",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

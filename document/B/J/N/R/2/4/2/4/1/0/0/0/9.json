@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR242410009",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR242410009Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR242410009BJNE000101305",
+          "paragraph" : "§ 1",
+          "title" : "Bundesaufsichtsamt für Flugsicherung"
+        },
+        {
+          "documentIdentifier" : "BJNR242410009BJNE000201305",
+          "paragraph" : "§ 2",
+          "title" : "Übergangsregelungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

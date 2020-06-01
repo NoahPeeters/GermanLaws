@@ -1,0 +1,163 @@
+{
+  "documentIdentifier" : "BJNR058009002",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR058009002BJNE000300305",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          0
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "-"
+    },
+    {
+      "documentIdentifier" : "BJNR058009002BJNG000101310",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR058009002BJNE000401310",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR058009002BJNE000500305",
+              "laws" : [
+
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "I."
+            }
+          ],
+          "title" : "I."
+        }
+      ],
+      "title" : "Geschäftsbereich des Bundesministeriums des Innern ohne Bundespolizei"
+    },
+    {
+      "documentIdentifier" : "BJNR058009002BJNG000201310",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR058009002BJNE000601310",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR058009002BJNE000701310",
+              "laws" : [
+
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2
+                ]
+              },
+              "subsections" : [
+                {
+                  "documentIdentifier" : "BJNR058009002BJNE000801310",
+                  "laws" : [
+
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      2
+                    ]
+                  },
+                  "subsections" : [
+                    {
+                      "documentIdentifier" : "BJNR058009002BJNE000900305",
+                      "laws" : [
+
+                      ],
+                      "sectionNumber" : {
+                        "numbers" : [
+                          2
+                        ]
+                      },
+                      "subsections" : [
+                        {
+                          "documentIdentifier" : "BJNR058009002BJNE001100310",
+                          "laws" : [
+
+                          ],
+                          "sectionNumber" : {
+                            "numbers" : [
+                              2
+                            ]
+                          },
+                          "subsections" : [
+
+                          ],
+                          "title" : "II."
+                        }
+                      ],
+                      "title" : "II."
+                    }
+                  ],
+                  "title" : "II."
+                }
+              ],
+              "title" : "II."
+            }
+          ],
+          "title" : "II."
+        }
+      ],
+      "title" : "Bundespolizei"
+    },
+    {
+      "documentIdentifier" : "BJNR058009002BJNE001000305",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "-"
+    }
+  ]
+}

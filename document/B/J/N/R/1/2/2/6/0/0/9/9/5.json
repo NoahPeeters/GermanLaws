@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR122600995",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR122600995Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR122600995BJNE000205360",
+          "paragraph" : "§ 1",
+          "title" : "Anspruchsvoraussetzungen bei besonderen Verwendungen im Ausland"
+        },
+        {
+          "documentIdentifier" : "BJNR122600995BJNE000306116",
+          "paragraph" : "§ 2",
+          "title" : "Materielle Mehraufwendungen und immaterielle Belastungen"
+        },
+        {
+          "documentIdentifier" : "BJNR122600995BJNE000408360",
+          "paragraph" : "§ 3",
+          "title" : "Höhe und Festsetzung des Auslandsverwendungszuschlags"
+        },
+        {
+          "documentIdentifier" : "BJNR122600995BJNE000506360",
+          "paragraph" : "§ 4",
+          "title" : "Dauer des Anspruchs"
+        },
+        {
+          "documentIdentifier" : "BJNR122600995BJNE000902360",
+          "paragraph" : "§ 5",
+          "title" : "Anrechnung anderer Bezüge"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

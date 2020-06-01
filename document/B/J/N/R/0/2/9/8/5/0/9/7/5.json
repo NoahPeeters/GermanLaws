@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR029850975",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR029850975Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR029850975BJNE000100314",
+          "paragraph" : "§ 1",
+          "title" : "Höhengleiche Kreuzungen"
+        },
+        {
+          "documentIdentifier" : "BJNR029850975BJNE000200314",
+          "paragraph" : "§ 2",
+          "title" : "Über- und Unterführungen"
+        },
+        {
+          "documentIdentifier" : "BJNR029850975BJNE000300314",
+          "paragraph" : "§ 3",
+          "title" : "Sonstige Teile der Kreuzungsanlage"
+        },
+        {
+          "documentIdentifier" : "BJNR029850975BJNE000400314",
+          "paragraph" : "§ 4",
+          "title" : "Kreuzungen zwischen Bundesfernstraßen"
+        },
+        {
+          "documentIdentifier" : "BJNR029850975BJNE000500314",
+          "paragraph" : "§ 5",
+          "title" : "Einmündungen"
+        },
+        {
+          "documentIdentifier" : "BJNR029850975BJNE000600314",
+          "paragraph" : "§ 6",
+          "title" : "Berlin-Klausel"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

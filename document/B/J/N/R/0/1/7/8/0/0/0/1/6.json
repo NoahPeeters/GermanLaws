@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR017800016",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR017800016Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR017800016BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Dienstbezüge und Wehrsold"
+        },
+        {
+          "documentIdentifier" : "BJNR017800016BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Übergangsvorschrift"
+        },
+        {
+          "documentIdentifier" : "BJNR017800016BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

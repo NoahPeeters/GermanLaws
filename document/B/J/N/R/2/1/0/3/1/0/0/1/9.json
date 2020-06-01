@@ -1,0 +1,282 @@
+{
+  "documentIdentifier" : "BJNR210310019",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR210310019BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR210310019BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich und anwendbare Vorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR210310019BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR210310019BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Verfahrenssprache"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeiner Teil"
+    },
+    {
+      "documentIdentifier" : "BJNR210310019BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR210310019BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Einreichung"
+        },
+        {
+          "documentIdentifier" : "BJNR210310019BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Inhalt"
+        },
+        {
+          "documentIdentifier" : "BJNR210310019BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Eingangsbestätigung"
+        },
+        {
+          "documentIdentifier" : "BJNR210310019BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Informationsersuchen"
+        },
+        {
+          "documentIdentifier" : "BJNR210310019BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Entscheidung über die Zulassung oder Zurückweisung der Streitbeilegungsbeschwerde"
+        },
+        {
+          "documentIdentifier" : "BJNR210310019BJNE001000000",
+          "paragraph" : "§ 9",
+          "title" : "Rechtsbehelfe gegen die Zurückweisung der Streitbeilegungsbeschwerde"
+        },
+        {
+          "documentIdentifier" : "BJNR210310019BJNE001100000",
+          "paragraph" : "§ 10",
+          "title" : "Ersetzung der Zulassung durch den Beratenden Ausschuss"
+        },
+        {
+          "documentIdentifier" : "BJNR210310019BJNE001200000",
+          "paragraph" : "§ 11",
+          "title" : "Rücknahme der Streitbeilegungsbeschwerde"
+        },
+        {
+          "documentIdentifier" : "BJNR210310019BJNE001300000",
+          "paragraph" : "§ 12",
+          "title" : "Erledigung der Streitbeilegungsbeschwerde"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Streitbeilegungsbeschwerde"
+    },
+    {
+      "documentIdentifier" : "BJNR210310019BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR210310019BJNE001400000",
+          "paragraph" : "§ 13",
+          "title" : "Einleitung und Einigungsfrist"
+        },
+        {
+          "documentIdentifier" : "BJNR210310019BJNE001500000",
+          "paragraph" : "§ 14",
+          "title" : "Informationsersuchen"
+        },
+        {
+          "documentIdentifier" : "BJNR210310019BJNE001600000",
+          "paragraph" : "§ 15",
+          "title" : "Einigung"
+        },
+        {
+          "documentIdentifier" : "BJNR210310019BJNE001700000",
+          "paragraph" : "§ 16",
+          "title" : "Beendigung ohne Einigung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Verständigungsverfahren"
+    },
+    {
+      "documentIdentifier" : "BJNR210310019BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR210310019BJNE001800000",
+          "paragraph" : "§ 17",
+          "title" : "Stellungnahme des Beratenden Ausschusses"
+        },
+        {
+          "documentIdentifier" : "BJNR210310019BJNE001900000",
+          "paragraph" : "§ 18",
+          "title" : "Abschließende Entscheidung durch die zuständigen Behörden"
+        },
+        {
+          "documentIdentifier" : "BJNR210310019BJNE002000000",
+          "paragraph" : "§ 19",
+          "title" : "Veröffentlichung der abschließenden Entscheidung"
+        },
+        {
+          "documentIdentifier" : "BJNR210310019BJNE002100000",
+          "paragraph" : "§ 20",
+          "title" : "Versagungsgründe und vorzeitige Beendigung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Streitbeilegung durch den Beratenden Ausschuss"
+    },
+    {
+      "documentIdentifier" : "BJNR210310019BJNG000500000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR210310019BJNE002200000",
+          "paragraph" : "§ 21",
+          "title" : "Zusammensetzung"
+        },
+        {
+          "documentIdentifier" : "BJNR210310019BJNE002300000",
+          "paragraph" : "§ 22",
+          "title" : "Einsetzungsfrist"
+        },
+        {
+          "documentIdentifier" : "BJNR210310019BJNE002400000",
+          "paragraph" : "§ 23",
+          "title" : "Vorlage von Informationen und Erscheinen vor dem Beratenden Ausschuss"
+        },
+        {
+          "documentIdentifier" : "BJNR210310019BJNE002500000",
+          "paragraph" : "§ 24",
+          "title" : "Benennung der unabhängigen Personen und des Vorsitzenden"
+        },
+        {
+          "documentIdentifier" : "BJNR210310019BJNE002600000",
+          "paragraph" : "§ 25",
+          "title" : "Unabhängigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR210310019BJNE002700000",
+          "paragraph" : "§ 26",
+          "title" : "Liste der unabhängigen Personen"
+        },
+        {
+          "documentIdentifier" : "BJNR210310019BJNE002800000",
+          "paragraph" : "§ 27",
+          "title" : "Geschäftsordnung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Verfahrensregelungen für den Beratenden Ausschuss"
+    },
+    {
+      "documentIdentifier" : "BJNR210310019BJNG000600000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR210310019BJNE002900000",
+          "paragraph" : "§ 28",
+          "title" : "Verfahrenserleichterungen für natürliche Personen und kleinere Unternehmen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Sonderregelungen für natürliche Personen und kleinere Unternehmen"
+    },
+    {
+      "documentIdentifier" : "BJNR210310019BJNG000700000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR210310019BJNE003000000",
+          "paragraph" : "§ 29",
+          "title" : "Ausschuss für Alternative Streitbeilegung"
+        },
+        {
+          "documentIdentifier" : "BJNR210310019BJNE003100000",
+          "paragraph" : "§ 30",
+          "title" : "Anwendbare Regelungen dieses Gesetzes"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Alternative Streitbeilegung"
+    },
+    {
+      "documentIdentifier" : "BJNR210310019BJNG000800000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR210310019BJNE003200000",
+          "paragraph" : "§ 31",
+          "title" : "Kosten"
+        },
+        {
+          "documentIdentifier" : "BJNR210310019BJNE003300000",
+          "paragraph" : "§ 32",
+          "title" : "Schutz von Informationen und Geheimnissen"
+        },
+        {
+          "documentIdentifier" : "BJNR210310019BJNE003400000",
+          "paragraph" : "§ 33",
+          "title" : "Anwendungsregelung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          8
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussbestimmungen und gemeinsame Vorschriften"
+    }
+  ]
+}

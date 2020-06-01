@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR150710993",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR150710993Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR150710993BJNE000101308",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR150710993BJNE000202308",
+          "paragraph" : "§ 2",
+          "title" : "Marktnotierungen"
+        },
+        {
+          "documentIdentifier" : "BJNR150710993BJNE000303308",
+          "paragraph" : "§ 3",
+          "title" : "Überwachung"
+        },
+        {
+          "documentIdentifier" : "BJNR150710993BJNE000403377",
+          "paragraph" : "§ 4",
+          "title" : "Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR150710993BJNE000502308",
+          "paragraph" : "§ 5",
+          "title" : "Verwaltungsbehörde im Sinne des § 36 des Gesetzes über\nOrdnungswidrigkeiten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

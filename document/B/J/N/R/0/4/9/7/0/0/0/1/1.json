@@ -1,0 +1,195 @@
+{
+  "documentIdentifier" : "BJNR049700011",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR049700011BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR049700011BJNE000301116",
+          "paragraph" : "§ 1",
+          "title" : "Geltungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR049700011BJNE000401116",
+          "paragraph" : "§ 2",
+          "title" : "Studienziele"
+        },
+        {
+          "documentIdentifier" : "BJNR049700011BJNE000500000",
+          "paragraph" : "§ 3",
+          "title" : "Akademischer Grad"
+        },
+        {
+          "documentIdentifier" : "BJNR049700011BJNE000601116",
+          "paragraph" : "§ 4",
+          "title" : "Zulassung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeines"
+    },
+    {
+      "documentIdentifier" : "BJNR049700011BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR049700011BJNE000701116",
+          "paragraph" : "§ 5",
+          "title" : "Dauer des Studiums, Freistellung"
+        },
+        {
+          "documentIdentifier" : "BJNR049700011BJNE000801116",
+          "paragraph" : "§ 6",
+          "title" : "Anerkennung von Studien- und Prüfungsleistungen"
+        },
+        {
+          "documentIdentifier" : "BJNR049700011BJNE000901116",
+          "paragraph" : "§ 7",
+          "title" : "Studieninhalte, Module"
+        },
+        {
+          "documentIdentifier" : "BJNR049700011BJNE001001116",
+          "paragraph" : "§ 8",
+          "title" : "Leitung des Studiums"
+        },
+        {
+          "documentIdentifier" : "BJNR049700011BJNE001101116",
+          "paragraph" : "§ 9",
+          "title" : "Modulkoordination"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Studienordnung"
+    },
+    {
+      "documentIdentifier" : "BJNR049700011BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR049700011BJNE001201116",
+          "paragraph" : "§ 10",
+          "title" : "Prüfungsamt"
+        },
+        {
+          "documentIdentifier" : "BJNR049700011BJNE001301116",
+          "paragraph" : "§ 11",
+          "title" : "Prüfende, Prüfungskommissionen"
+        },
+        {
+          "documentIdentifier" : "BJNR049700011BJNE001400000",
+          "paragraph" : "§ 12",
+          "title" : "Modulprüfungen"
+        },
+        {
+          "documentIdentifier" : "BJNR049700011BJNE001501116",
+          "paragraph" : "§ 13",
+          "title" : "Masterarbeit"
+        },
+        {
+          "documentIdentifier" : "BJNR049700011BJNE001601116",
+          "paragraph" : "§ 14",
+          "title" : "Mündliche Verteidigung der Masterarbeit"
+        },
+        {
+          "documentIdentifier" : "BJNR049700011BJNE001700000",
+          "paragraph" : "§ 15",
+          "title" : "Bewertung der Prüfungen"
+        },
+        {
+          "documentIdentifier" : "BJNR049700011BJNE001800000",
+          "paragraph" : "§ 16",
+          "title" : "Fernbleiben, Rücktritt"
+        },
+        {
+          "documentIdentifier" : "BJNR049700011BJNE001900000",
+          "paragraph" : "§ 17",
+          "title" : "Täuschung, Ordnungsverstoß"
+        },
+        {
+          "documentIdentifier" : "BJNR049700011BJNE002001116",
+          "paragraph" : "§ 18",
+          "title" : "Wiederholung von Prüfungen"
+        },
+        {
+          "documentIdentifier" : "BJNR049700011BJNE002100000",
+          "paragraph" : "§ 19",
+          "title" : "Bestehen der Masterprüfung, Gesamtnote"
+        },
+        {
+          "documentIdentifier" : "BJNR049700011BJNE002201116",
+          "paragraph" : "§ 20",
+          "title" : "Urkunden"
+        },
+        {
+          "documentIdentifier" : "BJNR049700011BJNE002301116",
+          "paragraph" : "§ 21",
+          "title" : "Prüfungsakten, Einsichtnahme"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Masterprüfung"
+    },
+    {
+      "documentIdentifier" : "BJNR049700011BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR049700011BJNE002400000",
+          "paragraph" : "§ 22",
+          "title" : "Berufspraktische Einführung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Berufspraktische Einführung"
+    },
+    {
+      "documentIdentifier" : "BJNR049700011BJNG000500000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR049700011BJNE002501116",
+          "paragraph" : "§ 23",
+          "title" : "Gasthörerinnen und Gasthörer"
+        },
+        {
+          "documentIdentifier" : "BJNR049700011BJNE002601116",
+          "paragraph" : "§ 24",
+          "title" : "Übergangsregelung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussvorschriften"
+    }
+  ]
+}

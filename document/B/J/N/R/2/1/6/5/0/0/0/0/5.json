@@ -1,0 +1,69 @@
+{
+  "documentIdentifier" : "BJNR216500005",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR216500005Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR216500005BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR216500005BJNE000301377",
+          "paragraph" : "§ 2",
+          "title" : "Barwertdeckungsrechnung"
+        },
+        {
+          "documentIdentifier" : "BJNR216500005BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Ermittlung der aktuellen Barwerte"
+        },
+        {
+          "documentIdentifier" : "BJNR216500005BJNE000501377",
+          "paragraph" : "§ 4",
+          "title" : "Stresstest"
+        },
+        {
+          "documentIdentifier" : "BJNR216500005BJNE000602118",
+          "paragraph" : "§ 5",
+          "title" : "Simulation der Auswirkung von Zinsveränderungen auf die Barwerte"
+        },
+        {
+          "documentIdentifier" : "BJNR216500005BJNE000701360",
+          "paragraph" : "§ 6",
+          "title" : "Simulation der Auswirkung von Währungsveränderungen auf die Barwerte"
+        },
+        {
+          "documentIdentifier" : "BJNR216500005BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Dokumentationspflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR216500005BJNE000901360",
+          "paragraph" : "§ 8",
+          "title" : "Methodenwechsel"
+        },
+        {
+          "documentIdentifier" : "BJNR216500005BJNE001000000",
+          "paragraph" : "§ 9",
+          "title" : "Übergangsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR216500005BJNE001100000",
+          "paragraph" : "§ 10",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

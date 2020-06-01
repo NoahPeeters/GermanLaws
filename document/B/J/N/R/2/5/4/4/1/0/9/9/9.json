@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR254410999",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR254410999Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR254410999BJNE000100310",
+          "paragraph" : "§ 1",
+          "title" : "Beitragssätze in der Rentenversicherung"
+        },
+        {
+          "documentIdentifier" : "BJNR254410999BJNE000200310",
+          "paragraph" : "§ 2",
+          "title" : "Umrechnungsfaktoren für den Versorgungsausgleich in der\nRentenversicherung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

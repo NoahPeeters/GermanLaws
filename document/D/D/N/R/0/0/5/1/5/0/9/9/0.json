@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "DDNR005150990",
+  "sections" : [
+    {
+      "documentIdentifier" : "DDNR005150990Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "DDNR005150990BJNE000100314",
+          "paragraph" : "(XXXX) §§ 1 bis 7",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "DDNR005150990BJNE000300314",
+          "paragraph" : "(XXXX) §§ 9 bis 49",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "DDNR005150990BJNE888800301",
+          "paragraph" : "Anhang EV",
+          "title" : "Auszug aus EinigVtr Anlage II Kapitel V Sachgebiet E Abschnitt II\n"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

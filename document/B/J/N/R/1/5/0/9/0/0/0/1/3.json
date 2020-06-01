@@ -1,0 +1,126 @@
+{
+  "documentIdentifier" : "BJNR150900013",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR150900013BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR150900013BJNE000300000",
+          "paragraph" : "§ 1",
+          "title" : "Gegenstand der Verordnung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR150900013BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR150900013BJNE000400000",
+          "paragraph" : "§ 2",
+          "title" : "Inhalt des Wärmeliefervertrages"
+        },
+        {
+          "documentIdentifier" : "BJNR150900013BJNE000500000",
+          "paragraph" : "§ 3",
+          "title" : "Preisänderungsklauseln"
+        },
+        {
+          "documentIdentifier" : "BJNR150900013BJNE000600000",
+          "paragraph" : "§ 4",
+          "title" : "Form des Wärmeliefervertrages"
+        },
+        {
+          "documentIdentifier" : "BJNR150900013BJNE000700000",
+          "paragraph" : "§ 5",
+          "title" : "Auskunftsanspruch"
+        },
+        {
+          "documentIdentifier" : "BJNR150900013BJNE000800000",
+          "paragraph" : "§ 6",
+          "title" : "Verhältnis zur Verordnung über Allgemeine Bedingungen für die Versorgung mit Fernwärme"
+        },
+        {
+          "documentIdentifier" : "BJNR150900013BJNE000900000",
+          "paragraph" : "§ 7",
+          "title" : "Abweichende Vereinbarungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Wärmeliefervertrag"
+    },
+    {
+      "documentIdentifier" : "BJNR150900013BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR150900013BJNE001000000",
+          "paragraph" : "§ 8",
+          "title" : "Kostenvergleich vor Umstellung auf Wärmelieferung"
+        },
+        {
+          "documentIdentifier" : "BJNR150900013BJNE001100000",
+          "paragraph" : "§ 9",
+          "title" : "Ermittlung der Betriebskosten der Eigenversorgung"
+        },
+        {
+          "documentIdentifier" : "BJNR150900013BJNE001200000",
+          "paragraph" : "§ 10",
+          "title" : "Ermittlung der Kosten der Wärmelieferung"
+        },
+        {
+          "documentIdentifier" : "BJNR150900013BJNE001300000",
+          "paragraph" : "§ 11",
+          "title" : "Umstellungsankündigung des Vermieters"
+        },
+        {
+          "documentIdentifier" : "BJNR150900013BJNE001400000",
+          "paragraph" : "§ 12",
+          "title" : "Abweichende Vereinbarungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Umstellung der Wärmeversorgung für Mietwohnraum"
+    },
+    {
+      "documentIdentifier" : "BJNR150900013BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR150900013BJNE001500000",
+          "paragraph" : "§ 13",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussvorschriften"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "documentIdentifier" : "BJNR302210007",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR302210007Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR302210007BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Errichtung des Sondervermögens"
+        },
+        {
+          "documentIdentifier" : "BJNR302210007BJNE000301119",
+          "paragraph" : "§ 2",
+          "title" : "Zweck des Sondervermögens"
+        },
+        {
+          "documentIdentifier" : "BJNR302210007BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Stellung im Rechtsverkehr"
+        },
+        {
+          "documentIdentifier" : "BJNR302210007BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Finanzierung"
+        },
+        {
+          "documentIdentifier" : "BJNR302210007BJNE001002119",
+          "paragraph" : "§ 4a",
+          "title" : "Aufstockung des Sondervermögens"
+        },
+        {
+          "documentIdentifier" : "BJNR302210007BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Wirtschaftsplan, Haushaltsrecht"
+        },
+        {
+          "documentIdentifier" : "BJNR302210007BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Jahresrechnung"
+        },
+        {
+          "documentIdentifier" : "BJNR302210007BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Verwaltungskosten"
+        },
+        {
+          "documentIdentifier" : "BJNR302210007BJNE000906124",
+          "paragraph" : "§ 8",
+          "title" : "Auflösung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

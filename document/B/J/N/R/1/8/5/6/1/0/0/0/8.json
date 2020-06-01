@@ -1,0 +1,437 @@
+{
+  "documentIdentifier" : "BJNR185610008",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR185610008BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR185610008BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Zweck des Wohngeldes"
+        },
+        {
+          "documentIdentifier" : "BJNR185610008BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Wohnraum"
+        },
+        {
+          "documentIdentifier" : "BJNR185610008BJNE004901126",
+          "paragraph" : "§ 3",
+          "title" : "Wohngeldberechtigung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Zweck des Wohngeldes und Wohngeldberechtigung"
+    },
+    {
+      "documentIdentifier" : "BJNR185610008BJNG000200000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR185610008BJNG000300000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR185610008BJNE000500000",
+              "paragraph" : "§ 4",
+              "title" : "Berechnungsgrößen des Wohngeldes"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Berechnungsgrößen des Wohngeldes"
+        },
+        {
+          "documentIdentifier" : "BJNR185610008BJNG000400000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR185610008BJNE000601305",
+              "paragraph" : "§ 5",
+              "title" : "Haushaltsmitglieder"
+            },
+            {
+              "documentIdentifier" : "BJNR185610008BJNE000700000",
+              "paragraph" : "§ 6",
+              "title" : "Zu berücksichtigende Haushaltsmitglieder"
+            },
+            {
+              "documentIdentifier" : "BJNR185610008BJNE000804126",
+              "paragraph" : "§ 7",
+              "title" : "Ausschluss vom Wohngeld"
+            },
+            {
+              "documentIdentifier" : "BJNR185610008BJNE000902305",
+              "paragraph" : "§ 8",
+              "title" : "Dauer des Ausschlusses vom Wohngeld und Verzicht auf Leistungen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Haushaltsmitglieder"
+        },
+        {
+          "documentIdentifier" : "BJNR185610008BJNG000500000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR185610008BJNE001002126",
+              "paragraph" : "§ 9",
+              "title" : "Miete"
+            },
+            {
+              "documentIdentifier" : "BJNR185610008BJNE001100000",
+              "paragraph" : "§ 10",
+              "title" : "Belastung"
+            },
+            {
+              "documentIdentifier" : "BJNR185610008BJNE001201308",
+              "paragraph" : "§ 11",
+              "title" : "Zu berücksichtigende Miete und Belastung"
+            },
+            {
+              "documentIdentifier" : "BJNR185610008BJNE001304126",
+              "paragraph" : "§ 12",
+              "title" : "Höchstbeträge für Miete und Belastung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Miete und Belastung"
+        },
+        {
+          "documentIdentifier" : "BJNR185610008BJNG000600000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR185610008BJNE001400000",
+              "paragraph" : "§ 13",
+              "title" : "Gesamteinkommen"
+            },
+            {
+              "documentIdentifier" : "BJNR185610008BJNE001507126",
+              "paragraph" : "§ 14",
+              "title" : "Jahreseinkommen"
+            },
+            {
+              "documentIdentifier" : "BJNR185610008BJNE001601305",
+              "paragraph" : "§ 15",
+              "title" : "Ermittlung des Jahreseinkommens"
+            },
+            {
+              "documentIdentifier" : "BJNR185610008BJNE001701305",
+              "paragraph" : "§ 16",
+              "title" : "Abzugsbeträge für Steuern und Sozialversicherungsbeiträge"
+            },
+            {
+              "documentIdentifier" : "BJNR185610008BJNE001802126",
+              "paragraph" : "§ 17",
+              "title" : "Freibeträge"
+            },
+            {
+              "documentIdentifier" : "BJNR185610008BJNE001902305",
+              "paragraph" : "§ 18",
+              "title" : "Abzugsbeträge für Unterhaltsleistungen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Einkommen"
+        },
+        {
+          "documentIdentifier" : "BJNR185610008BJNG000700000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR185610008BJNE002002126",
+              "paragraph" : "§ 19",
+              "title" : "Höhe des Wohngeldes"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              5
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Höhe des Wohngeldes"
+        }
+      ],
+      "title" : "Berechnung und Höhe des Wohngeldes"
+    },
+    {
+      "documentIdentifier" : "BJNR185610008BJNG000800000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR185610008BJNE002104126",
+          "paragraph" : "§ 20",
+          "title" : "Gesetzeskonkurrenz"
+        },
+        {
+          "documentIdentifier" : "BJNR185610008BJNE002200000",
+          "paragraph" : "§ 21",
+          "title" : "Sonstige Gründe"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Nichtbestehen des Wohngeldanspruchs"
+    },
+    {
+      "documentIdentifier" : "BJNR185610008BJNG000900000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR185610008BJNE002300000",
+          "paragraph" : "§ 22",
+          "title" : "Wohngeldantrag"
+        },
+        {
+          "documentIdentifier" : "BJNR185610008BJNE002404305",
+          "paragraph" : "§ 23",
+          "title" : "Auskunftspflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR185610008BJNE002502126",
+          "paragraph" : "§ 24",
+          "title" : "Wohngeldbehörde und Entscheidung"
+        },
+        {
+          "documentIdentifier" : "BJNR185610008BJNE002601305",
+          "paragraph" : "§ 25",
+          "title" : "Bewilligungszeitraum"
+        },
+        {
+          "documentIdentifier" : "BJNR185610008BJNE002702305",
+          "paragraph" : "§ 26",
+          "title" : "Zahlung des Wohngeldes"
+        },
+        {
+          "documentIdentifier" : "BJNR185610008BJNE002802305",
+          "paragraph" : "§ 27",
+          "title" : "Änderung des Wohngeldes"
+        },
+        {
+          "documentIdentifier" : "BJNR185610008BJNE002904126",
+          "paragraph" : "§ 28",
+          "title" : "Unwirksamkeit des Bewilligungsbescheides und Wegfall des Wohngeldanspruchs"
+        },
+        {
+          "documentIdentifier" : "BJNR185610008BJNE003001305",
+          "paragraph" : "§ 29",
+          "title" : "Haftung, Aufrechnung, Verrechnung und vorläufige Zahlungseinstellung"
+        },
+        {
+          "documentIdentifier" : "BJNR185610008BJNE003101308",
+          "paragraph" : "§ 30",
+          "title" : "Rücküberweisung und Erstattung im Todesfall"
+        },
+        {
+          "documentIdentifier" : "BJNR185610008BJNE003200000",
+          "paragraph" : "§ 31",
+          "title" : "Rücknahme eines rechtswidrigen nicht begünstigenden Wohngeldbescheides"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Bewilligung, Zahlung und Änderung des Wohngeldes"
+    },
+    {
+      "documentIdentifier" : "BJNR185610008BJNG001000000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR185610008BJNE003300000",
+          "paragraph" : "§ 32",
+          "title" : "Erstattung des Wohngeldes durch den Bund"
+        },
+        {
+          "documentIdentifier" : "BJNR185610008BJNE003407126",
+          "paragraph" : "§ 33",
+          "title" : "Datenabgleich"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Kostentragung und Datenabgleich"
+    },
+    {
+      "documentIdentifier" : "BJNR185610008BJNG001100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR185610008BJNE003501308",
+          "paragraph" : "§ 34",
+          "title" : "Zweck der Wohngeldstatistik, Auskunfts- und Hinweispflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR185610008BJNE003604126",
+          "paragraph" : "§ 35",
+          "title" : "Erhebungs- und Hilfsmerkmale"
+        },
+        {
+          "documentIdentifier" : "BJNR185610008BJNE003704126",
+          "paragraph" : "§ 36",
+          "title" : "Erhebungszeitraum und Zusatzaufbereitungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Wohngeldstatistik"
+    },
+    {
+      "documentIdentifier" : "BJNR185610008BJNG001200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR185610008BJNE003801305",
+          "paragraph" : "§ 37",
+          "title" : "Bußgeld"
+        },
+        {
+          "documentIdentifier" : "BJNR185610008BJNE003902126",
+          "paragraph" : "§ 38",
+          "title" : "Verordnungsermächtigung"
+        },
+        {
+          "documentIdentifier" : "BJNR185610008BJNE004001305",
+          "paragraph" : "§ 39",
+          "title" : "Wohngeld- und Mietenbericht; Bericht über die Lage und Entwicklung der Wohnungs- und Immobilienwirtschaft in Deutschland"
+        },
+        {
+          "documentIdentifier" : "BJNR185610008BJNE004100000",
+          "paragraph" : "§ 40",
+          "title" : "Einkommen bei anderen Sozialleistungen"
+        },
+        {
+          "documentIdentifier" : "BJNR185610008BJNE004201308",
+          "paragraph" : "§ 41",
+          "title" : "Auswirkung von Rechtsänderungen auf die Wohngeldentscheidung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussvorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR185610008BJNG001300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR185610008BJNE004300000",
+          "paragraph" : "§ 42",
+          "title" : "Gesetz zur Neuregelung des Wohngeldrechts und zur Änderung des Sozialgesetzbuches"
+        },
+        {
+          "documentIdentifier" : "BJNR185610008BJNE004801305",
+          "paragraph" : "§ 42a",
+          "title" : "Übergangsregelung aus Anlass des Gesetzes zur Reform des Wohngeldrechts und zur Änderung des Wohnraumförderungsgesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR185610008BJNE005000126",
+          "paragraph" : "§ 42b",
+          "title" : "Übergangsregelung aus Anlass des Gesetzes zur Stärkung des Wohngeldes"
+        },
+        {
+          "documentIdentifier" : "BJNR185610008BJNE004401126",
+          "paragraph" : "§ 43",
+          "title" : "Fortschreibung des Wohngeldes"
+        },
+        {
+          "documentIdentifier" : "BJNR185610008BJNE004701126",
+          "paragraph" : "§ 44",
+          "title" : "Übergangsregelung bei Fortschreibung des Wohngeldes"
+        },
+        {
+          "documentIdentifier" : "BJNR185610008BJNE005100126",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 12 Absatz 1)"
+        },
+        {
+          "documentIdentifier" : "BJNR185610008BJNE004502126",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 19 Absatz 1)"
+        },
+        {
+          "documentIdentifier" : "BJNR185610008BJNE004602126",
+          "paragraph" : "Anlage 3",
+          "title" : "(zu § 19 Absatz 2)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          8
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Überleitungsvorschriften"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR012100019",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR012100019Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR012100019BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Pauschalen"
+        },
+        {
+          "documentIdentifier" : "BJNR012100019BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

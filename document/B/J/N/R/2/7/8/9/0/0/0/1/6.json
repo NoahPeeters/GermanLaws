@@ -1,0 +1,88 @@
+{
+  "documentIdentifier" : "BJNR278900016",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR278900016BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR278900016BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR278900016BJNE000301116",
+          "paragraph" : "§ 2",
+          "title" : "Pflicht zur Bestellung"
+        },
+        {
+          "documentIdentifier" : "BJNR278900016BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Mehrere Abfallbeauftragte"
+        },
+        {
+          "documentIdentifier" : "BJNR278900016BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Gemeinsamer Abfallbeauftragter"
+        },
+        {
+          "documentIdentifier" : "BJNR278900016BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Nicht betriebsangehöriger Abfallbeauftragter"
+        },
+        {
+          "documentIdentifier" : "BJNR278900016BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Abfallbeauftragter für Konzerne"
+        },
+        {
+          "documentIdentifier" : "BJNR278900016BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Ausnahme von der Pflicht zur Bestellung eines Abfallbeauftragten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR278900016BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR278900016BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Zuverlässigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR278900016BJNE001000000",
+          "paragraph" : "§ 9",
+          "title" : "Fachkunde"
+        },
+        {
+          "documentIdentifier" : "BJNR278900016BJNE001100000",
+          "paragraph" : "§ 10",
+          "title" : "Übergangsvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR278900016BJNE001201116",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 9 Absatz 1 Nummer 3 und Absatz 2 Satz 2)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Anforderungen an Abfallbeauftragte"
+    }
+  ]
+}

@@ -1,0 +1,266 @@
+{
+  "documentIdentifier" : "BJNR020680992",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR020680992BJNG000200307",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR020680992BJNE000301305",
+          "paragraph" : "§ 1",
+          "title" : "Grundlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR020680992BJNE000401305",
+          "paragraph" : "§ 2",
+          "title" : "Betriebszeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR020680992BJNE000501305",
+          "paragraph" : "§ 3",
+          "title" : "Zusammenarbeit mit den Haltern von Luftfahrzeugen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Regeln"
+    },
+    {
+      "documentIdentifier" : "BJNR020680992BJNG000600307",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR020680992BJNE000700307",
+          "paragraph" : "§ 4",
+          "title" : "Aufgabe"
+        },
+        {
+          "documentIdentifier" : "BJNR020680992BJNE000800307",
+          "paragraph" : "§ 5",
+          "title" : "Umfang"
+        },
+        {
+          "documentIdentifier" : "BJNR020680992BJNE000900307",
+          "paragraph" : "§ 6",
+          "title" : "Arten der Flugverkehrskontrolle"
+        },
+        {
+          "documentIdentifier" : "BJNR020680992BJNE001001305",
+          "paragraph" : "§ 7",
+          "title" : "Zuständigkeit der Flugverkehrskontrollstellen"
+        },
+        {
+          "documentIdentifier" : "BJNR020680992BJNE001100307",
+          "paragraph" : "§ 8",
+          "title" : "Durchführung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Flugverkehrskontrolle"
+    },
+    {
+      "documentIdentifier" : "BJNR020680992BJNG001200307",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR020680992BJNE001303305",
+          "paragraph" : "§ 9",
+          "title" : "Verkehrsflußregelung"
+        },
+        {
+          "documentIdentifier" : "BJNR020680992BJNE001400307",
+          "paragraph" : "§ 10",
+          "title" : "Steuerung der Luftraumnutzung"
+        },
+        {
+          "documentIdentifier" : "BJNR020680992BJNE001503305",
+          "paragraph" : "§ 11",
+          "title" : "Vorrang"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Verkehrsflußregelung, Steuerung der Luftraumnutzung und Vorrang"
+    },
+    {
+      "documentIdentifier" : "BJNR020680992BJNG001600307",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR020680992BJNE001700307",
+          "paragraph" : "§ 12",
+          "title" : "Aufgabe"
+        },
+        {
+          "documentIdentifier" : "BJNR020680992BJNE001800307",
+          "paragraph" : "§ 13",
+          "title" : "Umfang"
+        },
+        {
+          "documentIdentifier" : "BJNR020680992BJNE001900307",
+          "paragraph" : "§ 14",
+          "title" : "Flugverkehrsberatungsdienst"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Fluginformationsdienst"
+    },
+    {
+      "documentIdentifier" : "BJNR020680992BJNG002000307",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR020680992BJNE002100307",
+          "paragraph" : "§ 15",
+          "title" : "Aufgabe"
+        },
+        {
+          "documentIdentifier" : "BJNR020680992BJNE002200307",
+          "paragraph" : "§ 16",
+          "title" : "Alarmstufen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Flugalarmdienst"
+    },
+    {
+      "documentIdentifier" : "BJNR020680992BJNG002300307",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR020680992BJNE002400307",
+          "paragraph" : "§ 17",
+          "title" : "Aufgabe"
+        },
+        {
+          "documentIdentifier" : "BJNR020680992BJNE002500307",
+          "paragraph" : "§ 18",
+          "title" : "Flugberatungsstellen"
+        },
+        {
+          "documentIdentifier" : "BJNR020680992BJNE002602305",
+          "paragraph" : "§ 19",
+          "title" : "Nachrichten für die Luftfahrt"
+        },
+        {
+          "documentIdentifier" : "BJNR020680992BJNE002703305",
+          "paragraph" : "§ 20",
+          "title" : "Internationale Verbreitung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Flugberatungsdienst"
+    },
+    {
+      "documentIdentifier" : "BJNR020680992BJNG002800307",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR020680992BJNE002900307",
+          "paragraph" : "§ 21",
+          "title" : "Aufgabe"
+        },
+        {
+          "documentIdentifier" : "BJNR020680992BJNE003001305",
+          "paragraph" : "§ 22",
+          "title" : "Arten der Übermittlung, Flugfernmeldestellen"
+        },
+        {
+          "documentIdentifier" : "BJNR020680992BJNE003101305",
+          "paragraph" : "§ 23",
+          "title" : "Durchführung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Flugfernmeldedienst"
+    },
+    {
+      "documentIdentifier" : "BJNR020680992BJNG003200307",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR020680992BJNE003300307",
+          "paragraph" : "§ 24",
+          "title" : "Aufzeichnung des Flugfernmeldeverkehrs und der\nRadardaten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          8
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Dokumentation von Betriebsdaten"
+    },
+    {
+      "documentIdentifier" : "BJNR020680992BJNG003400307",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR020680992BJNE003501305",
+          "paragraph" : "§ 25",
+          "title" : "Betriebsanweisungen"
+        },
+        {
+          "documentIdentifier" : "BJNR020680992BJNE003600307",
+          "paragraph" : "§ 26",
+          "title" : "Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR020680992BJNE003700307",
+          "paragraph" : "§ 27",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          9
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlußvorschriften"
+    }
+  ]
+}

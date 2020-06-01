@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR093100000",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR093100000Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR093100000BJNE000203305",
+          "paragraph" : "§ 1",
+          "title" : "Anwendung der Arbeitszeitverordnung"
+        },
+        {
+          "documentIdentifier" : "BJNR093100000BJNE000602308",
+          "paragraph" : "§ 2",
+          "title" : "Regelmäßige Arbeitszeit"
+        },
+        {
+          "documentIdentifier" : "BJNR093100000BJNE000701308",
+          "paragraph" : "§ 2a",
+          "title" : "Regelmäßige Arbeitszeit bei einem anderen Unternehmen oder einer öffentlichen Einrichtung"
+        },
+        {
+          "documentIdentifier" : "BJNR093100000BJNE000302308",
+          "paragraph" : "§ 3",
+          "title" : "Gleitende Arbeitszeit"
+        },
+        {
+          "documentIdentifier" : "BJNR093100000BJNE000403308",
+          "paragraph" : "§ 4",
+          "title" : "Arbeitszeitkonten"
+        },
+        {
+          "documentIdentifier" : "BJNR093100000BJNE000502305",
+          "paragraph" : "§ 5",
+          "title" : "Lebensarbeitszeitkonten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

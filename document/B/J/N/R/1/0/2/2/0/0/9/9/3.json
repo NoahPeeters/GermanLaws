@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR102200993",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR102200993Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR102200993BJNE000200307",
+          "paragraph" : "§ 1",
+          "title" : "Kennzeichnungspflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR102200993BJNE000302310",
+          "paragraph" : "§ 2",
+          "title" : "Ausnahmen von der Kennzeichnungspflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR102200993BJNE000402116",
+          "paragraph" : "§ 3",
+          "title" : "Art der Kennzeichnung"
+        },
+        {
+          "documentIdentifier" : "BJNR102200993BJNE000500307",
+          "paragraph" : "§ 4",
+          "title" : "Unberührtheitsklausel"
+        },
+        {
+          "documentIdentifier" : "BJNR102200993BJNE000601310",
+          "paragraph" : "§ 5",
+          "title" : "Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR102200993BJNE000700307",
+          "paragraph" : "§ 6",
+          "title" : "Übergangsvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR102200993BJNE000800307",
+          "paragraph" : "§ 7",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

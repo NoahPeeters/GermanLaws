@@ -1,0 +1,79 @@
+{
+  "documentIdentifier" : "BJNR185010016",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR185010016Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR185010016BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR185010016BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Unterlagen und Bescheinigungen"
+        },
+        {
+          "documentIdentifier" : "BJNR185010016BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Sitz oder ständige Niederlassung"
+        },
+        {
+          "documentIdentifier" : "BJNR185010016BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Zertifiziertes Qualitätsmanagementsystem"
+        },
+        {
+          "documentIdentifier" : "BJNR185010016BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Technische Ausrüstung und Konformität der Interoperabilitätskomponenten"
+        },
+        {
+          "documentIdentifier" : "BJNR185010016BJNE000600000",
+          "paragraph" : "§ 6",
+          "title" : "Befähigung zum Erbringen mautdienstbezogener Leistungen"
+        },
+        {
+          "documentIdentifier" : "BJNR185010016BJNE000700000",
+          "paragraph" : "§ 7",
+          "title" : "Finanzielle Leistungsfähigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR185010016BJNE000800000",
+          "paragraph" : "§ 8",
+          "title" : "Risikomanagementplan"
+        },
+        {
+          "documentIdentifier" : "BJNR185010016BJNE000900000",
+          "paragraph" : "§ 9",
+          "title" : "Gewähr für Zuverlässigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR185010016BJNE001000000",
+          "paragraph" : "§ 10",
+          "title" : "Regelmäßige Überprüfung der Registrierungsvoraussetzungen"
+        },
+        {
+          "documentIdentifier" : "BJNR185010016BJNE001100000",
+          "paragraph" : "§ 11",
+          "title" : "Gebühren und Auslagen"
+        },
+        {
+          "documentIdentifier" : "BJNR185010016BJNE001200000",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 11)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

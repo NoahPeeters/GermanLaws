@@ -1,0 +1,118 @@
+{
+  "documentIdentifier" : "BJNR011860939",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR011860939BJNG000100303",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Voraussetzungen der Todeserklärung."
+    },
+    {
+      "documentIdentifier" : "BJNR011860939BJNG000200303",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Zwischenstaatliches Recht"
+    },
+    {
+      "documentIdentifier" : "BJNR011860939BJNG000300303",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Verfahren bei Todeserklärungen"
+    },
+    {
+      "documentIdentifier" : "BJNR011860939BJNG000400303",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Verfahren bei Feststellung der Todeszeit"
+    },
+    {
+      "documentIdentifier" : "BJNR011860939BJNG000500303",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR011860939BJNE005900303",
+          "paragraph" : "§ 47",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR011860939BJNE006200303",
+          "paragraph" : "(XXXX) §§ 50 bis 52",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR011860939BJNE006300303",
+          "paragraph" : "(XXXX) §§ 53 und 54",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inkrafttreten, Übergangs- und Schlußvorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR011860939BJNG000600303",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR011860939BJNE006400303",
+          "paragraph" : "(XXXX) §§ 55 bis 58",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR011860939BJNE888800301",
+          "paragraph" : "Anhang EV",
+          "title" : "Auszug aus EinigVtr Anlage I Kapitel III Sachgebiet B Abschnitt III"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Abschnitt VI"
+    }
+  ]
+}

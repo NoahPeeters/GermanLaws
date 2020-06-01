@@ -1,0 +1,59 @@
+{
+  "documentIdentifier" : "BJNR093010013",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR093010013Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR093010013BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Zwecke der Statistik, Anordnung als Bundesstatistik"
+        },
+        {
+          "documentIdentifier" : "BJNR093010013BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Erhebungsbereiche"
+        },
+        {
+          "documentIdentifier" : "BJNR093010013BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Erhebungseinheiten und Erhebungsarten"
+        },
+        {
+          "documentIdentifier" : "BJNR093010013BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Periodizität, Erhebungsmerkmale, Berichtszeitraum, Berichtszeitpunkt"
+        },
+        {
+          "documentIdentifier" : "BJNR093010013BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Hilfsmerkmale"
+        },
+        {
+          "documentIdentifier" : "BJNR093010013BJNE000600000",
+          "paragraph" : "§ 6",
+          "title" : "Auskunftspflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR093010013BJNE000700000",
+          "paragraph" : "§ 7",
+          "title" : "Übermittlung von Einzelangaben"
+        },
+        {
+          "documentIdentifier" : "BJNR093010013BJNE000801118",
+          "paragraph" : "§ 8",
+          "title" : "Verordnungsermächtigung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

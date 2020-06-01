@@ -1,0 +1,94 @@
+{
+  "documentIdentifier" : "BJNR004590956",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR004590956BJNG000100315",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR004590956BJNE000700315",
+          "paragraph" : "§ 1",
+          "title" : "Unmittelbare Vorgesetzte"
+        },
+        {
+          "documentIdentifier" : "BJNR004590956BJNE000800315",
+          "paragraph" : "§ 2",
+          "title" : "Fachvorgesetzte"
+        },
+        {
+          "documentIdentifier" : "BJNR004590956BJNE000900315",
+          "paragraph" : "§ 3",
+          "title" : "Vorgesetzte mit besonderem Aufgabenbereich"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Vorgesetztenverhältnis auf Grund der Dienststellung"
+    },
+    {
+      "documentIdentifier" : "BJNR004590956BJNG000200315",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Vorgesetztenverhältnis auf Grund des Dienstgrads"
+    },
+    {
+      "documentIdentifier" : "BJNR004590956BJNG000300315",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Vorgesetztenverhältnis auf Grund besonderer Anordnung"
+    },
+    {
+      "documentIdentifier" : "BJNR004590956BJNG000400315",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Vorgesetztenverhältnis auf Grund eigener Erklärung"
+    },
+    {
+      "documentIdentifier" : "BJNR004590956BJNG000500315",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inkrafttreten"
+    }
+  ]
+}

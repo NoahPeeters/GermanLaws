@@ -1,0 +1,64 @@
+{
+  "documentIdentifier" : "BJNR154600016",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR154600016Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR154600016BJNE000201116",
+          "paragraph" : "§ 1",
+          "title" : "Grundsatz"
+        },
+        {
+          "documentIdentifier" : "BJNR154600016BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Anspruchsberechtigung"
+        },
+        {
+          "documentIdentifier" : "BJNR154600016BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR154600016BJNE000502116",
+          "paragraph" : "§ 4",
+          "title" : "Verfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR154600016BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Beirat"
+        },
+        {
+          "documentIdentifier" : "BJNR154600016BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Aufklärung des Sachverhalts"
+        },
+        {
+          "documentIdentifier" : "BJNR154600016BJNE000801116",
+          "paragraph" : "§ 7",
+          "title" : "Datenschutz"
+        },
+        {
+          "documentIdentifier" : "BJNR154600016BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Verhältnis zu anderen Rechtsvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR154600016BJNE001000000",
+          "paragraph" : "§ 9",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

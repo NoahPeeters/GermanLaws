@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR013550968",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR013550968Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR013550968BJNE000605377",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 1)\n"
+        },
+        {
+          "documentIdentifier" : "BJNR013550968BJNE888800309",
+          "paragraph" : "Anhang EV",
+          "title" : "Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet B Abschnitt III\n"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

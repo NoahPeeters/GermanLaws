@@ -1,0 +1,137 @@
+{
+  "documentIdentifier" : "BJNR013579976",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR013579976BJNG000100323",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Art 1"
+    },
+    {
+      "documentIdentifier" : "BJNR013579976BJNG000200323",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR013579976BJNE000600323",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR013579976BJNE000700323",
+              "laws" : [
+
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2
+                ]
+              },
+              "subsections" : [
+                {
+                  "documentIdentifier" : "BJNR013579976BJNE000801160",
+                  "laws" : [
+
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      2
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Art 2"
+                }
+              ],
+              "title" : "Art 2"
+            }
+          ],
+          "title" : "Art 2"
+        }
+      ],
+      "title" : "Besoldungsrechtliche Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR013579976BJNG000300323",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Art 3"
+    },
+    {
+      "documentIdentifier" : "BJNR013579976BJNG000400323",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Art 4"
+    },
+    {
+      "documentIdentifier" : "BJNR013579976BJNG000500323",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inkrafttreten"
+    },
+    {
+      "documentIdentifier" : "BJNR013579976BJNE000900323",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "-"
+    }
+  ]
+}

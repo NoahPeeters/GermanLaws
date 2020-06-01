@@ -1,0 +1,50 @@
+{
+  "documentIdentifier" : "BJNR002300959",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR002300959BJNG000100314",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Die Bundesversammlung"
+    },
+    {
+      "documentIdentifier" : "BJNR002300959BJNG000200314",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Wahl des Bundespräsidenten"
+    },
+    {
+      "documentIdentifier" : "BJNR002300959BJNG000300314",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlußvorschriften"
+    }
+  ]
+}

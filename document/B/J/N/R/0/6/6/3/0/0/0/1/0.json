@@ -1,0 +1,125 @@
+{
+  "documentIdentifier" : "BJNR066300010",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR066300010BJNG000101116",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR066300010BJNE000202116",
+          "paragraph" : "§ 1",
+          "title" : "Einrichtung, Aufgaben, Beschlussfassung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Der IT-Planungsrat"
+    },
+    {
+      "documentIdentifier" : "BJNR066300010BJNG000202116",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR066300010BJNE000402116",
+          "paragraph" : "§ 2",
+          "title" : "Festlegung von IT-Interoperabilitäts- und IT-Sicherheitsstandards"
+        },
+        {
+          "documentIdentifier" : "BJNR066300010BJNE000502116",
+          "paragraph" : "§ 3",
+          "title" : "Aufgaben im Bereich Verbindungsnetz"
+        },
+        {
+          "documentIdentifier" : "BJNR066300010BJNE000602116",
+          "paragraph" : "§ 4",
+          "title" : "Informationsaustausch"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gemeinsame Standards und Sicherheitsanforderungen, Informationsaustausch"
+    },
+    {
+      "documentIdentifier" : "BJNR066300010BJNG000401116",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR066300010BJNE001201116",
+          "paragraph" : "§ 5",
+          "title" : "Errichtung und Aufgaben"
+        },
+        {
+          "documentIdentifier" : "BJNR066300010BJNE001301116",
+          "paragraph" : "§ 6",
+          "title" : "Trägerschaft, Dienstherrnfähigkeit, anwendbares Recht"
+        },
+        {
+          "documentIdentifier" : "BJNR066300010BJNE001401116",
+          "paragraph" : "§ 7",
+          "title" : "Organe"
+        },
+        {
+          "documentIdentifier" : "BJNR066300010BJNE001501116",
+          "paragraph" : "§ 8",
+          "title" : "Aufsicht"
+        },
+        {
+          "documentIdentifier" : "BJNR066300010BJNE001601116",
+          "paragraph" : "§ 9",
+          "title" : "Finanzierung"
+        },
+        {
+          "documentIdentifier" : "BJNR066300010BJNE001701116",
+          "paragraph" : "§ 10",
+          "title" : "Unzulässigkeit eines Insolvenzverfahrens"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR066300010BJNG000302116",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR066300010BJNE000702116",
+              "paragraph" : "§ 11",
+              "title" : "Änderung, Kündigung"
+            },
+            {
+              "documentIdentifier" : "BJNR066300010BJNE000802116",
+              "paragraph" : "§ 12",
+              "title" : "Inkrafttreten, Außerkrafttreten, Übergangsregelung"
+            },
+            {
+              "documentIdentifier" : "BJNR066300010BJNE001001116",
+              "paragraph" : "Anhang",
+              "title" : "„Gemeinsames Grundverständnis der technischen und organisatorischen Ausgestaltung der Bund\/Länder-Zusammenarbeit bei dem Verbindungsnetz und der IT-Steuerung“"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Schlussbestimmungen"
+        }
+      ],
+      "title" : "Gemeinsame Einrichtung zur Unterstützung des IT-Planungsrats"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "documentIdentifier" : "BJNR267400012",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR267400012Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR267400012BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR267400012BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Anforderung und Durchführung von Hilfeleistungen"
+        },
+        {
+          "documentIdentifier" : "BJNR267400012BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Abrechnung von Hilfeleistungen"
+        },
+        {
+          "documentIdentifier" : "BJNR267400012BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Bemessung der Ansprüche"
+        },
+        {
+          "documentIdentifier" : "BJNR267400012BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Vollständiger oder teilweiser Verzicht auf Auslagenerstattung"
+        },
+        {
+          "documentIdentifier" : "BJNR267400012BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Sonstige Regelungen"
+        },
+        {
+          "documentIdentifier" : "BJNR267400012BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR267400012BJNE000900000",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 4 Absatz 3)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

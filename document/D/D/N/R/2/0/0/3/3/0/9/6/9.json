@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "DDNR200330969",
+  "sections" : [
+    {
+      "documentIdentifier" : "DDNR200330969Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "DDNR200330969BJNE000300307",
+          "paragraph" : "§ 2",
+          "title" : "Kindergärten"
+        },
+        {
+          "documentIdentifier" : "DDNR200330969BJNE000400307",
+          "paragraph" : "(XXXX) §§ 3 bis 13",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

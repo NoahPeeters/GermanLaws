@@ -1,0 +1,161 @@
+{
+  "documentIdentifier" : "BJNR128000015",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR128000015BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR128000015BJNE000300000",
+          "paragraph" : "§ 1",
+          "title" : "Staatliche Anerkennung des Ausbildungsberufes"
+        },
+        {
+          "documentIdentifier" : "BJNR128000015BJNE000400000",
+          "paragraph" : "§ 2",
+          "title" : "Dauer der Berufsausbildung"
+        },
+        {
+          "documentIdentifier" : "BJNR128000015BJNE000500000",
+          "paragraph" : "§ 3",
+          "title" : "Gegenstand der Berufsausbildung und Ausbildungsrahmenplan"
+        },
+        {
+          "documentIdentifier" : "BJNR128000015BJNE000600000",
+          "paragraph" : "§ 4",
+          "title" : "Struktur der Berufsausbildung, Ausbildungsberufsbild"
+        },
+        {
+          "documentIdentifier" : "BJNR128000015BJNE000700000",
+          "paragraph" : "§ 5",
+          "title" : "Ausbildungsplan"
+        },
+        {
+          "documentIdentifier" : "BJNR128000015BJNE000800000",
+          "paragraph" : "§ 6",
+          "title" : "Schriftlicher Ausbildungsnachweis"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gegenstand, Dauer und Gliederung der Berufsausbildung"
+    },
+    {
+      "documentIdentifier" : "BJNR128000015BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR128000015BJNE000900000",
+          "paragraph" : "§ 7",
+          "title" : "Ziel und Zeitpunkt"
+        },
+        {
+          "documentIdentifier" : "BJNR128000015BJNE001000000",
+          "paragraph" : "§ 8",
+          "title" : "Inhalt"
+        },
+        {
+          "documentIdentifier" : "BJNR128000015BJNE001100000",
+          "paragraph" : "§ 9",
+          "title" : "Prüfungsbereich Vorarbeiten zur Herstellung eines Bogens"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Zwischenprüfung"
+    },
+    {
+      "documentIdentifier" : "BJNR128000015BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR128000015BJNE001200000",
+          "paragraph" : "§ 10",
+          "title" : "Ziel und Zeitpunkt"
+        },
+        {
+          "documentIdentifier" : "BJNR128000015BJNE001300000",
+          "paragraph" : "§ 11",
+          "title" : "Inhalt"
+        },
+        {
+          "documentIdentifier" : "BJNR128000015BJNE001400000",
+          "paragraph" : "§ 12",
+          "title" : "Prüfungsbereiche"
+        },
+        {
+          "documentIdentifier" : "BJNR128000015BJNE001500000",
+          "paragraph" : "§ 13",
+          "title" : "Prüfungsbereich Herstellen eines spielfertigen Bogens"
+        },
+        {
+          "documentIdentifier" : "BJNR128000015BJNE001600000",
+          "paragraph" : "§ 14",
+          "title" : "Prüfungsbereich Durchführen von Teilarbeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR128000015BJNE001700000",
+          "paragraph" : "§ 15",
+          "title" : "Prüfungsbereich Planung und Konstruktion"
+        },
+        {
+          "documentIdentifier" : "BJNR128000015BJNE001800000",
+          "paragraph" : "§ 16",
+          "title" : "Prüfungsbereich Wirtschafts- und Sozialkunde"
+        },
+        {
+          "documentIdentifier" : "BJNR128000015BJNE001900000",
+          "paragraph" : "§ 17",
+          "title" : "Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Gesellenprüfung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gesellenprüfung"
+    },
+    {
+      "documentIdentifier" : "BJNR128000015BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR128000015BJNE002000000",
+          "paragraph" : "§ 18",
+          "title" : "Bestehende Berufsausbildungsverhältnisse"
+        },
+        {
+          "documentIdentifier" : "BJNR128000015BJNE002100000",
+          "paragraph" : "§ 19",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR128000015BJNE002200000",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 3 Absatz 1)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussvorschriften"
+    }
+  ]
+}

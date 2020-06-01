@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR248910999",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR248910999Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR248910999BJNE000107377",
+          "paragraph" : "§ 1",
+          "title" : "Zweck und Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR248910999BJNE000211119",
+          "paragraph" : "§ 2",
+          "title" : "Verarbeitung von Daten"
+        },
+        {
+          "documentIdentifier" : "BJNR248910999BJNE000305119",
+          "paragraph" : "§ 3",
+          "title" : "Auskunft an den Tierhalter"
+        },
+        {
+          "documentIdentifier" : "BJNR248910999BJNE000403377",
+          "paragraph" : "§ 4",
+          "title" : "Aufbewahrung und Löschung von Daten"
+        },
+        {
+          "documentIdentifier" : "BJNR248910999BJNE000504119",
+          "paragraph" : "§ 5",
+          "title" : "Technische und organisatorische Maßnahmen"
+        },
+        {
+          "documentIdentifier" : "BJNR248910999BJNE000605301",
+          "paragraph" : "§ 6",
+          "title" : "Ermächtigung zum Erlass von Rechtsverordnungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

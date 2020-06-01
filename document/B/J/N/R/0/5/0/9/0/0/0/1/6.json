@@ -1,0 +1,107 @@
+{
+  "documentIdentifier" : "BJNR050900016",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR050900016BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR050900016BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Ausnahmebewilligung zur Eintragung in die Handwerksrolle"
+        },
+        {
+          "documentIdentifier" : "BJNR050900016BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Anerkennung von Berufserfahrung"
+        },
+        {
+          "documentIdentifier" : "BJNR050900016BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Anerkennung von Ausbildungs- und Befähigungsnachweisen"
+        },
+        {
+          "documentIdentifier" : "BJNR050900016BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Gemeinsame Ausbildungsrahmen und Ausbildungsprüfungen"
+        },
+        {
+          "documentIdentifier" : "BJNR050900016BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Ausgleichsmaßnahmen"
+        },
+        {
+          "documentIdentifier" : "BJNR050900016BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Anerkennungsverfahren, Mitteilungspflichten und Fristen"
+        },
+        {
+          "documentIdentifier" : "BJNR050900016BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Eignungsprüfung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Eintragung in die Handwerksrolle"
+    },
+    {
+      "documentIdentifier" : "BJNR050900016BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR050900016BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Voraussetzungen der Dienstleistungserbringung"
+        },
+        {
+          "documentIdentifier" : "BJNR050900016BJNE001000000",
+          "paragraph" : "§ 9",
+          "title" : "Anzeige vor Dienstleistungserbringung"
+        },
+        {
+          "documentIdentifier" : "BJNR050900016BJNE001100000",
+          "paragraph" : "§ 10",
+          "title" : "Nachprüfung der Berufsqualifikation"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Grenzüberschreitende Erbringung von Dienstleistungen"
+    },
+    {
+      "documentIdentifier" : "BJNR050900016BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR050900016BJNE001200000",
+          "paragraph" : "§ 11",
+          "title" : "Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR050900016BJNE001300000",
+          "paragraph" : "§ 12",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Ordnungswidrigkeiten, Inkrafttreten, Außerkrafttreten"
+    }
+  ]
+}

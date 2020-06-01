@@ -1,0 +1,350 @@
+{
+  "documentIdentifier" : "BJNR036100974",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR036100974BJNG000100314",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR036100974BJNG000201308",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR036100974BJNE001106360",
+              "paragraph" : "§ 1",
+              "title" : "Zusage des Arbeitgebers auf betriebliche Altersversorgung"
+            },
+            {
+              "documentIdentifier" : "BJNR036100974BJNE004304360",
+              "paragraph" : "§ 1a",
+              "title" : "Anspruch auf betriebliche Altersversorgung durch Entgeltumwandlung"
+            },
+            {
+              "documentIdentifier" : "BJNR036100974BJNE004405360",
+              "paragraph" : "§ 1b",
+              "title" : "Unverfallbarkeit und Durchführung der betrieblichen Altersversorgung"
+            },
+            {
+              "documentIdentifier" : "BJNR036100974BJNE001215126",
+              "paragraph" : "§ 2",
+              "title" : "Höhe der unverfallbaren Anwartschaft"
+            },
+            {
+              "documentIdentifier" : "BJNR036100974BJNE005200119",
+              "paragraph" : "§ 2a",
+              "title" : "Berechnung und Wahrung des Teilanspruchs"
+            },
+            {
+              "documentIdentifier" : "BJNR036100974BJNE001307119",
+              "paragraph" : "§ 3",
+              "title" : "Abfindung"
+            },
+            {
+              "documentIdentifier" : "BJNR036100974BJNE001407360",
+              "paragraph" : "§ 4",
+              "title" : "Übertragung"
+            },
+            {
+              "documentIdentifier" : "BJNR036100974BJNE005001119",
+              "paragraph" : "§ 4a",
+              "title" : "Auskunftspflichten"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Durchführung der betrieblichen Altersversorgung"
+        },
+        {
+          "documentIdentifier" : "BJNR036100974BJNG000300314",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR036100974BJNE001501308",
+              "paragraph" : "§ 5",
+              "title" : "Auszehrung und Anrechnung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Auszehrungsverbot"
+        },
+        {
+          "documentIdentifier" : "BJNR036100974BJNG000400314",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR036100974BJNE001603301",
+              "paragraph" : "§ 6",
+              "title" : "Vorzeitige Altersleistung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Altersgrenze"
+        },
+        {
+          "documentIdentifier" : "BJNR036100974BJNG000500314",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR036100974BJNE001710119",
+              "paragraph" : "§ 7",
+              "title" : "Umfang des Versicherungsschutzes"
+            },
+            {
+              "documentIdentifier" : "BJNR036100974BJNE001808360",
+              "paragraph" : "§ 8",
+              "title" : "Übertragung der Leistungspflicht"
+            },
+            {
+              "documentIdentifier" : "BJNR036100974BJNE005300360",
+              "paragraph" : "§ 8a",
+              "title" : "Abfindung durch den Träger der Insolvenzsicherung"
+            },
+            {
+              "documentIdentifier" : "BJNR036100974BJNE001905360",
+              "paragraph" : "§ 9",
+              "title" : "Mitteilungspflicht, Forderungs- und Vermögensübergang"
+            },
+            {
+              "documentIdentifier" : "BJNR036100974BJNE002012126",
+              "paragraph" : "§ 10",
+              "title" : "Beitragspflicht und Beitragsbemessung"
+            },
+            {
+              "documentIdentifier" : "BJNR036100974BJNE003800308",
+              "paragraph" : "§ 10a",
+              "title" : "Säumniszuschläge, Zinsen, Verjährung"
+            },
+            {
+              "documentIdentifier" : "BJNR036100974BJNE002104308",
+              "paragraph" : "§ 11",
+              "title" : "Melde-, Auskunfts- und Mitteilungspflichten"
+            },
+            {
+              "documentIdentifier" : "BJNR036100974BJNE002203308",
+              "paragraph" : "§ 12",
+              "title" : "Ordnungswidrigkeiten"
+            },
+            {
+              "documentIdentifier" : "BJNR036100974BJNE002407126",
+              "paragraph" : "§ 14",
+              "title" : "Träger der Insolvenzsicherung"
+            },
+            {
+              "documentIdentifier" : "BJNR036100974BJNE002502308",
+              "paragraph" : "§ 15",
+              "title" : "Verschwiegenheitspflicht"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Insolvenzsicherung"
+        },
+        {
+          "documentIdentifier" : "BJNR036100974BJNG000600314",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR036100974BJNE002609119",
+              "paragraph" : "§ 16",
+              "title" : "Anpassungsprüfungspflicht"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              5
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Anpassung"
+        },
+        {
+          "documentIdentifier" : "BJNR036100974BJNG000700314",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR036100974BJNE002707360",
+              "paragraph" : "§ 17",
+              "title" : "Persönlicher Geltungsbereich"
+            },
+            {
+              "documentIdentifier" : "BJNR036100974BJNE002816360",
+              "paragraph" : "§ 18",
+              "title" : "Sonderregelungen für den öffentlichen Dienst"
+            },
+            {
+              "documentIdentifier" : "BJNR036100974BJNE004800308",
+              "paragraph" : "§ 18a",
+              "title" : "Verjährung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              6
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Geltungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR036100974BJNG000801360",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              7
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR036100974BJNG001000360",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR036100974BJNE002901360",
+                  "paragraph" : "§ 19",
+                  "title" : "Allgemeine Tariföffnungsklausel"
+                },
+                {
+                  "documentIdentifier" : "BJNR036100974BJNE005400360",
+                  "paragraph" : "§ 20",
+                  "title" : "Tarifvertrag und Entgeltumwandlung; Optionssysteme"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  1,
+                  7,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Tariföffnung; Optionssysteme"
+            },
+            {
+              "documentIdentifier" : "BJNR036100974BJNG001100360",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR036100974BJNE005500360",
+                  "paragraph" : "§ 21",
+                  "title" : "Tarifvertragsparteien"
+                },
+                {
+                  "documentIdentifier" : "BJNR036100974BJNE005600360",
+                  "paragraph" : "§ 22",
+                  "title" : "Arbeitnehmer und Versorgungseinrichtung"
+                },
+                {
+                  "documentIdentifier" : "BJNR036100974BJNE005700360",
+                  "paragraph" : "§ 23",
+                  "title" : "Zusatzbeiträge des Arbeitgebers"
+                },
+                {
+                  "documentIdentifier" : "BJNR036100974BJNE005800360",
+                  "paragraph" : "§ 24",
+                  "title" : "Nichttarifgebundene Arbeitgeber und Arbeitnehmer"
+                },
+                {
+                  "documentIdentifier" : "BJNR036100974BJNE003001360",
+                  "paragraph" : "§ 25",
+                  "title" : "Verordnungsermächtigung"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  1,
+                  7,
+                  2
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Tarifvertrag und reine Beitragszusage"
+            }
+          ],
+          "title" : "Betriebliche Altersversorgung und Tarifvertrag"
+        }
+      ],
+      "title" : "Arbeitsrechtliche Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR036100974BJNG000901360",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR036100974BJNE005900360",
+          "paragraph" : "§ 26a",
+          "title" : "Übergangsvorschrift zu § 1a Absatz 1a"
+        },
+        {
+          "documentIdentifier" : "BJNR036100974BJNE003901360",
+          "paragraph" : "§ 30a",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR036100974BJNE004202360",
+          "paragraph" : "§ 30d",
+          "title" : "Übergangsregelung zu § 18"
+        },
+        {
+          "documentIdentifier" : "BJNR036100974BJNE006000360",
+          "paragraph" : "§ 30j",
+          "title" : "Übergangsregelung zu § 20 Absatz 2"
+        },
+        {
+          "documentIdentifier" : "BJNR036100974BJNE888800301",
+          "paragraph" : "Anhang EV",
+          "title" : "Auszug aus EinigVtr Anlage I Kapitel VIII Sachgebiet A Abschnitt III\n"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übergangs- und Schlußvorschriften"
+    }
+  ]
+}

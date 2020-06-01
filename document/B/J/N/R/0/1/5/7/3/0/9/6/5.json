@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR015730965",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR015730965Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR015730965BJNE000200303",
+          "paragraph" : "Art 1",
+          "title" : "Vorbehaltene Gnadenentschließungen"
+        },
+        {
+          "documentIdentifier" : "BJNR015730965BJNE000300303",
+          "paragraph" : "Art 2",
+          "title" : "Übertragung von Gnadenbefugnissen"
+        },
+        {
+          "documentIdentifier" : "BJNR015730965BJNE000400303",
+          "paragraph" : "Art 3",
+          "title" : "Weiterübertragung von Gnadenbefugnissen"
+        },
+        {
+          "documentIdentifier" : "BJNR015730965BJNE000500303",
+          "paragraph" : "Art 4",
+          "title" : "Verfahren in Gnadensachen"
+        },
+        {
+          "documentIdentifier" : "BJNR015730965BJNE000600303",
+          "paragraph" : "Art 5",
+          "title" : "Schlußvorschrift"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

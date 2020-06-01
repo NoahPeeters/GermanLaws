@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR458010002",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR458010002Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR458010002BJNE000101305",
+          "paragraph" : "§ 1",
+          "title" : "Eder- und Diemeltalsperre"
+        },
+        {
+          "documentIdentifier" : "BJNR458010002BJNE000201305",
+          "paragraph" : "§ 2",
+          "title" : "Lotsenentgelte"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

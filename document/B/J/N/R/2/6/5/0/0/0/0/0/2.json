@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR265000002",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR265000002Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR265000002BJNE000101119",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich und Anlass"
+        },
+        {
+          "documentIdentifier" : "BJNR265000002BJNE000201119",
+          "paragraph" : "§ 2",
+          "title" : "Umfang des Anspruchs"
+        },
+        {
+          "documentIdentifier" : "BJNR265000002BJNE000301119",
+          "paragraph" : "§ 3",
+          "title" : "Kommunikationshilfen"
+        },
+        {
+          "documentIdentifier" : "BJNR265000002BJNE000401119",
+          "paragraph" : "§ 4",
+          "title" : "Art und Weise der Bereitstellung von geeigneten Kommunikationshilfen"
+        },
+        {
+          "documentIdentifier" : "BJNR265000002BJNE000502119",
+          "paragraph" : "§ 5",
+          "title" : "Grundsätze für eine angemessene Vergütung oder Erstattung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

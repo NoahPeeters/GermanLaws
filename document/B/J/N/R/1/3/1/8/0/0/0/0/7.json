@@ -1,0 +1,59 @@
+{
+  "documentIdentifier" : "BJNR131800007",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR131800007Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR131800007BJNE000101124",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR131800007BJNE000202305",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR131800007BJNE000304124",
+          "paragraph" : "§ 3",
+          "title" : "Sicherheitsvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR131800007BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Beantragung von Sicherheitsbescheinigungen und Sicherheitsgenehmigungen"
+        },
+        {
+          "documentIdentifier" : "BJNR131800007BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Unterrichtungspflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR131800007BJNE000601124",
+          "paragraph" : "§ 6",
+          "title" : "Sicherheitsbericht"
+        },
+        {
+          "documentIdentifier" : "BJNR131800007BJNE000700000",
+          "paragraph" : "§ 7",
+          "title" : "Jahresbericht"
+        },
+        {
+          "documentIdentifier" : "BJNR131800007BJNE000800000",
+          "paragraph" : "§ 8",
+          "title" : "Ordnungswidrigkeiten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "documentIdentifier" : "BJNR255000994",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR255000994BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR255000994BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR255000994BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Bestimmungen"
+    },
+    {
+      "documentIdentifier" : "BJNR255000994BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR255000994BJNE000402308",
+          "paragraph" : "§ 3",
+          "title" : "Bestellung einer Dienstbarkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR255000994BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Haftung des Erwerbers"
+        },
+        {
+          "documentIdentifier" : "BJNR255000994BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Einreden des Grundstückseigentümers"
+        },
+        {
+          "documentIdentifier" : "BJNR255000994BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Bestehenbleiben in der Zwangsvollstreckung"
+        },
+        {
+          "documentIdentifier" : "BJNR255000994BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Anspruch auf Verzicht"
+        },
+        {
+          "documentIdentifier" : "BJNR255000994BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Wegnahmerecht"
+        },
+        {
+          "documentIdentifier" : "BJNR255000994BJNE001000000",
+          "paragraph" : "§ 9",
+          "title" : "Entgelt"
+        },
+        {
+          "documentIdentifier" : "BJNR255000994BJNE001102308",
+          "paragraph" : "§ 10",
+          "title" : "Eigentumsübergang"
+        },
+        {
+          "documentIdentifier" : "BJNR255000994BJNE001201307",
+          "paragraph" : "§ 11",
+          "title" : "Ersatz der Kosten des Abbruchs der Anlage"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Anlagen zur Bewässerung"
+    },
+    {
+      "documentIdentifier" : "BJNR255000994BJNG001300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR255000994BJNE001300000",
+          "paragraph" : "§ 12",
+          "title" : "Eigentumsübergang"
+        },
+        {
+          "documentIdentifier" : "BJNR255000994BJNE001400000",
+          "paragraph" : "§ 13",
+          "title" : "Entschädigung für den Rechtsverlust"
+        },
+        {
+          "documentIdentifier" : "BJNR255000994BJNE001501308",
+          "paragraph" : "§ 14",
+          "title" : "Durchleitungsrecht"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Anlagen zur Entwässerung"
+    },
+    {
+      "documentIdentifier" : "BJNR255000994BJNG001600000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR255000994BJNE001601308",
+          "paragraph" : "§ 15",
+          "title" : "Ansprüche der Beteiligten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Bauliche Anlagen"
+    },
+    {
+      "documentIdentifier" : "BJNR255000994BJNG001700000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR255000994BJNE001700000",
+          "paragraph" : "§ 16",
+          "title" : "Eigentumsbestimmung nach den Wassergesetzen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Offene Gewässer"
+    },
+    {
+      "documentIdentifier" : "BJNR255000994BJNG001800000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR255000994BJNE001800000",
+          "paragraph" : "§ 17",
+          "title" : "Verhältnis zu anderen Bestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR255000994BJNE001900307",
+          "paragraph" : "§ 18",
+          "title" : "Überleitungsvorschrift"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlußbestimmung"
+    }
+  ]
+}

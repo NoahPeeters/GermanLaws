@@ -1,0 +1,146 @@
+{
+  "documentIdentifier" : "BJNR129000010",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR129000010BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR129000010BJNE000300000",
+          "paragraph" : "§ 1",
+          "title" : "Geltungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR129000010BJNE000400000",
+          "paragraph" : "§ 2",
+          "title" : "Dienstherrenwechsel"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeines"
+    },
+    {
+      "documentIdentifier" : "BJNR129000010BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR129000010BJNE000500000",
+          "paragraph" : "§ 3",
+          "title" : "Voraussetzungen"
+        },
+        {
+          "documentIdentifier" : "BJNR129000010BJNE000600000",
+          "paragraph" : "§ 4",
+          "title" : "Abfindung"
+        },
+        {
+          "documentIdentifier" : "BJNR129000010BJNE000700000",
+          "paragraph" : "§ 5",
+          "title" : "Bezüge"
+        },
+        {
+          "documentIdentifier" : "BJNR129000010BJNE000800000",
+          "paragraph" : "§ 6",
+          "title" : "Dienstzeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR129000010BJNE000900000",
+          "paragraph" : "§ 7",
+          "title" : "Weitere Zahlungsansprüche"
+        },
+        {
+          "documentIdentifier" : "BJNR129000010BJNE001000000",
+          "paragraph" : "§ 8",
+          "title" : "Dokumentationspflichten und Zahlungsmodalitäten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Versorgungslastenteilung"
+    },
+    {
+      "documentIdentifier" : "BJNR129000010BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR129000010BJNE001100000",
+          "paragraph" : "§ 9",
+          "title" : "Ersetzung von § 107b BeamtVG"
+        },
+        {
+          "documentIdentifier" : "BJNR129000010BJNE001200000",
+          "paragraph" : "§ 10",
+          "title" : "Laufende Erstattungen nach § 107b BeamtVG"
+        },
+        {
+          "documentIdentifier" : "BJNR129000010BJNE001300000",
+          "paragraph" : "§ 11",
+          "title" : "Dienstherrenwechsel ohne"
+        },
+        {
+          "documentIdentifier" : "BJNR129000010BJNE001400000",
+          "paragraph" : "§ 12",
+          "title" : "Erneuter Dienstherrenwechsel"
+        },
+        {
+          "documentIdentifier" : "BJNR129000010BJNE001600360",
+          "paragraph" : "§ 13",
+          "title" : "Quotelung ohne"
+        },
+        {
+          "documentIdentifier" : "BJNR129000010BJNE001500000",
+          "paragraph" : "§ 14",
+          "title" : "Entsprechende Anwendung auf § 92b SVG"
+        },
+        {
+          "documentIdentifier" : "BJNR129000010BJNE001600000",
+          "paragraph" : "§ 15",
+          "title" : "Fortgeltung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übergangsregelungen"
+    },
+    {
+      "documentIdentifier" : "BJNR129000010BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR129000010BJNE001700000",
+          "paragraph" : "§ 16",
+          "title" : "Kündigung"
+        },
+        {
+          "documentIdentifier" : "BJNR129000010BJNE001800000",
+          "paragraph" : "§ 17",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussvorschriften"
+    }
+  ]
+}

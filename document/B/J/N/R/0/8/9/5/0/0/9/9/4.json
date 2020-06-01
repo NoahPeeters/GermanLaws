@@ -1,0 +1,87 @@
+{
+  "documentIdentifier" : "BJNR089500994",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR089500994BJNG000100308",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR089500994BJNE000501377",
+          "paragraph" : "§ 1",
+          "title" : "Berufsbild"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Berufsbild"
+    },
+    {
+      "documentIdentifier" : "BJNR089500994BJNG000200308",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR089500994BJNE000600308",
+          "paragraph" : "§ 2",
+          "title" : "Gliederung, Dauer und Bestehen der praktischen\nPrüfung (Teil I)"
+        },
+        {
+          "documentIdentifier" : "BJNR089500994BJNE000700308",
+          "paragraph" : "§ 3",
+          "title" : "Meisterprüfungsarbeit"
+        },
+        {
+          "documentIdentifier" : "BJNR089500994BJNE000800308",
+          "paragraph" : "§ 4",
+          "title" : "Arbeitsprobe"
+        },
+        {
+          "documentIdentifier" : "BJNR089500994BJNE000900308",
+          "paragraph" : "§ 5",
+          "title" : "Prüfung der fachtheoretischen Kenntnisse (Teil II)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Prüfungsanforderungen in den Teilen I und II der Meisterprüfung"
+    },
+    {
+      "documentIdentifier" : "BJNR089500994BJNG000300308",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR089500994BJNE001000308",
+          "paragraph" : "§ 6",
+          "title" : "Übergangsvorschrift"
+        },
+        {
+          "documentIdentifier" : "BJNR089500994BJNE001100308",
+          "paragraph" : "§ 7",
+          "title" : "Weitere Anforderungen"
+        },
+        {
+          "documentIdentifier" : "BJNR089500994BJNE001200308",
+          "paragraph" : "§ 8",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übergangs- und Schlußvorschriften"
+    }
+  ]
+}

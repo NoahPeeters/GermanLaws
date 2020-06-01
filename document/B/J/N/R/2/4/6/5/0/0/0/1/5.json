@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR246500015",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR246500015Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR246500015BJNE000201360",
+          "paragraph" : "§ 1",
+          "title" : "Voraussetzungen des Anspruchs"
+        },
+        {
+          "documentIdentifier" : "BJNR246500015BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Ermittlung des Anspruchs"
+        },
+        {
+          "documentIdentifier" : "BJNR246500015BJNE000405116",
+          "paragraph" : "§ 3",
+          "title" : "Höhe des Anspruchs bei Vollzeitbeschäftigung"
+        },
+        {
+          "documentIdentifier" : "BJNR246500015BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Höhe des Anspruchs bei Teilzeitbeschäftigung"
+        },
+        {
+          "documentIdentifier" : "BJNR246500015BJNE000602360",
+          "paragraph" : "§ 5",
+          "title" : "Ausschluss des Anspruchs"
+        },
+        {
+          "documentIdentifier" : "BJNR246500015BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

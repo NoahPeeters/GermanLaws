@@ -1,0 +1,59 @@
+{
+  "documentIdentifier" : "BJNR130600997",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR130600997Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR130600997BJNE000201308",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR130600997BJNE000301308",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR130600997BJNE000402308",
+          "paragraph" : "§ 3",
+          "title" : "Kontrollen auf der Straße"
+        },
+        {
+          "documentIdentifier" : "BJNR130600997BJNE000502305",
+          "paragraph" : "§ 4",
+          "title" : "Kontrollen in den Unternehmen"
+        },
+        {
+          "documentIdentifier" : "BJNR130600997BJNE000604305",
+          "paragraph" : "§ 5",
+          "title" : "Berichtswesen"
+        },
+        {
+          "documentIdentifier" : "BJNR130600997BJNE000903308",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 3 Abs. 3 Satz 1)"
+        },
+        {
+          "documentIdentifier" : "BJNR130600997BJNE001103308",
+          "paragraph" : "Anlage 3",
+          "title" : "(zu § 3 Abs. 7)\n"
+        },
+        {
+          "documentIdentifier" : "BJNR130600997BJNE001302308",
+          "paragraph" : "Anlage 5",
+          "title" : "(zu § 5 Abs. 1)\n"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

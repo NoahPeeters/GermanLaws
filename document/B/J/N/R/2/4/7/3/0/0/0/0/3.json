@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR247300003",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR247300003Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR247300003BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Anspruch auf nachträgliche Erfüllung eines Entschädigungsanspruchs"
+        },
+        {
+          "documentIdentifier" : "BJNR247300003BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Rechte an enteigneten Grundstücken"
+        },
+        {
+          "documentIdentifier" : "BJNR247300003BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Währungsumstellung"
+        },
+        {
+          "documentIdentifier" : "BJNR247300003BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Zuständigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR247300003BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Antragsfrist"
+        },
+        {
+          "documentIdentifier" : "BJNR247300003BJNE000600000",
+          "paragraph" : "§ 6",
+          "title" : "Verfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR247300003BJNE000700000",
+          "paragraph" : "§ 7",
+          "title" : "Ausschluss doppelter Entschädigung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

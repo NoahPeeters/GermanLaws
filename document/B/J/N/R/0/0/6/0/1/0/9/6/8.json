@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR006010968",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR006010968Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR006010968BJNE001601307",
+          "paragraph" : "(XXXX) §§ 15 und 16",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR006010968BJNE002106360",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 4 Abs. 1a Satz 1)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

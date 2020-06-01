@@ -1,0 +1,84 @@
+{
+  "documentIdentifier" : "BJNR000070972",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR000070972BJNG000102308",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Begriffsbestimmung"
+    },
+    {
+      "documentIdentifier" : "BJNR000070972BJNG000601308",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Schutzmaßregeln für bestimmte Kälberhaltungen"
+    },
+    {
+      "documentIdentifier" : "BJNR000070972BJNG000202308",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Besondere Schutzmaßregeln"
+    },
+    {
+      "documentIdentifier" : "BJNR000070972BJNG000302308",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Aufhebung der Schutzmaßregeln"
+    },
+    {
+      "documentIdentifier" : "BJNR000070972BJNG000402308",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR000070972BJNE001602308",
+          "paragraph" : "§ 9",
+          "title" : "(Inkrafttreten)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Ordnungswidrigkeiten"
+    }
+  ]
+}

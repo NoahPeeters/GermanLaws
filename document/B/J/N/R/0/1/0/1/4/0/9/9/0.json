@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR010140990",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR010140990Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR010140990BJNE000103310",
+          "paragraph" : "§ 1",
+          "title" : "Aufgabenübertragung"
+        },
+        {
+          "documentIdentifier" : "BJNR010140990BJNE000304310",
+          "paragraph" : "§ 3",
+          "title" : "Prüfungsrecht des Bundesrechnungshofes"
+        },
+        {
+          "documentIdentifier" : "BJNR010140990BJNE000503310",
+          "paragraph" : "§ 4",
+          "title" : "(Inkrafttreten)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

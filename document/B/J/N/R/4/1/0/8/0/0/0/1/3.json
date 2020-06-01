@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR410800013",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR410800013Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR410800013BJNE000201301",
+          "paragraph" : "§ 1",
+          "title" : "Gebühren und Auslagen"
+        },
+        {
+          "documentIdentifier" : "BJNR410800013BJNE000301301",
+          "paragraph" : "§ 2",
+          "title" : "Gebührenermäßigung und Gebührenbefreiung"
+        },
+        {
+          "documentIdentifier" : "BJNR410800013BJNE000401301",
+          "paragraph" : "§ 3",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR410800013BJNE000501301",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 1)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

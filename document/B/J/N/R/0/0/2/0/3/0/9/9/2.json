@@ -1,0 +1,357 @@
+{
+  "documentIdentifier" : "BJNR002030992",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR002030992BJNG000101307",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR002030992BJNE001303360",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Anwendungsbereich"
+    },
+    {
+      "documentIdentifier" : "BJNR002030992BJNG000201307",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR002030992BJNE001403160",
+          "paragraph" : "§ 2",
+          "title" : "Formblätter"
+        },
+        {
+          "documentIdentifier" : "BJNR002030992BJNE001501307",
+          "paragraph" : "§ 3",
+          "title" : "Unterposten"
+        },
+        {
+          "documentIdentifier" : "BJNR002030992BJNE001602307",
+          "paragraph" : "§ 4",
+          "title" : "Nachrangige Vermögensgegenstände und Schulden"
+        },
+        {
+          "documentIdentifier" : "BJNR002030992BJNE001701307",
+          "paragraph" : "§ 5",
+          "title" : "Gemeinschaftsgeschäfte"
+        },
+        {
+          "documentIdentifier" : "BJNR002030992BJNE001803360",
+          "paragraph" : "§ 6",
+          "title" : "Treuhandgeschäfte"
+        },
+        {
+          "documentIdentifier" : "BJNR002030992BJNE001905360",
+          "paragraph" : "§ 7",
+          "title" : "Wertpapiere"
+        },
+        {
+          "documentIdentifier" : "BJNR002030992BJNE002001307",
+          "paragraph" : "§ 8",
+          "title" : "Restlaufzeit"
+        },
+        {
+          "documentIdentifier" : "BJNR002030992BJNE002104140",
+          "paragraph" : "§ 9",
+          "title" : "Fristengliederung"
+        },
+        {
+          "documentIdentifier" : "BJNR002030992BJNE002201307",
+          "paragraph" : "§ 10",
+          "title" : "Verrechnung"
+        },
+        {
+          "documentIdentifier" : "BJNR002030992BJNE002302307",
+          "paragraph" : "§ 11",
+          "title" : "Anteilige Zinsen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Bilanz und Gewinn- und Verlustrechnung"
+    },
+    {
+      "documentIdentifier" : "BJNR002030992BJNG000301307",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR002030992BJNG000401307",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR002030992BJNE002402307",
+              "paragraph" : "§ 12",
+              "title" : "Barreserve (Nr. 1)"
+            },
+            {
+              "documentIdentifier" : "BJNR002030992BJNE002504140",
+              "paragraph" : "§ 13",
+              "title" : "Schuldtitel öffentlicher Stellen und Wechsel, die zur Refinanzierung bei Zentralnotenbanken zugelassen sind (Nr. 2)"
+            },
+            {
+              "documentIdentifier" : "BJNR002030992BJNE002603140",
+              "paragraph" : "§ 14",
+              "title" : "Forderungen an Kreditinstitute (Nr. 3)"
+            },
+            {
+              "documentIdentifier" : "BJNR002030992BJNE002705140",
+              "paragraph" : "§ 15",
+              "title" : "Forderungen an Kunden (Nr. 4)"
+            },
+            {
+              "documentIdentifier" : "BJNR002030992BJNE002803307",
+              "paragraph" : "§ 16",
+              "title" : "Schuldverschreibungen und andere festverzinsliche\nWertpapiere (Nr. 5)"
+            },
+            {
+              "documentIdentifier" : "BJNR002030992BJNE002903360",
+              "paragraph" : "§ 17",
+              "title" : "Aktien und andere nicht festverzinsliche Wertpapiere (Nr. 6)"
+            },
+            {
+              "documentIdentifier" : "BJNR002030992BJNE003002307",
+              "paragraph" : "§ 18",
+              "title" : "Beteiligungen (Nr. 7)"
+            },
+            {
+              "documentIdentifier" : "BJNR002030992BJNE003102307",
+              "paragraph" : "§ 19",
+              "title" : "Ausgleichsforderungen gegen die öffentliche Hand\neinschließlich Schuldverschreibungen aus deren Umtausch\n(Nr. 10)"
+            },
+            {
+              "documentIdentifier" : "BJNR002030992BJNE003203140",
+              "paragraph" : "§ 20",
+              "title" : "Sonstige Vermögensgegenstände (Nr. 14)"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Posten der Aktivseite"
+        },
+        {
+          "documentIdentifier" : "BJNR002030992BJNG000501307",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR002030992BJNE003305377",
+              "paragraph" : "§ 21",
+              "title" : "Verbindlichkeiten gegenüber Kreditinstituten (Nr. 1),\n"
+            },
+            {
+              "documentIdentifier" : "BJNR002030992BJNE003402307",
+              "paragraph" : "§ 22",
+              "title" : "Verbriefte Verbindlichkeiten (Nr. 3)"
+            },
+            {
+              "documentIdentifier" : "BJNR002030992BJNE003501307",
+              "paragraph" : "§ 23",
+              "title" : "Rechnungsabgrenzungsposten (Nr. 6)"
+            },
+            {
+              "documentIdentifier" : "BJNR002030992BJNE003601307",
+              "paragraph" : "§ 24",
+              "title" : "Rückstellungen (Nr. 7)"
+            },
+            {
+              "documentIdentifier" : "BJNR002030992BJNE003702307",
+              "paragraph" : "§ 25",
+              "title" : "Eigenkapital (Nr. 12)"
+            },
+            {
+              "documentIdentifier" : "BJNR002030992BJNE003803140",
+              "paragraph" : "§ 26",
+              "title" : "Eventualverbindlichkeiten (Nr. 1 unter dem Strich)"
+            },
+            {
+              "documentIdentifier" : "BJNR002030992BJNE003901307",
+              "paragraph" : "§ 27",
+              "title" : "Andere Verpflichtungen (Nr. 2 unter dem Strich)"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Posten der Passivseite"
+        }
+      ],
+      "title" : "Vorschriften zu einzelnen Posten der Bilanz (Formblatt 1)"
+    },
+    {
+      "documentIdentifier" : "BJNR002030992BJNG000601307",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR002030992BJNE004002307",
+          "paragraph" : "§ 28",
+          "title" : "Zinserträge (Formblatt 2 Spalte Erträge Nr. 1,\nFormblatt 3 Nr. 1)"
+        },
+        {
+          "documentIdentifier" : "BJNR002030992BJNE004103140",
+          "paragraph" : "§ 29",
+          "title" : "Zinsaufwendungen (Formblatt 2 Spalte Aufwendungen Nr. 1, Formblatt 3 Nr. 2)"
+        },
+        {
+          "documentIdentifier" : "BJNR002030992BJNE004202307",
+          "paragraph" : "§ 30",
+          "title" : "Provisionserträge (Formblatt 2 Spalte Erträge Nr. 4,\nFormblatt 3 Nr. 5), Provisionsaufwendungen (Formblatt 2\nSpalte Aufwendungen Nr. 2, Formblatt 3 Nr. 6)"
+        },
+        {
+          "documentIdentifier" : "BJNR002030992BJNE004302307",
+          "paragraph" : "§ 31",
+          "title" : "Allgemeine Verwaltungsaufwendungen (Formblatt 2 Spalte\nAufwendungen Nr. 4, Formblatt 3 Nr. 10)"
+        },
+        {
+          "documentIdentifier" : "BJNR002030992BJNE004401307",
+          "paragraph" : "§ 32",
+          "title" : "Abschreibungen und Wertberichtigungen auf Forderungen\nund bestimmte Wertpapiere sowie Zuführungen zu Rückstellungen\nim Kreditgeschäft (Formblatt 2 Spalte Aufwendungen Nr. 7,\nFormblatt 3 Nr. 13), Erträge aus Zuschreibungen zu\nForderungen und bestimmten Wertpapieren sowie aus der\nAuflösung von Rückstellungen im Kreditgeschäft (Formblatt 2\nSpalte Erträge Nr. 6, Formblatt 3 Nr. 14)"
+        },
+        {
+          "documentIdentifier" : "BJNR002030992BJNE004501307",
+          "paragraph" : "§ 33",
+          "title" : "Abschreibungen und Wertberichtigungen auf Beteiligungen,\nAnteile an verbundenen Unternehmen und wie Anlagevermögen\nbehandelte Wertpapiere (Formblatt 2 Spalte Aufwendungen\nNr. 8, Formblatt 3 Nr. 15), Erträge aus Zuschreibungen zu\nBeteiligungen, Anteilen an verbundenen Unternehmen und\nwie Anlagevermögen behandelten Wertpapieren (Formblatt 2\nSpalte Erträge Nr. 7, Formblatt 3 Nr. 16)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Vorschriften zu einzelnen Posten der Gewinn- und Verlustrechnung (Formblätter 2 und 3)"
+    },
+    {
+      "documentIdentifier" : "BJNR002030992BJNG000701307",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR002030992BJNE004605360",
+          "paragraph" : "§ 34",
+          "title" : "Zusätzliche Erläuterungen"
+        },
+        {
+          "documentIdentifier" : "BJNR002030992BJNE004705140",
+          "paragraph" : "§ 35",
+          "title" : "Zusätzliche Pflichtangaben"
+        },
+        {
+          "documentIdentifier" : "BJNR002030992BJNE004801307",
+          "paragraph" : "§ 36",
+          "title" : "Termingeschäfte"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Anhang"
+    },
+    {
+      "documentIdentifier" : "BJNR002030992BJNG000801307",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR002030992BJNE004902140",
+          "paragraph" : "§ 37",
+          "title" : "Konzernrechnungslegung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Konzernrechnungslegung"
+    },
+    {
+      "documentIdentifier" : "BJNR002030992BJNG000901307",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR002030992BJNE005003140",
+          "paragraph" : "§ 38",
+          "title" : "Ordnungswidrigkeiten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Ordnungswidrigkeiten"
+    },
+    {
+      "documentIdentifier" : "BJNR002030992BJNG001001307",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR002030992BJNE005113360",
+          "paragraph" : "§ 39",
+          "title" : "Übergangsvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR002030992BJNE005309360",
+          "paragraph" : "Formblatt 1",
+          "title" : "*Fe Jahresbilanz *\/ zum .......................... "
+        },
+        {
+          "documentIdentifier" : "BJNR002030992BJNE005408360",
+          "paragraph" : "Formblatt 2",
+          "title" : "(Kontoform)"
+        },
+        {
+          "documentIdentifier" : "BJNR002030992BJNE005508360",
+          "paragraph" : "Formblatt 3",
+          "title" : "(Staffelform)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          8
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlußvorschriften"
+    }
+  ]
+}

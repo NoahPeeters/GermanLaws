@@ -1,0 +1,174 @@
+{
+  "documentIdentifier" : "BJNR113800006",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR113800006BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR113800006BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Berechnungsgrundsätze"
+        },
+        {
+          "documentIdentifier" : "BJNR113800006BJNE000305126",
+          "paragraph" : "§ 2",
+          "title" : "Berechnungsvorgang"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Berechnung des Gesamtsozialversicherungsbeitrages und der Beitragsbemessungsgrenzen"
+    },
+    {
+      "documentIdentifier" : "BJNR113800006BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR113800006BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Tag der Zahlung, Zahlungsmittel"
+        },
+        {
+          "documentIdentifier" : "BJNR113800006BJNE000502119",
+          "paragraph" : "§ 4",
+          "title" : "Reihenfolge der Tilgung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Zahlungen des Arbeitgebers"
+    },
+    {
+      "documentIdentifier" : "BJNR113800006BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR113800006BJNE000601308",
+          "paragraph" : "§ 5",
+          "title" : "Weiterleitung"
+        },
+        {
+          "documentIdentifier" : "BJNR113800006BJNE000702126",
+          "paragraph" : "§ 6",
+          "title" : "Abrechnung"
+        },
+        {
+          "documentIdentifier" : "BJNR113800006BJNE001901126",
+          "paragraph" : "§ 6a",
+          "title" : "Weiterleitung und Abrechnung sonstiger Beiträge"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Weiterleitung und Abrechnung durch die Einzugsstelle"
+    },
+    {
+      "documentIdentifier" : "BJNR113800006BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR113800006BJNE000806119",
+          "paragraph" : "§ 7",
+          "title" : "Grundsätze"
+        },
+        {
+          "documentIdentifier" : "BJNR113800006BJNE000913126",
+          "paragraph" : "§ 8",
+          "title" : "Entgeltunterlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR113800006BJNE001003126",
+          "paragraph" : "§ 9",
+          "title" : "Beitragsabrechnung"
+        },
+        {
+          "documentIdentifier" : "BJNR113800006BJNE001102119",
+          "paragraph" : "§ 10",
+          "title" : "Mitwirkung"
+        },
+        {
+          "documentIdentifier" : "BJNR113800006BJNE001200000",
+          "paragraph" : "§ 11",
+          "title" : "Umfang"
+        },
+        {
+          "documentIdentifier" : "BJNR113800006BJNE001301119",
+          "paragraph" : "§ 12",
+          "title" : "Prüfung bei Steuerberatern oder bei anderen Stellen"
+        },
+        {
+          "documentIdentifier" : "BJNR113800006BJNE001400000",
+          "paragraph" : "§ 13",
+          "title" : "Prüfung in den Räumen des Versicherungsträgers"
+        },
+        {
+          "documentIdentifier" : "BJNR113800006BJNE001800308",
+          "paragraph" : "§ 13a",
+          "title" : "Prüfung der Entrichtung der Künstlersozialabgabe"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Prüfung beim Arbeitgeber"
+    },
+    {
+      "documentIdentifier" : "BJNR113800006BJNG000501119",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR113800006BJNE001510119",
+          "paragraph" : "§ 14",
+          "title" : "Inhalt des Dateisystems"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Dateisystem der Arbeitgeber"
+    },
+    {
+      "documentIdentifier" : "BJNR113800006BJNG000600000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR113800006BJNE001600000",
+          "paragraph" : "§ 15",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussvorschriften"
+    }
+  ]
+}

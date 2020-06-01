@@ -1,0 +1,303 @@
+{
+  "documentIdentifier" : "BJNR223410017",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR223410017BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR223410017BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Abfallwirtschaftliche Ziele"
+        },
+        {
+          "documentIdentifier" : "BJNR223410017BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR223410017BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR223410017BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Allgemeine Anforderungen an Verpackungen"
+        },
+        {
+          "documentIdentifier" : "BJNR223410017BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Stoffbeschränkungen"
+        },
+        {
+          "documentIdentifier" : "BJNR223410017BJNE000600000",
+          "paragraph" : "§ 6",
+          "title" : "Kennzeichnung zur Identifizierung des Verpackungsmaterials"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR223410017BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR223410017BJNE000700000",
+          "paragraph" : "§ 7",
+          "title" : "Systembeteiligungspflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR223410017BJNE000800000",
+          "paragraph" : "§ 8",
+          "title" : "Branchenlösung"
+        },
+        {
+          "documentIdentifier" : "BJNR223410017BJNE000900000",
+          "paragraph" : "§ 9",
+          "title" : "Registrierung"
+        },
+        {
+          "documentIdentifier" : "BJNR223410017BJNE001000000",
+          "paragraph" : "§ 10",
+          "title" : "Datenmeldung"
+        },
+        {
+          "documentIdentifier" : "BJNR223410017BJNE001100000",
+          "paragraph" : "§ 11",
+          "title" : "Vollständigkeitserklärung"
+        },
+        {
+          "documentIdentifier" : "BJNR223410017BJNE001200000",
+          "paragraph" : "§ 12",
+          "title" : "Ausnahmen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inverkehrbringen von systembeteiligungspflichtigen Verpackungen"
+    },
+    {
+      "documentIdentifier" : "BJNR223410017BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR223410017BJNE001300000",
+          "paragraph" : "§ 13",
+          "title" : "Getrennte Sammlung"
+        },
+        {
+          "documentIdentifier" : "BJNR223410017BJNE001400000",
+          "paragraph" : "§ 14",
+          "title" : "Pflichten der Systeme zur Sammlung, Verwertung und Information"
+        },
+        {
+          "documentIdentifier" : "BJNR223410017BJNE001500000",
+          "paragraph" : "§ 15",
+          "title" : "Pflichten der Hersteller und Vertreiber zur Rücknahme und Verwertung"
+        },
+        {
+          "documentIdentifier" : "BJNR223410017BJNE001600000",
+          "paragraph" : "§ 16",
+          "title" : "Anforderungen an die Verwertung"
+        },
+        {
+          "documentIdentifier" : "BJNR223410017BJNE001700000",
+          "paragraph" : "§ 17",
+          "title" : "Nachweispflichten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Sammlung, Rücknahme und Verwertung"
+    },
+    {
+      "documentIdentifier" : "BJNR223410017BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR223410017BJNE001800000",
+          "paragraph" : "§ 18",
+          "title" : "Genehmigung"
+        },
+        {
+          "documentIdentifier" : "BJNR223410017BJNE001900000",
+          "paragraph" : "§ 19",
+          "title" : "Gemeinsame Stelle"
+        },
+        {
+          "documentIdentifier" : "BJNR223410017BJNE002000000",
+          "paragraph" : "§ 20",
+          "title" : "Meldepflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR223410017BJNE002100000",
+          "paragraph" : "§ 21",
+          "title" : "Ökologische Gestaltung der Beteiligungsentgelte"
+        },
+        {
+          "documentIdentifier" : "BJNR223410017BJNE002200000",
+          "paragraph" : "§ 22",
+          "title" : "Abstimmung"
+        },
+        {
+          "documentIdentifier" : "BJNR223410017BJNE002300000",
+          "paragraph" : "§ 23",
+          "title" : "Vergabe von Sammelleistungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Systeme"
+    },
+    {
+      "documentIdentifier" : "BJNR223410017BJNG000500000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR223410017BJNE002400000",
+          "paragraph" : "§ 24",
+          "title" : "Errichtung und Rechtsform; Stiftungssatzung"
+        },
+        {
+          "documentIdentifier" : "BJNR223410017BJNE002500000",
+          "paragraph" : "§ 25",
+          "title" : "Finanzierung"
+        },
+        {
+          "documentIdentifier" : "BJNR223410017BJNE002600000",
+          "paragraph" : "§ 26",
+          "title" : "Aufgaben"
+        },
+        {
+          "documentIdentifier" : "BJNR223410017BJNE002700000",
+          "paragraph" : "§ 27",
+          "title" : "Registrierung von Sachverständigen und sonstigen Prüfern"
+        },
+        {
+          "documentIdentifier" : "BJNR223410017BJNE002800000",
+          "paragraph" : "§ 28",
+          "title" : "Organisation"
+        },
+        {
+          "documentIdentifier" : "BJNR223410017BJNE002900000",
+          "paragraph" : "§ 29",
+          "title" : "Aufsicht und Finanzkontrolle"
+        },
+        {
+          "documentIdentifier" : "BJNR223410017BJNE003000000",
+          "paragraph" : "§ 30",
+          "title" : "Teilweiser Ausschluss des Widerspruchsverfahrens und der aufschiebenden Wirkung der Anfechtungsklage; Widerspruchsbehörde"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Zentrale Stelle"
+    },
+    {
+      "documentIdentifier" : "BJNR223410017BJNG000600000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR223410017BJNE003100000",
+          "paragraph" : "§ 31",
+          "title" : "Pfand- und Rücknahmepflichten für Einweggetränkeverpackungen"
+        },
+        {
+          "documentIdentifier" : "BJNR223410017BJNE003200000",
+          "paragraph" : "§ 32",
+          "title" : "Hinweispflichten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Getränkeverpackungen"
+    },
+    {
+      "documentIdentifier" : "BJNR223410017BJNG000700000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR223410017BJNE003300000",
+          "paragraph" : "§ 33",
+          "title" : "Beauftragung Dritter"
+        },
+        {
+          "documentIdentifier" : "BJNR223410017BJNE003400000",
+          "paragraph" : "§ 34",
+          "title" : "Bußgeldvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR223410017BJNE003500000",
+          "paragraph" : "§ 35",
+          "title" : "Übergangsvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR223410017BJNE003700000",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 3 Absatz 1)"
+        },
+        {
+          "documentIdentifier" : "BJNR223410017BJNE003800000",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 3 Absatz 7)"
+        },
+        {
+          "documentIdentifier" : "BJNR223410017BJNE003900000",
+          "paragraph" : "Anlage 3",
+          "title" : "(zu § 5 Satz 2 Nummer 2)"
+        },
+        {
+          "documentIdentifier" : "BJNR223410017BJNE004000000",
+          "paragraph" : "Anlage 4",
+          "title" : "(zu § 5 Satz 2 Nummer 4)"
+        },
+        {
+          "documentIdentifier" : "BJNR223410017BJNE004100000",
+          "paragraph" : "Anlage 5",
+          "title" : "(zu § 6)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussbestimmungen"
+    }
+  ]
+}

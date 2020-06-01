@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR311510013",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR311510013Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR311510013BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR311510013BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Investitionen"
+        },
+        {
+          "documentIdentifier" : "BJNR311510013BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Finanzierung"
+        },
+        {
+          "documentIdentifier" : "BJNR311510013BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Erstattung von Investitionsmitteln des Bundes"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

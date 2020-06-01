@@ -1,0 +1,59 @@
+{
+  "documentIdentifier" : "BJNR245700012",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR245700012Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR245700012BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Zweck des Gesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR245700012BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Geltungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR245700012BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Globalhaushalt"
+        },
+        {
+          "documentIdentifier" : "BJNR245700012BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Einschränkung des Besserstellungsverbots"
+        },
+        {
+          "documentIdentifier" : "BJNR245700012BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Beteiligung an Unternehmen"
+        },
+        {
+          "documentIdentifier" : "BJNR245700012BJNE000601116",
+          "paragraph" : "§ 6",
+          "title" : "Durchführung von Bauverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR245700012BJNE000700000",
+          "paragraph" : "§ 7",
+          "title" : "Verhältnis zur Bundeshaushaltsordnung"
+        },
+        {
+          "documentIdentifier" : "BJNR245700012BJNE000800000",
+          "paragraph" : "§ 8",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

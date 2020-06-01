@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR147700010",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR147700010Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR147700010BJNE000202116",
+          "paragraph" : "§ 1",
+          "title" : "Gebühren für Ausweise"
+        },
+        {
+          "documentIdentifier" : "BJNR147700010BJNE000800116",
+          "paragraph" : "§ 1a",
+          "title" : "Auslagen"
+        },
+        {
+          "documentIdentifier" : "BJNR147700010BJNE000301116",
+          "paragraph" : "§ 2",
+          "title" : "Gebühren für den elektronischen Identitätsnachweis"
+        },
+        {
+          "documentIdentifier" : "BJNR147700010BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Gebühren für Berechtigungen"
+        },
+        {
+          "documentIdentifier" : "BJNR147700010BJNE000500000",
+          "paragraph" : "§ 3a",
+          "title" : "Evaluierung"
+        },
+        {
+          "documentIdentifier" : "BJNR147700010BJNE000600000",
+          "paragraph" : "§ 4",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

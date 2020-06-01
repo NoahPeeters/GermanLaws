@@ -1,0 +1,99 @@
+{
+  "documentIdentifier" : "BJNR020610989",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR020610989BJNG000100308",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Erlaubnis"
+    },
+    {
+      "documentIdentifier" : "BJNR020610989BJNG000200308",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Ausbildung"
+    },
+    {
+      "documentIdentifier" : "BJNR020610989BJNG000300308",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Zuständigkeiten"
+    },
+    {
+      "documentIdentifier" : "BJNR020610989BJNG000400308",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Bußgeldvorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR020610989BJNG000500308",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übergangsvorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR020610989BJNG000600308",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR020610989BJNE001901310",
+          "paragraph" : "§ 12",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlußvorschriften"
+    }
+  ]
+}

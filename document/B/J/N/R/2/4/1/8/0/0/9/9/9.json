@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR241800999",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR241800999Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR241800999BJNE000200310",
+          "paragraph" : "§ 1",
+          "title" : "Universaldienst"
+        },
+        {
+          "documentIdentifier" : "BJNR241800999BJNE000301308",
+          "paragraph" : "§ 2",
+          "title" : "Qualitätsmerkmale der Briefbeförderung"
+        },
+        {
+          "documentIdentifier" : "BJNR241800999BJNE000400310",
+          "paragraph" : "§ 3",
+          "title" : "Qualitätsmerkmale der Paketbeförderung"
+        },
+        {
+          "documentIdentifier" : "BJNR241800999BJNE000500310",
+          "paragraph" : "§ 4",
+          "title" : "Qualitätsmerkmale der Beförderung von Zeitungen und Zeitschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR241800999BJNE000601308",
+          "paragraph" : "§ 5",
+          "title" : "Bürgereingabe"
+        },
+        {
+          "documentIdentifier" : "BJNR241800999BJNE000700310",
+          "paragraph" : "§ 6",
+          "title" : "Entgelte"
+        },
+        {
+          "documentIdentifier" : "BJNR241800999BJNE000800310",
+          "paragraph" : "§ 7",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

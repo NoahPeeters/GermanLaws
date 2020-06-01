@@ -1,0 +1,94 @@
+{
+  "documentIdentifier" : "BJNR010610020",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR010610020Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR010610020BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR010610020BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR010610020BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Anwendung des Erneuerbare-Energien-Gesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR010610020BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Teilnahmeberechtigte Anlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR010610020BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Gebote der Innovationsausschreibungen"
+        },
+        {
+          "documentIdentifier" : "BJNR010610020BJNE000600000",
+          "paragraph" : "§ 6",
+          "title" : "Weitere Anforderungen an Gebote für Anlagenkombinationen"
+        },
+        {
+          "documentIdentifier" : "BJNR010610020BJNE000700000",
+          "paragraph" : "§ 7",
+          "title" : "Zusätzliche Bekanntmachung bei Innovationsausschreibungen"
+        },
+        {
+          "documentIdentifier" : "BJNR010610020BJNE000800000",
+          "paragraph" : "§ 8",
+          "title" : "Fixe Marktprämie"
+        },
+        {
+          "documentIdentifier" : "BJNR010610020BJNE000900000",
+          "paragraph" : "§ 9",
+          "title" : "Verringerung des Zahlungsanspruchs bei negativen Preisen"
+        },
+        {
+          "documentIdentifier" : "BJNR010610020BJNE001000000",
+          "paragraph" : "§ 10",
+          "title" : "Höchstwert"
+        },
+        {
+          "documentIdentifier" : "BJNR010610020BJNE001100000",
+          "paragraph" : "§ 11",
+          "title" : "Zuschlagserteilung, Zuschlagsbegrenzung"
+        },
+        {
+          "documentIdentifier" : "BJNR010610020BJNE001200000",
+          "paragraph" : "§ 12",
+          "title" : "Bekanntgabe der Zuschläge und Werte"
+        },
+        {
+          "documentIdentifier" : "BJNR010610020BJNE001300000",
+          "paragraph" : "§ 13",
+          "title" : "Weitere Bestimmungen zu Anlagenkombinationen"
+        },
+        {
+          "documentIdentifier" : "BJNR010610020BJNE001400000",
+          "paragraph" : "§ 14",
+          "title" : "Evaluierung"
+        },
+        {
+          "documentIdentifier" : "BJNR010610020BJNE001500000",
+          "paragraph" : "§ 15",
+          "title" : "Abweichender erster Gebotstermin"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

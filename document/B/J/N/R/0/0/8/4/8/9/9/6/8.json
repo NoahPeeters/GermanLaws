@@ -1,0 +1,219 @@
+{
+  "documentIdentifier" : "BJNR008489968",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR008489968BJNG000100319",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR008489968BJNG000200319",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Art I bis Art IX"
+        },
+        {
+          "documentIdentifier" : "BJNR008489968BJNG000301310",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              10
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Übergangsvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR008489968BJNG000400319",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              11
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR008489968BJNE001300319",
+              "laws" : [
+
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  1,
+                  11
+                ]
+              },
+              "subsections" : [
+                {
+                  "documentIdentifier" : "BJNR008489968BJNE001401310",
+                  "laws" : [
+
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      1,
+                      11
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Art XI"
+                }
+              ],
+              "title" : "Art XI"
+            }
+          ],
+          "title" : "Art XI"
+        }
+      ],
+      "title" : "Regelung des Zusammentreffens von deutschen Dienst- und Versorgungsbezügen mit einer Versorgung aus der Verwendung bei einer zwischenstaatlichen oder überstaatlichen Einrichtung"
+    },
+    {
+      "documentIdentifier" : "BJNR008489968BJNG000500319",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR008489968BJNG000600319",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              12
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Art XII bis Art XV"
+        },
+        {
+          "documentIdentifier" : "BJNR008489968BJNG000701310",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              16
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Art XVI"
+        }
+      ],
+      "title" : "Witwerversorgung"
+    },
+    {
+      "documentIdentifier" : "BJNR008489968BJNG000800319",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR008489968BJNG000900319",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              17
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Art XVII u. Art XVIII"
+        }
+      ],
+      "title" : "Sonstige Änderungen des Beamtenrechts"
+    },
+    {
+      "documentIdentifier" : "BJNR008489968BJNG001000319",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR008489968BJNG001101310",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4,
+              19
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Art XIX"
+        },
+        {
+          "documentIdentifier" : "BJNR008489968BJNG001200319",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4,
+              20
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Art XX"
+        }
+      ],
+      "title" : "Schlußvorschriften"
+    }
+  ]
+}

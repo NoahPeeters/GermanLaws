@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR000570977",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR000570977Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR000570977BJNE000201301",
+          "paragraph" : "§ 1",
+          "title" : "Grundlohn"
+        },
+        {
+          "documentIdentifier" : "BJNR000570977BJNE000300312",
+          "paragraph" : "§ 2",
+          "title" : "Zulagen"
+        },
+        {
+          "documentIdentifier" : "BJNR000570977BJNE000401301",
+          "paragraph" : "§ 3",
+          "title" : "Arbeitsentgelt für arbeitstherapeutische Beschäftigung"
+        },
+        {
+          "documentIdentifier" : "BJNR000570977BJNE000500312",
+          "paragraph" : "§ 4",
+          "title" : "Ausbildungsbeihilfe"
+        },
+        {
+          "documentIdentifier" : "BJNR000570977BJNE000601301",
+          "paragraph" : "§ 5",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR000570977BJNE000700312",
+          "paragraph" : "§ 6",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

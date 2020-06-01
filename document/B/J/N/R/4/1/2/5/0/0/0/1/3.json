@@ -1,0 +1,74 @@
+{
+  "documentIdentifier" : "BJNR412500013",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR412500013Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR412500013BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Staatliche Anerkennung des Ausbildungsberufes"
+        },
+        {
+          "documentIdentifier" : "BJNR412500013BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Dauer der Berufsausbildung"
+        },
+        {
+          "documentIdentifier" : "BJNR412500013BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Ausbildungsrahmenplan"
+        },
+        {
+          "documentIdentifier" : "BJNR412500013BJNE000501360",
+          "paragraph" : "§ 4",
+          "title" : "Struktur der Berufsausbildung, Ausbildungsberufsbild"
+        },
+        {
+          "documentIdentifier" : "BJNR412500013BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Durchführung der Berufsausbildung"
+        },
+        {
+          "documentIdentifier" : "BJNR412500013BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Zwischenprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR412500013BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Abschlussprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR412500013BJNE000901360",
+          "paragraph" : "§ 8",
+          "title" : "Gewichtung der Prüfungsbereiche, Bestehen der Abschlussprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR412500013BJNE001000000",
+          "paragraph" : "§ 9",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR412500013BJNE001101360",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 3 Absatz 1 Satz 1)"
+        },
+        {
+          "documentIdentifier" : "BJNR412500013BJNE001201360",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 3 Absatz 2)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

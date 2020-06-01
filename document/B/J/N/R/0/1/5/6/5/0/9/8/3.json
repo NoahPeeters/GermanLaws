@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR015650983",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR015650983Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR015650983BJNE000101301",
+          "paragraph" : "§ 1",
+          "title" : "Stellenbesetzungssperre"
+        },
+        {
+          "documentIdentifier" : "BJNR015650983BJNE000200317",
+          "paragraph" : "§ 2",
+          "title" : "Wegfall des Essenszuschusses"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

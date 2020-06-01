@@ -1,0 +1,64 @@
+{
+  "documentIdentifier" : "BJNR210710009",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR210710009Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR210710009BJNE000101377",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR210710009BJNE000201377",
+          "paragraph" : "§ 2",
+          "title" : "Voraussetzungen für die Zulassung als Erhaltungssorte"
+        },
+        {
+          "documentIdentifier" : "BJNR210710009BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Feststellung des landeskulturellen Wertes"
+        },
+        {
+          "documentIdentifier" : "BJNR210710009BJNE000401377",
+          "paragraph" : "§ 4",
+          "title" : "Antrag auf Zulassung einer Erhaltungssorte"
+        },
+        {
+          "documentIdentifier" : "BJNR210710009BJNE000502360",
+          "paragraph" : "§ 5",
+          "title" : "Anforderungen an das Saatgut"
+        },
+        {
+          "documentIdentifier" : "BJNR210710009BJNE000601377",
+          "paragraph" : "§ 6",
+          "title" : "Beschränkung des Inverkehrbringens"
+        },
+        {
+          "documentIdentifier" : "BJNR210710009BJNE000700000",
+          "paragraph" : "§ 7",
+          "title" : "Zusätzliche Region für das Inverkehrbringen von Saatgut"
+        },
+        {
+          "documentIdentifier" : "BJNR210710009BJNE000801377",
+          "paragraph" : "§ 8",
+          "title" : "Verpackung und Verschließung"
+        },
+        {
+          "documentIdentifier" : "BJNR210710009BJNE000902360",
+          "paragraph" : "§ 9",
+          "title" : "Kennzeichnung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

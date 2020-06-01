@@ -1,0 +1,64 @@
+{
+  "documentIdentifier" : "BJNR012500017",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR012500017Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR012500017BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Auskunftspflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR012500017BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Aufstellung der Rückstellungen für Rückbauverpflichtungen"
+        },
+        {
+          "documentIdentifier" : "BJNR012500017BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Darstellung des Haftungskreises"
+        },
+        {
+          "documentIdentifier" : "BJNR012500017BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Gesonderter Bericht im Hinblick auf die Rückbauverpflichtungen"
+        },
+        {
+          "documentIdentifier" : "BJNR012500017BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Mitteilungspflicht des Bundesamtes für Wirtschaft und Ausfuhrkontrolle"
+        },
+        {
+          "documentIdentifier" : "BJNR012500017BJNE000601119",
+          "paragraph" : "§ 6",
+          "title" : "Datennutzung und -übermittlung"
+        },
+        {
+          "documentIdentifier" : "BJNR012500017BJNE000700000",
+          "paragraph" : "§ 7",
+          "title" : "Bericht der Bundesregierung"
+        },
+        {
+          "documentIdentifier" : "BJNR012500017BJNE000800000",
+          "paragraph" : "§ 8",
+          "title" : "Bußgeldvorschrift"
+        },
+        {
+          "documentIdentifier" : "BJNR012500017BJNE000900000",
+          "paragraph" : "§ 9",
+          "title" : "Verordnungsermächtigung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

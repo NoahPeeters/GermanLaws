@@ -1,0 +1,243 @@
+{
+  "documentIdentifier" : "BJNR023400990",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR023400990BJNG000101308",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR023400990BJNE003802308",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR023400990BJNE001002320",
+          "paragraph" : "§ 2",
+          "title" : "Sicherheitsstufen und Sicherheitsmaßnahmen"
+        },
+        {
+          "documentIdentifier" : "BJNR023400990BJNE001103320",
+          "paragraph" : "§ 3",
+          "title" : "Begriffsbestimmungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR023400990BJNG000201308",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR023400990BJNE001202320",
+          "paragraph" : "§ 4",
+          "title" : "Grundlagen der Risikobewertung und der Sicherheitseinstufung"
+        },
+        {
+          "documentIdentifier" : "BJNR023400990BJNE001306116",
+          "paragraph" : "§ 5",
+          "title" : "Risikobewertung von Organismen"
+        },
+        {
+          "documentIdentifier" : "BJNR023400990BJNE001404310",
+          "paragraph" : "§ 6",
+          "title" : "Biologische Sicherheitsmaßnahmen"
+        },
+        {
+          "documentIdentifier" : "BJNR023400990BJNE001503320",
+          "paragraph" : "§ 7",
+          "title" : "Sicherheitseinstufung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Grundlagen und Durchführung der Sicherheitseinstufung"
+    },
+    {
+      "documentIdentifier" : "BJNR023400990BJNG000301308",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR023400990BJNE001604310",
+          "paragraph" : "§ 8",
+          "title" : "Allgemeine Schutzpflicht, Arbeitsschutz"
+        },
+        {
+          "documentIdentifier" : "BJNR023400990BJNE001702320",
+          "paragraph" : "§ 9",
+          "title" : "Technische und organisatorische\nSicherheitsmaßnahmen für Labor- und\nProduktionsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR023400990BJNE001803320",
+          "paragraph" : "§ 10",
+          "title" : "Haltung von Pflanzen in Gewächshäusern"
+        },
+        {
+          "documentIdentifier" : "BJNR023400990BJNE001903320",
+          "paragraph" : "§ 11",
+          "title" : "Haltung von Versuchstieren in Tierhaltungsräumen"
+        },
+        {
+          "documentIdentifier" : "BJNR023400990BJNE002004310",
+          "paragraph" : "§ 12",
+          "title" : "Arbeitssicherheitsmaßnahmen"
+        },
+        {
+          "documentIdentifier" : "BJNR023400990BJNE003900320",
+          "paragraph" : "§ 12a",
+          "title" : "Unterrichtung der Beschäftigten"
+        },
+        {
+          "documentIdentifier" : "BJNR023400990BJNE002104320",
+          "paragraph" : "§ 13",
+          "title" : "Anforderungen an die Abwasser- und\nAbfallbehandlung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Sicherheitsmaßnahmen"
+    },
+    {
+      "documentIdentifier" : "BJNR023400990BJNG000401308",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR023400990BJNE002203320",
+          "paragraph" : "§ 14",
+          "title" : "Verantwortlichkeiten des Projektleiters"
+        },
+        {
+          "documentIdentifier" : "BJNR023400990BJNE002303320",
+          "paragraph" : "§ 15",
+          "title" : "Sachkunde des Projektleiters"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Projektleiter"
+    },
+    {
+      "documentIdentifier" : "BJNR023400990BJNG000501308",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR023400990BJNE002402308",
+          "paragraph" : "§ 16",
+          "title" : "Bestellung eines Beauftragten"
+        },
+        {
+          "documentIdentifier" : "BJNR023400990BJNE002502308",
+          "paragraph" : "§ 17",
+          "title" : "Sachkunde des Beauftragten"
+        },
+        {
+          "documentIdentifier" : "BJNR023400990BJNE002602308",
+          "paragraph" : "§ 18",
+          "title" : "Aufgaben des Beauftragten"
+        },
+        {
+          "documentIdentifier" : "BJNR023400990BJNE002701308",
+          "paragraph" : "§ 19",
+          "title" : "Pflichten des Betreibers"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Beauftragter für die Biologische Sicherheit"
+    },
+    {
+      "documentIdentifier" : "BJNR023400990BJNG000601308",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR023400990BJNE002803320",
+          "paragraph" : "§ 20",
+          "title" : "Ordnungswidrigkeiten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Bußgeldvorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR023400990BJNG000701308",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR023400990BJNE002902308",
+          "paragraph" : "§ 21",
+          "title" : "Übergangsvorschrift"
+        },
+        {
+          "documentIdentifier" : "BJNR023400990BJNE003203320",
+          "paragraph" : "Anhang I",
+          "title" : "Risikogruppen der Spender- und\nEmpfängerorganismen\/Allgemeine Kriterien für die Sicherheitsbewertung"
+        },
+        {
+          "documentIdentifier" : "BJNR023400990BJNE003302308",
+          "paragraph" : "Anhang II",
+          "title" : "Biologische Sicherheitsmaßnahmen"
+        },
+        {
+          "documentIdentifier" : "BJNR023400990BJNE003403320",
+          "paragraph" : "Anhang III",
+          "title" : "Sicherheitsmaßnahmen für Labor- und\nProduktionsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR023400990BJNE003503320",
+          "paragraph" : "Anhang IV",
+          "title" : "Sicherheitsmaßnahmen für Gewächshäuser"
+        },
+        {
+          "documentIdentifier" : "BJNR023400990BJNE003603320",
+          "paragraph" : "Anhang V",
+          "title" : "Sicherheitsmaßnahmen für Tierhaltungsräume"
+        },
+        {
+          "documentIdentifier" : "BJNR023400990BJNE003708310",
+          "paragraph" : "Anhang VI",
+          "title" : "(zu § 12)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlußvorschriften"
+    }
+  ]
+}

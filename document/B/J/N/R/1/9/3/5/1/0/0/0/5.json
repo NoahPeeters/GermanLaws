@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR193510005",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR193510005Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR193510005BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Gegenstand"
+        },
+        {
+          "documentIdentifier" : "BJNR193510005BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Abschlussprüfungen an Hochschulen und an solchen Bildungseinrichtungen,\ndie nach Landesrecht dem tertiären Bereich zugeordnet sind"
+        },
+        {
+          "documentIdentifier" : "BJNR193510005BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Abschlussprüfungen an staatlichen oder staatlich anerkannten\nFachschulen"
+        },
+        {
+          "documentIdentifier" : "BJNR193510005BJNE000501118",
+          "paragraph" : "§ 4",
+          "title" : "Antrag"
+        },
+        {
+          "documentIdentifier" : "BJNR193510005BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Übergangsregelung"
+        },
+        {
+          "documentIdentifier" : "BJNR193510005BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

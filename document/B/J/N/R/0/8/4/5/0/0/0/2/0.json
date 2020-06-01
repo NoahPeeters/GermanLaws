@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR084500020",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR084500020Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR084500020BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Abgrenzung der Steuerpflicht bei zweckfremder Benutzung und zweckwidriger Verwendung von begünstigten Fahrzeugen"
+        },
+        {
+          "documentIdentifier" : "BJNR084500020BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Anzeigepflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR084500020BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

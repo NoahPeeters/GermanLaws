@@ -1,0 +1,59 @@
+{
+  "documentIdentifier" : "BJNR311810013",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR311810013Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR311810013BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR311810013BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR311810013BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Errichtung"
+        },
+        {
+          "documentIdentifier" : "BJNR311810013BJNE000401119",
+          "paragraph" : "§ 4",
+          "title" : "Datenerhebung"
+        },
+        {
+          "documentIdentifier" : "BJNR311810013BJNE000502126",
+          "paragraph" : "§ 5",
+          "title" : "Datenspeicherung und Datenverwendung"
+        },
+        {
+          "documentIdentifier" : "BJNR311810013BJNE000603126",
+          "paragraph" : "§ 6",
+          "title" : "Datenübermittlung"
+        },
+        {
+          "documentIdentifier" : "BJNR311810013BJNE000700000",
+          "paragraph" : "§ 7",
+          "title" : "Löschung"
+        },
+        {
+          "documentIdentifier" : "BJNR311810013BJNE000801305",
+          "paragraph" : "§ 8",
+          "title" : "Verordnungsermächtigung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

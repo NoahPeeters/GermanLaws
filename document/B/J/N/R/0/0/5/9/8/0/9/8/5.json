@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR005980985",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR005980985Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR005980985BJNE000500309",
+          "paragraph" : "Anlage 1",
+          "title" : "Amtliche Prüf- und Gewährzeichen des Königreichs Schweden"
+        },
+        {
+          "documentIdentifier" : "BJNR005980985BJNE000600309",
+          "paragraph" : "Anlage 2",
+          "title" : "Internationaler Währungsfonds"
+        },
+        {
+          "documentIdentifier" : "BJNR005980985BJNE000700309",
+          "paragraph" : "Anlage 3",
+          "title" : "Internationale Seeschiffahrts-Organisation"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

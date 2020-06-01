@@ -1,0 +1,74 @@
+{
+  "documentIdentifier" : "BJNR008300000",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR008300000Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR008300000BJNE000200305",
+          "paragraph" : "§ 1",
+          "title" : "Staatliche Anerkennung des Ausbildungsberufes"
+        },
+        {
+          "documentIdentifier" : "BJNR008300000BJNE000300305",
+          "paragraph" : "§ 2",
+          "title" : "Ausbildungsdauer, Fachrichtungen"
+        },
+        {
+          "documentIdentifier" : "BJNR008300000BJNE000400305",
+          "paragraph" : "§ 3",
+          "title" : "Ausbildungsberufsbild"
+        },
+        {
+          "documentIdentifier" : "BJNR008300000BJNE000500305",
+          "paragraph" : "§ 4",
+          "title" : "Ausbildungsrahmenplan"
+        },
+        {
+          "documentIdentifier" : "BJNR008300000BJNE000600305",
+          "paragraph" : "§ 5",
+          "title" : "Ausbildungsplan"
+        },
+        {
+          "documentIdentifier" : "BJNR008300000BJNE000700305",
+          "paragraph" : "§ 6",
+          "title" : "Berichtsheft"
+        },
+        {
+          "documentIdentifier" : "BJNR008300000BJNE000800305",
+          "paragraph" : "§ 7",
+          "title" : "Zwischenprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR008300000BJNE000900305",
+          "paragraph" : "§ 8",
+          "title" : "Abschlussprüfung in der Fachrichtung Malerei"
+        },
+        {
+          "documentIdentifier" : "BJNR008300000BJNE001000305",
+          "paragraph" : "§ 9",
+          "title" : "Abschlussprüfung in der Fachrichtung Plastik"
+        },
+        {
+          "documentIdentifier" : "BJNR008300000BJNE001100305",
+          "paragraph" : "§ 10",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR008300000BJNE001200305",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 4)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

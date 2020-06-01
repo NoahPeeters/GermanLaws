@@ -1,0 +1,136 @@
+{
+  "documentIdentifier" : "BJNR085100008",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR085100008BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR085100008BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR085100008BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Gegenstand der Wertermittlung"
+        },
+        {
+          "documentIdentifier" : "BJNR085100008BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Grundsatz der Schiffsbeleihungswertermittlung"
+        },
+        {
+          "documentIdentifier" : "BJNR085100008BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Verfahren zur Ermittlung von Beleihungswerten für Schiffe und Schiffsbauwerke"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Bestimmungen und Verfahrensgrundsätze"
+    },
+    {
+      "documentIdentifier" : "BJNR085100008BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR085100008BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Gutachten"
+        },
+        {
+          "documentIdentifier" : "BJNR085100008BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Besichtigung"
+        },
+        {
+          "documentIdentifier" : "BJNR085100008BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Gutachter"
+        },
+        {
+          "documentIdentifier" : "BJNR085100008BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Unabhängigkeit des Gutachters"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gutachten und Gutachter"
+    },
+    {
+      "documentIdentifier" : "BJNR085100008BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR085100008BJNE001000000",
+          "paragraph" : "§ 9",
+          "title" : "Aktueller Marktwert"
+        },
+        {
+          "documentIdentifier" : "BJNR085100008BJNE001100000",
+          "paragraph" : "§ 10",
+          "title" : "Durchschnittlicher Marktwert"
+        },
+        {
+          "documentIdentifier" : "BJNR085100008BJNE001200000",
+          "paragraph" : "§ 11",
+          "title" : "Neubaupreis"
+        },
+        {
+          "documentIdentifier" : "BJNR085100008BJNE001300000",
+          "paragraph" : "§ 12",
+          "title" : "Kaufpreis"
+        },
+        {
+          "documentIdentifier" : "BJNR085100008BJNE001400000",
+          "paragraph" : "§ 13",
+          "title" : "Wertermittlung bei Schiffsbauwerken"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Wertermittlungsverfahren"
+    },
+    {
+      "documentIdentifier" : "BJNR085100008BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR085100008BJNE001500000",
+          "paragraph" : "§ 14",
+          "title" : "Überprüfung der Grundlagen der Schiffsbeleihungswertermittlung"
+        },
+        {
+          "documentIdentifier" : "BJNR085100008BJNE001600000",
+          "paragraph" : "§ 15",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Überprüfung der Schiffsbeleihungswertermittlung und Inkrafttreten"
+    }
+  ]
+}

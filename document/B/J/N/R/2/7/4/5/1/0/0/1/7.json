@@ -1,0 +1,180 @@
+{
+  "documentIdentifier" : "BJNR274510017",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR274510017BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR274510017BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR274510017BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Aufsichtsstelle; zuständige Stelle für die Informationssicherheit"
+        },
+        {
+          "documentIdentifier" : "BJNR274510017BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Verfahren über eine einheitliche Stelle"
+        },
+        {
+          "documentIdentifier" : "BJNR274510017BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Aufsichtsmaßnahmen; Untersagung des Betriebs"
+        },
+        {
+          "documentIdentifier" : "BJNR274510017BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Mitwirkungspflichten der Vertrauensdiensteanbieter"
+        },
+        {
+          "documentIdentifier" : "BJNR274510017BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Haftung"
+        },
+        {
+          "documentIdentifier" : "BJNR274510017BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Barrierefreie Dienste"
+        },
+        {
+          "documentIdentifier" : "BJNR274510017BJNE000901123",
+          "paragraph" : "§ 8",
+          "title" : "Datenschutz"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Bestimmungen"
+    },
+    {
+      "documentIdentifier" : "BJNR274510017BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR274510017BJNE001000000",
+          "paragraph" : "§ 9",
+          "title" : "Vertrauenslisten"
+        },
+        {
+          "documentIdentifier" : "BJNR274510017BJNE001100000",
+          "paragraph" : "§ 10",
+          "title" : "Deckungsvorsorge"
+        },
+        {
+          "documentIdentifier" : "BJNR274510017BJNE001200000",
+          "paragraph" : "§ 11",
+          "title" : "Identitätsprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR274510017BJNE001300000",
+          "paragraph" : "§ 12",
+          "title" : "Attribute in qualifizierten Zertifikaten für elektronische Signaturen und Siegel"
+        },
+        {
+          "documentIdentifier" : "BJNR274510017BJNE001400000",
+          "paragraph" : "§ 13",
+          "title" : "Unterrichtung über Sicherheitsmaßnahmen und Rechtswirkungen"
+        },
+        {
+          "documentIdentifier" : "BJNR274510017BJNE001500000",
+          "paragraph" : "§ 14",
+          "title" : "Widerruf qualifizierter Zertifikate"
+        },
+        {
+          "documentIdentifier" : "BJNR274510017BJNE001600000",
+          "paragraph" : "§ 15",
+          "title" : "Langfristige Beweiserhaltung"
+        },
+        {
+          "documentIdentifier" : "BJNR274510017BJNE001700000",
+          "paragraph" : "§ 16",
+          "title" : "Beendigungsplan; auf Dauer prüfbare Vertrauensdienste"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften für qualifizierte Vertrauensdienste"
+    },
+    {
+      "documentIdentifier" : "BJNR274510017BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR274510017BJNE001800000",
+          "paragraph" : "§ 17",
+          "title" : "Benannte Stellen nach Artikel 30 Absatz 1 der Verordnung (EU) Nr. 910\/2014"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Qualifizierte elektronische Signaturen und Siegel"
+    },
+    {
+      "documentIdentifier" : "BJNR274510017BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR274510017BJNE001900000",
+          "paragraph" : "§ 18",
+          "title" : "Dienste für die Zustellung elektronischer Einschreiben"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Qualifizierte Dienste für die Zustellung elektronischer Einschreiben"
+    },
+    {
+      "documentIdentifier" : "BJNR274510017BJNG000500000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR274510017BJNE002000000",
+          "paragraph" : "§ 19",
+          "title" : "Bußgeldvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR274510017BJNE002100000",
+          "paragraph" : "§ 20",
+          "title" : "Verordnungsermächtigung"
+        },
+        {
+          "documentIdentifier" : "BJNR274510017BJNE002200000",
+          "paragraph" : "§ 21",
+          "title" : "Übergangsvorschrift"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussvorschriften"
+    }
+  ]
+}

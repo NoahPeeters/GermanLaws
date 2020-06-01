@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR241200008",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR241200008Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR241200008BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Zweck der Verordnung"
+        },
+        {
+          "documentIdentifier" : "BJNR241200008BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Anlage „Versorgungsmedizinische Grundsätze“"
+        },
+        {
+          "documentIdentifier" : "BJNR241200008BJNE000401119",
+          "paragraph" : "§ 3",
+          "title" : "Beirat"
+        },
+        {
+          "documentIdentifier" : "BJNR241200008BJNE000501360",
+          "paragraph" : "§ 4",
+          "title" : "Beschlüsse"
+        },
+        {
+          "documentIdentifier" : "BJNR241200008BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR241200008BJNE000807126",
+          "paragraph" : "Anlage",
+          "title" : "zu § 2"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

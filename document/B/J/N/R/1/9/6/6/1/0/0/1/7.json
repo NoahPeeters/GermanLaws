@@ -1,0 +1,1880 @@
+{
+  "documentIdentifier" : "BJNR196610017",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR196610017BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR196610017BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungs- und Geltungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR196610017BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Exposition; Expositionssituationen; Expositionskategorien"
+        },
+        {
+          "documentIdentifier" : "BJNR196610017BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Begriff der radioaktiven Stoffe"
+        },
+        {
+          "documentIdentifier" : "BJNR196610017BJNE000501000",
+          "paragraph" : "§ 4",
+          "title" : "Tätigkeiten, Tätigkeitsarten"
+        },
+        {
+          "documentIdentifier" : "BJNR196610017BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Sonstige Begriffsbestimmungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR196610017BJNG000200000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR196610017BJNG000300000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR196610017BJNE000701000",
+              "paragraph" : "§ 6",
+              "title" : "Rechtfertigung von Tätigkeitsarten; Verordnungsermächtigung"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNE000801000",
+              "paragraph" : "§ 7",
+              "title" : "Verfahren zur Prüfung der Rechtfertigung einer Tätigkeitsart; Verordnungsermächtigung"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNE000901000",
+              "paragraph" : "§ 8",
+              "title" : "Vermeidung unnötiger Exposition und Dosisreduzierung"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNE001001000",
+              "paragraph" : "§ 9",
+              "title" : "Dosisbegrenzung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Strahlenschutzgrundsätze"
+        },
+        {
+          "documentIdentifier" : "BJNR196610017BJNG000400000",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              2
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR196610017BJNG000500000",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR196610017BJNE001101000",
+                  "paragraph" : "§ 10",
+                  "title" : "Genehmigungsbedürftige Errichtung von Anlagen zur Erzeugung ionisierender Strahlung"
+                },
+                {
+                  "documentIdentifier" : "BJNR196610017BJNE001201000",
+                  "paragraph" : "§ 11",
+                  "title" : "Voraussetzungen für die Erteilung der Genehmigung; Aussetzung des Genehmigungsverfahrens"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  2,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Errichtung von Anlagen zur Erzeugung ionisierender Strahlung"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNG000600000",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR196610017BJNE001301000",
+                  "paragraph" : "§ 12",
+                  "title" : "Genehmigungsbedürftige Tätigkeiten"
+                },
+                {
+                  "documentIdentifier" : "BJNR196610017BJNE001401000",
+                  "paragraph" : "§ 13",
+                  "title" : "Allgemeine Voraussetzungen für die Erteilung der Genehmigung; Aussetzung des Genehmigungsverfahrens"
+                },
+                {
+                  "documentIdentifier" : "BJNR196610017BJNE001501000",
+                  "paragraph" : "§ 14",
+                  "title" : "Besondere Voraussetzungen bei Tätigkeiten im Zusammenhang mit der Anwendung am Menschen"
+                },
+                {
+                  "documentIdentifier" : "BJNR196610017BJNE001601000",
+                  "paragraph" : "§ 15",
+                  "title" : "Besondere Voraussetzungen bei Tätigkeiten im Zusammenhang mit der Anwendung am Tier in der Tierheilkunde"
+                },
+                {
+                  "documentIdentifier" : "BJNR196610017BJNE001701000",
+                  "paragraph" : "§ 16",
+                  "title" : "Erforderliche Unterlagen"
+                },
+                {
+                  "documentIdentifier" : "BJNR196610017BJNE001801000",
+                  "paragraph" : "§ 17",
+                  "title" : "Anzeigebedürftiger Betrieb von Anlagen zur Erzeugung ionisierender Strahlung"
+                },
+                {
+                  "documentIdentifier" : "BJNR196610017BJNE001901000",
+                  "paragraph" : "§ 18",
+                  "title" : "Prüfung des angezeigten Betriebs einer Anlage zur Erzeugung ionisierender Strahlung"
+                },
+                {
+                  "documentIdentifier" : "BJNR196610017BJNE002002119",
+                  "paragraph" : "§ 19",
+                  "title" : "Genehmigungs- und anzeigebedürftiger Betrieb von Röntgeneinrichtungen"
+                },
+                {
+                  "documentIdentifier" : "BJNR196610017BJNE002101000",
+                  "paragraph" : "§ 20",
+                  "title" : "Prüfung des angezeigten Betriebs einer Röntgeneinrichtung"
+                },
+                {
+                  "documentIdentifier" : "BJNR196610017BJNE002201000",
+                  "paragraph" : "§ 21",
+                  "title" : "Beendigung des genehmigten oder angezeigten Betriebs oder Umgangs"
+                },
+                {
+                  "documentIdentifier" : "BJNR196610017BJNE002301000",
+                  "paragraph" : "§ 22",
+                  "title" : "Anzeigebedürftige Prüfung, Erprobung, Wartung und Instandsetzung von Röntgeneinrichtungen oder Störstrahlern"
+                },
+                {
+                  "documentIdentifier" : "BJNR196610017BJNE002402119",
+                  "paragraph" : "§ 23",
+                  "title" : "Verhältnis zur Verordnung (EU) 2017\/745"
+                },
+                {
+                  "documentIdentifier" : "BJNR196610017BJNE002500000",
+                  "paragraph" : "§ 24",
+                  "title" : "Verordnungsermächtigungen"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  2,
+                  2
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Betrieb von Anlagen zur Erzeugung ionisierender Strahlung; Umgang mit radioaktiven Stoffen; Betrieb von Röntgeneinrichtungen oder Störstrahlern"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNG000700000",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR196610017BJNE002601000",
+                  "paragraph" : "§ 25",
+                  "title" : "Genehmigungsbedürftige Beschäftigung in fremden Anlagen oder Einrichtungen"
+                },
+                {
+                  "documentIdentifier" : "BJNR196610017BJNE002701000",
+                  "paragraph" : "§ 26",
+                  "title" : "Anzeigebedürftige Beschäftigung im Zusammenhang mit dem Betrieb fremder Röntgeneinrichtungen oder Störstrahler"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  2,
+                  3
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Beschäftigung in fremden Anlagen oder Einrichtungen oder im Zusammenhang mit dem Betrieb fremder Röntgeneinrichtungen oder Störstrahler"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNG000800000",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR196610017BJNE002801000",
+                  "paragraph" : "§ 27",
+                  "title" : "Genehmigungsbedürftige Beförderung"
+                },
+                {
+                  "documentIdentifier" : "BJNR196610017BJNE002901000",
+                  "paragraph" : "§ 28",
+                  "title" : "Genehmigungsfreie Beförderung"
+                },
+                {
+                  "documentIdentifier" : "BJNR196610017BJNE003001000",
+                  "paragraph" : "§ 29",
+                  "title" : "Voraussetzungen für die Erteilung der Genehmigung"
+                },
+                {
+                  "documentIdentifier" : "BJNR196610017BJNE003100000",
+                  "paragraph" : "§ 30",
+                  "title" : "Verordnungsermächtigung für die grenzüberschreitende Verbringung radioaktiver Stoffe"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  2,
+                  4
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Beförderung radioaktiver Stoffe; grenzüberschreitende Verbringung"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNG000900000",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR196610017BJNE003202119",
+                  "paragraph" : "§ 31",
+                  "title" : "Genehmigungsbedürftige Anwendung radioaktiver Stoffe oder ionisierender Strahlung am Menschen zum Zweck der medizinischen Forschung"
+                },
+                {
+                  "documentIdentifier" : "BJNR196610017BJNE003301000",
+                  "paragraph" : "§ 32",
+                  "title" : "Anzeigebedürftige Anwendung radioaktiver Stoffe oder ionisierender Strahlung am Menschen zum Zweck der medizinischen Forschung"
+                },
+                {
+                  "documentIdentifier" : "BJNR196610017BJNE003401000",
+                  "paragraph" : "§ 33",
+                  "title" : "Prüfung der Anzeige durch die zuständige Behörde"
+                },
+                {
+                  "documentIdentifier" : "BJNR196610017BJNE003501000",
+                  "paragraph" : "§ 34",
+                  "title" : "Untersagung der angezeigten Anwendung radioaktiver Stoffe oder ionisierender Strahlung am Menschen zum Zweck der medizinischen Forschung"
+                },
+                {
+                  "documentIdentifier" : "BJNR196610017BJNE003602119",
+                  "paragraph" : "§ 35",
+                  "title" : "Deckungsvorsorge bei der anzeigebedürftigen Anwendung radioaktiver Stoffe oder ionisierender Strahlung am Menschen zum Zweck der medizinischen Forschung"
+                },
+                {
+                  "documentIdentifier" : "BJNR196610017BJNE003701000",
+                  "paragraph" : "§ 36",
+                  "title" : "Ethikkommission"
+                },
+                {
+                  "documentIdentifier" : "BJNR196610017BJNE003800000",
+                  "paragraph" : "§ 37",
+                  "title" : "Verordnungsermächtigung"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  2,
+                  5
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Medizinische Forschung"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNG001000000",
+              "laws" : [
+
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  2,
+                  6
+                ]
+              },
+              "subsections" : [
+                {
+                  "documentIdentifier" : "BJNR196610017BJNG001100000",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR196610017BJNE003901000",
+                      "paragraph" : "§ 38",
+                      "title" : "Rechtfertigung von Tätigkeitsarten mit Konsumgütern oder bauartzugelassenen Vorrichtungen; Verordnungsermächtigung"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      2,
+                      2,
+                      6,
+                      1
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Rechtfertigung"
+                },
+                {
+                  "documentIdentifier" : "BJNR196610017BJNG001200000",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR196610017BJNE004001000",
+                      "paragraph" : "§ 39",
+                      "title" : "Unzulässiger Zusatz radioaktiver Stoffe und unzulässige Aktivierung"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR196610017BJNE004101000",
+                      "paragraph" : "§ 40",
+                      "title" : "Genehmigungsbedürftiger Zusatz radioaktiver Stoffe und genehmigungsbedürftige Aktivierung"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR196610017BJNE004201000",
+                      "paragraph" : "§ 41",
+                      "title" : "Voraussetzungen für die Erteilung der Genehmigung des Zusatzes radioaktiver Stoffe oder der Aktivierung"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR196610017BJNE004301000",
+                      "paragraph" : "§ 42",
+                      "title" : "Genehmigungsbedürftige grenzüberschreitende Verbringung von Konsumgütern"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR196610017BJNE004401000",
+                      "paragraph" : "§ 43",
+                      "title" : "Voraussetzungen für die Erteilung der Genehmigung der grenzüber- schreitenden Verbringung von Konsumgütern"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR196610017BJNE004501000",
+                      "paragraph" : "§ 44",
+                      "title" : "Rückführung von Konsumgütern"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      2,
+                      2,
+                      6,
+                      2
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Schutz des Verbrauchers beim Zusatz radioaktiver Stoffe und bei der Aktivierung"
+                },
+                {
+                  "documentIdentifier" : "BJNR196610017BJNG001300000",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR196610017BJNE004602119",
+                      "paragraph" : "§ 45",
+                      "title" : "Bauartzugelassene Vorrichtungen"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR196610017BJNE004701000",
+                      "paragraph" : "§ 46",
+                      "title" : "Verfahren der Bauartzulassung"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR196610017BJNE004801000",
+                      "paragraph" : "§ 47",
+                      "title" : "Zulassungsschein"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR196610017BJNE004901000",
+                      "paragraph" : "§ 48",
+                      "title" : "Verwendung oder Betrieb bauartzugelassener Vorrichtungen"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR196610017BJNE005000000",
+                      "paragraph" : "§ 49",
+                      "title" : "Verordnungsermächtigung"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      2,
+                      2,
+                      6,
+                      3
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Bauartzulassung"
+                }
+              ],
+              "title" : "Schutz des Verbrauchers bei Zusatz radioaktiver Stoffe und Aktivierung; bauartzugelassene Vorrichtungen"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNG001400000",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR196610017BJNE005101000",
+                  "paragraph" : "§ 50",
+                  "title" : "Anzeigebedürftiger Betrieb von Luftfahrzeugen"
+                },
+                {
+                  "documentIdentifier" : "BJNR196610017BJNE005201000",
+                  "paragraph" : "§ 51",
+                  "title" : "Prüfung des angezeigten Betriebs von Luftfahrzeugen"
+                },
+                {
+                  "documentIdentifier" : "BJNR196610017BJNE005301000",
+                  "paragraph" : "§ 52",
+                  "title" : "Anzeigebedürftiger Betrieb von Raumfahrzeugen"
+                },
+                {
+                  "documentIdentifier" : "BJNR196610017BJNE005401000",
+                  "paragraph" : "§ 53",
+                  "title" : "Prüfung des angezeigten Betriebs von Raumfahrzeugen"
+                },
+                {
+                  "documentIdentifier" : "BJNR196610017BJNE005501000",
+                  "paragraph" : "§ 54",
+                  "title" : "Beendigung der angezeigten Tätigkeit"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  2,
+                  7
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Tätigkeiten im Zusammenhang mit kosmischer Strahlung"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNG001500000",
+              "laws" : [
+
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  2,
+                  8
+                ]
+              },
+              "subsections" : [
+                {
+                  "documentIdentifier" : "BJNR196610017BJNG001600000",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR196610017BJNE005601000",
+                      "paragraph" : "§ 55",
+                      "title" : "Abschätzung der Exposition"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR196610017BJNE005701000",
+                      "paragraph" : "§ 56",
+                      "title" : "Anzeige"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR196610017BJNE005801000",
+                      "paragraph" : "§ 57",
+                      "title" : "Prüfung der angezeigten Tätigkeit"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR196610017BJNE005901000",
+                      "paragraph" : "§ 58",
+                      "title" : "Beendigung der angezeigten Tätigkeit"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR196610017BJNE006001000",
+                      "paragraph" : "§ 59",
+                      "title" : "Externe Tätigkeit"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      2,
+                      2,
+                      8,
+                      1
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Arbeitsplätze mit Exposition durch natürlich vorkommende Radioaktivität"
+                },
+                {
+                  "documentIdentifier" : "BJNR196610017BJNG001700000",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR196610017BJNE006101000",
+                      "paragraph" : "§ 60",
+                      "title" : "Anfall, Verwertung oder Beseitigung von Rückständen"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR196610017BJNE006201000",
+                      "paragraph" : "§ 61",
+                      "title" : "Anfall und Lagerung überwachungsbedürftiger Rückstände; Verordnungsermächtigung"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR196610017BJNE006301000",
+                      "paragraph" : "§ 62",
+                      "title" : "Entlassung von Rückständen aus der Überwachung; Verordnungsermächtigung"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR196610017BJNE006401000",
+                      "paragraph" : "§ 63",
+                      "title" : "In der Überwachung verbleibende Rückstände; Verordnungsermächtigung"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR196610017BJNE006501000",
+                      "paragraph" : "§ 64",
+                      "title" : "Entfernung von Kontaminationen von Grundstücken"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR196610017BJNE006601000",
+                      "paragraph" : "§ 65",
+                      "title" : "Überwachung sonstiger Materialien; Verordnungsermächtigung"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR196610017BJNE006701000",
+                      "paragraph" : "§ 66",
+                      "title" : "Mitteilungspflichten zur Betriebsorganisation"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      2,
+                      2,
+                      8,
+                      2
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Tätigkeiten mit Rückständen; Materialien"
+                }
+              ],
+              "title" : "Tätigkeiten im Zusammenhang mit natürlich vorkommender Radioaktivität"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNG001800000",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR196610017BJNE006801000",
+                  "paragraph" : "§ 67",
+                  "title" : "Ausnahme von dem Erfordernis der Genehmigung und der Anzeige"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  2,
+                  9
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Ausnahme"
+            }
+          ],
+          "title" : "Vorabkontrolle bei radioaktiven Stoffen oder ionisierender Strahlung"
+        },
+        {
+          "documentIdentifier" : "BJNR196610017BJNG001900000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR196610017BJNE006901000",
+              "paragraph" : "§ 68",
+              "title" : "Verordnungsermächtigung; Verwendungs- und Verwertungsverbot"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Freigabe"
+        },
+        {
+          "documentIdentifier" : "BJNR196610017BJNG002000000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR196610017BJNE007001000",
+              "paragraph" : "§ 69",
+              "title" : "Strahlenschutzverantwortlicher"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNE007101000",
+              "paragraph" : "§ 70",
+              "title" : "Strahlenschutzbeauftragter"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNE007201000",
+              "paragraph" : "§ 71",
+              "title" : "Betriebliche Zusammenarbeit im Strahlenschutz"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNE007302119",
+              "paragraph" : "§ 72",
+              "title" : "Weitere Pflichten des Strahlenschutzverantwortlichen und des Strahlenschutzbeauftragten; Verordnungsermächtigung"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNE007400000",
+              "paragraph" : "§ 73",
+              "title" : "Verordnungsermächtigung für den Erlass einer Strahlenschutzanweisung"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNE007501000",
+              "paragraph" : "§ 74",
+              "title" : "Erforderliche Fachkunde und Kenntnisse im Strahlenschutz; Verordnungsermächtigungen"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNE007601000",
+              "paragraph" : "§ 75",
+              "title" : "Überprüfung der Zuverlässigkeit"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Betriebliche Organisation des Strahlenschutzes"
+        },
+        {
+          "documentIdentifier" : "BJNR196610017BJNG002100000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR196610017BJNE007702119",
+              "paragraph" : "§ 76",
+              "title" : "Verordnungsermächtigungen für die physikalische Strahlenschutzkontrolle und Strahlenschutzbereiche; Aufzeichnungs- und Mitteilungspflichten der Daten der Körperdosis"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNE007801000",
+              "paragraph" : "§ 77",
+              "title" : "Grenzwert für die Berufslebensdosis"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNE007901000",
+              "paragraph" : "§ 78",
+              "title" : "Grenzwerte für beruflich exponierte Personen"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNE008001000",
+              "paragraph" : "§ 79",
+              "title" : "Verordnungsermächtigung für die berufliche Exposition; Führung einer Gesundheitsakte"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNE008101000",
+              "paragraph" : "§ 80",
+              "title" : "Grenzwerte für die Exposition der Bevölkerung"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNE008200000",
+              "paragraph" : "§ 81",
+              "title" : "Verordnungsermächtigung für den Schutz der Bevölkerung und der Umwelt"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNE008300000",
+              "paragraph" : "§ 82",
+              "title" : "Verordnungsermächtigung für Pflichten des Strahlenschutzverantwortlichen im Zusammenhang mit Störfällen und Notfällen"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNE008401000",
+              "paragraph" : "§ 83",
+              "title" : "Anwendung ionisierender Strahlung oder radioaktiver Stoffe am Menschen"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNE008501000",
+              "paragraph" : "§ 84",
+              "title" : "Früherkennung; Verordnungsermächtigung"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNE008602119",
+              "paragraph" : "§ 85",
+              "title" : "Aufzeichnungs-, Aufbewahrungs- und behördliche Mitteilungspflichten von Daten und Bilddokumenten bei der Anwendung am Menschen; Verordnungsermächtigung"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNE008700000",
+              "paragraph" : "§ 86",
+              "title" : "Verordnungsermächtigungen zum Schutz von Personen bei der Anwendung ionisierender Strahlung oder radioaktiver Stoffe am Menschen"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNE008800000",
+              "paragraph" : "§ 87",
+              "title" : "Verordnungsermächtigungen zum Schutz von Personen bei der Anwendung radioaktiver Stoffe oder ionisierender Strahlung am Tier in der Tierheilkunde"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNE008902119",
+              "paragraph" : "§ 88",
+              "title" : "Register über hochradioaktive Strahlenquellen; Verordnungsermächtigungen"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNE009000000",
+              "paragraph" : "§ 89",
+              "title" : "Verordnungsermächtigungen zu der Sicherheit von Strahlungsquellen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              5
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Anforderungen an die Ausübung von Tätigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR196610017BJNG002200000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR196610017BJNE009101000",
+              "paragraph" : "§ 90",
+              "title" : "Verordnungsermächtigung für Pflichten, Aufgaben und Befugnisse bei Vorkommnissen; Aufzeichnungs-, Übermittlungs- und Aufbewahrungspflichten"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNE009200000",
+              "paragraph" : "§ 91",
+              "title" : "Verordnungsermächtigung für Informationspflichten des Herstellers oder Lieferanten von Geräten"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              6
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Melde- und Informationspflichten"
+        }
+      ],
+      "title" : "Strahlenschutz bei geplanten Expositionssituationen"
+    },
+    {
+      "documentIdentifier" : "BJNR196610017BJNG002300000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR196610017BJNG002400000",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              1
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR196610017BJNG002500000",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR196610017BJNE009300000",
+                  "paragraph" : "§ 92",
+                  "title" : "Notfallschutzgrundsätze"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  3,
+                  1,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Notfallschutzgrundsätze"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNG002600000",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR196610017BJNE009400000",
+                  "paragraph" : "§ 93",
+                  "title" : "Referenzwerte für den Schutz der Bevölkerung; Verordnungsermächtigungen"
+                },
+                {
+                  "documentIdentifier" : "BJNR196610017BJNE009500000",
+                  "paragraph" : "§ 94",
+                  "title" : "Dosiswerte und Kontaminationswerte für den Schutz der Bevölkerung; Verordnungsermächtigungen"
+                },
+                {
+                  "documentIdentifier" : "BJNR196610017BJNE009600000",
+                  "paragraph" : "§ 95",
+                  "title" : "Bewirtschaftung von Abfällen, die infolge eines Notfalls kontaminiert sein können, Errichtung und Betrieb von Anlagen; Verordnungsermächtigungen"
+                },
+                {
+                  "documentIdentifier" : "BJNR196610017BJNE009700000",
+                  "paragraph" : "§ 96",
+                  "title" : "Eilverordnungen"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  3,
+                  1,
+                  2
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Referenz-, Dosis- und Kontaminationswerte; Abfälle und Anlagen"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNG002700000",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR196610017BJNE009800000",
+                  "paragraph" : "§ 97",
+                  "title" : "Gemeinsame Vorschriften für die Notfallpläne"
+                },
+                {
+                  "documentIdentifier" : "BJNR196610017BJNE009900000",
+                  "paragraph" : "§ 98",
+                  "title" : "Allgemeiner Notfallplan des Bundes"
+                },
+                {
+                  "documentIdentifier" : "BJNR196610017BJNE010000000",
+                  "paragraph" : "§ 99",
+                  "title" : "Besondere Notfallpläne des Bundes"
+                },
+                {
+                  "documentIdentifier" : "BJNR196610017BJNE010100000",
+                  "paragraph" : "§ 100",
+                  "title" : "Allgemeine und besondere Notfallpläne der Länder"
+                },
+                {
+                  "documentIdentifier" : "BJNR196610017BJNE010200000",
+                  "paragraph" : "§ 101",
+                  "title" : "Externe Notfallpläne für ortsfeste Anlagen oder Einrichtungen mit besonderem Gefahrenpotential"
+                },
+                {
+                  "documentIdentifier" : "BJNR196610017BJNE010300000",
+                  "paragraph" : "§ 102",
+                  "title" : "Notfallübungen"
+                },
+                {
+                  "documentIdentifier" : "BJNR196610017BJNE010400000",
+                  "paragraph" : "§ 103",
+                  "title" : "Überprüfung und Änderung der Notfallpläne"
+                },
+                {
+                  "documentIdentifier" : "BJNR196610017BJNE010500000",
+                  "paragraph" : "§ 104",
+                  "title" : "Beschaffung von Schutzwirkstoffen"
+                },
+                {
+                  "documentIdentifier" : "BJNR196610017BJNE010600000",
+                  "paragraph" : "§ 105",
+                  "title" : "Information der Bevölkerung über die Schutzmaßnahmen und Empfehlungen für das Verhalten bei möglichen Notfällen"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  3,
+                  1,
+                  3
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Notfallvorsorge"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNG002800000",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR196610017BJNE010701119",
+                  "paragraph" : "§ 106",
+                  "title" : "Radiologisches Lagezentrum des Bundes"
+                },
+                {
+                  "documentIdentifier" : "BJNR196610017BJNE010800000",
+                  "paragraph" : "§ 107",
+                  "title" : "Aufgaben der Länder bei der Ermittlung und Auswertung der radiologischen Lage"
+                },
+                {
+                  "documentIdentifier" : "BJNR196610017BJNE010900000",
+                  "paragraph" : "§ 108",
+                  "title" : "Radiologisches Lagebild"
+                },
+                {
+                  "documentIdentifier" : "BJNR196610017BJNE011000000",
+                  "paragraph" : "§ 109",
+                  "title" : "Entscheidungen über Schutzmaßnahmen durch die zuständigen Behörden"
+                },
+                {
+                  "documentIdentifier" : "BJNR196610017BJNE011100000",
+                  "paragraph" : "§ 110",
+                  "title" : "Zusammenarbeit und Abstimmung bei Notfällen"
+                },
+                {
+                  "documentIdentifier" : "BJNR196610017BJNE011200000",
+                  "paragraph" : "§ 111",
+                  "title" : "Dosisabschätzung, Abschätzung der Wirksamkeit der Schutzmaßnahmen, Anpassung der Notfallplanungen bei überregionalen und regionalen Notfällen"
+                },
+                {
+                  "documentIdentifier" : "BJNR196610017BJNE011300000",
+                  "paragraph" : "§ 112",
+                  "title" : "Information der betroffenen Bevölkerung und Empfehlungen für das Verhalten bei Notfällen"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  3,
+                  1,
+                  4
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Radiologische Lage, Notfallreaktion"
+            }
+          ],
+          "title" : "Notfallmanagementsystem des Bundes und der Länder"
+        },
+        {
+          "documentIdentifier" : "BJNR196610017BJNG002900000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR196610017BJNE011400000",
+              "paragraph" : "§ 113",
+              "title" : "Unterrichtung, Aus- und Fortbildung der Einsatzkräfte im Rahmen der Notfallvorsorge"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNE011501118",
+              "paragraph" : "§ 114",
+              "title" : "Schutz der Einsatzkräfte bei Notfalleinsätzen"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNE011600000",
+              "paragraph" : "§ 115",
+              "title" : "Verantwortlichkeit für den Schutz der Einsatzkräfte"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNE011700000",
+              "paragraph" : "§ 116",
+              "title" : "Schutz der Einsatzkräfte bei anderen Gefahrenlagen"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNE011800000",
+              "paragraph" : "§ 117",
+              "title" : "Verordnungsermächtigungen zum Schutz der Einsatzkräfte"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Schutz der Einsatzkräfte"
+        }
+      ],
+      "title" : "Strahlenschutz bei Notfallexpositionssituationen"
+    },
+    {
+      "documentIdentifier" : "BJNR196610017BJNG003000000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR196610017BJNG003100000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR196610017BJNE011901000",
+              "paragraph" : "§ 118",
+              "title" : "Übergang zu einer bestehenden Expositionssituation; Verordnungsermächtigungen"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNE012001000",
+              "paragraph" : "§ 119",
+              "title" : "Radiologische Lage, Maßnahmen, Zusammenarbeit und Abstimmung in einer nach einem Notfall bestehenden Expositionssituation"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNE012101000",
+              "paragraph" : "§ 120",
+              "title" : "Information der Bevölkerung und Verhaltensempfehlungen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Nach einem Notfall bestehende Expositionssituationen"
+        },
+        {
+          "documentIdentifier" : "BJNR196610017BJNG003200000",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4,
+              2
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR196610017BJNG003300000",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR196610017BJNE012201000",
+                  "paragraph" : "§ 121",
+                  "title" : "Festlegung von Gebieten; Verordnungsermächtigung"
+                },
+                {
+                  "documentIdentifier" : "BJNR196610017BJNE012301000",
+                  "paragraph" : "§ 122",
+                  "title" : "Radonmaßnahmenplan"
+                },
+                {
+                  "documentIdentifier" : "BJNR196610017BJNE012401000",
+                  "paragraph" : "§ 123",
+                  "title" : "Maßnahmen an Gebäuden; Verordnungsermächtigung"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  4,
+                  2,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Gemeinsame Vorschriften"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNG003400000",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR196610017BJNE012501000",
+                  "paragraph" : "§ 124",
+                  "title" : "Referenzwert; Verordnungsermächtigung"
+                },
+                {
+                  "documentIdentifier" : "BJNR196610017BJNE012601000",
+                  "paragraph" : "§ 125",
+                  "title" : "Unterrichtung der Bevölkerung; Reduzierung der Radonkonzentration"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  4,
+                  2,
+                  2
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Schutz vor Radon in Aufenthaltsräumen"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNG003500000",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR196610017BJNE012701000",
+                  "paragraph" : "§ 126",
+                  "title" : "Referenzwert"
+                },
+                {
+                  "documentIdentifier" : "BJNR196610017BJNE012801000",
+                  "paragraph" : "§ 127",
+                  "title" : "Messung der Radonkonzentration"
+                },
+                {
+                  "documentIdentifier" : "BJNR196610017BJNE012901000",
+                  "paragraph" : "§ 128",
+                  "title" : "Reduzierung der Radonkonzentration"
+                },
+                {
+                  "documentIdentifier" : "BJNR196610017BJNE013001000",
+                  "paragraph" : "§ 129",
+                  "title" : "Anmeldung"
+                },
+                {
+                  "documentIdentifier" : "BJNR196610017BJNE013101000",
+                  "paragraph" : "§ 130",
+                  "title" : "Abschätzung der Exposition"
+                },
+                {
+                  "documentIdentifier" : "BJNR196610017BJNE013201000",
+                  "paragraph" : "§ 131",
+                  "title" : "Beruflicher Strahlenschutz"
+                },
+                {
+                  "documentIdentifier" : "BJNR196610017BJNE013300000",
+                  "paragraph" : "§ 132",
+                  "title" : "Verordnungsermächtigung"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  4,
+                  2,
+                  3
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Schutz vor Radon an Arbeitsplätzen in Innenräumen"
+            }
+          ],
+          "title" : "Schutz vor Radon"
+        },
+        {
+          "documentIdentifier" : "BJNR196610017BJNG003600000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR196610017BJNE013401000",
+              "paragraph" : "§ 133",
+              "title" : "Referenzwert"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNE013501000",
+              "paragraph" : "§ 134",
+              "title" : "Bestimmung der spezifischen Aktivität"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNE013601000",
+              "paragraph" : "§ 135",
+              "title" : "Maßnahmen; Verordnungsermächtigung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Schutz vor Radioaktivität in Bauprodukten"
+        },
+        {
+          "documentIdentifier" : "BJNR196610017BJNG003700000",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4,
+              4
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR196610017BJNG003800000",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR196610017BJNE013701000",
+                  "paragraph" : "§ 136",
+                  "title" : "Begriff der radioaktiven Altlast; Verordnungsermächtigung"
+                },
+                {
+                  "documentIdentifier" : "BJNR196610017BJNE013801000",
+                  "paragraph" : "§ 137",
+                  "title" : "Verantwortlichkeit für radioaktive Altlasten"
+                },
+                {
+                  "documentIdentifier" : "BJNR196610017BJNE013901000",
+                  "paragraph" : "§ 138",
+                  "title" : "Verdacht auf radioaktive Altlasten"
+                },
+                {
+                  "documentIdentifier" : "BJNR196610017BJNE014001000",
+                  "paragraph" : "§ 139",
+                  "title" : "Behördliche Anordnungsbefugnisse für Maßnahmen; Verordnungsermächtigung"
+                },
+                {
+                  "documentIdentifier" : "BJNR196610017BJNE014101000",
+                  "paragraph" : "§ 140",
+                  "title" : "Weitere Pflichten im Zusammenhang mit der Durchführung von Maßnahmen"
+                },
+                {
+                  "documentIdentifier" : "BJNR196610017BJNE014201000",
+                  "paragraph" : "§ 141",
+                  "title" : "Anwendung der Vorschriften für Tätigkeiten mit Rückständen"
+                },
+                {
+                  "documentIdentifier" : "BJNR196610017BJNE014301000",
+                  "paragraph" : "§ 142",
+                  "title" : "Information der Öffentlichkeit; Erfassung"
+                },
+                {
+                  "documentIdentifier" : "BJNR196610017BJNE014401000",
+                  "paragraph" : "§ 143",
+                  "title" : "Sanierungsplanung; Verordnungsermächtigung"
+                },
+                {
+                  "documentIdentifier" : "BJNR196610017BJNE014501000",
+                  "paragraph" : "§ 144",
+                  "title" : "Behördliche Sanierungsplanung"
+                },
+                {
+                  "documentIdentifier" : "BJNR196610017BJNE014601000",
+                  "paragraph" : "§ 145",
+                  "title" : "Schutz von Arbeitskräften; Verordnungsermächtigung"
+                },
+                {
+                  "documentIdentifier" : "BJNR196610017BJNE014701000",
+                  "paragraph" : "§ 146",
+                  "title" : "Kosten; Ausgleichsanspruch"
+                },
+                {
+                  "documentIdentifier" : "BJNR196610017BJNE014801000",
+                  "paragraph" : "§ 147",
+                  "title" : "Wertausgleich; Verordnungsermächtigung"
+                },
+                {
+                  "documentIdentifier" : "BJNR196610017BJNE014901000",
+                  "paragraph" : "§ 148",
+                  "title" : "Sonstige bergbauliche und industrielle Hinterlassenschaften"
+                },
+                {
+                  "documentIdentifier" : "BJNR196610017BJNE015001000",
+                  "paragraph" : "§ 149",
+                  "title" : "Stilllegung und Sanierung der Betriebsanlagen und Betriebsstätten des Uranerzbergbaus; Verordnungsermächtigung"
+                },
+                {
+                  "documentIdentifier" : "BJNR196610017BJNE015101000",
+                  "paragraph" : "§ 150",
+                  "title" : "Verhältnis zu anderen Vorschriften"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  4,
+                  4,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Radioaktive Altlasten"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNG003900000",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR196610017BJNE015201000",
+                  "paragraph" : "§ 151",
+                  "title" : "Kontaminierte Gebiete in einer Notfallexpositionssituation; Verordnungsermächtigungen"
+                },
+                {
+                  "documentIdentifier" : "BJNR196610017BJNE015301000",
+                  "paragraph" : "§ 152",
+                  "title" : "Kontaminierte Gebiete in einer nach einem Notfall bestehenden Expositionssituation; Verordnungsermächtigungen"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  4,
+                  4,
+                  2
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Infolge eines Notfalls kontaminierte Gebiete"
+            }
+          ],
+          "title" : "Radioaktiv kontaminierte Gebiete"
+        },
+        {
+          "documentIdentifier" : "BJNR196610017BJNG004000000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR196610017BJNE015401000",
+              "paragraph" : "§ 153",
+              "title" : "Verantwortlichkeit für sonstige bestehende Expositionssituationen"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNE015501000",
+              "paragraph" : "§ 154",
+              "title" : "Ermittlung und Bewertung einer sonstigen bestehenden Expositionssituation"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNE015600000",
+              "paragraph" : "§ 155",
+              "title" : "Verordnungsermächtigung für die Festlegung von Referenzwerten"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNE015701000",
+              "paragraph" : "§ 156",
+              "title" : "Maßnahmen"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNE015801000",
+              "paragraph" : "§ 157",
+              "title" : "Kosten; Ausgleichsanspruch"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNE015901000",
+              "paragraph" : "§ 158",
+              "title" : "Information"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNE016001000",
+              "paragraph" : "§ 159",
+              "title" : "Anmeldung; Anwendung der Bestimmungen zu geplanten Expositionssituationen; Verordnungsermächtigung"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNE016101000",
+              "paragraph" : "§ 160",
+              "title" : "Verhältnis zu den Kapiteln 1 bis 4"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4,
+              5
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Sonstige bestehende Expositionssituationen"
+        }
+      ],
+      "title" : "Strahlenschutz bei bestehenden Expositionssituationen"
+    },
+    {
+      "documentIdentifier" : "BJNR196610017BJNG004100000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR196610017BJNG004200000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR196610017BJNE016200000",
+              "paragraph" : "§ 161",
+              "title" : "Aufgaben des Bundes"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNE016300000",
+              "paragraph" : "§ 162",
+              "title" : "Aufgaben der Länder"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNE016400000",
+              "paragraph" : "§ 163",
+              "title" : "Integriertes Mess- und Informationssystem des Bundes"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNE016500000",
+              "paragraph" : "§ 164",
+              "title" : "Bewertung der Daten, Unterrichtung des Deutschen Bundestages und des Bundesrates"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNE016600000",
+              "paragraph" : "§ 165",
+              "title" : "Betretungsrecht und Probenahme"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              5,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Überwachung der Umweltradioaktivität"
+        },
+        {
+          "documentIdentifier" : "BJNR196610017BJNG004300000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR196610017BJNE016701000",
+              "paragraph" : "§ 166",
+              "title" : "Festlegungen zur Ermittlung der beruflichen Exposition"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNE016801000",
+              "paragraph" : "§ 167",
+              "title" : "Aufzeichnungs-, Aufbewahrungs- und behördliche Mitteilungspflichten für die ermittelte Körperdosis bei beruflicher Exposition"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNE016901000",
+              "paragraph" : "§ 168",
+              "title" : "Übermittlung der Ergebnisse der Ermittlung der Körperdosis"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNE017001000",
+              "paragraph" : "§ 169",
+              "title" : "Bestimmung von Messstellen; Verordnungsermächtigung"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNE017102119",
+              "paragraph" : "§ 170",
+              "title" : "Strahlenschutzregister; Verordnungsermächtigung"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNE017200000",
+              "paragraph" : "§ 171",
+              "title" : "Verordnungsermächtigung für Vorgaben in Bezug auf einen Strahlenpass"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNE017301000",
+              "paragraph" : "§ 172",
+              "title" : "Bestimmung von Sachverständigen; Verordnungsermächtigung"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNE017400000",
+              "paragraph" : "§ 173",
+              "title" : "Verordnungsermächtigungen für Mitteilungspflichten bei Fund und Erlangung"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNE017500000",
+              "paragraph" : "§ 174",
+              "title" : "Verordnungsermächtigung für behördliche Befugnisse bei kontaminiertem Metall"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNE017601000",
+              "paragraph" : "§ 175",
+              "title" : "Dosis- und Messgrößen; Verordnungsermächtigung"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNE017701000",
+              "paragraph" : "§ 176",
+              "title" : "Haftung für durch ionisierende Strahlung verursachte Schäden"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNE017801000",
+              "paragraph" : "§ 177",
+              "title" : "Vorsorge für die Erfüllung gesetzlicher Schadensersatzverpflichtungen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              5,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Weitere Vorschriften"
+        }
+      ],
+      "title" : "Expositionssituationsübergreifende Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR196610017BJNG004400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR196610017BJNE017901000",
+          "paragraph" : "§ 178",
+          "title" : "Strahlenschutzrechtliche Aufsicht"
+        },
+        {
+          "documentIdentifier" : "BJNR196610017BJNE018001000",
+          "paragraph" : "§ 179",
+          "title" : "Anwendung des Atomgesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR196610017BJNE018101000",
+          "paragraph" : "§ 180",
+          "title" : "Aufsichtsprogramm; Verordnungsermächtigung"
+        },
+        {
+          "documentIdentifier" : "BJNR196610017BJNE018201000",
+          "paragraph" : "§ 181",
+          "title" : "Umweltverträglichkeitsprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR196610017BJNE018302119",
+          "paragraph" : "§ 182",
+          "title" : "Schriftform, elektronische Kommunikation"
+        },
+        {
+          "documentIdentifier" : "BJNR196610017BJNE018402119",
+          "paragraph" : "§ 183",
+          "title" : "Kosten; Verordnungsermächtigung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Strahlenschutzrechtliche Aufsicht, Verwaltungsverfahren"
+    },
+    {
+      "documentIdentifier" : "BJNR196610017BJNG004500000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR196610017BJNE018501000",
+          "paragraph" : "§ 184",
+          "title" : "Zuständigkeit der Landesbehörden"
+        },
+        {
+          "documentIdentifier" : "BJNR196610017BJNE018601000",
+          "paragraph" : "§ 185",
+          "title" : "Zuständigkeit des Bundesamtes für Strahlenschutz; Verordnungsermächtigung"
+        },
+        {
+          "documentIdentifier" : "BJNR196610017BJNE018702119",
+          "paragraph" : "§ 186",
+          "title" : "Zuständigkeit des Bundesamtes für die Sicherheit der nuklearen Entsorgung"
+        },
+        {
+          "documentIdentifier" : "BJNR196610017BJNE018801000",
+          "paragraph" : "§ 187",
+          "title" : "Zuständigkeit der Physikalisch-Technischen Bundesanstalt"
+        },
+        {
+          "documentIdentifier" : "BJNR196610017BJNE018901000",
+          "paragraph" : "§ 188",
+          "title" : "Zuständigkeiten für grenzüberschreitende Verbringungen und deren Überwachung"
+        },
+        {
+          "documentIdentifier" : "BJNR196610017BJNE019001000",
+          "paragraph" : "§ 189",
+          "title" : "Zuständigkeit des Luftfahrt-Bundesamtes"
+        },
+        {
+          "documentIdentifier" : "BJNR196610017BJNE019101000",
+          "paragraph" : "§ 190",
+          "title" : "Zuständigkeit des Eisenbahn-Bundesamtes"
+        },
+        {
+          "documentIdentifier" : "BJNR196610017BJNE019201000",
+          "paragraph" : "§ 191",
+          "title" : "Geschäftsbereich des Bundesministeriums der Verteidigung"
+        },
+        {
+          "documentIdentifier" : "BJNR196610017BJNE019300000",
+          "paragraph" : "§ 192",
+          "title" : "Zuständigkeiten von Verwaltungsbehörden des Bundes bei Aufgaben des Notfallschutzes und der Überwachung der Umweltradioaktivität; Verordnungsermächtigung"
+        },
+        {
+          "documentIdentifier" : "BJNR196610017BJNE019402119",
+          "paragraph" : "§ 193",
+          "title" : "Informationsübermittlung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Verwaltungsbehörden"
+    },
+    {
+      "documentIdentifier" : "BJNR196610017BJNG004600000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          8
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR196610017BJNG004700000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR196610017BJNE019503119",
+              "paragraph" : "§ 194",
+              "title" : "Bußgeldvorschriften"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNE019601000",
+              "paragraph" : "§ 195",
+              "title" : "Einziehung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              8,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Bußgeldvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR196610017BJNG004800000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR196610017BJNE019701000",
+              "paragraph" : "§ 196",
+              "title" : "Genehmigungsbedürftige Errichtung von Anlagen (§ 10)"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNE019801000",
+              "paragraph" : "§ 197",
+              "title" : "Genehmigungsbedürftige Tätigkeiten (§ 12)"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNE019901000",
+              "paragraph" : "§ 198",
+              "title" : "Genehmigungsbedürftiger Betrieb von Röntgeneinrichtungen und Störstrahlern (§ 12)"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNE020001000",
+              "paragraph" : "§ 199",
+              "title" : "Anzeigebedürftiger Betrieb von Anlagen (§ 17)"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNE020102119",
+              "paragraph" : "§ 200",
+              "title" : "Anzeigebedürftiger Betrieb von Röntgeneinrichtungen und Störstrahlern (§ 19)"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNE020201000",
+              "paragraph" : "§ 201",
+              "title" : "Anzeigebedürftige Prüfung, Erprobung, Wartung und Instandsetzung von Röntgeneinrichtungen und Störstrahlern (§ 22)"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNE020301000",
+              "paragraph" : "§ 202",
+              "title" : "Genehmigungsbedürftige Beschäftigung in fremden Anlagen oder Einrichtungen (§ 25)"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNE020401000",
+              "paragraph" : "§ 203",
+              "title" : "Anzeigebedürftige Beschäftigung im Zusammenhang mit dem Betrieb fremder Röntgeneinrichtungen und Störstrahler (§ 26)"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNE020501000",
+              "paragraph" : "§ 204",
+              "title" : "Genehmigungsbedürftige Beförderung radioaktiver Stoffe (§ 27)"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNE020601000",
+              "paragraph" : "§ 205",
+              "title" : "Medizinische Forschung (§§ 31, 32)"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNE020701000",
+              "paragraph" : "§ 206",
+              "title" : "Genehmigungsbedürftiger Zusatz radioaktiver Stoffe und genehmigungsbedürftige Aktivierung (§ 40)"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNE020801000",
+              "paragraph" : "§ 207",
+              "title" : "Genehmigungsbedürftige grenzüberschreitende Verbringung von Konsumgütern (§ 42)"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNE020901000",
+              "paragraph" : "§ 208",
+              "title" : "Bauartzulassung (§ 45)"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNE021001000",
+              "paragraph" : "§ 209",
+              "title" : "Anzeigebedürftiger Betrieb von Luftfahrzeugen (§ 50)"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNE021101000",
+              "paragraph" : "§ 210",
+              "title" : "Anzeigebedürftige Tätigkeiten (§ 56)"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNE021201000",
+              "paragraph" : "§ 211",
+              "title" : "Bestellung von Strahlenschutzbeauftragten (§ 70)"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNE021301000",
+              "paragraph" : "§ 212",
+              "title" : "Grenzwerte für beruflich exponierte Personen; Ermittlung der Exposition der Bevölkerung (§§ 78, 80)"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNE021401000",
+              "paragraph" : "§ 213",
+              "title" : "Zulassung der Früherkennung (§ 84)"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNE021501000",
+              "paragraph" : "§ 214",
+              "title" : "Anmeldung von Arbeitsplätzen in Innenräumen (§ 129)"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNE021601000",
+              "paragraph" : "§ 215",
+              "title" : "Radioaktive Altlasten"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNE021701000",
+              "paragraph" : "§ 216",
+              "title" : "Bestimmung von Messstellen (§ 169)"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNE021801000",
+              "paragraph" : "§ 217",
+              "title" : "Bestimmung von Sachverständigen (§ 172)"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNE021901000",
+              "paragraph" : "§ 218",
+              "title" : "Genehmigungsfreier Umgang mit Geräten, keramischen Gegenständen, Porzellan- und Glaswaren oder elektronischen Bauteilen sowie sonstigen Produkten"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNE022001000",
+              "paragraph" : "Anlage 1",
+              "title" : "(zu § 5 Absatz 32)"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNE022102119",
+              "paragraph" : "Anlage 2",
+              "title" : "(zu § 16, § 25 Absatz 2, § 40 Absatz 4, § 46 Absatz 1)"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNE022201000",
+              "paragraph" : "Anlage 3",
+              "title" : "(zu § 55 Absatz 1)"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNE022300000",
+              "paragraph" : "Anlage 4",
+              "title" : "(zu § 97 Absatz 5)"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNE022400000",
+              "paragraph" : "Anlage 5",
+              "title" : "(zu § 98)"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNE022500000",
+              "paragraph" : "Anlage 6",
+              "title" : "(zu § 99)"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNE022600000",
+              "paragraph" : "Anlage 7",
+              "title" : "(zu § 112)"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNE022701000",
+              "paragraph" : "Anlage 8",
+              "title" : "(zu § 127 Absatz 1 Nummer 2)"
+            },
+            {
+              "documentIdentifier" : "BJNR196610017BJNE022801000",
+              "paragraph" : "Anlage 9",
+              "title" : "(zu § 134 Absatz 1)"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              8,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Übergangsvorschriften"
+        }
+      ],
+      "title" : "Schlussbestimmungen"
+    }
+  ]
+}

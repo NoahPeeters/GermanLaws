@@ -1,0 +1,524 @@
+{
+  "documentIdentifier" : "BJNR382210001",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR382210001BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR382210001BJNE006901377",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR382210001BJNE000202377",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR382210001BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Allgemeine Grundsätze"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR382210001BJNG000301377",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR382210001BJNE000402377",
+          "paragraph" : "§ 4",
+          "title" : "Aufgaben und Befugnisse"
+        },
+        {
+          "documentIdentifier" : "BJNR382210001BJNE000506123",
+          "paragraph" : "§ 5",
+          "title" : "Beirat"
+        },
+        {
+          "documentIdentifier" : "BJNR382210001BJNE000602377",
+          "paragraph" : "§ 6",
+          "title" : "Widerspruchsausschuss"
+        },
+        {
+          "documentIdentifier" : "BJNR382210001BJNE000704360",
+          "paragraph" : "§ 7",
+          "title" : "Zusammenarbeit mit Aufsichtsbehörden im Inland"
+        },
+        {
+          "documentIdentifier" : "BJNR382210001BJNE000803360",
+          "paragraph" : "§ 8",
+          "title" : "Zusammenarbeit mit zuständigen Stellen im Ausland"
+        },
+        {
+          "documentIdentifier" : "BJNR382210001BJNE000904119",
+          "paragraph" : "§ 9",
+          "title" : "Verschwiegenheitspflicht"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Zuständigkeit der Bundesanstalt für Finanzdienstleistungsaufsicht"
+    },
+    {
+      "documentIdentifier" : "BJNR382210001BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR382210001BJNE001005360",
+          "paragraph" : "§ 10",
+          "title" : "Veröffentlichung der Entscheidung zur Abgabe eines Angebots"
+        },
+        {
+          "documentIdentifier" : "BJNR382210001BJNE001102377",
+          "paragraph" : "§ 11",
+          "title" : "Angebotsunterlage"
+        },
+        {
+          "documentIdentifier" : "BJNR382210001BJNE007000377",
+          "paragraph" : "§ 11a",
+          "title" : "Europäischer Pass"
+        },
+        {
+          "documentIdentifier" : "BJNR382210001BJNE001202123",
+          "paragraph" : "§ 12",
+          "title" : "Haftung für die Angebotsunterlage"
+        },
+        {
+          "documentIdentifier" : "BJNR382210001BJNE001300000",
+          "paragraph" : "§ 13",
+          "title" : "Finanzierung des Angebots"
+        },
+        {
+          "documentIdentifier" : "BJNR382210001BJNE001404360",
+          "paragraph" : "§ 14",
+          "title" : "Übermittlung und Veröffentlichung der Angebotsunterlage"
+        },
+        {
+          "documentIdentifier" : "BJNR382210001BJNE001502360",
+          "paragraph" : "§ 15",
+          "title" : "Untersagung des Angebots"
+        },
+        {
+          "documentIdentifier" : "BJNR382210001BJNE001606360",
+          "paragraph" : "§ 16",
+          "title" : "Annahmefristen; Einberufung der Hauptversammlung"
+        },
+        {
+          "documentIdentifier" : "BJNR382210001BJNE001700000",
+          "paragraph" : "§ 17",
+          "title" : "Unzulässigkeit der öffentlichen Aufforderung zur Abgabe von Angeboten"
+        },
+        {
+          "documentIdentifier" : "BJNR382210001BJNE001800000",
+          "paragraph" : "§ 18",
+          "title" : "Bedingungen; Unzulässigkeit des Vorbehalts des Rücktritts und des\nWiderrufs"
+        },
+        {
+          "documentIdentifier" : "BJNR382210001BJNE001900000",
+          "paragraph" : "§ 19",
+          "title" : "Zuteilung bei einem Teilangebot"
+        },
+        {
+          "documentIdentifier" : "BJNR382210001BJNE002001377",
+          "paragraph" : "§ 20",
+          "title" : "Handelsbestand"
+        },
+        {
+          "documentIdentifier" : "BJNR382210001BJNE002100000",
+          "paragraph" : "§ 21",
+          "title" : "Änderung des Angebots"
+        },
+        {
+          "documentIdentifier" : "BJNR382210001BJNE002200000",
+          "paragraph" : "§ 22",
+          "title" : "Konkurrierende Angebote"
+        },
+        {
+          "documentIdentifier" : "BJNR382210001BJNE002304123",
+          "paragraph" : "§ 23",
+          "title" : "Veröffentlichungspflichten des Bieters nach Abgabe des Angebots"
+        },
+        {
+          "documentIdentifier" : "BJNR382210001BJNE002401377",
+          "paragraph" : "§ 24",
+          "title" : "Grenzüberschreitende Angebote"
+        },
+        {
+          "documentIdentifier" : "BJNR382210001BJNE002500000",
+          "paragraph" : "§ 25",
+          "title" : "Beschluss der Gesellschafterversammlung des Bieters"
+        },
+        {
+          "documentIdentifier" : "BJNR382210001BJNE002602360",
+          "paragraph" : "§ 26",
+          "title" : "Sperrfrist"
+        },
+        {
+          "documentIdentifier" : "BJNR382210001BJNE002702377",
+          "paragraph" : "§ 27",
+          "title" : "Stellungnahme des Vorstands und Aufsichtsrats der Zielgesellschaft"
+        },
+        {
+          "documentIdentifier" : "BJNR382210001BJNE002801377",
+          "paragraph" : "§ 28",
+          "title" : "Werbung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Angebote zum Erwerb von Wertpapieren"
+    },
+    {
+      "documentIdentifier" : "BJNR382210001BJNG000500000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR382210001BJNE002902119",
+          "paragraph" : "§ 29",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR382210001BJNE003007123",
+          "paragraph" : "§ 30",
+          "title" : "Zurechnung von Stimmrechten; Verordnungsermächtigung"
+        },
+        {
+          "documentIdentifier" : "BJNR382210001BJNE003102377",
+          "paragraph" : "§ 31",
+          "title" : "Gegenleistung"
+        },
+        {
+          "documentIdentifier" : "BJNR382210001BJNE003200000",
+          "paragraph" : "§ 32",
+          "title" : "Unzulässigkeit von Teilangeboten"
+        },
+        {
+          "documentIdentifier" : "BJNR382210001BJNE003301377",
+          "paragraph" : "§ 33",
+          "title" : "Handlungen des Vorstands der Zielgesellschaft"
+        },
+        {
+          "documentIdentifier" : "BJNR382210001BJNE007100377",
+          "paragraph" : "§ 33a",
+          "title" : "Europäisches Verhinderungsverbot"
+        },
+        {
+          "documentIdentifier" : "BJNR382210001BJNE007200377",
+          "paragraph" : "§ 33b",
+          "title" : "Europäische Durchbrechungsregel"
+        },
+        {
+          "documentIdentifier" : "BJNR382210001BJNE007201377",
+          "paragraph" : "§ 33c",
+          "title" : "Vorbehalt der Gegenseitigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR382210001BJNE007202377",
+          "paragraph" : "§ 33d",
+          "title" : "Verbot der Gewährung ungerechtfertigter Leistungen"
+        },
+        {
+          "documentIdentifier" : "BJNR382210001BJNE003400000",
+          "paragraph" : "§ 34",
+          "title" : "Anwendung der Vorschriften des Abschnitts 3"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übernahmeangebote"
+    },
+    {
+      "documentIdentifier" : "BJNR382210001BJNG000600000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR382210001BJNE003501377",
+          "paragraph" : "§ 35",
+          "title" : "Verpflichtung zur Veröffentlichung und zur Abgabe eines Angebots"
+        },
+        {
+          "documentIdentifier" : "BJNR382210001BJNE003601377",
+          "paragraph" : "§ 36",
+          "title" : "Nichtberücksichtigung von Stimmrechten"
+        },
+        {
+          "documentIdentifier" : "BJNR382210001BJNE003701377",
+          "paragraph" : "§ 37",
+          "title" : "Befreiung von der Verpflichtung zur Veröffentlichung und zur Abgabe\neines Angebots"
+        },
+        {
+          "documentIdentifier" : "BJNR382210001BJNE003801377",
+          "paragraph" : "§ 38",
+          "title" : "Anspruch auf Zinsen"
+        },
+        {
+          "documentIdentifier" : "BJNR382210001BJNE003900000",
+          "paragraph" : "§ 39",
+          "title" : "Anwendung der Vorschriften des Abschnitts 3 und 4"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR382210001BJNG001100377",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR382210001BJNE007301140",
+              "paragraph" : "§ 39a",
+              "title" : "Ausschluss der übrigen Aktionäre"
+            },
+            {
+              "documentIdentifier" : "BJNR382210001BJNE007403301",
+              "paragraph" : "§ 39b",
+              "title" : "Ausschlussverfahren"
+            },
+            {
+              "documentIdentifier" : "BJNR382210001BJNE007500377",
+              "paragraph" : "§ 39c",
+              "title" : "Andienungsrecht"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              5
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Ausschluss, Andienungsrecht"
+        }
+      ],
+      "title" : "Pflichtangebote"
+    },
+    {
+      "documentIdentifier" : "BJNR382210001BJNG000700000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR382210001BJNE004002377",
+          "paragraph" : "§ 40",
+          "title" : "Ermittlungsbefugnisse der Bundesanstalt"
+        },
+        {
+          "documentIdentifier" : "BJNR382210001BJNE004101377",
+          "paragraph" : "§ 41",
+          "title" : "Widerspruchsverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR382210001BJNE004202377",
+          "paragraph" : "§ 42",
+          "title" : "Sofortige Vollziehbarkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR382210001BJNE004303360",
+          "paragraph" : "§ 43",
+          "title" : "Bekanntgabe und Zustellung"
+        },
+        {
+          "documentIdentifier" : "BJNR382210001BJNE004403360",
+          "paragraph" : "§ 44",
+          "title" : "Veröffentlichungsrecht der Bundesanstalt"
+        },
+        {
+          "documentIdentifier" : "BJNR382210001BJNE004501377",
+          "paragraph" : "§ 45",
+          "title" : "Mitteilungen an die Bundesanstalt"
+        },
+        {
+          "documentIdentifier" : "BJNR382210001BJNE004601377",
+          "paragraph" : "§ 46",
+          "title" : "Zwangsmittel"
+        },
+        {
+          "documentIdentifier" : "BJNR382210001BJNE007700123",
+          "paragraph" : "§ 47",
+          "title" : "Gebühren und Auslagen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Verfahren"
+    },
+    {
+      "documentIdentifier" : "BJNR382210001BJNG000800000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR382210001BJNE004801377",
+          "paragraph" : "§ 48",
+          "title" : "Statthaftigkeit, Zuständigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR382210001BJNE004900000",
+          "paragraph" : "§ 49",
+          "title" : "Aufschiebende Wirkung"
+        },
+        {
+          "documentIdentifier" : "BJNR382210001BJNE005001377",
+          "paragraph" : "§ 50",
+          "title" : "Anordnung der sofortigen Vollziehung"
+        },
+        {
+          "documentIdentifier" : "BJNR382210001BJNE005101377",
+          "paragraph" : "§ 51",
+          "title" : "Frist und Form"
+        },
+        {
+          "documentIdentifier" : "BJNR382210001BJNE005201377",
+          "paragraph" : "§ 52",
+          "title" : "Beteiligte am Beschwerdeverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR382210001BJNE005302310",
+          "paragraph" : "§ 53",
+          "title" : "Anwaltszwang"
+        },
+        {
+          "documentIdentifier" : "BJNR382210001BJNE005400000",
+          "paragraph" : "§ 54",
+          "title" : "Mündliche Verhandlung"
+        },
+        {
+          "documentIdentifier" : "BJNR382210001BJNE005500000",
+          "paragraph" : "§ 55",
+          "title" : "Untersuchungsgrundsatz"
+        },
+        {
+          "documentIdentifier" : "BJNR382210001BJNE005601377",
+          "paragraph" : "§ 56",
+          "title" : "Beschwerdeentscheidung; Vorlagepflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR382210001BJNE005701377",
+          "paragraph" : "§ 57",
+          "title" : "Akteneinsicht"
+        },
+        {
+          "documentIdentifier" : "BJNR382210001BJNE005800000",
+          "paragraph" : "§ 58",
+          "title" : "Geltung von Vorschriften des Gerichtsverfassungsgesetzes und der\nZivilprozessordnung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Rechtsmittel"
+    },
+    {
+      "documentIdentifier" : "BJNR382210001BJNG000900000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR382210001BJNE005901119",
+          "paragraph" : "§ 59",
+          "title" : "Rechtsverlust"
+        },
+        {
+          "documentIdentifier" : "BJNR382210001BJNE006003360",
+          "paragraph" : "§ 60",
+          "title" : "Bußgeldvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR382210001BJNE006101377",
+          "paragraph" : "§ 61",
+          "title" : "Zuständige Verwaltungsbehörde"
+        },
+        {
+          "documentIdentifier" : "BJNR382210001BJNE006201377",
+          "paragraph" : "§ 62",
+          "title" : "Zuständigkeit des Oberlandesgerichts im gerichtlichen Verfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR382210001BJNE006300000",
+          "paragraph" : "§ 63",
+          "title" : "Rechtsbeschwerde zum Bundesgerichtshof"
+        },
+        {
+          "documentIdentifier" : "BJNR382210001BJNE006401377",
+          "paragraph" : "§ 64",
+          "title" : "Wiederaufnahme gegen Bußgeldbescheid"
+        },
+        {
+          "documentIdentifier" : "BJNR382210001BJNE006500000",
+          "paragraph" : "§ 65",
+          "title" : "Gerichtliche Entscheidung bei der Vollstreckung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          8
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Sanktionen"
+    },
+    {
+      "documentIdentifier" : "BJNR382210001BJNG001000000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR382210001BJNE006601377",
+          "paragraph" : "§ 66",
+          "title" : "Gerichte für Wertpapiererwerbs und Übernahmesachen"
+        },
+        {
+          "documentIdentifier" : "BJNR382210001BJNE006700000",
+          "paragraph" : "§ 67",
+          "title" : "Senat für Wertpapiererwerbs- und Übernahmesachen beim\nOberlandesgericht"
+        },
+        {
+          "documentIdentifier" : "BJNR382210001BJNE006804140",
+          "paragraph" : "§ 68",
+          "title" : "Übergangsregelungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          9
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gerichtliche Zuständigkeit; Übergangsregelungen"
+    }
+  ]
+}

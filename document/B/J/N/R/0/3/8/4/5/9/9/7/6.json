@@ -1,0 +1,172 @@
+{
+  "documentIdentifier" : "BJNR038459976",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR038459976BJNE002200319",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          0
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "-"
+    },
+    {
+      "documentIdentifier" : "BJNR038459976BJNG000101308",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Viertes Buch (IV) Gemeinsame Vorschriften für die Sozialversicherung"
+    },
+    {
+      "documentIdentifier" : "BJNR038459976BJNG001800319",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR038459976BJNG001901308",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              1
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR038459976BJNE012101308",
+              "laws" : [
+
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Art II"
+            }
+          ],
+          "title" : "Erster Abschnitt"
+        },
+        {
+          "documentIdentifier" : "BJNR038459976BJNG002001308",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              2
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR038459976BJNE012201308",
+              "laws" : [
+
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  2
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Art II"
+            }
+          ],
+          "title" : "Überleitungsvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR038459976BJNG002100319",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              3
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR038459976BJNE012801308",
+              "laws" : [
+
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  3
+                ]
+              },
+              "subsections" : [
+                {
+                  "documentIdentifier" : "BJNR038459976BJNE012900319",
+                  "laws" : [
+
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      2,
+                      3
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Art II"
+                }
+              ],
+              "title" : "Art II"
+            }
+          ],
+          "title" : "Schlußvorschriften"
+        }
+      ],
+      "title" : "Übergangs- und Schlußvorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR038459976BJNE888800301",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "-"
+    }
+  ]
+}

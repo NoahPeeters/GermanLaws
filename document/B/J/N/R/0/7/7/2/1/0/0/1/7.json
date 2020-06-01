@@ -1,0 +1,175 @@
+{
+  "documentIdentifier" : "BJNR077210017",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR077210017BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR077210017BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Versorgungskrise"
+        },
+        {
+          "documentIdentifier" : "BJNR077210017BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR077210017BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Ausführung des Gesetzes"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Bestimmungen"
+    },
+    {
+      "documentIdentifier" : "BJNR077210017BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR077210017BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Ermächtigungen zum Erlass von Rechtsverordnungen zur Sicherstellung der Grundversorgung"
+        },
+        {
+          "documentIdentifier" : "BJNR077210017BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Einzelweisungen"
+        },
+        {
+          "documentIdentifier" : "BJNR077210017BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Anordnungsbefugnis zur einstweiligen Sicherstellung der Grundversorgung"
+        },
+        {
+          "documentIdentifier" : "BJNR077210017BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Keine aufschiebende Wirkung von Widerspruch und Anfechtungsklage"
+        },
+        {
+          "documentIdentifier" : "BJNR077210017BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Unterstützende Leistungen"
+        },
+        {
+          "documentIdentifier" : "BJNR077210017BJNE001000000",
+          "paragraph" : "§ 9",
+          "title" : "Datenübermittlung zwischen den Behörden"
+        },
+        {
+          "documentIdentifier" : "BJNR077210017BJNE001100000",
+          "paragraph" : "§ 10",
+          "title" : "Aufhebung von Rechtsverordnungen und Maßnahmen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Vorschriften zur Sicherstellung der Grundversorgung in einer Versorgungskrise"
+    },
+    {
+      "documentIdentifier" : "BJNR077210017BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR077210017BJNE001200000",
+          "paragraph" : "§ 11",
+          "title" : "Ermächtigungen zum Erlass von Rechtsverordnungen zur Vorsorge für eine Versorgungskrise"
+        },
+        {
+          "documentIdentifier" : "BJNR077210017BJNE001300000",
+          "paragraph" : "§ 12",
+          "title" : "Vollzugsvorkehrungen, Zusammenarbeit zwischen Bund und Ländern"
+        },
+        {
+          "documentIdentifier" : "BJNR077210017BJNE001400000",
+          "paragraph" : "§ 13",
+          "title" : "Datenübermittlung zwischen den Behörden"
+        },
+        {
+          "documentIdentifier" : "BJNR077210017BJNE001500000",
+          "paragraph" : "§ 14",
+          "title" : "Selbstschutz"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Maßnahmen zur Vorsorge für eine Versorgungskrise"
+    },
+    {
+      "documentIdentifier" : "BJNR077210017BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR077210017BJNE001600000",
+          "paragraph" : "§ 15",
+          "title" : "Auskunftspflicht für Ernährungsunternehmen, Überwachungsbefugnisse"
+        },
+        {
+          "documentIdentifier" : "BJNR077210017BJNE001700000",
+          "paragraph" : "§ 16",
+          "title" : "Entschädigung, Ermächtigung zum Erlass einer Rechtsverordnung"
+        },
+        {
+          "documentIdentifier" : "BJNR077210017BJNE001800000",
+          "paragraph" : "§ 17",
+          "title" : "Härtefallausgleich bei Vermögensnachteil, Ermächtigung zum Erlass einer Rechtsverordnung"
+        },
+        {
+          "documentIdentifier" : "BJNR077210017BJNE001900000",
+          "paragraph" : "§ 18",
+          "title" : "Zustellungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Durchführung des Gesetzes"
+    },
+    {
+      "documentIdentifier" : "BJNR077210017BJNG000500000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR077210017BJNE002000000",
+          "paragraph" : "§ 19",
+          "title" : "Bußgeldvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR077210017BJNE002100000",
+          "paragraph" : "§ 20",
+          "title" : "Strafvorschriften"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Straf- und Bußgeldvorschriften"
+    }
+  ]
+}

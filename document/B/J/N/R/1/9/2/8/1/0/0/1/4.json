@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR192810014",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR192810014Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR192810014BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR192810014BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Grundanforderungen an die Betriebsführung, Erhaltung von Flächen in gutem landwirtschaftlichen und ökologischen Zustand"
+        },
+        {
+          "documentIdentifier" : "BJNR192810014BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Erhaltung von Dauergrünland nach Artikel 93 Absatz 3 der Verordnung (EU) Nr. 1306\/2013"
+        },
+        {
+          "documentIdentifier" : "BJNR192810014BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Ermächtigungen"
+        },
+        {
+          "documentIdentifier" : "BJNR192810014BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Anwendung des Integrierten Verwaltungs- und Kontrollsystems"
+        },
+        {
+          "documentIdentifier" : "BJNR192810014BJNE000600000",
+          "paragraph" : "§ 6",
+          "title" : "Verkündung von Rechtsverordnungen"
+        },
+        {
+          "documentIdentifier" : "BJNR192810014BJNE000700000",
+          "paragraph" : "§ 7",
+          "title" : "Übergangsregelungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR177600015",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR177600015Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR177600015BJNE000202116",
+          "paragraph" : "§ 1",
+          "title" : "Gebührenerhebung"
+        },
+        {
+          "documentIdentifier" : "BJNR177600015BJNE000301360",
+          "paragraph" : "§ 2",
+          "title" : "Gebührenermäßigung und Gebührenbefreiung"
+        },
+        {
+          "documentIdentifier" : "BJNR177600015BJNE000406116",
+          "paragraph" : "§ 3",
+          "title" : "Übergangsvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR177600015BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR177600015BJNE000605116",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 1)"
+        },
+        {
+          "documentIdentifier" : "BJNR177600015BJNE000702360",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 2 Absatz 2)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

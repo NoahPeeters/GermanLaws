@@ -1,0 +1,59 @@
+{
+  "documentIdentifier" : "BJNR106200010",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR106200010Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR106200010BJNE000202119",
+          "paragraph" : "§ 1",
+          "title" : "Geltungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR106200010BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR106200010BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Aufzeichnungspflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR106200010BJNE000501124",
+          "paragraph" : "§ 4",
+          "title" : "Meldepflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR106200010BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Mitteilungspflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR106200010BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Ergänzende Landesregelungen"
+        },
+        {
+          "documentIdentifier" : "BJNR106200010BJNE000802124",
+          "paragraph" : "§ 7",
+          "title" : "Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR106200010BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

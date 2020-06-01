@@ -1,0 +1,238 @@
+{
+  "documentIdentifier" : "BJNR012119969",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR012119969BJNE000900317",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          0
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "-"
+    },
+    {
+      "documentIdentifier" : "BJNR012119969BJNG000100317",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Art 1"
+    },
+    {
+      "documentIdentifier" : "BJNR012119969BJNG000200317",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Art 2"
+    },
+    {
+      "documentIdentifier" : "BJNR012119969BJNG000300317",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Art 3 bis 6"
+    },
+    {
+      "documentIdentifier" : "BJNR012119969BJNG000400317",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Art 7"
+    },
+    {
+      "documentIdentifier" : "BJNR012119969BJNG000500317",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          8
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR012119969BJNE001000317",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              8
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR012119969BJNE001100317",
+              "laws" : [
+
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  8
+                ]
+              },
+              "subsections" : [
+                {
+                  "documentIdentifier" : "BJNR012119969BJNE001200317",
+                  "laws" : [
+
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      8
+                    ]
+                  },
+                  "subsections" : [
+                    {
+                      "documentIdentifier" : "BJNR012119969BJNE001300317",
+                      "laws" : [
+
+                      ],
+                      "sectionNumber" : {
+                        "numbers" : [
+                          8
+                        ]
+                      },
+                      "subsections" : [
+                        {
+                          "documentIdentifier" : "BJNR012119969BJNE001400317",
+                          "laws" : [
+
+                          ],
+                          "sectionNumber" : {
+                            "numbers" : [
+                              8
+                            ]
+                          },
+                          "subsections" : [
+                            {
+                              "documentIdentifier" : "BJNR012119969BJNE001501377",
+                              "laws" : [
+
+                              ],
+                              "sectionNumber" : {
+                                "numbers" : [
+                                  8
+                                ]
+                              },
+                              "subsections" : [
+
+                              ],
+                              "title" : "Art 8"
+                            }
+                          ],
+                          "title" : "Art 8"
+                        }
+                      ],
+                      "title" : "Art 8"
+                    }
+                  ],
+                  "title" : "Art 8"
+                }
+              ],
+              "title" : "Art 8"
+            }
+          ],
+          "title" : "Art 8"
+        }
+      ],
+      "title" : "Handelrechtliche, steuerrechtliche und andere Vorschriften im Zusammenhang mit der Gründung einer Gesamtgesellschaft für das Steinkohlenbergbaugebiet Ruhr"
+    },
+    {
+      "documentIdentifier" : "BJNR012119969BJNG000600317",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          9
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Art 9 bis 11"
+    },
+    {
+      "documentIdentifier" : "BJNR012119969BJNG000700317",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          12
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Geltung im Land Berlin"
+    },
+    {
+      "documentIdentifier" : "BJNR012119969BJNG000800317",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          13
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR012119969BJNE001600317",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              13
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "-"
+        }
+      ],
+      "title" : "Art 13"
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "documentIdentifier" : "BJNR345710002",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR345710002BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR345710002BJNE000201126",
+          "paragraph" : "§ 1",
+          "title" : "Geltungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR345710002BJNE000303124",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Bestimmungen"
+    },
+    {
+      "documentIdentifier" : "BJNR345710002BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR345710002BJNE000403126",
+          "paragraph" : "§ 3",
+          "title" : "CE-Kennzeichnung"
+        },
+        {
+          "documentIdentifier" : "BJNR345710002BJNE000503124",
+          "paragraph" : "§ 4",
+          "title" : "Kennzeichnung von Wassermotorrädern im Inland"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inbetriebnahme von Sportbooten oder Wassermotorrädern"
+    },
+    {
+      "documentIdentifier" : "BJNR345710002BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR345710002BJNE000602124",
+          "paragraph" : "§ 5",
+          "title" : "Bootszeugnis"
+        },
+        {
+          "documentIdentifier" : "BJNR345710002BJNE000701126",
+          "paragraph" : "§ 6",
+          "title" : "Zulassungsverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR345710002BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Vermietung"
+        },
+        {
+          "documentIdentifier" : "BJNR345710002BJNE000901308",
+          "paragraph" : "§ 8",
+          "title" : "Amtliche Kennzeichen"
+        },
+        {
+          "documentIdentifier" : "BJNR345710002BJNE001001126",
+          "paragraph" : "§ 9",
+          "title" : "Unterhaltung"
+        },
+        {
+          "documentIdentifier" : "BJNR345710002BJNE001100000",
+          "paragraph" : "§ 10",
+          "title" : "Besichtigung der Betriebsstätte und der Sportboote oder Wassermotorräder"
+        },
+        {
+          "documentIdentifier" : "BJNR345710002BJNE001203118",
+          "paragraph" : "§ 11",
+          "title" : "Pflichten des Unternehmers"
+        },
+        {
+          "documentIdentifier" : "BJNR345710002BJNE001300000",
+          "paragraph" : "§ 12",
+          "title" : "Pflichten der Mieter und Bootsführer"
+        },
+        {
+          "documentIdentifier" : "BJNR345710002BJNE001401305",
+          "paragraph" : "§ 13",
+          "title" : "Beschränkungen und Ausnahmen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Vermietung von Sportbooten oder Wassermotorrädern im Inland"
+    },
+    {
+      "documentIdentifier" : "BJNR345710002BJNG000500000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR345710002BJNE001502126",
+          "paragraph" : "§ 14",
+          "title" : "Sicherheitszeugnis"
+        },
+        {
+          "documentIdentifier" : "BJNR345710002BJNE001604118",
+          "paragraph" : "§ 15",
+          "title" : "Fahrerlaubnis"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gewerbsmäßige Nutzung von Sportbooten im Inland"
+    },
+    {
+      "documentIdentifier" : "BJNR345710002BJNG000600000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR345710002BJNE001702305",
+          "paragraph" : "§ 16",
+          "title" : "Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR345710002BJNE001801308",
+          "paragraph" : "§ 17",
+          "title" : "Überwachung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussvorschriften für Sportboote und Wassermotorräder im Inland"
+    },
+    {
+      "documentIdentifier" : "BJNR345710002BJNG000700000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR345710002BJNE001902126",
+          "paragraph" : "§ 18",
+          "title" : "Vermietung im Ausland"
+        },
+        {
+          "documentIdentifier" : "BJNR345710002BJNE002000000",
+          "paragraph" : "§ 19",
+          "title" : "Gewerbsmäßige Nutzung im Ausland"
+        },
+        {
+          "documentIdentifier" : "BJNR345710002BJNE002101305",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 5)"
+        },
+        {
+          "documentIdentifier" : "BJNR345710002BJNE002200000",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 6 Abs. 1)\n"
+        },
+        {
+          "documentIdentifier" : "BJNR345710002BJNE002301305",
+          "paragraph" : "Anlage 3",
+          "title" : "(zu § 6 Abs. 2)"
+        },
+        {
+          "documentIdentifier" : "BJNR345710002BJNE002402118",
+          "paragraph" : "Anlage 4",
+          "title" : "(zu § 15 Abs. 2)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Sportboote unter deutscher Flagge im Ausland"
+    }
+  ]
+}

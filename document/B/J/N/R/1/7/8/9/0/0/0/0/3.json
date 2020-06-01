@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR178900003",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR178900003Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR178900003BJNE000202301",
+          "paragraph" : "§ 1",
+          "title" : "Errichtung und Aufgaben des Beirats"
+        },
+        {
+          "documentIdentifier" : "BJNR178900003BJNE000301377",
+          "paragraph" : "§ 2",
+          "title" : "Mitgliedschaft"
+        },
+        {
+          "documentIdentifier" : "BJNR178900003BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Vorsitz, Geschäftsführung, Geschäftsordnung"
+        },
+        {
+          "documentIdentifier" : "BJNR178900003BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

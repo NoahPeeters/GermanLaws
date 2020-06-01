@@ -1,0 +1,87 @@
+{
+  "documentIdentifier" : "BJNR108740989",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR108740989BJNG000100328",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR108740989BJNE000400328",
+          "paragraph" : "§ 1",
+          "title" : "Grundsatz"
+        },
+        {
+          "documentIdentifier" : "BJNR108740989BJNE000500328",
+          "paragraph" : "§ 2",
+          "title" : "Formelrenten"
+        },
+        {
+          "documentIdentifier" : "BJNR108740989BJNE000600328",
+          "paragraph" : "§ 3",
+          "title" : "Sonstige Renten"
+        },
+        {
+          "documentIdentifier" : "BJNR108740989BJNE000700328",
+          "paragraph" : "§ 4",
+          "title" : "Allgemeines"
+        },
+        {
+          "documentIdentifier" : "BJNR108740989BJNE000800328",
+          "paragraph" : "§ 5",
+          "title" : "Allgemeine Bemessungsgrundlage"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Rentenversicherung"
+    },
+    {
+      "documentIdentifier" : "BJNR108740989BJNG000200328",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR108740989BJNE000900328",
+          "paragraph" : "§ 6",
+          "title" : "Anpassungsfaktor"
+        },
+        {
+          "documentIdentifier" : "BJNR108740989BJNE001000328",
+          "paragraph" : "§ 7",
+          "title" : "Pflegegeld"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Unfallversicherung"
+    },
+    {
+      "documentIdentifier" : "BJNR108740989BJNG000300328",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR108740989BJNE001100328",
+          "paragraph" : "§ 8",
+          "title" : "Berlin-Klausel"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlußvorschriften"
+    }
+  ]
+}

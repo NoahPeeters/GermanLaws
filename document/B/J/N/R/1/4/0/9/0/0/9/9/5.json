@@ -1,0 +1,89 @@
+{
+  "documentIdentifier" : "BJNR140900995",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR140900995Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR140900995BJNE000109123",
+          "paragraph" : "§ 1",
+          "title" : "Anordnung als Bundesstatistik"
+        },
+        {
+          "documentIdentifier" : "BJNR140900995BJNE000205123",
+          "paragraph" : "§ 2",
+          "title" : "Erhebungsmerkmale und Periodizität"
+        },
+        {
+          "documentIdentifier" : "BJNR140900995BJNE001104140",
+          "paragraph" : "§ 2a",
+          "title" : "Statistische Aufbereitung von Daten aus der Einkommensbesteuerung"
+        },
+        {
+          "documentIdentifier" : "BJNR140900995BJNE001202140",
+          "paragraph" : "§ 2b",
+          "title" : "Statistische Aufbereitung von Daten aus der Körperschaft- und Gewerbesteuer"
+        },
+        {
+          "documentIdentifier" : "BJNR140900995BJNE001301140",
+          "paragraph" : "§ 2c",
+          "title" : "Zusammenführung von Einzelangaben"
+        },
+        {
+          "documentIdentifier" : "BJNR140900995BJNE000302308",
+          "paragraph" : "§ 3",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR140900995BJNE000404311",
+          "paragraph" : "§ 4",
+          "title" : "Kindergeldstatistik"
+        },
+        {
+          "documentIdentifier" : "BJNR140900995BJNE000505123",
+          "paragraph" : "§ 5",
+          "title" : "Hilfsmerkmale"
+        },
+        {
+          "documentIdentifier" : "BJNR140900995BJNE000604140",
+          "paragraph" : "§ 6",
+          "title" : "Auskunftspflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR140900995BJNE000706123",
+          "paragraph" : "§ 7",
+          "title" : "Einzelangaben"
+        },
+        {
+          "documentIdentifier" : "BJNR140900995BJNE001404123",
+          "paragraph" : "§ 7a",
+          "title" : "Zusammenführung von Einzelangaben"
+        },
+        {
+          "documentIdentifier" : "BJNR140900995BJNE000800320",
+          "paragraph" : "§ 8",
+          "title" : "Ermächtigung"
+        },
+        {
+          "documentIdentifier" : "BJNR140900995BJNE000901140",
+          "paragraph" : "§ 9",
+          "title" : "Statistische Aufbereitung von Daten aus dem Vollzug der Steuergesetze"
+        },
+        {
+          "documentIdentifier" : "BJNR140900995BJNE001000320",
+          "paragraph" : "§ 10",
+          "title" : "Fortgeltung des Steuergeheimnisses"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

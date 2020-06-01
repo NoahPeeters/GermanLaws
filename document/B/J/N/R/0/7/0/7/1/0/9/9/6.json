@@ -1,0 +1,69 @@
+{
+  "documentIdentifier" : "BJNR070710996",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR070710996Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR070710996BJNE000101310",
+          "paragraph" : "§ 1",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR070710996BJNE000200310",
+          "paragraph" : "§ 2",
+          "title" : "Zuständigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR070710996BJNE000302116",
+          "paragraph" : "§ 3",
+          "title" : "Voraussetzungen"
+        },
+        {
+          "documentIdentifier" : "BJNR070710996BJNE000401310",
+          "paragraph" : "§ 4",
+          "title" : "Ausstellung"
+        },
+        {
+          "documentIdentifier" : "BJNR070710996BJNE001001116",
+          "paragraph" : "§ 4a",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR070710996BJNE000501310",
+          "paragraph" : "§ 5",
+          "title" : "Pflichten des Eigentümers"
+        },
+        {
+          "documentIdentifier" : "BJNR070710996BJNE000600310",
+          "paragraph" : "§ 6",
+          "title" : "Einziehung"
+        },
+        {
+          "documentIdentifier" : "BJNR070710996BJNE000701116",
+          "paragraph" : "§ 7",
+          "title" : "Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR070710996BJNE000800310",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 4 Abs. 1)"
+        },
+        {
+          "documentIdentifier" : "BJNR070710996BJNE000901310",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 4 Abs. 1)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

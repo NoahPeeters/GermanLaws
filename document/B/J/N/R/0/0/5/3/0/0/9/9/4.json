@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR005300994",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR005300994Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR005300994BJNE000208305",
+          "paragraph" : "§ 1",
+          "title" : "Übertragung beamtenrechtlicher Befugnisse zur Ausübung"
+        },
+        {
+          "documentIdentifier" : "BJNR005300994BJNE000300307",
+          "paragraph" : "§ 2",
+          "title" : "Anwendung auf ausgegliederte Gesellschaften"
+        },
+        {
+          "documentIdentifier" : "BJNR005300994BJNE000400307",
+          "paragraph" : "§ 3",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

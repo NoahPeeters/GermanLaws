@@ -1,0 +1,64 @@
+{
+  "documentIdentifier" : "BJNR106000009",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR106000009Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR106000009BJNE000300000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR106000009BJNE000400000",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR106000009BJNE000500000",
+          "paragraph" : "§ 3",
+          "title" : "Schutz von zu Sicherheitszwecken betriebenen Sende- und Empfangsfunkanlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR106000009BJNE000600000",
+          "paragraph" : "§ 4",
+          "title" : "Schutz öffentlicher Telekommunikationsnetze"
+        },
+        {
+          "documentIdentifier" : "BJNR106000009BJNE000700000",
+          "paragraph" : "§ 5",
+          "title" : "Schutz von Flugfunk-Frequenzen"
+        },
+        {
+          "documentIdentifier" : "BJNR106000009BJNE000800000",
+          "paragraph" : "§ 6",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR106000009BJNE001000000",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 3 Abs. 1)"
+        },
+        {
+          "documentIdentifier" : "BJNR106000009BJNE001100000",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 3 Abs. 1)"
+        },
+        {
+          "documentIdentifier" : "BJNR106000009BJNE001200000",
+          "paragraph" : "Anlage 3",
+          "title" : "(zu § 3 Abs. 1)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

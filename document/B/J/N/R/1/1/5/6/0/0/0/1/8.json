@@ -1,0 +1,74 @@
+{
+  "documentIdentifier" : "BJNR115600018",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR115600018Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR115600018BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR115600018BJNE000301124",
+          "paragraph" : "§ 2",
+          "title" : "Maßgebliche Tatsachen für die Mauterhebung"
+        },
+        {
+          "documentIdentifier" : "BJNR115600018BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Mauterhebungssysteme"
+        },
+        {
+          "documentIdentifier" : "BJNR115600018BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Manuelles Mauterhebungssystem"
+        },
+        {
+          "documentIdentifier" : "BJNR115600018BJNE000601124",
+          "paragraph" : "§ 5",
+          "title" : "Automatisches Mauterhebungssystem"
+        },
+        {
+          "documentIdentifier" : "BJNR115600018BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Nachweis der ordnungsgemäßen Entrichtung der Maut"
+        },
+        {
+          "documentIdentifier" : "BJNR115600018BJNE000801124",
+          "paragraph" : "§ 7",
+          "title" : "Nachweis der Emissionsklasse für im Inland zugelassene Fahrzeuge"
+        },
+        {
+          "documentIdentifier" : "BJNR115600018BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Nachweis der Emissionsklasse für im Ausland zugelassene Fahrzeuge"
+        },
+        {
+          "documentIdentifier" : "BJNR115600018BJNE001000000",
+          "paragraph" : "§ 9",
+          "title" : "Stornierung"
+        },
+        {
+          "documentIdentifier" : "BJNR115600018BJNE001100000",
+          "paragraph" : "§ 10",
+          "title" : "Mauterstattung"
+        },
+        {
+          "documentIdentifier" : "BJNR115600018BJNE001200000",
+          "paragraph" : "§ 11",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

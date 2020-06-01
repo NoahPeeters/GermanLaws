@@ -1,0 +1,59 @@
+{
+  "documentIdentifier" : "BJNR045700016",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR045700016Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR045700016BJNE000201118",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR045700016BJNE000301118",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR045700016BJNE000401118",
+          "paragraph" : "§ 3",
+          "title" : "Mindestanforderungen an die technische Sicherheit und Interoperabilität"
+        },
+        {
+          "documentIdentifier" : "BJNR045700016BJNE001000118",
+          "paragraph" : "§ 4",
+          "title" : "Punktuelles Aufladen"
+        },
+        {
+          "documentIdentifier" : "BJNR045700016BJNE000501118",
+          "paragraph" : "§ 5",
+          "title" : "Anzeige- und Nachweispflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR045700016BJNE000601118",
+          "paragraph" : "§ 6",
+          "title" : "Kompetenzen der Regulierungsbehörde"
+        },
+        {
+          "documentIdentifier" : "BJNR045700016BJNE000701118",
+          "paragraph" : "§ 7",
+          "title" : "Ladepunkte mit geringer Ladeleistung"
+        },
+        {
+          "documentIdentifier" : "BJNR045700016BJNE000801118",
+          "paragraph" : "§ 8",
+          "title" : "Übergangsregelung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

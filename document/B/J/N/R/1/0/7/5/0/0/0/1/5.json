@@ -1,0 +1,231 @@
+{
+  "documentIdentifier" : "BJNR107500015",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR107500015BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR107500015BJNE000300000",
+          "paragraph" : "§ 1",
+          "title" : "Staatliche Anerkennung des Ausbildungsberufes"
+        },
+        {
+          "documentIdentifier" : "BJNR107500015BJNE000400000",
+          "paragraph" : "§ 2",
+          "title" : "Dauer der Berufsausbildung"
+        },
+        {
+          "documentIdentifier" : "BJNR107500015BJNE000500000",
+          "paragraph" : "§ 3",
+          "title" : "Gegenstand der Berufsausbildung und Ausbildungsrahmenplan"
+        },
+        {
+          "documentIdentifier" : "BJNR107500015BJNE000600000",
+          "paragraph" : "§ 4",
+          "title" : "Struktur der Berufsausbildung, Ausbildungsberufsbild"
+        },
+        {
+          "documentIdentifier" : "BJNR107500015BJNE000700000",
+          "paragraph" : "§ 5",
+          "title" : "Ausbildungsplan"
+        },
+        {
+          "documentIdentifier" : "BJNR107500015BJNE000800000",
+          "paragraph" : "§ 6",
+          "title" : "Schriftlicher Ausbildungsnachweis"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gegenstand, Dauer und Gliederung der Berufsausbildung"
+    },
+    {
+      "documentIdentifier" : "BJNR107500015BJNG000200000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR107500015BJNG000300000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR107500015BJNE000900000",
+              "paragraph" : "§ 7",
+              "title" : "Ziel, Aufteilung in zwei Teile und Zeitpunkt"
+            },
+            {
+              "documentIdentifier" : "BJNR107500015BJNE001000000",
+              "paragraph" : "§ 8",
+              "title" : "Inhalt von Teil 1"
+            },
+            {
+              "documentIdentifier" : "BJNR107500015BJNE001100000",
+              "paragraph" : "§ 9",
+              "title" : "Prüfungsbereiche von Teil 1"
+            },
+            {
+              "documentIdentifier" : "BJNR107500015BJNE001200000",
+              "paragraph" : "§ 10",
+              "title" : "Prüfungsbereich Automatenbetreuung"
+            },
+            {
+              "documentIdentifier" : "BJNR107500015BJNE001300000",
+              "paragraph" : "§ 11",
+              "title" : "Prüfungsbereich Automatenbewirtschaftung"
+            },
+            {
+              "documentIdentifier" : "BJNR107500015BJNE001400000",
+              "paragraph" : "§ 12",
+              "title" : "Inhalt von Teil 2"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Allgemeines"
+        },
+        {
+          "documentIdentifier" : "BJNR107500015BJNG000400000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR107500015BJNE001500000",
+              "paragraph" : "§ 13",
+              "title" : "Prüfungsbereiche von Teil 2"
+            },
+            {
+              "documentIdentifier" : "BJNR107500015BJNE001600000",
+              "paragraph" : "§ 14",
+              "title" : "Prüfungsbereich Instandsetzungs- und Wartungstechnik"
+            },
+            {
+              "documentIdentifier" : "BJNR107500015BJNE001700000",
+              "paragraph" : "§ 15",
+              "title" : "Prüfungsbereich Netzwerke und Elektrotechnik"
+            },
+            {
+              "documentIdentifier" : "BJNR107500015BJNE001800000",
+              "paragraph" : "§ 16",
+              "title" : "Prüfungsbereich Wirtschafts- und Sozialkunde"
+            },
+            {
+              "documentIdentifier" : "BJNR107500015BJNE001900000",
+              "paragraph" : "§ 17",
+              "title" : "Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Fachrichtung Automatenmechatronik"
+        },
+        {
+          "documentIdentifier" : "BJNR107500015BJNG000500000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR107500015BJNE002000000",
+              "paragraph" : "§ 18",
+              "title" : "Prüfungsbereiche von Teil 2"
+            },
+            {
+              "documentIdentifier" : "BJNR107500015BJNE002100000",
+              "paragraph" : "§ 19",
+              "title" : "Prüfungsbereich Automatenwirtschaft"
+            },
+            {
+              "documentIdentifier" : "BJNR107500015BJNE002200000",
+              "paragraph" : "§ 20",
+              "title" : "Prüfungsbereich Wirtschafts- und Sozialkunde"
+            },
+            {
+              "documentIdentifier" : "BJNR107500015BJNE002300000",
+              "paragraph" : "§ 21",
+              "title" : "Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Fachrichtung Automatendienstleistung"
+        }
+      ],
+      "title" : "Abschlussprüfung"
+    },
+    {
+      "documentIdentifier" : "BJNR107500015BJNG000600000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR107500015BJNE002400000",
+          "paragraph" : "§ 22",
+          "title" : "Anrechnung von Ausbildungszeiten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Weitere Berufsausbildung"
+    },
+    {
+      "documentIdentifier" : "BJNR107500015BJNG000700000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR107500015BJNE002500000",
+          "paragraph" : "§ 23",
+          "title" : "Bestehende Berufsausbildungsverhältnisse"
+        },
+        {
+          "documentIdentifier" : "BJNR107500015BJNE002600000",
+          "paragraph" : "§ 24",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR107500015BJNE002700000",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 3 Absatz 1)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussvorschriften"
+    }
+  ]
+}

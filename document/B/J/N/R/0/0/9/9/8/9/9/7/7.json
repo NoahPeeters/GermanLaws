@@ -1,0 +1,181 @@
+{
+  "documentIdentifier" : "BJNR009989977",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR009989977BJNG000100305",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Art 1"
+    },
+    {
+      "documentIdentifier" : "BJNR009989977BJNG000200305",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Art 2"
+    },
+    {
+      "documentIdentifier" : "BJNR009989977BJNG000300305",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Art 3"
+    },
+    {
+      "documentIdentifier" : "BJNR009989977BJNG000400305",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Art 4"
+    },
+    {
+      "documentIdentifier" : "BJNR009989977BJNG000500305",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Art 5"
+    },
+    {
+      "documentIdentifier" : "BJNR009989977BJNG000600305",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Art 6"
+    },
+    {
+      "documentIdentifier" : "BJNR009989977BJNG000700305",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Art 7"
+    },
+    {
+      "documentIdentifier" : "BJNR009989977BJNG000800305",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          8
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR009989977BJNE000900305",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              8
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR009989977BJNE001000305",
+              "laws" : [
+
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  8
+                ]
+              },
+              "subsections" : [
+                {
+                  "documentIdentifier" : "BJNR009989977BJNE001100305",
+                  "laws" : [
+
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      8
+                    ]
+                  },
+                  "subsections" : [
+                    {
+                      "documentIdentifier" : "BJNR009989977BJNE001200305",
+                      "laws" : [
+
+                      ],
+                      "sectionNumber" : {
+                        "numbers" : [
+                          8
+                        ]
+                      },
+                      "subsections" : [
+
+                      ],
+                      "title" : "Art 8"
+                    }
+                  ],
+                  "title" : "Art 8"
+                }
+              ],
+              "title" : "Art 8"
+            }
+          ],
+          "title" : "Art 8"
+        }
+      ],
+      "title" : "Übergangs- und Schlußbestimmungen"
+    }
+  ]
+}

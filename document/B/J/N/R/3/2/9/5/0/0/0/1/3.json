@@ -1,0 +1,169 @@
+{
+  "documentIdentifier" : "BJNR329500013",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR329500013BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR329500013BJNE000300000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich und Zweck"
+        },
+        {
+          "documentIdentifier" : "BJNR329500013BJNE000400000",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR329500013BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR329500013BJNE000501360",
+          "paragraph" : "§ 3",
+          "title" : "Emissionsfaktor beim Einsatz flüssiger Biobrennstoffe"
+        },
+        {
+          "documentIdentifier" : "BJNR329500013BJNE000600000",
+          "paragraph" : "§ 4",
+          "title" : "Emissionsfaktor beim Einsatz von Biokraftstoffen im Luftverkehr"
+        },
+        {
+          "documentIdentifier" : "BJNR329500013BJNE000700000",
+          "paragraph" : "§ 5",
+          "title" : "Nachweisanforderungen für angewendete Analysemethoden"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Emissionsberichterstattung"
+    },
+    {
+      "documentIdentifier" : "BJNR329500013BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR329500013BJNE000800000",
+          "paragraph" : "§ 6",
+          "title" : "Umtauschbarkeit von Emissionsgutschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR329500013BJNE000900000",
+          "paragraph" : "§ 7",
+          "title" : "Umtauschverfahren"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Umtausch von Emissionsgutschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR329500013BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR329500013BJNE001002116",
+          "paragraph" : "§ 8",
+          "title" : "Beleihung"
+        },
+        {
+          "documentIdentifier" : "BJNR329500013BJNE001100000",
+          "paragraph" : "§ 9",
+          "title" : "Anwendbare Vorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR329500013BJNE001200000",
+          "paragraph" : "§ 10",
+          "title" : "Ausschluss von der Zertifizierung"
+        },
+        {
+          "documentIdentifier" : "BJNR329500013BJNE001301116",
+          "paragraph" : "§ 11",
+          "title" : "Aufsicht über die Tätigkeit der Beliehenen"
+        },
+        {
+          "documentIdentifier" : "BJNR329500013BJNE001401116",
+          "paragraph" : "§ 12",
+          "title" : "Beendigung der Beleihung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Zertifizierung von Prüfstellen"
+    },
+    {
+      "documentIdentifier" : "BJNR329500013BJNG000600116",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR329500013BJNE001701301",
+          "paragraph" : "§ 13",
+          "title" : "Gebühren und Auslagen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gebühren und Auslagen für Amtshandlungen der Zulassungsstelle"
+    },
+    {
+      "documentIdentifier" : "BJNR329500013BJNG000501116",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR329500013BJNE001501116",
+          "paragraph" : "§ 14",
+          "title" : "Übergangsbestimmung"
+        },
+        {
+          "documentIdentifier" : "BJNR329500013BJNE001602301",
+          "paragraph" : "§ 15",
+          "title" : "Inkrafttreten; Außerkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR329500013BJNE001801301",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 13)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übergangs- und Schlussbestimmungen"
+    }
+  ]
+}

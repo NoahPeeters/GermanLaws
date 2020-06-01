@@ -1,0 +1,181 @@
+{
+  "documentIdentifier" : "BJNR091410007",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR091410007BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR091410007BJNE000102123",
+          "paragraph" : "§ 1",
+          "title" : "Wesen der REIT-Aktiengesellschaften"
+        },
+        {
+          "documentIdentifier" : "BJNR091410007BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Vor-REIT"
+        },
+        {
+          "documentIdentifier" : "BJNR091410007BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Begriffsbestimmung"
+        },
+        {
+          "documentIdentifier" : "BJNR091410007BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Mindestnennbetrag des Grundkapitals"
+        },
+        {
+          "documentIdentifier" : "BJNR091410007BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Form der Aktien"
+        },
+        {
+          "documentIdentifier" : "BJNR091410007BJNE000600000",
+          "paragraph" : "§ 6",
+          "title" : "Firma"
+        },
+        {
+          "documentIdentifier" : "BJNR091410007BJNE000700000",
+          "paragraph" : "§ 7",
+          "title" : "Bezeichnungsschutz"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR091410007BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR091410007BJNE000800000",
+          "paragraph" : "§ 8",
+          "title" : "Anmeldung als REIT-Aktiengesellschaft"
+        },
+        {
+          "documentIdentifier" : "BJNR091410007BJNE000900000",
+          "paragraph" : "§ 9",
+          "title" : "Sitz"
+        },
+        {
+          "documentIdentifier" : "BJNR091410007BJNE001002123",
+          "paragraph" : "§ 10",
+          "title" : "Börsenzulassung"
+        },
+        {
+          "documentIdentifier" : "BJNR091410007BJNE001102123",
+          "paragraph" : "§ 11",
+          "title" : "Streuung der Aktien"
+        },
+        {
+          "documentIdentifier" : "BJNR091410007BJNE001201123",
+          "paragraph" : "§ 12",
+          "title" : "Vermögens- und Ertragsanforderungen"
+        },
+        {
+          "documentIdentifier" : "BJNR091410007BJNE001301140",
+          "paragraph" : "§ 13",
+          "title" : "Ausschüttung an die Anleger"
+        },
+        {
+          "documentIdentifier" : "BJNR091410007BJNE001400000",
+          "paragraph" : "§ 14",
+          "title" : "Ausschluss des Immobilienhandels"
+        },
+        {
+          "documentIdentifier" : "BJNR091410007BJNE001502123",
+          "paragraph" : "§ 15",
+          "title" : "Mindesteigenkapital"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Qualifikation als REIT-Aktiengesellschaft"
+    },
+    {
+      "documentIdentifier" : "BJNR091410007BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR091410007BJNE001600000",
+          "paragraph" : "§ 16",
+          "title" : "Steuerbefreiung der REIT-Aktiengesellschaft"
+        },
+        {
+          "documentIdentifier" : "BJNR091410007BJNE001700000",
+          "paragraph" : "§ 17",
+          "title" : "Beginn der Steuerbefreiung"
+        },
+        {
+          "documentIdentifier" : "BJNR091410007BJNE001800000",
+          "paragraph" : "§ 18",
+          "title" : "Ende der Steuerbefreiung"
+        },
+        {
+          "documentIdentifier" : "BJNR091410007BJNE001901140",
+          "paragraph" : "§ 19",
+          "title" : "Besteuerung der Anteilsinhaber"
+        },
+        {
+          "documentIdentifier" : "BJNR091410007BJNE002400140",
+          "paragraph" : "§ 19a",
+          "title" : "Berücksichtigung von Vorbelastungen bei der Besteuerung der Anteilsinhaber"
+        },
+        {
+          "documentIdentifier" : "BJNR091410007BJNE002002360",
+          "paragraph" : "§ 20",
+          "title" : "Kapitalertragssteuerabzug"
+        },
+        {
+          "documentIdentifier" : "BJNR091410007BJNE002102123",
+          "paragraph" : "§ 21",
+          "title" : "Verfahrensvorschriften"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Steuerliche Regelungen"
+    },
+    {
+      "documentIdentifier" : "BJNR091410007BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR091410007BJNE002200000",
+          "paragraph" : "§ 22",
+          "title" : "Übergangsregelung zu § 7"
+        },
+        {
+          "documentIdentifier" : "BJNR091410007BJNE002304123",
+          "paragraph" : "§ 23",
+          "title" : "Anwendungsvorschriften"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussvorschriften"
+    }
+  ]
+}

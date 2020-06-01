@@ -1,0 +1,59 @@
+{
+  "documentIdentifier" : "BJNR351500017",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR351500017Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR351500017BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Elektronische Aufzeichnungssysteme"
+        },
+        {
+          "documentIdentifier" : "BJNR351500017BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Protokollierung von digitalen Grundaufzeichnungen"
+        },
+        {
+          "documentIdentifier" : "BJNR351500017BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Speicherung der Grundaufzeichnungen"
+        },
+        {
+          "documentIdentifier" : "BJNR351500017BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Einheitliche digitale Schnittstelle"
+        },
+        {
+          "documentIdentifier" : "BJNR351500017BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Anforderungen an die technische Sicherungseinrichtung"
+        },
+        {
+          "documentIdentifier" : "BJNR351500017BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Anforderungen an den Beleg"
+        },
+        {
+          "documentIdentifier" : "BJNR351500017BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Zertifizierung"
+        },
+        {
+          "documentIdentifier" : "BJNR351500017BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

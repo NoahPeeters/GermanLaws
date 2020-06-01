@@ -1,0 +1,317 @@
+{
+  "documentIdentifier" : "BJNR134610009",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR134610009BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR134610009BJNE000204116",
+          "paragraph" : "§ 1",
+          "title" : "Ausweispflicht; Ausweisrecht"
+        },
+        {
+          "documentIdentifier" : "BJNR134610009BJNE000304116",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR134610009BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Vorläufiger Personalausweis"
+        },
+        {
+          "documentIdentifier" : "BJNR134610009BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Eigentum am Ausweis; Ausweishersteller; Vergabestelle für Berechtigungszertifikate"
+        },
+        {
+          "documentIdentifier" : "BJNR134610009BJNE000603116",
+          "paragraph" : "§ 5",
+          "title" : "Ausweismuster; gespeicherte Daten"
+        },
+        {
+          "documentIdentifier" : "BJNR134610009BJNE000701116",
+          "paragraph" : "§ 6",
+          "title" : "Gültigkeitsdauer; vorzeitige Beantragung; räumliche Beschränkungen"
+        },
+        {
+          "documentIdentifier" : "BJNR134610009BJNE003800116",
+          "paragraph" : "§ 6a",
+          "title" : "Versagung und Entziehung; Ersatz-Personalausweis"
+        },
+        {
+          "documentIdentifier" : "BJNR134610009BJNE000801116",
+          "paragraph" : "§ 7",
+          "title" : "Sachliche Zuständigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR134610009BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Örtliche Zuständigkeit; Tätigwerden bei örtlicher Unzuständigkeit"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR134610009BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR134610009BJNE001002116",
+          "paragraph" : "§ 9",
+          "title" : "Ausstellung des Ausweises"
+        },
+        {
+          "documentIdentifier" : "BJNR134610009BJNE001103116",
+          "paragraph" : "§ 10",
+          "title" : "Einschaltung, Sperrung und Entsperrung der Funktion des elektronischen Identitätsnachweises"
+        },
+        {
+          "documentIdentifier" : "BJNR134610009BJNE001202116",
+          "paragraph" : "§ 11",
+          "title" : "Informationspflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR134610009BJNE001301116",
+          "paragraph" : "§ 12",
+          "title" : "Form und Verfahren der Datenerfassung, -prüfung und -übermittlung"
+        },
+        {
+          "documentIdentifier" : "BJNR134610009BJNE001400000",
+          "paragraph" : "§ 13",
+          "title" : "Übermittlung von Geheimnummer, Entsperrnummer und Sperrkennwort"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Ausstellung und Sperrung des Ausweises"
+    },
+    {
+      "documentIdentifier" : "BJNR134610009BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR134610009BJNE001500000",
+          "paragraph" : "§ 14",
+          "title" : "Erhebung und Verwendung personenbezogener Daten"
+        },
+        {
+          "documentIdentifier" : "BJNR134610009BJNE001600000",
+          "paragraph" : "§ 15",
+          "title" : "Automatisierter Abruf und automatisierte Speicherung durch zur Identitätsfeststellung berechtigte Behörden"
+        },
+        {
+          "documentIdentifier" : "BJNR134610009BJNE001701116",
+          "paragraph" : "§ 16",
+          "title" : "Verwendung von Seriennummern, Sperrkennwörtern und Sperrmerkmalen durch zur Identitätsfeststellung berechtigte Behörden"
+        },
+        {
+          "documentIdentifier" : "BJNR134610009BJNE001800000",
+          "paragraph" : "§ 17",
+          "title" : "Identitätsüberprüfung anhand der im elektronischen Speicher- und Verarbeitungsmedium gespeicherten Daten durch zur Identitätsfeststellung berechtigte Behörden"
+        },
+        {
+          "documentIdentifier" : "BJNR134610009BJNE001903116",
+          "paragraph" : "§ 18",
+          "title" : "Elektronischer Identitätsnachweis"
+        },
+        {
+          "documentIdentifier" : "BJNR134610009BJNE003900116",
+          "paragraph" : "§ 18a",
+          "title" : "Vor-Ort-Auslesen von Ausweisdaten unter Anwesenden"
+        },
+        {
+          "documentIdentifier" : "BJNR134610009BJNE003703116",
+          "paragraph" : "§ 19",
+          "title" : "Speicherung im Rahmen des elektronischen Identitätsnachweises"
+        },
+        {
+          "documentIdentifier" : "BJNR134610009BJNE004000116",
+          "paragraph" : "§ 19a",
+          "title" : "Speicherung durch Identifizierungsdiensteanbieter"
+        },
+        {
+          "documentIdentifier" : "BJNR134610009BJNE002102116",
+          "paragraph" : "§ 20",
+          "title" : "Verwendung durch öffentliche und nichtöffentliche Stellen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Umgang mit personenbezogenen Daten"
+    },
+    {
+      "documentIdentifier" : "BJNR134610009BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR134610009BJNE002202116",
+          "paragraph" : "§ 21",
+          "title" : "Berechtigungen für Diensteanbieter"
+        },
+        {
+          "documentIdentifier" : "BJNR134610009BJNE004100116",
+          "paragraph" : "§ 21a",
+          "title" : "Vor-Ort-Berechtigung für Vor-Ort-Diensteanbieter"
+        },
+        {
+          "documentIdentifier" : "BJNR134610009BJNE004200116",
+          "paragraph" : "§ 21b",
+          "title" : "Berechtigung für Identifizierungsdiensteanbieter"
+        },
+        {
+          "documentIdentifier" : "BJNR134610009BJNE002301116",
+          "paragraph" : "§ 22",
+          "title" : "Elektronische Signatur"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Berechtigungen; elektronische Signatur"
+    },
+    {
+      "documentIdentifier" : "BJNR134610009BJNG000500000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR134610009BJNE002402116",
+          "paragraph" : "§ 23",
+          "title" : "Personalausweisregister"
+        },
+        {
+          "documentIdentifier" : "BJNR134610009BJNE002502116",
+          "paragraph" : "§ 24",
+          "title" : "Verwendung im Personalausweisregister gespeicherter Daten"
+        },
+        {
+          "documentIdentifier" : "BJNR134610009BJNE002601116",
+          "paragraph" : "§ 25",
+          "title" : "Datenübertragung und automatisierter Abruf von Lichtbildern"
+        },
+        {
+          "documentIdentifier" : "BJNR134610009BJNE002700000",
+          "paragraph" : "§ 26",
+          "title" : "Sonstige Speicherung personenbezogener Daten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Personalausweisregister; Speicherungsvorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR134610009BJNG000600000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR134610009BJNE002801116",
+          "paragraph" : "§ 27",
+          "title" : "Pflichten des Ausweisinhabers"
+        },
+        {
+          "documentIdentifier" : "BJNR134610009BJNE002901116",
+          "paragraph" : "§ 28",
+          "title" : "Ungültigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR134610009BJNE003001116",
+          "paragraph" : "§ 29",
+          "title" : "Sicherstellung und Einziehung"
+        },
+        {
+          "documentIdentifier" : "BJNR134610009BJNE003101116",
+          "paragraph" : "§ 30",
+          "title" : "Sofortige Vollziehung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Pflichten des Ausweisinhabers; Ungültigkeit und Entziehung des Ausweises"
+    },
+    {
+      "documentIdentifier" : "BJNR134610009BJNG000700000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR134610009BJNE003201116",
+          "paragraph" : "§ 31",
+          "title" : "Gebühren und Auslagen; Verordnungsermächtigung"
+        },
+        {
+          "documentIdentifier" : "BJNR134610009BJNE003305116",
+          "paragraph" : "§ 32",
+          "title" : "Bußgeldvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR134610009BJNE003401116",
+          "paragraph" : "§ 33",
+          "title" : "Bußgeldbehörden"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gebühren und Auslagen; Bußgeldvorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR134610009BJNG000800000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR134610009BJNE003508116",
+          "paragraph" : "§ 34",
+          "title" : "Verordnungsermächtigung"
+        },
+        {
+          "documentIdentifier" : "BJNR134610009BJNE003600000",
+          "paragraph" : "§ 35",
+          "title" : "Übergangsvorschrift"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          8
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Verordnungsermächtigung; Übergangsvorschrift"
+    }
+  ]
+}

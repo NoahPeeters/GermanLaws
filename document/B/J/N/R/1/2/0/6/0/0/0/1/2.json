@@ -1,0 +1,69 @@
+{
+  "documentIdentifier" : "BJNR120600012",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR120600012Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR120600012BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Staatliche Anerkennung des Ausbildungsberufes"
+        },
+        {
+          "documentIdentifier" : "BJNR120600012BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Dauer der Berufsausbildung"
+        },
+        {
+          "documentIdentifier" : "BJNR120600012BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Ausbildungsrahmenplan, Ausbildungsberufsbild"
+        },
+        {
+          "documentIdentifier" : "BJNR120600012BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Durchführung der Berufsausbildung"
+        },
+        {
+          "documentIdentifier" : "BJNR120600012BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Zwischenprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR120600012BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Abschlussprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR120600012BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Bestehende Berufsausbildungsverhältnisse"
+        },
+        {
+          "documentIdentifier" : "BJNR120600012BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR120600012BJNE001000000",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 3 Absatz 1 Satz 1)"
+        },
+        {
+          "documentIdentifier" : "BJNR120600012BJNE001100000",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 3 Absatz 1 Satz 2)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

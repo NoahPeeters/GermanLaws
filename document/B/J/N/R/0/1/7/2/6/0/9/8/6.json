@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR017260986",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR017260986Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR017260986BJNE000200325",
+          "paragraph" : "§ 1",
+          "title" : "Senkung des Zinssatzes"
+        },
+        {
+          "documentIdentifier" : "BJNR017260986BJNE000300325",
+          "paragraph" : "§ 2",
+          "title" : "Berlin-Klausel"
+        },
+        {
+          "documentIdentifier" : "BJNR017260986BJNE000400325",
+          "paragraph" : "§ 3",
+          "title" : "Geltung im Saarland"
+        },
+        {
+          "documentIdentifier" : "BJNR017260986BJNE000500325",
+          "paragraph" : "§ 4",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

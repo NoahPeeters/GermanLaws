@@ -1,0 +1,117 @@
+{
+  "documentIdentifier" : "BJNR113570976",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR113570976BJNG000100314",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR113570976BJNE000402310",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR113570976BJNE000500314",
+          "paragraph" : "§ 2",
+          "title" : "Anwendung beamtenrechtlicher Vorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR113570976BJNE000604116",
+          "paragraph" : "§ 3",
+          "title" : "Laufbahnen"
+        },
+        {
+          "documentIdentifier" : "BJNR113570976BJNE000703310",
+          "paragraph" : "§ 4",
+          "title" : "Polizeidienstunfähigkeit"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gemeinsame Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR113570976BJNG000201310",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR113570976BJNE001001310",
+          "paragraph" : "§ 7",
+          "title" : "Ausbildung"
+        },
+        {
+          "documentIdentifier" : "BJNR113570976BJNE001102310",
+          "paragraph" : "§ 8",
+          "title" : "Versetzung"
+        },
+        {
+          "documentIdentifier" : "BJNR113570976BJNE001200314",
+          "paragraph" : "§ 9",
+          "title" : "Stellenvorbehalt"
+        },
+        {
+          "documentIdentifier" : "BJNR113570976BJNE001300314",
+          "paragraph" : "§ 10",
+          "title" : "Wohnen in Gemeinschaftsunterkunft und Teilnahme an der\nGemeinschaftsverpflegung"
+        },
+        {
+          "documentIdentifier" : "BJNR113570976BJNE001403310",
+          "paragraph" : "§ 11",
+          "title" : "Freizeitausgleich bei Einsätzen und Übungen"
+        },
+        {
+          "documentIdentifier" : "BJNR113570976BJNE001501310",
+          "paragraph" : "§ 12",
+          "title" : "Erstattung der Kosten eines Studiums"
+        },
+        {
+          "documentIdentifier" : "BJNR113570976BJNE002000310",
+          "paragraph" : "§ 12a",
+          "title" : "Erstattung der Kosten einer Fortbildung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Polizeivollzugsbeamte in der Bundespolizei"
+    },
+    {
+      "documentIdentifier" : "BJNR113570976BJNG000300314",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR113570976BJNE001602310",
+          "paragraph" : "§ 13",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR113570976BJNE001700314",
+          "paragraph" : "§ 14",
+          "title" : "Verweisungen und Bezeichnungen in anderen Vorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR113570976BJNE001800314",
+          "paragraph" : "§ 15",
+          "title" : "Verwaltungsvorschriften"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übergangs- und Schlußvorschriften"
+    }
+  ]
+}

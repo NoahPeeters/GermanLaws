@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR310700009",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR310700009Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR310700009BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Raumplanung in der deutschen ausschließlichen Wirtschaftszone in der Nordsee"
+        },
+        {
+          "documentIdentifier" : "BJNR310700009BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR310700009BJNE000401116",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 1) "
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

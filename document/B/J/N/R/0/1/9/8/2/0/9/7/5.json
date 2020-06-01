@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR019820975",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR019820975Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR019820975BJNE000203320",
+          "paragraph" : "§ 1",
+          "title" : "Geltungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR019820975BJNE000301320",
+          "paragraph" : "§ 2",
+          "title" : "Höhe der Übergangszahlung"
+        },
+        {
+          "documentIdentifier" : "BJNR019820975BJNE000403310",
+          "paragraph" : "§ 3",
+          "title" : "Vergleichsberechnung"
+        },
+        {
+          "documentIdentifier" : "BJNR019820975BJNE000500319",
+          "paragraph" : "§ 4",
+          "title" : "Berlin-Klausel"
+        },
+        {
+          "documentIdentifier" : "BJNR019820975BJNE000600319",
+          "paragraph" : "§ 5",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

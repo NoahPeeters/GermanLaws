@@ -1,0 +1,69 @@
+{
+  "documentIdentifier" : "BJNR224710002",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR224710002Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR224710002BJNE000101116",
+          "paragraph" : "§ 1",
+          "title" : "Begriffsbestimmung"
+        },
+        {
+          "documentIdentifier" : "BJNR224710002BJNE000202116",
+          "paragraph" : "§ 2",
+          "title" : "Betriebsorganisation"
+        },
+        {
+          "documentIdentifier" : "BJNR224710002BJNE000302116",
+          "paragraph" : "§ 3",
+          "title" : "Betriebsbeauftragte"
+        },
+        {
+          "documentIdentifier" : "BJNR224710002BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Ermittlungen von Emissionen"
+        },
+        {
+          "documentIdentifier" : "BJNR224710002BJNE000502116",
+          "paragraph" : "§ 5",
+          "title" : "Wiederkehrende Messungen, Funktionsprüfungen"
+        },
+        {
+          "documentIdentifier" : "BJNR224710002BJNE000600000",
+          "paragraph" : "§ 6",
+          "title" : "Sicherheitstechnische Prüfungen"
+        },
+        {
+          "documentIdentifier" : "BJNR224710002BJNE000704116",
+          "paragraph" : "§ 7",
+          "title" : "Berichte"
+        },
+        {
+          "documentIdentifier" : "BJNR224710002BJNE000800000",
+          "paragraph" : "§ 8",
+          "title" : "Verlängerung von Messintervallen"
+        },
+        {
+          "documentIdentifier" : "BJNR224710002BJNE000900000",
+          "paragraph" : "§ 9",
+          "title" : "Unterrichtung der Öffentlichkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR224710002BJNE001000000",
+          "paragraph" : "§ 10",
+          "title" : "Widerruf"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

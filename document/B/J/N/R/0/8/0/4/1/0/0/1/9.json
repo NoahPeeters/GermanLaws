@@ -1,0 +1,299 @@
+{
+  "documentIdentifier" : "BJNR080410019",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR080410019BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR080410019BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR080410019BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR080410019BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Bezugssauerstoffgehalt"
+        },
+        {
+          "documentIdentifier" : "BJNR080410019BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Aggregationsregeln"
+        },
+        {
+          "documentIdentifier" : "BJNR080410019BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Emissionsrelevante Änderung in einer Feuerungsanlage"
+        },
+        {
+          "documentIdentifier" : "BJNR080410019BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Registrierung von Feuerungsanlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR080410019BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Aufzeichnungs- und Aufbewahrungspflichten des Betreibers"
+        },
+        {
+          "documentIdentifier" : "BJNR080410019BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "An- und Abfahrzeiten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR080410019BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR080410019BJNE001000000",
+          "paragraph" : "§ 9",
+          "title" : "Emissionsgrenzwerte für Ammoniak"
+        },
+        {
+          "documentIdentifier" : "BJNR080410019BJNE001100000",
+          "paragraph" : "§ 10",
+          "title" : "Emissionsgrenzwerte für Feuerungsanlagen bei Einsatz von festen Brennstoffen"
+        },
+        {
+          "documentIdentifier" : "BJNR080410019BJNE001200000",
+          "paragraph" : "§ 11",
+          "title" : "Emissionsgrenzwerte bei Einsatz von flüssigen Brennstoffen in nicht genehmigungsbedürftigen mittelgroßen Feuerungsanlagen mit einer Feuerungswärmeleistung von 10 Megawatt oder mehr oder in genehmigungsbedürftigen mittelgroßen Feuerungsanlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR080410019BJNE001300000",
+          "paragraph" : "§ 12",
+          "title" : "Emissionsgrenzwerte bei Einsatz von flüssigen Brennstoffen in nicht genehmigungsbedürftigen mittelgroßen Feuerungsanlagen mit einer Feuerungswärmeleistung von weniger als 10 Megawatt"
+        },
+        {
+          "documentIdentifier" : "BJNR080410019BJNE001400000",
+          "paragraph" : "§ 13",
+          "title" : "Emissionsgrenzwerte bei Einsatz von gasförmigen Brennstoffen in nicht genehmigungsbedürftigen mittelgroßen Feuerungsanlagen mit einer Feuerungswärmeleistung von 10 Megawatt oder mehr oder in genehmigungsbedürftigen mittelgroßen Feuerungsanlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR080410019BJNE001500000",
+          "paragraph" : "§ 14",
+          "title" : "Emissionsgrenzwerte bei Einsatz von gasförmigen Brennstoffen in nicht genehmigungsbedürftigen mittelgroßen Feuerungsanlagen mit einer Feuerungswärmeleistung von weniger als 10 Megawatt"
+        },
+        {
+          "documentIdentifier" : "BJNR080410019BJNE001600000",
+          "paragraph" : "§ 15",
+          "title" : "Emissionsgrenzwerte für Gasturbinenanlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR080410019BJNE001700000",
+          "paragraph" : "§ 16",
+          "title" : "Emissionsgrenzwerte für Verbrennungsmotoranlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR080410019BJNE001800000",
+          "paragraph" : "§ 17",
+          "title" : "Anforderungen an die Abgasverluste von nicht genehmigungsbedürftigen mittelgroßen Öl- und Gasfeuerungsanlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR080410019BJNE001900000",
+          "paragraph" : "§ 18",
+          "title" : "Anforderungen an Mischfeuerungen und Mehrstofffeuerungen"
+        },
+        {
+          "documentIdentifier" : "BJNR080410019BJNE002000000",
+          "paragraph" : "§ 19",
+          "title" : "Ableitbedingungen"
+        },
+        {
+          "documentIdentifier" : "BJNR080410019BJNE002100000",
+          "paragraph" : "§ 20",
+          "title" : "Abgasreinigungseinrichtungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Anforderungen an die Errichtung und den Betrieb"
+    },
+    {
+      "documentIdentifier" : "BJNR080410019BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR080410019BJNE002200000",
+          "paragraph" : "§ 21",
+          "title" : "Messungen an mittelgroßen Feuerungsanlagen bei Einsatz von festen Brennstoffen"
+        },
+        {
+          "documentIdentifier" : "BJNR080410019BJNE002300000",
+          "paragraph" : "§ 22",
+          "title" : "Messungen an mittelgroßen Feuerungsanlagen bei Einsatz von gasförmigen Brennstoffen"
+        },
+        {
+          "documentIdentifier" : "BJNR080410019BJNE002400000",
+          "paragraph" : "§ 23",
+          "title" : "Messungen an mittelgroßen Feuerungsanlagen bei Einsatz von flüssigen Brennstoffen"
+        },
+        {
+          "documentIdentifier" : "BJNR080410019BJNE002500000",
+          "paragraph" : "§ 24",
+          "title" : "Messungen an Verbrennungsmotoranlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR080410019BJNE002600000",
+          "paragraph" : "§ 25",
+          "title" : "Messungen an Gasturbinenanlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR080410019BJNE002700000",
+          "paragraph" : "§ 26",
+          "title" : "Messungen an Feuerungsanlagen mit Abgasreinigungseinrichtung für Stickstoffoxide"
+        },
+        {
+          "documentIdentifier" : "BJNR080410019BJNE002800000",
+          "paragraph" : "§ 27",
+          "title" : "Messplätze"
+        },
+        {
+          "documentIdentifier" : "BJNR080410019BJNE002900000",
+          "paragraph" : "§ 28",
+          "title" : "Messverfahren und Messeinrichtungen"
+        },
+        {
+          "documentIdentifier" : "BJNR080410019BJNE003000000",
+          "paragraph" : "§ 29",
+          "title" : "Kontinuierliche Messungen"
+        },
+        {
+          "documentIdentifier" : "BJNR080410019BJNE003100000",
+          "paragraph" : "§ 30",
+          "title" : "Auswertung und Beurteilung von kontinuierlichen Messungen, Messbericht"
+        },
+        {
+          "documentIdentifier" : "BJNR080410019BJNE003200000",
+          "paragraph" : "§ 31",
+          "title" : "Einzelmessungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Messung und Überwachung"
+    },
+    {
+      "documentIdentifier" : "BJNR080410019BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR080410019BJNE003300000",
+          "paragraph" : "§ 32",
+          "title" : "Zulassung von Ausnahmen"
+        },
+        {
+          "documentIdentifier" : "BJNR080410019BJNE003400000",
+          "paragraph" : "§ 33",
+          "title" : "Weitergehende Anforderungen"
+        },
+        {
+          "documentIdentifier" : "BJNR080410019BJNE003500000",
+          "paragraph" : "§ 34",
+          "title" : "Verhältnis zu anderen Vorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR080410019BJNE003600000",
+          "paragraph" : "§ 35",
+          "title" : "Ordnungswidrigkeiten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gemeinsame Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR080410019BJNG000500000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR080410019BJNE003700000",
+          "paragraph" : "§ 36",
+          "title" : "Anlagenregister"
+        },
+        {
+          "documentIdentifier" : "BJNR080410019BJNE003800000",
+          "paragraph" : "§ 37",
+          "title" : "Informationsformate und Übermittlungswege"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Anlagenregister, Informationsformate und Übermittlungswege"
+    },
+    {
+      "documentIdentifier" : "BJNR080410019BJNG000600000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR080410019BJNE003900000",
+          "paragraph" : "§ 38",
+          "title" : "Zugänglichkeit und Gleichwertigkeit von Normen"
+        },
+        {
+          "documentIdentifier" : "BJNR080410019BJNE004000000",
+          "paragraph" : "§ 39",
+          "title" : "Übergangsregelungen"
+        },
+        {
+          "documentIdentifier" : "BJNR080410019BJNE004100000",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 6)"
+        },
+        {
+          "documentIdentifier" : "BJNR080410019BJNE004200000",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 28)"
+        },
+        {
+          "documentIdentifier" : "BJNR080410019BJNE004300000",
+          "paragraph" : "Anlage 3",
+          "title" : "(zu § 30)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussvorschriften"
+    }
+  ]
+}

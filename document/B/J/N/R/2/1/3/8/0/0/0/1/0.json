@@ -1,0 +1,121 @@
+{
+  "documentIdentifier" : "BJNR213800010",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR213800010BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR213800010BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Abkommen"
+        },
+        {
+          "documentIdentifier" : "BJNR213800010BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Anwendungsbereich"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeines"
+    },
+    {
+      "documentIdentifier" : "BJNR213800010BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR213800010BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Aufsichtsratsvergütungen"
+        },
+        {
+          "documentIdentifier" : "BJNR213800010BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Deutsche Arbeitsgemeinschaften und französische „Groupements d´intérêt économique“"
+        },
+        {
+          "documentIdentifier" : "BJNR213800010BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Grenzgebiet"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Anwendungsfälle"
+    },
+    {
+      "documentIdentifier" : "BJNR213800010BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR213800010BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Fristberechnung"
+        },
+        {
+          "documentIdentifier" : "BJNR213800010BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Grenzgängerregelung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "183-Tage-Regelung, Grenzgänger"
+    },
+    {
+      "documentIdentifier" : "BJNR213800010BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR213800010BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Anwendungsregelung"
+        },
+        {
+          "documentIdentifier" : "BJNR213800010BJNE001000000",
+          "paragraph" : "§ 9",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR213800010BJNE001200000",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 5 Absatz 1)"
+        },
+        {
+          "documentIdentifier" : "BJNR213800010BJNE001300000",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 5 Absatz 1)"
+        },
+        {
+          "documentIdentifier" : "BJNR213800010BJNE001400000",
+          "paragraph" : "Anlage 3",
+          "title" : "(zu § 5 Absatz 2)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussbestimmungen"
+    }
+  ]
+}

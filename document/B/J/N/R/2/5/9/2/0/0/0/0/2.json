@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR259200002",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR259200002Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR259200002BJNE000300000",
+          "paragraph" : "Art 3",
+          "title" : "Übergangsvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR259200002BJNE000400000",
+          "paragraph" : "Art 4",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

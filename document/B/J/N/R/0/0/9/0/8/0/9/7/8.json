@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR009080978",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR009080978Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR009080978BJNE000202377",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR009080978BJNE000301308",
+          "paragraph" : "§ 2",
+          "title" : "Zuständigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR009080978BJNE000400328",
+          "paragraph" : "§ 3",
+          "title" : "Anerkennung der Betriebsstätten"
+        },
+        {
+          "documentIdentifier" : "BJNR009080978BJNE000500328",
+          "paragraph" : "§ 4",
+          "title" : "Aufzeichnungs- und Aufbewahrungspflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR009080978BJNE000600328",
+          "paragraph" : "§ 5",
+          "title" : "Duldungs- und Mitwirkungspflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR009080978BJNE000701377",
+          "paragraph" : "§ 6",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR009080978BJNE001001308",
+          "paragraph" : "§ 7",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

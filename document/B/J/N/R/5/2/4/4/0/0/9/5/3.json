@@ -1,0 +1,515 @@
+{
+  "documentIdentifier" : "BJNR524400953",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR524400953BJNG000100325",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR524400953BJNE001900325",
+          "paragraph" : "Nr 1",
+          "title" : "Geltungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR524400953BJNE002000325",
+          "paragraph" : "Nr 2",
+          "title" : "Einrichtung und Ausgestaltung des Rechnungswesens"
+        },
+        {
+          "documentIdentifier" : "BJNR524400953BJNE002100325",
+          "paragraph" : "Nr 3",
+          "title" : "Erklärung des Auftragnehmers"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeines"
+    },
+    {
+      "documentIdentifier" : "BJNR524400953BJNG000200325",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR524400953BJNE002200325",
+          "paragraph" : "Nr 4",
+          "title" : "Kosten und Selbstkostenpreise"
+        },
+        {
+          "documentIdentifier" : "BJNR524400953BJNE002300325",
+          "paragraph" : "Nr 5",
+          "title" : "Arten der Preisermittlung auf Grund von Selbstkosten"
+        },
+        {
+          "documentIdentifier" : "BJNR524400953BJNE002400325",
+          "paragraph" : "Nr 6",
+          "title" : "Arten der Selbstkostenpreise"
+        },
+        {
+          "documentIdentifier" : "BJNR524400953BJNE002500325",
+          "paragraph" : "Nr 7",
+          "title" : "Mengenansatz"
+        },
+        {
+          "documentIdentifier" : "BJNR524400953BJNE002600325",
+          "paragraph" : "Nr 8",
+          "title" : "Bewertung"
+        },
+        {
+          "documentIdentifier" : "BJNR524400953BJNE002700325",
+          "paragraph" : "Nr 9",
+          "title" : "Allgemeine Angaben zu Preiskalkulationen"
+        },
+        {
+          "documentIdentifier" : "BJNR524400953BJNE002800325",
+          "paragraph" : "Nr 10",
+          "title" : "Gliederung der Preiskalkulationen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Preisermittlung auf Grund von Selbstkosten"
+    },
+    {
+      "documentIdentifier" : "BJNR524400953BJNG000300325",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR524400953BJNG000400325",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR524400953BJNE002900325",
+              "paragraph" : "Nr 11",
+              "title" : "Fertigungsstoffe"
+            },
+            {
+              "documentIdentifier" : "BJNR524400953BJNE003000325",
+              "paragraph" : "Nr 12",
+              "title" : "Auswärtige Bearbeitung"
+            },
+            {
+              "documentIdentifier" : "BJNR524400953BJNE003100325",
+              "paragraph" : "Nr 13",
+              "title" : "Hilfs- und Betriebsstoffe"
+            },
+            {
+              "documentIdentifier" : "BJNR524400953BJNE003200325",
+              "paragraph" : "Nr 14",
+              "title" : "Sonderbetriebsmittel"
+            },
+            {
+              "documentIdentifier" : "BJNR524400953BJNE003300325",
+              "paragraph" : "Nr 15",
+              "title" : "Brennstoffe und Energie"
+            },
+            {
+              "documentIdentifier" : "BJNR524400953BJNE003400325",
+              "paragraph" : "Nr 16",
+              "title" : "Mengenermittlung"
+            },
+            {
+              "documentIdentifier" : "BJNR524400953BJNE003500325",
+              "paragraph" : "Nr 17",
+              "title" : "Bewertung"
+            },
+            {
+              "documentIdentifier" : "BJNR524400953BJNE003600325",
+              "paragraph" : "Nr 18",
+              "title" : "Einstandspreis"
+            },
+            {
+              "documentIdentifier" : "BJNR524400953BJNE003700325",
+              "paragraph" : "Nr 19",
+              "title" : "Zulieferungen aus eigenen Vorbetrieben"
+            },
+            {
+              "documentIdentifier" : "BJNR524400953BJNE003800325",
+              "paragraph" : "Nr 20",
+              "title" : "Beistellung von Stoffen"
+            },
+            {
+              "documentIdentifier" : "BJNR524400953BJNE003900325",
+              "paragraph" : "Nr 21",
+              "title" : "Reststoffe"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Stoffe"
+        },
+        {
+          "documentIdentifier" : "BJNR524400953BJNG000500325",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR524400953BJNE004000325",
+              "paragraph" : "Nr 22",
+              "title" : "Verrechnung"
+            },
+            {
+              "documentIdentifier" : "BJNR524400953BJNE004100325",
+              "paragraph" : "Nr 23",
+              "title" : "Ansatz"
+            },
+            {
+              "documentIdentifier" : "BJNR524400953BJNE004200325",
+              "paragraph" : "Nr 24",
+              "title" : "Bewertung"
+            },
+            {
+              "documentIdentifier" : "BJNR524400953BJNE004300325",
+              "paragraph" : "Nr 25",
+              "title" : "Sozialkosten"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Löhne, Gehälter und andere Personalkosten"
+        },
+        {
+          "documentIdentifier" : "BJNR524400953BJNG000600325",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR524400953BJNE004400325",
+              "paragraph" : "Nr 26",
+              "title" : "Ansatz"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Instandhaltung und Instandsetzung"
+        },
+        {
+          "documentIdentifier" : "BJNR524400953BJNG000700325",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR524400953BJNE004500325",
+              "paragraph" : "Nr 27",
+              "title" : "\"Freie\" und \"gebundene\" Entwicklung"
+            },
+            {
+              "documentIdentifier" : "BJNR524400953BJNE004600325",
+              "paragraph" : "Nr 28",
+              "title" : "Nachweis"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Entwicklungs-, und Entwurfs- und Versuchsaufträge"
+        },
+        {
+          "documentIdentifier" : "BJNR524400953BJNG000800325",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR524400953BJNE004700325",
+              "paragraph" : "Nr 29",
+              "title" : "Ansatz"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              5
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Fertigungsanlauf, Bauartänderungen"
+        },
+        {
+          "documentIdentifier" : "BJNR524400953BJNG000900325",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR524400953BJNE004800325",
+              "paragraph" : "Nr 30",
+              "title" : "Steuern"
+            },
+            {
+              "documentIdentifier" : "BJNR524400953BJNE004900325",
+              "paragraph" : "Nr 31",
+              "title" : "Lastenausgleich"
+            },
+            {
+              "documentIdentifier" : "BJNR524400953BJNE005000325",
+              "paragraph" : "Nr 32",
+              "title" : "Gebühren und Beiträge"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              6
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Steuern, Gebühren, Beiträge"
+        },
+        {
+          "documentIdentifier" : "BJNR524400953BJNG001000325",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR524400953BJNE005100325",
+              "paragraph" : "Nr 33",
+              "title" : "Ansatz und Verrechnung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              7
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Lizenzen, Patente und gewerblicher Rechtsschutz"
+        },
+        {
+          "documentIdentifier" : "BJNR524400953BJNG001100325",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR524400953BJNE005200325",
+              "paragraph" : "Nr 34",
+              "title" : "Mengenansatz und Bewertung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              8
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Mieten, Büro-, Werbe- und Transportkosten und dgl."
+        },
+        {
+          "documentIdentifier" : "BJNR524400953BJNG001200325",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR524400953BJNE005300325",
+              "paragraph" : "Nr 35",
+              "title" : "Vertreterprovisionen"
+            },
+            {
+              "documentIdentifier" : "BJNR524400953BJNE005400325",
+              "paragraph" : "Nr 36",
+              "title" : "Versandbedingungen und Versandkosten"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              9
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Vertriebssonderkosten"
+        },
+        {
+          "documentIdentifier" : "BJNR524400953BJNG001300325",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              10
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR524400953BJNG001400325",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR524400953BJNE005500325",
+                  "paragraph" : "Nr 37",
+                  "title" : "Begriff"
+                },
+                {
+                  "documentIdentifier" : "BJNR524400953BJNE005601309",
+                  "paragraph" : "Nr 38",
+                  "title" : "Abschreibungsbetrag und Bewertungsgrundsatz"
+                },
+                {
+                  "documentIdentifier" : "BJNR524400953BJNE005700325",
+                  "paragraph" : "Nr 39",
+                  "title" : "Nutzung der Anlagen"
+                },
+                {
+                  "documentIdentifier" : "BJNR524400953BJNE005900325",
+                  "paragraph" : "Nr 41",
+                  "title" : "Sonderabschreibungen"
+                },
+                {
+                  "documentIdentifier" : "BJNR524400953BJNE006001309",
+                  "paragraph" : "Nr 42",
+                  "title" : "Anlagenachweis"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  3,
+                  10,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Anlageabschreibungen"
+            },
+            {
+              "documentIdentifier" : "BJNR524400953BJNG001500325",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR524400953BJNE006102377",
+                  "paragraph" : "Nr 43",
+                  "title" : "Bemessung"
+                },
+                {
+                  "documentIdentifier" : "BJNR524400953BJNE006200325",
+                  "paragraph" : "Nr 44",
+                  "title" : "Ermittlung des betriebsnotwendigen Kapitals"
+                },
+                {
+                  "documentIdentifier" : "BJNR524400953BJNE006300325",
+                  "paragraph" : "Nr 45",
+                  "title" : "Wertansatz des betriebsnotwendigen Vermögens"
+                },
+                {
+                  "documentIdentifier" : "BJNR524400953BJNE006400325",
+                  "paragraph" : "Nr 46",
+                  "title" : "Mengenansatz des betriebsnotwendigen Vermögens"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  3,
+                  10,
+                  2
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Zinsen"
+            },
+            {
+              "documentIdentifier" : "BJNR524400953BJNG001600325",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR524400953BJNE006500325",
+                  "paragraph" : "Nr 47",
+                  "title" : "Abgrenzung"
+                },
+                {
+                  "documentIdentifier" : "BJNR524400953BJNE006600325",
+                  "paragraph" : "Nr 48",
+                  "title" : "Verrechnung"
+                },
+                {
+                  "documentIdentifier" : "BJNR524400953BJNE006700325",
+                  "paragraph" : "Nr 49",
+                  "title" : "Ermittlung der kalkulatorischen Wagniskosten"
+                },
+                {
+                  "documentIdentifier" : "BJNR524400953BJNE006800325",
+                  "paragraph" : "Nr 50",
+                  "title" : "Nachweis"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  3,
+                  10,
+                  3
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Einzelwagnisse"
+            }
+          ],
+          "title" : "Kalkulatorische Kosten"
+        },
+        {
+          "documentIdentifier" : "BJNR524400953BJNG001700325",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR524400953BJNE006900325",
+              "paragraph" : "Nr 51",
+              "title" : "Begriff"
+            },
+            {
+              "documentIdentifier" : "BJNR524400953BJNE007002377",
+              "paragraph" : "Nr 52",
+              "title" : "Höhe der Zurechnung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              11
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Kalkulatorischer Gewinn"
+        }
+      ],
+      "title" : "Bestandteile des Selbstkostenpreises"
+    }
+  ]
+}

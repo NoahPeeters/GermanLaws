@@ -1,0 +1,142 @@
+{
+  "documentIdentifier" : "BJNR017760992",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR017760992BJNG000200305",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Ausbildungsstätten"
+    },
+    {
+      "documentIdentifier" : "BJNR017760992BJNG000400305",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR017760992BJNG000500305",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR017760992BJNE000600305",
+              "paragraph" : "§ 2",
+              "title" : "Zulassungsvoraussetzungen"
+            },
+            {
+              "documentIdentifier" : "BJNR017760992BJNE000700305",
+              "paragraph" : "§ 3",
+              "title" : "Lehrinhalte"
+            },
+            {
+              "documentIdentifier" : "BJNR017760992BJNE000800305",
+              "paragraph" : "§ 4",
+              "title" : "Abschlußprüfung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Lehrgänge"
+        },
+        {
+          "documentIdentifier" : "BJNR017760992BJNG000900305",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR017760992BJNE001000305",
+              "paragraph" : "§ 5",
+              "title" : "Zulassungsvoraussetzungen"
+            },
+            {
+              "documentIdentifier" : "BJNR017760992BJNE001100305",
+              "paragraph" : "§ 6",
+              "title" : "Lehrinhalte"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Kurzlehrgänge"
+        }
+      ],
+      "title" : "Künstliche Besamung"
+    },
+    {
+      "documentIdentifier" : "BJNR017760992BJNG001200305",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR017760992BJNE001300305",
+          "paragraph" : "§ 7",
+          "title" : "Zulassungsvoraussetzungen"
+        },
+        {
+          "documentIdentifier" : "BJNR017760992BJNE001400305",
+          "paragraph" : "§ 8",
+          "title" : "Lehrinhalte"
+        },
+        {
+          "documentIdentifier" : "BJNR017760992BJNE001500305",
+          "paragraph" : "§ 9",
+          "title" : "Abschlußprüfung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Embryotransfer"
+    },
+    {
+      "documentIdentifier" : "BJNR017760992BJNG001600305",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR017760992BJNE001700305",
+          "paragraph" : "§ 10",
+          "title" : "Übergangsvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR017760992BJNE001800305",
+          "paragraph" : "§ 11",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlußvorschriften"
+    }
+  ]
+}

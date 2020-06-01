@@ -1,0 +1,1194 @@
+{
+  "documentIdentifier" : "BJNR167030997",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR167030997BJNG000100328",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR167030997BJNG002800328",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR167030997BJNE002904126",
+              "paragraph" : "§ 1.01",
+              "title" : "Begriffsbestimmungen"
+            },
+            {
+              "documentIdentifier" : "BJNR167030997BJNE003003305",
+              "paragraph" : "§ 1.02",
+              "title" : "Schiffsführer"
+            },
+            {
+              "documentIdentifier" : "BJNR167030997BJNE003102305",
+              "paragraph" : "§ 1.03",
+              "title" : "Pflichten der Besatzung und sonstiger Personen an Bord"
+            },
+            {
+              "documentIdentifier" : "BJNR167030997BJNE003201310",
+              "paragraph" : "§ 1.04",
+              "title" : "Allgemeine Sorgfaltspflicht"
+            },
+            {
+              "documentIdentifier" : "BJNR167030997BJNE003300328",
+              "paragraph" : "§ 1.05",
+              "title" : "Verhalten unter besonderen Umständen"
+            },
+            {
+              "documentIdentifier" : "BJNR167030997BJNE003401310",
+              "paragraph" : "§ 1.06",
+              "title" : "Benutzung der Wasserstraße"
+            },
+            {
+              "documentIdentifier" : "BJNR167030997BJNE003503305",
+              "paragraph" : "§ 1.07",
+              "title" : "Anforderungen an die Beladung und Sicht; Höchstzahl der Fahrgäste"
+            },
+            {
+              "documentIdentifier" : "BJNR167030997BJNE003604305",
+              "paragraph" : "§ 1.08",
+              "title" : "Bau, Ausrüstung und Besatzung der Fahrzeuge"
+            },
+            {
+              "documentIdentifier" : "BJNR167030997BJNE003701308",
+              "paragraph" : "§ 1.09",
+              "title" : "Besetzung des Ruders"
+            },
+            {
+              "documentIdentifier" : "BJNR167030997BJNE003806126",
+              "paragraph" : "§ 1.10",
+              "title" : "Mitführen von Urkunden und sonstigen Unterlagen"
+            },
+            {
+              "documentIdentifier" : "BJNR167030997BJNE003901308",
+              "paragraph" : "§ 1.11",
+              "title" : "Mitführen der Moselschifffahrtspolizeiverordnung"
+            },
+            {
+              "documentIdentifier" : "BJNR167030997BJNE004000328",
+              "paragraph" : "§ 1.12",
+              "title" : "Gefährdung durch Gegenstände an Bord, Verlust von\nGegenständen, Schiffahrtshindernisse"
+            },
+            {
+              "documentIdentifier" : "BJNR167030997BJNE004101305",
+              "paragraph" : "§ 1.13",
+              "title" : "Schutz der Schiffahrtszeichen"
+            },
+            {
+              "documentIdentifier" : "BJNR167030997BJNE004200328",
+              "paragraph" : "§ 1.14",
+              "title" : "Beschädigung von Anlagen"
+            },
+            {
+              "documentIdentifier" : "BJNR167030997BJNE004301310",
+              "paragraph" : "§ 1.15",
+              "title" : "Verbot des Einbringens von Gegenständen und anderen Stoffen\nin die Wasserstraße"
+            },
+            {
+              "documentIdentifier" : "BJNR167030997BJNE004400328",
+              "paragraph" : "§ 1.16",
+              "title" : "Rettung und Hilfeleistung"
+            },
+            {
+              "documentIdentifier" : "BJNR167030997BJNE004500328",
+              "paragraph" : "§ 1.17",
+              "title" : "Anzeige von Unfällen, festgefahrene oder gesunkene Fahrzeuge"
+            },
+            {
+              "documentIdentifier" : "BJNR167030997BJNE004600328",
+              "paragraph" : "§ 1.18",
+              "title" : "Freimachen des Fahrwassers"
+            },
+            {
+              "documentIdentifier" : "BJNR167030997BJNE004701305",
+              "paragraph" : "§ 1.19",
+              "title" : "Besondere Anweisungen"
+            },
+            {
+              "documentIdentifier" : "BJNR167030997BJNE004800328",
+              "paragraph" : "§ 1.20",
+              "title" : "Überwachung"
+            },
+            {
+              "documentIdentifier" : "BJNR167030997BJNE004901308",
+              "paragraph" : "§ 1.21",
+              "title" : "Sondertransporte, Amphibienfahrzeuge, Militärfahrzeuge"
+            },
+            {
+              "documentIdentifier" : "BJNR167030997BJNE005000328",
+              "paragraph" : "§ 1.22",
+              "title" : "Anordnungen vorübergehender Art"
+            },
+            {
+              "documentIdentifier" : "BJNR167030997BJNE005100328",
+              "paragraph" : "§ 1.23",
+              "title" : "Erlaubnis besonderer Veranstaltungen"
+            },
+            {
+              "documentIdentifier" : "BJNR167030997BJNE005200328",
+              "paragraph" : "§ 1.24",
+              "title" : "Anwendbarkeit der Verordnung auf Häfen, Lade- und\nLöschplätze"
+            },
+            {
+              "documentIdentifier" : "BJNR167030997BJNE005300328",
+              "paragraph" : "§ 1.25",
+              "title" : "Laden, Löschen und Leichtern"
+            },
+            {
+              "documentIdentifier" : "BJNR167030997BJNE005400328",
+              "paragraph" : "§ 1.26",
+              "title" : "Sonderrechte der Fahrzeuge der Überwachungsbehörden"
+            },
+            {
+              "documentIdentifier" : "BJNR167030997BJNE014100305",
+              "paragraph" : "§ 1.27",
+              "title" : "Anordnungen, Erlaubnisse und Genehmigungen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Allgemeine Bestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR167030997BJNG000200328",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR167030997BJNE005502305",
+              "paragraph" : "§ 2.01",
+              "title" : "Kennzeichen der Fahrzeuge, ausgenommen Kleinfahrzeuge und Seeschiffe"
+            },
+            {
+              "documentIdentifier" : "BJNR167030997BJNE005600328",
+              "paragraph" : "§ 2.02",
+              "title" : "Kennzeichen der Kleinfahrzeuge"
+            },
+            {
+              "documentIdentifier" : "BJNR167030997BJNE005700328",
+              "paragraph" : "§ 2.03",
+              "title" : "Schiffseichung"
+            },
+            {
+              "documentIdentifier" : "BJNR167030997BJNE005801305",
+              "paragraph" : "§ 2.04",
+              "title" : "Einsenkungsmarken und Tiefgangsanzeiger"
+            },
+            {
+              "documentIdentifier" : "BJNR167030997BJNE005900328",
+              "paragraph" : "§ 2.05",
+              "title" : "Kennzeichen der Anker"
+            },
+            {
+              "documentIdentifier" : "BJNR167030997BJNE014500305",
+              "paragraph" : "§ 2.06",
+              "title" : "Kennzeichnung der Fahrzeuge, die Flüssigerdgas (LNG) als Brennstoff nutzen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Kennzeichen und Tiefgangsanzeiger der Fahrzeuge, Schiffseichung"
+        },
+        {
+          "documentIdentifier" : "BJNR167030997BJNG000300328",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              3
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR167030997BJNG000400328",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR167030997BJNE006002308",
+                  "paragraph" : "§ 3.01",
+                  "title" : "Begriffsbestimmungen und Anwendungen\n"
+                },
+                {
+                  "documentIdentifier" : "BJNR167030997BJNE006101305",
+                  "paragraph" : "§ 3.02",
+                  "title" : "Lichter und Signalleuchten"
+                },
+                {
+                  "documentIdentifier" : "BJNR167030997BJNE006200328",
+                  "paragraph" : "§ 3.03",
+                  "title" : "Flaggen, Tafeln und Wimpel"
+                },
+                {
+                  "documentIdentifier" : "BJNR167030997BJNE006300328",
+                  "paragraph" : "§ 3.04",
+                  "title" : "Zylinder, Bälle und Kegel"
+                },
+                {
+                  "documentIdentifier" : "BJNR167030997BJNE006400328",
+                  "paragraph" : "§ 3.05",
+                  "title" : "Verbotene oder ausnahmsweise zugelassene Lichter\nund Sichtzeichen"
+                },
+                {
+                  "documentIdentifier" : "BJNR167030997BJNE006601308",
+                  "paragraph" : "§ 3.07",
+                  "title" : "Verbotener Gebrauch von Lichtern, Scheinwerfern,\nFlaggen, Tafeln und Wimpeln usw."
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  1,
+                  3,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Allgemeines"
+            },
+            {
+              "documentIdentifier" : "BJNR167030997BJNG000500328",
+              "laws" : [
+
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  1,
+                  3,
+                  2
+                ]
+              },
+              "subsections" : [
+                {
+                  "documentIdentifier" : "BJNR167030997BJNG000600328",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR167030997BJNE006700328",
+                      "paragraph" : "§ 3.08",
+                      "title" : "Bezeichnung einzeln fahrender Fahrzeuge mit\nMaschinenantrieb\n"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR167030997BJNE006800328",
+                      "paragraph" : "§ 3.09",
+                      "title" : "Bezeichnung der Schleppverbände in Fahrt\n"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR167030997BJNE006801308",
+                      "paragraph" : "§ 3.09",
+                      "title" : "Bezeichnung der Schleppverbände in Fahrt\n"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR167030997BJNE006900328",
+                      "paragraph" : "§ 3.10",
+                      "title" : "Bezeichnung der Schubverbände in Fahrt\n"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR167030997BJNE002100310",
+                      "paragraph" : "§ 3.11",
+                      "title" : "Bezeichnung gekuppelter Fahrzeuge in Fahrt\n"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR167030997BJNE002200310",
+                      "paragraph" : "§ 3.12",
+                      "title" : "Bezeichnung der Fahrzeuge unter Segel in Fahrt\n"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR167030997BJNE002301305",
+                      "paragraph" : "§ 3.13",
+                      "title" : "Bezeichnung der Kleinfahrzeuge in Fahrt"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR167030997BJNE002403126",
+                      "paragraph" : "§ 3.14",
+                      "title" : "Zusätzliche Bezeichnung der Fahrzeuge in Fahrt bei Beförderung bestimmter gefährlicher Güter"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR167030997BJNE002500310",
+                      "paragraph" : "§ 3.15",
+                      "title" : "Bezeichnungen der Fahrzeuge in Fahrt, die zur Beförderung\nvon mehr als 12 Fahrgästen zugelassen sind und deren\nSchiffskörper eine Höchstlänge von weniger als 20,00 m aufweist\n"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR167030997BJNE002600310",
+                      "paragraph" : "§ 3.16",
+                      "title" : "Bezeichnung der Fähren in Fahrt\n"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR167030997BJNE002701308",
+                      "paragraph" : "§ 3.17",
+                      "title" : "Zusätzliche Bezeichnung der Fahrzeuge in Fahrt, die einen\nVorrang besitzen\n"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR167030997BJNE002801308",
+                      "paragraph" : "§ 3.18",
+                      "title" : "Zusätzliche Bezeichnung manövrierunfähiger Fahrzeuge\nin Fahrt\n"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR167030997BJNE002900310",
+                      "paragraph" : "§ 3.19",
+                      "title" : "Bezeichnung der Schwimmkörper und schwimmenden\nAnlagen in Fahrt\n"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      1,
+                      3,
+                      2,
+                      1
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Bezeichnung während der Fahrt"
+                },
+                {
+                  "documentIdentifier" : "BJNR167030997BJNG000100310",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR167030997BJNE003000310",
+                      "paragraph" : "§ 3.20",
+                      "title" : "Bezeichnung der Fahrzeuge beim Stilliegen\n"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR167030997BJNE003100310",
+                      "paragraph" : "§ 3.21",
+                      "title" : "Zusätzliche Bezeichnung stilliegender Fahrzeuge\nbei Beförderung bestimmter gefährlicher Güter\n"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR167030997BJNE003202305",
+                      "paragraph" : "§ 3.22",
+                      "title" : "Bezeichnung der Fähren, die an ihrer Anlegestelle stilliegen"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR167030997BJNE003301305",
+                      "paragraph" : "§ 3.23",
+                      "title" : "Bezeichnung der Schwimmkörper und schwimmenden Anlagen beim Stilliegen"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR167030997BJNE003400310",
+                      "paragraph" : "§ 3.24",
+                      "title" : "Bezeichnung bestimmter stilliegender Fischereifahrzeuge\nund der Netze oder Ausleger\n"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR167030997BJNE013800308",
+                      "paragraph" : "§ 3.25",
+                      "title" : "Bezeichnung schwimmender Geräte bei der Arbeit sowie\nfestgefahrener oder gesunkener Fahrzeuge\n"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR167030997BJNE003600310",
+                      "paragraph" : "§ 3.26",
+                      "title" : "Zusätzliche Bezeichnung der Fahrzeuge, Schwimmkörper\nund schwimmenden Anlagen, deren Anker die Schiffahrt\ngefährden können, und ihrer Anker\n"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      1,
+                      3,
+                      2,
+                      2
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Bezeichnung beim Stilliegen"
+                }
+              ],
+              "title" : "Nacht- und Tagbezeichnung"
+            },
+            {
+              "documentIdentifier" : "BJNR167030997BJNG000201308",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR167030997BJNE003702305",
+                  "paragraph" : "§ 3.27",
+                  "title" : "Bezeichnung der Fahrzeuge der Überwachungsbehörden"
+                },
+                {
+                  "documentIdentifier" : "BJNR167030997BJNE013900308",
+                  "paragraph" : "§ 3.28",
+                  "title" : "Zusätzliche Bezeichnung der Fahrzeuge\nin Fahrt, die Arbeiten in der Wasserstraße ausführen\n"
+                },
+                {
+                  "documentIdentifier" : "BJNR167030997BJNE003900310",
+                  "paragraph" : "§ 3.29",
+                  "title" : "Schutz gegen Wellenschlag\n"
+                },
+                {
+                  "documentIdentifier" : "BJNR167030997BJNE004000310",
+                  "paragraph" : "§ 3.30",
+                  "title" : "Notzeichen\n"
+                },
+                {
+                  "documentIdentifier" : "BJNR167030997BJNE004102305",
+                  "paragraph" : "§ 3.31",
+                  "title" : "Hinweis auf das Verbot, das Fahrzeug zu betreten"
+                },
+                {
+                  "documentIdentifier" : "BJNR167030997BJNE004202305",
+                  "paragraph" : "§ 3.32",
+                  "title" : "Hinweis auf das Verbot zu rauchen, ungeschütztes Licht oder Feuer zu verwenden"
+                },
+                {
+                  "documentIdentifier" : "BJNR167030997BJNE004300310",
+                  "paragraph" : "§ 3.33",
+                  "title" : "Hinweis auf das Verbot des Stilliegens nebeneinander\n"
+                },
+                {
+                  "documentIdentifier" : "BJNR167030997BJNE014200305",
+                  "paragraph" : "§ 3.34",
+                  "title" : "Zusätzliche Bezeichnung der Fahrzeuge beim Einsatz von Tauchern (Anlage 3: Bild 65)"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  1,
+                  3,
+                  3
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Sonstige Bezeichnung"
+            }
+          ],
+          "title" : "Bezeichnung der Fahrzeuge"
+        },
+        {
+          "documentIdentifier" : "BJNR167030997BJNG000301305",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              4
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR167030997BJNG000400310",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR167030997BJNE004401308",
+                  "paragraph" : "§ 4.01",
+                  "title" : "Allgemeines"
+                },
+                {
+                  "documentIdentifier" : "BJNR167030997BJNE004500310",
+                  "paragraph" : "§ 4.02",
+                  "title" : "Gebrauch der Schallzeichen"
+                },
+                {
+                  "documentIdentifier" : "BJNR167030997BJNE004600310",
+                  "paragraph" : "§ 4.03",
+                  "title" : "Verbotene Schallzeichen"
+                },
+                {
+                  "documentIdentifier" : "BJNR167030997BJNE004700310",
+                  "paragraph" : "§ 4.04",
+                  "title" : "Notzeichen"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  1,
+                  4,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Schallzeichen "
+            },
+            {
+              "documentIdentifier" : "BJNR167030997BJNG000500310",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR167030997BJNE004803126",
+                  "paragraph" : "§ 4.05",
+                  "title" : "Sprechfunk"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  1,
+                  4,
+                  2
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Sprechfunk"
+            },
+            {
+              "documentIdentifier" : "BJNR167030997BJNG000601305",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR167030997BJNE014001305",
+                  "paragraph" : "§ 4.06",
+                  "title" : "Radar"
+                },
+                {
+                  "documentIdentifier" : "BJNR167030997BJNE014303126",
+                  "paragraph" : "§ 4.07",
+                  "title" : "Inland AIS und Inland ECDIS"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  1,
+                  4,
+                  3
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Informations- und Navigationsgeräte"
+            }
+          ],
+          "title" : "Schallzeichen der Fahrzeuge; Sprechfunk; Informations- und Navigationsgeräte"
+        },
+        {
+          "documentIdentifier" : "BJNR167030997BJNG000700310",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR167030997BJNE005000310",
+              "paragraph" : "§ 5.01",
+              "title" : "Schiffahrtszeichen"
+            },
+            {
+              "documentIdentifier" : "BJNR167030997BJNE005100310",
+              "paragraph" : "§ 5.02",
+              "title" : "Bezeichnung der Wasserstraße"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              5
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Schiffahrtszeichen und Bezeichnung der Wasserstraße"
+        },
+        {
+          "documentIdentifier" : "BJNR167030997BJNG000800310",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              6
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR167030997BJNG000900310",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR167030997BJNE005200310",
+                  "paragraph" : "§ 6.01",
+                  "title" : "Fahrt unter Segel"
+                },
+                {
+                  "documentIdentifier" : "BJNR167030997BJNE005300310",
+                  "paragraph" : "§ 6.02",
+                  "title" : "Gegenseitiges Verhalten von Kleinfahrzeugen und\nanderen Fahrzeugen"
+                },
+                {
+                  "documentIdentifier" : "BJNR167030997BJNE005402305",
+                  "paragraph" : "§ 6.02a",
+                  "title" : "Besondere Fahrregeln für Kleinfahrzeuge"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  1,
+                  6,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Allgemeines"
+            },
+            {
+              "documentIdentifier" : "BJNR167030997BJNG001000310",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR167030997BJNE005501308",
+                  "paragraph" : "§ 6.03",
+                  "title" : "Allgemeine Grundsätze"
+                },
+                {
+                  "documentIdentifier" : "BJNR167030997BJNE005600310",
+                  "paragraph" : "§ 6.04",
+                  "title" : "Begegnen  Grundregeln\n"
+                },
+                {
+                  "documentIdentifier" : "BJNR167030997BJNE005700310",
+                  "paragraph" : "§ 6.05",
+                  "title" : "Begegnen  Ausnahmen von den Grundregeln"
+                },
+                {
+                  "documentIdentifier" : "BJNR167030997BJNE005900310",
+                  "paragraph" : "§ 6.07",
+                  "title" : "Begegnen im engen Fahrwasser"
+                },
+                {
+                  "documentIdentifier" : "BJNR167030997BJNE006003305",
+                  "paragraph" : "§ 6.08",
+                  "title" : "Durch Schiffahrtszeichen verbotenes Begegnen"
+                },
+                {
+                  "documentIdentifier" : "BJNR167030997BJNE006100310",
+                  "paragraph" : "§ 6.09",
+                  "title" : "Überholen  Allgemeine Bestimmungen"
+                },
+                {
+                  "documentIdentifier" : "BJNR167030997BJNE006200310",
+                  "paragraph" : "§ 6.10",
+                  "title" : "Überholen  Verhalten und Zeichengebung der Fahrzeuge"
+                },
+                {
+                  "documentIdentifier" : "BJNR167030997BJNE006300310",
+                  "paragraph" : "§ 6.11",
+                  "title" : "Überholverbot durch Schiffahrtszeichen"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  1,
+                  6,
+                  2
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Begegnen und Überholen"
+            },
+            {
+              "documentIdentifier" : "BJNR167030997BJNG001100310",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR167030997BJNE006400310",
+                  "paragraph" : "§ 6.12",
+                  "title" : "Fahrt auf Strecken mit vorgeschriebenem Kurs"
+                },
+                {
+                  "documentIdentifier" : "BJNR167030997BJNE006500310",
+                  "paragraph" : "§ 6.13",
+                  "title" : "Wenden"
+                },
+                {
+                  "documentIdentifier" : "BJNR167030997BJNE006600310",
+                  "paragraph" : "§ 6.14",
+                  "title" : "Verhalten bei der Abfahrt"
+                },
+                {
+                  "documentIdentifier" : "BJNR167030997BJNE006700310",
+                  "paragraph" : "§ 6.15",
+                  "title" : "Verbot des Hineinfahrens in die Abstände zwischen\nTeilen eines Schleppverbandes"
+                },
+                {
+                  "documentIdentifier" : "BJNR167030997BJNE006800310",
+                  "paragraph" : "§ 6.16",
+                  "title" : "Einfahrt in und Ausfahrt aus Häfen und\nNebenwasserstraßen"
+                },
+                {
+                  "documentIdentifier" : "BJNR167030997BJNE006901308",
+                  "paragraph" : "§ 6.17",
+                  "title" : "Fahrt auf gleicher Höhe, Verbot der Annäherung an\nFahrzeuge"
+                },
+                {
+                  "documentIdentifier" : "BJNR167030997BJNE007000310",
+                  "paragraph" : "§ 6.18",
+                  "title" : "Verbot des Schleifenlassens von Ankern, Trossen\noder Ketten"
+                },
+                {
+                  "documentIdentifier" : "BJNR167030997BJNE007100310",
+                  "paragraph" : "§ 6.19",
+                  "title" : "Schiffahrt durch Treibenlassen"
+                },
+                {
+                  "documentIdentifier" : "BJNR167030997BJNE007202308",
+                  "paragraph" : "§ 6.20",
+                  "title" : "Vermeidung von Wellenschlag"
+                },
+                {
+                  "documentIdentifier" : "BJNR167030997BJNE007300310",
+                  "paragraph" : "§ 6.21",
+                  "title" : "Zusammenstellung der Verbände"
+                },
+                {
+                  "documentIdentifier" : "BJNR167030997BJNE007402308",
+                  "paragraph" : "§ 6.22",
+                  "title" : "Sperrung der Schifffahrt und gesperrte Wasserflächen"
+                },
+                {
+                  "documentIdentifier" : "BJNR167030997BJNE007500310",
+                  "paragraph" : "§ 6.22a",
+                  "title" : "Vorbeifahrt an schwimmenden Geräten bei der\nArbeit sowie an festgefahrenen oder gesunkenen Fahrzeugen\n"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  1,
+                  6,
+                  3
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Weitere Regeln für die Fahrt"
+            },
+            {
+              "documentIdentifier" : "BJNR167030997BJNG001200310",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR167030997BJNE007601305",
+                  "paragraph" : "§ 6.23",
+                  "title" : "Verhalten der Fähren"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  1,
+                  6,
+                  4
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Fähren"
+            },
+            {
+              "documentIdentifier" : "BJNR167030997BJNG001300310",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR167030997BJNE007700310",
+                  "paragraph" : "§ 6.24",
+                  "title" : "Durchfahren von Brücken und Wehren  Allgemeines"
+                },
+                {
+                  "documentIdentifier" : "BJNR167030997BJNE007800310",
+                  "paragraph" : "§ 6.25",
+                  "title" : "Durchfahrt unter festen Brücken"
+                },
+                {
+                  "documentIdentifier" : "BJNR167030997BJNE007900310",
+                  "paragraph" : "§ 6.26",
+                  "title" : "Durchfahrt der Bootsschleusen und Bootsgassen"
+                },
+                {
+                  "documentIdentifier" : "BJNR167030997BJNE008000310",
+                  "paragraph" : "§ 6.27",
+                  "title" : "Durchfahren der Wehre"
+                },
+                {
+                  "documentIdentifier" : "BJNR167030997BJNE008104305",
+                  "paragraph" : "§ 6.28",
+                  "title" : "Durchfahren der Schleusen"
+                },
+                {
+                  "documentIdentifier" : "BJNR167030997BJNE008200310",
+                  "paragraph" : "§ 6.28a",
+                  "title" : "Schleuseneinfahrt und -ausfahrt"
+                },
+                {
+                  "documentIdentifier" : "BJNR167030997BJNE008304305",
+                  "paragraph" : "§ 6.29",
+                  "title" : "Vorrecht auf Schleusung"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  1,
+                  6,
+                  5
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Durchfahren von Brücken, Wehren und Schleusen"
+            },
+            {
+              "documentIdentifier" : "BJNR167030997BJNG001400310",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR167030997BJNE008402308",
+                  "paragraph" : "§ 6.30",
+                  "title" : "Alle fahrenden Fahrzeuge bei unsichtigem Wetter"
+                },
+                {
+                  "documentIdentifier" : "BJNR167030997BJNE008403308",
+                  "paragraph" : "§ 6.30",
+                  "title" : "Alle fahrenden Fahrzeuge bei unsichtigem Wetter"
+                },
+                {
+                  "documentIdentifier" : "BJNR167030997BJNE008502305",
+                  "paragraph" : "§ 6.31",
+                  "title" : "Stillliegende Fahrzeuge"
+                },
+                {
+                  "documentIdentifier" : "BJNR167030997BJNE008601308",
+                  "paragraph" : "§ 6.32",
+                  "title" : "Mit Radar fahrende Fahrzeuge"
+                },
+                {
+                  "documentIdentifier" : "BJNR167030997BJNE008701308",
+                  "paragraph" : "§ 6.33",
+                  "title" : "Nicht mit Radar fahrende Fahrzeuge"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  1,
+                  6,
+                  6
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Unsichtiges Wetter, Benutzung von Radar"
+            }
+          ],
+          "title" : "Fahrregeln"
+        },
+        {
+          "documentIdentifier" : "BJNR167030997BJNG001500310",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR167030997BJNE008901305",
+              "paragraph" : "§ 7.01",
+              "title" : "Allgemeine Grundsätze für das Stilliegen"
+            },
+            {
+              "documentIdentifier" : "BJNR167030997BJNE009001305",
+              "paragraph" : "§ 7.02",
+              "title" : "Liegeverbot"
+            },
+            {
+              "documentIdentifier" : "BJNR167030997BJNE009101305",
+              "paragraph" : "§ 7.03",
+              "title" : "Ankern und Benutzung von Stelzen oder Ankerpfählen"
+            },
+            {
+              "documentIdentifier" : "BJNR167030997BJNE009201305",
+              "paragraph" : "§ 7.04",
+              "title" : "Festmachen"
+            },
+            {
+              "documentIdentifier" : "BJNR167030997BJNE009300310",
+              "paragraph" : "§ 7.05",
+              "title" : "Liegestellen"
+            },
+            {
+              "documentIdentifier" : "BJNR167030997BJNE009401126",
+              "paragraph" : "§ 7.06",
+              "title" : "Besondere Liegestellen"
+            },
+            {
+              "documentIdentifier" : "BJNR167030997BJNE009503126",
+              "paragraph" : "§ 7.07",
+              "title" : "Mindestabstände bei Beförderung bestimmter gefährlicher Güter beim Stillliegen"
+            },
+            {
+              "documentIdentifier" : "BJNR167030997BJNE009603305",
+              "paragraph" : "§ 7.08",
+              "title" : "Wache und Aufsicht"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              7
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Regeln für das Stilliegen"
+        },
+        {
+          "documentIdentifier" : "BJNR167030997BJNG001600310",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR167030997BJNE009702305",
+              "paragraph" : "§ 8.01",
+              "title" : "Höchstabmessungen der Fahrzeuge und Verbände"
+            },
+            {
+              "documentIdentifier" : "BJNR167030997BJNE009800310",
+              "paragraph" : "§ 8.01a",
+              "title" : "Fahrgeschwindigkeit"
+            },
+            {
+              "documentIdentifier" : "BJNR167030997BJNE009900310",
+              "paragraph" : "§ 8.02",
+              "title" : "Geschleppte und schleppende Schubverbände"
+            },
+            {
+              "documentIdentifier" : "BJNR167030997BJNE010000310",
+              "paragraph" : "§ 8.03",
+              "title" : "Schubverbände, die andere Fahrzeuge als Schubleichter\nmitführen"
+            },
+            {
+              "documentIdentifier" : "BJNR167030997BJNE010100310",
+              "paragraph" : "§ 8.04",
+              "title" : "Schubverbände, die Trägerschiffsleichter mitführen"
+            },
+            {
+              "documentIdentifier" : "BJNR167030997BJNE010200310",
+              "paragraph" : "§ 8.05",
+              "title" : "Fortbewegung von Schubleichtern außerhalb eines\nSchubverbandes"
+            },
+            {
+              "documentIdentifier" : "BJNR167030997BJNE010301305",
+              "paragraph" : "§ 8.06",
+              "title" : "Kupplungen der Schubverbände"
+            },
+            {
+              "documentIdentifier" : "BJNR167030997BJNE010402305",
+              "paragraph" : "§ 8.07",
+              "title" : "Sprechverbindung auf Verbänden sowie Fahrzeugen, deren Länge 110,00 m überschreitet"
+            },
+            {
+              "documentIdentifier" : "BJNR167030997BJNE010500310",
+              "paragraph" : "§ 8.08",
+              "title" : "Begehbarkeit der Schubverbände"
+            },
+            {
+              "documentIdentifier" : "BJNR167030997BJNE010701308",
+              "paragraph" : "§ 8.10",
+              "title" : "Bleib-weg-Signal"
+            },
+            {
+              "documentIdentifier" : "BJNR167030997BJNE010801305",
+              "paragraph" : "§ 8.11",
+              "title" : "Sicherheit an Bord von Fahrzeugen, die für die Beförderung und Übernachtung von mehr als 12 Fahrgästen zugelassen sind"
+            },
+            {
+              "documentIdentifier" : "BJNR167030997BJNE014600305",
+              "paragraph" : "§ 8.12",
+              "title" : "Sicherheit an Bord von Fahrzeugen, die Flüssigerdgas (LNG) als Brennstoff nutzen"
+            },
+            {
+              "documentIdentifier" : "BJNR167030997BJNE010902305",
+              "paragraph" : "§ 8.13",
+              "title" : "Anlegestellen für Fahrgastschiffe"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              8
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Zusatzbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR167030997BJNG001700310",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR167030997BJNE011000310",
+              "paragraph" : "§ 9.01",
+              "title" : "Fahrbeschränkungen"
+            },
+            {
+              "documentIdentifier" : "BJNR167030997BJNE011101305",
+              "paragraph" : "§ 9.02",
+              "title" : "Durchfahrt durch die Schleuse Metz außerhalb der Betriebszeiten"
+            },
+            {
+              "documentIdentifier" : "BJNR167030997BJNE011201305",
+              "paragraph" : "§ 9.03",
+              "title" : "Verkehrsregelung im Unterkanal der Koblenzer Schleusen"
+            },
+            {
+              "documentIdentifier" : "BJNR167030997BJNE011301310",
+              "paragraph" : "§ 9.04",
+              "title" : "Fahrt von Schubverbänden in der Moselmündung"
+            },
+            {
+              "documentIdentifier" : "BJNR167030997BJNE011402305",
+              "paragraph" : "§ 9.05",
+              "title" : "Meldepflicht"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              9
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Besondere Regeln für die Fahrt und das Stilliegen"
+        },
+        {
+          "documentIdentifier" : "BJNR167030997BJNG001800310",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR167030997BJNE011500310",
+              "paragraph" : "§ 10.01",
+              "title" : "Hochwassermarken"
+            },
+            {
+              "documentIdentifier" : "BJNR167030997BJNE011601308",
+              "paragraph" : "§ 10.02",
+              "title" : "Regeln für die Fahrt, wenn die Hochwassermarken erreicht\noder überschritten sind"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              10
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Beschränkung der Schiffahrt bei Hochwasser"
+        }
+      ],
+      "title" : "Auf der gesamten internationalen Moselstrecke anwendbare Bestimmungen"
+    },
+    {
+      "documentIdentifier" : "BJNR167030997BJNG001900310",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR167030997BJNG002001305",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR167030997BJNE011702305",
+              "paragraph" : "§ 11.01",
+              "title" : "Begriffsbestimmungen und Anwendung"
+            },
+            {
+              "documentIdentifier" : "BJNR167030997BJNE011801305",
+              "paragraph" : "§ 11.02",
+              "title" : "Allgemeine Sorgfaltspflicht"
+            },
+            {
+              "documentIdentifier" : "BJNR167030997BJNE011901305",
+              "paragraph" : "§ 11.03",
+              "title" : "Verbot der Einbringung und Einleitung"
+            },
+            {
+              "documentIdentifier" : "BJNR167030997BJNE012001305",
+              "paragraph" : "§ 11.04",
+              "title" : "Sammlung und Behandlung der Abfälle an Bord"
+            },
+            {
+              "documentIdentifier" : "BJNR167030997BJNE012101305",
+              "paragraph" : "§ 11.05",
+              "title" : "Ölkontrollbuch, Abgabe an Annahmestellen"
+            },
+            {
+              "documentIdentifier" : "BJNR167030997BJNE012204305",
+              "paragraph" : "§ 11.06",
+              "title" : "Sorgfaltspflicht beim Bunkern"
+            },
+            {
+              "documentIdentifier" : "BJNR167030997BJNE014700305",
+              "paragraph" : "§ 11.07",
+              "title" : "Sorgfaltspflicht beim Bunkern von Flüssigerdgas (LNG)"
+            },
+            {
+              "documentIdentifier" : "BJNR167030997BJNE012302305",
+              "paragraph" : "§ 11.08",
+              "title" : "Sammlung, Abgabe und Annahme von Abfällen aus dem Ladungsbereich"
+            },
+            {
+              "documentIdentifier" : "BJNR167030997BJNE012502305",
+              "paragraph" : "§ 11.09",
+              "title" : "Anstrich und Außenreinigung der Fahrzeuge"
+            },
+            {
+              "documentIdentifier" : "BJNR167030997BJNE012805305",
+              "paragraph" : "Anlage 3",
+              "title" : "Bezeichnung der Fahrzeuge"
+            },
+            {
+              "documentIdentifier" : "BJNR167030997BJNE013101308",
+              "paragraph" : "Anlage 6",
+              "title" : "Schallzeichen"
+            },
+            {
+              "documentIdentifier" : "BJNR167030997BJNE013208126",
+              "paragraph" : "Anlage 7",
+              "title" : "Schiffahrtszeichen"
+            },
+            {
+              "documentIdentifier" : "BJNR167030997BJNE013303305",
+              "paragraph" : "Anlage 8",
+              "title" : "Bezeichnung der Wasserstraße"
+            },
+            {
+              "documentIdentifier" : "BJNR167030997BJNE014400305",
+              "paragraph" : "Anlage 11",
+              "title" : "Daten, die in das Inland AIS Gerät einzugeben sind: Erläuterungen des „Navigationsstatus“ und des „Bezugspunktes der Positionsinformation auf dem Fahrzeug“"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              11
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Gewässerschutz und Entsorgung von Schiffsabfällen"
+        }
+      ],
+      "title" : "Umweltbestimmungen"
+    }
+  ]
+}

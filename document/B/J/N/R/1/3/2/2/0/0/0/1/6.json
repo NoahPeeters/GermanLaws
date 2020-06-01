@@ -1,0 +1,330 @@
+{
+  "documentIdentifier" : "BJNR132200016",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR132200016BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR132200016BJNE000300000",
+          "paragraph" : "§ 1",
+          "title" : "Diplomstudium"
+        },
+        {
+          "documentIdentifier" : "BJNR132200016BJNE000400000",
+          "paragraph" : "§ 2",
+          "title" : "Ziele des Studiums"
+        },
+        {
+          "documentIdentifier" : "BJNR132200016BJNE000501360",
+          "paragraph" : "§ 3",
+          "title" : "Dauer des Studiums, Laufbahnbefähigung, Diplom"
+        },
+        {
+          "documentIdentifier" : "BJNR132200016BJNE000601360",
+          "paragraph" : "§ 4",
+          "title" : "Einstellungsbehörden, Ausbildungsbehörden, Dienstaufsicht"
+        },
+        {
+          "documentIdentifier" : "BJNR132200016BJNE000701360",
+          "paragraph" : "§ 5",
+          "title" : "Nachteilsausgleich im Auswahlverfahren, bei Leistungstests und Prüfungen"
+        },
+        {
+          "documentIdentifier" : "BJNR132200016BJNE000801360",
+          "paragraph" : "§ 6",
+          "title" : "Bewertung der Leistungen"
+        },
+        {
+          "documentIdentifier" : "BJNR132200016BJNE000901360",
+          "paragraph" : "§ 7",
+          "title" : "Fernbleiben und Rücktritt"
+        },
+        {
+          "documentIdentifier" : "BJNR132200016BJNE001001360",
+          "paragraph" : "§ 8",
+          "title" : "Täuschung und Ordnungsverstoß"
+        },
+        {
+          "documentIdentifier" : "BJNR132200016BJNE001100000",
+          "paragraph" : "§ 9",
+          "title" : "Erholungsurlaub"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeines"
+    },
+    {
+      "documentIdentifier" : "BJNR132200016BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR132200016BJNE001201360",
+          "paragraph" : "§ 10",
+          "title" : "Zulassung zum Auswahlverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR132200016BJNE001301360",
+          "paragraph" : "§ 11",
+          "title" : "Auswahlkommission"
+        },
+        {
+          "documentIdentifier" : "BJNR132200016BJNE001401360",
+          "paragraph" : "§ 12",
+          "title" : "Auswahlverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR132200016BJNE001501360",
+          "paragraph" : "§ 13",
+          "title" : "Schriftlicher Teil des Auswahlverfahrens"
+        },
+        {
+          "documentIdentifier" : "BJNR132200016BJNE001601360",
+          "paragraph" : "§ 14",
+          "title" : "Zulassung zum mündlichen Teil des Auswahlverfahrens"
+        },
+        {
+          "documentIdentifier" : "BJNR132200016BJNE001701360",
+          "paragraph" : "§ 15",
+          "title" : "Mündlicher Teil des Auswahlverfahrens"
+        },
+        {
+          "documentIdentifier" : "BJNR132200016BJNE001801360",
+          "paragraph" : "§ 16",
+          "title" : "Gesamtergebnis des Auswahlverfahrens"
+        },
+        {
+          "documentIdentifier" : "BJNR132200016BJNE001900000",
+          "paragraph" : "§ 17",
+          "title" : "Einstellung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Auswahlverfahren und Einstellung"
+    },
+    {
+      "documentIdentifier" : "BJNR132200016BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR132200016BJNE002000000",
+          "paragraph" : "§ 18",
+          "title" : "Aufbau des Studiums"
+        },
+        {
+          "documentIdentifier" : "BJNR132200016BJNE002101360",
+          "paragraph" : "§ 19",
+          "title" : "Studienplan oder Modulhandbuch, Ausbildungsrahmenplan"
+        },
+        {
+          "documentIdentifier" : "BJNR132200016BJNE002201360",
+          "paragraph" : "§ 20",
+          "title" : "Ausbildungsleitung, Ausbildende"
+        },
+        {
+          "documentIdentifier" : "BJNR132200016BJNE002301360",
+          "paragraph" : "§ 21",
+          "title" : "Ausbildungsakte"
+        },
+        {
+          "documentIdentifier" : "BJNR132200016BJNE002401360",
+          "paragraph" : "§ 22",
+          "title" : "Leistungstests"
+        },
+        {
+          "documentIdentifier" : "BJNR132200016BJNE002500000",
+          "paragraph" : "§ 23",
+          "title" : "Klausuren"
+        },
+        {
+          "documentIdentifier" : "BJNR132200016BJNE002600000",
+          "paragraph" : "§ 24",
+          "title" : "Prüfende"
+        },
+        {
+          "documentIdentifier" : "BJNR132200016BJNE002700000",
+          "paragraph" : "§ 25",
+          "title" : "Inhalt des Grundstudiums"
+        },
+        {
+          "documentIdentifier" : "BJNR132200016BJNE002800000",
+          "paragraph" : "§ 26",
+          "title" : "Inhalt des Hauptstudiums"
+        },
+        {
+          "documentIdentifier" : "BJNR132200016BJNE002901360",
+          "paragraph" : "§ 27",
+          "title" : "Inhalt der berufspraktischen Studienzeit"
+        },
+        {
+          "documentIdentifier" : "BJNR132200016BJNE003001360",
+          "paragraph" : "§ 28",
+          "title" : "Leistungstests während des Grundstudiums"
+        },
+        {
+          "documentIdentifier" : "BJNR132200016BJNE003101360",
+          "paragraph" : "§ 29",
+          "title" : "Leistungstests während des Hauptstudiums"
+        },
+        {
+          "documentIdentifier" : "BJNR132200016BJNE003200000",
+          "paragraph" : "§ 30",
+          "title" : "Englischtest während des Hauptstudiums, Zertifikat"
+        },
+        {
+          "documentIdentifier" : "BJNR132200016BJNE003300000",
+          "paragraph" : "§ 31",
+          "title" : "Diplomarbeit"
+        },
+        {
+          "documentIdentifier" : "BJNR132200016BJNE003400000",
+          "paragraph" : "§ 32",
+          "title" : "Schriftliche Bestätigungen für Leistungstests des Grund- und des Hauptstudiums"
+        },
+        {
+          "documentIdentifier" : "BJNR132200016BJNE003500000",
+          "paragraph" : "§ 33",
+          "title" : "Rangpunktzahl des Hauptstudiums und Zeugnis über das Hauptstudium"
+        },
+        {
+          "documentIdentifier" : "BJNR132200016BJNE003601360",
+          "paragraph" : "§ 34",
+          "title" : "Leistungstests während der berufspraktischen Studienzeit, schriftliche Bewertungen, Zeugnis über die berufspraktische Studienzeit"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Studienordnung"
+    },
+    {
+      "documentIdentifier" : "BJNR132200016BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR132200016BJNE003700000",
+          "paragraph" : "§ 35",
+          "title" : "Laufbahnprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR132200016BJNE003800000",
+          "paragraph" : "§ 36",
+          "title" : "Prüfungsamt"
+        },
+        {
+          "documentIdentifier" : "BJNR132200016BJNE003901360",
+          "paragraph" : "§ 37",
+          "title" : "Prüfungsakte, Einsichtnahme"
+        },
+        {
+          "documentIdentifier" : "BJNR132200016BJNE004001360",
+          "paragraph" : "§ 38",
+          "title" : "Prüfungskommissionen"
+        },
+        {
+          "documentIdentifier" : "BJNR132200016BJNE004100000",
+          "paragraph" : "§ 39",
+          "title" : "Prüfungsgrundsätze"
+        },
+        {
+          "documentIdentifier" : "BJNR132200016BJNE004201360",
+          "paragraph" : "§ 40",
+          "title" : "Zwischenprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR132200016BJNE004300000",
+          "paragraph" : "§ 41",
+          "title" : "Bescheid, Zwischenprüfungszeugnis"
+        },
+        {
+          "documentIdentifier" : "BJNR132200016BJNE004400000",
+          "paragraph" : "§ 42",
+          "title" : "Abschlussprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR132200016BJNE004501360",
+          "paragraph" : "§ 43",
+          "title" : "Schriftliche Abschlussprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR132200016BJNE004600000",
+          "paragraph" : "§ 44",
+          "title" : "Zulassung zur mündlichen Abschlussprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR132200016BJNE004700000",
+          "paragraph" : "§ 45",
+          "title" : "Mündliche Abschlussprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR132200016BJNE004801360",
+          "paragraph" : "§ 46",
+          "title" : "Bestehen der Laufbahnprüfung, Abschlussnote"
+        },
+        {
+          "documentIdentifier" : "BJNR132200016BJNE004900000",
+          "paragraph" : "§ 47",
+          "title" : "Abschlusszeugnis, Diplomurkunde"
+        },
+        {
+          "documentIdentifier" : "BJNR132200016BJNE005001360",
+          "paragraph" : "§ 48",
+          "title" : "Wiederholung von Prüfungen"
+        },
+        {
+          "documentIdentifier" : "BJNR132200016BJNE005100000",
+          "paragraph" : "§ 49",
+          "title" : "Anerkennung von Studien- und Prüfungsleistungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Prüfungen"
+    },
+    {
+      "documentIdentifier" : "BJNR132200016BJNG000500000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR132200016BJNE005201360",
+          "paragraph" : "§ 50",
+          "title" : "Übergangsvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR132200016BJNE005300000",
+          "paragraph" : "§ 51",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussvorschriften"
+    }
+  ]
+}

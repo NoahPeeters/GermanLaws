@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR055400002",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR055400002Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR055400002BJNE000200305",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR055400002BJNE000301119",
+          "paragraph" : "§ 2",
+          "title" : "Anzeige von Unfällen"
+        },
+        {
+          "documentIdentifier" : "BJNR055400002BJNE000401119",
+          "paragraph" : "§ 3",
+          "title" : "Anzeige von Berufskrankheiten"
+        },
+        {
+          "documentIdentifier" : "BJNR055400002BJNE000502308",
+          "paragraph" : "§ 4",
+          "title" : "Gestaltung der Vordrucke, Erläuterungen, Hinweise"
+        },
+        {
+          "documentIdentifier" : "BJNR055400002BJNE000601119",
+          "paragraph" : "§ 5",
+          "title" : "Anzeige durch Datenübertragung"
+        },
+        {
+          "documentIdentifier" : "BJNR055400002BJNE000700305",
+          "paragraph" : "§ 6",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

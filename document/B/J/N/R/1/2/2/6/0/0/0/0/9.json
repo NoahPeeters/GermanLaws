@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR122600009",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR122600009Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR122600009BJNE000200000",
+          "paragraph" : "Art 1",
+          "title" : "Anwendung der Bestimmungen des Beschlusses des Rates über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems der zweiten Generation (SIS II)"
+        },
+        {
+          "documentIdentifier" : "BJNR122600009BJNE000400000",
+          "paragraph" : "Art 7",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

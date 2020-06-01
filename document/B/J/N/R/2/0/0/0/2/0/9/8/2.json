@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR200020982",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR200020982Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR200020982BJNE000803310",
+          "paragraph" : "Art 2a",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR200020982BJNE000404377",
+          "paragraph" : "Art 4",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

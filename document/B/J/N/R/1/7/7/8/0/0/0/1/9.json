@@ -1,0 +1,59 @@
+{
+  "documentIdentifier" : "BJNR177800019",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR177800019Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR177800019BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Speicherung von Daten zu Personen, die tätig oder scheinbar tätig sind"
+        },
+        {
+          "documentIdentifier" : "BJNR177800019BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Speicherung von Daten zu Arbeitgebern, Entleihern und Auftraggebern"
+        },
+        {
+          "documentIdentifier" : "BJNR177800019BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Speicherung von Daten zu Unternehmen"
+        },
+        {
+          "documentIdentifier" : "BJNR177800019BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Speicherung von Daten aus Hinweisen"
+        },
+        {
+          "documentIdentifier" : "BJNR177800019BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Speicherung von weiteren Ortsangaben"
+        },
+        {
+          "documentIdentifier" : "BJNR177800019BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Speicherung von Daten zu Beschuldigten und Betroffenen"
+        },
+        {
+          "documentIdentifier" : "BJNR177800019BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Speicherung von Daten zu Zeugen"
+        },
+        {
+          "documentIdentifier" : "BJNR177800019BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

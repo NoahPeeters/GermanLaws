@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR253800005",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR253800005Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR253800005BJNE000203116",
+          "paragraph" : "§ 1",
+          "title" : "Vorschlagsrecht"
+        },
+        {
+          "documentIdentifier" : "BJNR253800005BJNE000301116",
+          "paragraph" : "§ 2",
+          "title" : "Gutachtliche Stellungnahmen"
+        },
+        {
+          "documentIdentifier" : "BJNR253800005BJNE000401310",
+          "paragraph" : "§ 3",
+          "title" : "Verfahrensgrundsätze"
+        },
+        {
+          "documentIdentifier" : "BJNR253800005BJNE000501310",
+          "paragraph" : "§ 4",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR253800005BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Widerruf der Unabkömmlichstellung"
+        },
+        {
+          "documentIdentifier" : "BJNR253800005BJNE000701310",
+          "paragraph" : "§ 6",
+          "title" : "Ausgleich von Meinungsverschiedenheiten"
+        },
+        {
+          "documentIdentifier" : "BJNR253800005BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

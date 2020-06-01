@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR284800019",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR284800019Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR284800019BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Durchschnittsentgelte in der Rentenversicherung"
+        },
+        {
+          "documentIdentifier" : "BJNR284800019BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Bezugsgrößen in der Sozialversicherung"
+        },
+        {
+          "documentIdentifier" : "BJNR284800019BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Beitragsbemessungsgrenzen in der Rentenversicherung"
+        },
+        {
+          "documentIdentifier" : "BJNR284800019BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Jahresarbeitsentgeltgrenzen in der Krankenversicherung"
+        },
+        {
+          "documentIdentifier" : "BJNR284800019BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Wert zur Umrechnung der Beitragsbemessungsgrundlagen des Beitrittsgebiets"
+        },
+        {
+          "documentIdentifier" : "BJNR284800019BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

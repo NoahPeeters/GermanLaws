@@ -1,0 +1,202 @@
+{
+  "documentIdentifier" : "BJNR000370955",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR000370955BJNG001100307",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Zahnärztliche Ausbildung"
+    },
+    {
+      "documentIdentifier" : "BJNR000370955BJNG000200319",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR000370955BJNG000300319",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Allgemeine Bestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR000370955BJNG000400319",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Naturwissenschaftliche Vorprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR000370955BJNG000500319",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Zahnärztliche Vorprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR000370955BJNG000600319",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Zahnärztliche Prüfung"
+        }
+      ],
+      "title" : "Prüfungsbestimmungen"
+    },
+    {
+      "documentIdentifier" : "BJNR000370955BJNG000702116",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Erteilung der Approbation als Zahnarzt"
+    },
+    {
+      "documentIdentifier" : "BJNR000370955BJNG000800319",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Ausnahmebewilligung"
+    },
+    {
+      "documentIdentifier" : "BJNR000370955BJNG000900319",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Sonderbestimmungen"
+    },
+    {
+      "documentIdentifier" : "BJNR000370955BJNG001000319",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR000370955BJNE007401301",
+          "paragraph" : "§ 63",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR000370955BJNE007700319",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 19 Abs. 4)"
+        },
+        {
+          "documentIdentifier" : "BJNR000370955BJNE007800319",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 24 Abs. 1 S. 1)"
+        },
+        {
+          "documentIdentifier" : "BJNR000370955BJNE007901310",
+          "paragraph" : "Anlage 2a",
+          "title" : "(zu § 24 Abs. 1 letzter Satz)"
+        },
+        {
+          "documentIdentifier" : "BJNR000370955BJNE008000319",
+          "paragraph" : "Anlage 3",
+          "title" : "(zu § 31 Abs. 2)"
+        },
+        {
+          "documentIdentifier" : "BJNR000370955BJNE008101310",
+          "paragraph" : "Anlage 3a",
+          "title" : "(zu § 31 Abs. 2)"
+        },
+        {
+          "documentIdentifier" : "BJNR000370955BJNE008200319",
+          "paragraph" : "Anlage 4",
+          "title" : "(zu § 36 Abs. 2)"
+        },
+        {
+          "documentIdentifier" : "BJNR000370955BJNE008300319",
+          "paragraph" : "Anlage 5",
+          "title" : "(zu § 58 Abs 3)"
+        },
+        {
+          "documentIdentifier" : "BJNR000370955BJNE008401307",
+          "paragraph" : "Anlage 6",
+          "title" : "(zu § 59 Abs 6)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schluß- und Übergangsbestimmungen"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR171100008",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR171100008Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR171100008BJNE000201360",
+          "paragraph" : "§ 1",
+          "title" : "Zuständigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR171100008BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

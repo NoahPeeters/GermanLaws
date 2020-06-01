@@ -1,0 +1,64 @@
+{
+  "documentIdentifier" : "BJNR365200002",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR365200002Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR365200002BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Errichtung des Fonds"
+        },
+        {
+          "documentIdentifier" : "BJNR365200002BJNE000201301",
+          "paragraph" : "§ 2",
+          "title" : "Zweck und Mittelverwendung des Fonds"
+        },
+        {
+          "documentIdentifier" : "BJNR365200002BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Stellung im Rechtsverkehr"
+        },
+        {
+          "documentIdentifier" : "BJNR365200002BJNE000401301",
+          "paragraph" : "§ 4",
+          "title" : "Vermögen des Fonds und Finanzierung"
+        },
+        {
+          "documentIdentifier" : "BJNR365200002BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Wirtschaftsplan"
+        },
+        {
+          "documentIdentifier" : "BJNR365200002BJNE000600000",
+          "paragraph" : "§ 6",
+          "title" : "Jahresrechnung"
+        },
+        {
+          "documentIdentifier" : "BJNR365200002BJNE000700000",
+          "paragraph" : "§ 7",
+          "title" : "Verwaltungskosten"
+        },
+        {
+          "documentIdentifier" : "BJNR365200002BJNE000801160",
+          "paragraph" : "§ 8",
+          "title" : "Auflösung des Fonds und anschließende Mittelverwendung"
+        },
+        {
+          "documentIdentifier" : "BJNR365200002BJNE000900301",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 8 Abs. 1 Satz 4)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

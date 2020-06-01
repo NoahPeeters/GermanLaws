@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR053010001",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR053010001Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR053010001BJNE000100310",
+          "paragraph" : "§ 1",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR053010001BJNE000200310",
+          "paragraph" : "§ 2",
+          "title" : "Einfuhr- und Verbringungsverbot"
+        },
+        {
+          "documentIdentifier" : "BJNR053010001BJNE000300310",
+          "paragraph" : "§ 3",
+          "title" : "Überwachung"
+        },
+        {
+          "documentIdentifier" : "BJNR053010001BJNE000400310",
+          "paragraph" : "§ 4",
+          "title" : "Mitwirkung der Zollstellen"
+        },
+        {
+          "documentIdentifier" : "BJNR053010001BJNE000500310",
+          "paragraph" : "§ 5",
+          "title" : "Strafvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR053010001BJNE000601305",
+          "paragraph" : "§ 6",
+          "title" : "Bußgeldvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR053010001BJNE000700310",
+          "paragraph" : "§ 7",
+          "title" : "Einziehung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

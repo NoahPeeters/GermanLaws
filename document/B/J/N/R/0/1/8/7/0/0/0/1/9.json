@@ -1,0 +1,152 @@
+{
+  "documentIdentifier" : "BJNR018700019",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR018700019BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR018700019BJNE000300000",
+          "paragraph" : "§ 1",
+          "title" : "Eintragung von Amtspersonen"
+        },
+        {
+          "documentIdentifier" : "BJNR018700019BJNE000400000",
+          "paragraph" : "§ 2",
+          "title" : "Angaben zu den Amtspersonen"
+        },
+        {
+          "documentIdentifier" : "BJNR018700019BJNE000500000",
+          "paragraph" : "§ 3",
+          "title" : "Angaben zu den amtlichen Tätigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR018700019BJNE000600000",
+          "paragraph" : "§ 4",
+          "title" : "Frühere Amtspersonen"
+        },
+        {
+          "documentIdentifier" : "BJNR018700019BJNE000700000",
+          "paragraph" : "§ 5",
+          "title" : "Notarvertreter"
+        },
+        {
+          "documentIdentifier" : "BJNR018700019BJNE000800000",
+          "paragraph" : "§ 6",
+          "title" : "Eintragungen"
+        },
+        {
+          "documentIdentifier" : "BJNR018700019BJNE000900000",
+          "paragraph" : "§ 7",
+          "title" : "Berichtigungen"
+        },
+        {
+          "documentIdentifier" : "BJNR018700019BJNE001000000",
+          "paragraph" : "§ 8",
+          "title" : "Löschungen"
+        },
+        {
+          "documentIdentifier" : "BJNR018700019BJNE001100000",
+          "paragraph" : "§ 9",
+          "title" : "Einsichtnahme"
+        },
+        {
+          "documentIdentifier" : "BJNR018700019BJNE001200000",
+          "paragraph" : "§ 10",
+          "title" : "Suchfunktion"
+        },
+        {
+          "documentIdentifier" : "BJNR018700019BJNE001300000",
+          "paragraph" : "§ 11",
+          "title" : "Einsehbarkeit und Datensicherheit"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Notarverzeichnis"
+    },
+    {
+      "documentIdentifier" : "BJNR018700019BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR018700019BJNE001400000",
+          "paragraph" : "§ 12",
+          "title" : "Besonderes elektronisches Notarpostfach"
+        },
+        {
+          "documentIdentifier" : "BJNR018700019BJNE001500000",
+          "paragraph" : "§ 13",
+          "title" : "Führung der Postfächer"
+        },
+        {
+          "documentIdentifier" : "BJNR018700019BJNE001600000",
+          "paragraph" : "§ 14",
+          "title" : "Einrichtung und Aktivierung eines Postfachs"
+        },
+        {
+          "documentIdentifier" : "BJNR018700019BJNE001700000",
+          "paragraph" : "§ 15",
+          "title" : "Weitere Zugangsberechtigungen zum Postfach"
+        },
+        {
+          "documentIdentifier" : "BJNR018700019BJNE001800000",
+          "paragraph" : "§ 16",
+          "title" : "Zugang zum Postfach"
+        },
+        {
+          "documentIdentifier" : "BJNR018700019BJNE001900000",
+          "paragraph" : "§ 17",
+          "title" : "Automatisches Löschen von Nachrichten"
+        },
+        {
+          "documentIdentifier" : "BJNR018700019BJNE002000000",
+          "paragraph" : "§ 18",
+          "title" : "Sperrung des Postfachs"
+        },
+        {
+          "documentIdentifier" : "BJNR018700019BJNE002100000",
+          "paragraph" : "§ 19",
+          "title" : "Vorläufige Amtsenthebung"
+        },
+        {
+          "documentIdentifier" : "BJNR018700019BJNE002200000",
+          "paragraph" : "§ 20",
+          "title" : "Löschung des Postfachs"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Besonderes elektronisches Notarpostfach"
+    },
+    {
+      "documentIdentifier" : "BJNR018700019BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR018700019BJNE002300000",
+          "paragraph" : "§ 21",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussvorschriften"
+    }
+  ]
+}

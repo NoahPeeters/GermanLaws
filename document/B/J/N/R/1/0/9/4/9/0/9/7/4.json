@@ -1,0 +1,210 @@
+{
+  "documentIdentifier" : "BJNR109490974",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR109490974BJNG000102309",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR109490974BJNE000603309",
+          "paragraph" : "§ 1",
+          "title" : "Unbeschränkte Steuerpflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR109490974BJNE000705301",
+          "paragraph" : "§ 2",
+          "title" : "Beschränkte Steuerpflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR109490974BJNE000823301",
+          "paragraph" : "§ 3",
+          "title" : "Befreiungen"
+        },
+        {
+          "documentIdentifier" : "BJNR109490974BJNE000902309",
+          "paragraph" : "§ 4",
+          "title" : "Bemessungsgrundlage"
+        },
+        {
+          "documentIdentifier" : "BJNR109490974BJNE001002309",
+          "paragraph" : "§ 5",
+          "title" : "Stichtag für die Festsetzung der Vermögensteuer, Entstehung\nder Steuer"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Steuerpflicht, Bemessungsgrundlage"
+    },
+    {
+      "documentIdentifier" : "BJNR109490974BJNG000202309",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR109490974BJNE001106301",
+          "paragraph" : "§ 6",
+          "title" : "Freibeträge für natürliche Personen"
+        },
+        {
+          "documentIdentifier" : "BJNR109490974BJNE001202309",
+          "paragraph" : "§ 7",
+          "title" : "Freibetrag für Erwerbs- und Wirtschaftsgenossenschaften\nsowie Vereine, die Land- und Forstwirtschaft betreiben"
+        },
+        {
+          "documentIdentifier" : "BJNR109490974BJNE001302309",
+          "paragraph" : "§ 8",
+          "title" : "Besteuerungsgrenze bei Körperschaften und bei beschränkt\nSteuerpflichtigen"
+        },
+        {
+          "documentIdentifier" : "BJNR109490974BJNE001402309",
+          "paragraph" : "§ 9",
+          "title" : "Steuerpflichtiges Vermögen"
+        },
+        {
+          "documentIdentifier" : "BJNR109490974BJNE001504301",
+          "paragraph" : "§ 10",
+          "title" : "Steuersatz"
+        },
+        {
+          "documentIdentifier" : "BJNR109490974BJNE001604301",
+          "paragraph" : "§ 11",
+          "title" : "Anrechnung ausländischer Steuern"
+        },
+        {
+          "documentIdentifier" : "BJNR109490974BJNE001707301",
+          "paragraph" : "§ 12",
+          "title" : "Steuerermäßigung bei Auslandsvermögen"
+        },
+        {
+          "documentIdentifier" : "BJNR109490974BJNE001805301",
+          "paragraph" : "§ 13",
+          "title" : "Pauschbesteuerung bei beschränkter Steuerpflicht"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Steuerberechnung"
+    },
+    {
+      "documentIdentifier" : "BJNR109490974BJNG000302309",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR109490974BJNE001904301",
+          "paragraph" : "§ 14",
+          "title" : "Zusammenveranlagung"
+        },
+        {
+          "documentIdentifier" : "BJNR109490974BJNE002002309",
+          "paragraph" : "§ 15",
+          "title" : "Hauptveranlagung"
+        },
+        {
+          "documentIdentifier" : "BJNR109490974BJNE002104301",
+          "paragraph" : "§ 16",
+          "title" : "Neuveranlagung"
+        },
+        {
+          "documentIdentifier" : "BJNR109490974BJNE002202309",
+          "paragraph" : "§ 17",
+          "title" : "Nachveranlagung"
+        },
+        {
+          "documentIdentifier" : "BJNR109490974BJNE002302309",
+          "paragraph" : "§ 18",
+          "title" : "Aufhebung der Veranlagung"
+        },
+        {
+          "documentIdentifier" : "BJNR109490974BJNE002404301",
+          "paragraph" : "§ 19",
+          "title" : "Pflicht zur Abgabe von Vermögensteuererklärungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Veranlagung"
+    },
+    {
+      "documentIdentifier" : "BJNR109490974BJNG000402309",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR109490974BJNE002502309",
+          "paragraph" : "§ 20",
+          "title" : "Entrichtung der Jahressteuer"
+        },
+        {
+          "documentIdentifier" : "BJNR109490974BJNE002602309",
+          "paragraph" : "§ 21",
+          "title" : "Vorauszahlungen"
+        },
+        {
+          "documentIdentifier" : "BJNR109490974BJNE002702309",
+          "paragraph" : "§ 22",
+          "title" : "Abrechnung über die Vorauszahlungen"
+        },
+        {
+          "documentIdentifier" : "BJNR109490974BJNE002802309",
+          "paragraph" : "§ 23",
+          "title" : "Nachentrichtung der Steuer"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Steuerentrichtung"
+    },
+    {
+      "documentIdentifier" : "BJNR109490974BJNG000502309",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR109490974BJNE002904301",
+          "paragraph" : "§ 24",
+          "title" : "Neufassung"
+        },
+        {
+          "documentIdentifier" : "BJNR109490974BJNE003300301",
+          "paragraph" : "§ 24b",
+          "title" : "Verzicht auf die Vermögensteuer der umgewandelten ehemaligen\nvolkseigenen Kombinate, Betriebe und Einrichtungen für das zweite\nHalbjahr 1990"
+        },
+        {
+          "documentIdentifier" : "BJNR109490974BJNE003403301",
+          "paragraph" : "§ 24c",
+          "title" : "Zeitlich befristete Sondervorschrift für die Besteuerung nach\ndem Vermögen in dem in Artikel 3 des Einigungsvertrages genannten\nGebiet"
+        },
+        {
+          "documentIdentifier" : "BJNR109490974BJNE003022301",
+          "paragraph" : "§ 25",
+          "title" : "Anwendung des Gesetzes"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlußvorschriften"
+    }
+  ]
+}

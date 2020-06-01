@@ -1,0 +1,107 @@
+{
+  "documentIdentifier" : "BJNR192810015",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR192810015BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR192810015BJNE000101116",
+          "paragraph" : "§ 1",
+          "title" : "Kostenschuldner"
+        },
+        {
+          "documentIdentifier" : "BJNR192810015BJNE000201116",
+          "paragraph" : "§ 2",
+          "title" : "Entstehung der Pflicht zur Kostenerstattung"
+        },
+        {
+          "documentIdentifier" : "BJNR192810015BJNE000301116",
+          "paragraph" : "§ 3",
+          "title" : "Umfang der zu erstattenden Kosten; Kostenpauschale"
+        },
+        {
+          "documentIdentifier" : "BJNR192810015BJNE000401116",
+          "paragraph" : "§ 4",
+          "title" : "Fälligkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR192810015BJNE000501116",
+          "paragraph" : "§ 5",
+          "title" : "Vorschusszahlung und Sicherheitsleistung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Kostenerstattung"
+    },
+    {
+      "documentIdentifier" : "BJNR192810015BJNG000401116",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR192810015BJNE000901116",
+          "paragraph" : "§ 6",
+          "title" : "Festsetzungsverjährung"
+        },
+        {
+          "documentIdentifier" : "BJNR192810015BJNE001001116",
+          "paragraph" : "§ 7",
+          "title" : "Zahlungsverjährung"
+        },
+        {
+          "documentIdentifier" : "BJNR192810015BJNE001101116",
+          "paragraph" : "§ 8",
+          "title" : "Unterbrechung der Zahlungsverjährung"
+        },
+        {
+          "documentIdentifier" : "BJNR192810015BJNE001201116",
+          "paragraph" : "§ 9",
+          "title" : "Säumniszuschlag"
+        },
+        {
+          "documentIdentifier" : "BJNR192810015BJNE001301116",
+          "paragraph" : "§ 10",
+          "title" : "Stundung, Niederschlagung und Erlass"
+        },
+        {
+          "documentIdentifier" : "BJNR192810015BJNE001401116",
+          "paragraph" : "§ 11",
+          "title" : "Erstattung überzahlter oder zu Unrecht erhobener Kostenerstattungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Verjährung und Säumniszuschlag"
+    },
+    {
+      "documentIdentifier" : "BJNR192810015BJNG000501116",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR192810015BJNE001501116",
+          "paragraph" : "§ 12",
+          "title" : "Übergangsregelungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übergangsregelungen und Inkrafttreten"
+    }
+  ]
+}

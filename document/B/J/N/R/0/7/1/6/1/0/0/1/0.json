@@ -1,0 +1,74 @@
+{
+  "documentIdentifier" : "BJNR071610010",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR071610010Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR071610010BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Personendaten von Beschuldigten und andere zur Identifizierung geeignete Merkmale"
+        },
+        {
+          "documentIdentifier" : "BJNR071610010BJNE000201116",
+          "paragraph" : "§ 2",
+          "title" : "Weitere personenbezogene Daten von Beschuldigten und personenbezogene Daten von Personen, die einer Straftat verdächtig sind"
+        },
+        {
+          "documentIdentifier" : "BJNR071610010BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Personenbezogene Daten im Sinne des § 8 Absatz 4 Satz 2 des Bundeskriminalamtgesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR071610010BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Personenbezogene Daten sonstiger Personen"
+        },
+        {
+          "documentIdentifier" : "BJNR071610010BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Personenbezogene Daten, die bei der Durchführung erkennungsdienstlicher Maßnahmen erhoben worden sind"
+        },
+        {
+          "documentIdentifier" : "BJNR071610010BJNE000600000",
+          "paragraph" : "§ 6",
+          "title" : "Personenbezogene Daten zur Fahndung und polizeilichen Beobachtung"
+        },
+        {
+          "documentIdentifier" : "BJNR071610010BJNE000700000",
+          "paragraph" : "§ 7",
+          "title" : "Personenbezogene Daten zum Zwecke des Nachweises von Personen, die einer richterlich angeordneten Freiheitsentziehung unterliegen"
+        },
+        {
+          "documentIdentifier" : "BJNR071610010BJNE000800000",
+          "paragraph" : "§ 8",
+          "title" : "Personenbezogene Daten von Vermissten, unbekannten hilflosen Personen und unbekannten Toten"
+        },
+        {
+          "documentIdentifier" : "BJNR071610010BJNE000900000",
+          "paragraph" : "§ 9",
+          "title" : "Dateien des Bundeskriminalamts nach den §§ 8 und 9 des Bundeskriminalamtgesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR071610010BJNE001000000",
+          "paragraph" : "§ 10",
+          "title" : "Speicherung der Daten in den Dateien der Zentralstelle"
+        },
+        {
+          "documentIdentifier" : "BJNR071610010BJNE001101360",
+          "paragraph" : "§ 11",
+          "title" : "Speicherung der Daten in sonstigen Dateien der Zentralstelle"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

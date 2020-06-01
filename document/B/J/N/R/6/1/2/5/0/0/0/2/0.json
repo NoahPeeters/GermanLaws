@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR612500020",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR612500020Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR612500020BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Liquiditätshilfe für Vertragszahnärztinnen und Vertragszahnärzte"
+        },
+        {
+          "documentIdentifier" : "BJNR612500020BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Ausgleichszahlungen an Heilmittelerbringer"
+        },
+        {
+          "documentIdentifier" : "BJNR612500020BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Einrichtungen des Müttergenesungswerks oder gleichartige Einrichtungen"
+        },
+        {
+          "documentIdentifier" : "BJNR612500020BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Zum Verbrauch bestimmte Pflegehilfsmittel nach dem Elften Buch Sozialgesetzbuch"
+        },
+        {
+          "documentIdentifier" : "BJNR612500020BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

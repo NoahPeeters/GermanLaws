@@ -1,0 +1,126 @@
+{
+  "documentIdentifier" : "BJNR292810003",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR292810003BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR292810003BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Inhalt und Wirkung der strafbefreienden Erklärung"
+        },
+        {
+          "documentIdentifier" : "BJNR292810003BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Erklärungsberechtigte Person"
+        },
+        {
+          "documentIdentifier" : "BJNR292810003BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Inhalt, Form und Adressat der strafbefreienden Erklärung"
+        },
+        {
+          "documentIdentifier" : "BJNR292810003BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Umfang der Strafbefreiung"
+        },
+        {
+          "documentIdentifier" : "BJNR292810003BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Strafausschluss in besonderen Fällen"
+        },
+        {
+          "documentIdentifier" : "BJNR292810003BJNE000600000",
+          "paragraph" : "§ 6",
+          "title" : "Steuerordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR292810003BJNE000700000",
+          "paragraph" : "§ 7",
+          "title" : "Ausschluss der Straf- oder Bußgeldbefreiung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Strafbefreiende Erklärung"
+    },
+    {
+      "documentIdentifier" : "BJNR292810003BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR292810003BJNE000800000",
+          "paragraph" : "§ 8",
+          "title" : "Sachlicher Umfang der Abgeltungswirkung"
+        },
+        {
+          "documentIdentifier" : "BJNR292810003BJNE000900000",
+          "paragraph" : "§ 9",
+          "title" : "Persönlicher Umfang der Abgeltungswirkung"
+        },
+        {
+          "documentIdentifier" : "BJNR292810003BJNE001000000",
+          "paragraph" : "§ 10",
+          "title" : "Besondere Vorschriften"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Steuerrechtliche Wirkung der strafbefreienden Erklärung"
+    },
+    {
+      "documentIdentifier" : "BJNR292810003BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR292810003BJNE001100000",
+          "paragraph" : "§ 11",
+          "title" : "Besondere Verfolgungsverjährung"
+        },
+        {
+          "documentIdentifier" : "BJNR292810003BJNE001200000",
+          "paragraph" : "§ 12",
+          "title" : "Besondere Festsetzungsverjährung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Verjährung für Besteuerungszeiträume vor 1993"
+    },
+    {
+      "documentIdentifier" : "BJNR292810003BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR292810003BJNE001300000",
+          "paragraph" : "§ 13",
+          "title" : "Verwendungsbeschränkung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Verwendungsbeschränkung"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "documentIdentifier" : "BJNR159700015",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR159700015BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR159700015BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Dienstgradbezeichnungen"
+        },
+        {
+          "documentIdentifier" : "BJNR159700015BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Vorbehaltene Ernennungen und Entlassungen"
+        },
+        {
+          "documentIdentifier" : "BJNR159700015BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Ausschließliche Zuständigkeit der Dienststellenleitung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeines"
+    },
+    {
+      "documentIdentifier" : "BJNR159700015BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR159700015BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Zuständigkeit des Bundesamtes für das Personalmanagement der Bundeswehr"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Zuständigkeiten für Berufssoldatinnen und Berufssoldaten, Soldatinnen auf Zeit und Soldaten auf Zeit, Soldatinnen und Soldaten, die freiwilligen Wehrdienst nach § 58b des Soldatengesetzes leisten, und Soldatinnen und Soldaten, die in ein Reservewehrdienstverhältnis nach § 4 des Reservistinnen- und Reservistengesetzes berufen sind"
+    },
+    {
+      "documentIdentifier" : "BJNR159700015BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR159700015BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Reservistinnen und Reservisten, Soldatinnen und Soldaten, die nach dem Vierten und Fünften Abschnitt des Soldatengesetzes Wehrdienst leisten"
+        },
+        {
+          "documentIdentifier" : "BJNR159700015BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Soldaten, die nach dem Wehrpflichtgesetz Wehrdienst leisten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Zuständigkeiten für Reservistinnen und Reservisten, Soldatinnen und Soldaten, die nach dem Vierten und Fünften Abschnitt des Soldatengesetzes Wehrdienst leisten und Soldaten, die nach dem Wehrpflichtgesetz Wehrdienst leisten"
+    },
+    {
+      "documentIdentifier" : "BJNR159700015BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR159700015BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Übergangsregelung"
+        },
+        {
+          "documentIdentifier" : "BJNR159700015BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussbestimmungen"
+    }
+  ]
+}

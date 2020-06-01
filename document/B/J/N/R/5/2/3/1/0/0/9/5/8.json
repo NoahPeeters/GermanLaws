@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR523100958",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR523100958BJNG000100326",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "A und B"
+    },
+    {
+      "documentIdentifier" : "BJNR523100958BJNG000200326",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR523100958BJNE000300326",
+          "paragraph" : "(XXXX) I. und II.",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Sonstige Zuständigkeitsvorschriften"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR063010004",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR063010004Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR063010004BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Errichtung des Bundesamtes"
+        },
+        {
+          "documentIdentifier" : "BJNR063010004BJNE000201310",
+          "paragraph" : "§ 2",
+          "title" : "Aufgaben des Bundesamtes"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

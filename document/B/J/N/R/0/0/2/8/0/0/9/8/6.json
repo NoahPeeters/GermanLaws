@@ -1,0 +1,59 @@
+{
+  "documentIdentifier" : "BJNR002800986",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR002800986Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR002800986BJNE000202377",
+          "paragraph" : "§ 1",
+          "title" : "Berechtigter"
+        },
+        {
+          "documentIdentifier" : "BJNR002800986BJNE000300328",
+          "paragraph" : "§ 2",
+          "title" : "Höhe der Bausparsumme"
+        },
+        {
+          "documentIdentifier" : "BJNR002800986BJNE000400328",
+          "paragraph" : "§ 3",
+          "title" : "Rückkehrverpflichtung"
+        },
+        {
+          "documentIdentifier" : "BJNR002800986BJNE000500328",
+          "paragraph" : "§ 4",
+          "title" : "Unverzügliche Rückzahlung des Bauspardarlehens"
+        },
+        {
+          "documentIdentifier" : "BJNR002800986BJNE000601377",
+          "paragraph" : "§ 5",
+          "title" : "Verfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR002800986BJNE000700328",
+          "paragraph" : "§ 6",
+          "title" : "Befristung"
+        },
+        {
+          "documentIdentifier" : "BJNR002800986BJNE000900328",
+          "paragraph" : "§ 9",
+          "title" : "Berlin-Klausel"
+        },
+        {
+          "documentIdentifier" : "BJNR002800986BJNE001000328",
+          "paragraph" : "§ 10",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

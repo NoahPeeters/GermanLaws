@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR012700018",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR012700018Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR012700018BJNE000200000",
+          "paragraph" : "I.",
+          "title" : "Übertragung von Befugnissen für Beamtinnen und Beamte der Bundesagentur für Arbeit"
+        },
+        {
+          "documentIdentifier" : "BJNR012700018BJNE000300000",
+          "paragraph" : "II.",
+          "title" : "Vorbehalt"
+        },
+        {
+          "documentIdentifier" : "BJNR012700018BJNE000400000",
+          "paragraph" : "III.",
+          "title" : "Schlussvorschriften"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

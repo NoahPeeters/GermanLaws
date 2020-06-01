@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR009130986",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR009130986Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR009130986BJNE000102308",
+          "paragraph" : "§ 1",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR009130986BJNE000203305",
+          "paragraph" : "§ 2",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR009130986BJNE000300328",
+          "paragraph" : "§ 3",
+          "title" : "Durchleiten von Wasser"
+        },
+        {
+          "documentIdentifier" : "BJNR009130986BJNE000400328",
+          "paragraph" : "§ 4",
+          "title" : "Eigentumsverhältnisse und Fischereirechte"
+        },
+        {
+          "documentIdentifier" : "BJNR009130986BJNE000601308",
+          "paragraph" : "§ 6",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR009130986BJNE000700328",
+          "paragraph" : "§ 7",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "documentIdentifier" : "BJNR023100988",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR023100988Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR023100988BJNE000100325",
+          "paragraph" : "§ 1",
+          "title" : "Umwandlung"
+        },
+        {
+          "documentIdentifier" : "BJNR023100988BJNE000200325",
+          "paragraph" : "§ 2",
+          "title" : "Umwandlungsbeschluß"
+        },
+        {
+          "documentIdentifier" : "BJNR023100988BJNE000300325",
+          "paragraph" : "§ 3",
+          "title" : "Gründer der Aktiengesellschaft"
+        },
+        {
+          "documentIdentifier" : "BJNR023100988BJNE000400325",
+          "paragraph" : "§ 4",
+          "title" : "Satzungsfeststellung"
+        },
+        {
+          "documentIdentifier" : "BJNR023100988BJNE000500325",
+          "paragraph" : "§ 5",
+          "title" : "Gewährleistung für Altverpflichtungen"
+        },
+        {
+          "documentIdentifier" : "BJNR023100988BJNE000600325",
+          "paragraph" : "§ 6",
+          "title" : "Sonstige Übergangsvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR023100988BJNE000800325",
+          "paragraph" : "§ 8",
+          "title" : "Berlin-Klausel"
+        },
+        {
+          "documentIdentifier" : "BJNR023100988BJNE000900325",
+          "paragraph" : "§ 9",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

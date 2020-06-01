@@ -1,0 +1,92 @@
+{
+  "documentIdentifier" : "BJNR007170953",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR007170953BJNG000100304",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR007170953BJNE000500304",
+          "paragraph" : "§ 1",
+          "title" : "Verwaltungsabgabe für das allgemeine Bereinigungsverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR007170953BJNE000600304",
+          "paragraph" : "§ 2",
+          "title" : "Verwaltungsabgabe für das Verfahren der Sammelanerkennung"
+        },
+        {
+          "documentIdentifier" : "BJNR007170953BJNE000701377",
+          "paragraph" : "§ 3",
+          "title" : "Erhebung der Verwaltungsabgabe"
+        },
+        {
+          "documentIdentifier" : "BJNR007170953BJNE000800304",
+          "paragraph" : "§ 4",
+          "title" : "Befreiungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Verwaltungsabgabe"
+    },
+    {
+      "documentIdentifier" : "BJNR007170953BJNG000200304",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR007170953BJNE000900304",
+          "paragraph" : "§ 5",
+          "title" : "Vorschußverpflichtung"
+        },
+        {
+          "documentIdentifier" : "BJNR007170953BJNE001000304",
+          "paragraph" : "§ 6",
+          "title" : "Erhebung der Vorschüsse"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Vorschußverpflichtung der Aussteller"
+    },
+    {
+      "documentIdentifier" : "BJNR007170953BJNG000300304",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR007170953BJNE001100304",
+          "paragraph" : "§ 7",
+          "title" : "Geltung der Abgabenordnung"
+        },
+        {
+          "documentIdentifier" : "BJNR007170953BJNE001200304",
+          "paragraph" : "§ 8",
+          "title" : "Land Berlin"
+        },
+        {
+          "documentIdentifier" : "BJNR007170953BJNE001300304",
+          "paragraph" : "§ 9",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gemeinsame Vorschriften"
+    }
+  ]
+}

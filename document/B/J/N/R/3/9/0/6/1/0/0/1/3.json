@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR390610013",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR390610013Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR390610013BJNE000103360",
+          "paragraph" : "§ 1",
+          "title" : "Signaturgebundene elektronische Kommunikation"
+        },
+        {
+          "documentIdentifier" : "BJNR390610013BJNE000202360",
+          "paragraph" : "§ 2",
+          "title" : "Signaturfreie elektronische Kommunikation"
+        },
+        {
+          "documentIdentifier" : "BJNR390610013BJNE000301123",
+          "paragraph" : "§ 3",
+          "title" : "Form der Einreichung"
+        },
+        {
+          "documentIdentifier" : "BJNR390610013BJNE000401123",
+          "paragraph" : "§ 4",
+          "title" : "Bekanntgabe der Bearbeitungsvoraussetzungen"
+        },
+        {
+          "documentIdentifier" : "BJNR390610013BJNE000501123",
+          "paragraph" : "§ 5",
+          "title" : "Zustellung elektronischer Dokumente"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

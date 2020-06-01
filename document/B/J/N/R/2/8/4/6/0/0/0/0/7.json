@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR284600007",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR284600007Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR284600007BJNE000101311",
+          "paragraph" : "§ 1",
+          "title" : "Erlaubnisinhaber nach dem Rechtsberatungsgesetz"
+        },
+        {
+          "documentIdentifier" : "BJNR284600007BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Versicherungsberater"
+        },
+        {
+          "documentIdentifier" : "BJNR284600007BJNE000303311",
+          "paragraph" : "§ 3",
+          "title" : "Gerichtliche Vertretung"
+        },
+        {
+          "documentIdentifier" : "BJNR284600007BJNE000404311",
+          "paragraph" : "§ 4",
+          "title" : "Vergütung der registrierten Personen"
+        },
+        {
+          "documentIdentifier" : "BJNR284600007BJNE000502160",
+          "paragraph" : "§ 5",
+          "title" : "Diplom-Juristen aus dem Beitrittsgebiet"
+        },
+        {
+          "documentIdentifier" : "BJNR284600007BJNE000600000",
+          "paragraph" : "§ 6",
+          "title" : "Schutz der Berufsbezeichnung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

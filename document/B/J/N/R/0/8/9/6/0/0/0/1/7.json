@@ -1,0 +1,141 @@
+{
+  "documentIdentifier" : "BJNR089600017",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR089600017BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR089600017BJNE000301116",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR089600017BJNE000400000",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR089600017BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR089600017BJNE000500000",
+          "paragraph" : "§ 3",
+          "title" : "Getrennte Sammlung, Vorbereitung zur Wiederverwendung und Recycling von gewerblichen Siedlungsabfällen"
+        },
+        {
+          "documentIdentifier" : "BJNR089600017BJNE000601000",
+          "paragraph" : "§ 4",
+          "title" : "Vorbehandlung von gewerblichen Siedlungsabfällen"
+        },
+        {
+          "documentIdentifier" : "BJNR089600017BJNE000700000",
+          "paragraph" : "§ 5",
+          "title" : "Gemeinsame Erfassung und Entsorgung von Kleinmengen"
+        },
+        {
+          "documentIdentifier" : "BJNR089600017BJNE000801000",
+          "paragraph" : "§ 6",
+          "title" : "Anforderungen an Vorbehandlungsanlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR089600017BJNE000900000",
+          "paragraph" : "§ 7",
+          "title" : "Überlassung von gewerblichen Siedlungsabfällen, die nicht verwertet werden"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gewerbliche Siedlungsabfälle"
+    },
+    {
+      "documentIdentifier" : "BJNR089600017BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR089600017BJNE001000000",
+          "paragraph" : "§ 8",
+          "title" : "Getrennte Sammlung, Vorbereitung zur Wiederverwendung und Recycling von bestimmten Bau- und Abbruchabfällen"
+        },
+        {
+          "documentIdentifier" : "BJNR089600017BJNE001100000",
+          "paragraph" : "§ 9",
+          "title" : "Vorbehandlung und Aufbereitung von bestimmten Bau- und Abbruchabfällen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Bau- und Abbruchabfälle"
+    },
+    {
+      "documentIdentifier" : "BJNR089600017BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR089600017BJNE001200000",
+          "paragraph" : "§ 10",
+          "title" : "Eigenkontrolle bei Vorbehandlungsanlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR089600017BJNE001300000",
+          "paragraph" : "§ 11",
+          "title" : "Fremdkontrolle bei Vorbehandlungsanlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR089600017BJNE001400000",
+          "paragraph" : "§ 12",
+          "title" : "Betriebstagebuch"
+        },
+        {
+          "documentIdentifier" : "BJNR089600017BJNE001500000",
+          "paragraph" : "§ 13",
+          "title" : "Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR089600017BJNE001600000",
+          "paragraph" : "§ 14",
+          "title" : "Übergangsvorschrift"
+        },
+        {
+          "documentIdentifier" : "BJNR089600017BJNE001700000",
+          "paragraph" : "§ 15",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR089600017BJNE001900000",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 6 Absatz 1 Satz 1)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gemeinsame Vorschriften"
+    }
+  ]
+}

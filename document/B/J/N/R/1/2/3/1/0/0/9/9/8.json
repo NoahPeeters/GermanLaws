@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR123100998",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR123100998Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR123100998BJNE000200305",
+          "paragraph" : "§ 1",
+          "title" : "Beendigung der Verjährungshemmung bei\nAbgeltungsdarlehen"
+        },
+        {
+          "documentIdentifier" : "BJNR123100998BJNE000300305",
+          "paragraph" : "§ 2",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

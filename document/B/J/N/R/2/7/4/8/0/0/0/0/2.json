@@ -1,0 +1,79 @@
+{
+  "documentIdentifier" : "BJNR274800002",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR274800002Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR274800002BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Staatliche Anerkennung des Ausbildungsberufes"
+        },
+        {
+          "documentIdentifier" : "BJNR274800002BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Ausbildungsdauer"
+        },
+        {
+          "documentIdentifier" : "BJNR274800002BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Ausbildungsberufsbild"
+        },
+        {
+          "documentIdentifier" : "BJNR274800002BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Ausbildungsrahmenplan"
+        },
+        {
+          "documentIdentifier" : "BJNR274800002BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Ausbildungsplan"
+        },
+        {
+          "documentIdentifier" : "BJNR274800002BJNE000600000",
+          "paragraph" : "§ 6",
+          "title" : "Berichtsheft"
+        },
+        {
+          "documentIdentifier" : "BJNR274800002BJNE000700000",
+          "paragraph" : "§ 7",
+          "title" : "Zwischenprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR274800002BJNE000800000",
+          "paragraph" : "§ 8",
+          "title" : "Abschlussprüfung, Gesellenprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR274800002BJNE000900000",
+          "paragraph" : "§ 9",
+          "title" : "Nichtanwendung von Vorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR274800002BJNE001000000",
+          "paragraph" : "§ 10",
+          "title" : "Übergangsregelung"
+        },
+        {
+          "documentIdentifier" : "BJNR274800002BJNE001100000",
+          "paragraph" : "§ 11",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR274800002BJNE001300000",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 4)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

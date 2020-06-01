@@ -1,0 +1,93 @@
+{
+  "documentIdentifier" : "BJNR003769992",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR003769992BJNG000101301",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR003769992BJNE000505118",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR003769992BJNE000605118",
+              "laws" : [
+
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Art 1"
+            }
+          ],
+          "title" : "Art 1"
+        }
+      ],
+      "title" : "Errichtung eines Bundesamtes für Wirtschaft und Ausfuhrkontrolle (BAFA)"
+    },
+    {
+      "documentIdentifier" : "BJNR003769992BJNG000200314",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Art 2 bis 6"
+    },
+    {
+      "documentIdentifier" : "BJNR003769992BJNG000300314",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Rückkehr zum einheitlichen Verordnungsrang"
+    },
+    {
+      "documentIdentifier" : "BJNR003769992BJNG000400314",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          8
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inkrafttreten"
+    }
+  ]
+}

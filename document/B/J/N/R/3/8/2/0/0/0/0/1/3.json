@@ -1,0 +1,161 @@
+{
+  "documentIdentifier" : "BJNR382000013",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR382000013BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR382000013BJNE000301305",
+          "paragraph" : "§ 1",
+          "title" : "Anerkennung"
+        },
+        {
+          "documentIdentifier" : "BJNR382000013BJNE000400000",
+          "paragraph" : "§ 2",
+          "title" : "Sitz"
+        },
+        {
+          "documentIdentifier" : "BJNR382000013BJNE000500000",
+          "paragraph" : "§ 3",
+          "title" : "Besetzung und Geschäftsverteilung der Schlichtungsstelle"
+        },
+        {
+          "documentIdentifier" : "BJNR382000013BJNE000601305",
+          "paragraph" : "§ 4",
+          "title" : "Schlichter"
+        },
+        {
+          "documentIdentifier" : "BJNR382000013BJNE000701305",
+          "paragraph" : "§ 5",
+          "title" : "Besorgnis der Befangenheit"
+        },
+        {
+          "documentIdentifier" : "BJNR382000013BJNE000801305",
+          "paragraph" : "§ 6",
+          "title" : "Beirat"
+        },
+        {
+          "documentIdentifier" : "BJNR382000013BJNE000901305",
+          "paragraph" : "§ 7",
+          "title" : "Geschäftsstelle"
+        },
+        {
+          "documentIdentifier" : "BJNR382000013BJNE001001305",
+          "paragraph" : "§ 8",
+          "title" : "Verfahrensordnung"
+        },
+        {
+          "documentIdentifier" : "BJNR382000013BJNE001101305",
+          "paragraph" : "§ 9",
+          "title" : "Tätigkeitsbericht"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Privatrechtlich organisierte Schlichtung"
+    },
+    {
+      "documentIdentifier" : "BJNR382000013BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR382000013BJNE001201305",
+          "paragraph" : "§ 10",
+          "title" : "Verfahrensgrundsätze"
+        },
+        {
+          "documentIdentifier" : "BJNR382000013BJNE001301305",
+          "paragraph" : "§ 11",
+          "title" : "Anrufung der Schlichtungsstelle"
+        },
+        {
+          "documentIdentifier" : "BJNR382000013BJNE001400000",
+          "paragraph" : "§ 12",
+          "title" : "Unzulässigkeit der Schlichtung"
+        },
+        {
+          "documentIdentifier" : "BJNR382000013BJNE001501305",
+          "paragraph" : "§ 13",
+          "title" : "Schlichtungsverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR382000013BJNE001601305",
+          "paragraph" : "§ 14",
+          "title" : "Schlichtungsvorschlag"
+        },
+        {
+          "documentIdentifier" : "BJNR382000013BJNE001700000",
+          "paragraph" : "§ 15",
+          "title" : "Beendigung der Schlichtung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Verfahren für die privatrechtlich organisierte und die behördliche Schlichtung"
+    },
+    {
+      "documentIdentifier" : "BJNR382000013BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR382000013BJNE001800000",
+          "paragraph" : "§ 16",
+          "title" : "Vereinfachtes Verfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR382000013BJNE001900000",
+          "paragraph" : "§ 17",
+          "title" : "Nachweisverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR382000013BJNE002200305",
+          "paragraph" : "§ 17a",
+          "title" : "Verhältnis zum Verbraucherstreitbeilegungsgesetz"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Weitere Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR382000013BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR382000013BJNE002001305",
+          "paragraph" : "§ 18",
+          "title" : "Übergangsregelung"
+        },
+        {
+          "documentIdentifier" : "BJNR382000013BJNE002100000",
+          "paragraph" : "§ 19",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussvorschriften"
+    }
+  ]
+}

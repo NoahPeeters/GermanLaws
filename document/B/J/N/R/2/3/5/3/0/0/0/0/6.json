@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR235300006",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR235300006Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR235300006BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Geltungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR235300006BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Jahresarbeitszeit"
+        },
+        {
+          "documentIdentifier" : "BJNR235300006BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Ruhepausen"
+        },
+        {
+          "documentIdentifier" : "BJNR235300006BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Nachtdienst"
+        },
+        {
+          "documentIdentifier" : "BJNR235300006BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

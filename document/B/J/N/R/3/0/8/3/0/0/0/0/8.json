@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR308300008",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR308300008Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR308300008BJNE000600000",
+          "paragraph" : "Art 5",
+          "title" : "Einschränkung von Grundrechten"
+        },
+        {
+          "documentIdentifier" : "BJNR308300008BJNE000700000",
+          "paragraph" : "Art 6",
+          "title" : "Evaluation"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

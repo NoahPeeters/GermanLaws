@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR212100007",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR212100007Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR212100007BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Monatliche Sonderzahlungen für die Jahre 2005 bis 2007"
+        },
+        {
+          "documentIdentifier" : "BJNR212100007BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

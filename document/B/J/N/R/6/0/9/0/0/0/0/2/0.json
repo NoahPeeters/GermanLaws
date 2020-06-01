@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR609000020",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR609000020Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR609000020BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Zwingende Arbeitsbedingungen"
+        },
+        {
+          "documentIdentifier" : "BJNR609000020BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Anwendungsausnahmen"
+        },
+        {
+          "documentIdentifier" : "BJNR609000020BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR609000020BJNE000500000",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 1 Absatz 1)"
+        },
+        {
+          "documentIdentifier" : "BJNR609000020BJNE000600000",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 2 Absatz 1)"
+        },
+        {
+          "documentIdentifier" : "BJNR609000020BJNE000700000",
+          "paragraph" : "Anlage 3",
+          "title" : "(zu § 2 Absatz 2)"
+        },
+        {
+          "documentIdentifier" : "BJNR609000020BJNE000800000",
+          "paragraph" : "Anlage 4",
+          "title" : "(zu § 2 Absatz 4 Nummer 1, 5 bis 8)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

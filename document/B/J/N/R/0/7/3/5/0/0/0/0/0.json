@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR073500000",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR073500000Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR073500000BJNE000200310",
+          "paragraph" : "§ 1",
+          "title" : "Gebührentarif"
+        },
+        {
+          "documentIdentifier" : "BJNR073500000BJNE000301377",
+          "paragraph" : "§ 2",
+          "title" : "Auslagen"
+        },
+        {
+          "documentIdentifier" : "BJNR073500000BJNE000400310",
+          "paragraph" : "§ 3",
+          "title" : "Widerspruch"
+        },
+        {
+          "documentIdentifier" : "BJNR073500000BJNE000500310",
+          "paragraph" : "§ 4",
+          "title" : "Widerruf, Rücknahme, Ablehnung und Zurücknahme von Anträgen"
+        },
+        {
+          "documentIdentifier" : "BJNR073500000BJNE000600310",
+          "paragraph" : "§ 5",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR073500000BJNE000802140",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 1)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

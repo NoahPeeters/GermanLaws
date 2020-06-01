@@ -1,0 +1,209 @@
+{
+  "documentIdentifier" : "BJNR162700999",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR162700999BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR162700999BJNE000802377",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeines"
+    },
+    {
+      "documentIdentifier" : "BJNR162700999BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR162700999BJNE000900000",
+          "paragraph" : "§ 2",
+          "title" : "Abwicklung des Zahlungsverkehrs"
+        },
+        {
+          "documentIdentifier" : "BJNR162700999BJNE001000000",
+          "paragraph" : "§ 3",
+          "title" : "Kassenordnung"
+        },
+        {
+          "documentIdentifier" : "BJNR162700999BJNE001100000",
+          "paragraph" : "§ 4",
+          "title" : "Prüfungen der Kasse und der Buchführung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Zahlungsverkehr"
+    },
+    {
+      "documentIdentifier" : "BJNR162700999BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR162700999BJNE001200000",
+          "paragraph" : "§ 5",
+          "title" : "Belegpflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR162700999BJNE001300000",
+          "paragraph" : "§ 6",
+          "title" : "Belege für Einzahlungen, Auszahlungen und Buchungen\nohne Zahlungsvorgang"
+        },
+        {
+          "documentIdentifier" : "BJNR162700999BJNE001405126",
+          "paragraph" : "§ 7",
+          "title" : "Zahlungsanordnung"
+        },
+        {
+          "documentIdentifier" : "BJNR162700999BJNE001500000",
+          "paragraph" : "§ 8",
+          "title" : "Quittung"
+        },
+        {
+          "documentIdentifier" : "BJNR162700999BJNE001600000",
+          "paragraph" : "§ 9",
+          "title" : "Feststellung der Belege"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Belege"
+    },
+    {
+      "documentIdentifier" : "BJNR162700999BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR162700999BJNE001700000",
+          "paragraph" : "§ 10",
+          "title" : "Grundsätze der Buchführung"
+        },
+        {
+          "documentIdentifier" : "BJNR162700999BJNE001805126",
+          "paragraph" : "§ 11",
+          "title" : "Aktivierung und Bewertung"
+        },
+        {
+          "documentIdentifier" : "BJNR162700999BJNE001904126",
+          "paragraph" : "§ 12",
+          "title" : "Rückstellungen"
+        },
+        {
+          "documentIdentifier" : "BJNR162700999BJNE002000000",
+          "paragraph" : "§ 13",
+          "title" : "Führung der Bücher"
+        },
+        {
+          "documentIdentifier" : "BJNR162700999BJNE002100000",
+          "paragraph" : "§ 14",
+          "title" : "Aufbewahrung"
+        },
+        {
+          "documentIdentifier" : "BJNR162700999BJNE002200000",
+          "paragraph" : "§ 15",
+          "title" : "Tages- und Monatsabstimmung"
+        },
+        {
+          "documentIdentifier" : "BJNR162700999BJNE002403126",
+          "paragraph" : "§ 16",
+          "title" : "Bestandsverzeichnisse"
+        },
+        {
+          "documentIdentifier" : "BJNR162700999BJNE002500000",
+          "paragraph" : "§ 17",
+          "title" : "Einsatz der automatisierten Datenverarbeitung"
+        },
+        {
+          "documentIdentifier" : "BJNR162700999BJNE002602308",
+          "paragraph" : "§ 18",
+          "title" : "Rechnungslegung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Buchführung und Rechnungslegung"
+    },
+    {
+      "documentIdentifier" : "BJNR162700999BJNG000501308",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR162700999BJNE002702308",
+          "paragraph" : "§ 19",
+          "title" : "Durchführung von Aufgaben durch Dritte"
+        },
+        {
+          "documentIdentifier" : "BJNR162700999BJNE003201308",
+          "paragraph" : "§ 19a",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Durchführung von Aufgaben durch Verbände und Dritte"
+    },
+    {
+      "documentIdentifier" : "BJNR162700999BJNG000600000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR162700999BJNE002801308",
+          "paragraph" : "§ 20",
+          "title" : "Ausnahmeregelungen zur Aktivierung und Bewertung"
+        },
+        {
+          "documentIdentifier" : "BJNR162700999BJNE003102308",
+          "paragraph" : "§ 20a",
+          "title" : "Übergangsvorschriften zur Ersten Verordnung zur Änderung der Sozialversicherungs-Rechnungsverordnung"
+        },
+        {
+          "documentIdentifier" : "BJNR162700999BJNE003300308",
+          "paragraph" : "§ 20b",
+          "title" : "Anwendungsbestimmung"
+        },
+        {
+          "documentIdentifier" : "BJNR162700999BJNE002900000",
+          "paragraph" : "§ 21",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übergangs- und Schlußvorschriften"
+    }
+  ]
+}

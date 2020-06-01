@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR007740975",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR007740975Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR007740975BJNE000203116",
+          "paragraph" : "§ 1",
+          "title" : "Erlaubnis zur Auswandererberatung"
+        },
+        {
+          "documentIdentifier" : "BJNR007740975BJNE000305116",
+          "paragraph" : "§ 2",
+          "title" : "Werbungsverbot"
+        },
+        {
+          "documentIdentifier" : "BJNR007740975BJNE000402116",
+          "paragraph" : "§ 3",
+          "title" : "Zuständigkeit und Verfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR007740975BJNE001101116",
+          "paragraph" : "§ 3a",
+          "title" : "Gebühren und Auslagen"
+        },
+        {
+          "documentIdentifier" : "BJNR007740975BJNE000506116",
+          "paragraph" : "§ 4",
+          "title" : "Erhebung, Verarbeitung und Nutzung personenbezogener Daten"
+        },
+        {
+          "documentIdentifier" : "BJNR007740975BJNE000703116",
+          "paragraph" : "§ 5",
+          "title" : "Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR007740975BJNE001002116",
+          "paragraph" : "§ 6",
+          "title" : "(Inkrafttreten)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

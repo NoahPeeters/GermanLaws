@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR057900002",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR057900002Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR057900002BJNE000203123",
+          "paragraph" : "§ 1",
+          "title" : "Gebühren"
+        },
+        {
+          "documentIdentifier" : "BJNR057900002BJNE000301123",
+          "paragraph" : "§ 2",
+          "title" : "Gebührenhöhe"
+        },
+        {
+          "documentIdentifier" : "BJNR057900002BJNE000401123",
+          "paragraph" : "§ 3",
+          "title" : "Anrechnung von Auslagen"
+        },
+        {
+          "documentIdentifier" : "BJNR057900002BJNE000501123",
+          "paragraph" : "§ 4",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

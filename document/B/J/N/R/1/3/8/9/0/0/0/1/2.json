@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR138900012",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR138900012Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR138900012BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Festsetzung des aktuellen Rentenwerts und des aktuellen Rentenwerts (Ost)"
+        },
+        {
+          "documentIdentifier" : "BJNR138900012BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Festsetzung des allgemeinen Rentenwerts und des allgemeinen Rentenwerts (Ost) in der Alterssicherung der Landwirte"
+        },
+        {
+          "documentIdentifier" : "BJNR138900012BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Ausgleichsbedarf und Ausgleichsbedarf (Ost)"
+        },
+        {
+          "documentIdentifier" : "BJNR138900012BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Anpassungsfaktor in der Unfallversicherung"
+        },
+        {
+          "documentIdentifier" : "BJNR138900012BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Pflegegeld in der Unfallversicherung"
+        },
+        {
+          "documentIdentifier" : "BJNR138900012BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR273800019",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR273800019Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR273800019BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Festsetzung des Anteils"
+        },
+        {
+          "documentIdentifier" : "BJNR273800019BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

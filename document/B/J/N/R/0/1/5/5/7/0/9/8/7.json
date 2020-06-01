@@ -1,0 +1,69 @@
+{
+  "documentIdentifier" : "BJNR015570987",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR015570987Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR015570987BJNE000204301",
+          "paragraph" : "§ 1",
+          "title" : "Aufgaben"
+        },
+        {
+          "documentIdentifier" : "BJNR015570987BJNE000300328",
+          "paragraph" : "§ 2",
+          "title" : "Zusammensetzung"
+        },
+        {
+          "documentIdentifier" : "BJNR015570987BJNE000401377",
+          "paragraph" : "§ 3",
+          "title" : "Berufung der Mitglieder"
+        },
+        {
+          "documentIdentifier" : "BJNR015570987BJNE000500328",
+          "paragraph" : "§ 4",
+          "title" : "Wahl des Vorsitzenden"
+        },
+        {
+          "documentIdentifier" : "BJNR015570987BJNE000601377",
+          "paragraph" : "§ 5",
+          "title" : "Geschäftsführung"
+        },
+        {
+          "documentIdentifier" : "BJNR015570987BJNE000706301",
+          "paragraph" : "§ 6",
+          "title" : "Beteiligung des Bundesministers und anderer Beauftragter"
+        },
+        {
+          "documentIdentifier" : "BJNR015570987BJNE000800328",
+          "paragraph" : "§ 7",
+          "title" : "Sachverständige"
+        },
+        {
+          "documentIdentifier" : "BJNR015570987BJNE000900328",
+          "paragraph" : "§ 8",
+          "title" : "Ehrenamtliche Tätigkeit\n"
+        },
+        {
+          "documentIdentifier" : "BJNR015570987BJNE001001377",
+          "paragraph" : "§ 9",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR015570987BJNE001100328",
+          "paragraph" : "§ 10",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

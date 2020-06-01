@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR019980992",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR019980992Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR019980992BJNE000200307",
+          "paragraph" : "§ 1",
+          "title" : "Anpassung des aktuellen Rentenwertes (Ost)"
+        },
+        {
+          "documentIdentifier" : "BJNR019980992BJNE000300307",
+          "paragraph" : "§ 2",
+          "title" : "Anpassungsfaktor in der Unfallversicherung"
+        },
+        {
+          "documentIdentifier" : "BJNR019980992BJNE000400307",
+          "paragraph" : "§ 3",
+          "title" : "Pflegegeld"
+        },
+        {
+          "documentIdentifier" : "BJNR019980992BJNE000500307",
+          "paragraph" : "§ 4",
+          "title" : "Erstattung an die Deutsche Bundespost"
+        },
+        {
+          "documentIdentifier" : "BJNR019980992BJNE000600307",
+          "paragraph" : "§ 5",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

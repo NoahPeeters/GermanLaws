@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR183400002",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR183400002Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR183400002BJNE000301308",
+          "paragraph" : "§ 3",
+          "title" : "Teil 2 der Abschlussprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR183400002BJNE000502308",
+          "paragraph" : "§ 5",
+          "title" : "Übergangsregelung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

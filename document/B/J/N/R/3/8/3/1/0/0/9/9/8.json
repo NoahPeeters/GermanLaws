@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR383100998",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR383100998Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR383100998BJNE000201308",
+          "paragraph" : "§ 1",
+          "title" : "Geltungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR383100998BJNE000304126",
+          "paragraph" : "§ 2",
+          "title" : "Beitragsberechnung"
+        },
+        {
+          "documentIdentifier" : "BJNR383100998BJNE000404126",
+          "paragraph" : "§ 3",
+          "title" : "Berechnungsgrundlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR383100998BJNE000501126",
+          "paragraph" : "§ 4",
+          "title" : "Zuständigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR383100998BJNE000601308",
+          "paragraph" : "§ 5",
+          "title" : "Berechnungsverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR383100998BJNE000702126",
+          "paragraph" : "§ 6",
+          "title" : "Beitragszahlung"
+        },
+        {
+          "documentIdentifier" : "BJNR383100998BJNE000900310",
+          "paragraph" : "§ 8",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR126020011",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR126020011Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR126020011BJNE000100000",
+          "paragraph" : "Artikel 1",
+          "title" : "Rechtsfähigkeit des Gemeinsamen Wattenmeersekretariats"
+        },
+        {
+          "documentIdentifier" : "BJNR126020011BJNE000200000",
+          "paragraph" : "Artikel 2",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "documentIdentifier" : "BJNR116800015",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR116800015BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR116800015BJNE000300000",
+          "paragraph" : "§ 1",
+          "title" : "Staatliche Anerkennung des Ausbildungsberufes"
+        },
+        {
+          "documentIdentifier" : "BJNR116800015BJNE000400000",
+          "paragraph" : "§ 2",
+          "title" : "Dauer der Berufsausbildung"
+        },
+        {
+          "documentIdentifier" : "BJNR116800015BJNE000500000",
+          "paragraph" : "§ 3",
+          "title" : "Gegenstand der Berufsausbildung und Ausbildungsrahmenplan"
+        },
+        {
+          "documentIdentifier" : "BJNR116800015BJNE000600000",
+          "paragraph" : "§ 4",
+          "title" : "Struktur der Berufsausbildung, Ausbildungsberufsbild"
+        },
+        {
+          "documentIdentifier" : "BJNR116800015BJNE000700000",
+          "paragraph" : "§ 5",
+          "title" : "Ausbildungsplan"
+        },
+        {
+          "documentIdentifier" : "BJNR116800015BJNE000800000",
+          "paragraph" : "§ 6",
+          "title" : "Schriftlicher Ausbildungsnachweis"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gegenstand, Dauer und Gliederung der Berufsausbildung"
+    },
+    {
+      "documentIdentifier" : "BJNR116800015BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR116800015BJNE000900000",
+          "paragraph" : "§ 7",
+          "title" : "Ziel und Zeitpunkt"
+        },
+        {
+          "documentIdentifier" : "BJNR116800015BJNE001000000",
+          "paragraph" : "§ 8",
+          "title" : "Inhalt"
+        },
+        {
+          "documentIdentifier" : "BJNR116800015BJNE001100000",
+          "paragraph" : "§ 9",
+          "title" : "Prüfungsbereiche"
+        },
+        {
+          "documentIdentifier" : "BJNR116800015BJNE001200000",
+          "paragraph" : "§ 10",
+          "title" : "Prüfungsbereich Versetzen von Werksteinen"
+        },
+        {
+          "documentIdentifier" : "BJNR116800015BJNE001300000",
+          "paragraph" : "§ 11",
+          "title" : "Prüfungsbereich Instandsetzen von Werksteinen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Zwischenprüfung"
+    },
+    {
+      "documentIdentifier" : "BJNR116800015BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR116800015BJNE001400000",
+          "paragraph" : "§ 12",
+          "title" : "Ziel und Zeitpunkt"
+        },
+        {
+          "documentIdentifier" : "BJNR116800015BJNE001500000",
+          "paragraph" : "§ 13",
+          "title" : "Inhalt"
+        },
+        {
+          "documentIdentifier" : "BJNR116800015BJNE001600000",
+          "paragraph" : "§ 14",
+          "title" : "Prüfungsbereiche"
+        },
+        {
+          "documentIdentifier" : "BJNR116800015BJNE001700000",
+          "paragraph" : "§ 15",
+          "title" : "Prüfungsbereich Bearbeiten von Oberflächen"
+        },
+        {
+          "documentIdentifier" : "BJNR116800015BJNE001800000",
+          "paragraph" : "§ 16",
+          "title" : "Prüfungsbereich Herstellen von Werksteinen"
+        },
+        {
+          "documentIdentifier" : "BJNR116800015BJNE001900000",
+          "paragraph" : "§ 17",
+          "title" : "Prüfungsbereich Terrazzo- und Werksteintechnik"
+        },
+        {
+          "documentIdentifier" : "BJNR116800015BJNE002000000",
+          "paragraph" : "§ 18",
+          "title" : "Prüfungsbereich Wirtschafts- und Sozialkunde"
+        },
+        {
+          "documentIdentifier" : "BJNR116800015BJNE002102118",
+          "paragraph" : "§ 19",
+          "title" : "Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Gesellenprüfung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gesellenprüfung"
+    },
+    {
+      "documentIdentifier" : "BJNR116800015BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR116800015BJNE002200000",
+          "paragraph" : "§ 20",
+          "title" : "Bestehende Berufsausbildungsverhältnisse"
+        },
+        {
+          "documentIdentifier" : "BJNR116800015BJNE002300000",
+          "paragraph" : "§ 21",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR116800015BJNE002400000",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 3 Absatz 1)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussvorschriften"
+    }
+  ]
+}

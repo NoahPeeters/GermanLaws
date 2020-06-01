@@ -1,0 +1,69 @@
+{
+  "documentIdentifier" : "BJNR049000001",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR049000001Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR049000001BJNE000200305",
+          "paragraph" : "§ 1",
+          "title" : "Gliederung und Inhalt der Meisterprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR049000001BJNE000300305",
+          "paragraph" : "§ 2",
+          "title" : "Meisterprüfungsberufsbild"
+        },
+        {
+          "documentIdentifier" : "BJNR049000001BJNE000400305",
+          "paragraph" : "§ 3",
+          "title" : "Gliederung, Prüfungsdauer und Bestehen des Teils I"
+        },
+        {
+          "documentIdentifier" : "BJNR049000001BJNE000500305",
+          "paragraph" : "§ 4",
+          "title" : "Meisterprüfungsprojekt"
+        },
+        {
+          "documentIdentifier" : "BJNR049000001BJNE000600305",
+          "paragraph" : "§ 5",
+          "title" : "Fachgespräch"
+        },
+        {
+          "documentIdentifier" : "BJNR049000001BJNE000700305",
+          "paragraph" : "§ 6",
+          "title" : "Situationsaufgabe"
+        },
+        {
+          "documentIdentifier" : "BJNR049000001BJNE000801360",
+          "paragraph" : "§ 7",
+          "title" : "Gliederung, Prüfungsdauer und Bestehen des Teils II"
+        },
+        {
+          "documentIdentifier" : "BJNR049000001BJNE000901360",
+          "paragraph" : "§ 8",
+          "title" : "Allgemeine Prüfungs- und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR049000001BJNE001001360",
+          "paragraph" : "§ 9",
+          "title" : "Übergangsvorschrift"
+        },
+        {
+          "documentIdentifier" : "BJNR049000001BJNE001100305",
+          "paragraph" : "§ 10",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

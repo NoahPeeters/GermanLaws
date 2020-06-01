@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR244000019",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR244000019Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR244000019BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendung geänderter Fortbildungsordnungen"
+        },
+        {
+          "documentIdentifier" : "BJNR244000019BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Anwendung der Floristmeister-Fortbildungsprüfungsverordnung"
+        },
+        {
+          "documentIdentifier" : "BJNR244000019BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Anwendung alten Rechts"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

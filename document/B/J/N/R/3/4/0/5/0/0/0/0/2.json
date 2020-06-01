@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR340500002",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR340500002Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR340500002BJNE000101308",
+          "paragraph" : "§ 1",
+          "title" : "Abrechnung durch das Bundeszentralamt für Steuern"
+        },
+        {
+          "documentIdentifier" : "BJNR340500002BJNE000203377",
+          "paragraph" : "§ 2",
+          "title" : "Länderweise Aufteilung der Länder- und Gemeindeanteile"
+        },
+        {
+          "documentIdentifier" : "BJNR340500002BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Erstattung durch die Länder"
+        },
+        {
+          "documentIdentifier" : "BJNR340500002BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

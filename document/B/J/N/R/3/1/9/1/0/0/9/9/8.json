@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR319100998",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR319100998Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR319100998BJNE000202310",
+          "paragraph" : "§ 1",
+          "title" : "Gewährung eines Altersteilzeitzuschlags"
+        },
+        {
+          "documentIdentifier" : "BJNR319100998BJNE000305310",
+          "paragraph" : "§ 2",
+          "title" : "Höhe und Berechnung"
+        },
+        {
+          "documentIdentifier" : "BJNR319100998BJNE000601377",
+          "paragraph" : "§ 2a",
+          "title" : "Ausgleich bei vorzeitiger Beendigung der Altersteilzeit"
+        },
+        {
+          "documentIdentifier" : "BJNR319100998BJNE000401377",
+          "paragraph" : "§ 3",
+          "title" : "(Inkrafttreten)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

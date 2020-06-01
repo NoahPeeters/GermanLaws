@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR001010956",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR001010956Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR001010956BJNE000102118",
+          "paragraph" : "§ 1",
+          "title" : "Umwandlung der Pensionskasse Deutscher Eisenbahnen und Straßenbahnen"
+        },
+        {
+          "documentIdentifier" : "BJNR001010956BJNE000202377",
+          "paragraph" : "§ 2",
+          "title" : "Fortführung von Versorgungsleistungen"
+        },
+        {
+          "documentIdentifier" : "BJNR001010956BJNE000302377",
+          "paragraph" : "§ 3",
+          "title" : "Nachweise über die Verwendung der Zuschüsse"
+        },
+        {
+          "documentIdentifier" : "BJNR001010956BJNE000401377",
+          "paragraph" : "(XXXX) §§ 4 und 5",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR001010956BJNE000603377",
+          "paragraph" : "§ 6",
+          "title" : "Neuregelung der Versorgungsleistungen"
+        },
+        {
+          "documentIdentifier" : "BJNR001010956BJNE000801377",
+          "paragraph" : "(XXXX) §§ 7 bis 9",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR001010956BJNE888800301",
+          "paragraph" : "Anhang EV",
+          "title" : "Auszug aus EinigVtr Anlage I Kapitel IV Sachgebiet B Abschnitt III\n"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

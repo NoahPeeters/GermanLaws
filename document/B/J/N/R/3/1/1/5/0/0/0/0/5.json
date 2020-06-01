@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR311500005",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR311500005Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR311500005BJNE000202116",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR311500005BJNE000301116",
+          "paragraph" : "§ 2",
+          "title" : "Genehmigung"
+        },
+        {
+          "documentIdentifier" : "BJNR311500005BJNE000402116",
+          "paragraph" : "§ 3",
+          "title" : "Gebühren in besonderen Fällen"
+        },
+        {
+          "documentIdentifier" : "BJNR311500005BJNE000501116",
+          "paragraph" : "§ 4",
+          "title" : "Gebührenermäßigung und -befreiung auf Antrag"
+        },
+        {
+          "documentIdentifier" : "BJNR311500005BJNE000602116",
+          "paragraph" : "§ 5",
+          "title" : "Übergangsregelung"
+        },
+        {
+          "documentIdentifier" : "BJNR311500005BJNE000701116",
+          "paragraph" : "§ 6",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR028200995",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR028200995Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR028200995BJNE000100307",
+          "paragraph" : "I.",
+          "title" : "Übertragung von beamtenversorgungsrechtlichen\nZuständigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR028200995BJNE000200307",
+          "paragraph" : "II.",
+          "title" : "Erlaß von Widerspruchsbescheiden und Vertretung\ndes Dienstherrn bei Klagen aus dem Beamtenverhältnis\nin Angelegenheiten der Beamtenversorgung"
+        },
+        {
+          "documentIdentifier" : "BJNR028200995BJNE000300307",
+          "paragraph" : "III.",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

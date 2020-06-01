@@ -1,0 +1,940 @@
+{
+  "documentIdentifier" : "BJNR000530976",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR000530976BJNG000102305",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR000530976BJNG000201305",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR000530976BJNE003503305",
+              "paragraph" : "§ 1",
+              "title" : "Erlaubnispflichtiges Personal"
+            },
+            {
+              "documentIdentifier" : "BJNR000530976BJNE003602305",
+              "paragraph" : "§ 2",
+              "title" : "Arten der Erlaubnis und Sonderregelungen der Erlaubnispflicht"
+            },
+            {
+              "documentIdentifier" : "BJNR000530976BJNE003704305",
+              "paragraph" : "§ 3",
+              "title" : "Anwendbare Vorschriften"
+            },
+            {
+              "documentIdentifier" : "BJNR000530976BJNE003804305",
+              "paragraph" : "§ 4",
+              "title" : "Mindestalter bei Erteilung der Erlaubnis"
+            },
+            {
+              "documentIdentifier" : "BJNR000530976BJNE003903305",
+              "paragraph" : "§ 5",
+              "title" : "Zuständige Stellen für die Erteilung von Erlaubnissen"
+            },
+            {
+              "documentIdentifier" : "BJNR000530976BJNE020502301",
+              "paragraph" : "§ 6",
+              "title" : "Durchführungsbestimmungen"
+            },
+            {
+              "documentIdentifier" : "BJNR000530976BJNE020600305",
+              "paragraph" : "§ 7",
+              "title" : "Antrag auf Erteilung einer Erlaubnis"
+            },
+            {
+              "documentIdentifier" : "BJNR000530976BJNE020700305",
+              "paragraph" : "§ 8",
+              "title" : "Erteilung der Erlaubnis und mitzuführende Dokumente"
+            },
+            {
+              "documentIdentifier" : "BJNR000530976BJNE020800305",
+              "paragraph" : "§ 9",
+              "title" : "Gültigkeitsdauer von Erlaubnissen und Berechtigungen"
+            },
+            {
+              "documentIdentifier" : "BJNR000530976BJNE020900305",
+              "paragraph" : "§ 10",
+              "title" : "Voraussetzungen für die Erneuerung von Erlaubnissen und Berechtigungen"
+            },
+            {
+              "documentIdentifier" : "BJNR000530976BJNE021000305",
+              "paragraph" : "§ 11",
+              "title" : "Ausübung der Rechte aus einer Erlaubnis"
+            },
+            {
+              "documentIdentifier" : "BJNR000530976BJNE004602305",
+              "paragraph" : "§ 12",
+              "title" : "Erlaubnisse der Bundeswehr"
+            },
+            {
+              "documentIdentifier" : "BJNR000530976BJNE004703305",
+              "paragraph" : "§ 13",
+              "title" : "Anerkennung von Erlaubnissen für Flugingenieure"
+            },
+            {
+              "documentIdentifier" : "BJNR000530976BJNE020400305",
+              "paragraph" : "§ 14",
+              "title" : "Anerkennung von Flugsimulationsübungsgeräten"
+            },
+            {
+              "documentIdentifier" : "BJNR000530976BJNE021100305",
+              "paragraph" : "§ 15",
+              "title" : "Widerruf, Beschränkung und Ruhen der Erlaubnis"
+            },
+            {
+              "documentIdentifier" : "BJNR000530976BJNE021201124",
+              "paragraph" : "§ 16",
+              "title" : "Voraussetzungen für die Ausbildung"
+            },
+            {
+              "documentIdentifier" : "BJNR000530976BJNE021301305",
+              "paragraph" : "§ 17",
+              "title" : "Mindestalter für den Beginn der Ausbildung"
+            },
+            {
+              "documentIdentifier" : "BJNR000530976BJNE021401124",
+              "paragraph" : "§ 18",
+              "title" : "Zuverlässigkeit"
+            },
+            {
+              "documentIdentifier" : "BJNR000530976BJNE021500305",
+              "paragraph" : "§ 19",
+              "title" : "Bewerbermeldung"
+            },
+            {
+              "documentIdentifier" : "BJNR000530976BJNE021600305",
+              "paragraph" : "§ 20",
+              "title" : "Zweifel an der Tauglichkeit oder Zuverlässigkeit"
+            },
+            {
+              "documentIdentifier" : "BJNR000530976BJNE021702301",
+              "paragraph" : "§ 21",
+              "title" : "Flugmedizinische Tauglichkeit"
+            },
+            {
+              "documentIdentifier" : "BJNR000530976BJNE021800305",
+              "paragraph" : "§ 22",
+              "title" : "Alleinflüge"
+            },
+            {
+              "documentIdentifier" : "BJNR000530976BJNE021900305",
+              "paragraph" : "§ 23",
+              "title" : "Ausbildungsbetriebe"
+            },
+            {
+              "documentIdentifier" : "BJNR000530976BJNE022000305",
+              "paragraph" : "§ 24",
+              "title" : "Voraussetzungen für den Erwerb der Ausbildungserlaubnis"
+            },
+            {
+              "documentIdentifier" : "BJNR000530976BJNE022100305",
+              "paragraph" : "§ 25",
+              "title" : "Form der Ausbildungserlaubnis"
+            },
+            {
+              "documentIdentifier" : "BJNR000530976BJNE022200305",
+              "paragraph" : "§ 26",
+              "title" : "Zuständige Stellen für die Erteilung der Ausbildungserlaubnis"
+            },
+            {
+              "documentIdentifier" : "BJNR000530976BJNE022400305",
+              "paragraph" : "§ 27",
+              "title" : "Antrag auf Erteilung der Ausbildungserlaubnis"
+            },
+            {
+              "documentIdentifier" : "BJNR000530976BJNE022300305",
+              "paragraph" : "§ 28",
+              "title" : "Erteilung und Umfang der Ausbildungserlaubnis"
+            },
+            {
+              "documentIdentifier" : "BJNR000530976BJNE022500305",
+              "paragraph" : "§ 29",
+              "title" : "Zulassung eines Dachverbandes als Ausbildungsbetrieb"
+            },
+            {
+              "documentIdentifier" : "BJNR000530976BJNE022600305",
+              "paragraph" : "§ 30",
+              "title" : "Beginn der Ausbildungstätigkeit"
+            },
+            {
+              "documentIdentifier" : "BJNR000530976BJNE022700305",
+              "paragraph" : "§ 31",
+              "title" : "Aufsicht über Ausbildungsbetriebe"
+            },
+            {
+              "documentIdentifier" : "BJNR000530976BJNE022800305",
+              "paragraph" : "§ 32",
+              "title" : "Rücknahme und Widerruf der Ausbildungserlaubnis"
+            },
+            {
+              "documentIdentifier" : "BJNR000530976BJNE022902301",
+              "paragraph" : "§ 33",
+              "title" : "(weggefallen)"
+            },
+            {
+              "documentIdentifier" : "BJNR000530976BJNE023002301",
+              "paragraph" : "§ 34",
+              "title" : "Fliegerärztlicher Ausschuss"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Allgemeines"
+        },
+        {
+          "documentIdentifier" : "BJNR000530976BJNG001002305",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR000530976BJNE007003305",
+              "paragraph" : "(XXXX) §§ 36 bis 41",
+              "title" : "(weggefallen)"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR000530976BJNG001103305",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR000530976BJNE007605116",
+              "paragraph" : "§ 42",
+              "title" : "Fachliche Voraussetzungen"
+            },
+            {
+              "documentIdentifier" : "BJNR000530976BJNE007703116",
+              "paragraph" : "§ 43",
+              "title" : "Prüfung"
+            },
+            {
+              "documentIdentifier" : "BJNR000530976BJNE007803305",
+              "paragraph" : "§ 44",
+              "title" : "Erteilung und Umfang des Luftfahrerscheins für Luftsportgeräteführer"
+            },
+            {
+              "documentIdentifier" : "BJNR000530976BJNE007904116",
+              "paragraph" : "§ 45",
+              "title" : "Gültigkeit des Luftfahrerscheins für Luftsportgeräteführer"
+            },
+            {
+              "documentIdentifier" : "BJNR000530976BJNE023200305",
+              "paragraph" : "§ 45a",
+              "title" : "Flugerfahrung bei Mitnahme von Fluggästen"
+            },
+            {
+              "documentIdentifier" : "BJNR000530976BJNE023300305",
+              "paragraph" : "§ 45b",
+              "title" : "Anrechnung von Flugzeiten"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Luftsportgeräteführer"
+        },
+        {
+          "documentIdentifier" : "BJNR000530976BJNG001202305",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR000530976BJNE008002305",
+              "paragraph" : "(XXXX) §§ 46 bis 49",
+              "title" : "Fachliche Voraussetzungen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR000530976BJNG001302305",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              5
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR000530976BJNG003600305",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR000530976BJNE008402305",
+                  "paragraph" : "(XXXX) §§ 50 bis 53",
+                  "title" : "(weggefallen)"
+                },
+                {
+                  "documentIdentifier" : "BJNR000530976BJNE008801308",
+                  "paragraph" : "(XXXX) §§ 54 bis 57",
+                  "title" : "(weggefallen)"
+                },
+                {
+                  "documentIdentifier" : "BJNR000530976BJNE009201308",
+                  "paragraph" : "(XXXX) §§ 58 bis 61",
+                  "title" : "(weggefallen)"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  1,
+                  5
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Berechtigung für Schleppflug und Passagierberechtigung für Luftsportgeräteführer"
+            }
+          ],
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR000530976BJNG001603305",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR000530976BJNE009602305",
+              "paragraph" : "§ 62",
+              "title" : "Fachliche Voraussetzungen"
+            },
+            {
+              "documentIdentifier" : "BJNR000530976BJNE009701308",
+              "paragraph" : "§ 63",
+              "title" : "Prüfung"
+            },
+            {
+              "documentIdentifier" : "BJNR000530976BJNE009802305",
+              "paragraph" : "§ 64",
+              "title" : "Erteilung und Umfang des Luftfahrerscheins für Flugtechniker"
+            },
+            {
+              "documentIdentifier" : "BJNR000530976BJNE009902305",
+              "paragraph" : "§ 65",
+              "title" : "Gültigkeit des Luftfahrerscheins für Flugtechniker"
+            },
+            {
+              "documentIdentifier" : "BJNR000530976BJNE010001308",
+              "paragraph" : "(XXXX) §§ 66 bis 70",
+              "title" : "(weggefallen)"
+            },
+            {
+              "documentIdentifier" : "BJNR000530976BJNE010502308",
+              "paragraph" : "(XXXX) §§ 71 bis 76",
+              "title" : "(weggefallen)"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              6
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Flugtechniker auf Hubschraubern der Polizeien des Bundes und der Länder"
+        },
+        {
+          "documentIdentifier" : "BJNR000530976BJNG001904305",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR000530976BJNE011104305",
+              "paragraph" : "§ 77",
+              "title" : "Langstreckenflugberechtigung für Flugzeugführer"
+            },
+            {
+              "documentIdentifier" : "BJNR000530976BJNE011103308",
+              "paragraph" : "(XXXX) §§ 78 bis 80",
+              "title" : "(weggefallen)"
+            },
+            {
+              "documentIdentifier" : "BJNR000530976BJNE011503305",
+              "paragraph" : "§ 81",
+              "title" : "(weggefallen)"
+            },
+            {
+              "documentIdentifier" : "BJNR000530976BJNE011603305",
+              "paragraph" : "§ 82",
+              "title" : "(weggefallen)"
+            },
+            {
+              "documentIdentifier" : "BJNR000530976BJNE011703305",
+              "paragraph" : "§ 83",
+              "title" : "(weggefallen)"
+            },
+            {
+              "documentIdentifier" : "BJNR000530976BJNE011804305",
+              "paragraph" : "§ 84",
+              "title" : "Schleppberechtigung"
+            },
+            {
+              "documentIdentifier" : "BJNR000530976BJNE018502305",
+              "paragraph" : "§ 84a",
+              "title" : "Passagierberechtigung für Luftsportgeräteführer"
+            },
+            {
+              "documentIdentifier" : "BJNR000530976BJNE011903305",
+              "paragraph" : "§ 85",
+              "title" : "(weggefallen)"
+            },
+            {
+              "documentIdentifier" : "BJNR000530976BJNE012002305",
+              "paragraph" : "§ 86",
+              "title" : "(weggefallen)"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              7
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Berechtigung für Langstreckenflug"
+        },
+        {
+          "documentIdentifier" : "BJNR000530976BJNG002103305",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR000530976BJNE012203305",
+              "paragraph" : "§ 88",
+              "title" : "Berechtigung zur praktischen Ausbildung von Flugingenieuren"
+            },
+            {
+              "documentIdentifier" : "BJNR000530976BJNE019602305",
+              "paragraph" : "§ 88a",
+              "title" : "(weggefallen)"
+            },
+            {
+              "documentIdentifier" : "BJNR000530976BJNE012303305",
+              "paragraph" : "§ 89",
+              "title" : "(weggefallen)"
+            },
+            {
+              "documentIdentifier" : "BJNR000530976BJNE012401308",
+              "paragraph" : "(XXXX) §§ 90 bis 93",
+              "title" : "(weggefallen)"
+            },
+            {
+              "documentIdentifier" : "BJNR000530976BJNE012802305",
+              "paragraph" : "§ 94",
+              "title" : "(weggefallen)"
+            },
+            {
+              "documentIdentifier" : "BJNR000530976BJNE012903305",
+              "paragraph" : "§ 95",
+              "title" : "(weggefallen)"
+            },
+            {
+              "documentIdentifier" : "BJNR000530976BJNE019702116",
+              "paragraph" : "§ 95a",
+              "title" : "Berechtigung zur praktischen Ausbildung von Luftsportgeräteführern"
+            },
+            {
+              "documentIdentifier" : "BJNR000530976BJNE013003305",
+              "paragraph" : "§ 96",
+              "title" : "Erteilung, Umfang, Gültigkeit, Verlängerung und Erneuerung der Berechtigungen"
+            },
+            {
+              "documentIdentifier" : "BJNR000530976BJNE013102308",
+              "paragraph" : "(XXXX) §§ 97 und 97a",
+              "title" : "(weggefallen)"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              9
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Berechtigung zur praktischen Ausbildung von Luftfahrtpersonal sowie zur Ausbildung an synthetischen Flugübungsgeräten"
+        },
+        {
+          "documentIdentifier" : "BJNR000530976BJNG002202305",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR000530976BJNE013203305",
+              "paragraph" : "§ 98",
+              "title" : "(weggefallen)"
+            },
+            {
+              "documentIdentifier" : "BJNR000530976BJNE013302308",
+              "paragraph" : "(XXXX) §§ 99 bis 103",
+              "title" : "(weggefallen)"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              10
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "(weggefallen)"
+        }
+      ],
+      "title" : "Erlaubnispflicht, Ausbildung und Tauglichkeit"
+    },
+    {
+      "documentIdentifier" : "BJNR000530976BJNG002301305",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR000530976BJNG002401305",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR000530976BJNE013806116",
+              "paragraph" : "§ 104",
+              "title" : "Fachliche Voraussetzungen"
+            },
+            {
+              "documentIdentifier" : "BJNR000530976BJNE013903305",
+              "paragraph" : "§ 105",
+              "title" : "Ersetzbarkeit der Berufsausbildung"
+            },
+            {
+              "documentIdentifier" : "BJNR000530976BJNE014004305",
+              "paragraph" : "§ 106",
+              "title" : "Anrechenbarkeit, Ersetzbarkeit der beruflichen Tätigkeit"
+            },
+            {
+              "documentIdentifier" : "BJNR000530976BJNE014102308",
+              "paragraph" : "§ 107",
+              "title" : "Prüfung"
+            },
+            {
+              "documentIdentifier" : "BJNR000530976BJNE014206116",
+              "paragraph" : "§ 108",
+              "title" : "Erteilung und Umfang der Erlaubnis, Ausweis für Prüfer von Luftfahrtgerät"
+            },
+            {
+              "documentIdentifier" : "BJNR000530976BJNE014305305",
+              "paragraph" : "§ 109",
+              "title" : "Gültigkeitsdauer, Verlängerung und Erneuerung der Erlaubnis"
+            },
+            {
+              "documentIdentifier" : "BJNR000530976BJNE014404305",
+              "paragraph" : "§ 110",
+              "title" : "Musterberechtigung für Prüfer von Luftfahrtgerät"
+            },
+            {
+              "documentIdentifier" : "BJNR000530976BJNE014501305",
+              "paragraph" : "§ 111",
+              "title" : "Erteilung und Umfang der Musterberechtigung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Prüfer von Luftfahrtgerät"
+        },
+        {
+          "documentIdentifier" : "BJNR000530976BJNG003402305",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR000530976BJNE018804305",
+              "paragraph" : "§ 111a",
+              "title" : "Fachliche Voraussetzungen, Prüfungen, Erteilung und Umfang der Erlaubnis"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Freigabeberechtigtes Personal"
+        },
+        {
+          "documentIdentifier" : "BJNR000530976BJNG002502305",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR000530976BJNE014603305",
+              "paragraph" : "§ 112",
+              "title" : "Fachliche Voraussetzungen"
+            },
+            {
+              "documentIdentifier" : "BJNR000530976BJNE014702305",
+              "paragraph" : "§ 113",
+              "title" : "Prüfung"
+            },
+            {
+              "documentIdentifier" : "BJNR000530976BJNE014803305",
+              "paragraph" : "§ 114",
+              "title" : "Erteilung, Umfang und Gültigkeit des Luftfahrerscheins für Flugdienstberater"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Flugdienstberater"
+        },
+        {
+          "documentIdentifier" : "BJNR000530976BJNG002602305",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR000530976BJNE014902305",
+              "paragraph" : "§ 115",
+              "title" : "Fachliche Voraussetzungen, Prüfung"
+            },
+            {
+              "documentIdentifier" : "BJNR000530976BJNE015002305",
+              "paragraph" : "§ 116",
+              "title" : "Erteilung, Umfang und Gültigkeit des Ausweises für Steuerer von Flugmodellen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Steuerer von Flugmodellen nach § 1 Absatz 1 Nummer 8 der Luftverkehrs-Zulassungs-Ordnung und sonstigem Luftfahrtgerät, das nach § 6 Nummer 9 der Luftverkehrs-Zulassungs-Ordnung verkehrszulassungspflichtig ist"
+        }
+      ],
+      "title" : "Weitere Erlaubnisse und Berechtigungen"
+    },
+    {
+      "documentIdentifier" : "BJNR000530976BJNG002701305",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR000530976BJNG002802305",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR000530976BJNE015104305",
+              "paragraph" : "§ 117",
+              "title" : "Alleinflüge zum Erwerb, zur Erweiterung oder Erneuerung eines Luftfahrerscheins oder einer Berechtigung"
+            },
+            {
+              "documentIdentifier" : "BJNR000530976BJNE015201308",
+              "paragraph" : "(XXXX) §§ 118 und 119",
+              "title" : "(weggefallen)"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Alleinflüge zum Erwerb, zur Erweiterung oder zur Erneuerung einer Lizenz, eines Luftfahrerscheins oder einer Berechtigung"
+        },
+        {
+          "documentIdentifier" : "BJNR000530976BJNG002902305",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR000530976BJNE015403305",
+              "paragraph" : "§ 120",
+              "title" : "Nachweis der fliegerischen Voraussetzungen"
+            },
+            {
+              "documentIdentifier" : "BJNR000530976BJNE015502305",
+              "paragraph" : "§ 121",
+              "title" : "Nachweis der theoretischen Ausbildung"
+            },
+            {
+              "documentIdentifier" : "BJNR000530976BJNE015605305",
+              "paragraph" : "§ 122",
+              "title" : "(weggefallen)"
+            },
+            {
+              "documentIdentifier" : "BJNR000530976BJNE015803305",
+              "paragraph" : "§ 124",
+              "title" : "(weggefallen)"
+            },
+            {
+              "documentIdentifier" : "BJNR000530976BJNE015905305",
+              "paragraph" : "§ 125",
+              "title" : "Nachweis von Sprachkenntnissen"
+            },
+            {
+              "documentIdentifier" : "BJNR000530976BJNE019901305",
+              "paragraph" : "§ 125a",
+              "title" : "Anerkennung einer Stelle für die Abnahme von Sprachprüfungen"
+            },
+            {
+              "documentIdentifier" : "BJNR000530976BJNE016002305",
+              "paragraph" : "§ 126",
+              "title" : "(weggefallen)"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              2
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR000530976BJNG003502305",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR000530976BJNE016103305",
+                  "paragraph" : "§ 127",
+                  "title" : "(weggefallen)"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  3,
+                  2
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "(weggefallen)"
+            }
+          ],
+          "title" : "Nachweis der fliegerischen und fachlichen Voraussetzungen"
+        },
+        {
+          "documentIdentifier" : "BJNR000530976BJNG003002305",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR000530976BJNE016205305",
+              "paragraph" : "§ 128",
+              "title" : "Prüfungen, Befähigungsüberprüfungen und Kompetenzbeurteilungen für Luftfahrer; Anerkennung von Prüfern"
+            },
+            {
+              "documentIdentifier" : "BJNR000530976BJNE023100305",
+              "paragraph" : "§ 128a",
+              "title" : "Prüfungen für freigabeberechtigtes Personal und für Prüfer von Luftfahrtgerät; Anerkennung von Prüfern"
+            },
+            {
+              "documentIdentifier" : "BJNR000530976BJNE016304305",
+              "paragraph" : "§ 129",
+              "title" : "Berücksichtigung einer theoretischen Vorbildung"
+            },
+            {
+              "documentIdentifier" : "BJNR000530976BJNE016404305",
+              "paragraph" : "§ 130",
+              "title" : "(weggefallen)"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Durchführung der Prüfungen, Befähigungsüberprüfungen und Kompetenzbeurteilungen; Berücksichtigung einer theoretischen Vorbildung"
+        },
+        {
+          "documentIdentifier" : "BJNR000530976BJNG003203305",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR000530976BJNE016505305",
+              "paragraph" : "§ 131",
+              "title" : "Zuständige Stellen"
+            },
+            {
+              "documentIdentifier" : "BJNR000530976BJNE016603305",
+              "paragraph" : "§ 132",
+              "title" : "Antragstellung"
+            },
+            {
+              "documentIdentifier" : "BJNR000530976BJNE016704308",
+              "paragraph" : "§ 133",
+              "title" : "Berechtigung zur Ausübung des Sprechfunkdienstes"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Zuständige Stellen, Antragstellung, Berechtigung zur Ausübung des Sprechfunkdienstes"
+        }
+      ],
+      "title" : "Gemeinsame Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR000530976BJNG003302305",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR000530976BJNE019802305",
+          "paragraph" : "§ 133a",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR000530976BJNE016805305",
+          "paragraph" : "§ 134",
+          "title" : "Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR000530976BJNE016904305",
+          "paragraph" : "§ 135",
+          "title" : "Übergangsvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR000530976BJNE020302305",
+          "paragraph" : "Anlage 1",
+          "title" : "Luftfahrerscheine (Muster 1 bis 11)"
+        },
+        {
+          "documentIdentifier" : "BJNR000530976BJNE017203305",
+          "paragraph" : "Muster 1",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR000530976BJNE017304305",
+          "paragraph" : "Muster 2",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR000530976BJNE017403305",
+          "paragraph" : "Muster 3",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR000530976BJNE017504305",
+          "paragraph" : "Muster 4",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR000530976BJNE017602308",
+          "paragraph" : "Muster 5",
+          "title" : "Luftfahrerschein für Luftsportgeräteführer"
+        },
+        {
+          "documentIdentifier" : "BJNR000530976BJNE017703305",
+          "paragraph" : "Muster 6",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR000530976BJNE017901308",
+          "paragraph" : "Muster 8",
+          "title" : "Luftfahrerschein für Flugtechniker auf Hubschraubern"
+        },
+        {
+          "documentIdentifier" : "BJNR000530976BJNE018700308",
+          "paragraph" : "Muster 9a",
+          "title" : "Luftfahrerschein für Fallschirmspringer"
+        },
+        {
+          "documentIdentifier" : "BJNR000530976BJNE018101308",
+          "paragraph" : "Muster 10",
+          "title" : "Luftfahrerschein für Flugdienstberater"
+        },
+        {
+          "documentIdentifier" : "BJNR000530976BJNE018201308",
+          "paragraph" : "Muster 11",
+          "title" : "Ausweis für Steuerer von Flugmodellen und von sonstigem für die Benutzung des Luftraums bestimmten Luftfahrtgerät"
+        },
+        {
+          "documentIdentifier" : "BJNR000530976BJNE023400305",
+          "paragraph" : "Anlage 3",
+          "title" : "(zu § 27)"
+        },
+        {
+          "documentIdentifier" : "BJNR000530976BJNE020201305",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 125a)"
+        },
+        {
+          "documentIdentifier" : "BJNR000530976BJNE018001305",
+          "paragraph" : "Muster 9",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Ordnungswidrigkeiten und Übergangsvorschriften"
+    }
+  ]
+}

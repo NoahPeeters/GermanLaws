@@ -1,0 +1,161 @@
+{
+  "documentIdentifier" : "BJNR456900002",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR456900002BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR456900002BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Geltungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR456900002BJNE000204124",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gemeinsame Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR456900002BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR456900002BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Grundregeln"
+        },
+        {
+          "documentIdentifier" : "BJNR456900002BJNE000401305",
+          "paragraph" : "§ 4",
+          "title" : "Erlaubnis"
+        },
+        {
+          "documentIdentifier" : "BJNR456900002BJNE000501305",
+          "paragraph" : "§ 5",
+          "title" : "Besondere Pflichten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Betriebsvorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR456900002BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR456900002BJNE000600000",
+          "paragraph" : "§ 6",
+          "title" : "Anforderungen für den Erwerb der Erlaubnis"
+        },
+        {
+          "documentIdentifier" : "BJNR456900002BJNE000700000",
+          "paragraph" : "§ 7",
+          "title" : "Prüfungsvoraussetzungen"
+        },
+        {
+          "documentIdentifier" : "BJNR456900002BJNE000800000",
+          "paragraph" : "§ 8",
+          "title" : "Prüfungsausschüsse"
+        },
+        {
+          "documentIdentifier" : "BJNR456900002BJNE000901308",
+          "paragraph" : "§ 9",
+          "title" : "Prüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR456900002BJNE001000000",
+          "paragraph" : "§ 10",
+          "title" : "Erteilung ohne Prüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR456900002BJNE001100000",
+          "paragraph" : "§ 11",
+          "title" : "Ersatzausfertigung"
+        },
+        {
+          "documentIdentifier" : "BJNR456900002BJNE001200000",
+          "paragraph" : "§ 12",
+          "title" : "Entziehung"
+        },
+        {
+          "documentIdentifier" : "BJNR456900002BJNE001301305",
+          "paragraph" : "§ 13",
+          "title" : "Auskünfte"
+        },
+        {
+          "documentIdentifier" : "BJNR456900002BJNE001400000",
+          "paragraph" : "§ 14",
+          "title" : "Amtlich anerkanntes UKW-Sprechfunkzeugnis (UBI)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Erwerb der Erlaubnis; Funkzeugnisse"
+    },
+    {
+      "documentIdentifier" : "BJNR456900002BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR456900002BJNE001501305",
+          "paragraph" : "§ 15",
+          "title" : "Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR456900002BJNE001800000",
+          "paragraph" : "§ 18",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR456900002BJNE001900000",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 4 Abs. 2, § 9 Abs. 4)\n"
+        },
+        {
+          "documentIdentifier" : "BJNR456900002BJNE002000000",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 4 Abs. 3 Nr. 1, § 14)\n"
+        },
+        {
+          "documentIdentifier" : "BJNR456900002BJNE002100000",
+          "paragraph" : "Anlage 3",
+          "title" : "(zu § 9 Abs. 1)\n"
+        },
+        {
+          "documentIdentifier" : "BJNR456900002BJNE002200000",
+          "paragraph" : "Anlage 4",
+          "title" : "(zu § 9 Abs. 3)\n"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussvorschriften"
+    }
+  ]
+}

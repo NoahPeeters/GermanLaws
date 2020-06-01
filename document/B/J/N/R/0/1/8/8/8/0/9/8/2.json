@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR018880982",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR018880982Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR018880982BJNE000200311",
+          "paragraph" : "§ 1",
+          "title" : "Grundsatz"
+        },
+        {
+          "documentIdentifier" : "BJNR018880982BJNE000300311",
+          "paragraph" : "§ 2",
+          "title" : "Formelrenten"
+        },
+        {
+          "documentIdentifier" : "BJNR018880982BJNE000400311",
+          "paragraph" : "§ 3",
+          "title" : "Sonstige Renten und Altersgelder"
+        },
+        {
+          "documentIdentifier" : "BJNR018880982BJNE000500311",
+          "paragraph" : "§ 4",
+          "title" : "Allgemeines"
+        },
+        {
+          "documentIdentifier" : "BJNR018880982BJNE000600311",
+          "paragraph" : "§ 5",
+          "title" : "Berichtigung fehlerhafter Anpassungen"
+        },
+        {
+          "documentIdentifier" : "BJNR018880982BJNE000700311",
+          "paragraph" : "§ 6",
+          "title" : "Berlin-Klausel"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR005450959",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR005450959BJNG000100326",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Änderung von Gesetzen"
+    },
+    {
+      "documentIdentifier" : "BJNR005450959BJNG000200326",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR005450959BJNE000400326",
+          "paragraph" : "§ 6",
+          "title" : "Übergangsregelung bei der Kriegsschadenrente"
+        },
+        {
+          "documentIdentifier" : "BJNR005450959BJNE000500326",
+          "paragraph" : "§ 7",
+          "title" : "Anwendung in Berlin"
+        },
+        {
+          "documentIdentifier" : "BJNR005450959BJNE000600326",
+          "paragraph" : "§ 8",
+          "title" : "Anwendung im Saarland"
+        },
+        {
+          "documentIdentifier" : "BJNR005450959BJNE000700326",
+          "paragraph" : "§ 9",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Überleitungs- und Schlußvorschriften"
+    }
+  ]
+}

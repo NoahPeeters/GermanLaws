@@ -1,0 +1,560 @@
+{
+  "documentIdentifier" : "BJNR227600013",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR227600013BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR227600013BJNE000300000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR227600013BJNE000400000",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR227600013BJNE000500000",
+          "paragraph" : "§ 3",
+          "title" : "Leistungen und Leistungsbilder"
+        },
+        {
+          "documentIdentifier" : "BJNR227600013BJNE000600000",
+          "paragraph" : "§ 4",
+          "title" : "Anrechenbare Kosten"
+        },
+        {
+          "documentIdentifier" : "BJNR227600013BJNE000700000",
+          "paragraph" : "§ 5",
+          "title" : "Honorarzonen"
+        },
+        {
+          "documentIdentifier" : "BJNR227600013BJNE000800000",
+          "paragraph" : "§ 6",
+          "title" : "Grundlagen des Honorars"
+        },
+        {
+          "documentIdentifier" : "BJNR227600013BJNE000900000",
+          "paragraph" : "§ 7",
+          "title" : "Honorarvereinbarung"
+        },
+        {
+          "documentIdentifier" : "BJNR227600013BJNE001000000",
+          "paragraph" : "§ 8",
+          "title" : "Berechnung des Honorars in besonderen Fällen"
+        },
+        {
+          "documentIdentifier" : "BJNR227600013BJNE001100000",
+          "paragraph" : "§ 9",
+          "title" : "Berechnung des Honorars bei Beauftragung von Einzelleistungen"
+        },
+        {
+          "documentIdentifier" : "BJNR227600013BJNE001200000",
+          "paragraph" : "§ 10",
+          "title" : "Berechnung des Honorars bei vertraglichen Änderungen des Leistungsumfangs"
+        },
+        {
+          "documentIdentifier" : "BJNR227600013BJNE001300000",
+          "paragraph" : "§ 11",
+          "title" : "Auftrag für mehrere Objekte"
+        },
+        {
+          "documentIdentifier" : "BJNR227600013BJNE001400000",
+          "paragraph" : "§ 12",
+          "title" : "Instandsetzungen und Instandhaltungen"
+        },
+        {
+          "documentIdentifier" : "BJNR227600013BJNE001500000",
+          "paragraph" : "§ 13",
+          "title" : "Interpolation"
+        },
+        {
+          "documentIdentifier" : "BJNR227600013BJNE001600000",
+          "paragraph" : "§ 14",
+          "title" : "Nebenkosten"
+        },
+        {
+          "documentIdentifier" : "BJNR227600013BJNE001700000",
+          "paragraph" : "§ 15",
+          "title" : "Zahlungen"
+        },
+        {
+          "documentIdentifier" : "BJNR227600013BJNE001800000",
+          "paragraph" : "§ 16",
+          "title" : "Umsatzsteuer"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR227600013BJNG000200000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR227600013BJNG000300000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR227600013BJNE001900000",
+              "paragraph" : "§ 17",
+              "title" : "Anwendungsbereich"
+            },
+            {
+              "documentIdentifier" : "BJNR227600013BJNE002000000",
+              "paragraph" : "§ 18",
+              "title" : "Leistungsbild Flächennutzungsplan"
+            },
+            {
+              "documentIdentifier" : "BJNR227600013BJNE002100000",
+              "paragraph" : "§ 19",
+              "title" : "Leistungsbild Bebauungsplan"
+            },
+            {
+              "documentIdentifier" : "BJNR227600013BJNE002200000",
+              "paragraph" : "§ 20",
+              "title" : "Honorare für Grundleistungen bei Flächennutzungsplänen"
+            },
+            {
+              "documentIdentifier" : "BJNR227600013BJNE002300000",
+              "paragraph" : "§ 21",
+              "title" : "Honorare für Grundleistungen bei Bebauungsplänen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Bauleitplanung"
+        },
+        {
+          "documentIdentifier" : "BJNR227600013BJNG000400000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR227600013BJNE002400000",
+              "paragraph" : "§ 22",
+              "title" : "Anwendungsbereich"
+            },
+            {
+              "documentIdentifier" : "BJNR227600013BJNE002500000",
+              "paragraph" : "§ 23",
+              "title" : "Leistungsbild Landschaftsplan"
+            },
+            {
+              "documentIdentifier" : "BJNR227600013BJNE002600000",
+              "paragraph" : "§ 24",
+              "title" : "Leistungsbild Grünordnungsplan"
+            },
+            {
+              "documentIdentifier" : "BJNR227600013BJNE002700000",
+              "paragraph" : "§ 25",
+              "title" : "Leistungsbild Landschaftsrahmenplan"
+            },
+            {
+              "documentIdentifier" : "BJNR227600013BJNE002800000",
+              "paragraph" : "§ 26",
+              "title" : "Leistungsbild Landschaftspflegerischer Begleitplan"
+            },
+            {
+              "documentIdentifier" : "BJNR227600013BJNE002900000",
+              "paragraph" : "§ 27",
+              "title" : "Leistungsbild Pflege- und Entwicklungsplan"
+            },
+            {
+              "documentIdentifier" : "BJNR227600013BJNE003000000",
+              "paragraph" : "§ 28",
+              "title" : "Honorare für Grundleistungen bei Landschaftsplänen"
+            },
+            {
+              "documentIdentifier" : "BJNR227600013BJNE003100000",
+              "paragraph" : "§ 29",
+              "title" : "Honorare für Grundleistungen bei Grünordnungsplänen"
+            },
+            {
+              "documentIdentifier" : "BJNR227600013BJNE003200000",
+              "paragraph" : "§ 30",
+              "title" : "Honorare für Grundleistungen bei Landschaftsrahmenplänen"
+            },
+            {
+              "documentIdentifier" : "BJNR227600013BJNE003300000",
+              "paragraph" : "§ 31",
+              "title" : "Honorare für Grundleistungen bei Landschaftspflegerischen Begleitplänen"
+            },
+            {
+              "documentIdentifier" : "BJNR227600013BJNE003400000",
+              "paragraph" : "§ 32",
+              "title" : "Honorare für Grundleistungen bei Pflege- und Entwicklungsplänen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Landschaftsplanung"
+        }
+      ],
+      "title" : "Flächenplanung"
+    },
+    {
+      "documentIdentifier" : "BJNR227600013BJNG000500000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR227600013BJNG000600000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR227600013BJNE003500000",
+              "paragraph" : "§ 33",
+              "title" : "Besondere Grundlagen des Honorars"
+            },
+            {
+              "documentIdentifier" : "BJNR227600013BJNE003600000",
+              "paragraph" : "§ 34",
+              "title" : "Leistungsbild Gebäude und Innenräume"
+            },
+            {
+              "documentIdentifier" : "BJNR227600013BJNE003700000",
+              "paragraph" : "§ 35",
+              "title" : "Honorare für Grundleistungen bei Gebäuden und Innenräumen"
+            },
+            {
+              "documentIdentifier" : "BJNR227600013BJNE003800000",
+              "paragraph" : "§ 36",
+              "title" : "Umbauten und Modernisierungen von Gebäuden und Innenräumen"
+            },
+            {
+              "documentIdentifier" : "BJNR227600013BJNE003900000",
+              "paragraph" : "§ 37",
+              "title" : "Aufträge für Gebäude und Freianlagen oder für Gebäude und Innenräume"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Gebäude und Innenräume"
+        },
+        {
+          "documentIdentifier" : "BJNR227600013BJNG000700000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR227600013BJNE004000000",
+              "paragraph" : "§ 38",
+              "title" : "Besondere Grundlagen des Honorars"
+            },
+            {
+              "documentIdentifier" : "BJNR227600013BJNE004100000",
+              "paragraph" : "§ 39",
+              "title" : "Leistungsbild Freianlagen"
+            },
+            {
+              "documentIdentifier" : "BJNR227600013BJNE004200000",
+              "paragraph" : "§ 40",
+              "title" : "Honorare für Grundleistungen bei Freianlagen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Freianlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR227600013BJNG000800000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR227600013BJNE004300000",
+              "paragraph" : "§ 41",
+              "title" : "Anwendungsbereich"
+            },
+            {
+              "documentIdentifier" : "BJNR227600013BJNE004400000",
+              "paragraph" : "§ 42",
+              "title" : "Besondere Grundlagen des Honorars"
+            },
+            {
+              "documentIdentifier" : "BJNR227600013BJNE004500000",
+              "paragraph" : "§ 43",
+              "title" : "Leistungsbild Ingenieurbauwerke"
+            },
+            {
+              "documentIdentifier" : "BJNR227600013BJNE004600000",
+              "paragraph" : "§ 44",
+              "title" : "Honorare für Grundleistungen bei Ingenieurbauwerken"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Ingenieurbauwerke"
+        },
+        {
+          "documentIdentifier" : "BJNR227600013BJNG000900000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR227600013BJNE004700000",
+              "paragraph" : "§ 45",
+              "title" : "Anwendungsbereich"
+            },
+            {
+              "documentIdentifier" : "BJNR227600013BJNE004800000",
+              "paragraph" : "§ 46",
+              "title" : "Besondere Grundlagen des Honorars"
+            },
+            {
+              "documentIdentifier" : "BJNR227600013BJNE004900000",
+              "paragraph" : "§ 47",
+              "title" : "Leistungsbild Verkehrsanlagen"
+            },
+            {
+              "documentIdentifier" : "BJNR227600013BJNE005000000",
+              "paragraph" : "§ 48",
+              "title" : "Honorare für Grundleistungen bei Verkehrsanlagen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Verkehrsanlagen"
+        }
+      ],
+      "title" : "Objektplanung"
+    },
+    {
+      "documentIdentifier" : "BJNR227600013BJNG001000000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR227600013BJNG001100000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR227600013BJNE005100000",
+              "paragraph" : "§ 49",
+              "title" : "Anwendungsbereich"
+            },
+            {
+              "documentIdentifier" : "BJNR227600013BJNE005200000",
+              "paragraph" : "§ 50",
+              "title" : "Besondere Grundlagen des Honorars"
+            },
+            {
+              "documentIdentifier" : "BJNR227600013BJNE005300000",
+              "paragraph" : "§ 51",
+              "title" : "Leistungsbild Tragwerksplanung"
+            },
+            {
+              "documentIdentifier" : "BJNR227600013BJNE005400000",
+              "paragraph" : "§ 52",
+              "title" : "Honorare für Grundleistungen bei Tragwerksplanungen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Tragwerksplanung"
+        },
+        {
+          "documentIdentifier" : "BJNR227600013BJNG001200000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR227600013BJNE005500000",
+              "paragraph" : "§ 53",
+              "title" : "Anwendungsbereich"
+            },
+            {
+              "documentIdentifier" : "BJNR227600013BJNE005600000",
+              "paragraph" : "§ 54",
+              "title" : "Besondere Grundlagen des Honorars"
+            },
+            {
+              "documentIdentifier" : "BJNR227600013BJNE005700000",
+              "paragraph" : "§ 55",
+              "title" : "Leistungsbild Technische Ausrüstung"
+            },
+            {
+              "documentIdentifier" : "BJNR227600013BJNE005800000",
+              "paragraph" : "§ 56",
+              "title" : "Honorare für Grundleistungen der Technischen Ausrüstung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Technische Ausrüstung"
+        }
+      ],
+      "title" : "Fachplanung"
+    },
+    {
+      "documentIdentifier" : "BJNR227600013BJNG001300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR227600013BJNE005900000",
+          "paragraph" : "§ 57",
+          "title" : "Übergangsvorschrift"
+        },
+        {
+          "documentIdentifier" : "BJNR227600013BJNE006000000",
+          "paragraph" : "§ 58",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR227600013BJNE006200000",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 3 Absatz 1)"
+        },
+        {
+          "documentIdentifier" : "BJNR227600013BJNE006300000",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 18 Absatz 2)"
+        },
+        {
+          "documentIdentifier" : "BJNR227600013BJNE006400000",
+          "paragraph" : "Anlage 3",
+          "title" : "(zu § 19 Absatz 2)"
+        },
+        {
+          "documentIdentifier" : "BJNR227600013BJNE006500000",
+          "paragraph" : "Anlage 4",
+          "title" : "(zu § 23 Absatz 2)"
+        },
+        {
+          "documentIdentifier" : "BJNR227600013BJNE006600000",
+          "paragraph" : "Anlage 5",
+          "title" : "(zu § 24 Absatz 2)"
+        },
+        {
+          "documentIdentifier" : "BJNR227600013BJNE006700000",
+          "paragraph" : "Anlage 6",
+          "title" : "(zu § 25 Absatz 2)"
+        },
+        {
+          "documentIdentifier" : "BJNR227600013BJNE006800000",
+          "paragraph" : "Anlage 7",
+          "title" : "(zu § 26 Absatz 2)"
+        },
+        {
+          "documentIdentifier" : "BJNR227600013BJNE006900000",
+          "paragraph" : "Anlage 8",
+          "title" : "(zu § 27 Absatz 2)"
+        },
+        {
+          "documentIdentifier" : "BJNR227600013BJNE007000000",
+          "paragraph" : "Anlage 9",
+          "title" : "(zu § 18 Absatz 2, § 19 Absatz 2, § 23 Absatz 2, § 24 Absatz 2, § 25 Absatz 2, § 26 Absatz 2, § 27 Absatz 2)"
+        },
+        {
+          "documentIdentifier" : "BJNR227600013BJNE007100000",
+          "paragraph" : "Anlage 10",
+          "title" : "(zu § 34 Absatz 4, § 35 Absatz 7)"
+        },
+        {
+          "documentIdentifier" : "BJNR227600013BJNE007200000",
+          "paragraph" : "Anlage 11",
+          "title" : "(zu § 39 Absatz 4, § 40 Absatz 5)"
+        },
+        {
+          "documentIdentifier" : "BJNR227600013BJNE007300000",
+          "paragraph" : "Anlage 12",
+          "title" : "(zu § 43 Absatz 4, § 48 Absatz 5)"
+        },
+        {
+          "documentIdentifier" : "BJNR227600013BJNE007400000",
+          "paragraph" : "Anlage 13",
+          "title" : "(zu § 47 Absatz 2, § 48 Absatz 5)"
+        },
+        {
+          "documentIdentifier" : "BJNR227600013BJNE007500000",
+          "paragraph" : "Anlage 14",
+          "title" : "(zu § 51 Absatz 5, § 52 Absatz 2)"
+        },
+        {
+          "documentIdentifier" : "BJNR227600013BJNE007600000",
+          "paragraph" : "Anlage 15",
+          "title" : "(zu § 55 Absatz 3, § 56 Absatz 3)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übergangs- und Schlussvorschriften"
+    }
+  ]
+}

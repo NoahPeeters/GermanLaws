@@ -1,0 +1,84 @@
+{
+  "documentIdentifier" : "BJNR002700002",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR002700002Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR002700002BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR002700002BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR002700002BJNE000301305",
+          "paragraph" : "§ 3",
+          "title" : "Voraussetzungen für den Betrieb"
+        },
+        {
+          "documentIdentifier" : "BJNR002700002BJNE000401305",
+          "paragraph" : "§ 4",
+          "title" : "Anforderungen an Anlagen und Geräte für die Flugsicherung"
+        },
+        {
+          "documentIdentifier" : "BJNR002700002BJNE000501305",
+          "paragraph" : "§ 5",
+          "title" : "Grundsätze des Zulassungsverfahrens"
+        },
+        {
+          "documentIdentifier" : "BJNR002700002BJNE000601305",
+          "paragraph" : "§ 6",
+          "title" : "Musterzulassung"
+        },
+        {
+          "documentIdentifier" : "BJNR002700002BJNE000701305",
+          "paragraph" : "§ 7",
+          "title" : "Widerruf der Zulassung"
+        },
+        {
+          "documentIdentifier" : "BJNR002700002BJNE000801305",
+          "paragraph" : "§ 8",
+          "title" : "Produktkontrolle"
+        },
+        {
+          "documentIdentifier" : "BJNR002700002BJNE000901305",
+          "paragraph" : "§ 9",
+          "title" : "Verpflichtungen des Herstellers"
+        },
+        {
+          "documentIdentifier" : "BJNR002700002BJNE001000000",
+          "paragraph" : "§ 10",
+          "title" : "Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR002700002BJNE001101305",
+          "paragraph" : "§ 11",
+          "title" : "Übergangsvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR002700002BJNE001200000",
+          "paragraph" : "§ 12",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR002700002BJNE001302305",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 6 Abs. 1)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

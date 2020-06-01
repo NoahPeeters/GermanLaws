@@ -1,0 +1,64 @@
+{
+  "documentIdentifier" : "BJNR245000012",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR245000012Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR245000012BJNE000101116",
+          "paragraph" : "§ 1",
+          "title" : "Technische Bewertungsstelle"
+        },
+        {
+          "documentIdentifier" : "BJNR245000012BJNE000201116",
+          "paragraph" : "§ 2",
+          "title" : "Widerruf der Benennung als Technische Bewertungsstelle"
+        },
+        {
+          "documentIdentifier" : "BJNR245000012BJNE000301116",
+          "paragraph" : "§ 3",
+          "title" : "Notifizierende Behörde und notifizierte Stellen"
+        },
+        {
+          "documentIdentifier" : "BJNR245000012BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Antrag auf Notifizierung"
+        },
+        {
+          "documentIdentifier" : "BJNR245000012BJNE000501116",
+          "paragraph" : "§ 5",
+          "title" : "Marktüberwachung"
+        },
+        {
+          "documentIdentifier" : "BJNR245000012BJNE000600000",
+          "paragraph" : "§ 6",
+          "title" : "Sprache"
+        },
+        {
+          "documentIdentifier" : "BJNR245000012BJNE000700000",
+          "paragraph" : "§ 7",
+          "title" : "Rechtsverordnungen zur Umsetzung oder Durchführung von Rechtsakten der Europäischen Union"
+        },
+        {
+          "documentIdentifier" : "BJNR245000012BJNE000800000",
+          "paragraph" : "§ 8",
+          "title" : "Bußgeldvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR245000012BJNE000900000",
+          "paragraph" : "§ 9",
+          "title" : "Strafvorschriften"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

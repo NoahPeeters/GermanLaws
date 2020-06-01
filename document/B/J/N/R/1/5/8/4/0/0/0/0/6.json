@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR158400006",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR158400006Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR158400006BJNE000204116",
+          "paragraph" : "§ 1",
+          "title" : "Übertragung von Befugnissen als oberste Dienstbehörde"
+        },
+        {
+          "documentIdentifier" : "BJNR158400006BJNE000304116",
+          "paragraph" : "§ 2",
+          "title" : "Dienstvorgesetzte"
+        },
+        {
+          "documentIdentifier" : "BJNR158400006BJNE000404116",
+          "paragraph" : "§ 3",
+          "title" : "Höhere Dienstvorgesetzte"
+        },
+        {
+          "documentIdentifier" : "BJNR158400006BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR164900008",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR164900008Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR164900008BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Einbürgerungstest und Einbürgerungskurs"
+        },
+        {
+          "documentIdentifier" : "BJNR164900008BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Verfahren des Einbürgerungstests unter Mitnutzung von Prüfstellen des Bundesamtes"
+        },
+        {
+          "documentIdentifier" : "BJNR164900008BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Verfahren des Einbürgerungstests über Landesstellen"
+        },
+        {
+          "documentIdentifier" : "BJNR164900008BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Datenerhebung und -verarbeitung"
+        },
+        {
+          "documentIdentifier" : "BJNR164900008BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR164900008BJNE000701308",
+          "paragraph" : "Anlage 1",
+          "title" : "Gesamtkatalog der für den Einbürgerungstest zugelassenen Prüfungsfragen"
+        },
+        {
+          "documentIdentifier" : "BJNR164900008BJNE000800000",
+          "paragraph" : "Anlage 2",
+          "title" : "Rahmencurriculum für den Einbürgerungskurs"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

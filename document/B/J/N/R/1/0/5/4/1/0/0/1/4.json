@@ -1,0 +1,64 @@
+{
+  "documentIdentifier" : "BJNR105410014",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR105410014Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR105410014BJNE000101116",
+          "paragraph" : "§ 1",
+          "title" : "Ziel"
+        },
+        {
+          "documentIdentifier" : "BJNR105410014BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR105410014BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Anzeigepflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR105410014BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Sprache"
+        },
+        {
+          "documentIdentifier" : "BJNR105410014BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Kennzeichnung nicht vorverpackter kosmetischer Mittel"
+        },
+        {
+          "documentIdentifier" : "BJNR105410014BJNE000600000",
+          "paragraph" : "§ 6",
+          "title" : "Informations- und Behandlungszentren für Vergiftungen"
+        },
+        {
+          "documentIdentifier" : "BJNR105410014BJNE000700000",
+          "paragraph" : "§ 7",
+          "title" : "Ausnahmen für die Einfuhr"
+        },
+        {
+          "documentIdentifier" : "BJNR105410014BJNE000801116",
+          "paragraph" : "§ 8",
+          "title" : "Straftaten"
+        },
+        {
+          "documentIdentifier" : "BJNR105410014BJNE000901116",
+          "paragraph" : "§ 9",
+          "title" : "Ordnungswidrigkeiten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

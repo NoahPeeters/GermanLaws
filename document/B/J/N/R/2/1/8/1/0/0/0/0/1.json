@@ -1,0 +1,170 @@
+{
+  "documentIdentifier" : "BJNR218100001",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR218100001BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR218100001BJNE000101116",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR218100001BJNE000203116",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Anwendungsbereich, Begriffsbestimmungen"
+    },
+    {
+      "documentIdentifier" : "BJNR218100001BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR218100001BJNE000305116",
+          "paragraph" : "§ 3",
+          "title" : "Allgemeine Anforderungen"
+        },
+        {
+          "documentIdentifier" : "BJNR218100001BJNE000401116",
+          "paragraph" : "§ 4",
+          "title" : "Spezielle Anforderungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Begrenzung der Emissionen"
+    },
+    {
+      "documentIdentifier" : "BJNR218100001BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR218100001BJNE000503116",
+          "paragraph" : "§ 5",
+          "title" : "Nicht genehmigungsbedürftige Anlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR218100001BJNE000600000",
+          "paragraph" : "§ 6",
+          "title" : "Genehmigungsbedürftige Anlagen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Messungen und Überwachung"
+    },
+    {
+      "documentIdentifier" : "BJNR218100001BJNG000500000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR218100001BJNE000701116",
+          "paragraph" : "§ 7",
+          "title" : "Ableitbedingungen für Abgase"
+        },
+        {
+          "documentIdentifier" : "BJNR218100001BJNE000802116",
+          "paragraph" : "§ 8",
+          "title" : "Berichterstattung an die Europäische Kommission"
+        },
+        {
+          "documentIdentifier" : "BJNR218100001BJNE000900000",
+          "paragraph" : "§ 9",
+          "title" : "Unterrichtung der Öffentlichkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR218100001BJNE001001116",
+          "paragraph" : "§ 10",
+          "title" : "Andere oder weitergehende Anforderungen"
+        },
+        {
+          "documentIdentifier" : "BJNR218100001BJNE001101116",
+          "paragraph" : "§ 11",
+          "title" : "Zulassung von Ausnahmen"
+        },
+        {
+          "documentIdentifier" : "BJNR218100001BJNE001201116",
+          "paragraph" : "§ 12",
+          "title" : "Ordnungswidrigkeiten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gemeinsame Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR218100001BJNG000601116",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR218100001BJNE001302116",
+          "paragraph" : "§ 13",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR218100001BJNE001500000",
+          "paragraph" : "Anhang I",
+          "title" : "(zu § 1)\n"
+        },
+        {
+          "documentIdentifier" : "BJNR218100001BJNE001602116",
+          "paragraph" : "Anhang II",
+          "title" : "(zu § 1)"
+        },
+        {
+          "documentIdentifier" : "BJNR218100001BJNE001703116",
+          "paragraph" : "Anhang III",
+          "title" : "(zu §§ 3 und 4)"
+        },
+        {
+          "documentIdentifier" : "BJNR218100001BJNE001803116",
+          "paragraph" : "Anhang IV",
+          "title" : "(zu § 4)"
+        },
+        {
+          "documentIdentifier" : "BJNR218100001BJNE001903116",
+          "paragraph" : "Anhang V",
+          "title" : "(zu den §§ 5 und 6)"
+        },
+        {
+          "documentIdentifier" : "BJNR218100001BJNE002000000",
+          "paragraph" : "Anhang VI",
+          "title" : "(zu den §§ 5 und 6)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "(weggefallen)"
+    }
+  ]
+}

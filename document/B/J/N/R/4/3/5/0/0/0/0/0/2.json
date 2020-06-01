@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR435000002",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR435000002Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR435000002BJNE000107124",
+          "paragraph" : "§ 1",
+          "title" : "Geltungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR435000002BJNE000203124",
+          "paragraph" : "§ 2",
+          "title" : "Geltungsbereich von Ausnahmegenehmigungen nach § 5 Absatz 1 Nummer 2 und Absatz 2 der Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt"
+        },
+        {
+          "documentIdentifier" : "BJNR435000002BJNE000302124",
+          "paragraph" : "§ 3",
+          "title" : "Grenzüberschreitende Beförderung"
+        },
+        {
+          "documentIdentifier" : "BJNR435000002BJNE000709124",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 1 Absatz 2)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

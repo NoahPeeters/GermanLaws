@@ -1,0 +1,165 @@
+{
+  "documentIdentifier" : "BJNR027900999",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR027900999BJNG000100307",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR027900999BJNE000700307",
+          "paragraph" : "§ 1",
+          "title" : "Aufbau des Registers"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Einrichtung des Registers"
+    },
+    {
+      "documentIdentifier" : "BJNR027900999BJNG000200307",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR027900999BJNE000800307",
+          "paragraph" : "§ 2",
+          "title" : "Bestandteile des Registerblatts für ein Luftfahrzeug"
+        },
+        {
+          "documentIdentifier" : "BJNR027900999BJNE000900307",
+          "paragraph" : "§ 3",
+          "title" : "Inhalt der Abteilungen des Registerblatts für ein\nLuftfahrzeug"
+        },
+        {
+          "documentIdentifier" : "BJNR027900999BJNE001000307",
+          "paragraph" : "§ 4",
+          "title" : "Eintragung von Vormerkungen, Schutzvermerken und\nWidersprüchen"
+        },
+        {
+          "documentIdentifier" : "BJNR027900999BJNE001100307",
+          "paragraph" : "§ 5",
+          "title" : "Bestandteile des Registerblatts für ein Ersatzteillager"
+        },
+        {
+          "documentIdentifier" : "BJNR027900999BJNE001200307",
+          "paragraph" : "§ 6",
+          "title" : "Inhalt der Abteilungen des Registerblatts für ein\nErsatzteillager"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gestaltung und Benutzung der Registerblätter"
+    },
+    {
+      "documentIdentifier" : "BJNR027900999BJNG000300307",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR027900999BJNE001300307",
+          "paragraph" : "§ 7",
+          "title" : "Anwendung der Verordnung zur Durchführung der\nSchiffsregisterordnung"
+        },
+        {
+          "documentIdentifier" : "BJNR027900999BJNE001400307",
+          "paragraph" : "§ 8",
+          "title" : "Registerakten"
+        },
+        {
+          "documentIdentifier" : "BJNR027900999BJNE001500307",
+          "paragraph" : "§ 9",
+          "title" : "Vermeiden unnötigen Aktenanfalls"
+        },
+        {
+          "documentIdentifier" : "BJNR027900999BJNE001600307",
+          "paragraph" : "§ 10",
+          "title" : "Verzeichnis"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Führung des Registers und allgemeine Verfahrensvorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR027900999BJNG000400307",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR027900999BJNE001701360",
+          "paragraph" : "§ 11",
+          "title" : "Einführung der maschinellen Führung"
+        },
+        {
+          "documentIdentifier" : "BJNR027900999BJNE001800307",
+          "paragraph" : "§ 12",
+          "title" : "Begriff, Freigabe und Gestaltung von Registerblättern"
+        },
+        {
+          "documentIdentifier" : "BJNR027900999BJNE001900307",
+          "paragraph" : "§ 13",
+          "title" : "Vornahme und Wirksamwerden von Eintragungen"
+        },
+        {
+          "documentIdentifier" : "BJNR027900999BJNE002000307",
+          "paragraph" : "§ 14",
+          "title" : "Einsicht in das Register"
+        },
+        {
+          "documentIdentifier" : "BJNR027900999BJNE002103140",
+          "paragraph" : "§ 15",
+          "title" : "Automatisierter Abruf von Daten"
+        },
+        {
+          "documentIdentifier" : "BJNR027900999BJNE002200307",
+          "paragraph" : "§ 16",
+          "title" : "Zusammenarbeit mit dem Luftfahrt-Bundesamt,\nDatenverarbeitung im Auftrag"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Führung des Registers in maschineller Form"
+    },
+    {
+      "documentIdentifier" : "BJNR027900999BJNG000500307",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR027900999BJNE002300307",
+          "paragraph" : "§ 17",
+          "title" : "Übergangsregelung"
+        },
+        {
+          "documentIdentifier" : "BJNR027900999BJNE002400307",
+          "paragraph" : "§ 18",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlußvorschriften"
+    }
+  ]
+}

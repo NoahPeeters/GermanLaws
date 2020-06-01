@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR082910013",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR082910013Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR082910013BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Voraussetzungen; Verfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR082910013BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Bewilligung"
+        },
+        {
+          "documentIdentifier" : "BJNR082910013BJNE000301311",
+          "paragraph" : "§ 3",
+          "title" : "Festsetzung; Verordnungsermächtigung"
+        },
+        {
+          "documentIdentifier" : "BJNR082910013BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Rechtsmittel"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "documentIdentifier" : "BJNR101100013",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR101100013BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR101100013BJNE000101118",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich und Begriffsbestimmungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Anwendungsbereich und Begriffsbestimmungen"
+    },
+    {
+      "documentIdentifier" : "BJNR101100013BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR101100013BJNE000201118",
+          "paragraph" : "§ 2",
+          "title" : "Zulassungsverfahren und Koordinierung"
+        },
+        {
+          "documentIdentifier" : "BJNR101100013BJNE000302118",
+          "paragraph" : "§ 3",
+          "title" : "Antragsunterlagen und Entscheidungsfrist"
+        },
+        {
+          "documentIdentifier" : "BJNR101100013BJNE000401118",
+          "paragraph" : "§ 4",
+          "title" : "Öffentlichkeitsbeteiligung und Zugang zu Informationen"
+        },
+        {
+          "documentIdentifier" : "BJNR101100013BJNE000501118",
+          "paragraph" : "§ 5",
+          "title" : "Grenzüberschreitende Beteiligung von Behörden und Öffentlichkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR101100013BJNE000601118",
+          "paragraph" : "§ 6",
+          "title" : "Notwendige Vorgaben in der Erlaubnis und der Genehmigung"
+        },
+        {
+          "documentIdentifier" : "BJNR101100013BJNE000701118",
+          "paragraph" : "§ 7",
+          "title" : "Besondere Pflichten des Inhabers einer Erlaubnis oder einer Genehmigung"
+        },
+        {
+          "documentIdentifier" : "BJNR101100013BJNE000801118",
+          "paragraph" : "§ 8",
+          "title" : "Überwachung und Überprüfung der Erlaubnis oder Genehmigung"
+        },
+        {
+          "documentIdentifier" : "BJNR101100013BJNE000901118",
+          "paragraph" : "§ 9",
+          "title" : "Überwachungspläne und Überwachungsprogramme"
+        },
+        {
+          "documentIdentifier" : "BJNR101100013BJNE001001118",
+          "paragraph" : "§ 10",
+          "title" : "Unterrichtung durch die Länder"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Zulassung und Überwachung industrieller Abwasserbehandlungsanlagen und Gewässerbenutzungen"
+    },
+    {
+      "documentIdentifier" : "BJNR101100013BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR101100013BJNE001100000",
+          "paragraph" : "§ 11",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR101100013BJNE001200000",
+          "paragraph" : "§ 12",
+          "title" : "Berechnung der Frachten bei Vermischung"
+        },
+        {
+          "documentIdentifier" : "BJNR101100013BJNE001300000",
+          "paragraph" : "§ 13",
+          "title" : "Zusätzliche Parameter"
+        },
+        {
+          "documentIdentifier" : "BJNR101100013BJNE001400000",
+          "paragraph" : "§ 14",
+          "title" : "Mess- und Überwachungsanforderungen"
+        },
+        {
+          "documentIdentifier" : "BJNR101100013BJNE001500000",
+          "paragraph" : "§ 15",
+          "title" : "Berichtspflichten, Information der Öffentlichkeit"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Sonderregelungen für Abwasser aus Abfallverbrennungsanlagen"
+    },
+    {
+      "documentIdentifier" : "BJNR101100013BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR101100013BJNE001600000",
+          "paragraph" : "§ 16",
+          "title" : "Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR101100013BJNE001700000",
+          "paragraph" : "§ 17",
+          "title" : "Übergangsvorschrift"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Ordnungswidrigkeiten und Übergangsvorschrift"
+    }
+  ]
+}

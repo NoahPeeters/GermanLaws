@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR150200000",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR150200000Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR150200000BJNE000201308",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR150200000BJNE000301308",
+          "paragraph" : "§ 2",
+          "title" : "Bestimmung der Rebflächen"
+        },
+        {
+          "documentIdentifier" : "BJNR150200000BJNE000401308",
+          "paragraph" : "§ 3",
+          "title" : "Verfahren und Höhe der Prämie"
+        },
+        {
+          "documentIdentifier" : "BJNR150200000BJNE000501308",
+          "paragraph" : "§ 4",
+          "title" : "Bedingungen und Mindestrodungsfläche"
+        },
+        {
+          "documentIdentifier" : "BJNR150200000BJNE000601308",
+          "paragraph" : "§ 5",
+          "title" : "Duldungs- und Mitwirkungspflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR150200000BJNE000701308",
+          "paragraph" : "§ 6",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

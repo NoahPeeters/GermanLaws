@@ -1,0 +1,442 @@
+{
+  "documentIdentifier" : "BJNR017980989",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR017980989BJNG000100328",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR017980989BJNG000200328",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR017980989BJNE001800328",
+              "paragraph" : "§ 1",
+              "title" : "Wahlvorstand"
+            },
+            {
+              "documentIdentifier" : "BJNR017980989BJNE001900328",
+              "paragraph" : "§ 2",
+              "title" : "Wählerliste"
+            },
+            {
+              "documentIdentifier" : "BJNR017980989BJNE002000328",
+              "paragraph" : "§ 3",
+              "title" : "Wahlausschreiben"
+            },
+            {
+              "documentIdentifier" : "BJNR017980989BJNE002100328",
+              "paragraph" : "§ 4",
+              "title" : "Einspruch gegen die Wählerliste"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Allgemeine Vorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR017980989BJNG000300328",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              2
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR017980989BJNG000400328",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR017980989BJNE002200328",
+                  "paragraph" : "§ 5",
+                  "title" : "Vorschlagslisten"
+                },
+                {
+                  "documentIdentifier" : "BJNR017980989BJNE002300328",
+                  "paragraph" : "§ 6",
+                  "title" : "Prüfung der Vorschlagslisten"
+                },
+                {
+                  "documentIdentifier" : "BJNR017980989BJNE002400328",
+                  "paragraph" : "§ 7",
+                  "title" : "Ungültige Vorschlagslisten"
+                },
+                {
+                  "documentIdentifier" : "BJNR017980989BJNE002500328",
+                  "paragraph" : "§ 8",
+                  "title" : "Nachfrist für Vorschlagslisten"
+                },
+                {
+                  "documentIdentifier" : "BJNR017980989BJNE002600328",
+                  "paragraph" : "§ 9",
+                  "title" : "Bekanntmachung der Vorschlagslisten"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  1,
+                  2,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Einreichung und Bekanntmachung von Vorschlagslisten"
+            },
+            {
+              "documentIdentifier" : "BJNR017980989BJNG000500328",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR017980989BJNE002700328",
+                  "paragraph" : "§ 10",
+                  "title" : "Stimmabgabe"
+                },
+                {
+                  "documentIdentifier" : "BJNR017980989BJNE002800328",
+                  "paragraph" : "§ 11",
+                  "title" : "Wahlvorgang"
+                },
+                {
+                  "documentIdentifier" : "BJNR017980989BJNE002900328",
+                  "paragraph" : "§ 12",
+                  "title" : "Öffentliche Stimmauszählung"
+                },
+                {
+                  "documentIdentifier" : "BJNR017980989BJNE003000328",
+                  "paragraph" : "§ 13",
+                  "title" : "Verteilung der Sitze"
+                },
+                {
+                  "documentIdentifier" : "BJNR017980989BJNE003100328",
+                  "paragraph" : "§ 14",
+                  "title" : "Wahlniederschrift"
+                },
+                {
+                  "documentIdentifier" : "BJNR017980989BJNE003200328",
+                  "paragraph" : "§ 15",
+                  "title" : "Benachrichtigung der Gewählten"
+                },
+                {
+                  "documentIdentifier" : "BJNR017980989BJNE003300328",
+                  "paragraph" : "§ 16",
+                  "title" : "Bekanntmachung des Wahlergebnisses und der Gewählten"
+                },
+                {
+                  "documentIdentifier" : "BJNR017980989BJNE003400328",
+                  "paragraph" : "§ 17",
+                  "title" : "Aufbewahrung der Wahlakten"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  1,
+                  2,
+                  2
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Wahlverfahren bei mehreren Vorschlagslisten"
+            },
+            {
+              "documentIdentifier" : "BJNR017980989BJNG000600328",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR017980989BJNE003500328",
+                  "paragraph" : "§ 18",
+                  "title" : "Stimmabgabe"
+                },
+                {
+                  "documentIdentifier" : "BJNR017980989BJNE003600328",
+                  "paragraph" : "§ 19",
+                  "title" : "Stimmauszählung"
+                },
+                {
+                  "documentIdentifier" : "BJNR017980989BJNE003700328",
+                  "paragraph" : "§ 20",
+                  "title" : "Ermittlung der Gewählten"
+                },
+                {
+                  "documentIdentifier" : "BJNR017980989BJNE003800328",
+                  "paragraph" : "§ 21",
+                  "title" : "Wahlniederschrift, Bekanntmachung"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  1,
+                  2,
+                  3
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Wahlverfahren bei nur einer Vorschlagsliste"
+            }
+          ],
+          "title" : "Wahl mehrerer Mitglieder des Sprecherausschusses"
+        },
+        {
+          "documentIdentifier" : "BJNR017980989BJNG000700328",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR017980989BJNE003900328",
+              "paragraph" : "§ 22",
+              "title" : "Verfahren"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Wahl nur eines Mitglieds des Sprecherausschusses"
+        },
+        {
+          "documentIdentifier" : "BJNR017980989BJNG000800328",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR017980989BJNE004000328",
+              "paragraph" : "§ 23",
+              "title" : "Voraussetzungen"
+            },
+            {
+              "documentIdentifier" : "BJNR017980989BJNE004100328",
+              "paragraph" : "§ 24",
+              "title" : "Stimmabgabe"
+            },
+            {
+              "documentIdentifier" : "BJNR017980989BJNE004200328",
+              "paragraph" : "§ 25",
+              "title" : "Verfahren bei der Stimmabgabe"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Schriftliche Stimmabgabe"
+        },
+        {
+          "documentIdentifier" : "BJNR017980989BJNG000900328",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              5
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR017980989BJNG001000328",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR017980989BJNE004300328",
+                  "paragraph" : "§ 26",
+                  "title" : "Art der Abstimmung"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  1,
+                  5,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Vorbereitung der Abstimmung"
+            },
+            {
+              "documentIdentifier" : "BJNR017980989BJNG001100328",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR017980989BJNE004400328",
+                  "paragraph" : "§ 27",
+                  "title" : "Einladung und Abstimmungsausschreiben"
+                },
+                {
+                  "documentIdentifier" : "BJNR017980989BJNE004500328",
+                  "paragraph" : "§ 28",
+                  "title" : "Stimmabgabe"
+                },
+                {
+                  "documentIdentifier" : "BJNR017980989BJNE004600328",
+                  "paragraph" : "§ 29",
+                  "title" : "Abstimmungsvorgang"
+                },
+                {
+                  "documentIdentifier" : "BJNR017980989BJNE004700328",
+                  "paragraph" : "§ 30",
+                  "title" : "Schriftliche Stimmabgabe bei Verhinderung"
+                },
+                {
+                  "documentIdentifier" : "BJNR017980989BJNE004800328",
+                  "paragraph" : "§ 31",
+                  "title" : "Öffentliche Stimmauszählung"
+                },
+                {
+                  "documentIdentifier" : "BJNR017980989BJNE004900328",
+                  "paragraph" : "§ 32",
+                  "title" : "Bekanntmachung des Abstimmungsergebnisses"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  1,
+                  5,
+                  2
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Abstimmung in einer Versammlung"
+            },
+            {
+              "documentIdentifier" : "BJNR017980989BJNG001200328",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR017980989BJNE005000328",
+                  "paragraph" : "§ 33",
+                  "title" : "Verfahren bei schriftlicher Abstimmung"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  1,
+                  5,
+                  3
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Schriftliche Abstimmung"
+            }
+          ],
+          "title" : "Abstimmung über die Wahl eines Sprecherausschusses"
+        }
+      ],
+      "title" : "Wahl des Sprecherausschusses"
+    },
+    {
+      "documentIdentifier" : "BJNR017980989BJNG001300328",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR017980989BJNE005100328",
+          "paragraph" : "§ 34",
+          "title" : "Wahl des Unternehmenssprecherausschusses"
+        },
+        {
+          "documentIdentifier" : "BJNR017980989BJNE005200328",
+          "paragraph" : "§ 35",
+          "title" : "Voraussetzungen für die Wahl des Unternehmenswahlvorstands"
+        },
+        {
+          "documentIdentifier" : "BJNR017980989BJNE005300328",
+          "paragraph" : "§ 36",
+          "title" : "Abstimmung über die Wahl eines Unternehmenssprecherausschusses"
+        },
+        {
+          "documentIdentifier" : "BJNR017980989BJNE005400328",
+          "paragraph" : "§ 37",
+          "title" : "Wechsel von Sprecherausschüssen zum\nUnternehmenssprecherausschuß"
+        },
+        {
+          "documentIdentifier" : "BJNR017980989BJNE005500328",
+          "paragraph" : "§ 38",
+          "title" : "Wechsel vom Unternehmenssprecherausschuß zu\nSprecherausschüssen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Besondere Vorschriften für den Unternehmenssprecherausschuß"
+    },
+    {
+      "documentIdentifier" : "BJNR017980989BJNG001400328",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR017980989BJNE005600328",
+          "paragraph" : "§ 39",
+          "title" : "Teilnahme der Kapitäne an der Wahl"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Besondere Vorschriften für die Seeschiffahrt"
+    },
+    {
+      "documentIdentifier" : "BJNR017980989BJNG001500328",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR017980989BJNE005700328",
+          "paragraph" : "§ 40",
+          "title" : "Berechnung der Fristen"
+        },
+        {
+          "documentIdentifier" : "BJNR017980989BJNE005800328",
+          "paragraph" : "§ 41",
+          "title" : "Berlin-Klausel"
+        },
+        {
+          "documentIdentifier" : "BJNR017980989BJNE005900328",
+          "paragraph" : "§ 42",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übergangs- und Schlußvorschriften"
+    }
+  ]
+}

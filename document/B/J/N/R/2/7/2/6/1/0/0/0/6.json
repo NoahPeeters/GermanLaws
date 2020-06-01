@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR272610006",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR272610006Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR272610006BJNE000101377",
+          "paragraph" : "§ 1",
+          "title" : "Aufbau der Identifikationsnummer"
+        },
+        {
+          "documentIdentifier" : "BJNR272610006BJNE000204360",
+          "paragraph" : "§ 2",
+          "title" : "Form und Verfahren der Datenübermittlungen"
+        },
+        {
+          "documentIdentifier" : "BJNR272610006BJNE000302377",
+          "paragraph" : "§ 3",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR272610006BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Löschungsfrist"
+        },
+        {
+          "documentIdentifier" : "BJNR272610006BJNE000501301",
+          "paragraph" : "§ 5",
+          "title" : "Sicherheit und Funktionsfähigkeit des Verfahrens"
+        },
+        {
+          "documentIdentifier" : "BJNR272610006BJNE000601377",
+          "paragraph" : "§ 6",
+          "title" : "Benachrichtigung des Betroffenen, Berichtigung unrichtiger Daten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

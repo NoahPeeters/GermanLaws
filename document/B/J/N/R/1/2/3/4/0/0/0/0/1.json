@@ -1,0 +1,59 @@
+{
+  "documentIdentifier" : "BJNR123400001",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR123400001Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR123400001BJNE000202116",
+          "paragraph" : "§ 1",
+          "title" : "Aufgabenbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR123400001BJNE000302116",
+          "paragraph" : "§ 2",
+          "title" : "Anerkannte Biomasse"
+        },
+        {
+          "documentIdentifier" : "BJNR123400001BJNE000901116",
+          "paragraph" : "§ 2a",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR123400001BJNE000404123",
+          "paragraph" : "§ 3",
+          "title" : "Nicht als Biomasse anerkannte Stoffe"
+        },
+        {
+          "documentIdentifier" : "BJNR123400001BJNE000500305",
+          "paragraph" : "§ 4",
+          "title" : "Technische Verfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR123400001BJNE000601310",
+          "paragraph" : "§ 5",
+          "title" : "Umweltanforderungen"
+        },
+        {
+          "documentIdentifier" : "BJNR123400001BJNE000700305",
+          "paragraph" : "§ 6",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR123400001BJNE001001116",
+          "paragraph" : "(XXXX) Anlage 1 bis 3",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

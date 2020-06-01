@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR338510006",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR338510006Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR338510006BJNE000112119",
+          "paragraph" : "§ 1",
+          "title" : "Dem sozialversicherungspflichtigen Arbeitsentgelt nicht zuzurechnende Zuwendungen"
+        },
+        {
+          "documentIdentifier" : "BJNR338510006BJNE000212126",
+          "paragraph" : "§ 2",
+          "title" : "Verpflegung, Unterkunft und Wohnung als Sachbezug"
+        },
+        {
+          "documentIdentifier" : "BJNR338510006BJNE000301301",
+          "paragraph" : "§ 3",
+          "title" : "Sonstige Sachbezüge"
+        },
+        {
+          "documentIdentifier" : "BJNR338510006BJNE000401308",
+          "paragraph" : "§ 4",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

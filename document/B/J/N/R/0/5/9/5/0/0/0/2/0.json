@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR059500020",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR059500020Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR059500020BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Absenkung der Anforderungen für die Gewährung von Kurzarbeitergeld"
+        },
+        {
+          "documentIdentifier" : "BJNR059500020BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Erstattung von Beiträgen zur Sozialversicherung"
+        },
+        {
+          "documentIdentifier" : "BJNR059500020BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Öffnung von Kurzarbeit für Leiharbeitnehmerinnen und Leiharbeitnehmer"
+        },
+        {
+          "documentIdentifier" : "BJNR059500020BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

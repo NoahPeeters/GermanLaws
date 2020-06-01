@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR239800008",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR239800008Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR239800008BJNE000100000",
+          "paragraph" : "Art 1",
+          "title" : "Leistungsanpassung"
+        },
+        {
+          "documentIdentifier" : "BJNR239800008BJNE000200000",
+          "paragraph" : "Art 2",
+          "title" : "Zustimmung des Deutschen Bundestages, Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

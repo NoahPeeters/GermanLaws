@@ -1,0 +1,89 @@
+{
+  "documentIdentifier" : "BJNR019600971",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR019600971BJNG000100328",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR019600971BJNG000202308",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Innergemeinschaftliches Verbringen und Einfuhr von Tierseuchenerregern"
+    },
+    {
+      "documentIdentifier" : "BJNR019600971BJNG000302308",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Verbringen und Einfuhr von Impfstoffen und Antigenpräparationen, die Tierseuchenerreger enthalten"
+    },
+    {
+      "documentIdentifier" : "BJNR019600971BJNG000400328",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Ordnungswidrigkeiten"
+    },
+    {
+      "documentIdentifier" : "BJNR019600971BJNG000500328",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR019600971BJNE001502308",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu den §§ 3 und 4)"
+        },
+        {
+          "documentIdentifier" : "BJNR019600971BJNE001604377",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 6)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlußvorschriften"
+    }
+  ]
+}

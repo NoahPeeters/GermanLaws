@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR017490971",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR017490971Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR017490971BJNE000101314",
+          "paragraph" : "§ 1",
+          "title" : "Ermächtigung zum Erlaß einer Honorarordnung für Ingenieure"
+        },
+        {
+          "documentIdentifier" : "BJNR017490971BJNE000201314",
+          "paragraph" : "§ 2",
+          "title" : "Ermächtigung zum Erlaß einer Honorarordnung für Architekten"
+        },
+        {
+          "documentIdentifier" : "BJNR017490971BJNE000300301",
+          "paragraph" : "§ 3",
+          "title" : "Unverbindlichkeit der Kopplung von Grundstückskaufverträgen mit\nIngenieur- und Architektenverträgen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

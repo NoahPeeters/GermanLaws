@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR012170978",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR012170978Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR012170978BJNE000200328",
+          "paragraph" : "Art 6",
+          "title" : "Übergangsvorschrift"
+        },
+        {
+          "documentIdentifier" : "BJNR012170978BJNE000300328",
+          "paragraph" : "Art 7",
+          "title" : "Berlin-Klausel"
+        },
+        {
+          "documentIdentifier" : "BJNR012170978BJNE000400328",
+          "paragraph" : "Art 8",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

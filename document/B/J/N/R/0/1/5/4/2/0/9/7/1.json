@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR015420971",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR015420971Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR015420971BJNE000200319",
+          "paragraph" : "§ 1",
+          "title" : "Vorkurse"
+        },
+        {
+          "documentIdentifier" : "BJNR015420971BJNE000300319",
+          "paragraph" : "§ 2",
+          "title" : "Förderungsrechtliche Stellung der Auszubildenden"
+        },
+        {
+          "documentIdentifier" : "BJNR015420971BJNE000400319",
+          "paragraph" : "§ 3",
+          "title" : "Berlin-Klausel"
+        },
+        {
+          "documentIdentifier" : "BJNR015420971BJNE000500319",
+          "paragraph" : "§ 4",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

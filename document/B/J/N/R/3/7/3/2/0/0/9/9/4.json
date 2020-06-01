@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR373200994",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR373200994Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR373200994BJNE000204116",
+          "paragraph" : "§ 1",
+          "title" : "Gebühren und Auslagen"
+        },
+        {
+          "documentIdentifier" : "BJNR373200994BJNE000303116",
+          "paragraph" : "§ 2",
+          "title" : "Befreiung und Ermäßigung"
+        },
+        {
+          "documentIdentifier" : "BJNR373200994BJNE000404116",
+          "paragraph" : "§ 3",
+          "title" : "Rücknahme von Anträgen"
+        },
+        {
+          "documentIdentifier" : "BJNR373200994BJNE000502377",
+          "paragraph" : "§ 4",
+          "title" : "(Inkrafttreten)"
+        },
+        {
+          "documentIdentifier" : "BJNR373200994BJNE000604116",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 1 Abs. 1)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

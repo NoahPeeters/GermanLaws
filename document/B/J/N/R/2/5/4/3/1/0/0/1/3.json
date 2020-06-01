@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR254310013",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR254310013Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR254310013BJNE000101118",
+          "paragraph" : "§ 1",
+          "title" : "Gegenstand des Bundesbedarfsplans"
+        },
+        {
+          "documentIdentifier" : "BJNR254310013BJNE000203118",
+          "paragraph" : "§ 2",
+          "title" : "Gekennzeichnete Vorhaben"
+        },
+        {
+          "documentIdentifier" : "BJNR254310013BJNE000302118",
+          "paragraph" : "§ 3",
+          "title" : "Erdkabel für Leitungen zur Höchstspannungs-Gleichstrom-Übertragung"
+        },
+        {
+          "documentIdentifier" : "BJNR254310013BJNE000700118",
+          "paragraph" : "§ 4",
+          "title" : "Erdkabel für Leitungen zur Höchstspannungs-Drehstrom-Übertragung"
+        },
+        {
+          "documentIdentifier" : "BJNR254310013BJNE000801118",
+          "paragraph" : "§ 5",
+          "title" : "Berichtspflicht der Übertragungsnetzbetreiber"
+        },
+        {
+          "documentIdentifier" : "BJNR254310013BJNE000402118",
+          "paragraph" : "§ 6",
+          "title" : "Rechtsschutz"
+        },
+        {
+          "documentIdentifier" : "BJNR254310013BJNE000604118",
+          "paragraph" : "Anlage (zu § 1 Absatz 1)",
+          "title" : "Bundesbedarfsplan"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

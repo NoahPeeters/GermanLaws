@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR611910020",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR611910020Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR611910020BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Geltungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR611910020BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Mindestentgelt"
+        },
+        {
+          "documentIdentifier" : "BJNR611910020BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Fälligkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR611910020BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Mehrurlaub"
+        },
+        {
+          "documentIdentifier" : "BJNR611910020BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Ausschlussfrist"
+        },
+        {
+          "documentIdentifier" : "BJNR611910020BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

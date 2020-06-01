@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR291610016",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR291610016Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR291610016BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich und Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR291610016BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Anforderungen"
+        },
+        {
+          "documentIdentifier" : "BJNR291610016BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Kennzeichnung"
+        },
+        {
+          "documentIdentifier" : "BJNR291610016BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Straftaten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

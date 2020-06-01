@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR701350931",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR701350931Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR701350931BJNE012700301",
+          "paragraph" : "(XXXX) §§ 1 und 2",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR701350931BJNE012800301",
+          "paragraph" : "(XXXX) §§ 4 bis 7",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR701350931BJNE012900301",
+          "paragraph" : "(XXXX) §§ 9 bis 15",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

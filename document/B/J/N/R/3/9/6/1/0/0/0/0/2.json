@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR396100002",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR396100002Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR396100002BJNE000103126",
+          "paragraph" : "§ 1",
+          "title" : "Berechnung des Ausgleichsbetrags"
+        },
+        {
+          "documentIdentifier" : "BJNR396100002BJNE000202126",
+          "paragraph" : "§ 2",
+          "title" : "Fälligkeit der Abschlagszahlungen auf den Ausgleichsbetrag"
+        },
+        {
+          "documentIdentifier" : "BJNR396100002BJNE000301308",
+          "paragraph" : "§ 3",
+          "title" : "Fälligkeit des Ausgleichsbetrags"
+        },
+        {
+          "documentIdentifier" : "BJNR396100002BJNE000402126",
+          "paragraph" : "§ 4",
+          "title" : "Verteilung des Ausgleichsbetrags und der Abschlagszahlungen auf den Ausgleichsbetrag"
+        },
+        {
+          "documentIdentifier" : "BJNR396100002BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR031560977",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR031560977Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR031560977BJNE000116308",
+          "paragraph" : "§ 1",
+          "title" : "Freie Kost und Wohnung"
+        },
+        {
+          "documentIdentifier" : "BJNR031560977BJNE000206308",
+          "paragraph" : "§ 2",
+          "title" : "Verbilligte Kost und Wohnung"
+        },
+        {
+          "documentIdentifier" : "BJNR031560977BJNE000307308",
+          "paragraph" : "§ 3",
+          "title" : "Sonstige Sachbezüge"
+        },
+        {
+          "documentIdentifier" : "BJNR031560977BJNE000416308",
+          "paragraph" : "§ 4",
+          "title" : "Übergangsvorschrift"
+        },
+        {
+          "documentIdentifier" : "BJNR031560977BJNE000616308",
+          "paragraph" : "§ 6",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

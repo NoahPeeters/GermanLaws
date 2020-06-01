@@ -1,0 +1,148 @@
+{
+  "documentIdentifier" : "BJNR014320953",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR014320953BJNG000101308",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Zeitpunkt der Wahl, Wahlleiter und Wahlausschuß"
+    },
+    {
+      "documentIdentifier" : "BJNR014320953BJNG000201308",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Wahlbezirk"
+    },
+    {
+      "documentIdentifier" : "BJNR014320953BJNG000301308",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Stimmbezirke"
+    },
+    {
+      "documentIdentifier" : "BJNR014320953BJNG000401308",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR014320953BJNE001403377",
+          "paragraph" : "(XXXX) §§ 5 und 6",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Abstimmungsvorstand"
+    },
+    {
+      "documentIdentifier" : "BJNR014320953BJNG000501308",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Wahlvorschläge"
+    },
+    {
+      "documentIdentifier" : "BJNR014320953BJNG000601308",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Wahl"
+    },
+    {
+      "documentIdentifier" : "BJNR014320953BJNG000701308",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Engere Wahl"
+    },
+    {
+      "documentIdentifier" : "BJNR014320953BJNG000801308",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          8
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Wegfall der Wahlhandlung"
+    },
+    {
+      "documentIdentifier" : "BJNR014320953BJNG000901308",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR014320953BJNE003203377",
+          "paragraph" : "Anlage",
+          "title" : "zur Wahlordnung für die Wahlen der Mitglieder der Handwerkskammern"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          9
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Beschwerdeverfahren, Kosten"
+    }
+  ]
+}

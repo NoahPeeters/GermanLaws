@@ -1,0 +1,1544 @@
+{
+  "documentIdentifier" : "BJNR005810976",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR005810976BJNG000100314",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Anwendungsbereich"
+    },
+    {
+      "documentIdentifier" : "BJNR005810976BJNG000200314",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR005810976BJNG000300314",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR005810976BJNE003700314",
+              "paragraph" : "§ 2",
+              "title" : "Aufgaben des Vollzuges"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE003800314",
+              "paragraph" : "§ 3",
+              "title" : "Gestaltung des Vollzuges"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE003900314",
+              "paragraph" : "§ 4",
+              "title" : "Stellung des Gefangenen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Grundsätze"
+        },
+        {
+          "documentIdentifier" : "BJNR005810976BJNG000400314",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR005810976BJNE004001306",
+              "paragraph" : "§ 5",
+              "title" : "Aufnahmeverfahren"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE004201307",
+              "paragraph" : "§ 6",
+              "title" : "Behandlungsuntersuchung.\n"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE004303307",
+              "paragraph" : "§ 7",
+              "title" : "Vollzugsplan"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE004400314",
+              "paragraph" : "§ 8",
+              "title" : "Verlegung. Überstellung"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE004503307",
+              "paragraph" : "§ 9",
+              "title" : "Verlegung in eine sozialtherapeutische Anstalt"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE004600314",
+              "paragraph" : "§ 10",
+              "title" : "Offener und geschlossener Vollzug"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE004700314",
+              "paragraph" : "§ 11",
+              "title" : "Lockerungen des Vollzuges"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE004800314",
+              "paragraph" : "§ 12",
+              "title" : "Ausführung aus besonderen Gründen"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE004900314",
+              "paragraph" : "§ 13",
+              "title" : "Urlaub aus der Haft"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE005000314",
+              "paragraph" : "§ 14",
+              "title" : "Weisungen, Aufhebung von Lockerungen und Urlaub"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE005100314",
+              "paragraph" : "§ 15",
+              "title" : "Entlassungsvorbereitung"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE005200314",
+              "paragraph" : "§ 16",
+              "title" : "Entlassungszeitpunkt"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Planung des Vollzuges"
+        },
+        {
+          "documentIdentifier" : "BJNR005810976BJNG000500314",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR005810976BJNE005301307",
+              "paragraph" : "§ 17",
+              "title" : "Unterbringung während der Arbeit und Freizeit"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE005400314",
+              "paragraph" : "§ 18",
+              "title" : "Unterbringung während der Ruhezeit"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE005500314",
+              "paragraph" : "§ 19",
+              "title" : "Ausstattung des Haftraumes durch den Gefangenen und sein\npersönlicher Besitz"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE005600314",
+              "paragraph" : "§ 20",
+              "title" : "Kleidung"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE005700314",
+              "paragraph" : "§ 21",
+              "title" : "Anstaltsverpflegung"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE005800314",
+              "paragraph" : "§ 22",
+              "title" : "Einkauf"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Unterbringung und Ernährung des Gefangenen"
+        },
+        {
+          "documentIdentifier" : "BJNR005810976BJNG000600314",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR005810976BJNE005900314",
+              "paragraph" : "§ 23",
+              "title" : "Grundsatz"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE006000314",
+              "paragraph" : "§ 24",
+              "title" : "Recht auf Besuch"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE006100314",
+              "paragraph" : "§ 25",
+              "title" : "Besuchsverbot"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE006200314",
+              "paragraph" : "§ 26",
+              "title" : "Besuche von Verteidigern, Rechtsanwälten und Notaren"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE006301307",
+              "paragraph" : "§ 27",
+              "title" : "Überwachung der Besuche"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE006400314",
+              "paragraph" : "§ 28",
+              "title" : "Recht auf Schriftwechsel"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE006503310",
+              "paragraph" : "§ 29",
+              "title" : "Überwachung des Schriftwechsels"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE006600314",
+              "paragraph" : "§ 30",
+              "title" : "Weiterleitung von Schreiben. Aufbewahrung"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE006700314",
+              "paragraph" : "§ 31",
+              "title" : "Anhalten von Schreiben"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE006801307",
+              "paragraph" : "§ 32",
+              "title" : "Ferngespräche und Telegramme"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE006900314",
+              "paragraph" : "§ 33",
+              "title" : "Pakete"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE007001307",
+              "paragraph" : "§ 34",
+              "title" : "Verwertung von Kenntnissen"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE007100314",
+              "paragraph" : "§ 35",
+              "title" : "Urlaub, Ausgang und Ausführung aus wichtigem Anlaß"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE007200314",
+              "paragraph" : "§ 36",
+              "title" : "Gerichtliche Termine"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Besuche, Schriftwechsel sowie Urlaub, Ausgang und Ausführung aus besonderem Anlaß"
+        },
+        {
+          "documentIdentifier" : "BJNR005810976BJNG000700314",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR005810976BJNE007301307",
+              "paragraph" : "§ 37",
+              "title" : "Zuweisung"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE007401307",
+              "paragraph" : "§ 38",
+              "title" : "Unterricht"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE007501307",
+              "paragraph" : "§ 39",
+              "title" : "Freies Beschäftigungsverhältnis, Selbstbeschäftigung"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE007600314",
+              "paragraph" : "§ 40",
+              "title" : "Abschlußzeugnis"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE007701306",
+              "paragraph" : "§ 41",
+              "title" : "Arbeitspflicht"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE007900314",
+              "paragraph" : "§ 42",
+              "title" : "Freistellung von der Arbeitspflicht"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE008002311",
+              "paragraph" : "§ 43",
+              "title" : "Arbeitsentgelt, Arbeitsurlaub und Anrechnung der Freistellung\nauf den Entlassungszeitpunkt"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE008103301",
+              "paragraph" : "§ 44",
+              "title" : "Ausbildungsbeihilfe"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE008200307",
+              "paragraph" : "§ 45",
+              "title" : "Ausfallentschädigung"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE008400314",
+              "paragraph" : "§ 46",
+              "title" : "Taschengeld"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE008601311",
+              "paragraph" : "§ 47",
+              "title" : "Hausgeld"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE008704311",
+              "paragraph" : "§ 48",
+              "title" : "Rechtsverordnung"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE008800307",
+              "paragraph" : "§ 49",
+              "title" : "Unterhaltsbeitrag"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE009006311",
+              "paragraph" : "§ 50",
+              "title" : "Haftkostenbeitrag"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE009100314",
+              "paragraph" : "§ 51",
+              "title" : "Überbrückungsgeld"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE009200314",
+              "paragraph" : "§ 52",
+              "title" : "Eigengeld"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              5
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Arbeit, Ausbildung und Weiterbildung"
+        },
+        {
+          "documentIdentifier" : "BJNR005810976BJNG000800314",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR005810976BJNE009300314",
+              "paragraph" : "§ 53",
+              "title" : "Seelsorge"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE009400314",
+              "paragraph" : "§ 54",
+              "title" : "Religiöse Veranstaltungen"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE009500314",
+              "paragraph" : "§ 55",
+              "title" : "Weltanschauungsgemeinschaften"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              6
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Religionsausübung"
+        },
+        {
+          "documentIdentifier" : "BJNR005810976BJNG000900314",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR005810976BJNE009600314",
+              "paragraph" : "§ 56",
+              "title" : "Allgemeine Regeln"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE009701309",
+              "paragraph" : "§ 57",
+              "title" : "Gesundheitsuntersuchungen, medizinische Vorsorgeleistungen"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE009801309",
+              "paragraph" : "§ 58",
+              "title" : "Krankenbehandlung"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE009901309",
+              "paragraph" : "§ 59",
+              "title" : "Versorgung mit Hilfsmitteln"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE010001309",
+              "paragraph" : "§ 60",
+              "title" : "Krankenbehandlung im Urlaub"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE010101309",
+              "paragraph" : "§ 61",
+              "title" : "Art und Umfang der Leistungen"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE010201309",
+              "paragraph" : "§ 62",
+              "title" : "Zuschüsse zu Zahnersatz und Zahnkronen"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE023100309",
+              "paragraph" : "§ 62a",
+              "title" : "Ruhen der Ansprüche"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE010300314",
+              "paragraph" : "§ 63",
+              "title" : "Ärztliche Behandlung zur sozialen Eingliederung"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE010400314",
+              "paragraph" : "§ 64",
+              "title" : "Aufenthalt im Freien"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE010601111",
+              "paragraph" : "§ 65",
+              "title" : "Verlegung"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE010700314",
+              "paragraph" : "§ 66",
+              "title" : "Benachrichtigung bei Erkrankung oder Todesfall"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              7
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Gesundheitsfürsorge"
+        },
+        {
+          "documentIdentifier" : "BJNR005810976BJNG001000314",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR005810976BJNE010800314",
+              "paragraph" : "§ 67",
+              "title" : "Allgemeines"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE010900314",
+              "paragraph" : "§ 68",
+              "title" : "Zeitungen und Zeitschriften"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE011001307",
+              "paragraph" : "§ 69",
+              "title" : "Hörfunk und Fernsehen"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE011100314",
+              "paragraph" : "§ 70",
+              "title" : "Besitz von Gegenständen für die Freizeitbeschäftigung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              8
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Freizeit"
+        },
+        {
+          "documentIdentifier" : "BJNR005810976BJNG001100314",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR005810976BJNE023000314",
+              "paragraph" : "§ 71",
+              "title" : "Grundsatz"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE011200314",
+              "paragraph" : "§ 72",
+              "title" : "Hilfe bei der Aufnahme"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE011300314",
+              "paragraph" : "§ 73",
+              "title" : "Hilfe während des Vollzuges"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE011400314",
+              "paragraph" : "§ 74",
+              "title" : "Hilfe zur Entlassung"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE011500314",
+              "paragraph" : "§ 75",
+              "title" : "Entlassungsbeihilfe"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              9
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Soziale Hilfe"
+        },
+        {
+          "documentIdentifier" : "BJNR005810976BJNG001200314",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR005810976BJNE011601309",
+              "paragraph" : "§ 76",
+              "title" : "Leistungen bei Schwangerschaft und Mutterschaft"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE011700314",
+              "paragraph" : "§ 77",
+              "title" : "Arznei-, Verband- und Heilmittel"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE011801309",
+              "paragraph" : "§ 78",
+              "title" : "Art, Umfang und Ruhen der Leistungen bei Schwangerschaft und\nMutterschaft"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE011901301",
+              "paragraph" : "§ 79",
+              "title" : "Geburtsanzeige"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE012000314",
+              "paragraph" : "§ 80",
+              "title" : "Mütter mit Kindern"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              10
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Besondere Vorschriften für den Frauenstrafvollzug"
+        },
+        {
+          "documentIdentifier" : "BJNR005810976BJNG001300314",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR005810976BJNE012100314",
+              "paragraph" : "§ 81",
+              "title" : "Grundsatz"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE012200314",
+              "paragraph" : "§ 82",
+              "title" : "Verhaltensvorschriften"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE012300314",
+              "paragraph" : "§ 83",
+              "title" : "Persönlicher Gewahrsam. Eigengeld"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE012401307",
+              "paragraph" : "§ 84",
+              "title" : "Durchsuchung"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE012500314",
+              "paragraph" : "§ 85",
+              "title" : "Sichere Unterbringung"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE012603125",
+              "paragraph" : "§ 86",
+              "title" : "Erkennungsdienstliche Maßnahmen"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE025000301",
+              "paragraph" : "§ 86a",
+              "title" : "Lichtbilder"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE012702301",
+              "paragraph" : "§ 87",
+              "title" : "Festnahmerecht"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE012801125",
+              "paragraph" : "§ 88",
+              "title" : "Besondere Sicherungsmaßnahmen"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE012900314",
+              "paragraph" : "§ 89",
+              "title" : "Einzelhaft"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE013000314",
+              "paragraph" : "§ 90",
+              "title" : "Fesselung"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE013100314",
+              "paragraph" : "§ 91",
+              "title" : "Anordnung besonderer Sicherungsmaßnahmen"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE013200314",
+              "paragraph" : "§ 92",
+              "title" : "Ärztliche Überwachung"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE013402311",
+              "paragraph" : "§ 93",
+              "title" : "Ersatz von Aufwendungen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              11
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Sicherheit und Ordnung"
+        },
+        {
+          "documentIdentifier" : "BJNR005810976BJNG001400314",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR005810976BJNE013500314",
+              "paragraph" : "§ 94",
+              "title" : "Allgemeine Voraussetzungen"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE013600314",
+              "paragraph" : "§ 95",
+              "title" : "Begriffsbestimmungen"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE013700314",
+              "paragraph" : "§ 96",
+              "title" : "Grundsatz der Verhältnismäßigkeit"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE013801160",
+              "paragraph" : "§ 97",
+              "title" : "Handeln auf Anordnung"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE013900314",
+              "paragraph" : "§ 98",
+              "title" : "Androhung"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE014000314",
+              "paragraph" : "§ 99",
+              "title" : "Allgemeine Vorschriften für den Schußwaffengebrauch"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE014100314",
+              "paragraph" : "§ 100",
+              "title" : "Besondere Vorschriften für den Schußwaffengebrauch"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE014201306",
+              "paragraph" : "§ 101",
+              "title" : "Zwangsmaßnahmen auf dem Gebiet der Gesundheitsfürsorge"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              12
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Unmittelbarer Zwang"
+        },
+        {
+          "documentIdentifier" : "BJNR005810976BJNG001500314",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR005810976BJNE014300314",
+              "paragraph" : "§ 102",
+              "title" : "Voraussetzungen"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE014401307",
+              "paragraph" : "§ 103",
+              "title" : "Arten der Disziplinarmaßnahmen"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE014500314",
+              "paragraph" : "§ 104",
+              "title" : "Vollzug der Disziplinarmaßnahmen.\n"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE014600314",
+              "paragraph" : "§ 105",
+              "title" : "Disziplinarbefugnis"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE014700314",
+              "paragraph" : "§ 106",
+              "title" : "Verfahren"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE014800314",
+              "paragraph" : "§ 107",
+              "title" : "Mitwirkung des Arztes"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              13
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Disziplinarmaßnahmen"
+        },
+        {
+          "documentIdentifier" : "BJNR005810976BJNG001601125",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR005810976BJNE014900314",
+              "paragraph" : "§ 108",
+              "title" : "Beschwerderecht"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE015001308",
+              "paragraph" : "§ 109",
+              "title" : "Antrag auf gerichtliche Entscheidung"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE015101308",
+              "paragraph" : "§ 110",
+              "title" : "Zuständigkeit"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE025203125",
+              "paragraph" : "§ 110a",
+              "title" : "Elektronische Aktenführung; Verordnungsermächtigungen"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE015200314",
+              "paragraph" : "§ 111",
+              "title" : "Beteiligte"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE015302311",
+              "paragraph" : "§ 112",
+              "title" : "Antragsfrist. Wiedereinsetzung"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE015400314",
+              "paragraph" : "§ 113",
+              "title" : "Vornahmeantrag"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE015500314",
+              "paragraph" : "§ 114",
+              "title" : "Aussetzung der Maßnahme"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE015604311",
+              "paragraph" : "§ 115",
+              "title" : "Gerichtliche Entscheidung"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE015700314",
+              "paragraph" : "§ 116",
+              "title" : "Rechtsbeschwerde"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE015800314",
+              "paragraph" : "§ 117",
+              "title" : "Zuständigkeit für die Rechtsbeschwerde"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE015901311",
+              "paragraph" : "§ 118",
+              "title" : "Form. Frist. Begründung"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE016000314",
+              "paragraph" : "§ 119",
+              "title" : "Entscheidung über die Rechtsbeschwerde"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE025100308",
+              "paragraph" : "§ 119a",
+              "title" : "Strafvollzugsbegleitende gerichtliche Kontrolle bei angeordneter oder vorbehaltener Sicherungsverwahrung"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE016103311",
+              "paragraph" : "§ 120",
+              "title" : "Entsprechende Anwendung anderer Vorschriften"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE016204308",
+              "paragraph" : "§ 121",
+              "title" : "Kosten des Verfahrens"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE025300125",
+              "paragraph" : "§ 121a",
+              "title" : "Gerichtliche Zuständigkeit bei dem Richtervorbehalt unterliegenden Maßnahmen"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE025400125",
+              "paragraph" : "§ 121b",
+              "title" : "Gerichtliches Verfahren bei dem Richtervorbehalt unterliegenden Maßnahmen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              14
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Rechtsbehelfe und gerichtliches Verfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR005810976BJNG001700314",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              15
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Strafvollstreckung und Untersuchungshaft"
+        },
+        {
+          "documentIdentifier" : "BJNR005810976BJNG003500306",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR005810976BJNE016401306",
+              "paragraph" : "§ 123",
+              "title" : "Sozialtherapeutische Anstalten und Abteilungen"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE016501306",
+              "paragraph" : "§ 124",
+              "title" : "Urlaub zur Vorbereitung der Entlassung"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE016601306",
+              "paragraph" : "§ 125",
+              "title" : "Aufnahme auf freiwilliger Grundlage"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE016701306",
+              "paragraph" : "§ 126",
+              "title" : "Nachgehende Betreuung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              16
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Sozialtherapeutische Anstalten"
+        }
+      ],
+      "title" : "Vollzug der Freiheitsstrafe"
+    },
+    {
+      "documentIdentifier" : "BJNR005810976BJNG001800314",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR005810976BJNG002001306",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR005810976BJNE017100314",
+              "paragraph" : "§ 129",
+              "title" : "Ziel der Unterbringung"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE017204125",
+              "paragraph" : "§ 130",
+              "title" : "Anwendung anderer Vorschriften"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE017300314",
+              "paragraph" : "§ 131",
+              "title" : "Ausstattung"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE017400314",
+              "paragraph" : "§ 132",
+              "title" : "Kleidung"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE017502311",
+              "paragraph" : "§ 133",
+              "title" : "Selbstbeschäftigung. Taschengeld"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE017601306",
+              "paragraph" : "§ 134",
+              "title" : "Entlassungsvorbereitung"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE017700314",
+              "paragraph" : "§ 135",
+              "title" : "Sicherungsverwahrung in Frauenanstalten"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Sicherungsverwahrung"
+        },
+        {
+          "documentIdentifier" : "BJNR005810976BJNG002101306",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR005810976BJNE017800314",
+              "paragraph" : "§ 136",
+              "title" : "Unterbringung in einem psychiatrischen Krankenhaus"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE017900314",
+              "paragraph" : "§ 137",
+              "title" : "Unterbringung in einer Entziehungsanstalt"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE018003125",
+              "paragraph" : "§ 138",
+              "title" : "Anwendung anderer Vorschriften"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Unterbringung in einem psychiatrischen Krankenhaus und in einer Entziehungsanstalt"
+        }
+      ],
+      "title" : "Besondere Vorschriften über den Vollzug der freiheitsentziehenden Maßregeln der Besserung und Sicherung"
+    },
+    {
+      "documentIdentifier" : "BJNR005810976BJNG002200314",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR005810976BJNG002300314",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR005810976BJNE018101306",
+              "paragraph" : "§ 139",
+              "title" : "Justizvollzugsanstalten"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE018201306",
+              "paragraph" : "§ 140",
+              "title" : "Trennung des Vollzuges"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE018300314",
+              "paragraph" : "§ 141",
+              "title" : "Differenzierung"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE018400314",
+              "paragraph" : "§ 142",
+              "title" : "Einrichtungen für Mütter mit Kindern"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE018500314",
+              "paragraph" : "§ 143",
+              "title" : "Größe und Gestaltung der Anstalten"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE018602311",
+              "paragraph" : "§ 144",
+              "title" : "Größe und Ausgestaltung der Räume"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE018700314",
+              "paragraph" : "§ 145",
+              "title" : "Festsetzung der Belegungsfähigkeit"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE018800314",
+              "paragraph" : "§ 146",
+              "title" : "Verbot der Überbelegung"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE018900314",
+              "paragraph" : "§ 147",
+              "title" : "Einrichtungen für die Entlassung"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE019002301",
+              "paragraph" : "§ 148",
+              "title" : "Arbeitsbeschaffung, Gelegenheit zur beruflichen Bildung"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE019100314",
+              "paragraph" : "§ 149",
+              "title" : "Arbeitsbetriebe, Einrichtungen zur beruflichen Bildung"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE019200314",
+              "paragraph" : "§ 150",
+              "title" : "Vollzugsgemeinschaften"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Arten und Einrichtung der Justizvollzugsanstalten"
+        },
+        {
+          "documentIdentifier" : "BJNR005810976BJNG002400314",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR005810976BJNE019300314",
+              "paragraph" : "§ 151",
+              "title" : "Aufsichtsbehörden"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE019400314",
+              "paragraph" : "§ 152",
+              "title" : "Vollstreckungsplan"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE019500314",
+              "paragraph" : "§ 153",
+              "title" : "Zuständigkeit für Verlegungen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Aufsicht über die Justizvollzugsanstalten"
+        },
+        {
+          "documentIdentifier" : "BJNR005810976BJNG002500314",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR005810976BJNE019601301",
+              "paragraph" : "§ 154",
+              "title" : "Zusammenarbeit"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE019700314",
+              "paragraph" : "§ 155",
+              "title" : "Vollzugsbedienstete"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE019800314",
+              "paragraph" : "§ 156",
+              "title" : "Anstaltsleitung"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE019900314",
+              "paragraph" : "§ 157",
+              "title" : "Seelsorge"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE020001311",
+              "paragraph" : "§ 158",
+              "title" : "Ärztliche Versorgung"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE020100314",
+              "paragraph" : "§ 159",
+              "title" : "Konferenzen"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE020200314",
+              "paragraph" : "§ 160",
+              "title" : "Gefangenenmitverantwortung"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE020300314",
+              "paragraph" : "§ 161",
+              "title" : "Hausordnung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Innerer Aufbau der Justizvollzugsanstalten"
+        },
+        {
+          "documentIdentifier" : "BJNR005810976BJNG002600314",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR005810976BJNE020400314",
+              "paragraph" : "§ 162",
+              "title" : "Bildung der Beiräte"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE020500314",
+              "paragraph" : "§ 163",
+              "title" : "Aufgabe der Beiräte"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE020600314",
+              "paragraph" : "§ 164",
+              "title" : "Befugnisse"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE020700314",
+              "paragraph" : "§ 165",
+              "title" : "Pflicht zur Verschwiegenheit"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Anstaltsbeiräte"
+        },
+        {
+          "documentIdentifier" : "BJNR005810976BJNG002700314",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4,
+              5
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Kriminologische Forschung im Strafvollzug"
+        }
+      ],
+      "title" : "Vollzugsbehörden"
+    },
+    {
+      "documentIdentifier" : "BJNR005810976BJNG002802125",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR005810976BJNG002900314",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR005810976BJNE020906125",
+              "paragraph" : "§ 167",
+              "title" : "Grundsatz"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE021000314",
+              "paragraph" : "§ 168",
+              "title" : "Unterbringung, Besuche und Schriftverkehr"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE021100314",
+              "paragraph" : "§ 169",
+              "title" : "Kleidung, Wäsche und Bettzeug"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE021200314",
+              "paragraph" : "§ 170",
+              "title" : "Einkauf"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              5,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Vollzug des Strafarrestes in Justizvollzugsanstalten"
+        },
+        {
+          "documentIdentifier" : "BJNR005810976BJNG003000314",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR005810976BJNE021306125",
+              "paragraph" : "§ 171",
+              "title" : "Grundsatz"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE025500125",
+              "paragraph" : "§ 171a",
+              "title" : "Fixierung"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE021400314",
+              "paragraph" : "§ 172",
+              "title" : "Unterbringung"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE021500314",
+              "paragraph" : "§ 173",
+              "title" : "Kleidung, Wäsche und Bettzeug"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE021600314",
+              "paragraph" : "§ 174",
+              "title" : "Einkauf"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE021700314",
+              "paragraph" : "§ 175",
+              "title" : "Arbeit"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              5,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Vollzug von Ordnungs-, Sicherungs-, Zwangs- und Erzwingungshaft"
+        },
+        {
+          "documentIdentifier" : "BJNR005810976BJNG003100314",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR005810976BJNE021901311",
+              "paragraph" : "§ 176",
+              "title" : "Jugendstrafanstalten"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE022001311",
+              "paragraph" : "§ 177",
+              "title" : "Untersuchungshaft"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              5,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Arbeitsentgelt in Jugendstrafanstalten und im Vollzug der Untersuchungshaft"
+        },
+        {
+          "documentIdentifier" : "BJNR005810976BJNG003200314",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              5,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Unmittelbarer Zwang in Justizvollzugsanstalten"
+        },
+        {
+          "documentIdentifier" : "BJNR005810976BJNG003601125",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR005810976BJNE023402125",
+              "paragraph" : "§ 179",
+              "title" : "Datenerhebung"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE023502125",
+              "paragraph" : "§ 180",
+              "title" : "Verarbeitung"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE023601125",
+              "paragraph" : "§ 181",
+              "title" : "Zweckbindung bei Übermittlungen"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE023702125",
+              "paragraph" : "§ 182",
+              "title" : "Schutz besonderer Kategorien personenbezogener Daten"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE023801125",
+              "paragraph" : "§ 183",
+              "title" : "Schutz der Daten in Akten und Dateisystemen"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE023902125",
+              "paragraph" : "§ 184",
+              "title" : "Berichtigung, Löschung und Einschränkung der Verarbeitung"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE024001125",
+              "paragraph" : "§ 185",
+              "title" : "Auskunft an den die betroffene Person, Akteneinsicht"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE024102125",
+              "paragraph" : "§ 186",
+              "title" : "Auskunft und Akteneinsicht für wissenschaftliche Zwecke und zur Wahrnehmung der Aufgaben des Europäischen Ausschusses zur Verhütung von Folter und unmenschlicher oder erniedrigender Behandlung oder Strafe"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE024202125",
+              "paragraph" : "§ 187",
+              "title" : "(weggefallen)"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              5,
+              5
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Datenschutz beim Vollzug von Ordnungs-, Sicherungs-, Zwangs- und Erzwingungshaft"
+        },
+        {
+          "documentIdentifier" : "BJNR005810976BJNG003301307",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR005810976BJNE024400307",
+              "paragraph" : "§ 189",
+              "title" : "Verordnung über Kosten im Bereich der Justizverwaltung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              5,
+              6
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Anpassung des Bundesrechts"
+        },
+        {
+          "documentIdentifier" : "BJNR005810976BJNG003700307",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR005810976BJNE024500307",
+              "paragraph" : "§ 190",
+              "title" : "Reichsversicherungsordnung"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE024600307",
+              "paragraph" : "§ 191",
+              "title" : "Angestelltenversicherungsgesetz"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE024700307",
+              "paragraph" : "§ 192",
+              "title" : "Reichsknappschaftsgesetz"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE024800307",
+              "paragraph" : "§ 193",
+              "title" : "Gesetz über die Krankenversicherung der Landwirte"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE022301301",
+              "paragraph" : "§ 195",
+              "title" : "Einbehaltung von Beitragsteilen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              5,
+              7
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Sozial- und Arbeitslosenversicherung"
+        },
+        {
+          "documentIdentifier" : "BJNR005810976BJNG003401307",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR005810976BJNE022400314",
+              "paragraph" : "§ 196",
+              "title" : "Einschränkung von Grundrechten"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE022604307",
+              "paragraph" : "§ 198",
+              "title" : "Inkrafttreten"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE022706310",
+              "paragraph" : "§ 199",
+              "title" : "Übergangsfassungen"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE022802311",
+              "paragraph" : "§ 200",
+              "title" : "Höhe des Arbeitsentgelts"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE022901306",
+              "paragraph" : "§ 201",
+              "title" : "Übergangsbestimmungen für bestehende Anstalten"
+            },
+            {
+              "documentIdentifier" : "BJNR005810976BJNE023200309",
+              "paragraph" : "§ 202",
+              "title" : "Freiheitsstrafe und Jugendhaft der\nDeutschen Demokratischen Republik"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              5,
+              8
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Einschränkung von Grundrechten, Inkrafttreten"
+        }
+      ],
+      "title" : "Vollzug weiterer freiheitsentziehender Maßnahmen in Justizvollzugsanstalten, Datenschutz beim Vollzug von Ordnungs-, Sicherungs-, Zwangs- und Erzwingungshaft, Sozial- und Arbeitslosenversicherung, Schlußvorschriften"
+    }
+  ]
+}

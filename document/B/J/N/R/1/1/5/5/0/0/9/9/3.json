@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR115500993",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR115500993Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR115500993BJNE000200307",
+          "paragraph" : "Anlage 1",
+          "title" : "Kennzeichen der Auszeichnung der Queen für Verdienste\nauf dem Gebiet des Umweltschutzes"
+        },
+        {
+          "documentIdentifier" : "BJNR115500993BJNE000300307",
+          "paragraph" : "Anlage 2",
+          "title" : "Namen, Abkürzungen und Kennzeichen des BENELUX-Markenamts"
+        },
+        {
+          "documentIdentifier" : "BJNR115500993BJNE000400307",
+          "paragraph" : "Anlage 3",
+          "title" : "Kennzeichen mit Namen und Abkürzung des Gemeinsamen Fonds\nfür Rohstoffe"
+        },
+        {
+          "documentIdentifier" : "BJNR115500993BJNE000500307",
+          "paragraph" : "Anlage 4",
+          "title" : "Kennzeichen der Umwelt-Konferenz der Vereinten Nationen\n(UNEP) und Abkürzungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

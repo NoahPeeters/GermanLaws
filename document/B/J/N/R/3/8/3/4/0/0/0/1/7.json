@@ -1,0 +1,346 @@
+{
+  "documentIdentifier" : "BJNR383400017",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR383400017BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR383400017BJNE000300000",
+          "paragraph" : "§ 1",
+          "title" : "Staatliche Anerkennung des Ausbildungsberufes"
+        },
+        {
+          "documentIdentifier" : "BJNR383400017BJNE000400000",
+          "paragraph" : "§ 2",
+          "title" : "Dauer der Berufsausbildung"
+        },
+        {
+          "documentIdentifier" : "BJNR383400017BJNE000500000",
+          "paragraph" : "§ 3",
+          "title" : "Gegenstand der Berufsausbildung und Ausbildungsrahmenplan"
+        },
+        {
+          "documentIdentifier" : "BJNR383400017BJNE000600000",
+          "paragraph" : "§ 4",
+          "title" : "Struktur der Berufsausbildung, Ausbildungsberufsbild"
+        },
+        {
+          "documentIdentifier" : "BJNR383400017BJNE000700000",
+          "paragraph" : "§ 5",
+          "title" : "Ausbildungsplan"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gegenstand, Dauer und Gliederung der Berufsausbildung"
+    },
+    {
+      "documentIdentifier" : "BJNR383400017BJNG000200000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR383400017BJNG000300000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR383400017BJNE000800000",
+              "paragraph" : "§ 6",
+              "title" : "Ziel, Aufteilung in zwei Teile und Zeitpunkt"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Allgemeines"
+        },
+        {
+          "documentIdentifier" : "BJNR383400017BJNG000400000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR383400017BJNE000900000",
+              "paragraph" : "§ 7",
+              "title" : "Inhalt von Teil 1"
+            },
+            {
+              "documentIdentifier" : "BJNR383400017BJNE001000000",
+              "paragraph" : "§ 8",
+              "title" : "Prüfungsbereich von Teil 1"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Teil 1 der Abschlussprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR383400017BJNG000500000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR383400017BJNE001100000",
+              "paragraph" : "§ 9",
+              "title" : "Inhalt von Teil 2"
+            },
+            {
+              "documentIdentifier" : "BJNR383400017BJNE001200000",
+              "paragraph" : "§ 10",
+              "title" : "Prüfungsbereiche von Teil 2"
+            },
+            {
+              "documentIdentifier" : "BJNR383400017BJNE001300000",
+              "paragraph" : "§ 11",
+              "title" : "Prüfungsbereich Arbeitsauftrag"
+            },
+            {
+              "documentIdentifier" : "BJNR383400017BJNE001400000",
+              "paragraph" : "§ 12",
+              "title" : "Prüfungsbereich Auftrags- und Fertigungsplanung"
+            },
+            {
+              "documentIdentifier" : "BJNR383400017BJNE001500000",
+              "paragraph" : "§ 13",
+              "title" : "Prüfungsbereich Eisen- und stahlmetallurgische Prozesse"
+            },
+            {
+              "documentIdentifier" : "BJNR383400017BJNE001600000",
+              "paragraph" : "§ 14",
+              "title" : "Prüfungsbereich Wirtschafts- und Sozialkunde"
+            },
+            {
+              "documentIdentifier" : "BJNR383400017BJNE001700000",
+              "paragraph" : "§ 15",
+              "title" : "Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Teil 2 der Abschlussprüfung in der Fachrichtung Eisen- und Stahlmetallurgie"
+        },
+        {
+          "documentIdentifier" : "BJNR383400017BJNG000600000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR383400017BJNE001800000",
+              "paragraph" : "§ 16",
+              "title" : "Inhalt von Teil 2"
+            },
+            {
+              "documentIdentifier" : "BJNR383400017BJNE001900000",
+              "paragraph" : "§ 17",
+              "title" : "Prüfungsbereiche von Teil 2"
+            },
+            {
+              "documentIdentifier" : "BJNR383400017BJNE002000000",
+              "paragraph" : "§ 18",
+              "title" : "Prüfungsbereich Arbeitsauftrag"
+            },
+            {
+              "documentIdentifier" : "BJNR383400017BJNE002100000",
+              "paragraph" : "§ 19",
+              "title" : "Prüfungsbereich Auftrags- und Fertigungsplanung"
+            },
+            {
+              "documentIdentifier" : "BJNR383400017BJNE002200000",
+              "paragraph" : "§ 20",
+              "title" : "Prüfungsbereich Stahlumformprozesse"
+            },
+            {
+              "documentIdentifier" : "BJNR383400017BJNE002300000",
+              "paragraph" : "§ 21",
+              "title" : "Prüfungsbereich Wirtschafts- und Sozialkunde"
+            },
+            {
+              "documentIdentifier" : "BJNR383400017BJNE002400000",
+              "paragraph" : "§ 22",
+              "title" : "Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Teil 2 der Abschlussprüfung in der Fachrichtung Stahlumformung"
+        },
+        {
+          "documentIdentifier" : "BJNR383400017BJNG000700000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR383400017BJNE002500000",
+              "paragraph" : "§ 23",
+              "title" : "Inhalt von Teil 2"
+            },
+            {
+              "documentIdentifier" : "BJNR383400017BJNE002600000",
+              "paragraph" : "§ 24",
+              "title" : "Prüfungsbereiche von Teil 2"
+            },
+            {
+              "documentIdentifier" : "BJNR383400017BJNE002700000",
+              "paragraph" : "§ 25",
+              "title" : "Prüfungsbereich Arbeitsauftrag"
+            },
+            {
+              "documentIdentifier" : "BJNR383400017BJNE002800000",
+              "paragraph" : "§ 26",
+              "title" : "Prüfungsbereich Auftrags- und Fertigungsplanung"
+            },
+            {
+              "documentIdentifier" : "BJNR383400017BJNE002900000",
+              "paragraph" : "§ 27",
+              "title" : "Prüfungsbereich Nichteisenmetallurgische Prozesse"
+            },
+            {
+              "documentIdentifier" : "BJNR383400017BJNE003000000",
+              "paragraph" : "§ 28",
+              "title" : "Prüfungsbereich Wirtschafts- und Sozialkunde"
+            },
+            {
+              "documentIdentifier" : "BJNR383400017BJNE003100000",
+              "paragraph" : "§ 29",
+              "title" : "Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              5
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Teil 2 der Abschlussprüfung in der Fachrichtung Nichteisenmetallurgie"
+        },
+        {
+          "documentIdentifier" : "BJNR383400017BJNG000800000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR383400017BJNE003200000",
+              "paragraph" : "§ 30",
+              "title" : "Inhalt von Teil 2"
+            },
+            {
+              "documentIdentifier" : "BJNR383400017BJNE003300000",
+              "paragraph" : "§ 31",
+              "title" : "Prüfungsbereiche von Teil 2"
+            },
+            {
+              "documentIdentifier" : "BJNR383400017BJNE003400000",
+              "paragraph" : "§ 32",
+              "title" : "Prüfungsbereich Arbeitsauftrag"
+            },
+            {
+              "documentIdentifier" : "BJNR383400017BJNE003500000",
+              "paragraph" : "§ 33",
+              "title" : "Prüfungsbereich Auftrags- und Fertigungsplanung"
+            },
+            {
+              "documentIdentifier" : "BJNR383400017BJNE003600000",
+              "paragraph" : "§ 34",
+              "title" : "Prüfungsbereich Nichteisenmetallumformprozesse"
+            },
+            {
+              "documentIdentifier" : "BJNR383400017BJNE003700000",
+              "paragraph" : "§ 35",
+              "title" : "Prüfungsbereich Wirtschafts- und Sozialkunde"
+            },
+            {
+              "documentIdentifier" : "BJNR383400017BJNE003800000",
+              "paragraph" : "§ 36",
+              "title" : "Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              6
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Teil 2 der Abschlussprüfung in der Fachrichtung Nichteisenmetallumformung"
+        }
+      ],
+      "title" : "Abschlussprüfung"
+    },
+    {
+      "documentIdentifier" : "BJNR383400017BJNG000900000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR383400017BJNE003900000",
+          "paragraph" : "§ 37",
+          "title" : "Anrechnung von Ausbildungszeiten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Weitere Berufsausbildung"
+    },
+    {
+      "documentIdentifier" : "BJNR383400017BJNG001000000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR383400017BJNE004000000",
+          "paragraph" : "§ 38",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR383400017BJNE004100000",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 3 Absatz 1)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussvorschriften"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR015480992",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR015480992Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR015480992BJNE000300314",
+          "paragraph" : "Art 9",
+          "title" : "Übergangsregelung"
+        },
+        {
+          "documentIdentifier" : "BJNR015480992BJNE000600314",
+          "paragraph" : "Art 12",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

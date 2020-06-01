@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR234610003",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR234610003Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR234610003BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich, Berechnung der Wohnfläche"
+        },
+        {
+          "documentIdentifier" : "BJNR234610003BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Zur Wohnfläche gehörende Grundflächen"
+        },
+        {
+          "documentIdentifier" : "BJNR234610003BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Ermittlung der Grundfläche"
+        },
+        {
+          "documentIdentifier" : "BJNR234610003BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Anrechnung der Grundflächen"
+        },
+        {
+          "documentIdentifier" : "BJNR234610003BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Überleitungsvorschrift"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

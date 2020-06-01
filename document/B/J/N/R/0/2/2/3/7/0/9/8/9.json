@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR022370989",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR022370989Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR022370989BJNE000200328",
+          "paragraph" : "§ 1",
+          "title" : "Sächliche Mittel mit geringem oder umstrittenem\ntherapeutischen Nutzen"
+        },
+        {
+          "documentIdentifier" : "BJNR022370989BJNE000301308",
+          "paragraph" : "§ 2",
+          "title" : "Sächliche Mittel mit geringem Abgabepreis"
+        },
+        {
+          "documentIdentifier" : "BJNR022370989BJNE000400328",
+          "paragraph" : "§ 3",
+          "title" : "Instandsetzungen"
+        },
+        {
+          "documentIdentifier" : "BJNR022370989BJNE000601308",
+          "paragraph" : "§ 4",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "documentIdentifier" : "BJNR000880955",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR000880955BJNG000100319",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR000880955BJNE000500319",
+          "paragraph" : "§ 1",
+          "title" : "Heimatvertriebene"
+        },
+        {
+          "documentIdentifier" : "BJNR000880955BJNE000600319",
+          "paragraph" : "§ 2",
+          "title" : "Evakuierte"
+        },
+        {
+          "documentIdentifier" : "BJNR000880955BJNE000700319",
+          "paragraph" : "§ 3",
+          "title" : "Zugewanderte"
+        },
+        {
+          "documentIdentifier" : "BJNR000880955BJNE000800319",
+          "paragraph" : "§ 4",
+          "title" : "Ausländer und Staatenlose"
+        },
+        {
+          "documentIdentifier" : "BJNR000880955BJNE000901301",
+          "paragraph" : "§ 5",
+          "title" : "Angehörige von Kriegsgefangenen und Vermißten, Heimkehrer"
+        },
+        {
+          "documentIdentifier" : "BJNR000880955BJNE001000319",
+          "paragraph" : "§ 6",
+          "title" : "Kriegsbeschädigte, Kriegshinterbliebene und ihnen\ngleichgestellte Personen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Personenkreis der Kriegsfolgenhilfe-Empfänger"
+    },
+    {
+      "documentIdentifier" : "BJNR000880955BJNG000200319",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR000880955BJNE001100319",
+          "paragraph" : "§ 7",
+          "title" : "Verrechnungsfähige Kosten"
+        },
+        {
+          "documentIdentifier" : "BJNR000880955BJNE001200319",
+          "paragraph" : "§ 8",
+          "title" : "Besondere Voraussetzungen der Verrechnungsfähigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR000880955BJNE001300319",
+          "paragraph" : "§ 9",
+          "title" : "Nichtverrechnungsfähige Kosten"
+        },
+        {
+          "documentIdentifier" : "BJNR000880955BJNE001400319",
+          "paragraph" : "§ 10",
+          "title" : "Durchgangs- und Wohnlager"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Verrechnungsfähigkeit der Fürsorgekosten"
+    },
+    {
+      "documentIdentifier" : "BJNR000880955BJNG000300319",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR000880955BJNE001500319",
+          "paragraph" : "§ 11",
+          "title" : "Übergangsvorschrift"
+        },
+        {
+          "documentIdentifier" : "BJNR000880955BJNE001600319",
+          "paragraph" : "§ 12",
+          "title" : "Geltung in Berlin"
+        },
+        {
+          "documentIdentifier" : "BJNR000880955BJNE001700319",
+          "paragraph" : "§ 13",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übergangsvorschriften, Inkrafttreten"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR097500993",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR097500993Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR097500993BJNE000107123",
+          "paragraph" : "§ 1",
+          "title" : "Erhebung eines Solidaritätszuschlags"
+        },
+        {
+          "documentIdentifier" : "BJNR097500993BJNE000202301",
+          "paragraph" : "§ 2",
+          "title" : "Abgabepflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR097500993BJNE000326123",
+          "paragraph" : "§ 3",
+          "title" : "Bemessungsgrundlage und zeitliche Anwendung"
+        },
+        {
+          "documentIdentifier" : "BJNR097500993BJNE000406123",
+          "paragraph" : "§ 4",
+          "title" : "Zuschlagsatz"
+        },
+        {
+          "documentIdentifier" : "BJNR097500993BJNE000501301",
+          "paragraph" : "§ 5",
+          "title" : "Doppelbesteuerungsabkommen"
+        },
+        {
+          "documentIdentifier" : "BJNR097500993BJNE000621123",
+          "paragraph" : "§ 6",
+          "title" : "Anwendungsvorschrift"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

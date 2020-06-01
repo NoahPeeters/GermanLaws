@@ -1,0 +1,243 @@
+{
+  "documentIdentifier" : "BJNR164400010",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR164400010BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR164400010BJNE000203301",
+          "paragraph" : "§ 1",
+          "title" : "Zielsetzung und Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR164400010BJNE000303301",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Zielsetzung, Anwendungsbereich und Begriffsbestimmungen"
+    },
+    {
+      "documentIdentifier" : "BJNR164400010BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR164400010BJNE000401301",
+          "paragraph" : "§ 3",
+          "title" : "Gefahrenklassen"
+        },
+        {
+          "documentIdentifier" : "BJNR164400010BJNE000502301",
+          "paragraph" : "§ 4",
+          "title" : "Einstufung, Kennzeichnung, Verpackung"
+        },
+        {
+          "documentIdentifier" : "BJNR164400010BJNE000601301",
+          "paragraph" : "§ 5",
+          "title" : "Sicherheitsdatenblatt und sonstige Informationspflichten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gefahrstoffinformation"
+    },
+    {
+      "documentIdentifier" : "BJNR164400010BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR164400010BJNE000703301",
+          "paragraph" : "§ 6",
+          "title" : "Informationsermittlung und Gefährdungsbeurteilung"
+        },
+        {
+          "documentIdentifier" : "BJNR164400010BJNE000802301",
+          "paragraph" : "§ 7",
+          "title" : "Grundpflichten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gefährdungsbeurteilung und Grundpflichten"
+    },
+    {
+      "documentIdentifier" : "BJNR164400010BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR164400010BJNE000901301",
+          "paragraph" : "§ 8",
+          "title" : "Allgemeine Schutzmaßnahmen"
+        },
+        {
+          "documentIdentifier" : "BJNR164400010BJNE001001301",
+          "paragraph" : "§ 9",
+          "title" : "Zusätzliche Schutzmaßnahmen"
+        },
+        {
+          "documentIdentifier" : "BJNR164400010BJNE001102301",
+          "paragraph" : "§ 10",
+          "title" : "Besondere Schutzmaßnahmen bei Tätigkeiten mit krebserzeugenden, keimzellmutagenen und reproduktionstoxischen Gefahrstoffen der Kategorie 1A und 1B"
+        },
+        {
+          "documentIdentifier" : "BJNR164400010BJNE001203301",
+          "paragraph" : "§ 11",
+          "title" : "Besondere Schutzmaßnahmen gegen physikalisch-chemische Einwirkungen, insbesondere gegen Brand- und Explosionsgefährdungen"
+        },
+        {
+          "documentIdentifier" : "BJNR164400010BJNE001301377",
+          "paragraph" : "§ 12",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR164400010BJNE001400000",
+          "paragraph" : "§ 13",
+          "title" : "Betriebsstörungen, Unfälle und Notfälle"
+        },
+        {
+          "documentIdentifier" : "BJNR164400010BJNE001502301",
+          "paragraph" : "§ 14",
+          "title" : "Unterrichtung und Unterweisung der Beschäftigten"
+        },
+        {
+          "documentIdentifier" : "BJNR164400010BJNE001600000",
+          "paragraph" : "§ 15",
+          "title" : "Zusammenarbeit verschiedener Firmen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schutzmaßnahmen"
+    },
+    {
+      "documentIdentifier" : "BJNR164400010BJNG000500000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR164400010BJNE001701301",
+          "paragraph" : "§ 16",
+          "title" : "Herstellungs- und Verwendungsbeschränkungen"
+        },
+        {
+          "documentIdentifier" : "BJNR164400010BJNE001801301",
+          "paragraph" : "§ 17",
+          "title" : "Nationale Ausnahmen von Beschränkungsregelungen nach der Verordnung (EG) Nr. 1907\/2006"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Verbote und Beschränkungen"
+    },
+    {
+      "documentIdentifier" : "BJNR164400010BJNG000600000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR164400010BJNE001901301",
+          "paragraph" : "§ 18",
+          "title" : "Unterrichtung der Behörde"
+        },
+        {
+          "documentIdentifier" : "BJNR164400010BJNE002002301",
+          "paragraph" : "§ 19",
+          "title" : "Behördliche Ausnahmen, Anordnungen und Befugnisse"
+        },
+        {
+          "documentIdentifier" : "BJNR164400010BJNE002101377",
+          "paragraph" : "§ 20",
+          "title" : "Ausschuss für Gefahrstoffe"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Vollzugsregelungen und Ausschuss für Gefahrstoffe"
+    },
+    {
+      "documentIdentifier" : "BJNR164400010BJNG000700000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR164400010BJNE002200000",
+          "paragraph" : "§ 21",
+          "title" : "Chemikaliengesetz – Anzeigen"
+        },
+        {
+          "documentIdentifier" : "BJNR164400010BJNE002303301",
+          "paragraph" : "§ 22",
+          "title" : "Chemikaliengesetz – Tätigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR164400010BJNE002401377",
+          "paragraph" : "§ 23",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR164400010BJNE002502301",
+          "paragraph" : "§ 24",
+          "title" : "Chemikaliengesetz – Herstellungs- und Verwendungsbeschränkungen"
+        },
+        {
+          "documentIdentifier" : "BJNR164400010BJNE002900301",
+          "paragraph" : "§ 25",
+          "title" : "Übergangsvorschrift"
+        },
+        {
+          "documentIdentifier" : "BJNR164400010BJNE002605311",
+          "paragraph" : "Anhang I",
+          "title" : "(zu § 8 Absatz 8, § 11 Absatz 3)"
+        },
+        {
+          "documentIdentifier" : "BJNR164400010BJNE002702301",
+          "paragraph" : "Anhang II",
+          "title" : "(zu § 16 Absatz 2)"
+        },
+        {
+          "documentIdentifier" : "BJNR164400010BJNE002801301",
+          "paragraph" : "Anhang III",
+          "title" : "(zu § 11 Absatz 4)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Ordnungswidrigkeiten und Straftaten"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR000010952",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR000010952Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR000010952BJNE001600319",
+          "paragraph" : "§ 16",
+          "title" : "Bundeshilfe für das Land Berlin"
+        },
+        {
+          "documentIdentifier" : "BJNR000010952BJNE002100319",
+          "paragraph" : "Anlage 1",
+          "title" : "(§ 12 Abs. 2)\n"
+        },
+        {
+          "documentIdentifier" : "BJNR000010952BJNE002201309",
+          "paragraph" : "Anlage 2",
+          "title" : "(§ 12 Abs. 3)\n"
+        },
+        {
+          "documentIdentifier" : "BJNR000010952BJNE002300319",
+          "paragraph" : "Anlage 3",
+          "title" : "(§ 13 Abs. 2)\n"
+        },
+        {
+          "documentIdentifier" : "BJNR000010952BJNE002401301",
+          "paragraph" : "Anlage 4",
+          "title" : "(§ 12 Abs. 3)\n"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

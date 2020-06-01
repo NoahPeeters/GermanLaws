@@ -1,0 +1,131 @@
+{
+  "documentIdentifier" : "BJNR098610993",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR098610993BJNG000100307",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR098610993BJNE000500307",
+          "paragraph" : "§ 1",
+          "title" : "Zweck der Altschuldenhilfen"
+        },
+        {
+          "documentIdentifier" : "BJNR098610993BJNE000600307",
+          "paragraph" : "§ 2",
+          "title" : "Antragberechtigte"
+        },
+        {
+          "documentIdentifier" : "BJNR098610993BJNE000701377",
+          "paragraph" : "§ 3",
+          "title" : "Altverbindlichkeiten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Grundsätze"
+    },
+    {
+      "documentIdentifier" : "BJNR098610993BJNG000200307",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR098610993BJNE000802377",
+          "paragraph" : "§ 4",
+          "title" : "Teilentlastung"
+        },
+        {
+          "documentIdentifier" : "BJNR098610993BJNE000902311",
+          "paragraph" : "§ 5",
+          "title" : "Privatisierungs- und Veräußerungspflicht, Abführung\nvon Erlösen"
+        },
+        {
+          "documentIdentifier" : "BJNR098610993BJNE001002377",
+          "paragraph" : "§ 6",
+          "title" : "Steuern vom Einkommen und Ertrag"
+        },
+        {
+          "documentIdentifier" : "BJNR098610993BJNE001700311",
+          "paragraph" : "§ 6a",
+          "title" : "Ermächtigung zum Erlass von Vorschriften über zusätzliche\nEntlastung (Härtefallregelung)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Teilentlastung durch Schuldübernahme"
+    },
+    {
+      "documentIdentifier" : "BJNR098610993BJNG000300307",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR098610993BJNE001100307",
+          "paragraph" : "§ 7",
+          "title" : "Zinshilfe"
+        },
+        {
+          "documentIdentifier" : "BJNR098610993BJNE001200307",
+          "paragraph" : "§ 8",
+          "title" : "Kostentragung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gewährung einer Zinshilfe"
+    },
+    {
+      "documentIdentifier" : "BJNR098610993BJNG000400307",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR098610993BJNE001300307",
+          "paragraph" : "§ 9",
+          "title" : "Antrag"
+        },
+        {
+          "documentIdentifier" : "BJNR098610993BJNE001400307",
+          "paragraph" : "§ 10",
+          "title" : "Auskunftspflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR098610993BJNE001501311",
+          "paragraph" : "§ 11",
+          "title" : "Entscheidungen"
+        },
+        {
+          "documentIdentifier" : "BJNR098610993BJNE001604377",
+          "paragraph" : "§ 12",
+          "title" : "Ermächtigung"
+        },
+        {
+          "documentIdentifier" : "BJNR098610993BJNE001800377",
+          "paragraph" : "§ 13",
+          "title" : "Überleitungsvorschrift zum Wohnraumförderungsgesetz"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Verfahrens- und Schlußvorschriften"
+    }
+  ]
+}

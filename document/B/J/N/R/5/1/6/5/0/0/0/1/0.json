@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR516500010",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR516500010Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR516500010BJNE000202305",
+          "paragraph" : "§ 1",
+          "title" : "Entgelte und Entgeltberechnung"
+        },
+        {
+          "documentIdentifier" : "BJNR516500010BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR516500010BJNE000404126",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 1 Absatz 1)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

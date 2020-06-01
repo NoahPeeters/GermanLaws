@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR151000001",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR151000001Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR151000001BJNE000201320",
+          "paragraph" : "(XXXX) Art 2 bis Art 13",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR151000001BJNE000300310",
+          "paragraph" : "Art 14",
+          "title" : "Änderung der Verwaltungsgerichtsordnung"
+        },
+        {
+          "documentIdentifier" : "BJNR151000001BJNE000402320",
+          "paragraph" : "(XXXX) Art 15 bis Art 25",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR151000001BJNE000500310",
+          "paragraph" : "Art 26",
+          "title" : "Rückkehr zum einheitlichen Verordnungsrang"
+        },
+        {
+          "documentIdentifier" : "BJNR151000001BJNE000600310",
+          "paragraph" : "Art 27",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

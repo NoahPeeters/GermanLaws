@@ -1,0 +1,112 @@
+{
+  "documentIdentifier" : "BJNR127300011",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR127300011BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR127300011BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR127300011BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Vergleichseinkommen"
+        },
+        {
+          "documentIdentifier" : "BJNR127300011BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Durchschnittseinkommen"
+        },
+        {
+          "documentIdentifier" : "BJNR127300011BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Ermittlung des Durchschnittseinkommens in besonderen Fällen"
+        },
+        {
+          "documentIdentifier" : "BJNR127300011BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Ermittlung des Durchschnittseinkommens bei einer vor Beginn der Berufsausbildung erlittenen Schädigung"
+        },
+        {
+          "documentIdentifier" : "BJNR127300011BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Durchschnittseinkommen im Sinne des § 30 Absatz 11 und des § 64c Absatz 2"
+        },
+        {
+          "documentIdentifier" : "BJNR127300011BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Kürzung des Vergleichseinkommens und des Durchschnittseinkommens"
+        },
+        {
+          "documentIdentifier" : "BJNR127300011BJNE000901119",
+          "paragraph" : "§ 8",
+          "title" : "Derzeitiges Bruttoeinkommen"
+        },
+        {
+          "documentIdentifier" : "BJNR127300011BJNE001000000",
+          "paragraph" : "§ 9",
+          "title" : "Nicht zu berücksichtigende Einkünfte"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Berufsschadensausgleich"
+    },
+    {
+      "documentIdentifier" : "BJNR127300011BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR127300011BJNE001100000",
+          "paragraph" : "§ 10",
+          "title" : "Vergleichseinkommen"
+        },
+        {
+          "documentIdentifier" : "BJNR127300011BJNE001200000",
+          "paragraph" : "§ 11",
+          "title" : "Bruttoeinkommen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schadensausgleich für Witwen, Witwer sowie hinterbliebene Lebenspartnerinnen und Lebenspartner"
+    },
+    {
+      "documentIdentifier" : "BJNR127300011BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR127300011BJNE001300000",
+          "paragraph" : "§ 12",
+          "title" : "Rundungsvorschrift"
+        },
+        {
+          "documentIdentifier" : "BJNR127300011BJNE001400000",
+          "paragraph" : "§ 13",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gemeinsame Vorschriften"
+    }
+  ]
+}

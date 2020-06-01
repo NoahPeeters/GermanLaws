@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR012610934",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR012610934Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR012610934BJNE000200326",
+          "paragraph" : "Art 1",
+          "title" : "(zum § 1)"
+        },
+        {
+          "documentIdentifier" : "BJNR012610934BJNE000300326",
+          "paragraph" : "Art 2",
+          "title" : "(zum § 3)"
+        },
+        {
+          "documentIdentifier" : "BJNR012610934BJNE000400326",
+          "paragraph" : "Art 3",
+          "title" : "(zum § 4)"
+        },
+        {
+          "documentIdentifier" : "BJNR012610934BJNE000500326",
+          "paragraph" : "Art 4",
+          "title" : "(zum § 5)"
+        },
+        {
+          "documentIdentifier" : "BJNR012610934BJNE000600326",
+          "paragraph" : "Art 5",
+          "title" : "(zum § 6)"
+        },
+        {
+          "documentIdentifier" : "BJNR012610934BJNE000700326",
+          "paragraph" : "Art 6",
+          "title" : "(zum § 8)"
+        },
+        {
+          "documentIdentifier" : "BJNR012610934BJNE000800326",
+          "paragraph" : "Art 7",
+          "title" : "(zu den §§ 9 und 10)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

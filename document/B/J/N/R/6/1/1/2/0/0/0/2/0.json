@@ -1,0 +1,64 @@
+{
+  "documentIdentifier" : "BJNR611200020",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR611200020Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR611200020BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Ausnahmen vom Fünften Buch Sozialgesetzbuch"
+        },
+        {
+          "documentIdentifier" : "BJNR611200020BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Ausnahmen vom Apothekengesetz und von der Apothekenbetriebsordnung"
+        },
+        {
+          "documentIdentifier" : "BJNR611200020BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Weitere Ausnahmen von der Apothekenbetriebsordnung"
+        },
+        {
+          "documentIdentifier" : "BJNR611200020BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Ergänzungen der Arzneimittelpreisverordnung"
+        },
+        {
+          "documentIdentifier" : "BJNR611200020BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Ausnahmen vom Betäubungsmittelgesetz"
+        },
+        {
+          "documentIdentifier" : "BJNR611200020BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Ausnahmen von der Betäubungsmittel-Verschreibungsverordnung"
+        },
+        {
+          "documentIdentifier" : "BJNR611200020BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Auskunftspflicht, Verkaufs- und Verpflichtungsverbot"
+        },
+        {
+          "documentIdentifier" : "BJNR611200020BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR611200020BJNE001000000",
+          "paragraph" : "§ 9",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

@@ -1,0 +1,345 @@
+{
+  "documentIdentifier" : "BJNR248110011",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR248110011BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR248110011BJNE000203123",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich und Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR248110011BJNE000306123",
+          "paragraph" : "§ 2",
+          "title" : "Ausnahmen für einzelne Arten von Vermögensanlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR248110011BJNE003402360",
+          "paragraph" : "§ 2a",
+          "title" : "Befreiungen für Schwarmfinanzierungen"
+        },
+        {
+          "documentIdentifier" : "BJNR248110011BJNE003501123",
+          "paragraph" : "§ 2b",
+          "title" : "Befreiungen für soziale Projekte"
+        },
+        {
+          "documentIdentifier" : "BJNR248110011BJNE003601123",
+          "paragraph" : "§ 2c",
+          "title" : "Befreiungen für gemeinnützige Projekte und Religionsgemeinschaften"
+        },
+        {
+          "documentIdentifier" : "BJNR248110011BJNE003700360",
+          "paragraph" : "§ 2d",
+          "title" : "Widerrufsrecht"
+        },
+        {
+          "documentIdentifier" : "BJNR248110011BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Aufsicht, Anordnungsbefugnis"
+        },
+        {
+          "documentIdentifier" : "BJNR248110011BJNE000501119",
+          "paragraph" : "§ 4",
+          "title" : "Verschwiegenheitspflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR248110011BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Bekanntgabe und Zustellung"
+        },
+        {
+          "documentIdentifier" : "BJNR248110011BJNE003800360",
+          "paragraph" : "§ 5a",
+          "title" : "Laufzeit von Vermögensanlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR248110011BJNE003900360",
+          "paragraph" : "§ 5b",
+          "title" : "Nicht zugelassene Vermögensanlagen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Bestimmungen"
+    },
+    {
+      "documentIdentifier" : "BJNR248110011BJNG000200000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR248110011BJNG000300000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR248110011BJNE000701360",
+              "paragraph" : "§ 6",
+              "title" : "Pflicht zur Veröffentlichung eines Verkaufsprospekts"
+            },
+            {
+              "documentIdentifier" : "BJNR248110011BJNE000804123",
+              "paragraph" : "§ 7",
+              "title" : "Inhalt des Verkaufsprospekts; Verordnungsermächtigung"
+            },
+            {
+              "documentIdentifier" : "BJNR248110011BJNE000901360",
+              "paragraph" : "§ 8",
+              "title" : "Billigung des Verkaufsprospekts"
+            },
+            {
+              "documentIdentifier" : "BJNR248110011BJNE004000360",
+              "paragraph" : "§ 8a",
+              "title" : "Gültigkeit des Verkaufsprospekts"
+            },
+            {
+              "documentIdentifier" : "BJNR248110011BJNE001002360",
+              "paragraph" : "§ 9",
+              "title" : "Frist und Form der Veröffentlichung"
+            },
+            {
+              "documentIdentifier" : "BJNR248110011BJNE004101360",
+              "paragraph" : "§ 10",
+              "title" : "Mitteilung der Beendigung des öffentlichen Angebots und der vollständigen Tilgung"
+            },
+            {
+              "documentIdentifier" : "BJNR248110011BJNE001202360",
+              "paragraph" : "§ 11",
+              "title" : "Veröffentlichung ergänzender Angaben"
+            },
+            {
+              "documentIdentifier" : "BJNR248110011BJNE004200360",
+              "paragraph" : "§ 11a",
+              "title" : "Veröffentlichungspflichten nach Beendigung des öffentlichen Angebots; Verordnungsermächtigung"
+            },
+            {
+              "documentIdentifier" : "BJNR248110011BJNE001301360",
+              "paragraph" : "§ 12",
+              "title" : "Werbung für Vermögensanlagen"
+            },
+            {
+              "documentIdentifier" : "BJNR248110011BJNE001409360",
+              "paragraph" : "§ 13",
+              "title" : "Vermögensanlagen-Informationsblatt"
+            },
+            {
+              "documentIdentifier" : "BJNR248110011BJNE005201123",
+              "paragraph" : "§ 13a",
+              "title" : "Frist und Form der Veröffentlichung eines Vermögensanlagen-Informationsblatts"
+            },
+            {
+              "documentIdentifier" : "BJNR248110011BJNE001502123",
+              "paragraph" : "§ 14",
+              "title" : "Hinterlegung des Verkaufsprospekts und des Vermögensanlagen-Informationsblatts"
+            },
+            {
+              "documentIdentifier" : "BJNR248110011BJNE001603123",
+              "paragraph" : "§ 15",
+              "title" : "Anlegerinformation"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Pflichten des Anbieters"
+        },
+        {
+          "documentIdentifier" : "BJNR248110011BJNG000400000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR248110011BJNE004300360",
+              "paragraph" : "§ 15a",
+              "title" : "Zusätzliche Angaben"
+            },
+            {
+              "documentIdentifier" : "BJNR248110011BJNE001701360",
+              "paragraph" : "§ 16",
+              "title" : "Untersagung von Werbung"
+            },
+            {
+              "documentIdentifier" : "BJNR248110011BJNE001804360",
+              "paragraph" : "§ 17",
+              "title" : "Untersagung der Veröffentlichung"
+            },
+            {
+              "documentIdentifier" : "BJNR248110011BJNE001907360",
+              "paragraph" : "§ 18",
+              "title" : "Untersagung des öffentlichen Angebots"
+            },
+            {
+              "documentIdentifier" : "BJNR248110011BJNE002004123",
+              "paragraph" : "§ 19",
+              "title" : "Auskünfte des Anbieters"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Befugnisse der Bundesanstalt"
+        },
+        {
+          "documentIdentifier" : "BJNR248110011BJNG000500000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR248110011BJNE002100000",
+              "paragraph" : "§ 20",
+              "title" : "Haftung bei fehlerhaftem Verkaufsprospekt"
+            },
+            {
+              "documentIdentifier" : "BJNR248110011BJNE002200000",
+              "paragraph" : "§ 21",
+              "title" : "Haftung bei fehlendem Verkaufsprospekt"
+            },
+            {
+              "documentIdentifier" : "BJNR248110011BJNE002302123",
+              "paragraph" : "§ 22",
+              "title" : "Haftung bei unrichtigem oder fehlendem Vermögensanlagen-Informationsblatt"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Haftung"
+        }
+      ],
+      "title" : "Verkaufsprospekt, Vermögensanlagen-Informationsblatt und Information der Anleger"
+    },
+    {
+      "documentIdentifier" : "BJNR248110011BJNG000600000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR248110011BJNE002403123",
+          "paragraph" : "§ 23",
+          "title" : "Erstellung und Bekanntmachung von Jahresberichten"
+        },
+        {
+          "documentIdentifier" : "BJNR248110011BJNE002503123",
+          "paragraph" : "§ 24",
+          "title" : "Inhalt von Jahresabschlüssen und Lageberichten"
+        },
+        {
+          "documentIdentifier" : "BJNR248110011BJNE002601360",
+          "paragraph" : "§ 25",
+          "title" : "Prüfung und Bestätigung des Abschlussprüfers"
+        },
+        {
+          "documentIdentifier" : "BJNR248110011BJNE002702360",
+          "paragraph" : "§ 26",
+          "title" : "Verkürzung der handelsrechtlichen Offenlegungsfrist"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Rechnungslegung und Prüfung"
+    },
+    {
+      "documentIdentifier" : "BJNR248110011BJNG000800360",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR248110011BJNE004400360",
+          "paragraph" : "§ 26a",
+          "title" : "Sofortiger Vollzug"
+        },
+        {
+          "documentIdentifier" : "BJNR248110011BJNE004500360",
+          "paragraph" : "§ 26b",
+          "title" : "Bekanntmachung von Maßnahmen"
+        },
+        {
+          "documentIdentifier" : "BJNR248110011BJNE004600360",
+          "paragraph" : "§ 26c",
+          "title" : "Bekanntmachung von Bußgeldentscheidungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Sofortiger Vollzug und Bekanntmachung"
+    },
+    {
+      "documentIdentifier" : "BJNR248110011BJNG000701360",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR248110011BJNE004800123",
+          "paragraph" : "§ 27",
+          "title" : "Gebühren und Auslagen"
+        },
+        {
+          "documentIdentifier" : "BJNR248110011BJNE002900000",
+          "paragraph" : "§ 28",
+          "title" : "Strafvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR248110011BJNE003004360",
+          "paragraph" : "§ 29",
+          "title" : "Allgemeine Bußgeldvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR248110011BJNE003102360",
+          "paragraph" : "§ 30",
+          "title" : "Bußgeldvorschriften zur Rechnungslegung"
+        },
+        {
+          "documentIdentifier" : "BJNR248110011BJNE003206360",
+          "paragraph" : "§ 31",
+          "title" : "Ordnungsgeldvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR248110011BJNE003307360",
+          "paragraph" : "§ 32",
+          "title" : "Übergangsvorschriften"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gebühren, Straf-, Bußgeld- und Ordnungsgeldbestimmungen sowie Übergangsvorschriften"
+    }
+  ]
+}

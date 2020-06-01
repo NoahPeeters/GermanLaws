@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR133800003",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR133800003Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR133800003BJNE000205310",
+          "paragraph" : "§ 1",
+          "title" : "Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte des Bundes"
+        },
+        {
+          "documentIdentifier" : "BJNR133800003BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "documentIdentifier" : "BJNR238610007",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR238610007BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR238610007BJNE000201310",
+          "paragraph" : "§ 1",
+          "title" : "Muster für den Reisepass"
+        },
+        {
+          "documentIdentifier" : "BJNR238610007BJNE000301310",
+          "paragraph" : "§ 2",
+          "title" : "Muster für den Kinderreisepass"
+        },
+        {
+          "documentIdentifier" : "BJNR238610007BJNE000401310",
+          "paragraph" : "§ 3",
+          "title" : "Muster für den vorläufigen Reisepass"
+        },
+        {
+          "documentIdentifier" : "BJNR238610007BJNE000501310",
+          "paragraph" : "§ 4",
+          "title" : "Muster für den amtlichen Pass"
+        },
+        {
+          "documentIdentifier" : "BJNR238610007BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Lichtbild"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Passmuster"
+    },
+    {
+      "documentIdentifier" : "BJNR238610007BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR238610007BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Befreiung von der Passpflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR238610007BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Passersatz"
+        },
+        {
+          "documentIdentifier" : "BJNR238610007BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Muster der amtlichen Ausweise als Passersatz"
+        },
+        {
+          "documentIdentifier" : "BJNR238610007BJNE001000000",
+          "paragraph" : "§ 9",
+          "title" : "Lichtbilder für den Passersatz"
+        },
+        {
+          "documentIdentifier" : "BJNR238610007BJNE001100000",
+          "paragraph" : "§ 10",
+          "title" : "Gültigkeitsdauer des Passersatzes"
+        },
+        {
+          "documentIdentifier" : "BJNR238610007BJNE001200000",
+          "paragraph" : "§ 11",
+          "title" : "Andere Regelungen für einen Passersatz"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Befreiung von der Passpflicht und Passersatzpapiere"
+    },
+    {
+      "documentIdentifier" : "BJNR238610007BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR238610007BJNE001300000",
+          "paragraph" : "§ 12",
+          "title" : "Ausstellung"
+        },
+        {
+          "documentIdentifier" : "BJNR238610007BJNE001400000",
+          "paragraph" : "§ 13",
+          "title" : "Gültigkeitsdauer"
+        },
+        {
+          "documentIdentifier" : "BJNR238610007BJNE001500000",
+          "paragraph" : "§ 14",
+          "title" : "Rückgabe"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Amtliche Pässe"
+    },
+    {
+      "documentIdentifier" : "BJNR238610007BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR238610007BJNE001602116",
+          "paragraph" : "§ 15",
+          "title" : "Gebühren"
+        },
+        {
+          "documentIdentifier" : "BJNR238610007BJNE001701116",
+          "paragraph" : "§ 16",
+          "title" : "Erstattung von Auslagen"
+        },
+        {
+          "documentIdentifier" : "BJNR238610007BJNE001800000",
+          "paragraph" : "§ 17",
+          "title" : "Ermäßigung und Befreiung von Gebühren"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gebühren"
+    },
+    {
+      "documentIdentifier" : "BJNR238610007BJNG000500000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR238610007BJNE001903116",
+          "paragraph" : "§ 18",
+          "title" : "Übergangsregelung"
+        },
+        {
+          "documentIdentifier" : "BJNR238610007BJNE003103116",
+          "paragraph" : "Anlage 1",
+          "title" : "Passmuster Reisepass (32 Seiten)"
+        },
+        {
+          "documentIdentifier" : "BJNR238610007BJNE003202116",
+          "paragraph" : "Anlage 1a",
+          "title" : "Passmuster Reisepass (48 Seiten)"
+        },
+        {
+          "documentIdentifier" : "BJNR238610007BJNE002204116",
+          "paragraph" : "Anlage 2",
+          "title" : "Passmuster Kinderreisepass"
+        },
+        {
+          "documentIdentifier" : "BJNR238610007BJNE003302116",
+          "paragraph" : "Anlage 4",
+          "title" : "Passmuster Dienstpass"
+        },
+        {
+          "documentIdentifier" : "BJNR238610007BJNE003402116",
+          "paragraph" : "Anlage 5",
+          "title" : "Passmuster Diplomatenpass"
+        },
+        {
+          "documentIdentifier" : "BJNR238610007BJNE003500310",
+          "paragraph" : "Anlage 7a",
+          "title" : "Aufkleber Dienstort- und Dienstbezeichnungsänderung"
+        },
+        {
+          "documentIdentifier" : "BJNR238610007BJNE003602116",
+          "paragraph" : "Anlage 11",
+          "title" : "Formale Anforderungen an die Einträge in Pässe im Sinne des § 1 Absatz 2 des Passgesetzes"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussvorschrift"
+    }
+  ]
+}

@@ -1,0 +1,522 @@
+{
+  "documentIdentifier" : "BJNR126110010",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR126110010BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR126110010BJNE000201377",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR126110010BJNE000302377",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Bestimmungen"
+    },
+    {
+      "documentIdentifier" : "BJNR126110010BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR126110010BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Verträge für den Netzzugang"
+        },
+        {
+          "documentIdentifier" : "BJNR126110010BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Mindestanforderungen an die Allgemeinen Geschäftsbedingungen"
+        },
+        {
+          "documentIdentifier" : "BJNR126110010BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Haftung bei Störung der Netznutzung"
+        },
+        {
+          "documentIdentifier" : "BJNR126110010BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Registrierung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Vertragliche Ausgestaltung des Netzzugangs"
+    },
+    {
+      "documentIdentifier" : "BJNR126110010BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR126110010BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Netzkopplungsvertrag"
+        },
+        {
+          "documentIdentifier" : "BJNR126110010BJNE000901124",
+          "paragraph" : "§ 8",
+          "title" : "Abwicklung des Netzzugangs"
+        },
+        {
+          "documentIdentifier" : "BJNR126110010BJNE001002377",
+          "paragraph" : "§ 9",
+          "title" : "Ermittlung technischer Kapazitäten"
+        },
+        {
+          "documentIdentifier" : "BJNR126110010BJNE001101124",
+          "paragraph" : "§ 10",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR126110010BJNE001202124",
+          "paragraph" : "§ 11",
+          "title" : "Kapazitätsprodukte"
+        },
+        {
+          "documentIdentifier" : "BJNR126110010BJNE001301124",
+          "paragraph" : "§ 12",
+          "title" : "Kapazitätsbuchungsplattform"
+        },
+        {
+          "documentIdentifier" : "BJNR126110010BJNE001403377",
+          "paragraph" : "§ 13",
+          "title" : "Zuteilung von Ein- und Ausspeisekapazität"
+        },
+        {
+          "documentIdentifier" : "BJNR126110010BJNE001501124",
+          "paragraph" : "§ 14",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR126110010BJNE001600000",
+          "paragraph" : "§ 15",
+          "title" : "Nominierung und Nominierungsersatzverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR126110010BJNE001702124",
+          "paragraph" : "§ 16",
+          "title" : "Freigabepflicht ungenutzter Kapazitäten"
+        },
+        {
+          "documentIdentifier" : "BJNR126110010BJNE001801124",
+          "paragraph" : "§ 17",
+          "title" : "Ermittlung des langfristigen Kapazitätsbedarfs"
+        },
+        {
+          "documentIdentifier" : "BJNR126110010BJNE001900000",
+          "paragraph" : "§ 18",
+          "title" : "Reduzierung der Kapazität nach Buchung"
+        },
+        {
+          "documentIdentifier" : "BJNR126110010BJNE002000000",
+          "paragraph" : "§ 19",
+          "title" : "Gasbeschaffenheit"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Abwicklung des Netzzugangs"
+    },
+    {
+      "documentIdentifier" : "BJNR126110010BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR126110010BJNE002100000",
+          "paragraph" : "§ 20",
+          "title" : "Marktgebiete"
+        },
+        {
+          "documentIdentifier" : "BJNR126110010BJNE002201124",
+          "paragraph" : "§ 21",
+          "title" : "Reduzierung der Anzahl der Marktgebiete"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Kooperation der Netzbetreiber"
+    },
+    {
+      "documentIdentifier" : "BJNR126110010BJNG000500000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR126110010BJNG000600000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR126110010BJNE002300000",
+              "paragraph" : "§ 22",
+              "title" : "Grundsätze der Bilanzierung"
+            },
+            {
+              "documentIdentifier" : "BJNR126110010BJNE002401124",
+              "paragraph" : "§ 23",
+              "title" : "Bilanzkreisabrechnung"
+            },
+            {
+              "documentIdentifier" : "BJNR126110010BJNE002500000",
+              "paragraph" : "§ 24",
+              "title" : "Standardlastprofile"
+            },
+            {
+              "documentIdentifier" : "BJNR126110010BJNE002600000",
+              "paragraph" : "§ 25",
+              "title" : "Mehr- oder Mindermengenabrechnung"
+            },
+            {
+              "documentIdentifier" : "BJNR126110010BJNE002700000",
+              "paragraph" : "§ 26",
+              "title" : "Datenbereitstellung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              5,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Bilanzierung"
+        },
+        {
+          "documentIdentifier" : "BJNR126110010BJNG000700000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR126110010BJNE002800000",
+              "paragraph" : "§ 27",
+              "title" : "Einsatz von Regelenergie"
+            },
+            {
+              "documentIdentifier" : "BJNR126110010BJNE002900000",
+              "paragraph" : "§ 28",
+              "title" : "Beschaffung externer Regelenergie"
+            },
+            {
+              "documentIdentifier" : "BJNR126110010BJNE003000000",
+              "paragraph" : "§ 29",
+              "title" : "Regelenergiekosten und -erlöse; Kosten und Erlöse bei der Erbringung von Ausgleichsleistungen"
+            },
+            {
+              "documentIdentifier" : "BJNR126110010BJNE003102124",
+              "paragraph" : "§ 30",
+              "title" : "(weggefallen)"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              5,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Regelenergie"
+        }
+      ],
+      "title" : "Bilanzierung und Regelenergie"
+    },
+    {
+      "documentIdentifier" : "BJNR126110010BJNG000800000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR126110010BJNE003201116",
+          "paragraph" : "§ 31",
+          "title" : "Zweck der Regelung"
+        },
+        {
+          "documentIdentifier" : "BJNR126110010BJNE003300000",
+          "paragraph" : "§ 32",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR126110010BJNE003401377",
+          "paragraph" : "§ 33",
+          "title" : "Netzanschlusspflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR126110010BJNE003500000",
+          "paragraph" : "§ 34",
+          "title" : "Vorrangiger Netzzugang für Transportkunden von Biogas"
+        },
+        {
+          "documentIdentifier" : "BJNR126110010BJNE003601118",
+          "paragraph" : "§ 35",
+          "title" : "Erweiterter Bilanzausgleich"
+        },
+        {
+          "documentIdentifier" : "BJNR126110010BJNE003700000",
+          "paragraph" : "§ 36",
+          "title" : "Qualitätsanforderungen für Biogas"
+        },
+        {
+          "documentIdentifier" : "BJNR126110010BJNE003801118",
+          "paragraph" : "§ 37",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Biogas"
+    },
+    {
+      "documentIdentifier" : "BJNR126110010BJNG000901377",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR126110010BJNG001600377",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR126110010BJNE003901377",
+              "paragraph" : "§ 38",
+              "title" : "Kapazitätsreservierung für Betreiber von Speicher-, LNG- und Produktionsanlagen sowie Gaskraftwerken"
+            },
+            {
+              "documentIdentifier" : "BJNR126110010BJNE004002377",
+              "paragraph" : "§ 39",
+              "title" : "Kapazitätsausbauanspruch für Betreiber von Gaskraftwerken sowie Speicher-, LNG- und Produktionsanlagen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              7,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Kapazitätsreservierung und Kapazitätsausbauanspruch"
+        },
+        {
+          "documentIdentifier" : "BJNR126110010BJNG001700377",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR126110010BJNE004103377",
+              "paragraph" : "§ 39a",
+              "title" : "Begriffsbestimmungen"
+            },
+            {
+              "documentIdentifier" : "BJNR126110010BJNE005400377",
+              "paragraph" : "§ 39b",
+              "title" : "Netzanschlusspflicht"
+            },
+            {
+              "documentIdentifier" : "BJNR126110010BJNE005500377",
+              "paragraph" : "§ 39c",
+              "title" : "Weitere Pflichten des Fernleitungsnetzbetreibers"
+            },
+            {
+              "documentIdentifier" : "BJNR126110010BJNE005600377",
+              "paragraph" : "§ 39d",
+              "title" : "Vorbereitung des Netzanschlusses"
+            },
+            {
+              "documentIdentifier" : "BJNR126110010BJNE005700377",
+              "paragraph" : "§ 39e",
+              "title" : "Realisierungsfahrplan"
+            },
+            {
+              "documentIdentifier" : "BJNR126110010BJNE005800377",
+              "paragraph" : "§ 39f",
+              "title" : "Kostenverteilung"
+            },
+            {
+              "documentIdentifier" : "BJNR126110010BJNE005900377",
+              "paragraph" : "§ 39g",
+              "title" : "Geltungsdauer und Evaluierung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              7,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Netzanschluss von LNG-Anlagen"
+        }
+      ],
+      "title" : "Besondere Regelungen für Betreiber von Speicher-, LNG- und Produktionsanlagen sowie Gaskraftwerken"
+    },
+    {
+      "documentIdentifier" : "BJNR126110010BJNG001000000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR126110010BJNE004102377",
+          "paragraph" : "§ 40",
+          "title" : "Veröffentlichungspflichten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          8
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Veröffentlichungs- und Informationspflichten"
+    },
+    {
+      "documentIdentifier" : "BJNR126110010BJNG001100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR126110010BJNE004201360",
+          "paragraph" : "§ 41",
+          "title" : "Lieferantenwechsel"
+        },
+        {
+          "documentIdentifier" : "BJNR126110010BJNE004300000",
+          "paragraph" : "§ 42",
+          "title" : "Rucksackprinzip"
+        },
+        {
+          "documentIdentifier" : "BJNR126110010BJNE005300360",
+          "paragraph" : "§ 42a",
+          "title" : "Elektronischer Datenaustausch"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          9
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Wechsel des Gaslieferanten"
+    },
+    {
+      "documentIdentifier" : "BJNR126110010BJNG001200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR126110010BJNE004401118",
+          "paragraph" : "§ 43",
+          "title" : "Messung"
+        },
+        {
+          "documentIdentifier" : "BJNR126110010BJNE004501118",
+          "paragraph" : "(XXXX) §§ 44 bis 48",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          10
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Messung"
+    },
+    {
+      "documentIdentifier" : "BJNR126110010BJNG001300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR126110010BJNE005001377",
+          "paragraph" : "§ 49",
+          "title" : "Verfahren zur Verweigerung des Netzzugangs nach § 25 des Energiewirtschaftsgesetzes"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          11
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Verweigerung des Netzzugangs nach § 25 des Energiewirtschaftsgesetzes"
+    },
+    {
+      "documentIdentifier" : "BJNR126110010BJNG001400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR126110010BJNE005104377",
+          "paragraph" : "§ 50",
+          "title" : "Festlegungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          12
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Befugnisse der Regulierungsbehörde"
+    },
+    {
+      "documentIdentifier" : "BJNR126110010BJNG001500000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR126110010BJNE005200000",
+          "paragraph" : "§ 51",
+          "title" : "Ordnungswidrigkeiten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          13
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Sonstige Bestimmungen"
+    }
+  ]
+}

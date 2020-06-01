@@ -1,0 +1,1618 @@
+{
+  "documentIdentifier" : "BJNR013100980",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR013100980BJNG000100315",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR013100980BJNE004901307",
+          "paragraph" : "§ 1",
+          "title" : "Zweck des Gesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR013100980BJNE005002123",
+          "paragraph" : "§ 2",
+          "title" : "Sachlicher und räumlicher Geltungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR013100980BJNE005100315",
+          "paragraph" : "§ 3",
+          "title" : "Bergfreie und grundeigene Bodenschätze"
+        },
+        {
+          "documentIdentifier" : "BJNR013100980BJNE005201123",
+          "paragraph" : "§ 4",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR013100980BJNE005301360",
+          "paragraph" : "§ 5",
+          "title" : "Anwendung des Verwaltungsverfahrensgesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR013100980BJNE023900124",
+          "paragraph" : "§ 5a",
+          "title" : "Öffentliche Bekanntgabe"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Einleitende Bestimmungen"
+    },
+    {
+      "documentIdentifier" : "BJNR013100980BJNG000200315",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR013100980BJNG000300315",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              1
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR013100980BJNG000400315",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR013100980BJNE005400315",
+                  "paragraph" : "§ 6",
+                  "title" : "Grundsatz"
+                },
+                {
+                  "documentIdentifier" : "BJNR013100980BJNE005500315",
+                  "paragraph" : "§ 7",
+                  "title" : "Erlaubnis"
+                },
+                {
+                  "documentIdentifier" : "BJNR013100980BJNE005600315",
+                  "paragraph" : "§ 8",
+                  "title" : "Bewilligung"
+                },
+                {
+                  "documentIdentifier" : "BJNR013100980BJNE005700315",
+                  "paragraph" : "§ 9",
+                  "title" : "Bergwerkseigentum"
+                },
+                {
+                  "documentIdentifier" : "BJNR013100980BJNE005800315",
+                  "paragraph" : "§ 10",
+                  "title" : "Antrag"
+                },
+                {
+                  "documentIdentifier" : "BJNR013100980BJNE005900315",
+                  "paragraph" : "§ 11",
+                  "title" : "Versagung der Erlaubnis"
+                },
+                {
+                  "documentIdentifier" : "BJNR013100980BJNE006000315",
+                  "paragraph" : "§ 12",
+                  "title" : "Versagung der Bewilligung"
+                },
+                {
+                  "documentIdentifier" : "BJNR013100980BJNE006100315",
+                  "paragraph" : "§ 13",
+                  "title" : "Versagung der Verleihung von Bergwerkseigentum"
+                },
+                {
+                  "documentIdentifier" : "BJNR013100980BJNE006200315",
+                  "paragraph" : "§ 14",
+                  "title" : "Vorrang"
+                },
+                {
+                  "documentIdentifier" : "BJNR013100980BJNE006300315",
+                  "paragraph" : "§ 15",
+                  "title" : "Beteiligung anderer Behörden"
+                },
+                {
+                  "documentIdentifier" : "BJNR013100980BJNE006401377",
+                  "paragraph" : "§ 16",
+                  "title" : "Form, Inhalt und Nebenbestimmungen"
+                },
+                {
+                  "documentIdentifier" : "BJNR013100980BJNE006501308",
+                  "paragraph" : "§ 17",
+                  "title" : "Entstehung des Bergwerkseigentums"
+                },
+                {
+                  "documentIdentifier" : "BJNR013100980BJNE006600315",
+                  "paragraph" : "§ 18",
+                  "title" : "Widerruf"
+                },
+                {
+                  "documentIdentifier" : "BJNR013100980BJNE006700315",
+                  "paragraph" : "§ 19",
+                  "title" : "Aufhebung der Erlaubnis und Bewilligung"
+                },
+                {
+                  "documentIdentifier" : "BJNR013100980BJNE006800315",
+                  "paragraph" : "§ 20",
+                  "title" : "Aufhebung von Bergwerkseigentum"
+                },
+                {
+                  "documentIdentifier" : "BJNR013100980BJNE006900315",
+                  "paragraph" : "§ 21",
+                  "title" : "Beteiligung an der Aufsuchung"
+                },
+                {
+                  "documentIdentifier" : "BJNR013100980BJNE007001308",
+                  "paragraph" : "§ 22",
+                  "title" : "Übertragung und Übergang der Erlaubnis und Bewilligung"
+                },
+                {
+                  "documentIdentifier" : "BJNR013100980BJNE007100315",
+                  "paragraph" : "§ 23",
+                  "title" : "Veräußerung von Bergwerkseigentum"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  1,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Erlaubnis, Bewilligung, Bergwerkseigentum"
+            },
+            {
+              "documentIdentifier" : "BJNR013100980BJNG000500315",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR013100980BJNE007200315",
+                  "paragraph" : "§ 24",
+                  "title" : "Zulässigkeit der Vereinigung"
+                },
+                {
+                  "documentIdentifier" : "BJNR013100980BJNE007300315",
+                  "paragraph" : "§ 25",
+                  "title" : "Voraussetzungen der Vereinigung"
+                },
+                {
+                  "documentIdentifier" : "BJNR013100980BJNE007400315",
+                  "paragraph" : "§ 26",
+                  "title" : "Genehmigung der Vereinigung, Berechtsamsurkunde"
+                },
+                {
+                  "documentIdentifier" : "BJNR013100980BJNE007500315",
+                  "paragraph" : "§ 27",
+                  "title" : "Wirkung der Vereinigung"
+                },
+                {
+                  "documentIdentifier" : "BJNR013100980BJNE007600315",
+                  "paragraph" : "§ 28",
+                  "title" : "Teilung"
+                },
+                {
+                  "documentIdentifier" : "BJNR013100980BJNE007700315",
+                  "paragraph" : "§ 29",
+                  "title" : "Austausch"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  1,
+                  2
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Vereinigung, Teilung und Austausch von Bergwerkseigentum"
+            },
+            {
+              "documentIdentifier" : "BJNR013100980BJNG000600315",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR013100980BJNE007801377",
+                  "paragraph" : "§ 30",
+                  "title" : "Feldesabgabe"
+                },
+                {
+                  "documentIdentifier" : "BJNR013100980BJNE007900315",
+                  "paragraph" : "§ 31",
+                  "title" : "Förderabgabe"
+                },
+                {
+                  "documentIdentifier" : "BJNR013100980BJNE008000315",
+                  "paragraph" : "§ 32",
+                  "title" : "Feststellung, Erhebung und Änderung der Feldes- und\nFörderabgabe"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  1,
+                  3
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Feldes- und Förderabgabe"
+            },
+            {
+              "documentIdentifier" : "BJNR013100980BJNG000700315",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR013100980BJNE008100315",
+                  "paragraph" : "§ 33",
+                  "title" : "Anzeige und Entschädigung"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  1,
+                  4
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Fundanzeige"
+            }
+          ],
+          "title" : "Bergfreie Bodenschätze"
+        },
+        {
+          "documentIdentifier" : "BJNR013100980BJNG000800315",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR013100980BJNE008200315",
+              "paragraph" : "§ 34",
+              "title" : "Inhalt der Befugnis zur Aufsuchung und Gewinnung grundeigener\nBodenschätze"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Grundeigene Bodenschätze"
+        },
+        {
+          "documentIdentifier" : "BJNR013100980BJNG000900315",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR013100980BJNE008300315",
+              "paragraph" : "§ 35",
+              "title" : "Voraussetzungen"
+            },
+            {
+              "documentIdentifier" : "BJNR013100980BJNE008401118",
+              "paragraph" : "§ 36",
+              "title" : "Verfahren"
+            },
+            {
+              "documentIdentifier" : "BJNR013100980BJNE008500315",
+              "paragraph" : "§ 37",
+              "title" : "Entschädigung"
+            },
+            {
+              "documentIdentifier" : "BJNR013100980BJNE008600315",
+              "paragraph" : "§ 38",
+              "title" : "Inhalt der Zulegung, Aufhebung, Förderabgabe"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Zulegung"
+        }
+      ],
+      "title" : "Bergbauberechtigungen"
+    },
+    {
+      "documentIdentifier" : "BJNR013100980BJNG001000315",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR013100980BJNG001100315",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              1
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR013100980BJNG001200315",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR013100980BJNE008700315",
+                  "paragraph" : "§ 39",
+                  "title" : "Einigung mit dem Grundeigentümer, Zustimmung anderer Behörden,\nEntschädigung"
+                },
+                {
+                  "documentIdentifier" : "BJNR013100980BJNE008800315",
+                  "paragraph" : "§ 40",
+                  "title" : "Streitentscheidung"
+                },
+                {
+                  "documentIdentifier" : "BJNR013100980BJNE008900315",
+                  "paragraph" : "§ 41",
+                  "title" : "Gewinnung von Bodenschätzen bei der Aufsuchung"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  3,
+                  1,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Aufsuchung"
+            },
+            {
+              "documentIdentifier" : "BJNR013100980BJNG001300315",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR013100980BJNE009000315",
+                  "paragraph" : "§ 42",
+                  "title" : "Mitgewinnung von Bodenschätzen bei der Gewinnung bergfreier\nBodenschätze"
+                },
+                {
+                  "documentIdentifier" : "BJNR013100980BJNE009100315",
+                  "paragraph" : "§ 43",
+                  "title" : "Mitgewinnung von Bodenschätzen bei der Gewinnung grundeigener\nBodenschätze"
+                },
+                {
+                  "documentIdentifier" : "BJNR013100980BJNE009200315",
+                  "paragraph" : "§ 44",
+                  "title" : "Hilfsbaurecht"
+                },
+                {
+                  "documentIdentifier" : "BJNR013100980BJNE009300315",
+                  "paragraph" : "§ 45",
+                  "title" : "Mitgewinnung von Bodenschätzen bei Anlegung von Hilfsbauen"
+                },
+                {
+                  "documentIdentifier" : "BJNR013100980BJNE009400315",
+                  "paragraph" : "§ 46",
+                  "title" : "Hilfsbau bei Bergwerkseigentum"
+                },
+                {
+                  "documentIdentifier" : "BJNR013100980BJNE009500315",
+                  "paragraph" : "§ 47",
+                  "title" : "Benutzung fremder Grubenbaue"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  3,
+                  1,
+                  2
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Gewinnung"
+            },
+            {
+              "documentIdentifier" : "BJNR013100980BJNG001400315",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR013100980BJNE009602124",
+                  "paragraph" : "§ 48",
+                  "title" : "Allgemeine Verbote und Beschränkungen"
+                },
+                {
+                  "documentIdentifier" : "BJNR013100980BJNE009701307",
+                  "paragraph" : "§ 49",
+                  "title" : "Beschränkung der Aufsuchung auf dem Festlandsockel und\ninnerhalb der Küstengewässer"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  3,
+                  1,
+                  3
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Verbote und Beschränkungen"
+            }
+          ],
+          "title" : "Allgemeine Vorschriften über die Aufsuchung und Gewinnung"
+        },
+        {
+          "documentIdentifier" : "BJNR013100980BJNG001500315",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR013100980BJNE009800315",
+              "paragraph" : "§ 50",
+              "title" : "Anzeige"
+            },
+            {
+              "documentIdentifier" : "BJNR013100980BJNE009900315",
+              "paragraph" : "§ 51",
+              "title" : "Betriebsplanpflicht"
+            },
+            {
+              "documentIdentifier" : "BJNR013100980BJNE010006118",
+              "paragraph" : "§ 52",
+              "title" : "Betriebspläne für die Errichtung und Führung des Betriebes"
+            },
+            {
+              "documentIdentifier" : "BJNR013100980BJNE010100315",
+              "paragraph" : "§ 53",
+              "title" : "Betriebsplan für die Einstellung des Betriebes,\nBetriebschronik"
+            },
+            {
+              "documentIdentifier" : "BJNR013100980BJNE010200315",
+              "paragraph" : "§ 54",
+              "title" : "Zulassungsverfahren"
+            },
+            {
+              "documentIdentifier" : "BJNR013100980BJNE010302377",
+              "paragraph" : "§ 55",
+              "title" : "Zulassung des Betriebsplanes"
+            },
+            {
+              "documentIdentifier" : "BJNR013100980BJNE010400315",
+              "paragraph" : "§ 56",
+              "title" : "Form und Inhalt der Zulassung, Sicherheitsleistung"
+            },
+            {
+              "documentIdentifier" : "BJNR013100980BJNE010500315",
+              "paragraph" : "§ 57",
+              "title" : "Abweichungen von einem zugelassenen Betriebsplan"
+            },
+            {
+              "documentIdentifier" : "BJNR013100980BJNE023107118",
+              "paragraph" : "§ 57a",
+              "title" : "Planfeststellungsverfahren, Umweltverträglichkeitsprüfung"
+            },
+            {
+              "documentIdentifier" : "BJNR013100980BJNE023200307",
+              "paragraph" : "§ 57b",
+              "title" : "Vorzeitiger Beginn, Vorbescheide, Teilgenehmigungen, Vorrang"
+            },
+            {
+              "documentIdentifier" : "BJNR013100980BJNE023308118",
+              "paragraph" : "§ 57c",
+              "title" : "Verordnungsermächtigung"
+            },
+            {
+              "documentIdentifier" : "BJNR013100980BJNE024000118",
+              "paragraph" : "§ 57d",
+              "title" : "Zulassungsverfahren für störfallrelevante Vorhaben"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Anzeige, Betriebsplan"
+        },
+        {
+          "documentIdentifier" : "BJNR013100980BJNG001600315",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR013100980BJNE010600315",
+              "paragraph" : "§ 58",
+              "title" : "Personenkreis"
+            },
+            {
+              "documentIdentifier" : "BJNR013100980BJNE010700315",
+              "paragraph" : "§ 59",
+              "title" : "Beschäftigung verantwortlicher Personen"
+            },
+            {
+              "documentIdentifier" : "BJNR013100980BJNE010800315",
+              "paragraph" : "§ 60",
+              "title" : "Form der Bestellung und Abberufung verantwortlicher Personen,\nNamhaftmachung"
+            },
+            {
+              "documentIdentifier" : "BJNR013100980BJNE010900315",
+              "paragraph" : "§ 61",
+              "title" : "Allgemeine Pflichten"
+            },
+            {
+              "documentIdentifier" : "BJNR013100980BJNE011000315",
+              "paragraph" : "§ 62",
+              "title" : "Übertragbarkeit bestimmter Pflichten und Befugnisse"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Verantwortliche Personen"
+        },
+        {
+          "documentIdentifier" : "BJNR013100980BJNG001700315",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR013100980BJNE011100315",
+              "paragraph" : "§ 63",
+              "title" : "Rißwerk"
+            },
+            {
+              "documentIdentifier" : "BJNR013100980BJNE011200315",
+              "paragraph" : "§ 64",
+              "title" : "Markscheider"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Sonstige Bestimmungen für den Betrieb"
+        }
+      ],
+      "title" : "Aufsuchung, Gewinnung und Aufbereitung"
+    },
+    {
+      "documentIdentifier" : "BJNR013100980BJNG001800315",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR013100980BJNE011301308",
+          "paragraph" : "§ 65",
+          "title" : "Anzeige, Genehmigung, allgemeine Zulassung, Prüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR013100980BJNE011403123",
+          "paragraph" : "§ 66",
+          "title" : "Schutzmaßnahmen, Wiedernutzbarmachung, Fachkunde"
+        },
+        {
+          "documentIdentifier" : "BJNR013100980BJNE011501123",
+          "paragraph" : "§ 67",
+          "title" : "Technische und statistische Unterlagen, Markscheidewesen"
+        },
+        {
+          "documentIdentifier" : "BJNR013100980BJNE011609118",
+          "paragraph" : "§ 68",
+          "title" : "Erlaß von Bergverordnungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Ermächtigungen zum Erlaß von Bergverordnungen"
+    },
+    {
+      "documentIdentifier" : "BJNR013100980BJNG001900315",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR013100980BJNE011701118",
+          "paragraph" : "§ 69",
+          "title" : "Allgemeine Aufsicht"
+        },
+        {
+          "documentIdentifier" : "BJNR013100980BJNE011800315",
+          "paragraph" : "§ 70",
+          "title" : "Allgemeine Aufsichtsbefugnisse, Auskunfts- und Duldungspflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR013100980BJNE011900315",
+          "paragraph" : "§ 71",
+          "title" : "Allgemeine Anordnungsbefugnis"
+        },
+        {
+          "documentIdentifier" : "BJNR013100980BJNE012000315",
+          "paragraph" : "§ 72",
+          "title" : "Verhinderung unerlaubter Tätigkeiten, Sicherstellung"
+        },
+        {
+          "documentIdentifier" : "BJNR013100980BJNE012100315",
+          "paragraph" : "§ 73",
+          "title" : "Untersagung der Beschäftigung verantwortlicher Personen"
+        },
+        {
+          "documentIdentifier" : "BJNR013100980BJNE012200315",
+          "paragraph" : "§ 74",
+          "title" : "Hilfeleistung, Anzeigepflicht"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Bergaufsicht"
+    },
+    {
+      "documentIdentifier" : "BJNR013100980BJNG002000315",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR013100980BJNE012300315",
+          "paragraph" : "§ 75",
+          "title" : "Anlegung und Führung des Berechtsamsbuchs und der\nBerechtsamskarte"
+        },
+        {
+          "documentIdentifier" : "BJNR013100980BJNE012401118",
+          "paragraph" : "§ 76",
+          "title" : "Einsicht"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Berechtsamsbuch, Berechtsamskarte"
+    },
+    {
+      "documentIdentifier" : "BJNR013100980BJNG002100315",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR013100980BJNG002200315",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              7,
+              1
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR013100980BJNG002300315",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR013100980BJNE012500315",
+                  "paragraph" : "§ 77",
+                  "title" : "Zweck der Grundabtretung"
+                },
+                {
+                  "documentIdentifier" : "BJNR013100980BJNE012600315",
+                  "paragraph" : "§ 78",
+                  "title" : "Gegenstand der Grundabtretung"
+                },
+                {
+                  "documentIdentifier" : "BJNR013100980BJNE012700315",
+                  "paragraph" : "§ 79",
+                  "title" : "Voraussetzungen für die Zulässigkeit der Grundabtretung"
+                },
+                {
+                  "documentIdentifier" : "BJNR013100980BJNE012800315",
+                  "paragraph" : "§ 80",
+                  "title" : "Grundabtretungsbegünstigter und -pflichtiger"
+                },
+                {
+                  "documentIdentifier" : "BJNR013100980BJNE012900315",
+                  "paragraph" : "§ 81",
+                  "title" : "Umfang der Grundabtretung"
+                },
+                {
+                  "documentIdentifier" : "BJNR013100980BJNE013000315",
+                  "paragraph" : "§ 82",
+                  "title" : "Ausdehnung der Grundabtretung"
+                },
+                {
+                  "documentIdentifier" : "BJNR013100980BJNE013100315",
+                  "paragraph" : "§ 83",
+                  "title" : "Sinngemäße Anwendung von Vorschriften"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  7,
+                  1,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Zulässigkeit und Voraussetzungen der Grundabtretung"
+            },
+            {
+              "documentIdentifier" : "BJNR013100980BJNG002400315",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR013100980BJNE013202377",
+                  "paragraph" : "§ 84",
+                  "title" : "Entschädigungsgrundsätze"
+                },
+                {
+                  "documentIdentifier" : "BJNR013100980BJNE013301309",
+                  "paragraph" : "§ 85",
+                  "title" : "Entschädigung für den Rechtsverlust"
+                },
+                {
+                  "documentIdentifier" : "BJNR013100980BJNE013400315",
+                  "paragraph" : "§ 86",
+                  "title" : "Entschädigung für andere Vermögensnachteile, Mitverschulden"
+                },
+                {
+                  "documentIdentifier" : "BJNR013100980BJNE013500315",
+                  "paragraph" : "§ 87",
+                  "title" : "Behandlung der Rechte der Nebenberechtigten"
+                },
+                {
+                  "documentIdentifier" : "BJNR013100980BJNE013600315",
+                  "paragraph" : "§ 88",
+                  "title" : "Schuldübergang bei Entziehung des Eigentums an Grundstücken"
+                },
+                {
+                  "documentIdentifier" : "BJNR013100980BJNE013700315",
+                  "paragraph" : "§ 89",
+                  "title" : "Entschädigungsleistung"
+                },
+                {
+                  "documentIdentifier" : "BJNR013100980BJNE013800315",
+                  "paragraph" : "§ 90",
+                  "title" : "Wertänderungen, Veränderungen, Begründung neuer\nRechtsverhältnisse"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  7,
+                  1,
+                  2
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Entschädigung"
+            },
+            {
+              "documentIdentifier" : "BJNR013100980BJNG002500315",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR013100980BJNE013900315",
+                  "paragraph" : "§ 91",
+                  "title" : "Vorabentscheidung"
+                },
+                {
+                  "documentIdentifier" : "BJNR013100980BJNE014000315",
+                  "paragraph" : "§ 92",
+                  "title" : "Ausführung der Grundabtretung"
+                },
+                {
+                  "documentIdentifier" : "BJNR013100980BJNE014100315",
+                  "paragraph" : "§ 93",
+                  "title" : "Hinterlegung"
+                },
+                {
+                  "documentIdentifier" : "BJNR013100980BJNE014200315",
+                  "paragraph" : "§ 94",
+                  "title" : "Geltendmachung der Rechte an der Hinterlegung,\nVerteilungsverfahren"
+                },
+                {
+                  "documentIdentifier" : "BJNR013100980BJNE014300315",
+                  "paragraph" : "§ 95",
+                  "title" : "Lauf der Verwendungsfrist"
+                },
+                {
+                  "documentIdentifier" : "BJNR013100980BJNE014400315",
+                  "paragraph" : "§ 96",
+                  "title" : "Aufhebung der Grundabtretung"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  7,
+                  1,
+                  3
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Vorabentscheidung, Ausführung und Rückgängigmachen der Grundabtretung"
+            },
+            {
+              "documentIdentifier" : "BJNR013100980BJNG002600315",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR013100980BJNE014500315",
+                  "paragraph" : "§ 97",
+                  "title" : "Voraussetzungen"
+                },
+                {
+                  "documentIdentifier" : "BJNR013100980BJNE014600315",
+                  "paragraph" : "§ 98",
+                  "title" : "Besitzeinweisungsentschädigung"
+                },
+                {
+                  "documentIdentifier" : "BJNR013100980BJNE014700315",
+                  "paragraph" : "§ 99",
+                  "title" : "Zustandsfeststellung"
+                },
+                {
+                  "documentIdentifier" : "BJNR013100980BJNE014800315",
+                  "paragraph" : "§ 100",
+                  "title" : "Wirksamwerden und Rechtsfolgen der vorzeitigen Besitzeinweisung,\nSicherheitsleistung"
+                },
+                {
+                  "documentIdentifier" : "BJNR013100980BJNE014900315",
+                  "paragraph" : "§ 101",
+                  "title" : "Aufhebung und Änderung der vorzeitigen Besitzeinweisung"
+                },
+                {
+                  "documentIdentifier" : "BJNR013100980BJNE015000315",
+                  "paragraph" : "§ 102",
+                  "title" : "Entschädigung bei Aufhebung oder Änderung der vorzeitigen\nBesitzeinweisung"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  7,
+                  1,
+                  4
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Vorzeitige Besitzeinweisung"
+            },
+            {
+              "documentIdentifier" : "BJNR013100980BJNG002700315",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR013100980BJNE015100315",
+                  "paragraph" : "§ 103",
+                  "title" : "Kosten"
+                },
+                {
+                  "documentIdentifier" : "BJNR013100980BJNE015200315",
+                  "paragraph" : "§ 104",
+                  "title" : "Vollstreckbarer Titel"
+                },
+                {
+                  "documentIdentifier" : "BJNR013100980BJNE015300315",
+                  "paragraph" : "§ 105",
+                  "title" : "Verfahren"
+                },
+                {
+                  "documentIdentifier" : "BJNR013100980BJNE015400315",
+                  "paragraph" : "§ 106",
+                  "title" : "Benachrichtigungen"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  7,
+                  1,
+                  5
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Kosten, Zwangsvollstreckung, Verfahren"
+            }
+          ],
+          "title" : "Grundabtretung"
+        },
+        {
+          "documentIdentifier" : "BJNR013100980BJNG002800315",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR013100980BJNE015500315",
+              "paragraph" : "§ 107",
+              "title" : "Festsetzung von Baubeschränkungsgebieten"
+            },
+            {
+              "documentIdentifier" : "BJNR013100980BJNE015600315",
+              "paragraph" : "§ 108",
+              "title" : "Wirkung der Festsetzung"
+            },
+            {
+              "documentIdentifier" : "BJNR013100980BJNE015700315",
+              "paragraph" : "§ 109",
+              "title" : "Entschädigung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              7,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Baubeschränkungen"
+        },
+        {
+          "documentIdentifier" : "BJNR013100980BJNG002900315",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              7,
+              3
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR013100980BJNG003000315",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR013100980BJNE015800315",
+                  "paragraph" : "§ 110",
+                  "title" : "Anpassungspflicht"
+                },
+                {
+                  "documentIdentifier" : "BJNR013100980BJNE015900315",
+                  "paragraph" : "§ 111",
+                  "title" : "Sicherungsmaßnahmen"
+                },
+                {
+                  "documentIdentifier" : "BJNR013100980BJNE016000315",
+                  "paragraph" : "§ 112",
+                  "title" : "Verlust des Ersatzanspruchs"
+                },
+                {
+                  "documentIdentifier" : "BJNR013100980BJNE016100315",
+                  "paragraph" : "§ 113",
+                  "title" : "Bauwarnung"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  7,
+                  3,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Anpassung"
+            },
+            {
+              "documentIdentifier" : "BJNR013100980BJNG003100315",
+              "laws" : [
+
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  7,
+                  3,
+                  2
+                ]
+              },
+              "subsections" : [
+                {
+                  "documentIdentifier" : "BJNR013100980BJNG003200315",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR013100980BJNE016200315",
+                      "paragraph" : "§ 114",
+                      "title" : "Bergschaden"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR013100980BJNE016300315",
+                      "paragraph" : "§ 115",
+                      "title" : "Ersatzpflicht des Unternehmers"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR013100980BJNE016400315",
+                      "paragraph" : "§ 116",
+                      "title" : "Ersatzpflicht des Bergbauberechtigten"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR013100980BJNE016502377",
+                      "paragraph" : "§ 117",
+                      "title" : "Umfang der Ersatzpflicht, Verjährung, Rechte Dritter"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR013100980BJNE016600315",
+                      "paragraph" : "§ 118",
+                      "title" : "Mitwirkendes Verschulden"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR013100980BJNE016700315",
+                      "paragraph" : "§ 119",
+                      "title" : "Mitwirkung eines Dritten"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR013100980BJNE016801123",
+                      "paragraph" : "§ 120",
+                      "title" : "Bergschadensvermutung"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR013100980BJNE016900315",
+                      "paragraph" : "§ 121",
+                      "title" : "Verhältnis zu anderen Vorschriften"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      7,
+                      3,
+                      2,
+                      1
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Allgemeine Bestimmungen"
+                },
+                {
+                  "documentIdentifier" : "BJNR013100980BJNG003300315",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR013100980BJNE017106118",
+                      "paragraph" : "§ 122",
+                      "title" : "Ermächtigung"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR013100980BJNE017206118",
+                      "paragraph" : "§ 123",
+                      "title" : "Durchführungsverordnung"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      7,
+                      3,
+                      2,
+                      2
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Bergschadensausfallkasse"
+                }
+              ],
+              "title" : "Haftung für Bergschäden"
+            },
+            {
+              "documentIdentifier" : "BJNR013100980BJNG003400315",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR013100980BJNE017300315",
+                  "paragraph" : "§ 124",
+                  "title" : "Öffentliche Verkehrsanlagen"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  7,
+                  3,
+                  3
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Bergbau und öffentliche Verkehrsanlagen"
+            },
+            {
+              "documentIdentifier" : "BJNR013100980BJNG003500315",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR013100980BJNE017506118",
+                  "paragraph" : "§ 125",
+                  "title" : "Messungen"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  7,
+                  3,
+                  4
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Beobachtung der Oberfläche"
+            }
+          ],
+          "title" : "Bergschaden"
+        }
+      ],
+      "title" : "Bergbau und Grundbesitz, Öffentliche Verkehrsanlagen"
+    },
+    {
+      "documentIdentifier" : "BJNR013100980BJNG003600315",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR013100980BJNE017601123",
+          "paragraph" : "§ 126",
+          "title" : "Untergrundspeicherung"
+        },
+        {
+          "documentIdentifier" : "BJNR013100980BJNE017700315",
+          "paragraph" : "§ 127",
+          "title" : "Bohrungen"
+        },
+        {
+          "documentIdentifier" : "BJNR013100980BJNE017800315",
+          "paragraph" : "§ 128",
+          "title" : "Alte Halden"
+        },
+        {
+          "documentIdentifier" : "BJNR013100980BJNE018006118",
+          "paragraph" : "§ 129",
+          "title" : "Versuchsgruben, Bergbauversuchsanstalten"
+        },
+        {
+          "documentIdentifier" : "BJNR013100980BJNE018306118",
+          "paragraph" : "§ 131",
+          "title" : "Hauptstellen für das Grubenrettungswesen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          8
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Sonstige Tätigkeiten und Einrichtungen"
+    },
+    {
+      "documentIdentifier" : "BJNR013100980BJNG003700315",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR013100980BJNE018402308",
+          "paragraph" : "§ 132",
+          "title" : "Forschungshandlungen"
+        },
+        {
+          "documentIdentifier" : "BJNR013100980BJNE018503118",
+          "paragraph" : "§ 133",
+          "title" : "Unterwasserkabel und Transit-Rohrleitungen"
+        },
+        {
+          "documentIdentifier" : "BJNR013100980BJNE018609118",
+          "paragraph" : "§ 134",
+          "title" : "Überwachung und Vollziehung von Verwaltungsakten, Zusammenwirken"
+        },
+        {
+          "documentIdentifier" : "BJNR013100980BJNE018711301",
+          "paragraph" : "§ 135",
+          "title" : "Gebühren- und Auslagenermächtigung"
+        },
+        {
+          "documentIdentifier" : "BJNR013100980BJNE018800315",
+          "paragraph" : "§ 136",
+          "title" : "Zuständigkeiten für sonstige Verwaltungsaufgaben"
+        },
+        {
+          "documentIdentifier" : "BJNR013100980BJNE018900315",
+          "paragraph" : "§ 137",
+          "title" : "Übergangsregelung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          9
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Besondere Vorschriften für den Festlandsockel"
+    },
+    {
+      "documentIdentifier" : "BJNR013100980BJNG003800315",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          10
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR013100980BJNG003900315",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR013100980BJNE019006118",
+              "paragraph" : "§ 138",
+              "title" : "Errichtung"
+            },
+            {
+              "documentIdentifier" : "BJNR013100980BJNE019106118",
+              "paragraph" : "§ 139",
+              "title" : "Aufgaben"
+            },
+            {
+              "documentIdentifier" : "BJNR013100980BJNE019207123",
+              "paragraph" : "§ 140",
+              "title" : "Inanspruchnahme, Gebühren"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              10,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Bundesprüfanstalt für den Bergbau"
+        },
+        {
+          "documentIdentifier" : "BJNR013100980BJNG004000315",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR013100980BJNE019306118",
+              "paragraph" : "§ 141",
+              "title" : "Sachverständigenausschuß Bergbau"
+            },
+            {
+              "documentIdentifier" : "BJNR013100980BJNE019400315",
+              "paragraph" : "§ 142",
+              "title" : "Zuständige Behörden"
+            },
+            {
+              "documentIdentifier" : "BJNR013100980BJNE019506118",
+              "paragraph" : "§ 143",
+              "title" : "Verwaltungsvorschriften"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              10,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Sachverständigenausschuß, Durchführung"
+        }
+      ],
+      "title" : "Bundesprüfanstalt, Sachverständigenausschuß, Durchführung"
+    },
+    {
+      "documentIdentifier" : "BJNR013100980BJNG004100315",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR013100980BJNE019600315",
+          "paragraph" : "§ 144",
+          "title" : "Klage vor den ordentlichen Gerichten"
+        },
+        {
+          "documentIdentifier" : "BJNR013100980BJNE019710123",
+          "paragraph" : "§ 145",
+          "title" : "Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR013100980BJNE019804308",
+          "paragraph" : "§ 146",
+          "title" : "Straftaten"
+        },
+        {
+          "documentIdentifier" : "BJNR013100980BJNE019900315",
+          "paragraph" : "§ 147",
+          "title" : "Erforschung von Straftaten"
+        },
+        {
+          "documentIdentifier" : "BJNR013100980BJNE020002377",
+          "paragraph" : "§ 148",
+          "title" : "Tatort, Gerichtsstand"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          11
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Rechtsweg, Bußgeld- und Strafvorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR013100980BJNG004200315",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          12
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR013100980BJNG004300315",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR013100980BJNE020101307",
+              "paragraph" : "§ 149",
+              "title" : "Voraussetzungen für die Aufrechterhaltung alter Rechte\nund Verträge"
+            },
+            {
+              "documentIdentifier" : "BJNR013100980BJNE020200315",
+              "paragraph" : "§ 150",
+              "title" : "Ausnahme von der Bergfreiheit von Bodenschätzen"
+            },
+            {
+              "documentIdentifier" : "BJNR013100980BJNE020300315",
+              "paragraph" : "§ 151",
+              "title" : "Bergwerkseigentum"
+            },
+            {
+              "documentIdentifier" : "BJNR013100980BJNE020400315",
+              "paragraph" : "§ 152",
+              "title" : "Aufrechterhaltene Rechte und Verträge zur Aufsuchung,\nForschungshandlungen"
+            },
+            {
+              "documentIdentifier" : "BJNR013100980BJNE020500315",
+              "paragraph" : "§ 153",
+              "title" : "Konzessionen, Erlaubnisse und Verträge zur Gewinnung"
+            },
+            {
+              "documentIdentifier" : "BJNR013100980BJNE020600315",
+              "paragraph" : "§ 154",
+              "title" : "Bergwerke, Bergwerksberechtigungen und Sonderrechte"
+            },
+            {
+              "documentIdentifier" : "BJNR013100980BJNE020700315",
+              "paragraph" : "§ 155",
+              "title" : "Dingliche Gewinnungsrechte"
+            },
+            {
+              "documentIdentifier" : "BJNR013100980BJNE020800315",
+              "paragraph" : "§ 156",
+              "title" : "Aufrechterhaltene Rechte und Verträge über grundeigene\nBodenschätze"
+            },
+            {
+              "documentIdentifier" : "BJNR013100980BJNE020900315",
+              "paragraph" : "§ 157",
+              "title" : "Grundrenten"
+            },
+            {
+              "documentIdentifier" : "BJNR013100980BJNE021000315",
+              "paragraph" : "§ 158",
+              "title" : "Erbstollengerechtigkeiten"
+            },
+            {
+              "documentIdentifier" : "BJNR013100980BJNE021100315",
+              "paragraph" : "§ 159",
+              "title" : "Alte Rechte und Aufsuchung zu wissenschaftlichen Zwecken"
+            },
+            {
+              "documentIdentifier" : "BJNR013100980BJNE021201307",
+              "paragraph" : "§ 160",
+              "title" : "Enteignung alter Rechte und Verträge"
+            },
+            {
+              "documentIdentifier" : "BJNR013100980BJNE021300315",
+              "paragraph" : "§ 161",
+              "title" : "Ausdehnung von Bergwerkseigentum auf aufgehobene Längenfelder"
+            },
+            {
+              "documentIdentifier" : "BJNR013100980BJNE021400315",
+              "paragraph" : "§ 162",
+              "title" : "Entscheidung, Rechtsänderung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              12,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Alte Rechte und Verträge"
+        },
+        {
+          "documentIdentifier" : "BJNR013100980BJNG004400315",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR013100980BJNE021502305",
+              "paragraph" : "§ 163",
+              "title" : "Auflösung und Umwandlung"
+            },
+            {
+              "documentIdentifier" : "BJNR013100980BJNE021601309",
+              "paragraph" : "§ 164",
+              "title" : "Abwicklung"
+            },
+            {
+              "documentIdentifier" : "BJNR013100980BJNE017800309",
+              "paragraph" : "§ 164a",
+              "title" : "Überleitung"
+            },
+            {
+              "documentIdentifier" : "BJNR013100980BJNE021700315",
+              "paragraph" : "§ 165",
+              "title" : "Fortgeltendes Recht"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              12,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Auflösung und Abwicklung der bergrechtlichen Gewerkschaften"
+        },
+        {
+          "documentIdentifier" : "BJNR013100980BJNG004500315",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR013100980BJNE021800315",
+              "paragraph" : "§ 166",
+              "title" : "Bestehende Hilfsbaue"
+            },
+            {
+              "documentIdentifier" : "BJNR013100980BJNE021900315",
+              "paragraph" : "§ 167",
+              "title" : "Fortgeltung von Betriebsplänen und Anerkennungen"
+            },
+            {
+              "documentIdentifier" : "BJNR013100980BJNE022000315",
+              "paragraph" : "§ 168",
+              "title" : "Erlaubnisse für Transit-Rohrleitungen"
+            },
+            {
+              "documentIdentifier" : "BJNR013100980BJNE023500308",
+              "paragraph" : "§ 168a",
+              "title" : "Genehmigungen im Bereich der Erweiterung des Küstenmeeres"
+            },
+            {
+              "documentIdentifier" : "BJNR013100980BJNE023600308",
+              "paragraph" : "§ 168b",
+              "title" : "Vorhandene Unterwasserkabel"
+            },
+            {
+              "documentIdentifier" : "BJNR013100980BJNE022100315",
+              "paragraph" : "§ 169",
+              "title" : "Übergangszeit bei Unterstellung unter die Bergaufsicht,\neingestellte Betriebe"
+            },
+            {
+              "documentIdentifier" : "BJNR013100980BJNE022201123",
+              "paragraph" : "§ 170",
+              "title" : "Haftung für verursachte Schäden"
+            },
+            {
+              "documentIdentifier" : "BJNR013100980BJNE023700377",
+              "paragraph" : "§ 170a",
+              "title" : "Verjährung bei Bergschäden"
+            },
+            {
+              "documentIdentifier" : "BJNR013100980BJNE022300315",
+              "paragraph" : "§ 171",
+              "title" : "Eingeleitete Verfahren"
+            },
+            {
+              "documentIdentifier" : "BJNR013100980BJNE024101119",
+              "paragraph" : "§ 171a",
+              "title" : "Übergangsvorschrift"
+            },
+            {
+              "documentIdentifier" : "BJNR013100980BJNE022400315",
+              "paragraph" : "§ 172",
+              "title" : "Mutungen"
+            },
+            {
+              "documentIdentifier" : "BJNR013100980BJNE022500315",
+              "paragraph" : "§ 173",
+              "title" : "Zusammenhängende Betriebe"
+            },
+            {
+              "documentIdentifier" : "BJNR013100980BJNE022806118",
+              "paragraph" : "§ 176",
+              "title" : "Außerkrafttreten von Landesrecht, Verweisung"
+            },
+            {
+              "documentIdentifier" : "BJNR013100980BJNE022901123",
+              "paragraph" : "§ 177",
+              "title" : "(weggefallen)"
+            },
+            {
+              "documentIdentifier" : "BJNR013100980BJNE023000315",
+              "paragraph" : "§ 178",
+              "title" : "Inkrafttreten"
+            },
+            {
+              "documentIdentifier" : "BJNR013100980BJNE888802308",
+              "paragraph" : "Anhang EV",
+              "title" : "Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet D Abschnitt III"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              12,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Sonstige Übergangs- und Schlußvorschriften"
+        }
+      ],
+      "title" : "Übergangs- und Schlußbestimmungen"
+    }
+  ]
+}

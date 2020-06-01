@@ -1,0 +1,592 @@
+{
+  "documentIdentifier" : "BJNR186610016",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR186610016BJNG000100000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR186610016BJNG000200000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR186610016BJNE000200000",
+              "paragraph" : "§ 1",
+              "title" : "Geltungsbereich"
+            },
+            {
+              "documentIdentifier" : "BJNR186610016BJNE000300000",
+              "paragraph" : "§ 2",
+              "title" : "Begriffsbestimmung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Einleitung"
+        },
+        {
+          "documentIdentifier" : "BJNR186610016BJNG000300000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR186610016BJNE000400000",
+              "paragraph" : "§ 3",
+              "title" : "Grundsätzliche Anforderungen"
+            },
+            {
+              "documentIdentifier" : "BJNR186610016BJNE000500000",
+              "paragraph" : "§ 4",
+              "title" : "Abwasser, Abfall"
+            },
+            {
+              "documentIdentifier" : "BJNR186610016BJNE000600000",
+              "paragraph" : "§ 5",
+              "title" : "Bohrspülung, Bohrklein"
+            },
+            {
+              "documentIdentifier" : "BJNR186610016BJNE000700000",
+              "paragraph" : "§ 6",
+              "title" : "Entledigung und Bergung von Gegenständen"
+            },
+            {
+              "documentIdentifier" : "BJNR186610016BJNE000800000",
+              "paragraph" : "§ 7",
+              "title" : "Sonstige Vorsorge- und Schutzmaßnahmen"
+            },
+            {
+              "documentIdentifier" : "BJNR186610016BJNE000900000",
+              "paragraph" : "§ 8",
+              "title" : "Verfüllen nicht mehr genutzter Bohrungen"
+            },
+            {
+              "documentIdentifier" : "BJNR186610016BJNE001000000",
+              "paragraph" : "§ 9",
+              "title" : "Maßnahmen bei der Gewinnung von Lockersedimenten"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Maßnahmen zum Schutz des Meeres und des Meeresgrundes"
+        },
+        {
+          "documentIdentifier" : "BJNR186610016BJNG000400000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR186610016BJNE001100000",
+              "paragraph" : "§ 10",
+              "title" : "Schifffahrtszeichen, Kennzeichnung für Luftfahrt, Anzeigepflicht"
+            },
+            {
+              "documentIdentifier" : "BJNR186610016BJNE001200000",
+              "paragraph" : "§ 11",
+              "title" : "Verbot der Beeinträchtigung von Schifffahrtszeichen"
+            },
+            {
+              "documentIdentifier" : "BJNR186610016BJNE001300000",
+              "paragraph" : "§ 12",
+              "title" : "Schiffe im Nahbereich"
+            },
+            {
+              "documentIdentifier" : "BJNR186610016BJNE001400000",
+              "paragraph" : "§ 13",
+              "title" : "Sicherheitszonen"
+            },
+            {
+              "documentIdentifier" : "BJNR186610016BJNE001500000",
+              "paragraph" : "§ 14",
+              "title" : "Sicherung des Hubschrauberverkehrs"
+            },
+            {
+              "documentIdentifier" : "BJNR186610016BJNE001600000",
+              "paragraph" : "§ 15",
+              "title" : "Schutz von Unterwasser-Leitungsinfrastruktur"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Maßnahmen zur Sicherheit des Schiffs- und Luftverkehrs und von Unterwasser-Leitungsinfrastruktur"
+        },
+        {
+          "documentIdentifier" : "BJNR186610016BJNG000500000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR186610016BJNE001701124",
+              "paragraph" : "§ 16",
+              "title" : "Eignungsuntersuchungen, Verbot der Beschäftigung Minderjähriger"
+            },
+            {
+              "documentIdentifier" : "BJNR186610016BJNE001800000",
+              "paragraph" : "§ 17",
+              "title" : "Arbeitsschutz, Betriebsaufsicht und Pflichten der Beschäftigten"
+            },
+            {
+              "documentIdentifier" : "BJNR186610016BJNE001900000",
+              "paragraph" : "§ 18",
+              "title" : "Vorkehrungen zur Ersten Hilfe"
+            },
+            {
+              "documentIdentifier" : "BJNR186610016BJNE002000000",
+              "paragraph" : "§ 19",
+              "title" : "Sicherheits- und Gesundheitsschutzdokument"
+            },
+            {
+              "documentIdentifier" : "BJNR186610016BJNE002100000",
+              "paragraph" : "§ 20",
+              "title" : "Sprachliche Verständigung"
+            },
+            {
+              "documentIdentifier" : "BJNR186610016BJNE002200000",
+              "paragraph" : "§ 21",
+              "title" : "Wetterschutzkleidung"
+            },
+            {
+              "documentIdentifier" : "BJNR186610016BJNE002300000",
+              "paragraph" : "§ 22",
+              "title" : "Unterkünfte, sanitäre Einrichtungen"
+            },
+            {
+              "documentIdentifier" : "BJNR186610016BJNE002400000",
+              "paragraph" : "§ 23",
+              "title" : "Allgemeine Anforderungen an Taucherarbeiten"
+            },
+            {
+              "documentIdentifier" : "BJNR186610016BJNE002500000",
+              "paragraph" : "§ 24",
+              "title" : "Durchführung von Taucherarbeiten"
+            },
+            {
+              "documentIdentifier" : "BJNR186610016BJNE002600000",
+              "paragraph" : "§ 25",
+              "title" : "Plan für Unterwasserarbeiten und Dokumentation von Taucherarbeiten"
+            },
+            {
+              "documentIdentifier" : "BJNR186610016BJNE002700000",
+              "paragraph" : "§ 26",
+              "title" : "Brand-, Explosions- und Gasschutz"
+            },
+            {
+              "documentIdentifier" : "BJNR186610016BJNE002800000",
+              "paragraph" : "§ 27",
+              "title" : "Ablegestationen und Sammelpunkte"
+            },
+            {
+              "documentIdentifier" : "BJNR186610016BJNE002900000",
+              "paragraph" : "§ 28",
+              "title" : "Umgang mit brennbaren und wassergefährdenden Stoffen"
+            },
+            {
+              "documentIdentifier" : "BJNR186610016BJNE003000000",
+              "paragraph" : "§ 29",
+              "title" : "Umgang mit Sprengstoffen und Zündmitteln"
+            },
+            {
+              "documentIdentifier" : "BJNR186610016BJNE003101116",
+              "paragraph" : "§ 30",
+              "title" : "Umgang mit radioaktiven Stoffen und Schutz vor ionisierender Strahlung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Eignungsuntersuchungen; Arbeitsschutz"
+        },
+        {
+          "documentIdentifier" : "BJNR186610016BJNG000600000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR186610016BJNE003200000",
+              "paragraph" : "§ 31",
+              "title" : "Niederbringen von Bohrungen"
+            },
+            {
+              "documentIdentifier" : "BJNR186610016BJNE003300000",
+              "paragraph" : "§ 32",
+              "title" : "Überwachung des Bohrlochverlaufs und Berichtspflicht"
+            },
+            {
+              "documentIdentifier" : "BJNR186610016BJNE003400000",
+              "paragraph" : "§ 33",
+              "title" : "Bohrungen zur Gewinnung von Erdöl und Erdgas"
+            },
+            {
+              "documentIdentifier" : "BJNR186610016BJNE003500000",
+              "paragraph" : "§ 34",
+              "title" : "Hilfsbohrungen"
+            },
+            {
+              "documentIdentifier" : "BJNR186610016BJNE003600000",
+              "paragraph" : "§ 35",
+              "title" : "Verhütung und Bekämpfung von Ausbrüchen"
+            },
+            {
+              "documentIdentifier" : "BJNR186610016BJNE003700000",
+              "paragraph" : "§ 36",
+              "title" : "Zusätzliche Überwachungsmaßnahmen für die Sicherheit"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              5
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Bohrungen"
+        },
+        {
+          "documentIdentifier" : "BJNR186610016BJNG000700000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR186610016BJNE003800000",
+              "paragraph" : "§ 37",
+              "title" : "Betriebsanweisungen"
+            },
+            {
+              "documentIdentifier" : "BJNR186610016BJNE003900000",
+              "paragraph" : "§ 38",
+              "title" : "Bereithaltungs- und Aufbewahrungspflichten für Unterlagen"
+            },
+            {
+              "documentIdentifier" : "BJNR186610016BJNE004001116",
+              "paragraph" : "§ 39",
+              "title" : "Anzeige von besonderen Ereignissen und Unfällen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              6
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Sonstige Pflichten"
+        }
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR186610016BJNG000800000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR186610016BJNG000900000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR186610016BJNE004100000",
+              "paragraph" : "§ 40",
+              "title" : "Allgemeine Anforderungen an das Risikomanagement"
+            },
+            {
+              "documentIdentifier" : "BJNR186610016BJNE004200000",
+              "paragraph" : "§ 41",
+              "title" : "Prüfung der Leistungsfähigkeit; Nachweispflicht"
+            },
+            {
+              "documentIdentifier" : "BJNR186610016BJNE004300000",
+              "paragraph" : "§ 42",
+              "title" : "Anforderungen an den Betriebsplan"
+            },
+            {
+              "documentIdentifier" : "BJNR186610016BJNE004400000",
+              "paragraph" : "§ 43",
+              "title" : "Bericht über ernste Gefahren"
+            },
+            {
+              "documentIdentifier" : "BJNR186610016BJNE004500000",
+              "paragraph" : "§ 44",
+              "title" : "Unternehmenskonzept zur Verhütung schwerer Unfälle"
+            },
+            {
+              "documentIdentifier" : "BJNR186610016BJNE004600000",
+              "paragraph" : "§ 45",
+              "title" : "Sicherheits- und Umweltmanagementsystem"
+            },
+            {
+              "documentIdentifier" : "BJNR186610016BJNE004700000",
+              "paragraph" : "§ 46",
+              "title" : "Systeme zur unabhängigen Überprüfung"
+            },
+            {
+              "documentIdentifier" : "BJNR186610016BJNE004800000",
+              "paragraph" : "§ 47",
+              "title" : "Durchführung der unabhängigen Überprüfung"
+            },
+            {
+              "documentIdentifier" : "BJNR186610016BJNE004900000",
+              "paragraph" : "§ 48",
+              "title" : "Interner Notfalleinsatzplan"
+            },
+            {
+              "documentIdentifier" : "BJNR186610016BJNE005000000",
+              "paragraph" : "§ 49",
+              "title" : "Mitteilung und Berichte über Bohrungsarbeiten"
+            },
+            {
+              "documentIdentifier" : "BJNR186610016BJNE005100000",
+              "paragraph" : "§ 50",
+              "title" : "Mitteilung über den kombinierten Betrieb"
+            },
+            {
+              "documentIdentifier" : "BJNR186610016BJNE005200000",
+              "paragraph" : "§ 51",
+              "title" : "Mitteilung über die Standortverlegung"
+            },
+            {
+              "documentIdentifier" : "BJNR186610016BJNE005300000",
+              "paragraph" : "§ 52",
+              "title" : "Rohrleitungen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Anforderungen an das Risikomanagement und den Betriebsplan; unabhängige Überprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR186610016BJNG001000000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR186610016BJNE005400000",
+              "paragraph" : "§ 53",
+              "title" : "Genehmigung von Plattformen"
+            },
+            {
+              "documentIdentifier" : "BJNR186610016BJNE005500000",
+              "paragraph" : "§ 54",
+              "title" : "Positionierung von Plattformen auf See"
+            },
+            {
+              "documentIdentifier" : "BJNR186610016BJNE005600000",
+              "paragraph" : "§ 55",
+              "title" : "Sprech- und Sprechfunkverbindungen"
+            },
+            {
+              "documentIdentifier" : "BJNR186610016BJNE005700000",
+              "paragraph" : "§ 56",
+              "title" : "Melde- und Schutzsysteme"
+            },
+            {
+              "documentIdentifier" : "BJNR186610016BJNE005800000",
+              "paragraph" : "§ 57",
+              "title" : "Rettungsmittel"
+            },
+            {
+              "documentIdentifier" : "BJNR186610016BJNE005900000",
+              "paragraph" : "§ 58",
+              "title" : "Notfallübungen"
+            },
+            {
+              "documentIdentifier" : "BJNR186610016BJNE006000000",
+              "paragraph" : "§ 59",
+              "title" : "Notfallmaßnahmen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Anforderungen an Plattformen; Notfallmaßnahmen"
+        },
+        {
+          "documentIdentifier" : "BJNR186610016BJNG001100000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR186610016BJNE006100000",
+              "paragraph" : "§ 60",
+              "title" : "Leitfäden"
+            },
+            {
+              "documentIdentifier" : "BJNR186610016BJNE006200000",
+              "paragraph" : "§ 61",
+              "title" : "Vertrauliche Meldung"
+            },
+            {
+              "documentIdentifier" : "BJNR186610016BJNE006300000",
+              "paragraph" : "§ 62",
+              "title" : "Informationsaustausch zwischen Unternehmer und Behörden"
+            },
+            {
+              "documentIdentifier" : "BJNR186610016BJNE006400000",
+              "paragraph" : "§ 63",
+              "title" : "Beförderungspflicht"
+            },
+            {
+              "documentIdentifier" : "BJNR186610016BJNE006500000",
+              "paragraph" : "§ 64",
+              "title" : "Bericht über Offshore-Erdöl- und -Erdgasaktivitäten außerhalb der Europäischen Union"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Sonstige Berichts- und Handlungspflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR186610016BJNG001200000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR186610016BJNE006600000",
+              "paragraph" : "§ 65",
+              "title" : "Externe Notfalleinsatzpläne und Notfallvorsorge"
+            },
+            {
+              "documentIdentifier" : "BJNR186610016BJNE006700000",
+              "paragraph" : "§ 66",
+              "title" : "Untersuchungen bei und nach einem schweren Unfall"
+            },
+            {
+              "documentIdentifier" : "BJNR186610016BJNE006800000",
+              "paragraph" : "§ 67",
+              "title" : "Zusammenarbeit innerhalb der Europäischen Union, Meldepflichten"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Pflichten der Behörden"
+        }
+      ],
+      "title" : "Offshore-Erdöl- und -Erdgasaktivitäten"
+    },
+    {
+      "documentIdentifier" : "BJNR186610016BJNG001300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR186610016BJNE006900000",
+          "paragraph" : "§ 68",
+          "title" : "Übertragung der Pflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR186610016BJNE007000000",
+          "paragraph" : "§ 69",
+          "title" : "Untergrundspeicherung"
+        },
+        {
+          "documentIdentifier" : "BJNR186610016BJNE007100000",
+          "paragraph" : "§ 70",
+          "title" : "Ausnahmebewilligungen"
+        },
+        {
+          "documentIdentifier" : "BJNR186610016BJNE007200000",
+          "paragraph" : "§ 71",
+          "title" : "Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR186610016BJNE007300000",
+          "paragraph" : "§ 72",
+          "title" : "Übergangsregelung"
+        },
+        {
+          "documentIdentifier" : "BJNR186610016BJNE007400000",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 43 Absatz 1 und 2, § 44 Absatz 2, § 45 Absatz 1 und 2, § 46 Absatz 2, § 48 Absatz 1 und 2, § 49 Absatz 1, § 50 Absatz 1, § 51 Absatz 1 und § 53 Absatz 2 Satz 1 Nummer 3)"
+        },
+        {
+          "documentIdentifier" : "BJNR186610016BJNE007500000",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 49 Absatz 3)"
+        },
+        {
+          "documentIdentifier" : "BJNR186610016BJNE007600000",
+          "paragraph" : "Anlage 3",
+          "title" : "(zu den §§ 44, 45)"
+        },
+        {
+          "documentIdentifier" : "BJNR186610016BJNE007700000",
+          "paragraph" : "Anlage 4",
+          "title" : "(zu § 60 Absatz 1)"
+        },
+        {
+          "documentIdentifier" : "BJNR186610016BJNE007800000",
+          "paragraph" : "Anlage 5",
+          "title" : "(zu § 65 Absatz 1)"
+        },
+        {
+          "documentIdentifier" : "BJNR186610016BJNE007900000",
+          "paragraph" : "Anlage 6",
+          "title" : "(zu § 65 Absatz 5)"
+        },
+        {
+          "documentIdentifier" : "BJNR186610016BJNE008000000",
+          "paragraph" : "Anlage 7",
+          "title" : "(zu § 62 Absatz 1 und § 67 Absatz 1)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussvorschriften"
+    }
+  ]
+}

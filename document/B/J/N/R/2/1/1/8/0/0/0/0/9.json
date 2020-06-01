@@ -1,0 +1,155 @@
+{
+  "documentIdentifier" : "BJNR211800009",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR211800009BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR211800009BJNE000201310",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR211800009BJNE000301310",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR211800009BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Allgemeine Anforderungen an die Ermittlung von Daten und deren Berichterstattung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR211800009BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR211800009BJNE000501116",
+          "paragraph" : "§ 4",
+          "title" : "Ermittlung von Emissionsdaten, Berichterstattung sowie Erstellung des Überwachungsplans"
+        },
+        {
+          "documentIdentifier" : "BJNR211800009BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Ermittlung von Flugstrecke und Nutzlast, Berichterstattung sowie Erstellung des Überwachungsplans"
+        },
+        {
+          "documentIdentifier" : "BJNR211800009BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Befreiung für gelistete Luftfahrzeugbetreiber mit privilegierten Flügen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Berichtspflichten für Luftfahrzeugbetreiber"
+    },
+    {
+      "documentIdentifier" : "BJNR211800009BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR211800009BJNE000801310",
+          "paragraph" : "§ 7",
+          "title" : "Ermittlung und Mitteilung von Daten"
+        },
+        {
+          "documentIdentifier" : "BJNR211800009BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Besondere Anforderungen an die Ermittlung und Mitteilung von perfluorierten Kohlenwasserstoffen (PFC)"
+        },
+        {
+          "documentIdentifier" : "BJNR211800009BJNE001000000",
+          "paragraph" : "§ 9",
+          "title" : "Besondere Anforderungen an die Ermittlung und Mitteilung von Distickstoffoxid (N2O)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Mitteilungspflichten für die Verantwortlichen weiterer Tätigkeiten"
+    },
+    {
+      "documentIdentifier" : "BJNR211800009BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR211800009BJNE001101310",
+          "paragraph" : "§ 10",
+          "title" : "Elektronische Kommunikation"
+        },
+        {
+          "documentIdentifier" : "BJNR211800009BJNE001202310",
+          "paragraph" : "§ 11",
+          "title" : "Prüfung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Verfahren"
+    },
+    {
+      "documentIdentifier" : "BJNR211800009BJNG000500000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR211800009BJNE001301310",
+          "paragraph" : "§ 12",
+          "title" : "Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR211800009BJNE001400000",
+          "paragraph" : "§ 13",
+          "title" : "Zuständige Behörde"
+        },
+        {
+          "documentIdentifier" : "BJNR211800009BJNE001500000",
+          "paragraph" : "§ 14",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR211800009BJNE001600000",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 1 Absatz 2 Nummer 2, § 4 Absatz 5 Satz 2, § 5 Absatz 1 Satz 1 und § 6)"
+        },
+        {
+          "documentIdentifier" : "BJNR211800009BJNE001700000",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 8 Absatz 1 Satz 1 und Absatz 2 Nummer 3 bis 8)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Sanktionen und Inkrafttreten"
+    }
+  ]
+}

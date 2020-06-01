@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR007580990",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR007580990Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR007580990BJNE000400308",
+          "paragraph" : "Art 3",
+          "title" : "Berlin-Klausel"
+        },
+        {
+          "documentIdentifier" : "BJNR007580990BJNE000500308",
+          "paragraph" : "Art 4",
+          "title" : "Anwendung auf bestehende Heimverhältnisse"
+        },
+        {
+          "documentIdentifier" : "BJNR007580990BJNE000600308",
+          "paragraph" : "Art 5",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "documentIdentifier" : "BJNR223000017",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR223000017Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR223000017BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR223000017BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR223000017BJNE000401000",
+          "paragraph" : "§ 3",
+          "title" : "Bevorrechtigungen"
+        },
+        {
+          "documentIdentifier" : "BJNR223000017BJNE000501000",
+          "paragraph" : "§ 4",
+          "title" : "Kennzeichnung"
+        },
+        {
+          "documentIdentifier" : "BJNR223000017BJNE000601000",
+          "paragraph" : "§ 5",
+          "title" : "Sondernutzung öffentlichen Straßenraums"
+        },
+        {
+          "documentIdentifier" : "BJNR223000017BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Berichterstattung"
+        },
+        {
+          "documentIdentifier" : "BJNR223000017BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR223000017BJNE001000000",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 5 Absatz 4 Satz 3)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

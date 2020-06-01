@@ -1,0 +1,87 @@
+{
+  "documentIdentifier" : "BJNR167400017",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR167400017BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR167400017BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Mitteilung des Kontos"
+        },
+        {
+          "documentIdentifier" : "BJNR167400017BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Vornahme von Zahlungen"
+        },
+        {
+          "documentIdentifier" : "BJNR167400017BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Leistungszeitpunkt"
+        },
+        {
+          "documentIdentifier" : "BJNR167400017BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Schriftliche Zahlungsaufforderung"
+        },
+        {
+          "documentIdentifier" : "BJNR167400017BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Bestätigung von Zahlungseingängen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Abwicklung von Zahlungen"
+    },
+    {
+      "documentIdentifier" : "BJNR167400017BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR167400017BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Höhe der Zinsen"
+        },
+        {
+          "documentIdentifier" : "BJNR167400017BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Abzug von nachgewiesenen Ausgaben für Entsorgungskosten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Höhe der verzinsten Einzahlungsbeträge"
+    },
+    {
+      "documentIdentifier" : "BJNR167400017BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR167400017BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inkrafttreten"
+    }
+  ]
+}

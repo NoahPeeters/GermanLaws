@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR011260991",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR011260991Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR011260991BJNE000500308",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 1 Abs. 3)\n"
+        },
+        {
+          "documentIdentifier" : "BJNR011260991BJNE000600308",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 1 Abs. 4)\n"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

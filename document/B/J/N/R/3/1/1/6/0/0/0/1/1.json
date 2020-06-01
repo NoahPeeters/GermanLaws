@@ -1,0 +1,136 @@
+{
+  "documentIdentifier" : "BJNR311600011",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR311600011BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR311600011BJNE000302123",
+          "paragraph" : "§ 1",
+          "title" : "Sachkunde des Mitarbeiters in der Anlageberatung"
+        },
+        {
+          "documentIdentifier" : "BJNR311600011BJNE001500123",
+          "paragraph" : "§ 1a",
+          "title" : "Sachkunde des Vertriebsmitarbeiters"
+        },
+        {
+          "documentIdentifier" : "BJNR311600011BJNE001600123",
+          "paragraph" : "§ 1b",
+          "title" : "Sachkunde des Mitarbeiters in der Finanzportfolioverwaltung"
+        },
+        {
+          "documentIdentifier" : "BJNR311600011BJNE000401123",
+          "paragraph" : "§ 2",
+          "title" : "Sachkunde des Vertriebsbeauftragten"
+        },
+        {
+          "documentIdentifier" : "BJNR311600011BJNE000502123",
+          "paragraph" : "§ 3",
+          "title" : "Sachkunde des Compliance-Beauftragten"
+        },
+        {
+          "documentIdentifier" : "BJNR311600011BJNE000601123",
+          "paragraph" : "§ 4",
+          "title" : "Berufsqualifikationen als Sachkundenachweis"
+        },
+        {
+          "documentIdentifier" : "BJNR311600011BJNE000701123",
+          "paragraph" : "§ 5",
+          "title" : "Anerkennung ausländischer Berufsbefähigungsnachweise im Rahmen der Niederlassungsfreiheit"
+        },
+        {
+          "documentIdentifier" : "BJNR311600011BJNE000801123",
+          "paragraph" : "§ 6",
+          "title" : "Zuverlässigkeit"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Sachkunde"
+    },
+    {
+      "documentIdentifier" : "BJNR311600011BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR311600011BJNE000901123",
+          "paragraph" : "§ 7",
+          "title" : "Einreichung der Anzeigen"
+        },
+        {
+          "documentIdentifier" : "BJNR311600011BJNE001002123",
+          "paragraph" : "§ 8",
+          "title" : "Inhalt der Anzeigen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Anzeigen"
+    },
+    {
+      "documentIdentifier" : "BJNR311600011BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR311600011BJNE001101123",
+          "paragraph" : "§ 9",
+          "title" : "Inhalt der Datenbank"
+        },
+        {
+          "documentIdentifier" : "BJNR311600011BJNE001200000",
+          "paragraph" : "§ 10",
+          "title" : "Verantwortlichkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR311600011BJNE001300000",
+          "paragraph" : "§ 11",
+          "title" : "Dauer der Speicherung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Datenbank"
+    },
+    {
+      "documentIdentifier" : "BJNR311600011BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR311600011BJNE001700123",
+          "paragraph" : "§ 12",
+          "title" : "Übergangsregelung"
+        },
+        {
+          "documentIdentifier" : "BJNR311600011BJNE001401123",
+          "paragraph" : "§ 13",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussvorschriften"
+    }
+  ]
+}

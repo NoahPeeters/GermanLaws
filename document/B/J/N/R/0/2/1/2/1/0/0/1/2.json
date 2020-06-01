@@ -1,0 +1,616 @@
+{
+  "documentIdentifier" : "BJNR021210012",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR021210012BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR021210012BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Zweck des Gesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR021210012BJNE000303116",
+          "paragraph" : "§ 2",
+          "title" : "Geltungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR021210012BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR021210012BJNE000501000",
+          "paragraph" : "§ 4",
+          "title" : "Nebenprodukte"
+        },
+        {
+          "documentIdentifier" : "BJNR021210012BJNE000601000",
+          "paragraph" : "§ 5",
+          "title" : "Ende der Abfalleigenschaft"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR021210012BJNG000200000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR021210012BJNG000300000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR021210012BJNE000700000",
+              "paragraph" : "§ 6",
+              "title" : "Abfallhierarchie"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Grundsätze der Abfallvermeidung und Abfallbewirtschaftung"
+        },
+        {
+          "documentIdentifier" : "BJNR021210012BJNG000400000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR021210012BJNE000800000",
+              "paragraph" : "§ 7",
+              "title" : "Grundpflichten der Kreislaufwirtschaft"
+            },
+            {
+              "documentIdentifier" : "BJNR021210012BJNE000902116",
+              "paragraph" : "§ 8",
+              "title" : "Rangfolge und Hochwertigkeit der Verwertungsmaßnahmen"
+            },
+            {
+              "documentIdentifier" : "BJNR021210012BJNE001000000",
+              "paragraph" : "§ 9",
+              "title" : "Getrennthalten von Abfällen zur Verwertung, Vermischungsverbot"
+            },
+            {
+              "documentIdentifier" : "BJNR021210012BJNE001100000",
+              "paragraph" : "§ 10",
+              "title" : "Anforderungen an die Kreislaufwirtschaft"
+            },
+            {
+              "documentIdentifier" : "BJNR021210012BJNE001201000",
+              "paragraph" : "§ 11",
+              "title" : "Kreislaufwirtschaft für Bioabfälle und Klärschlämme"
+            },
+            {
+              "documentIdentifier" : "BJNR021210012BJNE001301000",
+              "paragraph" : "§ 12",
+              "title" : "Qualitätssicherung im Bereich der Bioabfälle und Klärschlämme"
+            },
+            {
+              "documentIdentifier" : "BJNR021210012BJNE001400000",
+              "paragraph" : "§ 13",
+              "title" : "Pflichten der Anlagenbetreiber"
+            },
+            {
+              "documentIdentifier" : "BJNR021210012BJNE001500000",
+              "paragraph" : "§ 14",
+              "title" : "Förderung des Recyclings und der sonstigen stofflichen Verwertung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Kreislaufwirtschaft"
+        },
+        {
+          "documentIdentifier" : "BJNR021210012BJNG000500000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR021210012BJNE001600000",
+              "paragraph" : "§ 15",
+              "title" : "Grundpflichten der Abfallbeseitigung"
+            },
+            {
+              "documentIdentifier" : "BJNR021210012BJNE001700000",
+              "paragraph" : "§ 16",
+              "title" : "Anforderungen an die Abfallbeseitigung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Abfallbeseitigung"
+        },
+        {
+          "documentIdentifier" : "BJNR021210012BJNG000600000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR021210012BJNE001800000",
+              "paragraph" : "§ 17",
+              "title" : "Überlassungspflichten"
+            },
+            {
+              "documentIdentifier" : "BJNR021210012BJNE001901116",
+              "paragraph" : "§ 18",
+              "title" : "Anzeigeverfahren für Sammlungen"
+            },
+            {
+              "documentIdentifier" : "BJNR021210012BJNE002000000",
+              "paragraph" : "§ 19",
+              "title" : "Duldungspflichten bei Grundstücken"
+            },
+            {
+              "documentIdentifier" : "BJNR021210012BJNE002100000",
+              "paragraph" : "§ 20",
+              "title" : "Pflichten der öffentlich-rechtlichen Entsorgungsträger"
+            },
+            {
+              "documentIdentifier" : "BJNR021210012BJNE002200000",
+              "paragraph" : "§ 21",
+              "title" : "Abfallwirtschaftskonzepte und Abfallbilanzen"
+            },
+            {
+              "documentIdentifier" : "BJNR021210012BJNE002300000",
+              "paragraph" : "§ 22",
+              "title" : "Beauftragung Dritter"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Öffentlich-rechtliche Entsorgung und Beauftragung Dritter"
+        }
+      ],
+      "title" : "Grundsätze und Pflichten der Erzeuger und Besitzer von Abfällen sowie der öffentlich-rechtlichen Entsorgungsträger"
+    },
+    {
+      "documentIdentifier" : "BJNR021210012BJNG000700000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR021210012BJNE002401000",
+          "paragraph" : "§ 23",
+          "title" : "Produktverantwortung"
+        },
+        {
+          "documentIdentifier" : "BJNR021210012BJNE002500000",
+          "paragraph" : "§ 24",
+          "title" : "Anforderungen an Verbote, Beschränkungen und Kennzeichnungen"
+        },
+        {
+          "documentIdentifier" : "BJNR021210012BJNE002600000",
+          "paragraph" : "§ 25",
+          "title" : "Anforderungen an Rücknahme- und Rückgabepflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR021210012BJNE002702116",
+          "paragraph" : "§ 26",
+          "title" : "Freiwillige Rücknahme"
+        },
+        {
+          "documentIdentifier" : "BJNR021210012BJNE002800000",
+          "paragraph" : "§ 27",
+          "title" : "Besitzerpflichten nach Rücknahme"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Produktverantwortung"
+    },
+    {
+      "documentIdentifier" : "BJNR021210012BJNG000800000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR021210012BJNG000900000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR021210012BJNE002900000",
+              "paragraph" : "§ 28",
+              "title" : "Ordnung der Abfallbeseitigung"
+            },
+            {
+              "documentIdentifier" : "BJNR021210012BJNE003000000",
+              "paragraph" : "§ 29",
+              "title" : "Durchführung der Abfallbeseitigung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Ordnung und Durchführung der Abfallbeseitigung"
+        },
+        {
+          "documentIdentifier" : "BJNR021210012BJNG001000000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR021210012BJNE003100000",
+              "paragraph" : "§ 30",
+              "title" : "Abfallwirtschaftspläne"
+            },
+            {
+              "documentIdentifier" : "BJNR021210012BJNE003200000",
+              "paragraph" : "§ 31",
+              "title" : "Aufstellung von Abfallwirtschaftsplänen"
+            },
+            {
+              "documentIdentifier" : "BJNR021210012BJNE003300000",
+              "paragraph" : "§ 32",
+              "title" : "Beteiligung der Öffentlichkeit bei der Aufstellung von Abfallwirtschaftsplänen, Unterrichtung der Öffentlichkeit"
+            },
+            {
+              "documentIdentifier" : "BJNR021210012BJNE003401116",
+              "paragraph" : "§ 33",
+              "title" : "Abfallvermeidungsprogramme"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Abfallwirtschaftspläne und Abfallvermeidungsprogramme"
+        },
+        {
+          "documentIdentifier" : "BJNR021210012BJNG001100000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR021210012BJNE003500000",
+              "paragraph" : "§ 34",
+              "title" : "Erkundung geeigneter Standorte"
+            },
+            {
+              "documentIdentifier" : "BJNR021210012BJNE003601116",
+              "paragraph" : "§ 35",
+              "title" : "Planfeststellung und Genehmigung"
+            },
+            {
+              "documentIdentifier" : "BJNR021210012BJNE003701000",
+              "paragraph" : "§ 36",
+              "title" : "Erteilung, Sicherheitsleistung, Nebenbestimmungen"
+            },
+            {
+              "documentIdentifier" : "BJNR021210012BJNE003800000",
+              "paragraph" : "§ 37",
+              "title" : "Zulassung des vorzeitigen Beginns"
+            },
+            {
+              "documentIdentifier" : "BJNR021210012BJNE003901000",
+              "paragraph" : "§ 38",
+              "title" : "Planfeststellungsverfahren und weitere Verwaltungsverfahren"
+            },
+            {
+              "documentIdentifier" : "BJNR021210012BJNE004000000",
+              "paragraph" : "§ 39",
+              "title" : "Bestehende Abfallbeseitigungsanlagen"
+            },
+            {
+              "documentIdentifier" : "BJNR021210012BJNE004100000",
+              "paragraph" : "§ 40",
+              "title" : "Stilllegung"
+            },
+            {
+              "documentIdentifier" : "BJNR021210012BJNE004201000",
+              "paragraph" : "§ 41",
+              "title" : "Emissionserklärung"
+            },
+            {
+              "documentIdentifier" : "BJNR021210012BJNE004300000",
+              "paragraph" : "§ 42",
+              "title" : "Zugang zu Informationen"
+            },
+            {
+              "documentIdentifier" : "BJNR021210012BJNE004401116",
+              "paragraph" : "§ 43",
+              "title" : "Anforderungen an Deponien"
+            },
+            {
+              "documentIdentifier" : "BJNR021210012BJNE004500000",
+              "paragraph" : "§ 44",
+              "title" : "Kosten der Ablagerung von Abfällen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Zulassung von Anlagen, in denen Abfälle entsorgt werden"
+        }
+      ],
+      "title" : "Planungsverantwortung"
+    },
+    {
+      "documentIdentifier" : "BJNR021210012BJNG001200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR021210012BJNE004600000",
+          "paragraph" : "§ 45",
+          "title" : "Pflichten der öffentlichen Hand"
+        },
+        {
+          "documentIdentifier" : "BJNR021210012BJNE004700000",
+          "paragraph" : "§ 46",
+          "title" : "Abfallberatungspflicht"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Absatzförderung und Abfallberatung"
+    },
+    {
+      "documentIdentifier" : "BJNR021210012BJNG001300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR021210012BJNE004802116",
+          "paragraph" : "§ 47",
+          "title" : "Allgemeine Überwachung"
+        },
+        {
+          "documentIdentifier" : "BJNR021210012BJNE004901000",
+          "paragraph" : "§ 48",
+          "title" : "Abfallbezeichnung, gefährliche Abfälle"
+        },
+        {
+          "documentIdentifier" : "BJNR021210012BJNE005001116",
+          "paragraph" : "§ 49",
+          "title" : "Registerpflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR021210012BJNE005100000",
+          "paragraph" : "§ 50",
+          "title" : "Nachweispflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR021210012BJNE005200000",
+          "paragraph" : "§ 51",
+          "title" : "Überwachung im Einzelfall"
+        },
+        {
+          "documentIdentifier" : "BJNR021210012BJNE005301116",
+          "paragraph" : "§ 52",
+          "title" : "Anforderungen an Nachweise und Register"
+        },
+        {
+          "documentIdentifier" : "BJNR021210012BJNE005402116",
+          "paragraph" : "§ 53",
+          "title" : "Sammler, Beförderer, Händler und Makler von Abfällen"
+        },
+        {
+          "documentIdentifier" : "BJNR021210012BJNE005501000",
+          "paragraph" : "§ 54",
+          "title" : "Sammler, Beförderer, Händler und Makler von gefährlichen Abfällen"
+        },
+        {
+          "documentIdentifier" : "BJNR021210012BJNE005601000",
+          "paragraph" : "§ 55",
+          "title" : "Kennzeichnung der Fahrzeuge"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Überwachung"
+    },
+    {
+      "documentIdentifier" : "BJNR021210012BJNG001400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR021210012BJNE005701116",
+          "paragraph" : "§ 56",
+          "title" : "Zertifizierung von Entsorgungsfachbetrieben"
+        },
+        {
+          "documentIdentifier" : "BJNR021210012BJNE005800000",
+          "paragraph" : "§ 57",
+          "title" : "Anforderungen an Entsorgungsfachbetriebe, technische Überwachungsorganisationen und Entsorgergemeinschaften"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Entsorgungsfachbetriebe"
+    },
+    {
+      "documentIdentifier" : "BJNR021210012BJNG001500000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR021210012BJNE005900000",
+          "paragraph" : "§ 58",
+          "title" : "Mitteilungspflichten zur Betriebsorganisation"
+        },
+        {
+          "documentIdentifier" : "BJNR021210012BJNE006002116",
+          "paragraph" : "§ 59",
+          "title" : "Bestellung eines Betriebsbeauftragten für Abfall"
+        },
+        {
+          "documentIdentifier" : "BJNR021210012BJNE006103116",
+          "paragraph" : "§ 60",
+          "title" : "Aufgaben des Betriebsbeauftragten für Abfall"
+        },
+        {
+          "documentIdentifier" : "BJNR021210012BJNE006201116",
+          "paragraph" : "§ 61",
+          "title" : "Anforderungen an Erleichterungen für auditierte Unternehmensstandorte"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          8
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Betriebsorganisation, Betriebsbeauftragter für Abfall und Erleichterungen für auditierte Unternehmensstandorte"
+    },
+    {
+      "documentIdentifier" : "BJNR021210012BJNG001600000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR021210012BJNE006300000",
+          "paragraph" : "§ 62",
+          "title" : "Anordnungen im Einzelfall"
+        },
+        {
+          "documentIdentifier" : "BJNR021210012BJNE006400000",
+          "paragraph" : "§ 63",
+          "title" : "Geheimhaltung und Datenschutz"
+        },
+        {
+          "documentIdentifier" : "BJNR021210012BJNE006500000",
+          "paragraph" : "§ 64",
+          "title" : "Elektronische Kommunikation"
+        },
+        {
+          "documentIdentifier" : "BJNR021210012BJNE006600000",
+          "paragraph" : "§ 65",
+          "title" : "Umsetzung von Rechtsakten der Europäischen Union"
+        },
+        {
+          "documentIdentifier" : "BJNR021210012BJNE006700000",
+          "paragraph" : "§ 66",
+          "title" : "Vollzug im Bereich der Bundeswehr"
+        },
+        {
+          "documentIdentifier" : "BJNR021210012BJNE006800000",
+          "paragraph" : "§ 67",
+          "title" : "Beteiligung des Bundestages beim Erlass von Rechtsverordnungen"
+        },
+        {
+          "documentIdentifier" : "BJNR021210012BJNE006900000",
+          "paragraph" : "§ 68",
+          "title" : "Anhörung beteiligter Kreise"
+        },
+        {
+          "documentIdentifier" : "BJNR021210012BJNE007002116",
+          "paragraph" : "§ 69",
+          "title" : "Bußgeldvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR021210012BJNE007100000",
+          "paragraph" : "§ 70",
+          "title" : "Einziehung"
+        },
+        {
+          "documentIdentifier" : "BJNR021210012BJNE007200000",
+          "paragraph" : "§ 71",
+          "title" : "Ausschluss abweichenden Landesrechts"
+        },
+        {
+          "documentIdentifier" : "BJNR021210012BJNE007300000",
+          "paragraph" : "§ 72",
+          "title" : "Übergangsvorschrift"
+        },
+        {
+          "documentIdentifier" : "BJNR021210012BJNE007400000",
+          "paragraph" : "Anlage 1",
+          "title" : "Beseitigungsverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR021210012BJNE007501116",
+          "paragraph" : "Anlage 2",
+          "title" : "Verwertungsverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR021210012BJNE007601116",
+          "paragraph" : "Anlage 3",
+          "title" : "Kriterien zur Bestimmung des Standes der Technik"
+        },
+        {
+          "documentIdentifier" : "BJNR021210012BJNE007700000",
+          "paragraph" : "Anlage 4",
+          "title" : "Beispiele für Abfallvermeidungsmaßnahmen nach § 33"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          9
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussbestimmungen"
+    }
+  ]
+}

@@ -1,0 +1,419 @@
+{
+  "documentIdentifier" : "BJNR000900016",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR000900016BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR000900016BJNE000300000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich und Verordnungsgegenstand"
+        },
+        {
+          "documentIdentifier" : "BJNR000900016BJNE000400000",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR000900016BJNG000200000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR000900016BJNG000300000",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              1
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR000900016BJNG000400000",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR000900016BJNE000500000",
+                  "paragraph" : "§ 3",
+                  "title" : "Beitragspflicht"
+                },
+                {
+                  "documentIdentifier" : "BJNR000900016BJNE000600000",
+                  "paragraph" : "§ 4",
+                  "title" : "Beitragsbescheid und Zahlungsverpflichtung"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  1,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Beitragspflicht und Beitragserhebung"
+            },
+            {
+              "documentIdentifier" : "BJNR000900016BJNG000500000",
+              "laws" : [
+
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  1,
+                  2
+                ]
+              },
+              "subsections" : [
+                {
+                  "documentIdentifier" : "BJNR000900016BJNG000600000",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR000900016BJNE000700000",
+                      "paragraph" : "§ 5",
+                      "title" : "Beitragsbemessung und Zuschlag für Verwaltungskosten"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR000900016BJNE000800000",
+                      "paragraph" : "§ 6",
+                      "title" : "Jahreszielausstattung"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR000900016BJNE000900000",
+                      "paragraph" : "§ 7",
+                      "title" : "Berechnungsformel"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      2,
+                      1,
+                      2,
+                      1
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Allgemeine Vorschriften"
+                },
+                {
+                  "documentIdentifier" : "BJNR000900016BJNG000700000",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR000900016BJNE001000000",
+                      "paragraph" : "§ 8",
+                      "title" : "Bestimmung des aggregierten Risikogewichts"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR000900016BJNE001100000",
+                      "paragraph" : "§ 9",
+                      "title" : "Risikokategorien, Risikoindikatoren und Risikogewichtung"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR000900016BJNE001200000",
+                      "paragraph" : "§ 10",
+                      "title" : "Risikoeinschätzung auf der Grundlage von Ratings"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      2,
+                      1,
+                      2,
+                      2
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Bestimmung des aggregierten Risikogewichts für CRR-Kreditinstitute, die der Entschädigungseinrichtung deutscher Banken GmbH zugeordnet sind"
+                },
+                {
+                  "documentIdentifier" : "BJNR000900016BJNG000800000",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR000900016BJNE001300000",
+                      "paragraph" : "§ 11",
+                      "title" : "Bestimmung des aggregierten Risikogewichts"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR000900016BJNE001400000",
+                      "paragraph" : "§ 12",
+                      "title" : "Risikokategorien, Risikoindikatoren und Risikogewichtung"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      2,
+                      1,
+                      2,
+                      3
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Bestimmung des aggregierten Risikogewichts für CRR-Kreditinstitute, die der Entschädigungseinrichtung des Bundesverbandes Öffentlicher Banken Deutschlands GmbH zugeordnet sind"
+                }
+              ],
+              "title" : "Risikoorientierte Beitragsbemessung"
+            }
+          ],
+          "title" : "Jahresbeitrag"
+        },
+        {
+          "documentIdentifier" : "BJNR000900016BJNG000900000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR000900016BJNE001500000",
+              "paragraph" : "§ 13",
+              "title" : "Zahlungspflicht"
+            },
+            {
+              "documentIdentifier" : "BJNR000900016BJNE001600000",
+              "paragraph" : "§ 14",
+              "title" : "Bemessung und Fälligkeit"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Einmalige Zahlung"
+        },
+        {
+          "documentIdentifier" : "BJNR000900016BJNG001000000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR000900016BJNE001700000",
+              "paragraph" : "§ 15",
+              "title" : "Vorlage- und Nachweispflichten"
+            },
+            {
+              "documentIdentifier" : "BJNR000900016BJNE001800000",
+              "paragraph" : "§ 16",
+              "title" : "Vorläufige und endgültige Festsetzung"
+            },
+            {
+              "documentIdentifier" : "BJNR000900016BJNE001900000",
+              "paragraph" : "§ 17",
+              "title" : "Ausschlussfrist"
+            },
+            {
+              "documentIdentifier" : "BJNR000900016BJNE002000000",
+              "paragraph" : "§ 18",
+              "title" : "Verzugszinsen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Verfahrensregeln"
+        }
+      ],
+      "title" : "Beiträge und Zahlungen"
+    },
+    {
+      "documentIdentifier" : "BJNR000900016BJNG001100000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR000900016BJNG001200000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR000900016BJNE002100000",
+              "paragraph" : "§ 19",
+              "title" : "Gestattung der Übernahme von Zahlungsverpflichtungen"
+            },
+            {
+              "documentIdentifier" : "BJNR000900016BJNE002200000",
+              "paragraph" : "§ 20",
+              "title" : "Voraussetzungen für die Übernahme von Zahlungsverpflichtungen"
+            },
+            {
+              "documentIdentifier" : "BJNR000900016BJNE002300000",
+              "paragraph" : "§ 21",
+              "title" : "Rahmenvertrag über Zahlungsverpflichtungen"
+            },
+            {
+              "documentIdentifier" : "BJNR000900016BJNE002400000",
+              "paragraph" : "§ 22",
+              "title" : "Verträge über die Übernahme von Zahlungsverpflichtungen"
+            },
+            {
+              "documentIdentifier" : "BJNR000900016BJNE002500000",
+              "paragraph" : "§ 23",
+              "title" : "Anforderung und Fälligkeit der Zahlung"
+            },
+            {
+              "documentIdentifier" : "BJNR000900016BJNE002600000",
+              "paragraph" : "§ 24",
+              "title" : "Übertragung von Zahlungsverpflichtungen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Zahlungsverpflichtungen"
+        },
+        {
+          "documentIdentifier" : "BJNR000900016BJNG001300000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR000900016BJNE002700000",
+              "paragraph" : "§ 25",
+              "title" : "Besicherung von Zahlungsverpflichtungen"
+            },
+            {
+              "documentIdentifier" : "BJNR000900016BJNE002800000",
+              "paragraph" : "§ 26",
+              "title" : "Leistung von Finanzsicherheiten"
+            },
+            {
+              "documentIdentifier" : "BJNR000900016BJNE002900000",
+              "paragraph" : "§ 27",
+              "title" : "Rahmenvertrag über Finanzsicherheiten"
+            },
+            {
+              "documentIdentifier" : "BJNR000900016BJNE003000000",
+              "paragraph" : "§ 28",
+              "title" : "Zulässige Finanzsicherheiten"
+            },
+            {
+              "documentIdentifier" : "BJNR000900016BJNE003100000",
+              "paragraph" : "§ 29",
+              "title" : "Verwaltung von Finanzsicherheiten"
+            },
+            {
+              "documentIdentifier" : "BJNR000900016BJNE003200000",
+              "paragraph" : "§ 30",
+              "title" : "Bewertungsabschläge, Bewertung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Finanzsicherheiten"
+        },
+        {
+          "documentIdentifier" : "BJNR000900016BJNG001400000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR000900016BJNE003300000",
+              "paragraph" : "§ 31",
+              "title" : "Anzeige- und Informationspflichten"
+            },
+            {
+              "documentIdentifier" : "BJNR000900016BJNE003400000",
+              "paragraph" : "§ 32",
+              "title" : "Zuordnung zu einer anderen Entschädigungseinrichtung, Ausscheiden aus der Entschädigungseinrichtung"
+            },
+            {
+              "documentIdentifier" : "BJNR000900016BJNE003500000",
+              "paragraph" : "§ 33",
+              "title" : "Verwertung und Freigabe von Finanzsicherheiten"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Anzeigepflicht, Ausscheiden und Verwertung"
+        }
+      ],
+      "title" : "Zahlungsverpflichtungen und Finanzsicherheiten"
+    },
+    {
+      "documentIdentifier" : "BJNR000900016BJNG001500000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR000900016BJNE003600000",
+          "paragraph" : "§ 34",
+          "title" : "Übergangsvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR000900016BJNE003700000",
+          "paragraph" : "§ 35",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR000900016BJNE003800000",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 8 Absatz 1 und § 9)"
+        },
+        {
+          "documentIdentifier" : "BJNR000900016BJNE003900000",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 11 Absatz 1 und § 12)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übergangs- und Schlussbestimmungen"
+    }
+  ]
+}

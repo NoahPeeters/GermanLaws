@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR069100004",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR069100004Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR069100004BJNE000201116",
+          "paragraph" : "§ 1",
+          "title" : "Geltungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR069100004BJNE000301116",
+          "paragraph" : "§ 2",
+          "title" : "Vorschusszahlung"
+        },
+        {
+          "documentIdentifier" : "BJNR069100004BJNE000401116",
+          "paragraph" : "§ 3",
+          "title" : "Höhe der Gebühren"
+        },
+        {
+          "documentIdentifier" : "BJNR069100004BJNE000501116",
+          "paragraph" : "§ 4",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR069100004BJNE000701116",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 3)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

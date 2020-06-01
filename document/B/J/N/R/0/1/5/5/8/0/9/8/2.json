@@ -1,0 +1,59 @@
+{
+  "documentIdentifier" : "BJNR015580982",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR015580982Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR015580982BJNE000101123",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR015580982BJNE000202124",
+          "paragraph" : "§ 2",
+          "title" : "Räumliche Begrenzung"
+        },
+        {
+          "documentIdentifier" : "BJNR015580982BJNE000302124",
+          "paragraph" : "§ 3",
+          "title" : "Andere Art der Festlegung des Einwirkungsbereichs"
+        },
+        {
+          "documentIdentifier" : "BJNR015580982BJNE000402124",
+          "paragraph" : "§ 4",
+          "title" : "Zeitliche Begrenzung"
+        },
+        {
+          "documentIdentifier" : "BJNR015580982BJNE000502124",
+          "paragraph" : "§ 5",
+          "title" : "Erweiterter Einwirkungsbereich für besondere Anlagen und Einrichtungen"
+        },
+        {
+          "documentIdentifier" : "BJNR015580982BJNE000601124",
+          "paragraph" : "§ 6",
+          "title" : "Erneute Ermittlung des Einwirkungsbereichs"
+        },
+        {
+          "documentIdentifier" : "BJNR015580982BJNE000702124",
+          "paragraph" : "§ 7",
+          "title" : "Zeichnerische Darstellungen zum Betriebsplan"
+        },
+        {
+          "documentIdentifier" : "BJNR015580982BJNE000801123",
+          "paragraph" : "Anlage",
+          "title" : "Liste der Einwirkungswinkel nach § 2 Absatz 1"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR014790977",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR014790977Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR014790977BJNE001303310",
+          "paragraph" : "§ 7",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR014790977BJNE000902310",
+          "paragraph" : "§ 8",
+          "title" : "(Inkrafttreten)"
+        },
+        {
+          "documentIdentifier" : "BJNR014790977BJNE001008310",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu den §§ 1, 3 und 4)"
+        },
+        {
+          "documentIdentifier" : "BJNR014790977BJNE001107310",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu den §§ 2 und 3)"
+        },
+        {
+          "documentIdentifier" : "BJNR014790977BJNE001403310",
+          "paragraph" : "Anlage 3",
+          "title" : "(zu den §§ 2 und 3 Abs. 1)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

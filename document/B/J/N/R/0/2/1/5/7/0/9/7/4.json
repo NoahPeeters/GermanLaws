@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR021570974",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR021570974Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR021570974BJNE000202116",
+          "paragraph" : "§ 1",
+          "title" : "Ausbildungsstätten"
+        },
+        {
+          "documentIdentifier" : "BJNR021570974BJNE000300327",
+          "paragraph" : "§ 2",
+          "title" : "Förderungsrechtliche Stellung der Auszubildenden"
+        },
+        {
+          "documentIdentifier" : "BJNR021570974BJNE000501320",
+          "paragraph" : "§ 3",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

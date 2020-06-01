@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR200010929",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR200010929Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR200010929BJNE000300308",
+          "paragraph" : "Anlage 1",
+          "title" : "Nachtrag zum Zusatzvertrag mit Preußen"
+        },
+        {
+          "documentIdentifier" : "BJNR200010929BJNE000400308",
+          "paragraph" : "Anlage 2",
+          "title" : "Nachtrag zum Zusatzvertrag mit Hamburg"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

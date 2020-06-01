@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR006850975",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR006850975Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR006850975BJNE000300311",
+          "paragraph" : "(XXXX) Art 1 bis 28",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR006850975BJNE000400311",
+          "paragraph" : "Art 29",
+          "title" : "Rechtsverordnungsermächtigung"
+        },
+        {
+          "documentIdentifier" : "BJNR006850975BJNE000500311",
+          "paragraph" : "Art 30",
+          "title" : "Berlin-Klausel"
+        },
+        {
+          "documentIdentifier" : "BJNR006850975BJNE000600311",
+          "paragraph" : "Art 31",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR006850975BJNE000700311",
+          "paragraph" : "Anlage",
+          "title" : "(zu Artikel 29)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

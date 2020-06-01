@@ -1,0 +1,145 @@
+{
+  "documentIdentifier" : "BJNR219200993",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR219200993BJNG000100303",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR219200993BJNE000600303",
+          "paragraph" : "§ 1",
+          "title" : "Umstellung wertbeständiger Rechte"
+        },
+        {
+          "documentIdentifier" : "BJNR219200993BJNE000700303",
+          "paragraph" : "§ 2",
+          "title" : "Umgestellte wertbeständige Rechte"
+        },
+        {
+          "documentIdentifier" : "BJNR219200993BJNE000801311",
+          "paragraph" : "§ 3",
+          "title" : "Umstellung anderer wertbeständiger Rechte"
+        },
+        {
+          "documentIdentifier" : "BJNR219200993BJNE000900303",
+          "paragraph" : "§ 4",
+          "title" : "Grundbuchvollzug"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Behandlung wertbeständiger und ähnlicher Rechte"
+    },
+    {
+      "documentIdentifier" : "BJNR219200993BJNG000200303",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR219200993BJNE001002310",
+          "paragraph" : "§ 5",
+          "title" : "Erlöschen von Dienstbarkeiten und vergleichbaren Rechten"
+        },
+        {
+          "documentIdentifier" : "BJNR219200993BJNE001105160",
+          "paragraph" : "§ 6",
+          "title" : "Berechtigte unbekannten Aufenthalts, nicht mehr bestehende Berechtigte"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Überholte Dienstbarkeiten und vergleichbare Rechte"
+    },
+    {
+      "documentIdentifier" : "BJNR219200993BJNG000300303",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR219200993BJNE001302311",
+          "paragraph" : "§ 8",
+          "title" : "Nicht eingetragene Rechte"
+        },
+        {
+          "documentIdentifier" : "BJNR219200993BJNE001406311",
+          "paragraph" : "§ 9",
+          "title" : "Leitungen und Anlagen für die Versorgung mit Energie und Wasser sowie die Beseitigung von Abwasser"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Nicht eingetragene dingliche Rechte"
+    },
+    {
+      "documentIdentifier" : "BJNR219200993BJNG000400303",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR219200993BJNE001502311",
+          "paragraph" : "§ 10",
+          "title" : "Ablöserecht"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Ablösung von Grundpfandrechten"
+    },
+    {
+      "documentIdentifier" : "BJNR219200993BJNG000500303",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR219200993BJNE001600303",
+          "paragraph" : "§ 11",
+          "title" : "Ausnahmen von der Voreintragung des Berechtigten"
+        },
+        {
+          "documentIdentifier" : "BJNR219200993BJNE001700303",
+          "paragraph" : "§ 12",
+          "title" : "Nachweis der Rechtsnachfolge bei Genossenschaften"
+        },
+        {
+          "documentIdentifier" : "BJNR219200993BJNE001801307",
+          "paragraph" : "§ 13",
+          "title" : "Dingliche Rechte im Flurneuordnungsverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR219200993BJNE001901307",
+          "paragraph" : "§ 14",
+          "title" : "Gemeinschaftliches Eigentum von Ehegatten"
+        },
+        {
+          "documentIdentifier" : "BJNR219200993BJNE002003160",
+          "paragraph" : "§ 15",
+          "title" : "Aufgebotsverfahren nach § 10 Abs. 1 Satz 1 Nr. 7 des Entschädigungsgesetzes"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Sonstige Erleichterungen"
+    }
+  ]
+}

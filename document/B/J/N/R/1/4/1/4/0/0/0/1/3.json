@@ -1,0 +1,159 @@
+{
+  "documentIdentifier" : "BJNR141400013",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR141400013BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR141400013BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Inhalt der Datensätze"
+        },
+        {
+          "documentIdentifier" : "BJNR141400013BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Visa-Warndateinummer"
+        },
+        {
+          "documentIdentifier" : "BJNR141400013BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Berichtigung eines Datensatzes"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt der Datei"
+    },
+    {
+      "documentIdentifier" : "BJNR141400013BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR141400013BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Allgemeine Regelungen der Datenübermittlung an das Bundesverwaltungsamt"
+        },
+        {
+          "documentIdentifier" : "BJNR141400013BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Verfahren der Datenübermittlung an das Bundesverwaltungsamt"
+        },
+        {
+          "documentIdentifier" : "BJNR141400013BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Speicherung mit Einwilligung einer Person"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Datenübermittlung an das Bundesverwaltungsamt"
+    },
+    {
+      "documentIdentifier" : "BJNR141400013BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR141400013BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Übermittlungsersuchen"
+        },
+        {
+          "documentIdentifier" : "BJNR141400013BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Allgemeine Regelungen der Datenübermittlung durch das Bundesverwaltungsamt"
+        },
+        {
+          "documentIdentifier" : "BJNR141400013BJNE001000000",
+          "paragraph" : "§ 9",
+          "title" : "Zulassung zum Abruf von Daten im automatisierten Verfahren"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Datenübermittlung durch das Bundesverwaltungsamt"
+    },
+    {
+      "documentIdentifier" : "BJNR141400013BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR141400013BJNE001100000",
+          "paragraph" : "§ 10",
+          "title" : "Voraussetzungen und Verfahren der Auskunftserteilung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Auskunft an die betroffene Person"
+    },
+    {
+      "documentIdentifier" : "BJNR141400013BJNG000500000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR141400013BJNE001200000",
+          "paragraph" : "§ 11",
+          "title" : "Protokollierung bei Datenübermittlungen"
+        },
+        {
+          "documentIdentifier" : "BJNR141400013BJNE001300000",
+          "paragraph" : "§ 12",
+          "title" : "Sperrung von Daten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Protokollierung bei Datenübermittlungen, Sperrung und Löschung von Daten"
+    },
+    {
+      "documentIdentifier" : "BJNR141400013BJNG000600000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR141400013BJNE001400000",
+          "paragraph" : "§ 13",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR141400013BJNE001602116",
+          "paragraph" : "Anlage",
+          "title" : "Daten, die in der Datei gespeichert werden, übermittelnde Stellen, Übermittlungsempfänger"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inkrafttreten"
+    }
+  ]
+}

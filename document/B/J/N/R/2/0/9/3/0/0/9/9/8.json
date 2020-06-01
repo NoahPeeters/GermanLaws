@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR209300998",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR209300998Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR209300998BJNE000300311",
+          "paragraph" : "Art 6",
+          "title" : "Übergangsvorschrift zu Artikel 5"
+        },
+        {
+          "documentIdentifier" : "BJNR209300998BJNE000400311",
+          "paragraph" : "Art 7",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

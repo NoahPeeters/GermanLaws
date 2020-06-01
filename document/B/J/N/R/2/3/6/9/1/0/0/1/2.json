@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR236910012",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR236910012Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR236910012BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Wahrung der Finanzstabilität"
+        },
+        {
+          "documentIdentifier" : "BJNR236910012BJNE000902124",
+          "paragraph" : "§ 2",
+          "title" : "Ausschuss für Finanzstabilität"
+        },
+        {
+          "documentIdentifier" : "BJNR236910012BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Warnungen und Empfehlungen"
+        },
+        {
+          "documentIdentifier" : "BJNR236910012BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Zusammenarbeit mit dem Europäischen Ausschuss für Systemrisiken"
+        },
+        {
+          "documentIdentifier" : "BJNR236910012BJNE000604124",
+          "paragraph" : "§ 5",
+          "title" : "Zusammenarbeit der Deutschen Bundesbank mit der Bundesanstalt"
+        },
+        {
+          "documentIdentifier" : "BJNR236910012BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Mitteilungspflichten; Verordnungsermächtigung"
+        },
+        {
+          "documentIdentifier" : "BJNR236910012BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Verschwiegenheitspflicht"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

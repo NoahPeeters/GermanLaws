@@ -1,0 +1,580 @@
+{
+  "documentIdentifier" : "BJNR181700002",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR181700002BJNG000302305",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR181700002BJNE000104305",
+          "paragraph" : "§ 1",
+          "title" : "Zielsetzung und Geltungsbereich des Gesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR181700002BJNE003801305",
+          "paragraph" : "§ 1a",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR181700002BJNE000202305",
+          "paragraph" : "§ 2",
+          "title" : "Seefahrtbezogene internationale Untersuchungsregelungen"
+        },
+        {
+          "documentIdentifier" : "BJNR181700002BJNE000302305",
+          "paragraph" : "§ 3",
+          "title" : "Behördliche Aufgaben auf Grund von Rechtsakten der Europäischen Gemeinschaften"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Anwendungsbereich"
+    },
+    {
+      "documentIdentifier" : "BJNR181700002BJNG000401305",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR181700002BJNE000402305",
+          "paragraph" : "§ 4",
+          "title" : "Sachlicher Geltungsbereich des Abschnitts 2"
+        },
+        {
+          "documentIdentifier" : "BJNR181700002BJNE000502305",
+          "paragraph" : "§ 5",
+          "title" : "Organisatorische Maßnahmen für Untersuchungen"
+        },
+        {
+          "documentIdentifier" : "BJNR181700002BJNE000602305",
+          "paragraph" : "§ 6",
+          "title" : "Anpassung betrieblicher Sicherheitskonzepte"
+        },
+        {
+          "documentIdentifier" : "BJNR181700002BJNE000702305",
+          "paragraph" : "§ 7",
+          "title" : "Verbesserung der Vorschriften von Klassifikationsgesellschaften"
+        },
+        {
+          "documentIdentifier" : "BJNR181700002BJNE000802305",
+          "paragraph" : "§ 8",
+          "title" : "Unterrichtung von Klassifikationsgesellschaften"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Untersuchungen bei der Sicherheitsvorsorge durch verantwortliche Personen"
+    },
+    {
+      "documentIdentifier" : "BJNR181700002BJNG000501305",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR181700002BJNG000601305",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR181700002BJNE000903126",
+              "paragraph" : "§ 9",
+              "title" : "Zielsetzung und sachlicher Geltungsbereich des Abschnitts 3"
+            },
+            {
+              "documentIdentifier" : "BJNR181700002BJNE001002305",
+              "paragraph" : "§ 10",
+              "title" : "Internationale Untersuchungsregelungen im Sinne des Abschnitts 3"
+            },
+            {
+              "documentIdentifier" : "BJNR181700002BJNE001102305",
+              "paragraph" : "§ 11",
+              "title" : "Entscheidung über die Durchführung der Sicherheitsuntersuchung nach Abschnitt 3"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Grundsätze"
+        },
+        {
+          "documentIdentifier" : "BJNR181700002BJNG000701305",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR181700002BJNE001205305",
+              "paragraph" : "§ 12",
+              "title" : "Bundesstelle für Seeunfalluntersuchung"
+            },
+            {
+              "documentIdentifier" : "BJNR181700002BJNE001305119",
+              "paragraph" : "§ 13",
+              "title" : "Verwaltungs- und Amtshilfe"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Organisation"
+        },
+        {
+          "documentIdentifier" : "BJNR181700002BJNG000802305",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR181700002BJNE001402305",
+              "paragraph" : "§ 14",
+              "title" : "Unterrichtung ausländischer Staaten und der Internationalen Seeschifffahrts-Organisation (IMO)"
+            },
+            {
+              "documentIdentifier" : "BJNR181700002BJNE001502305",
+              "paragraph" : "§ 15",
+              "title" : "(weggefallen)"
+            },
+            {
+              "documentIdentifier" : "BJNR181700002BJNE001602305",
+              "paragraph" : "§ 16",
+              "title" : "Benennung des für die Sicherheitsuntersuchung federführenden Staates"
+            },
+            {
+              "documentIdentifier" : "BJNR181700002BJNE001704126",
+              "paragraph" : "§ 17",
+              "title" : "Teilnahme an Sicherheitsuntersuchungen anderer Staaten"
+            },
+            {
+              "documentIdentifier" : "BJNR181700002BJNE001802305",
+              "paragraph" : "§ 18",
+              "title" : "Hilfeleistungen im Rahmen der Zusammenarbeit"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Zusammenarbeit mit anderen Staaten"
+        },
+        {
+          "documentIdentifier" : "BJNR181700002BJNG001801305",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR181700002BJNE003901305",
+              "paragraph" : "§ 19",
+              "title" : "Untersuchungsstatus"
+            },
+            {
+              "documentIdentifier" : "BJNR181700002BJNE004001305",
+              "paragraph" : "§ 20",
+              "title" : "Untersuchungsverfahren"
+            },
+            {
+              "documentIdentifier" : "BJNR181700002BJNE004101305",
+              "paragraph" : "§ 21",
+              "title" : "Einleitung der Sicherheitsuntersuchung"
+            },
+            {
+              "documentIdentifier" : "BJNR181700002BJNE004203126",
+              "paragraph" : "§ 22",
+              "title" : "Untersuchungsbefugnisse"
+            },
+            {
+              "documentIdentifier" : "BJNR181700002BJNE004301305",
+              "paragraph" : "§ 23",
+              "title" : "Unfallort"
+            },
+            {
+              "documentIdentifier" : "BJNR181700002BJNE004401305",
+              "paragraph" : "§ 24",
+              "title" : "Teilnehmer am Untersuchungsverfahren"
+            },
+            {
+              "documentIdentifier" : "BJNR181700002BJNE004502305",
+              "paragraph" : "§ 25",
+              "title" : "Besorgnis der Befangenheit"
+            },
+            {
+              "documentIdentifier" : "BJNR181700002BJNE004601305",
+              "paragraph" : "§ 26",
+              "title" : "Nachweismittel"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Durchführung der Sicherheitsuntersuchung"
+        },
+        {
+          "documentIdentifier" : "BJNR181700002BJNG001901305",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR181700002BJNE004701305",
+              "paragraph" : "§ 27",
+              "title" : "Untersuchungsbericht"
+            },
+            {
+              "documentIdentifier" : "BJNR181700002BJNE004802305",
+              "paragraph" : "§ 28",
+              "title" : "Veröffentlichung des Untersuchungsberichts"
+            },
+            {
+              "documentIdentifier" : "BJNR181700002BJNE004901305",
+              "paragraph" : "§ 29",
+              "title" : "Sicherheitsempfehlungen"
+            },
+            {
+              "documentIdentifier" : "BJNR181700002BJNE005001305",
+              "paragraph" : "§ 30",
+              "title" : "Ausländische Untersuchungsberichte"
+            },
+            {
+              "documentIdentifier" : "BJNR181700002BJNE005101305",
+              "paragraph" : "§ 31",
+              "title" : "Wiederaufnahme eines Untersuchungsverfahrens"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              5
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Untersuchungsberichte und ihre Bekanntgabe"
+        },
+        {
+          "documentIdentifier" : "BJNR181700002BJNG002001305",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR181700002BJNE005201305",
+              "paragraph" : "§ 32",
+              "title" : "Zuständigkeit"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              6
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Untersuchungskammer"
+        },
+        {
+          "documentIdentifier" : "BJNR181700002BJNG002101305",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR181700002BJNE005302126",
+              "paragraph" : "§ 33",
+              "title" : "Verarbeitung"
+            },
+            {
+              "documentIdentifier" : "BJNR181700002BJNE005401305",
+              "paragraph" : "§ 34",
+              "title" : "Vertraulichkeit"
+            },
+            {
+              "documentIdentifier" : "BJNR181700002BJNE005502126",
+              "paragraph" : "§ 35",
+              "title" : "Übermittlung an öffentliche Stellen"
+            },
+            {
+              "documentIdentifier" : "BJNR181700002BJNE005603126",
+              "paragraph" : "§ 36",
+              "title" : "Aufbewahrungs- und Löschungsfristen"
+            },
+            {
+              "documentIdentifier" : "BJNR181700002BJNE005701305",
+              "paragraph" : "§ 37",
+              "title" : "Arbeit zur Verbesserung der Sicherheit im Seeverkehr"
+            },
+            {
+              "documentIdentifier" : "BJNR181700002BJNE005801305",
+              "paragraph" : "§ 38",
+              "title" : "Beteiligung am Such- und Rettungsdienst"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              7
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Allgemeine Vorschriften"
+        }
+      ],
+      "title" : "Amtliche Untersuchungen zur Sicherheitskultur des internationalen und nationalen Seesicherheitssystems"
+    },
+    {
+      "documentIdentifier" : "BJNR181700002BJNG000902305",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR181700002BJNG001002305",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR181700002BJNE002002305",
+              "paragraph" : "§ 39",
+              "title" : "Sachlicher Geltungsbereich des Abschnitts 4, Verwaltungsverfahren"
+            },
+            {
+              "documentIdentifier" : "BJNR181700002BJNE002102305",
+              "paragraph" : "§ 40",
+              "title" : "Internationale Untersuchungsregelungen im Sinne des Abschnitts 4"
+            },
+            {
+              "documentIdentifier" : "BJNR181700002BJNE002205119",
+              "paragraph" : "§ 41",
+              "title" : "Öffentliches Untersuchungsinteresse"
+            },
+            {
+              "documentIdentifier" : "BJNR181700002BJNE002303119",
+              "paragraph" : "§ 42",
+              "title" : "Pflicht zur Durchführung oder Einstellung der Untersuchung nach Abschnitt 4"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Grundsätze, Vorprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR181700002BJNG001102305",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR181700002BJNE002405119",
+              "paragraph" : "§ 43",
+              "title" : "Zuständigkeit der Seeämter"
+            },
+            {
+              "documentIdentifier" : "BJNR181700002BJNE002502305",
+              "paragraph" : "§ 44",
+              "title" : "Besetzung der Seeämter"
+            },
+            {
+              "documentIdentifier" : "BJNR181700002BJNE002605119",
+              "paragraph" : "§ 45",
+              "title" : "Ehrenamtliche Beisitzer"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Organe der seeamtlichen Untersuchung"
+        },
+        {
+          "documentIdentifier" : "BJNR181700002BJNG001202305",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR181700002BJNE002702305",
+              "paragraph" : "§ 46",
+              "title" : "Beweisaufnahme"
+            },
+            {
+              "documentIdentifier" : "BJNR181700002BJNE002802305",
+              "paragraph" : "§ 47",
+              "title" : "Auskunfts-, Herausgabe- und Aufbewahrungspflichten"
+            },
+            {
+              "documentIdentifier" : "BJNR181700002BJNE002902305",
+              "paragraph" : "§ 48",
+              "title" : "Mündliche Verhandlung"
+            },
+            {
+              "documentIdentifier" : "BJNR181700002BJNE003003119",
+              "paragraph" : "§ 49",
+              "title" : "Spruch des Seeamtes"
+            },
+            {
+              "documentIdentifier" : "BJNR181700002BJNE003102305",
+              "paragraph" : "§ 50",
+              "title" : "Entzug und Beschränkung der Ausübung von Berechtigungen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Seeamtsverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR181700002BJNG001303305",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR181700002BJNE003207123",
+              "paragraph" : "§ 51",
+              "title" : "Gebühren und Auslagen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Gebühren und Auslagen"
+        },
+        {
+          "documentIdentifier" : "BJNR181700002BJNG001402305",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR181700002BJNE003303119",
+              "paragraph" : "§ 52",
+              "title" : "Widerspruchsverfahren"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4,
+              5
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Rechtsbehelfe"
+        }
+      ],
+      "title" : "Normvollzug gegenüber einzelnen an Bord verantwortlichen Personen im Verwaltungsverfahren"
+    },
+    {
+      "documentIdentifier" : "BJNR181700002BJNG001502305",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR181700002BJNG001602305",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR181700002BJNE003403119",
+              "paragraph" : "§ 53",
+              "title" : "Bußgeldvorschriften"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              5,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Bußgeldvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR181700002BJNG001702305",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR181700002BJNE003502305",
+              "paragraph" : "§ 54",
+              "title" : "Vollzugsvereinbarungen zwischen Bund und Küstenländern"
+            },
+            {
+              "documentIdentifier" : "BJNR181700002BJNE003602305",
+              "paragraph" : "§ 55",
+              "title" : "Einschränkung von Grundrechten"
+            },
+            {
+              "documentIdentifier" : "BJNR181700002BJNE005902305",
+              "paragraph" : "§ 56",
+              "title" : "Verordnungsermächtigung"
+            },
+            {
+              "documentIdentifier" : "BJNR181700002BJNE006001305",
+              "paragraph" : "§ 57",
+              "title" : "Übergangsregelung"
+            },
+            {
+              "documentIdentifier" : "BJNR181700002BJNE003703140",
+              "paragraph" : "Anlage",
+              "title" : "(zu den §§ 2, 3, 10, 20 Absatz 4, §§ 40 und 41 Absatz 2)"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              5,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Schlussvorschriften"
+        }
+      ],
+      "title" : "Bußgeld-, Schluss- und Übergangsvorschriften"
+    }
+  ]
+}

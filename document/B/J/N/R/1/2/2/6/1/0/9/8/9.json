@@ -1,0 +1,4140 @@
+{
+  "documentIdentifier" : "BJNR122610989",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR122610989BJNG000101308",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR122610989BJNG000201308",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR122610989BJNE010416126",
+              "paragraph" : "§ 1",
+              "title" : "Beschäftigte"
+            },
+            {
+              "documentIdentifier" : "BJNR122610989BJNE010517308",
+              "paragraph" : "§ 2",
+              "title" : "Selbständig Tätige"
+            },
+            {
+              "documentIdentifier" : "BJNR122610989BJNE010627126",
+              "paragraph" : "§ 3",
+              "title" : "Sonstige Versicherte"
+            },
+            {
+              "documentIdentifier" : "BJNR122610989BJNE010710119",
+              "paragraph" : "§ 4",
+              "title" : "Versicherungspflicht auf Antrag"
+            },
+            {
+              "documentIdentifier" : "BJNR122610989BJNE010821119",
+              "paragraph" : "§ 5",
+              "title" : "Versicherungsfreiheit"
+            },
+            {
+              "documentIdentifier" : "BJNR122610989BJNE010915308",
+              "paragraph" : "§ 6",
+              "title" : "Befreiung von der Versicherungspflicht"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Versicherung kraft Gesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR122610989BJNG000301308",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR122610989BJNE011005119",
+              "paragraph" : "§ 7",
+              "title" : "Freiwillige Versicherung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Freiwillige Versicherung"
+        },
+        {
+          "documentIdentifier" : "BJNR122610989BJNG000403308",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR122610989BJNE011103308",
+              "paragraph" : "§ 8",
+              "title" : "Nachversicherung, Versorgungsausgleich und Rentensplitting"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Nachversicherung, Versorgungsausgleich und Rentensplitting"
+        }
+      ],
+      "title" : "Versicherter Personenkreis"
+    },
+    {
+      "documentIdentifier" : "BJNR122610989BJNG000501308",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR122610989BJNG000602308",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              1
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR122610989BJNG000701308",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE011203119",
+                  "paragraph" : "§ 9",
+                  "title" : "Aufgabe der Leistungen zur Teilhabe"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE011306119",
+                  "paragraph" : "§ 10",
+                  "title" : "Persönliche Voraussetzungen"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE011408119",
+                  "paragraph" : "§ 11",
+                  "title" : "Versicherungsrechtliche Voraussetzungen"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE011504308",
+                  "paragraph" : "§ 12",
+                  "title" : "Ausschluss von Leistungen"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  1,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Voraussetzungen für die Leistungen"
+            },
+            {
+              "documentIdentifier" : "BJNR122610989BJNG000802308",
+              "laws" : [
+
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  1,
+                  2
+                ]
+              },
+              "subsections" : [
+                {
+                  "documentIdentifier" : "BJNR122610989BJNG000902308",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE011607119",
+                      "paragraph" : "§ 13",
+                      "title" : "Leistungsumfang"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE011704119",
+                      "paragraph" : "§ 14",
+                      "title" : "Leistungen zur Prävention"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      2,
+                      1,
+                      2,
+                      1
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Allgemeines"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNG001003119",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE011805119",
+                      "paragraph" : "§ 15",
+                      "title" : "Leistungen zur medizinischen Rehabilitation"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE063900119",
+                      "paragraph" : "§ 15a",
+                      "title" : "Leistungen zur Kinderrehabilitation"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE011905126",
+                      "paragraph" : "§ 16",
+                      "title" : "Leistungen zur Teilhabe am Arbeitsleben"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE064000119",
+                      "paragraph" : "§ 17",
+                      "title" : "Leistungen zur Nachsorge"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE012004119",
+                      "paragraph" : "(XXXX) §§ 18 und 19",
+                      "title" : "(weggefallen)"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      2,
+                      1,
+                      2,
+                      2
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Leistungen zur Prävention, zur medizinischen Rehabilitation, zur Teilhabe am Arbeitsleben und zur Nachsorge"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNG001101308",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE012317119",
+                      "paragraph" : "§ 20",
+                      "title" : "Anspruch"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE012413119",
+                      "paragraph" : "§ 21",
+                      "title" : "Höhe und Berechnung"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE012502308",
+                      "paragraph" : "(XXXX) §§ 22 bis 27",
+                      "title" : "(weggefallen)"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      2,
+                      1,
+                      2,
+                      3
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Übergangsgeld"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNG001201308",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE013104119",
+                      "paragraph" : "§ 28",
+                      "title" : "Ergänzende Leistungen"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      2,
+                      1,
+                      2,
+                      4
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Ergänzende Leistungen"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNG001301308",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE013410119",
+                      "paragraph" : "§ 31",
+                      "title" : "Sonstige Leistungen"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      2,
+                      1,
+                      2,
+                      5
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Sonstige Leistungen"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNG001402308",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE013509119",
+                      "paragraph" : "§ 32",
+                      "title" : "Zuzahlung bei Leistungen zur medizinischen Rehabilitation und bei sonstigen Leistungen"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      2,
+                      1,
+                      2,
+                      6
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Zuzahlung bei Leistungen zur medizinischen Rehabilitation und bei sonstigen Leistungen"
+                }
+              ],
+              "title" : "Umfang der Leistungen"
+            }
+          ],
+          "title" : "Leistungen zur Teilhabe"
+        },
+        {
+          "documentIdentifier" : "BJNR122610989BJNG001501308",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              2
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR122610989BJNG001601308",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE013616119",
+                  "paragraph" : "§ 33",
+                  "title" : "Rentenarten"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE013716119",
+                  "paragraph" : "§ 34",
+                  "title" : "Voraussetzungen für einen Rentenanspruch und Hinzuverdienstgrenze"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  2,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Rentenarten und Voraussetzungen für einen Rentenanspruch"
+            },
+            {
+              "documentIdentifier" : "BJNR122610989BJNG001701308",
+              "laws" : [
+
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  2,
+                  2
+                ]
+              },
+              "subsections" : [
+                {
+                  "documentIdentifier" : "BJNR122610989BJNG001801308",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE013802301",
+                      "paragraph" : "§ 35",
+                      "title" : "Regelaltersrente"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE013903301",
+                      "paragraph" : "§ 36",
+                      "title" : "Altersrente für langjährig Versicherte"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE014006301",
+                      "paragraph" : "§ 37",
+                      "title" : "Altersrente für schwerbehinderte Menschen"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE053300301",
+                      "paragraph" : "§ 38",
+                      "title" : "Altersrente für besonders langjährig Versicherte"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE014105301",
+                      "paragraph" : "§ 39",
+                      "title" : "(weggefallen)"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE014302301",
+                      "paragraph" : "§ 40",
+                      "title" : "Altersrente für langjährig unter Tage beschäftigte Bergleute"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE014409360",
+                      "paragraph" : "§ 41",
+                      "title" : "Altersrente und Kündigungsschutz"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE014502119",
+                      "paragraph" : "§ 42",
+                      "title" : "Vollrente und Teilrente"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      2,
+                      2,
+                      2,
+                      1
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Renten wegen Alters"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNG001901308",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE014611301",
+                      "paragraph" : "§ 43",
+                      "title" : "Rente wegen Erwerbsminderung"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE014805301",
+                      "paragraph" : "§ 45",
+                      "title" : "Rente für Bergleute"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      2,
+                      2,
+                      2,
+                      2
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Renten wegen verminderter Erwerbsfähigkeit"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNG002001308",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE014907301",
+                      "paragraph" : "§ 46",
+                      "title" : "Witwenrente und Witwerrente"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE015004301",
+                      "paragraph" : "§ 47",
+                      "title" : "Erziehungsrente"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE015106119",
+                      "paragraph" : "§ 48",
+                      "title" : "Waisenrente"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE015202119",
+                      "paragraph" : "§ 49",
+                      "title" : "Renten wegen Todes bei Verschollenheit"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      2,
+                      2,
+                      2,
+                      3
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Renten wegen Todes"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNG002101308",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE015309301",
+                      "paragraph" : "§ 50",
+                      "title" : "Wartezeiten"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE015409360",
+                      "paragraph" : "§ 51",
+                      "title" : "Anrechenbare Zeiten"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE015509119",
+                      "paragraph" : "§ 52",
+                      "title" : "Wartezeiterfüllung durch Versorgungsausgleich, Rentensplitting und Zuschläge an Entgeltpunkten für Arbeitsentgelt aus geringfügiger Beschäftigung"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE015609308",
+                      "paragraph" : "§ 53",
+                      "title" : "Vorzeitige Wartezeiterfüllung"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      2,
+                      2,
+                      2,
+                      4
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Wartezeiterfüllung"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNG002201308",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE015703308",
+                      "paragraph" : "§ 54",
+                      "title" : "Begriffsbestimmungen"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE015803308",
+                      "paragraph" : "§ 55",
+                      "title" : "Beitragszeiten"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE015908126",
+                      "paragraph" : "§ 56",
+                      "title" : "Kindererziehungszeiten"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE016003308",
+                      "paragraph" : "§ 57",
+                      "title" : "Berücksichtigungszeiten"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE016125119",
+                      "paragraph" : "§ 58",
+                      "title" : "Anrechnungszeiten"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE016207126",
+                      "paragraph" : "§ 59",
+                      "title" : "Zurechnungszeit"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE016302308",
+                      "paragraph" : "§ 60",
+                      "title" : "Zuordnung beitragsfreier Zeiten zur\nknappschaftlichen Rentenversicherung"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE016402308",
+                      "paragraph" : "§ 61",
+                      "title" : "Ständige Arbeiten unter Tage"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE016501308",
+                      "paragraph" : "§ 62",
+                      "title" : "Schadenersatz bei rentenrechtlichen Zeiten"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      2,
+                      2,
+                      2,
+                      5
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Rentenrechtliche Zeiten"
+                }
+              ],
+              "title" : "Anspruchsvoraussetzungen für einzelne Renten"
+            },
+            {
+              "documentIdentifier" : "BJNR122610989BJNG002301308",
+              "laws" : [
+
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  2,
+                  3
+                ]
+              },
+              "subsections" : [
+                {
+                  "documentIdentifier" : "BJNR122610989BJNG002401308",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE016607308",
+                      "paragraph" : "§ 63",
+                      "title" : "Grundsätze"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      2,
+                      2,
+                      3,
+                      1
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Grundsätze"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNG002501308",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE016701308",
+                      "paragraph" : "§ 64",
+                      "title" : "Rentenformel für Monatsbetrag der Rente"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE016801308",
+                      "paragraph" : "§ 65",
+                      "title" : "Anpassung der Renten"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE016920119",
+                      "paragraph" : "§ 66",
+                      "title" : "Persönliche Entgeltpunkte"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE017005308",
+                      "paragraph" : "§ 67",
+                      "title" : "Rentenartfaktor"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE017112126",
+                      "paragraph" : "§ 68",
+                      "title" : "Aktueller Rentenwert"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE053403308",
+                      "paragraph" : "§ 68a",
+                      "title" : "Schutzklausel"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE017306308",
+                      "paragraph" : "§ 69",
+                      "title" : "Verordnungsermächtigung"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      2,
+                      2,
+                      3,
+                      2
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Berechnung und Anpassung der Renten"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNG002601308",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE017411126",
+                      "paragraph" : "§ 70",
+                      "title" : "Entgeltpunkte für Beitragszeiten"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE017510308",
+                      "paragraph" : "§ 71",
+                      "title" : "Entgeltpunkte für beitragsfreie und beitragsgeminderte\nZeiten (Gesamtleistungsbewertung)"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE017607308",
+                      "paragraph" : "§ 72",
+                      "title" : "Grundbewertung"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE017702360",
+                      "paragraph" : "§ 73",
+                      "title" : "Vergleichsbewertung"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE017812119",
+                      "paragraph" : "§ 74",
+                      "title" : "Begrenzte Gesamtleistungsbewertung"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE017909308",
+                      "paragraph" : "§ 75",
+                      "title" : "Entgeltpunkte für Zeiten nach Rentenbeginn"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE018004308",
+                      "paragraph" : "§ 76",
+                      "title" : "Zuschläge oder Abschläge beim Versorgungsausgleich"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE052903308",
+                      "paragraph" : "§ 76a",
+                      "title" : "Zuschläge an Entgeltpunkten aus Zahlung von Beiträgen bei vorzeitiger Inanspruchnahme einer Rente wegen Alters oder bei Abfindungen einer Anwartschaft auf betriebliche Altersversorgung oder von Anrechten bei der Versorgungsausgleichskasse"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE056005119",
+                      "paragraph" : "§ 76b",
+                      "title" : "Zuschläge an Entgeltpunkten für Arbeitsentgelt aus geringfügiger Beschäftigung"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE057002308",
+                      "paragraph" : "§ 76c",
+                      "title" : "Zuschläge oder Abschläge beim Rentensplitting"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE059801308",
+                      "paragraph" : "§ 76d",
+                      "title" : "Zuschläge an Entgeltpunkten aus Beiträgen nach Beginn einer Rente wegen Alters"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE062400308",
+                      "paragraph" : "§ 76e",
+                      "title" : "Zuschläge an Entgeltpunkten für Zeiten einer besonderen Auslandsverwendung"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE063500119",
+                      "paragraph" : "§ 76f",
+                      "title" : "Zuschläge an Entgeltpunkten für nachversicherte Soldaten auf Zeit"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE018107119",
+                      "paragraph" : "§ 77",
+                      "title" : "Zugangsfaktor"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE018201308",
+                      "paragraph" : "§ 78",
+                      "title" : "Zuschlag bei Waisenrenten"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE057103308",
+                      "paragraph" : "§ 78a",
+                      "title" : "Zuschlag bei Witwenrenten und Witwerrenten"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      2,
+                      2,
+                      3,
+                      3
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Ermittlung der persönlichen Entgeltpunkte"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNG002701308",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE018301308",
+                      "paragraph" : "§ 79",
+                      "title" : "Grundsatz"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE018402308",
+                      "paragraph" : "§ 80",
+                      "title" : "Monatsbetrag der Rente"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE018504308",
+                      "paragraph" : "§ 81",
+                      "title" : "Persönliche Entgeltpunkte"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE018605308",
+                      "paragraph" : "§ 82",
+                      "title" : "Rentenartfaktor"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE018707308",
+                      "paragraph" : "§ 83",
+                      "title" : "Entgeltpunkte für Beitragszeiten"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE018803308",
+                      "paragraph" : "§ 84",
+                      "title" : "Entgeltpunkte für beitragsfreie und\nbeitragsgeminderte Zeiten (Gesamtleistungsbewertung)"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE018904308",
+                      "paragraph" : "§ 85",
+                      "title" : "Entgeltpunkte für ständige Arbeiten unter Tage\n(Leistungszuschlag)"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE019005308",
+                      "paragraph" : "§ 86",
+                      "title" : "(weggefallen)"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE019205301",
+                      "paragraph" : "§ 86a",
+                      "title" : "Zugangsfaktor"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE019102308",
+                      "paragraph" : "§ 87",
+                      "title" : "Zuschlag bei Waisenrenten"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      2,
+                      2,
+                      3,
+                      4
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Knappschaftliche Besonderheiten"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNG002801308",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE056403308",
+                      "paragraph" : "§ 88",
+                      "title" : "Persönliche Entgeltpunkte bei Folgerenten"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE057201308",
+                      "paragraph" : "§ 88a",
+                      "title" : "Höchstbetrag bei Witwenrenten und Witwerrenten"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      2,
+                      2,
+                      3,
+                      5
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Ermittlung des Monatsbetrags der Rente in Sonderfällen"
+                }
+              ],
+              "title" : "Rentenhöhe und Rentenanpassung"
+            },
+            {
+              "documentIdentifier" : "BJNR122610989BJNG002901308",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE019316126",
+                  "paragraph" : "§ 89",
+                  "title" : "Mehrere Rentenansprüche"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE019404308",
+                  "paragraph" : "§ 90",
+                  "title" : "Witwenrente und Witwerrente nach dem\nvorletzten Ehegatten und Ansprüche infolge\nAuflösung der letzten Ehe"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE019501308",
+                  "paragraph" : "§ 91",
+                  "title" : "Aufteilung von Witwenrenten und Witwerrenten\nauf mehrere Berechtigte"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE019602308",
+                  "paragraph" : "§ 92",
+                  "title" : "Waisenrente und andere Leistungen an Waisen"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE019725308",
+                  "paragraph" : "§ 93",
+                  "title" : "Rente und Leistungen aus der Unfallversicherung"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE019805301",
+                  "paragraph" : "§ 94",
+                  "title" : "(weggefallen)"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE019906308",
+                  "paragraph" : "§ 95",
+                  "title" : "(weggefallen)"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE020001308",
+                  "paragraph" : "§ 96",
+                  "title" : "Nachversicherte Versorgungsbezieher"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE052616119",
+                  "paragraph" : "§ 96a",
+                  "title" : "Rente wegen verminderter Erwerbsfähigkeit und Hinzuverdienst"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE020106119",
+                  "paragraph" : "§ 97",
+                  "title" : "Einkommensanrechnung auf Renten wegen Todes"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE020208301",
+                  "paragraph" : "§ 98",
+                  "title" : "Reihenfolge bei der Anwendung von\nBerechnungsvorschriften"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  2,
+                  4
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Zusammentreffen von Renten und Einkommen"
+            },
+            {
+              "documentIdentifier" : "BJNR122610989BJNG003001308",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE020301308",
+                  "paragraph" : "§ 99",
+                  "title" : "Beginn"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE020407119",
+                  "paragraph" : "§ 100",
+                  "title" : "Änderung und Ende"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE020506119",
+                  "paragraph" : "§ 101",
+                  "title" : "Beginn und Änderung in Sonderfällen"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE020607119",
+                  "paragraph" : "§ 102",
+                  "title" : "Befristung und Tod"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  2,
+                  5
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Beginn, Änderung und Ende von Renten"
+            },
+            {
+              "documentIdentifier" : "BJNR122610989BJNG003101308",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE020705308",
+                  "paragraph" : "§ 103",
+                  "title" : "Absichtliche Minderung der Erwerbsfähigkeit"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE020806308",
+                  "paragraph" : "§ 104",
+                  "title" : "Minderung der Erwerbsfähigkeit bei einer\nStraftat"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE020903308",
+                  "paragraph" : "§ 105",
+                  "title" : "Tötung eines Angehörigen"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  2,
+                  6
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Ausschluss und Minderung von Renten"
+            }
+          ],
+          "title" : "Renten"
+        },
+        {
+          "documentIdentifier" : "BJNR122610989BJNG003201308",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR122610989BJNE021011126",
+              "paragraph" : "§ 106",
+              "title" : "Zuschuss zur Krankenversicherung"
+            },
+            {
+              "documentIdentifier" : "BJNR122610989BJNE021103308",
+              "paragraph" : "§ 107",
+              "title" : "Rentenabfindung"
+            },
+            {
+              "documentIdentifier" : "BJNR122610989BJNE021202119",
+              "paragraph" : "§ 108",
+              "title" : "Beginn, Änderung und Ende von Zusatzleistungen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Zusatzleistungen"
+        },
+        {
+          "documentIdentifier" : "BJNR122610989BJNG003303308",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR122610989BJNE021313126",
+              "paragraph" : "§ 109",
+              "title" : "Renteninformation und Rentenauskunft"
+            },
+            {
+              "documentIdentifier" : "BJNR122610989BJNE058106308",
+              "paragraph" : "§ 109a",
+              "title" : "Hilfen in Angelegenheiten der Grundsicherung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Serviceleistungen"
+        },
+        {
+          "documentIdentifier" : "BJNR122610989BJNG003402308",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR122610989BJNE021402308",
+              "paragraph" : "§ 110",
+              "title" : "Grundsatz"
+            },
+            {
+              "documentIdentifier" : "BJNR122610989BJNE021504301",
+              "paragraph" : "§ 111",
+              "title" : "Rehabilitationsleistungen und\nKrankenversicherungszuschuss"
+            },
+            {
+              "documentIdentifier" : "BJNR122610989BJNE021605308",
+              "paragraph" : "§ 112",
+              "title" : "Renten bei verminderter Erwerbsfähigkeit"
+            },
+            {
+              "documentIdentifier" : "BJNR122610989BJNE021721119",
+              "paragraph" : "§ 113",
+              "title" : "Höhe der Rente"
+            },
+            {
+              "documentIdentifier" : "BJNR122610989BJNE021810377",
+              "paragraph" : "§ 114",
+              "title" : "Besonderheiten"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              5
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Leistungen an Berechtigte im Ausland"
+        },
+        {
+          "documentIdentifier" : "BJNR122610989BJNG003501308",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              6
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR122610989BJNG003601308",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE021906119",
+                  "paragraph" : "§ 115",
+                  "title" : "Beginn"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE022006308",
+                  "paragraph" : "§ 116",
+                  "title" : "Besonderheiten bei Leistungen zur Teilhabe"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE022101308",
+                  "paragraph" : "§ 117",
+                  "title" : "Abschluss"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  6,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Beginn und Abschluss des Verfahrens"
+            },
+            {
+              "documentIdentifier" : "BJNR122610989BJNG003701308",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE022211308",
+                  "paragraph" : "§ 118",
+                  "title" : "Fälligkeit und Auszahlung"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE062700308",
+                  "paragraph" : "§ 118a",
+                  "title" : "Anpassungsmitteilung"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE022309308",
+                  "paragraph" : "§ 119",
+                  "title" : "Wahrnehmung von Aufgaben durch die Deutsche Post AG"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE022405308",
+                  "paragraph" : "§ 120",
+                  "title" : "Verordnungsermächtigung"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  6,
+                  2
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Auszahlung und Anpassung"
+            },
+            {
+              "documentIdentifier" : "BJNR122610989BJNG010702308",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE057306119",
+                  "paragraph" : "§ 120a",
+                  "title" : "Grundsätze für das Rentensplitting unter Ehegatten"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE057403308",
+                  "paragraph" : "§ 120b",
+                  "title" : "Tod eines Ehegatten vor Empfang angemessener Leistungen"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE057504126",
+                  "paragraph" : "§ 120c",
+                  "title" : "Abänderung des Rentensplittings unter Ehegatten"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE053600301",
+                  "paragraph" : "§ 120d",
+                  "title" : "Verfahren und Zuständigkeit"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE060502119",
+                  "paragraph" : "§ 120e",
+                  "title" : "Rentensplitting unter Lebenspartnern"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  6,
+                  3
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Rentensplitting"
+            },
+            {
+              "documentIdentifier" : "BJNR122610989BJNG011100308",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE061701119",
+                  "paragraph" : "§ 120f",
+                  "title" : "Interne Teilung und Verrechnung von Anrechten"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE061800308",
+                  "paragraph" : "§ 120g",
+                  "title" : "Externe Teilung"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE061900308",
+                  "paragraph" : "§ 120h",
+                  "title" : "Abzuschmelzende Anrechte"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  6,
+                  4
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Besonderheiten beim Versorgungsausgleich"
+            },
+            {
+              "documentIdentifier" : "BJNR122610989BJNG003803308",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE022501308",
+                  "paragraph" : "§ 121",
+                  "title" : "Allgemeine Berechnungsgrundsätze"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE022601308",
+                  "paragraph" : "§ 122",
+                  "title" : "Berechnung von Zeiten"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE022702308",
+                  "paragraph" : "§ 123",
+                  "title" : "Berechnung von Geldbeträgen"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE022801308",
+                  "paragraph" : "§ 124",
+                  "title" : "Berechnung von Durchschnittswerten und Rententeilen"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  6,
+                  5
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Berechnungsgrundsätze"
+            }
+          ],
+          "title" : "Durchführung"
+        }
+      ],
+      "title" : "Leistungen"
+    },
+    {
+      "documentIdentifier" : "BJNR122610989BJNG003903308",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR122610989BJNG004002308",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              1
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR122610989BJNG004102308",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE022903308",
+                  "paragraph" : "§ 125",
+                  "title" : "Träger der gesetzlichen Rentenversicherung"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  3,
+                  1,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Deutsche Rentenversicherung"
+            },
+            {
+              "documentIdentifier" : "BJNR122610989BJNG004202308",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE023004308",
+                  "paragraph" : "§ 126",
+                  "title" : "Zuständigkeit der Träger der Rentenversicherung"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE023105126",
+                  "paragraph" : "§ 127",
+                  "title" : "Zuständigkeit für Versicherte und Hinterbliebene"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE062102126",
+                  "paragraph" : "§ 127a",
+                  "title" : "Verbindungsstelle für Leistungen bei Invalidität, bei Alter und an Hinterbliebene sowie für Vorruhestandsleistungen"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE023206308",
+                  "paragraph" : "§ 128",
+                  "title" : "Örtliche Zuständigkeit der Regionalträger"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE062200308",
+                  "paragraph" : "§ 128a",
+                  "title" : "Sonderzuständigkeit der Deutschen Rentenversicherung Saarland"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE023302308",
+                  "paragraph" : "§ 129",
+                  "title" : "Zuständigkeit der Deutschen Rentenversicherung Knappschaft-Bahn-See für\nVersicherte"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE023403308",
+                  "paragraph" : "§ 130",
+                  "title" : "Sonderzuständigkeit der Deutschen Rentenversicherung Knappschaft-Bahn-See"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE023505308",
+                  "paragraph" : "§ 131",
+                  "title" : "Auskunfts- und Beratungsstellen"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  3,
+                  1,
+                  2
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Zuständigkeit in der allgemeinen Rentenversicherung"
+            },
+            {
+              "documentIdentifier" : "BJNR122610989BJNG004302308",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE023602308",
+                  "paragraph" : "§ 132",
+                  "title" : "Versicherungsträger"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE023702308",
+                  "paragraph" : "§ 133",
+                  "title" : "Zuständigkeit der Deutschen Rentenversicherung Knappschaft-Bahn-See für\nBeschäftigte"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE023805308",
+                  "paragraph" : "§ 134",
+                  "title" : "Knappschaftliche Betriebe und Arbeiten"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE023904308",
+                  "paragraph" : "§ 135",
+                  "title" : "Nachversicherung"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE024003308",
+                  "paragraph" : "§ 136",
+                  "title" : "Sonderzuständigkeit der Deutschen Rentenversicherung Knappschaft-Bahn-See"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE062300308",
+                  "paragraph" : "§ 136a",
+                  "title" : "Verbindungsstelle für Leistungen bei Invalidität, bei Alter und an Hinterbliebene der knappschaftlichen Rentenversicherung"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE024102308",
+                  "paragraph" : "§ 137",
+                  "title" : "Besonderheit bei der Durchführung der Versicherung und bei den\nLeistungen"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  3,
+                  1,
+                  3
+                ]
+              },
+              "subsections" : [
+                {
+                  "documentIdentifier" : "BJNR122610989BJNG011000308",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE061200308",
+                      "paragraph" : "§ 137a",
+                      "title" : "Zuständigkeit der Deutschen Rentenversicherung Knappschaft-Bahn-See für die Seemannskasse"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE061302119",
+                      "paragraph" : "§ 137b",
+                      "title" : "Besonderheiten bei den Leistungen und bei der Durchführung der Versicherung"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE061400308",
+                      "paragraph" : "§ 137c",
+                      "title" : "Vermögen, Haftung"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE061500308",
+                      "paragraph" : "§ 137d",
+                      "title" : "Organe"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE061600308",
+                      "paragraph" : "§ 137e",
+                      "title" : "Beirat"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      3,
+                      1,
+                      3
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Zuständigkeit der Deutschen Rentenversicherung Knappschaft-Bahn-See für die Seemannskasse"
+                }
+              ],
+              "title" : "Zuständigkeit in der knappschaftlichen Rentenversicherung"
+            },
+            {
+              "documentIdentifier" : "BJNR122610989BJNG004402308",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE024206308",
+                  "paragraph" : "§ 138",
+                  "title" : "Grundsatz- und Querschnittsaufgaben der Deutschen Rentenversicherung"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE024304308",
+                  "paragraph" : "§ 139",
+                  "title" : "Erweitertes Direktorium"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE024404308",
+                  "paragraph" : "§ 140",
+                  "title" : "Arbeitsgruppe Personalvertretung der Deutschen Rentenversicherung"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  3,
+                  1,
+                  4
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Grundsatz- und Querschnittsaufgaben der Deutschen Rentenversicherung, Erweitertes Direktorium"
+            },
+            {
+              "documentIdentifier" : "BJNR122610989BJNG004502308",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE024504308",
+                  "paragraph" : "§ 141",
+                  "title" : "Vereinigung von Regionalträgern auf Beschluss ihrer\nVertreterversammlungen"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE024603308",
+                  "paragraph" : "§ 142",
+                  "title" : "Vereinigung von Regionalträgern durch Rechtsverordnung"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  3,
+                  1,
+                  5
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Vereinigung von Regionalträgern"
+            },
+            {
+              "documentIdentifier" : "BJNR122610989BJNG004602308",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE024710308",
+                  "paragraph" : "§ 143",
+                  "title" : "Bundesunmittelbare Versicherungsträger"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE024804308",
+                  "paragraph" : "§ 144",
+                  "title" : "Landesunmittelbare Versicherungsträger"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  3,
+                  1,
+                  6
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Beschäftigte der Versicherungsträger"
+            },
+            {
+              "documentIdentifier" : "BJNR122610989BJNG004703119",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE024910126",
+                  "paragraph" : "§ 145",
+                  "title" : "Aufgaben der Datenstelle der Rentenversicherung"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  3,
+                  1,
+                  7
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Datenstelle der Rentenversicherung"
+            }
+          ],
+          "title" : "Organisation"
+        },
+        {
+          "documentIdentifier" : "BJNR122610989BJNG004802308",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR122610989BJNE025103119",
+              "paragraph" : "§ 147",
+              "title" : "Versicherungsnummer"
+            },
+            {
+              "documentIdentifier" : "BJNR122610989BJNE025216126",
+              "paragraph" : "§ 148",
+              "title" : "Datenverarbeitung beim Rentenversicherungsträger"
+            },
+            {
+              "documentIdentifier" : "BJNR122610989BJNE025307126",
+              "paragraph" : "§ 149",
+              "title" : "Versicherungskonto"
+            },
+            {
+              "documentIdentifier" : "BJNR122610989BJNE025426126",
+              "paragraph" : "§ 150",
+              "title" : "Dateisysteme bei der Datenstelle"
+            },
+            {
+              "documentIdentifier" : "BJNR122610989BJNE025504126",
+              "paragraph" : "§ 151",
+              "title" : "Auskünfte der Deutschen Post AG"
+            },
+            {
+              "documentIdentifier" : "BJNR122610989BJNE058603126",
+              "paragraph" : "§ 151a",
+              "title" : "Antragstellung im automatisierten Verfahren beim Versicherungsamt"
+            },
+            {
+              "documentIdentifier" : "BJNR122610989BJNE025606308",
+              "paragraph" : "§ 152",
+              "title" : "Verordnungsermächtigung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Datenschutz und Datensicherheit"
+        }
+      ],
+      "title" : "Organisation, Datenschutz und Datensicherheit"
+    },
+    {
+      "documentIdentifier" : "BJNR122610989BJNG004901308",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR122610989BJNG005001308",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4,
+              1
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR122610989BJNG005101308",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE025706308",
+                  "paragraph" : "§ 153",
+                  "title" : "Umlageverfahren"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  4,
+                  1,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Umlageverfahren"
+            },
+            {
+              "documentIdentifier" : "BJNR122610989BJNG005201308",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE025819126",
+                  "paragraph" : "§ 154",
+                  "title" : "Rentenversicherungsbericht, Stabilisierung des Beitragssatzes und Sicherung des Rentenniveaus"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE025902308",
+                  "paragraph" : "§ 155",
+                  "title" : "Aufgabe des Sozialbeirats"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE026007308",
+                  "paragraph" : "§ 156",
+                  "title" : "Zusammensetzung des Sozialbeirats"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  4,
+                  1,
+                  2
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Rentenversicherungsbericht und Sozialbeirat"
+            }
+          ],
+          "title" : "Finanzierungsgrundsatz und Rentenversicherungsbericht"
+        },
+        {
+          "documentIdentifier" : "BJNR122610989BJNG005301308",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4,
+              2
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR122610989BJNG005401308",
+              "laws" : [
+
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  4,
+                  2,
+                  1
+                ]
+              },
+              "subsections" : [
+                {
+                  "documentIdentifier" : "BJNR122610989BJNG005501308",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE026101308",
+                      "paragraph" : "§ 157",
+                      "title" : "Grundsatz"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE026210308",
+                      "paragraph" : "§ 158",
+                      "title" : "Beitragssätze"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE026304308",
+                      "paragraph" : "§ 159",
+                      "title" : "Beitragsbemessungsgrenzen"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE026402308",
+                      "paragraph" : "§ 160",
+                      "title" : "Verordnungsermächtigung"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      4,
+                      2,
+                      1,
+                      1
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Allgemeines"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNG005601308",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE026501308",
+                      "paragraph" : "§ 161",
+                      "title" : "Grundsatz"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE026615126",
+                      "paragraph" : "§ 162",
+                      "title" : "Beitragspflichtige Einnahmen Beschäftigter"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE060809126",
+                      "paragraph" : "§ 163",
+                      "title" : "Sonderregelung für beitragspflichtige Einnahmen Beschäftigter"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE026917119",
+                      "paragraph" : "§ 165",
+                      "title" : "Beitragspflichtige Einnahmen selbständig Tätiger"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE063605126",
+                      "paragraph" : "§ 166",
+                      "title" : "Beitragspflichtige Einnahmen sonstiger Versicherter"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE027105308",
+                      "paragraph" : "§ 167",
+                      "title" : "Freiwillig Versicherte"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      4,
+                      2,
+                      1,
+                      2
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Beitragsbemessungsgrundlagen"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNG005701308",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE027226126",
+                      "paragraph" : "§ 168",
+                      "title" : "Beitragstragung bei Beschäftigten"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE027303308",
+                      "paragraph" : "§ 169",
+                      "title" : "Beitragstragung bei selbständig Tätigen"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE027429119",
+                      "paragraph" : "§ 170",
+                      "title" : "Beitragstragung bei sonstigen Versicherten"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE027501308",
+                      "paragraph" : "§ 171",
+                      "title" : "Freiwillig Versicherte"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE027611119",
+                      "paragraph" : "§ 172",
+                      "title" : "Arbeitgeberanteil bei Versicherungsfreiheit und Befreiung von der Versicherungspflicht"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE062800308",
+                      "paragraph" : "§ 172a",
+                      "title" : "Beitragszuschüsse des Arbeitgebers für Mitglieder berufsständischer Versorgungseinrichtungen"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      4,
+                      2,
+                      1,
+                      3
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Verteilung der Beitragslast"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNG005801308",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE027707308",
+                      "paragraph" : "§ 173",
+                      "title" : "Grundsatz"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE027805119",
+                      "paragraph" : "§ 174",
+                      "title" : "Beitragszahlung aus dem Arbeitsentgelt und Arbeitseinkommen"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE027902308",
+                      "paragraph" : "§ 175",
+                      "title" : "Beitragszahlung bei Künstlern und Publizisten"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE028005119",
+                      "paragraph" : "§ 176",
+                      "title" : "Beitragszahlung und Abrechnung bei Bezug von Sozialleistungen, bei Leistungen im Eingangsverfahren und im Berufsbildungsbereich anerkannter Werkstätten für behinderte Menschen"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE052302308",
+                      "paragraph" : "§ 176a",
+                      "title" : "Beitragszahlung und Abrechnung bei Pflegepersonen"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE028109126",
+                      "paragraph" : "§ 177",
+                      "title" : "Beitragszahlung für Kindererziehungszeiten"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE028210308",
+                      "paragraph" : "§ 178",
+                      "title" : "Verordnungsermächtigung"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      4,
+                      2,
+                      1,
+                      4
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Zahlung der Beiträge"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNG005901308",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE028308119",
+                      "paragraph" : "§ 179",
+                      "title" : "Erstattung von Aufwendungen"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE028407119",
+                      "paragraph" : "§ 180",
+                      "title" : "Verordnungsermächtigung"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      4,
+                      2,
+                      1,
+                      5
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Erstattungen"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNG006001308",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE028508119",
+                      "paragraph" : "§ 181",
+                      "title" : "Berechnung und Tragung der Beiträge"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE028602119",
+                      "paragraph" : "§ 182",
+                      "title" : "Zusammentreffen mit vorhandenen Beiträgen"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE028703308",
+                      "paragraph" : "§ 183",
+                      "title" : "Erhöhung und Minderung der Beiträge bei\nVersorgungsausgleich"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE028804308",
+                      "paragraph" : "§ 184",
+                      "title" : "Fälligkeit der Beiträge und Aufschub"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE028906119",
+                      "paragraph" : "§ 185",
+                      "title" : "Zahlung der Beiträge und Wirkung der Beitragszahlung"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE029003308",
+                      "paragraph" : "§ 186",
+                      "title" : "Zahlung an eine berufsständische Versorgungseinrichtung"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE062500308",
+                      "paragraph" : "§ 186a",
+                      "title" : "Zeiten einer besonderen Auslandsverwendung im Nachversicherungszeitraum"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      4,
+                      2,
+                      1,
+                      6
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Nachversicherung"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNG006103308",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE029112119",
+                      "paragraph" : "§ 187",
+                      "title" : "Zahlung von Beiträgen und Ermittlung von Entgeltpunkten aus Beiträgen beim Versorgungsausgleich"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE053005119",
+                      "paragraph" : "§ 187a",
+                      "title" : "Zahlung von Beiträgen bei vorzeitiger Inanspruchnahme einer Rente wegen Alters"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE053704119",
+                      "paragraph" : "§ 187b",
+                      "title" : "Zahlung von Beiträgen bei Abfindungen von Anwartschaften auf betriebliche Altersversorgung oder von Anrechten bei der Versorgungsausgleichskasse"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE029204308",
+                      "paragraph" : "§ 188",
+                      "title" : "Beitragszahlung für Zeiten einer besonderen Auslandsverwendung"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      4,
+                      2,
+                      1,
+                      7
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Zahlung von Beiträgen in besonderen Fällen"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNG006201308",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE029301308",
+                      "paragraph" : "§ 189",
+                      "title" : "Berechnungsgrundsätze"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      4,
+                      2,
+                      1,
+                      8
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Berechnungsgrundsätze"
+                }
+              ],
+              "title" : "Beiträge"
+            },
+            {
+              "documentIdentifier" : "BJNR122610989BJNG006301308",
+              "laws" : [
+
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  4,
+                  2,
+                  2
+                ]
+              },
+              "subsections" : [
+                {
+                  "documentIdentifier" : "BJNR122610989BJNG006401308",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE029401308",
+                      "paragraph" : "§ 190",
+                      "title" : "Meldepflichten bei Beschäftigten und Hausgewerbetreibenden"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE056804119",
+                      "paragraph" : "§ 190a",
+                      "title" : "Meldepflicht von versicherungspflichtigen selbständig Tätigen"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE029507119",
+                      "paragraph" : "§ 191",
+                      "title" : "Meldepflichten bei sonstigen versicherungspflichtigen Personen"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE029606119",
+                      "paragraph" : "§ 192",
+                      "title" : "Meldepflichten bei Einberufung zum Wehrdienst oder Zivildienst"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE062600308",
+                      "paragraph" : "§ 192a",
+                      "title" : "Meldepflicht für Zeiten einer besonderen Auslandsverwendung"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE029704308",
+                      "paragraph" : "§ 193",
+                      "title" : "Meldung von sonstigen rechtserheblichen Zeiten"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE029806126",
+                      "paragraph" : "§ 194",
+                      "title" : "Gesonderte Meldung und Hochrechnung"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE029904308",
+                      "paragraph" : "§ 195",
+                      "title" : "Verordnungsermächtigung"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      4,
+                      2,
+                      2,
+                      1
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Meldungen"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNG006501308",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE030118119",
+                      "paragraph" : "§ 196",
+                      "title" : "Auskunfts- und Mitteilungspflichten"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE063401119",
+                      "paragraph" : "§ 196a",
+                      "title" : "Elektronische Bescheinigungen"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      4,
+                      2,
+                      2,
+                      2
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Auskunfts- und Mitteilungspflichten"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNG006601308",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE030201308",
+                      "paragraph" : "§ 197",
+                      "title" : "Wirksamkeit von Beiträgen"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE030302308",
+                      "paragraph" : "§ 198",
+                      "title" : "Neubeginn und Hemmung von Fristen"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE030404308",
+                      "paragraph" : "§ 199",
+                      "title" : "Vermutung der Beitragszahlung"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE030502308",
+                      "paragraph" : "§ 200",
+                      "title" : "Änderung der Beitragsberechnungsgrundlagen"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE030602308",
+                      "paragraph" : "§ 201",
+                      "title" : "Beiträge an nicht zuständige Träger der\nRentenversicherung"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE030701308",
+                      "paragraph" : "§ 202",
+                      "title" : "Irrtümliche Pflichtbeitragszahlung"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE030801308",
+                      "paragraph" : "§ 203",
+                      "title" : "Glaubhaftmachung der Beitragszahlung"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      4,
+                      2,
+                      2,
+                      3
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Wirksamkeit der Beitragszahlung"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNG006701308",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE030901308",
+                      "paragraph" : "§ 204",
+                      "title" : "Nachzahlung von Beiträgen bei Ausscheiden aus einer\ninternationalen Organisation"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE031001308",
+                      "paragraph" : "§ 205",
+                      "title" : "Nachzahlung bei Strafverfolgungsmaßnahmen"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE031102308",
+                      "paragraph" : "§ 206",
+                      "title" : "Nachzahlung für Geistliche und Ordensleute"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE031203308",
+                      "paragraph" : "§ 207",
+                      "title" : "Nachzahlung für Ausbildungszeiten"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE031304308",
+                      "paragraph" : "§ 208",
+                      "title" : "(weggefallen)"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE031401308",
+                      "paragraph" : "§ 209",
+                      "title" : "Berechtigung und Beitragsberechnung zur Nachzahlung"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      4,
+                      2,
+                      2,
+                      4
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Nachzahlung"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNG006801308",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE031511119",
+                      "paragraph" : "§ 210",
+                      "title" : "Beitragserstattung"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE031602119",
+                      "paragraph" : "§ 211",
+                      "title" : "Sonderregelung bei der Zuständigkeit zu Unrecht gezahlter Beiträge"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE031704308",
+                      "paragraph" : "§ 212",
+                      "title" : "Beitragsüberwachung"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE059904126",
+                      "paragraph" : "§ 212a",
+                      "title" : "Prüfung der Beitragszahlungen und Meldungen für sonstige Versicherte, Nachversicherte und für Zeiten einer besonderen Auslandsverwendung"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE060000308",
+                      "paragraph" : "§ 212b",
+                      "title" : "Prüfung der Beitragszahlung bei versicherungspflichtigen Selbständigen"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      4,
+                      2,
+                      2,
+                      5
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Beitragserstattung und Beitragsüberwachung"
+                }
+              ],
+              "title" : "Verfahren"
+            }
+          ],
+          "title" : "Beiträge und Verfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR122610989BJNG006901308",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4,
+              3
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR122610989BJNG007001308",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE031819126",
+                  "paragraph" : "§ 213",
+                  "title" : "Zuschüsse des Bundes"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE031903308",
+                  "paragraph" : "§ 214",
+                  "title" : "Liquiditätssicherung"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE060102126",
+                  "paragraph" : "§ 214a",
+                  "title" : "Liquiditätserfassung"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE032001308",
+                  "paragraph" : "§ 215",
+                  "title" : "Beteiligung des Bundes in der knappschaftlichen\nRentenversicherung"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  4,
+                  3,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Beteiligung des Bundes"
+            },
+            {
+              "documentIdentifier" : "BJNR122610989BJNG007102308",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE032103308",
+                  "paragraph" : "§ 216",
+                  "title" : "Nachhaltigkeitsrücklage"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE032204308",
+                  "paragraph" : "§ 217",
+                  "title" : "Anlage der Nachhaltigkeitsrücklage"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE032405126",
+                  "paragraph" : "§ 219",
+                  "title" : "Finanzverbund in der allgemeinen Rentenversicherung"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE032507308",
+                  "paragraph" : "§ 220",
+                  "title" : "Aufwendungen für Leistungen zur Teilhabe, Verwaltung und Verfahren"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE032604308",
+                  "paragraph" : "§ 221",
+                  "title" : "Ausgaben für das Anlagevermögen"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE032705308",
+                  "paragraph" : "§ 222",
+                  "title" : "Ermächtigung"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  4,
+                  3,
+                  2
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Nachhaltigkeitsrücklage und Finanzausgleich"
+            },
+            {
+              "documentIdentifier" : "BJNR122610989BJNG007201308",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE032808119",
+                  "paragraph" : "§ 223",
+                  "title" : "Wanderversicherungsausgleich und Wanderungsausgleich"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE032907126",
+                  "paragraph" : "§ 224",
+                  "title" : "Erstattung durch die Bundesagentur für Arbeit"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE058408126",
+                  "paragraph" : "§ 224a",
+                  "title" : "Tragung pauschalierter Beiträge für Renten wegen voller Erwerbsminderung"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE061002126",
+                  "paragraph" : "§ 224b",
+                  "title" : "Erstattung für Begutachtung in Angelegenheiten der Grundsicherung"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE033005308",
+                  "paragraph" : "§ 225",
+                  "title" : "Erstattung durch den Träger der Versorgungslast"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE033107308",
+                  "paragraph" : "§ 226",
+                  "title" : "Verordnungsermächtigung"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  4,
+                  3,
+                  3
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Erstattungen"
+            },
+            {
+              "documentIdentifier" : "BJNR122610989BJNG007301308",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE033204126",
+                  "paragraph" : "§ 227",
+                  "title" : "Abrechnung der Aufwendungen"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  4,
+                  3,
+                  4
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Abrechnung der Aufwendungen"
+            }
+          ],
+          "title" : "Beteiligung des Bundes, Finanzbeziehungen und Erstattungen"
+        }
+      ],
+      "title" : "Finanzierung"
+    },
+    {
+      "documentIdentifier" : "BJNR122610989BJNG007401308",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR122610989BJNG007501308",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              5,
+              1
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR122610989BJNG007601308",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE033302308",
+                  "paragraph" : "§ 228",
+                  "title" : "Grundsatz"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE043609119",
+                  "paragraph" : "§ 228a",
+                  "title" : "Besonderheiten für das Beitrittsgebiet"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE043703119",
+                  "paragraph" : "§ 228b",
+                  "title" : "Maßgebende Werte in der Anpassungsphase"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  5,
+                  1,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Grundsatz"
+            },
+            {
+              "documentIdentifier" : "BJNR122610989BJNG007701308",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE033420126",
+                  "paragraph" : "§ 229",
+                  "title" : "Versicherungspflicht"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE043803308",
+                  "paragraph" : "§ 229a",
+                  "title" : "Versicherungspflicht im Beitrittsgebiet"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE033510119",
+                  "paragraph" : "§ 230",
+                  "title" : "Versicherungsfreiheit"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE033613119",
+                  "paragraph" : "§ 231",
+                  "title" : "Befreiung von der Versicherungspflicht"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE043903308",
+                  "paragraph" : "§ 231a",
+                  "title" : "Befreiung von der Versicherungspflicht im Beitrittsgebiet"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE033704119",
+                  "paragraph" : "§ 232",
+                  "title" : "Freiwillige Versicherung"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE033803308",
+                  "paragraph" : "§ 233",
+                  "title" : "Nachversicherung"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE044003308",
+                  "paragraph" : "§ 233a",
+                  "title" : "Nachversicherung im Beitrittsgebiet"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  5,
+                  1,
+                  2
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Versicherter Personenkreis"
+            },
+            {
+              "documentIdentifier" : "BJNR122610989BJNG007804308",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE034007308",
+                  "paragraph" : "§ 234",
+                  "title" : "Übergangsgeldanspruch und -berechnung bei Arbeitslosenhilfe"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE058801301",
+                  "paragraph" : "§ 234a",
+                  "title" : "Übergangsgeldanspruch und -berechnung bei Unterhaltsgeldbezug"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  5,
+                  1,
+                  3
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Teilhabe"
+            },
+            {
+              "documentIdentifier" : "BJNR122610989BJNG007902301",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE053700301",
+                  "paragraph" : "§ 235",
+                  "title" : "Regelaltersrente"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE034105301",
+                  "paragraph" : "§ 236",
+                  "title" : "Altersrente für langjährig Versicherte"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE053806301",
+                  "paragraph" : "§ 236a",
+                  "title" : "Altersrente für schwerbehinderte Menschen"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE063300360",
+                  "paragraph" : "§ 236b",
+                  "title" : "Altersrente für besonders langjährig Versicherte"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE034220119",
+                  "paragraph" : "§ 237",
+                  "title" : "Altersrente wegen Arbeitslosigkeit oder nach Altersteilzeitarbeit"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE053102308",
+                  "paragraph" : "§ 237a",
+                  "title" : "Altersrente für Frauen"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE034303119",
+                  "paragraph" : "§ 238",
+                  "title" : "Altersrente für langjährig unter Tage beschäftigte Bergleute"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE034406119",
+                  "paragraph" : "§ 239",
+                  "title" : "Knappschaftsausgleichsleistung"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE034510301",
+                  "paragraph" : "§ 240",
+                  "title" : "Rente wegen teilweiser Erwerbsminderung bei Berufsunfähigkeit"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE034607119",
+                  "paragraph" : "§ 241",
+                  "title" : "Rente wegen Erwerbsminderung"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE034703119",
+                  "paragraph" : "§ 242",
+                  "title" : "Rente für Bergleute"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE056503301",
+                  "paragraph" : "§ 242a",
+                  "title" : "Witwenrente und Witwerrente"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE034807301",
+                  "paragraph" : "§ 243",
+                  "title" : "Witwenrente und Witwerrente an vor dem 1. Juli 1977 geschiedene Ehegatten"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE044201308",
+                  "paragraph" : "§ 243a",
+                  "title" : "Rente wegen Todes an vor dem 1. Juli 1977 geschiedene\nEhegatten im Beitrittsgebiet"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE054004308",
+                  "paragraph" : "§ 243b",
+                  "title" : "Wartezeit"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE034906119",
+                  "paragraph" : "§ 244",
+                  "title" : "Anrechenbare Zeiten"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE062900308",
+                  "paragraph" : "§ 244a",
+                  "title" : "Wartezeiterfüllung durch Zuschläge an Entgeltpunkten für Arbeitsentgelt aus geringfügiger versicherungsfreier Beschäftigung"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE035007308",
+                  "paragraph" : "§ 245",
+                  "title" : "Vorzeitige Wartezeiterfüllung"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE044301308",
+                  "paragraph" : "§ 245a",
+                  "title" : "Wartezeiterfüllung bei früherem Anspruch auf Hinterbliebenenrente im\nBeitrittsgebiet"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE035102308",
+                  "paragraph" : "§ 246",
+                  "title" : "Beitragsgeminderte Zeiten"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE035204308",
+                  "paragraph" : "§ 247",
+                  "title" : "Beitragszeiten"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE035308308",
+                  "paragraph" : "§ 248",
+                  "title" : "Beitragszeiten im Beitrittsgebiet und im Saarland"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE035409126",
+                  "paragraph" : "§ 249",
+                  "title" : "Beitragszeiten wegen Kindererziehung"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE044405308",
+                  "paragraph" : "§ 249a",
+                  "title" : "Beitragszeiten wegen Kindererziehung\nim Beitrittsgebiet"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE052401308",
+                  "paragraph" : "§ 249b",
+                  "title" : "Berücksichtigungszeiten wegen Pflege"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE035503308",
+                  "paragraph" : "§ 250",
+                  "title" : "Ersatzzeiten"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE035602308",
+                  "paragraph" : "§ 251",
+                  "title" : "Ersatzzeiten bei Handwerkern"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE035715308",
+                  "paragraph" : "§ 252",
+                  "title" : "Anrechnungszeiten"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE044506308",
+                  "paragraph" : "§ 252a",
+                  "title" : "Anrechnungszeiten im Beitrittsgebiet"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE035803308",
+                  "paragraph" : "§ 253",
+                  "title" : "Pauschale Anrechnungszeit"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE054106126",
+                  "paragraph" : "§ 253a",
+                  "title" : "Zurechnungszeit"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE035901308",
+                  "paragraph" : "§ 254",
+                  "title" : "Zuordnung beitragsfreier Zeiten zur knappschaftlichen Rentenversicherung"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE044601308",
+                  "paragraph" : "§ 254a",
+                  "title" : "Ständige Arbeiten unter Tage im Beitrittsgebiet"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  5,
+                  1,
+                  4
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Anspruchsvoraussetzungen für einzelne Renten"
+            },
+            {
+              "documentIdentifier" : "BJNR122610989BJNG008002308",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE044705119",
+                  "paragraph" : "§ 254b",
+                  "title" : "Rentenformel für den Monatsbetrag der Rente"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE044802308",
+                  "paragraph" : "§ 254c",
+                  "title" : "Anpassung der Renten"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE044915308",
+                  "paragraph" : "§ 254d",
+                  "title" : "Entgeltpunkte (Ost)"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE036005308",
+                  "paragraph" : "§ 255",
+                  "title" : "Rentenartfaktor"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE045012119",
+                  "paragraph" : "§ 255a",
+                  "title" : "Bestimmung des aktuellen Rentenwerts (Ost) für die Zeit vom 1. Juli 2018 bis zum 1. Juli 2023"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE045105119",
+                  "paragraph" : "§ 255b",
+                  "title" : "Verordnungsermächtigung"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE056204119",
+                  "paragraph" : "§ 255c",
+                  "title" : "Anwendung des aktuellen Rentenwerts zum 1. Juli 2024"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE056905119",
+                  "paragraph" : "§ 255d",
+                  "title" : "Bestimmung des aktuellen Rentenwerts für die Zeit vom 1. Juli 2018 bis zum 1. Juli 2026"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE057609126",
+                  "paragraph" : "§ 255e",
+                  "title" : "Niveauschutzklausel für die Zeit vom 1. Juli 2019 bis zum 1. Juli 2025"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE057707126",
+                  "paragraph" : "§ 255f",
+                  "title" : "Verordnungsermächtigung"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE060703126",
+                  "paragraph" : "§ 255g",
+                  "title" : "Ausgleichsbedarf bis zum 30. Juni 2026"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE036107308",
+                  "paragraph" : "§ 256",
+                  "title" : "Entgeltpunkte für Beitragszeiten"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE045213126",
+                  "paragraph" : "§ 256a",
+                  "title" : "Entgeltpunkte für Beitragszeiten im Beitrittsgebiet"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE045304308",
+                  "paragraph" : "§ 256b",
+                  "title" : "Entgeltpunkte für glaubhaft gemachte Beitragszeiten"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE052702308",
+                  "paragraph" : "§ 256c",
+                  "title" : "Entgeltpunkte für nachgewiesene Beitragszeiten\nohne Beitragsbemessungsgrundlage"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE054202308",
+                  "paragraph" : "§ 256d",
+                  "title" : "(weggefallen)"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE036202308",
+                  "paragraph" : "§ 257",
+                  "title" : "Entgeltpunkte für Berliner Beitragszeiten"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE036301308",
+                  "paragraph" : "§ 258",
+                  "title" : "Entgeltpunkte für saarländische\nBeitragszeiten"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE036403308",
+                  "paragraph" : "§ 259",
+                  "title" : "Entgeltpunkte für Beitragszeiten mit\nSachbezug"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE045904308",
+                  "paragraph" : "§ 259a",
+                  "title" : "Besonderheiten für Versicherte der\nGeburtsjahrgänge vor 1937"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE046002308",
+                  "paragraph" : "§ 259b",
+                  "title" : "Besonderheiten bei Zugehörigkeit zu einem Zusatz- oder\nSonderversorgungssystem"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE036503308",
+                  "paragraph" : "§ 260",
+                  "title" : "Beitragsbemessungsgrenzen"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE036601308",
+                  "paragraph" : "§ 261",
+                  "title" : "Beitragszeiten ohne Entgeltpunkte"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE036702308",
+                  "paragraph" : "§ 262",
+                  "title" : "Mindestentgeltpunkte bei geringem\nArbeitsentgelt"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE036808301",
+                  "paragraph" : "§ 263",
+                  "title" : "Gesamtleistungsbewertung für beitragsfreie und beitragsgeminderte Zeiten"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE046201308",
+                  "paragraph" : "§ 263a",
+                  "title" : "Gesamtleistungsbewertung für beitragsfreie und beitragsgeminderte\nZeiten mit Entgeltpunkten (Ost)"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE036901308",
+                  "paragraph" : "§ 264",
+                  "title" : "Zuschläge oder Abschläge beim Versorgungsausgleich"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE046303308",
+                  "paragraph" : "§ 264a",
+                  "title" : "Zuschläge oder Abschläge beim Versorgungsausgleich im Beitrittsgebiet"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE063000308",
+                  "paragraph" : "§ 264b",
+                  "title" : "Zuschläge an Entgeltpunkten für Arbeitsentgelt aus geringfügiger versicherungsfreier Beschäftigung"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE046403308",
+                  "paragraph" : "§ 264c",
+                  "title" : "Zuschlag bei Hinterbliebenenrenten"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE054305308",
+                  "paragraph" : "§ 264d",
+                  "title" : "Zugangsfaktor"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE037006301",
+                  "paragraph" : "§ 265",
+                  "title" : "Knappschaftliche Besonderheiten"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE046504308",
+                  "paragraph" : "§ 265a",
+                  "title" : "Knappschaftliche Besonderheiten bei rentenrechtlichen Zeiten im Beitrittsgebiet"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  5,
+                  1,
+                  5
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Rentenhöhe und Rentenanpassung"
+            },
+            {
+              "documentIdentifier" : "BJNR122610989BJNG008103308",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE037102308",
+                  "paragraph" : "§ 266",
+                  "title" : "Erhöhung des Grenzbetrags"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE037204308",
+                  "paragraph" : "§ 267",
+                  "title" : "Rente und Leistungen aus der\nUnfallversicherung"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  5,
+                  1,
+                  6
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Zusammentreffen von Renten und Einkommen"
+            },
+            {
+              "documentIdentifier" : "BJNR122610989BJNG008202308",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE037301308",
+                  "paragraph" : "§ 268",
+                  "title" : "Beginn von Witwenrenten und Witwerrenten\nan vor dem 1. Juli 1977 geschiedene Ehegatten"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE060601308",
+                  "paragraph" : "§ 268a",
+                  "title" : "Änderung von Renten beim Versorgungsausgleich"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  5,
+                  1,
+                  7
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Beginn von Witwenrenten und Witwerrenten an vor dem 1. Juli 1977 geschiedene Ehegatten und Änderung von Renten beim Versorgungsausgleich"
+            },
+            {
+              "documentIdentifier" : "BJNR122610989BJNG008301308",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE037403308",
+                  "paragraph" : "§ 269",
+                  "title" : "Steigerungsbeträge"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE059302119",
+                  "paragraph" : "§ 269a",
+                  "title" : "(weggefallen)"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE058002308",
+                  "paragraph" : "§ 269b",
+                  "title" : "Rentenabfindung bei Wiederheirat von Witwen und Witwern"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE037504119",
+                  "paragraph" : "§ 270",
+                  "title" : "(weggefallen)"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  5,
+                  1,
+                  8
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Zusatzleistungen"
+            },
+            {
+              "documentIdentifier" : "BJNR122610989BJNG008404308",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE056601308",
+                  "paragraph" : "§ 270b",
+                  "title" : "Rente wegen teilweiser Erwerbsminderung bei Berufsunfähigkeit"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE037602308",
+                  "paragraph" : "§ 271",
+                  "title" : "Höhe der Rente"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE037708377",
+                  "paragraph" : "§ 272",
+                  "title" : "Besonderheiten"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE059400308",
+                  "paragraph" : "§ 272a",
+                  "title" : "Fälligkeit und Auszahlung laufender Geldleistungen bei Beginn vor dem\n1. April 2004"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  5,
+                  1,
+                  9
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Leistungen an Berechtigte im Ausland und Auszahlung"
+            },
+            {
+              "documentIdentifier" : "BJNR122610989BJNG008502308",
+              "laws" : [
+
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  5,
+                  1,
+                  10
+                ]
+              },
+              "subsections" : [
+                {
+                  "documentIdentifier" : "BJNR122610989BJNG010401308",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE037805308",
+                      "paragraph" : "§ 273",
+                      "title" : "Zuständigkeit der Deutschen Rentenversicherung\nKnappschaft-Bahn-See"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE046803126",
+                      "paragraph" : "§ 273a",
+                      "title" : "Zuständigkeit in Zweifelsfällen"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      5,
+                      1,
+                      10,
+                      1
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Organisation"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNG010502308",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE037904126",
+                      "paragraph" : "§ 274",
+                      "title" : "Dateisysteme bei der Datenstelle hinsichtlich der Verordnung (EWG) Nr. 1408\/71 des Rates vom 14. Juni 1971"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      5,
+                      1,
+                      10,
+                      2
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Datenverarbeitung und Datenschutz"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNG010800308",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE060202119",
+                      "paragraph" : "§ 274c",
+                      "title" : "Ausgleichsverfahren"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE060301119",
+                      "paragraph" : "§ 274d",
+                      "title" : "(weggefallen)"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      5,
+                      1,
+                      10,
+                      3
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Übergangsvorschriften zur Zuständigkeit der Rentenversicherungsträger"
+                }
+              ],
+              "title" : "Organisation, Datenverarbeitung und Datenschutz"
+            },
+            {
+              "documentIdentifier" : "BJNR122610989BJNG008601308",
+              "laws" : [
+
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  5,
+                  1,
+                  11
+                ]
+              },
+              "subsections" : [
+                {
+                  "documentIdentifier" : "BJNR122610989BJNG008701308",
+                  "laws" : [
+
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      5,
+                      1,
+                      11,
+                      1
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "(weggefallen)"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNG008801308",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE047006119",
+                      "paragraph" : "§ 275a",
+                      "title" : "Beitragsbemessungsgrenzen im Beitrittsgebiet für die Zeit bis zum 31. Dezember 2024"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE047101308",
+                      "paragraph" : "§ 275b",
+                      "title" : "Verordnungsermächtigung"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE058701308",
+                      "paragraph" : "§ 275c",
+                      "title" : "(weggefallen)"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE038104126",
+                      "paragraph" : "§ 276",
+                      "title" : "Übergangsregelung für Auszubildende in einer außerbetrieblichen Einrichtung"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE056306119",
+                      "paragraph" : "§ 276a",
+                      "title" : "Arbeitgeberanteil bei Versicherungsfreiheit"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE059104126",
+                      "paragraph" : "§ 276b",
+                      "title" : "(weggefallen)"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE059201301",
+                      "paragraph" : "§ 276c",
+                      "title" : "(weggefallen)"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE038203119",
+                      "paragraph" : "§ 277",
+                      "title" : "Beitragsrecht bei Nachversicherung"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE047203308",
+                      "paragraph" : "§ 277a",
+                      "title" : "Durchführung der Nachversicherung im Beitrittsgebiet"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE038301308",
+                      "paragraph" : "§ 278",
+                      "title" : "Mindestbeitragsbemessungsgrundlage\nfür die Nachversicherung"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE047302308",
+                      "paragraph" : "§ 278a",
+                      "title" : "Mindestbeitragsbemessungsgrundlage für die Nachversicherung\nim Beitrittsgebiet"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE038401308",
+                      "paragraph" : "§ 279",
+                      "title" : "Beitragspflichtige Einnahmen bei\nHebammen und Handwerkern"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE047401308",
+                      "paragraph" : "§ 279a",
+                      "title" : "Beitragspflichtige Einnahmen mitarbeitender Ehegatten im\nBeitrittsgebiet"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE047502308",
+                      "paragraph" : "§ 279b",
+                      "title" : "Beitragsbemessungsgrundlage für freiwillig Versicherte"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE047604119",
+                      "paragraph" : "§ 279c",
+                      "title" : "Beitragstragung im Beitrittsgebiet"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE047701308",
+                      "paragraph" : "§ 279d",
+                      "title" : "Beitragszahlung im Beitrittsgebiet"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE052502308",
+                      "paragraph" : "§ 279e",
+                      "title" : "(weggefallen)"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE058904308",
+                      "paragraph" : "§ 279f",
+                      "title" : "(weggefallen)"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE059000308",
+                      "paragraph" : "§ 279g",
+                      "title" : "Sonderregelungen bei Altersteilzeitbeschäftigten"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE038502308",
+                      "paragraph" : "§ 280",
+                      "title" : "Höherversicherung für Zeiten vor 1998"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE038602308",
+                      "paragraph" : "§ 281",
+                      "title" : "Nachversicherung"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE047808308",
+                      "paragraph" : "§ 281a",
+                      "title" : "Zahlung von Beiträgen im Rahmen des Versorgungsausgleichs im Beitrittsgebiet"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE047905308",
+                      "paragraph" : "§ 281b",
+                      "title" : "Verordnungsermächtigung"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      5,
+                      1,
+                      11,
+                      2
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Beiträge"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNG008901308",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE048001308",
+                      "paragraph" : "§ 281c",
+                      "title" : "Meldepflichten im Beitrittsgebiet"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE062002119",
+                      "paragraph" : "§ 282",
+                      "title" : "Nachzahlung nach Erreichen der Regelaltersgrenze"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE038703308",
+                      "paragraph" : "§ 283",
+                      "title" : "(weggefallen)"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE038903119",
+                      "paragraph" : "§ 284",
+                      "title" : "Nachzahlung für Vertriebene, Flüchtlinge und Evakuierte"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE039002308",
+                      "paragraph" : "§ 285",
+                      "title" : "Nachzahlung bei Nachversicherung"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE039104308",
+                      "paragraph" : "§ 286",
+                      "title" : "Versicherungskarten"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE048304308",
+                      "paragraph" : "§ 286a",
+                      "title" : "Glaubhaftmachung der Beitragszahlung und Aufteilung von Beiträgen"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE048401308",
+                      "paragraph" : "§ 286b",
+                      "title" : "Glaubhaftmachung der Beitragszahlung im Beitrittsgebiet"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE048501308",
+                      "paragraph" : "§ 286c",
+                      "title" : "Vermutung der Beitragszahlung im Beitrittsgebiet"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE048603308",
+                      "paragraph" : "§ 286d",
+                      "title" : "Beitragserstattung"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE048701308",
+                      "paragraph" : "§ 286e",
+                      "title" : "Ausweis für Arbeit und Sozialversicherung"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE063701119",
+                      "paragraph" : "§ 286f",
+                      "title" : "Erstattung zu Unrecht gezahlter Pflichtbeiträge an die berufsständische Versorgungseinrichtung"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE063800119",
+                      "paragraph" : "§ 286g",
+                      "title" : "Erstattung von nach dem 21. Juli 2009 gezahlten freiwilligen Beiträgen"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      5,
+                      1,
+                      11,
+                      3
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Verfahren"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNG009001308",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE039207126",
+                      "paragraph" : "§ 287",
+                      "title" : "Beitragssatzgarantie bis 2025"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE048805126",
+                      "paragraph" : "§ 287a",
+                      "title" : "Sonderzahlungen des Bundes in den Jahren 2022 bis 2025"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE048907119",
+                      "paragraph" : "§ 287b",
+                      "title" : "Ausgaben für Leistungen zur Teilhabe"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE049105126",
+                      "paragraph" : "§ 287d",
+                      "title" : "Erstattungen in besonderen Fällen"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE049204308",
+                      "paragraph" : "§ 287e",
+                      "title" : "Veränderung des Bundeszuschusses im Beitrittsgebiet"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE049303119",
+                      "paragraph" : "§ 287f",
+                      "title" : "Getrennte Abrechnung"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      5,
+                      1,
+                      11,
+                      4
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Berechnungsgrundlagen"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNG009101308",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE039504308",
+                      "paragraph" : "§ 289",
+                      "title" : "Wanderversicherungsausgleich"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE049403301",
+                      "paragraph" : "§ 289a",
+                      "title" : "Besonderheiten beim Wanderversicherungsausgleich"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE039601308",
+                      "paragraph" : "§ 290",
+                      "title" : "Erstattung durch den Träger der\nVersorgungslast"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE049501308",
+                      "paragraph" : "§ 290a",
+                      "title" : "Erstattung durch den Träger der Versorgungslast im Beitrittsgebiet"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE039704119",
+                      "paragraph" : "§ 291",
+                      "title" : "(weggefallen)"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE049602308",
+                      "paragraph" : "§ 291a",
+                      "title" : "Erstattung von Invalidenrenten und Aufwendungen für\nPflichtbeitragszeiten bei Erwerbsunfähigkeit"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE055603308",
+                      "paragraph" : "§ 291b",
+                      "title" : "Erstattung nicht beitragsgedeckter Leistungen"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE055904308",
+                      "paragraph" : "§ 291c",
+                      "title" : "(weggefallen)"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE039807308",
+                      "paragraph" : "§ 292",
+                      "title" : "Verordnungsermächtigung"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE049706126",
+                      "paragraph" : "§ 292a",
+                      "title" : "Verordnungsermächtigung für das Beitrittsgebiet"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      5,
+                      1,
+                      11,
+                      5
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Erstattungen"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNG009202308",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR122610989BJNE039907308",
+                      "paragraph" : "§ 293",
+                      "title" : "Vermögensanlagen"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      5,
+                      1,
+                      11,
+                      6
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Vermögensanlagen"
+                }
+              ],
+              "title" : "Finanzierung"
+            },
+            {
+              "documentIdentifier" : "BJNR122610989BJNG009301308",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE040004308",
+                  "paragraph" : "§ 294",
+                  "title" : "Anspruchsvoraussetzungen"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE049801308",
+                  "paragraph" : "§ 294a",
+                  "title" : "Besonderheiten für das Beitrittsgebiet"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE040106126",
+                  "paragraph" : "§ 295",
+                  "title" : "Höhe der Leistung"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE049907126",
+                  "paragraph" : "§ 295a",
+                  "title" : "Höhe der Leistung im Beitrittsgebiet"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE040201308",
+                  "paragraph" : "§ 296",
+                  "title" : "Beginn und Ende"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE040302308",
+                  "paragraph" : "§ 297",
+                  "title" : "Zuständigkeit"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE040402308",
+                  "paragraph" : "§ 298",
+                  "title" : "Durchführung"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE040502308",
+                  "paragraph" : "§ 299",
+                  "title" : "Anrechnungsfreiheit"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  5,
+                  1,
+                  12
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Leistungen für Kindererziehung an Mütter der Geburtsjahrgänge vor 1921"
+            }
+          ],
+          "title" : "Ergänzungen für Sonderfälle"
+        },
+        {
+          "documentIdentifier" : "BJNR122610989BJNG009401308",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              5,
+              2
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR122610989BJNG009501308",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE040604308",
+                  "paragraph" : "§ 300",
+                  "title" : "Grundsatz"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  5,
+                  2,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Grundsatz"
+            },
+            {
+              "documentIdentifier" : "BJNR122610989BJNG009602308",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE040705308",
+                  "paragraph" : "§ 301",
+                  "title" : "Leistungen zur Teilhabe"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE056701308",
+                  "paragraph" : "§ 301a",
+                  "title" : "Einmalzahlungs-Neuregelungsgesetz"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  5,
+                  2,
+                  2
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Leistungen zur Teilhabe"
+            },
+            {
+              "documentIdentifier" : "BJNR122610989BJNG009701308",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE040814126",
+                  "paragraph" : "§ 302",
+                  "title" : "Anspruch auf Altersrente in Sonderfällen"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE050113119",
+                  "paragraph" : "§ 302a",
+                  "title" : "Renten wegen verminderter Erwerbsfähigkeit und Bergmannsvollrenten"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE052808119",
+                  "paragraph" : "§ 302b",
+                  "title" : "Renten wegen verminderter Erwerbsfähigkeit"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE040901308",
+                  "paragraph" : "§ 303",
+                  "title" : "Witwerrente"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE054703308",
+                  "paragraph" : "§ 303a",
+                  "title" : "Große Witwenrente und große Witwerrente wegen\nBerufsunfähigkeit oder Erwerbsunfähigkeit"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE041002126",
+                  "paragraph" : "§ 304",
+                  "title" : "Waisenrente"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE041102308",
+                  "paragraph" : "§ 305",
+                  "title" : "Wartezeit und sonstige zeitliche Voraussetzungen"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  5,
+                  2,
+                  3
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Anspruchsvoraussetzungen für einzelne Renten"
+            },
+            {
+              "documentIdentifier" : "BJNR122610989BJNG009801308",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE041203308",
+                  "paragraph" : "§ 306",
+                  "title" : "Grundsatz"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE041303308",
+                  "paragraph" : "§ 307",
+                  "title" : "Umwertung in persönliche Entgeltpunkte"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE050204308",
+                  "paragraph" : "§ 307a",
+                  "title" : "Persönliche Entgeltpunkte aus Bestandsrenten des Beitrittsgebiets"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE050306308",
+                  "paragraph" : "§ 307b",
+                  "title" : "Bestandsrenten aus überführten Renten des Beitrittsgebiets"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE051902308",
+                  "paragraph" : "§ 307c",
+                  "title" : "Durchführung der Neuberechnung von Bestandsrenten nach § 307b"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE055005126",
+                  "paragraph" : "§ 307d",
+                  "title" : "Zuschlag an persönlichen Entgeltpunkten für Kindererziehung"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE041401308",
+                  "paragraph" : "§ 308",
+                  "title" : "Umstellungsrenten"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE041505119",
+                  "paragraph" : "§ 309",
+                  "title" : "Neufeststellung auf Antrag"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE041603308",
+                  "paragraph" : "§ 310",
+                  "title" : "Erneute Neufeststellung von Renten"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE058201308",
+                  "paragraph" : "§ 310a",
+                  "title" : "Neufeststellung von Renten mit Zeiten der Beschäftigung\nbei der Deutschen Reichsbahn oder bei der Deutschen Post"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE058301308",
+                  "paragraph" : "§ 310b",
+                  "title" : "Neufeststellung von Renten mit überführten Zeiten nach dem\nAnspruchs- und Anwartschaftsüberführungsgesetz"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE058500308",
+                  "paragraph" : "§ 310c",
+                  "title" : "Neufeststellung von Renten wegen Beschäftigungszeiten während des Bezugs\neiner Invalidenrente"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  5,
+                  2,
+                  4
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Rentenhöhe"
+            },
+            {
+              "documentIdentifier" : "BJNR122610989BJNG009901308",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE041704308",
+                  "paragraph" : "§ 311",
+                  "title" : "Rente und Leistungen aus der Unfallversicherung"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE041801308",
+                  "paragraph" : "§ 312",
+                  "title" : "Mindestgrenzbetrag bei Versicherungsfällen\nvor dem 1. Januar 1979"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE041917119",
+                  "paragraph" : "§ 313",
+                  "title" : "Hinzuverdienst bei Renten wegen verminderter Erwerbsfähigkeit"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE042005119",
+                  "paragraph" : "§ 314",
+                  "title" : "Einkommensanrechnung auf Renten wegen Todes"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE050504119",
+                  "paragraph" : "§ 314a",
+                  "title" : "Einkommensanrechnung auf Renten wegen Todes aus dem Beitrittsgebiet"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  5,
+                  2,
+                  5
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Zusammentreffen von Renten und von Einkommen"
+            },
+            {
+              "documentIdentifier" : "BJNR122610989BJNG010001308",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE042102301",
+                  "paragraph" : "§ 315",
+                  "title" : "Zuschuss zur Krankenversicherung"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE050603308",
+                  "paragraph" : "§ 315a",
+                  "title" : "Auffüllbetrag"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE050702308",
+                  "paragraph" : "§ 315b",
+                  "title" : "Renten aus freiwilligen Beiträgen des Beitrittsgebiets"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  5,
+                  2,
+                  6
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Zusatzleistungen"
+            },
+            {
+              "documentIdentifier" : "BJNR122610989BJNG010102308",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE042309377",
+                  "paragraph" : "§ 317",
+                  "title" : "Grundsatz"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE063101119",
+                  "paragraph" : "§ 317a",
+                  "title" : "Neufeststellung"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE042403119",
+                  "paragraph" : "§ 318",
+                  "title" : "(weggefallen)"
+                },
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE042502308",
+                  "paragraph" : "§ 319",
+                  "title" : "Zusatzleistungen"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  5,
+                  2,
+                  7
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Leistungen an Berechtigte im Ausland"
+            },
+            {
+              "documentIdentifier" : "BJNR122610989BJNG010302308",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE050802308",
+                  "paragraph" : "§ 319a",
+                  "title" : "Rentenzuschlag bei Rentenbeginn in den Jahren 1992 und 1993"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  5,
+                  2,
+                  8
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Zusatzleistungen bei gleichzeitigem Anspruch auf Renten nach dem Übergangsrecht für Renten nach den Vorschriften des Beitrittsgebiets"
+            },
+            {
+              "documentIdentifier" : "BJNR122610989BJNG010601308",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR122610989BJNE052001308",
+                  "paragraph" : "§ 319b",
+                  "title" : "Übergangszuschlag"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  5,
+                  2,
+                  9
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Leistungen bei gleichzeitigem Anspruch auf Renten nach dem Übergangsrecht für Renten nach den Vorschriften des Beitrittsgebiets"
+            }
+          ],
+          "title" : "Ausnahmen von der Anwendung neuen Rechts"
+        }
+      ],
+      "title" : "Sonderregelungen"
+    },
+    {
+      "documentIdentifier" : "BJNR122610989BJNG010201308",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR122610989BJNE042604119",
+          "paragraph" : "§ 320",
+          "title" : "Bußgeldvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR122610989BJNE053607308",
+          "paragraph" : "§ 321",
+          "title" : "Zusammenarbeit zur Verfolgung und Ahndung von Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR122610989BJNE042731126",
+          "paragraph" : "Anlage 1",
+          "title" : "Durchschnittsentgelt in Euro\/DM\/RM"
+        },
+        {
+          "documentIdentifier" : "BJNR122610989BJNE042833126",
+          "paragraph" : "Anlage 2",
+          "title" : "Jährliche Beitragsbemessungsgrenzen in Euro\/DM\/RM"
+        },
+        {
+          "documentIdentifier" : "BJNR122610989BJNE050933126",
+          "paragraph" : "Anlage 2a",
+          "title" : "Jährliche Beitragsbemessungsgrenzen des Beitrittsgebiets in Euro\/DM"
+        },
+        {
+          "documentIdentifier" : "BJNR122610989BJNE042901308",
+          "paragraph" : "Anlage 3",
+          "title" : "Entgeltpunkte für Beiträge nach Lohn-, Beitrags- oder\nGehaltsklassen"
+        },
+        {
+          "documentIdentifier" : "BJNR122610989BJNE043001308",
+          "paragraph" : "Anlage 4",
+          "title" : "Beitragsbemessungsgrundlage für Beitragsklassen"
+        },
+        {
+          "documentIdentifier" : "BJNR122610989BJNE043101308",
+          "paragraph" : "Anlage 5",
+          "title" : "Entgeltpunkte für Berliner Beiträge"
+        },
+        {
+          "documentIdentifier" : "BJNR122610989BJNE043201308",
+          "paragraph" : "Anlage 6",
+          "title" : "Werte zur Umrechnung der Beitragsbemessungsgrundlagen\nvon Franken in Deutsche Mark"
+        },
+        {
+          "documentIdentifier" : "BJNR122610989BJNE043301308",
+          "paragraph" : "Anlage 7",
+          "title" : "Entgeltpunkte für saarländische Beiträge"
+        },
+        {
+          "documentIdentifier" : "BJNR122610989BJNE043401308",
+          "paragraph" : "Anlage 8",
+          "title" : "Lohn-, Beitrags- oder Gehaltsklassen und Beitragsbemessungsgrundlagen in RM\/DM für Sachbezugszeiten, in denen der Versicherte nicht Lehrling oder Anlernling war"
+        },
+        {
+          "documentIdentifier" : "BJNR122610989BJNE051032126",
+          "paragraph" : "Anlage 10",
+          "title" : "Werte zur Umrechnung der Beitragsbemessungsgrundlagen des Beitrittgebiets"
+        },
+        {
+          "documentIdentifier" : "BJNR122610989BJNE051101308",
+          "paragraph" : "Anlage 11",
+          "title" : "Verdienst für freiwillige Beiträge im Beitrittsgebiet"
+        },
+        {
+          "documentIdentifier" : "BJNR122610989BJNE051202308",
+          "paragraph" : "Anlage 12",
+          "title" : "Gesamtdurchschnittseinkommen zur Umwertung der anpassungsfähigen\nBestandsrenten des Beitrittsgebiets"
+        },
+        {
+          "documentIdentifier" : "BJNR122610989BJNE051301308",
+          "paragraph" : "Anlage 13",
+          "title" : "Definition der Qualifikationsgruppen"
+        },
+        {
+          "documentIdentifier" : "BJNR122610989BJNE051501308",
+          "paragraph" : "Anlage 15",
+          "title" : "Entgeltpunkte für glaubhaft gemachte Beitragszeiten mit freiwilligen Beiträgen"
+        },
+        {
+          "documentIdentifier" : "BJNR122610989BJNE051602308",
+          "paragraph" : "Anlage 16",
+          "title" : "Höchstverdienste bei glaubhaft gemachten Beitragszeiten ohne\nfreiwillige Zusatzrentenversicherung"
+        },
+        {
+          "documentIdentifier" : "BJNR122610989BJNE053503301",
+          "paragraph" : "Anlage 21",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR122610989BJNE055405301",
+          "paragraph" : "Anlage 22",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR122610989BJNE055504301",
+          "paragraph" : "Anlage 23",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR122610989BJNE888800308",
+          "paragraph" : "Anhang EV",
+          "title" : "Auszug aus EinigVtr Anlage I Kapitel VIII Sachgebiet H Abschnitt III\n"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Bußgeldvorschriften"
+    }
+  ]
+}

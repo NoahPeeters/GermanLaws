@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR141300019",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR141300019Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR141300019BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Umlagesatz"
+        },
+        {
+          "documentIdentifier" : "BJNR141300019BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

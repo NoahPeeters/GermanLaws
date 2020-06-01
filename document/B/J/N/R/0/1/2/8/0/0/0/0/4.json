@@ -1,0 +1,156 @@
+{
+  "documentIdentifier" : "BJNR012800004",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR012800004BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR012800004BJNE000300000",
+          "paragraph" : "§ 1",
+          "title" : "Zielsetzung"
+        },
+        {
+          "documentIdentifier" : "BJNR012800004BJNE000401308",
+          "paragraph" : "§ 2",
+          "title" : "Definition des wirtschaftlichen Eigentümers"
+        },
+        {
+          "documentIdentifier" : "BJNR012800004BJNE000500000",
+          "paragraph" : "§ 3",
+          "title" : "Ermittlung von Identität und Wohnsitz des wirtschaftlichen Eigentümers"
+        },
+        {
+          "documentIdentifier" : "BJNR012800004BJNE000600000",
+          "paragraph" : "§ 4",
+          "title" : "Definition der Zahlstelle"
+        },
+        {
+          "documentIdentifier" : "BJNR012800004BJNE000701308",
+          "paragraph" : "§ 5",
+          "title" : "Definition der zuständigen Behörde"
+        },
+        {
+          "documentIdentifier" : "BJNR012800004BJNE000801308",
+          "paragraph" : "§ 6",
+          "title" : "Definition der Zinszahlung"
+        },
+        {
+          "documentIdentifier" : "BJNR012800004BJNE000900000",
+          "paragraph" : "§ 7",
+          "title" : "Räumlicher Geltungsbereich"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Bestimmungen"
+    },
+    {
+      "documentIdentifier" : "BJNR012800004BJNG000201308",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR012800004BJNE001002308",
+          "paragraph" : "§ 8",
+          "title" : "Datenübermittlung durch die Zahlstelle"
+        },
+        {
+          "documentIdentifier" : "BJNR012800004BJNE001102308",
+          "paragraph" : "§ 9",
+          "title" : "Datenerhebung und Datenübermittlung durch das Bundeszentralamt für\nSteuern"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Datenübermittlung"
+    },
+    {
+      "documentIdentifier" : "BJNR012800004BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR012800004BJNE001202308",
+          "paragraph" : "§ 10",
+          "title" : "Übergangszeitraum"
+        },
+        {
+          "documentIdentifier" : "BJNR012800004BJNE001300000",
+          "paragraph" : "§ 11",
+          "title" : "Besteuerung nach innerstaatlichen Rechtsvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR012800004BJNE001401308",
+          "paragraph" : "§ 12",
+          "title" : "Einnahmen"
+        },
+        {
+          "documentIdentifier" : "BJNR012800004BJNE001500000",
+          "paragraph" : "§ 13",
+          "title" : "Ausnahmen vom Quellensteuerverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR012800004BJNE001601308",
+          "paragraph" : "§ 14",
+          "title" : "Vermeidung der Doppelbesteuerung"
+        },
+        {
+          "documentIdentifier" : "BJNR012800004BJNE001701308",
+          "paragraph" : "§ 15",
+          "title" : "Umlauffähige Schuldtitel"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übergangsbestimmungen"
+    },
+    {
+      "documentIdentifier" : "BJNR012800004BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR012800004BJNE001800000",
+          "paragraph" : "§ 16",
+          "title" : "Andere Quellensteuern"
+        },
+        {
+          "documentIdentifier" : "BJNR012800004BJNE002202160",
+          "paragraph" : "§ 16a",
+          "title" : "Erweiterung des Anwendungsbereichs"
+        },
+        {
+          "documentIdentifier" : "BJNR012800004BJNE001902377",
+          "paragraph" : "§ 17",
+          "title" : "Anwendungsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR012800004BJNE002102160",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 15) "
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Anwendungs- und Schlussbestimmungen"
+    }
+  ]
+}

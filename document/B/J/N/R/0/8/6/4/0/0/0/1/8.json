@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR086400018",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR086400018Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR086400018BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR086400018BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Warnhinweis auf äußeren Umhüllungen und Behältnissen"
+        },
+        {
+          "documentIdentifier" : "BJNR086400018BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Übergangsvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR086400018BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

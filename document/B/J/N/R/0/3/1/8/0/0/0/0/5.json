@@ -1,0 +1,64 @@
+{
+  "documentIdentifier" : "BJNR031800005",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR031800005Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR031800005BJNE000203311",
+          "paragraph" : "§ 1",
+          "title" : "Inhalt des Zentralen Vorsorgeregisters"
+        },
+        {
+          "documentIdentifier" : "BJNR031800005BJNE000301125",
+          "paragraph" : "§ 2",
+          "title" : "Eintragungsantrag"
+        },
+        {
+          "documentIdentifier" : "BJNR031800005BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Vorschuss, Antragsrücknahme bei Nichtzahlung"
+        },
+        {
+          "documentIdentifier" : "BJNR031800005BJNE000501125",
+          "paragraph" : "§ 4",
+          "title" : "Benachrichtigung des Bevollmächtigten"
+        },
+        {
+          "documentIdentifier" : "BJNR031800005BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Änderung, Ergänzung und Löschung von Eintragungen"
+        },
+        {
+          "documentIdentifier" : "BJNR031800005BJNE000703125",
+          "paragraph" : "§ 6",
+          "title" : "Auskunft an die Betreuungsgerichte und die Landgerichte als Beschwerdegerichte"
+        },
+        {
+          "documentIdentifier" : "BJNR031800005BJNE000803311",
+          "paragraph" : "§ 7",
+          "title" : "Protokollierung der Auskunftserteilungen"
+        },
+        {
+          "documentIdentifier" : "BJNR031800005BJNE001001125",
+          "paragraph" : "§ 8",
+          "title" : "Aufbewahrung von Dokumenten"
+        },
+        {
+          "documentIdentifier" : "BJNR031800005BJNE001102125",
+          "paragraph" : "§ 9",
+          "title" : "Betreuungsverfügungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

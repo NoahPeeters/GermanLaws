@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR079700014",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR079700014Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR079700014BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Mitteilungen des Tierhalters nach §§ 58a und 58b des Arzneimittelgesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR079700014BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Ausnahmen von den Anforderungen nach §§ 58a und 58b des Arzneimittelgesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR079700014BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

@@ -1,0 +1,1608 @@
+{
+  "documentIdentifier" : "BJNR020710982",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR020710982BJNG000101307",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR020710982BJNE001205311",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Anwendungsbereich"
+    },
+    {
+      "documentIdentifier" : "BJNR020710982BJNG000201307",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR020710982BJNE001301307",
+          "paragraph" : "§ 2",
+          "title" : "Grundsatz"
+        },
+        {
+          "documentIdentifier" : "BJNR020710982BJNE001401307",
+          "paragraph" : "§ 3",
+          "title" : "Auslieferung zur Verfolgung oder zur Vollstreckung"
+        },
+        {
+          "documentIdentifier" : "BJNR020710982BJNE001501307",
+          "paragraph" : "§ 4",
+          "title" : "Akzessorische Auslieferung"
+        },
+        {
+          "documentIdentifier" : "BJNR020710982BJNE001601307",
+          "paragraph" : "§ 5",
+          "title" : "Gegenseitigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR020710982BJNE001701307",
+          "paragraph" : "§ 6",
+          "title" : "Politische Straftaten, politische Verfolgung"
+        },
+        {
+          "documentIdentifier" : "BJNR020710982BJNE001801307",
+          "paragraph" : "§ 7",
+          "title" : "Militärische Straftaten"
+        },
+        {
+          "documentIdentifier" : "BJNR020710982BJNE001901307",
+          "paragraph" : "§ 8",
+          "title" : "Todesstrafe"
+        },
+        {
+          "documentIdentifier" : "BJNR020710982BJNE002001307",
+          "paragraph" : "§ 9",
+          "title" : "Konkurrierende Gerichtsbarkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR020710982BJNE009600310",
+          "paragraph" : "§ 9a",
+          "title" : "Auslieferung und Verfahren vor internationalen Strafgerichtshöfen"
+        },
+        {
+          "documentIdentifier" : "BJNR020710982BJNE002101307",
+          "paragraph" : "§ 10",
+          "title" : "Auslieferungsunterlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR020710982BJNE002201307",
+          "paragraph" : "§ 11",
+          "title" : "Spezialität"
+        },
+        {
+          "documentIdentifier" : "BJNR020710982BJNE002301307",
+          "paragraph" : "§ 12",
+          "title" : "Bewilligung der Auslieferung"
+        },
+        {
+          "documentIdentifier" : "BJNR020710982BJNE002401307",
+          "paragraph" : "§ 13",
+          "title" : "Sachliche Zuständigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR020710982BJNE002501307",
+          "paragraph" : "§ 14",
+          "title" : "Örtliche Zuständigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR020710982BJNE002601307",
+          "paragraph" : "§ 15",
+          "title" : "Auslieferungshaft"
+        },
+        {
+          "documentIdentifier" : "BJNR020710982BJNE002701307",
+          "paragraph" : "§ 16",
+          "title" : "Vorläufige Auslieferungshaft"
+        },
+        {
+          "documentIdentifier" : "BJNR020710982BJNE002801307",
+          "paragraph" : "§ 17",
+          "title" : "Auslieferungshaftbefehl"
+        },
+        {
+          "documentIdentifier" : "BJNR020710982BJNE002902310",
+          "paragraph" : "§ 18",
+          "title" : "Fahndungsmaßnahmen"
+        },
+        {
+          "documentIdentifier" : "BJNR020710982BJNE003001307",
+          "paragraph" : "§ 19",
+          "title" : "Vorläufige Festnahme"
+        },
+        {
+          "documentIdentifier" : "BJNR020710982BJNE003101307",
+          "paragraph" : "§ 20",
+          "title" : "Bekanntgabe"
+        },
+        {
+          "documentIdentifier" : "BJNR020710982BJNE003202125",
+          "paragraph" : "§ 21",
+          "title" : "Verfahren nach Ergreifung auf Grund eines Auslieferungshaftbefehls"
+        },
+        {
+          "documentIdentifier" : "BJNR020710982BJNE003302125",
+          "paragraph" : "§ 22",
+          "title" : "Verfahren nach vorläufiger Festnahme"
+        },
+        {
+          "documentIdentifier" : "BJNR020710982BJNE003401307",
+          "paragraph" : "§ 23",
+          "title" : "Entscheidung über Einwendungen des Verfolgten"
+        },
+        {
+          "documentIdentifier" : "BJNR020710982BJNE003501307",
+          "paragraph" : "§ 24",
+          "title" : "Aufhebung des Auslieferungshaftbefehls"
+        },
+        {
+          "documentIdentifier" : "BJNR020710982BJNE003602307",
+          "paragraph" : "§ 25",
+          "title" : "Aussetzung des Vollzugs des Auslieferungshaftbefehls"
+        },
+        {
+          "documentIdentifier" : "BJNR020710982BJNE003701307",
+          "paragraph" : "§ 26",
+          "title" : "Haftprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR020710982BJNE003802160",
+          "paragraph" : "§ 27",
+          "title" : "Vollzug der Haft"
+        },
+        {
+          "documentIdentifier" : "BJNR020710982BJNE003902125",
+          "paragraph" : "§ 28",
+          "title" : "Vernehmung des Verfolgten"
+        },
+        {
+          "documentIdentifier" : "BJNR020710982BJNE004001307",
+          "paragraph" : "§ 29",
+          "title" : "Antrag auf Entscheidung über die Zulässigkeit der Auslieferung"
+        },
+        {
+          "documentIdentifier" : "BJNR020710982BJNE004101307",
+          "paragraph" : "§ 30",
+          "title" : "Vorbereitung der Entscheidung"
+        },
+        {
+          "documentIdentifier" : "BJNR020710982BJNE004202125",
+          "paragraph" : "§ 31",
+          "title" : "Durchführung der mündlichen Verhandlung"
+        },
+        {
+          "documentIdentifier" : "BJNR020710982BJNE004302125",
+          "paragraph" : "§ 32",
+          "title" : "Entscheidung über die Zulässigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR020710982BJNE004401307",
+          "paragraph" : "§ 33",
+          "title" : "Erneute Entscheidung über die Zulässigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR020710982BJNE004501307",
+          "paragraph" : "§ 34",
+          "title" : "Haft zur Durchführung der Auslieferung"
+        },
+        {
+          "documentIdentifier" : "BJNR020710982BJNE004601307",
+          "paragraph" : "§ 35",
+          "title" : "Erweiterung der Auslieferungsbewilligung"
+        },
+        {
+          "documentIdentifier" : "BJNR020710982BJNE004701307",
+          "paragraph" : "§ 36",
+          "title" : "Weiterlieferung"
+        },
+        {
+          "documentIdentifier" : "BJNR020710982BJNE004801307",
+          "paragraph" : "§ 37",
+          "title" : "Vorübergehende Auslieferung"
+        },
+        {
+          "documentIdentifier" : "BJNR020710982BJNE004902311",
+          "paragraph" : "§ 38",
+          "title" : "Herausgabe von Gegenständen im Auslieferungsverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR020710982BJNE005002301",
+          "paragraph" : "§ 39",
+          "title" : "Beschlagnahme und Durchsuchung"
+        },
+        {
+          "documentIdentifier" : "BJNR020710982BJNE005104125",
+          "paragraph" : "§ 40",
+          "title" : "Rechtsbeistand"
+        },
+        {
+          "documentIdentifier" : "BJNR020710982BJNE005202301",
+          "paragraph" : "§ 41",
+          "title" : "Vereinfachte Auslieferung"
+        },
+        {
+          "documentIdentifier" : "BJNR020710982BJNE005301307",
+          "paragraph" : "§ 42",
+          "title" : "Anrufung des Bundesgerichtshofes"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Auslieferung an das Ausland"
+    },
+    {
+      "documentIdentifier" : "BJNR020710982BJNG000301307",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR020710982BJNE005401307",
+          "paragraph" : "§ 43",
+          "title" : "Zulässigkeit der Durchlieferung"
+        },
+        {
+          "documentIdentifier" : "BJNR020710982BJNE005501307",
+          "paragraph" : "§ 44",
+          "title" : "Zuständigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR020710982BJNE005602125",
+          "paragraph" : "§ 45",
+          "title" : "Durchlieferungsverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR020710982BJNE005701307",
+          "paragraph" : "§ 46",
+          "title" : "Durchlieferung bei vorübergehender Auslieferung"
+        },
+        {
+          "documentIdentifier" : "BJNR020710982BJNE005802125",
+          "paragraph" : "§ 47",
+          "title" : "Unvorhergesehene Zwischenlandung bei Beförderung auf dem Luftweg"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Durchlieferung"
+    },
+    {
+      "documentIdentifier" : "BJNR020710982BJNG000401307",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR020710982BJNE005904311",
+          "paragraph" : "§ 48",
+          "title" : "Grundsatz"
+        },
+        {
+          "documentIdentifier" : "BJNR020710982BJNE006005311",
+          "paragraph" : "§ 49",
+          "title" : "Weitere Voraussetzungen der Zulässigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR020710982BJNE006101307",
+          "paragraph" : "§ 50",
+          "title" : "Sachliche Zuständigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR020710982BJNE006204311",
+          "paragraph" : "§ 51",
+          "title" : "Örtliche Zuständigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR020710982BJNE006304311",
+          "paragraph" : "§ 52",
+          "title" : "Vorbereitung der Entscheidung"
+        },
+        {
+          "documentIdentifier" : "BJNR020710982BJNE006405125",
+          "paragraph" : "§ 53",
+          "title" : "Rechtsbeistand"
+        },
+        {
+          "documentIdentifier" : "BJNR020710982BJNE006506311",
+          "paragraph" : "§ 54",
+          "title" : "Umwandlung der ausländischen Sanktion"
+        },
+        {
+          "documentIdentifier" : "BJNR020710982BJNE022700311",
+          "paragraph" : "§ 54a",
+          "title" : "Vollstreckung langer freiheitsentziehender Sanktionen"
+        },
+        {
+          "documentIdentifier" : "BJNR020710982BJNE006606311",
+          "paragraph" : "§ 55",
+          "title" : "Entscheidung über die Vollstreckbarkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR020710982BJNE006705311",
+          "paragraph" : "§ 56",
+          "title" : "Bewilligung der Rechtshilfe"
+        },
+        {
+          "documentIdentifier" : "BJNR020710982BJNE009304311",
+          "paragraph" : "§ 56a",
+          "title" : "Entschädigung der verletzten Person"
+        },
+        {
+          "documentIdentifier" : "BJNR020710982BJNE015403311",
+          "paragraph" : "§ 56b",
+          "title" : "Vereinbarung über die Verwertung, Herausgabe und Aufteilung des abgeschöpften Vermögens"
+        },
+        {
+          "documentIdentifier" : "BJNR020710982BJNE006804311",
+          "paragraph" : "§ 57",
+          "title" : "Vollstreckung"
+        },
+        {
+          "documentIdentifier" : "BJNR020710982BJNE015501311",
+          "paragraph" : "§ 57a",
+          "title" : "Kosten der Vollstreckung"
+        },
+        {
+          "documentIdentifier" : "BJNR020710982BJNE006906311",
+          "paragraph" : "§ 58",
+          "title" : "Sicherung der Vollstreckung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Rechtshilfe durch Vollstreckung ausländischer Erkenntnisse"
+    },
+    {
+      "documentIdentifier" : "BJNR020710982BJNG000501307",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR020710982BJNE007001307",
+          "paragraph" : "§ 59",
+          "title" : "Zulässigkeit der Rechtshilfe"
+        },
+        {
+          "documentIdentifier" : "BJNR020710982BJNE007101307",
+          "paragraph" : "§ 60",
+          "title" : "Leistung der Rechtshilfe"
+        },
+        {
+          "documentIdentifier" : "BJNR020710982BJNE007201307",
+          "paragraph" : "§ 61",
+          "title" : "Gerichtliche Entscheidung"
+        },
+        {
+          "documentIdentifier" : "BJNR020710982BJNE011300301",
+          "paragraph" : "§ 61a",
+          "title" : "Datenübermittlung ohne Ersuchen"
+        },
+        {
+          "documentIdentifier" : "BJNR020710982BJNE015300160",
+          "paragraph" : "§ 61b",
+          "title" : "Gemeinsame Ermittlungsgruppen"
+        },
+        {
+          "documentIdentifier" : "BJNR020710982BJNE011401160",
+          "paragraph" : "§ 61c",
+          "title" : "Audiovisuelle Vernehmung"
+        },
+        {
+          "documentIdentifier" : "BJNR020710982BJNE007301307",
+          "paragraph" : "§ 62",
+          "title" : "Vorübergehende Überstellung in das Ausland für ein\nausländisches Verfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR020710982BJNE007402311",
+          "paragraph" : "§ 63",
+          "title" : "Vorübergehende Überstellung aus dem Ausland für ein ausländisches Verfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR020710982BJNE007501307",
+          "paragraph" : "§ 64",
+          "title" : "Durchbeförderung von Zeugen"
+        },
+        {
+          "documentIdentifier" : "BJNR020710982BJNE007601307",
+          "paragraph" : "§ 65",
+          "title" : "Durchbeförderung zur Vollstreckung"
+        },
+        {
+          "documentIdentifier" : "BJNR020710982BJNE007703311",
+          "paragraph" : "§ 66",
+          "title" : "Herausgabe von Gegenständen"
+        },
+        {
+          "documentIdentifier" : "BJNR020710982BJNE007802301",
+          "paragraph" : "§ 67",
+          "title" : "Beschlagnahme und Durchsuchung"
+        },
+        {
+          "documentIdentifier" : "BJNR020710982BJNE009402160",
+          "paragraph" : "§ 67a",
+          "title" : "Rechtshilfe für internationale Strafgerichtshöfe, zwischen- und überstaatliche Einrichtungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Sonstige Rechtshilfe"
+    },
+    {
+      "documentIdentifier" : "BJNR020710982BJNG000601307",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR020710982BJNE007901307",
+          "paragraph" : "§ 68",
+          "title" : "Rücklieferung"
+        },
+        {
+          "documentIdentifier" : "BJNR020710982BJNE008002311",
+          "paragraph" : "§ 69",
+          "title" : "Vorübergehende Überstellung aus dem Ausland für ein deutsches Verfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR020710982BJNE008101307",
+          "paragraph" : "§ 70",
+          "title" : "Vorübergehende Überstellung in das Ausland für ein deutsches\nVerfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR020710982BJNE008204311",
+          "paragraph" : "§ 71",
+          "title" : "Vollstreckung deutscher Erkenntnisse im Ausland"
+        },
+        {
+          "documentIdentifier" : "BJNR020710982BJNE014602311",
+          "paragraph" : "§ 71a",
+          "title" : "Vereinbarung über die Verwertung, Herausgabe und Aufteilung des abgeschöpften Vermögens"
+        },
+        {
+          "documentIdentifier" : "BJNR020710982BJNE008302311",
+          "paragraph" : "§ 72",
+          "title" : "Bedingungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Ausgehende Ersuchen"
+    },
+    {
+      "documentIdentifier" : "BJNR020710982BJNG000702125",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR020710982BJNG001401125",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR020710982BJNE008406311",
+              "paragraph" : "§ 73",
+              "title" : "Grenze der Rechtshilfe"
+            },
+            {
+              "documentIdentifier" : "BJNR020710982BJNE008509311",
+              "paragraph" : "§ 74",
+              "title" : "Zuständigkeit des Bundes"
+            },
+            {
+              "documentIdentifier" : "BJNR020710982BJNE009502160",
+              "paragraph" : "§ 74a",
+              "title" : "Internationale Strafgerichtshöfe, zwischen- und überstaatliche Einrichtungen"
+            },
+            {
+              "documentIdentifier" : "BJNR020710982BJNE008602311",
+              "paragraph" : "§ 75",
+              "title" : "Kosten"
+            },
+            {
+              "documentIdentifier" : "BJNR020710982BJNE008702311",
+              "paragraph" : "§ 76",
+              "title" : "Gegenseitigkeitszusicherung"
+            },
+            {
+              "documentIdentifier" : "BJNR020710982BJNE008804311",
+              "paragraph" : "§ 77",
+              "title" : "Anwendung anderer Verfahrensvorschriften"
+            },
+            {
+              "documentIdentifier" : "BJNR020710982BJNE015603311",
+              "paragraph" : "§ 77a",
+              "title" : "Elektronische Kommunikation und Aktenführung"
+            },
+            {
+              "documentIdentifier" : "BJNR020710982BJNE015701311",
+              "paragraph" : "§ 77b",
+              "title" : "Verordnungsermächtigung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              7,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Allgemeine Regelungen"
+        },
+        {
+          "documentIdentifier" : "BJNR020710982BJNG003600125",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR020710982BJNE024400125",
+              "paragraph" : "§ 77c",
+              "title" : "Anwendungsbereich"
+            },
+            {
+              "documentIdentifier" : "BJNR020710982BJNE024500125",
+              "paragraph" : "§ 77d",
+              "title" : "Übermittlung personenbezogener Daten"
+            },
+            {
+              "documentIdentifier" : "BJNR020710982BJNE024600125",
+              "paragraph" : "§ 77e",
+              "title" : "Prüf-, Informations- und Protokollierungspflichten der übermittelnden Stelle"
+            },
+            {
+              "documentIdentifier" : "BJNR020710982BJNE024700125",
+              "paragraph" : "§ 77f",
+              "title" : "Verfahren bei Fehlen eines Angemessenheitsbeschlusses"
+            },
+            {
+              "documentIdentifier" : "BJNR020710982BJNE024800125",
+              "paragraph" : "§ 77g",
+              "title" : "Zustimmung zur Weiterleitung personenbezogener Daten"
+            },
+            {
+              "documentIdentifier" : "BJNR020710982BJNE024900125",
+              "paragraph" : "§ 77h",
+              "title" : "Verwendung von übermittelten personenbezogenen Daten"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              7,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Schutz personenbezogener Daten im Rechtshilfeverkehr"
+        }
+      ],
+      "title" : "Gemeinsame Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR020710982BJNG000804160",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          8
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR020710982BJNG001400301",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR020710982BJNE011701160",
+              "paragraph" : "§ 78",
+              "title" : "Vorrang des Achten Teils"
+            },
+            {
+              "documentIdentifier" : "BJNR020710982BJNE011800301",
+              "paragraph" : "§ 79",
+              "title" : "Grundsätzliche Pflicht zur Bewilligung; Vorabentscheidung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              8,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Allgemeine Regelungen"
+        },
+        {
+          "documentIdentifier" : "BJNR020710982BJNG001500301",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR020710982BJNE011901311",
+              "paragraph" : "§ 80",
+              "title" : "Auslieferung deutscher Staatsangehöriger"
+            },
+            {
+              "documentIdentifier" : "BJNR020710982BJNE012002311",
+              "paragraph" : "§ 81",
+              "title" : "Auslieferung zur Verfolgung oder zur Vollstreckung"
+            },
+            {
+              "documentIdentifier" : "BJNR020710982BJNE012100301",
+              "paragraph" : "§ 82",
+              "title" : "Nichtanwendung von Vorschriften"
+            },
+            {
+              "documentIdentifier" : "BJNR020710982BJNE012201311",
+              "paragraph" : "§ 83",
+              "title" : "Ergänzende Zulässigkeitsvoraussetzungen"
+            },
+            {
+              "documentIdentifier" : "BJNR020710982BJNE012301311",
+              "paragraph" : "§ 83a",
+              "title" : "Auslieferungsunterlagen"
+            },
+            {
+              "documentIdentifier" : "BJNR020710982BJNE012602311",
+              "paragraph" : "§ 83b",
+              "title" : "Bewilligungshindernisse"
+            },
+            {
+              "documentIdentifier" : "BJNR020710982BJNE012705125",
+              "paragraph" : "§ 83c",
+              "title" : "Verfahren und Fristen"
+            },
+            {
+              "documentIdentifier" : "BJNR020710982BJNE012401311",
+              "paragraph" : "§ 83d",
+              "title" : "Entlassung des Verfolgten"
+            },
+            {
+              "documentIdentifier" : "BJNR020710982BJNE012500301",
+              "paragraph" : "§ 83e",
+              "title" : "Vernehmung des Verfolgten"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              8,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Auslieferung an einen Mitgliedstaat der  Europäischen Union"
+        },
+        {
+          "documentIdentifier" : "BJNR020710982BJNG001600301",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR020710982BJNE012802311",
+              "paragraph" : "§ 83f",
+              "title" : "Durchlieferung"
+            },
+            {
+              "documentIdentifier" : "BJNR020710982BJNE012900301",
+              "paragraph" : "§ 83g",
+              "title" : "Beförderung auf dem Luftweg"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              8,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Durchlieferung an einen Mitgliedstaat der  Europäischen Union"
+        },
+        {
+          "documentIdentifier" : "BJNR020710982BJNG001700301",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR020710982BJNE013000301",
+              "paragraph" : "§ 83h",
+              "title" : "Spezialität"
+            },
+            {
+              "documentIdentifier" : "BJNR020710982BJNE013101311",
+              "paragraph" : "§ 83i",
+              "title" : "Unterrichtung über Fristverzögerungen"
+            },
+            {
+              "documentIdentifier" : "BJNR020710982BJNE011502125",
+              "paragraph" : "§ 83j",
+              "title" : "Rechtsbeistand"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              8,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Ausgehende Ersuchen um Auslieferung an einen Mitgliedstaat der Europäischen Union"
+        }
+      ],
+      "title" : "Auslieferungs- und Durchlieferungsverkehr mit Mitgliedstaaten der Europäischen Union"
+    },
+    {
+      "documentIdentifier" : "BJNR020710982BJNG000902160",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          9
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR020710982BJNG001801311",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              9,
+              1
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR020710982BJNG002900311",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR020710982BJNE009005311",
+                  "paragraph" : "§ 84",
+                  "title" : "Grundsatz"
+                },
+                {
+                  "documentIdentifier" : "BJNR020710982BJNE019200311",
+                  "paragraph" : "§ 84a",
+                  "title" : "Voraussetzungen der Zulässigkeit"
+                },
+                {
+                  "documentIdentifier" : "BJNR020710982BJNE019300311",
+                  "paragraph" : "§ 84b",
+                  "title" : "Ergänzende Zulässigkeitsvoraussetzungen"
+                },
+                {
+                  "documentIdentifier" : "BJNR020710982BJNE019400311",
+                  "paragraph" : "§ 84c",
+                  "title" : "Unterlagen"
+                },
+                {
+                  "documentIdentifier" : "BJNR020710982BJNE019500311",
+                  "paragraph" : "§ 84d",
+                  "title" : "Bewilligungshindernisse"
+                },
+                {
+                  "documentIdentifier" : "BJNR020710982BJNE019600311",
+                  "paragraph" : "§ 84e",
+                  "title" : "Vorläufige Bewilligungsentscheidung"
+                },
+                {
+                  "documentIdentifier" : "BJNR020710982BJNE019700311",
+                  "paragraph" : "§ 84f",
+                  "title" : "Gerichtliches Verfahren"
+                },
+                {
+                  "documentIdentifier" : "BJNR020710982BJNE019800311",
+                  "paragraph" : "§ 84g",
+                  "title" : "Gerichtliche Entscheidung"
+                },
+                {
+                  "documentIdentifier" : "BJNR020710982BJNE019900311",
+                  "paragraph" : "§ 84h",
+                  "title" : "Bewilligung nach gerichtlicher Entscheidung"
+                },
+                {
+                  "documentIdentifier" : "BJNR020710982BJNE020000311",
+                  "paragraph" : "§ 84i",
+                  "title" : "Spezialität"
+                },
+                {
+                  "documentIdentifier" : "BJNR020710982BJNE020100311",
+                  "paragraph" : "§ 84j",
+                  "title" : "Sicherung der Vollstreckung"
+                },
+                {
+                  "documentIdentifier" : "BJNR020710982BJNE020200311",
+                  "paragraph" : "§ 84k",
+                  "title" : "Ergänzende Regelungen zur Vollstreckung"
+                },
+                {
+                  "documentIdentifier" : "BJNR020710982BJNE020300311",
+                  "paragraph" : "§ 84l",
+                  "title" : "Durchbeförderung zur Vollstreckung"
+                },
+                {
+                  "documentIdentifier" : "BJNR020710982BJNE020400311",
+                  "paragraph" : "§ 84m",
+                  "title" : "Durchbeförderungsverfahren"
+                },
+                {
+                  "documentIdentifier" : "BJNR020710982BJNE020500311",
+                  "paragraph" : "§ 84n",
+                  "title" : "Durchbeförderung auf dem Luftweg"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  9,
+                  1,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Vollstreckung ausländischer Erkenntnisse in der Bundesrepublik Deutschland"
+            },
+            {
+              "documentIdentifier" : "BJNR020710982BJNG003000311",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR020710982BJNE009105311",
+                  "paragraph" : "§ 85",
+                  "title" : "Vorläufige Bewilligungsentscheidung"
+                },
+                {
+                  "documentIdentifier" : "BJNR020710982BJNE020600311",
+                  "paragraph" : "§ 85a",
+                  "title" : "Gerichtliches Verfahren"
+                },
+                {
+                  "documentIdentifier" : "BJNR020710982BJNE020700311",
+                  "paragraph" : "§ 85b",
+                  "title" : "Gerichtliche Entscheidung auf Antrag der verurteilten Person"
+                },
+                {
+                  "documentIdentifier" : "BJNR020710982BJNE020800311",
+                  "paragraph" : "§ 85c",
+                  "title" : "Gerichtliche Entscheidung auf Antrag der Vollstreckungsbehörde"
+                },
+                {
+                  "documentIdentifier" : "BJNR020710982BJNE020900311",
+                  "paragraph" : "§ 85d",
+                  "title" : "Bewilligung nach gerichtlicher Entscheidung"
+                },
+                {
+                  "documentIdentifier" : "BJNR020710982BJNE021000311",
+                  "paragraph" : "§ 85e",
+                  "title" : "Inländisches Vollstreckungsverfahren"
+                },
+                {
+                  "documentIdentifier" : "BJNR020710982BJNE021100311",
+                  "paragraph" : "§ 85f",
+                  "title" : "Sicherung der weiteren Vollstreckung"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  9,
+                  1,
+                  2
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Vollstreckung deutscher Erkenntnisse in einem anderen Mitgliedstaat der Europäischen Union"
+            }
+          ],
+          "title" : "Freiheitsentziehende Sanktionen"
+        },
+        {
+          "documentIdentifier" : "BJNR020710982BJNG001901160",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              9,
+              2
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR020710982BJNG002500160",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR020710982BJNE009205160",
+                  "paragraph" : "§ 86",
+                  "title" : "Vorrang"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  9,
+                  2,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Allgemeine Regelungen"
+            },
+            {
+              "documentIdentifier" : "BJNR020710982BJNG002600160",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR020710982BJNE013204311",
+                  "paragraph" : "§ 87",
+                  "title" : "Grundsatz"
+                },
+                {
+                  "documentIdentifier" : "BJNR020710982BJNE015801311",
+                  "paragraph" : "§ 87a",
+                  "title" : "Vollstreckungsunterlagen"
+                },
+                {
+                  "documentIdentifier" : "BJNR020710982BJNE015901311",
+                  "paragraph" : "§ 87b",
+                  "title" : "Zulässigkeitsvoraussetzungen"
+                },
+                {
+                  "documentIdentifier" : "BJNR020710982BJNE016000160",
+                  "paragraph" : "§ 87c",
+                  "title" : "Vorbereitung der Entscheidung über die Bewilligung"
+                },
+                {
+                  "documentIdentifier" : "BJNR020710982BJNE016200160",
+                  "paragraph" : "§ 87d",
+                  "title" : "Grundsätzliche Pflicht zur Bewilligung"
+                },
+                {
+                  "documentIdentifier" : "BJNR020710982BJNE016301125",
+                  "paragraph" : "§ 87e",
+                  "title" : "Rechtsbeistand"
+                },
+                {
+                  "documentIdentifier" : "BJNR020710982BJNE016400160",
+                  "paragraph" : "§ 87f",
+                  "title" : "Bewilligung der Vollstreckung"
+                },
+                {
+                  "documentIdentifier" : "BJNR020710982BJNE016500160",
+                  "paragraph" : "§ 87g",
+                  "title" : "Gerichtliches Verfahren"
+                },
+                {
+                  "documentIdentifier" : "BJNR020710982BJNE016600160",
+                  "paragraph" : "§ 87h",
+                  "title" : "Gerichtliche Entscheidung nach Einspruch"
+                },
+                {
+                  "documentIdentifier" : "BJNR020710982BJNE016700160",
+                  "paragraph" : "§ 87i",
+                  "title" : "Gerichtliche Entscheidung auf Antrag der Bewilligungsbehörde; Bewilligung"
+                },
+                {
+                  "documentIdentifier" : "BJNR020710982BJNE016800160",
+                  "paragraph" : "§ 87j",
+                  "title" : "Rechtsbeschwerde"
+                },
+                {
+                  "documentIdentifier" : "BJNR020710982BJNE016900160",
+                  "paragraph" : "§ 87k",
+                  "title" : "Zulassung der Rechtsbeschwerde"
+                },
+                {
+                  "documentIdentifier" : "BJNR020710982BJNE017000160",
+                  "paragraph" : "§ 87l",
+                  "title" : "Besetzung der Senate der Oberlandesgerichte"
+                },
+                {
+                  "documentIdentifier" : "BJNR020710982BJNE017100160",
+                  "paragraph" : "§ 87m",
+                  "title" : "Verbot der Doppelverfolgung; Mitteilung an das Bundeszentralregister"
+                },
+                {
+                  "documentIdentifier" : "BJNR020710982BJNE017201311",
+                  "paragraph" : "§ 87n",
+                  "title" : "Vollstreckung"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  9,
+                  2,
+                  2
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Eingehende Ersuchen"
+            },
+            {
+              "documentIdentifier" : "BJNR020710982BJNG002700160",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR020710982BJNE017301311",
+                  "paragraph" : "§ 87o",
+                  "title" : "Grundsatz"
+                },
+                {
+                  "documentIdentifier" : "BJNR020710982BJNE017400160",
+                  "paragraph" : "§ 87p",
+                  "title" : "Inländisches Vollstreckungsverfahren"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  9,
+                  2,
+                  3
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Ausgehende Ersuchen"
+            }
+          ],
+          "title" : "Geldsanktionen"
+        },
+        {
+          "documentIdentifier" : "BJNR020710982BJNG002001311",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR020710982BJNE013302311",
+              "paragraph" : "§ 88",
+              "title" : "Grundsatz"
+            },
+            {
+              "documentIdentifier" : "BJNR020710982BJNE014702311",
+              "paragraph" : "§ 88a",
+              "title" : "Voraussetzungen der Zulässigkeit"
+            },
+            {
+              "documentIdentifier" : "BJNR020710982BJNE014802311",
+              "paragraph" : "§ 88b",
+              "title" : "Unterlagen"
+            },
+            {
+              "documentIdentifier" : "BJNR020710982BJNE014902311",
+              "paragraph" : "§ 88c",
+              "title" : "Ablehnungsgründe"
+            },
+            {
+              "documentIdentifier" : "BJNR020710982BJNE015002311",
+              "paragraph" : "§ 88d",
+              "title" : "Verfahren"
+            },
+            {
+              "documentIdentifier" : "BJNR020710982BJNE015100160",
+              "paragraph" : "§ 88e",
+              "title" : "Vollstreckung"
+            },
+            {
+              "documentIdentifier" : "BJNR020710982BJNE015200160",
+              "paragraph" : "§ 88f",
+              "title" : "Aufteilung der Erträge"
+            },
+            {
+              "documentIdentifier" : "BJNR020710982BJNE013401311",
+              "paragraph" : "§ 89",
+              "title" : "Sicherstellungsmaßnahmen"
+            },
+            {
+              "documentIdentifier" : "BJNR020710982BJNE013503311",
+              "paragraph" : "§ 90",
+              "title" : "Ausgehende Ersuchen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              9,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Einziehung"
+        },
+        {
+          "documentIdentifier" : "BJNR020710982BJNG003100311",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              9,
+              4
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR020710982BJNG003200311",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR020710982BJNE021200311",
+                  "paragraph" : "§ 90a",
+                  "title" : "Grundsatz"
+                },
+                {
+                  "documentIdentifier" : "BJNR020710982BJNE021300311",
+                  "paragraph" : "§ 90b",
+                  "title" : "Voraussetzungen der Zulässigkeit"
+                },
+                {
+                  "documentIdentifier" : "BJNR020710982BJNE021400311",
+                  "paragraph" : "§ 90c",
+                  "title" : "Ergänzende Zulässigkeitsvoraussetzungen"
+                },
+                {
+                  "documentIdentifier" : "BJNR020710982BJNE021500311",
+                  "paragraph" : "§ 90d",
+                  "title" : "Unterlagen"
+                },
+                {
+                  "documentIdentifier" : "BJNR020710982BJNE021600311",
+                  "paragraph" : "§ 90e",
+                  "title" : "Bewilligungshindernisse"
+                },
+                {
+                  "documentIdentifier" : "BJNR020710982BJNE021700311",
+                  "paragraph" : "§ 90f",
+                  "title" : "Vorläufige Bewilligungsentscheidung"
+                },
+                {
+                  "documentIdentifier" : "BJNR020710982BJNE021800311",
+                  "paragraph" : "§ 90g",
+                  "title" : "Gerichtliches Verfahren"
+                },
+                {
+                  "documentIdentifier" : "BJNR020710982BJNE021900311",
+                  "paragraph" : "§ 90h",
+                  "title" : "Gerichtliche Entscheidung"
+                },
+                {
+                  "documentIdentifier" : "BJNR020710982BJNE022000311",
+                  "paragraph" : "§ 90i",
+                  "title" : "Bewilligung nach gerichtlicher Entscheidung"
+                },
+                {
+                  "documentIdentifier" : "BJNR020710982BJNE022100311",
+                  "paragraph" : "§ 90j",
+                  "title" : "Ergänzende Regelungen zur Vollstreckung"
+                },
+                {
+                  "documentIdentifier" : "BJNR020710982BJNE022200311",
+                  "paragraph" : "§ 90k",
+                  "title" : "Überwachung der verurteilten Person"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  9,
+                  4,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Überwachung von ausländischen Bewährungsmaßnahmen und alternativen Sanktionen in der Bundesrepublik Deutschland"
+            },
+            {
+              "documentIdentifier" : "BJNR020710982BJNG003300311",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR020710982BJNE022300311",
+                  "paragraph" : "§ 90l",
+                  "title" : "Bewilligung der Vollstreckung und Überwachung"
+                },
+                {
+                  "documentIdentifier" : "BJNR020710982BJNE022400311",
+                  "paragraph" : "§ 90m",
+                  "title" : "Gerichtliches Verfahren auf Antrag der verurteilten Person"
+                },
+                {
+                  "documentIdentifier" : "BJNR020710982BJNE022500311",
+                  "paragraph" : "§ 90n",
+                  "title" : "Inländisches Vollstreckungsverfahren"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  9,
+                  4,
+                  2
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Überwachung von deutschen Bewährungsmaßnahmen in einem anderen Mitgliedstaat der Europäischen Union"
+            }
+          ],
+          "title" : "Bewährungsmaßnahmen und alternative Sanktionen"
+        },
+        {
+          "documentIdentifier" : "BJNR020710982BJNG002800311",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR020710982BJNE017900311",
+              "paragraph" : "§ 90o",
+              "title" : "Grundsatz"
+            },
+            {
+              "documentIdentifier" : "BJNR020710982BJNE018000311",
+              "paragraph" : "§ 90p",
+              "title" : "Voraussetzungen der Zulässigkeit"
+            },
+            {
+              "documentIdentifier" : "BJNR020710982BJNE018100311",
+              "paragraph" : "§ 90q",
+              "title" : "Unterlagen"
+            },
+            {
+              "documentIdentifier" : "BJNR020710982BJNE018200311",
+              "paragraph" : "§ 90r",
+              "title" : "Bewilligungshindernisse"
+            },
+            {
+              "documentIdentifier" : "BJNR020710982BJNE018300311",
+              "paragraph" : "§ 90s",
+              "title" : "Vorläufige Bewilligungsentscheidung"
+            },
+            {
+              "documentIdentifier" : "BJNR020710982BJNE018400311",
+              "paragraph" : "§ 90t",
+              "title" : "Gerichtliches Verfahren"
+            },
+            {
+              "documentIdentifier" : "BJNR020710982BJNE018500311",
+              "paragraph" : "§ 90u",
+              "title" : "Gerichtliche Zulässigkeitsentscheidung"
+            },
+            {
+              "documentIdentifier" : "BJNR020710982BJNE018600311",
+              "paragraph" : "§ 90v",
+              "title" : "Bewilligung nach gerichtlicher Entscheidung"
+            },
+            {
+              "documentIdentifier" : "BJNR020710982BJNE018700311",
+              "paragraph" : "§ 90w",
+              "title" : "Durchführung der Überwachung"
+            },
+            {
+              "documentIdentifier" : "BJNR020710982BJNE018800311",
+              "paragraph" : "§ 90x",
+              "title" : "Erneuerte und geänderte Maßnahmen"
+            },
+            {
+              "documentIdentifier" : "BJNR020710982BJNE018900311",
+              "paragraph" : "§ 90y",
+              "title" : "Abgabe der Überwachung"
+            },
+            {
+              "documentIdentifier" : "BJNR020710982BJNE019000311",
+              "paragraph" : "§ 90z",
+              "title" : "Rücknahme der Überwachungsabgabe"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              9,
+              5
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Überwachung von Maßnahmen zur Vermeidung von Untersuchungshaft"
+        }
+      ],
+      "title" : "Vollstreckungshilfeverkehr mit den Mitgliedstaaten der Europäischen Union"
+    },
+    {
+      "documentIdentifier" : "BJNR020710982BJNG002100160",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          10
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR020710982BJNG002200160",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR020710982BJNE013601308",
+              "paragraph" : "§ 91",
+              "title" : "Vorrang des Zehnten Teils"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              10,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Allgemeine Regelungen"
+        },
+        {
+          "documentIdentifier" : "BJNR020710982BJNG003400311",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR020710982BJNE022801311",
+              "paragraph" : "§ 91a",
+              "title" : "Grundsatz"
+            },
+            {
+              "documentIdentifier" : "BJNR020710982BJNE022900311",
+              "paragraph" : "§ 91b",
+              "title" : "Voraussetzungen der Zulässigkeit"
+            },
+            {
+              "documentIdentifier" : "BJNR020710982BJNE023000311",
+              "paragraph" : "§ 91c",
+              "title" : "Ergänzende Zulässigkeitsvoraussetzungen für besondere Formen der Rechtshilfe"
+            },
+            {
+              "documentIdentifier" : "BJNR020710982BJNE023100311",
+              "paragraph" : "§ 91d",
+              "title" : "Unterlagen"
+            },
+            {
+              "documentIdentifier" : "BJNR020710982BJNE023200311",
+              "paragraph" : "§ 91e",
+              "title" : "Bewilligung; Bewilligungshindernisse; Aufschub der Bewilligung"
+            },
+            {
+              "documentIdentifier" : "BJNR020710982BJNE023300311",
+              "paragraph" : "§ 91f",
+              "title" : "Rückgriff auf andere Ermittlungsmaßnahmen"
+            },
+            {
+              "documentIdentifier" : "BJNR020710982BJNE023400311",
+              "paragraph" : "§ 91g",
+              "title" : "Fristen"
+            },
+            {
+              "documentIdentifier" : "BJNR020710982BJNE023500311",
+              "paragraph" : "§ 91h",
+              "title" : "Erledigung des Ersuchens"
+            },
+            {
+              "documentIdentifier" : "BJNR020710982BJNE023600311",
+              "paragraph" : "§ 91i",
+              "title" : "Rechtsbehelfe; Aufschub der Übermittlung von Beweismitteln"
+            },
+            {
+              "documentIdentifier" : "BJNR020710982BJNE023700311",
+              "paragraph" : "§ 91j",
+              "title" : "Ausgehende Ersuchen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              10,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Europäische Ermittlungsanordnung"
+        },
+        {
+          "documentIdentifier" : "BJNR020710982BJNG002301311",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR020710982BJNE017600308",
+              "paragraph" : "§ 92",
+              "title" : "Übermittlung von Informationen einschließlich personenbezogener Daten an Mitgliedstaaten der Europäischen Union"
+            },
+            {
+              "documentIdentifier" : "BJNR020710982BJNE017700308",
+              "paragraph" : "§ 92a",
+              "title" : "Inhalt des Ersuchens"
+            },
+            {
+              "documentIdentifier" : "BJNR020710982BJNE017800308",
+              "paragraph" : "§ 92b",
+              "title" : "Verwendung von nach dem Rahmenbeschluss 2006\/960\/JI übermittelten Informationen einschließlich personenbezogener Daten"
+            },
+            {
+              "documentIdentifier" : "BJNR020710982BJNE013701308",
+              "paragraph" : "§ 92c",
+              "title" : "Datenübermittlung ohne Ersuchen"
+            },
+            {
+              "documentIdentifier" : "BJNR020710982BJNE023800311",
+              "paragraph" : "§ 92d",
+              "title" : "Örtliche Zuständigkeit für Ersuchen um Überwachung des Telekommunikationsverkehrs ohne technische Hilfe; Verordnungsermächtigung"
+            },
+            {
+              "documentIdentifier" : "BJNR020710982BJNE013801160",
+              "paragraph" : "§ 93",
+              "title" : "Gemeinsame Ermittlungsgruppen"
+            },
+            {
+              "documentIdentifier" : "BJNR020710982BJNE013903311",
+              "paragraph" : "§ 94",
+              "title" : "Ersuchen um Sicherstellung, Beschlagnahme und Durchsuchung"
+            },
+            {
+              "documentIdentifier" : "BJNR020710982BJNE014002311",
+              "paragraph" : "§ 95",
+              "title" : "Sicherungsunterlagen"
+            },
+            {
+              "documentIdentifier" : "BJNR020710982BJNE014100160",
+              "paragraph" : "§ 96",
+              "title" : "Grundsätzliche Pflicht zur Bewilligung von Sicherstellungsmaßnahmen"
+            },
+            {
+              "documentIdentifier" : "BJNR020710982BJNE014202311",
+              "paragraph" : "§ 97",
+              "title" : "(weggefallen)"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              10,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Besondere Formen der Rechtshilfe"
+        }
+      ],
+      "title" : "Sonstiger Rechtshilfeverkehr mit den Mitgliedstaaten der Europäischen Union"
+    },
+    {
+      "documentIdentifier" : "BJNR020710982BJNG003700125",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR020710982BJNE025000125",
+          "paragraph" : "§ 97a",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR020710982BJNE025100125",
+          "paragraph" : "§ 97b",
+          "title" : "Übermittlung personenbezogener Daten"
+        },
+        {
+          "documentIdentifier" : "BJNR020710982BJNE025200125",
+          "paragraph" : "§ 97c",
+          "title" : "Prüf-, Informations- und Protokollierungspflichten der übermittelnden Stelle"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          11
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schutz personenbezogener Daten im Rechtshilfeverkehr innerhalb der Europäischen Union und mit den Schengen-assoziierten Staaten"
+    },
+    {
+      "documentIdentifier" : "BJNR020710982BJNG003502125",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR020710982BJNE024200311",
+          "paragraph" : "§ 98",
+          "title" : "Vorrang des Elften Teils"
+        },
+        {
+          "documentIdentifier" : "BJNR020710982BJNE024300311",
+          "paragraph" : "§ 99",
+          "title" : "Grundsätzliche Pflicht zur Bewilligung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          12
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR020710982BJNG002401311",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR020710982BJNE017502311",
+              "paragraph" : "§ 100",
+              "title" : "Anwendungsvorbehalt; Stichtagsregelung"
+            },
+            {
+              "documentIdentifier" : "BJNR020710982BJNE019101311",
+              "paragraph" : "§ 101",
+              "title" : "Übergangsvorschrift für Ersuchen, die auf einer Abwesenheitsentscheidung beruhen"
+            },
+            {
+              "documentIdentifier" : "BJNR020710982BJNE022601311",
+              "paragraph" : "§ 102",
+              "title" : "Übergangsvorschrift für die Vollstreckung freiheitsentziehender Sanktionen"
+            },
+            {
+              "documentIdentifier" : "BJNR020710982BJNE023901311",
+              "paragraph" : "§ 103",
+              "title" : "Übergangsvorschrift für Ersuchen um sonstige Rechtshilfe"
+            },
+            {
+              "documentIdentifier" : "BJNR020710982BJNE024001311",
+              "paragraph" : "§ 104",
+              "title" : "Gleichstellung von ausländischen mit inländischen Amtsträgern bei Amtshandlungen in der Bundesrepublik Deutschland"
+            },
+            {
+              "documentIdentifier" : "BJNR020710982BJNE024101311",
+              "paragraph" : "§ 105",
+              "title" : "Ausgleich von Schäden"
+            },
+            {
+              "documentIdentifier" : "BJNR020710982BJNE014302311",
+              "paragraph" : "§ 106",
+              "title" : "Einschränkung von Grundrechten"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              12
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Schlussvorschriften"
+        }
+      ],
+      "title" : "Auslieferungs- und Durchlieferungsverkehr mit der Republik Island und dem Königreich Norwegen (doppelt)"
+    }
+  ]
+}

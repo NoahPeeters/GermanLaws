@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR115500010",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR115500010Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR115500010BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Zulassungsverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR115500010BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Voraussetzungen der Eignungsfeststellung"
+        },
+        {
+          "documentIdentifier" : "BJNR115500010BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Eignungskriterien"
+        },
+        {
+          "documentIdentifier" : "BJNR115500010BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

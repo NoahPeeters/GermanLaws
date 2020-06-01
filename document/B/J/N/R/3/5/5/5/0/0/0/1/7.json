@@ -1,0 +1,74 @@
+{
+  "documentIdentifier" : "BJNR355500017",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR355500017Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR355500017BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Geltungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR355500017BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR355500017BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Verbindlichkeit der elektronischen Form"
+        },
+        {
+          "documentIdentifier" : "BJNR355500017BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Anforderungen an das Rechnungsdatenmodell und an die Übermittlung"
+        },
+        {
+          "documentIdentifier" : "BJNR355500017BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Inhalt der elektronischen Rechnung"
+        },
+        {
+          "documentIdentifier" : "BJNR355500017BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Verarbeitung von elektronischen Rechnungen"
+        },
+        {
+          "documentIdentifier" : "BJNR355500017BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Schutz personenbezogener Daten"
+        },
+        {
+          "documentIdentifier" : "BJNR355500017BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Ausnahmen für geheimhaltungsbedürftige Rechnungsdaten"
+        },
+        {
+          "documentIdentifier" : "BJNR355500017BJNE001000000",
+          "paragraph" : "§ 9",
+          "title" : "Ausnahmen für Angelegenheiten des Auswärtigen Dienstes und der sonstigen Beschaffungen im Ausland"
+        },
+        {
+          "documentIdentifier" : "BJNR355500017BJNE001100000",
+          "paragraph" : "§ 10",
+          "title" : "Prüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR355500017BJNE001200000",
+          "paragraph" : "§ 11",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

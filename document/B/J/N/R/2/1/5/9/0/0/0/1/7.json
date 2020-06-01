@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR215900017",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR215900017Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR215900017BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Notifizierende Behörde"
+        },
+        {
+          "documentIdentifier" : "BJNR215900017BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Marktüberwachung"
+        },
+        {
+          "documentIdentifier" : "BJNR215900017BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Sprache"
+        },
+        {
+          "documentIdentifier" : "BJNR215900017BJNE000401000",
+          "paragraph" : "§ 4",
+          "title" : "Bußgeldvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR215900017BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Strafvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR215900017BJNE000600000",
+          "paragraph" : "§ 6",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

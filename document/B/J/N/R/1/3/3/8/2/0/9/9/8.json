@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR133820998",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR133820998Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR133820998BJNE000200305",
+          "paragraph" : "Art 1",
+          "title" : "Allgemeines"
+        },
+        {
+          "documentIdentifier" : "BJNR133820998BJNE000301320",
+          "paragraph" : "Art 2",
+          "title" : "Abwicklung von Schäden"
+        },
+        {
+          "documentIdentifier" : "BJNR133820998BJNE000400305",
+          "paragraph" : "Art 3",
+          "title" : "Ermächtigung zum Erlaß von Rechtsverordnungen"
+        },
+        {
+          "documentIdentifier" : "BJNR133820998BJNE000500305",
+          "paragraph" : "Art 4",
+          "title" : "Schlußbestimmungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

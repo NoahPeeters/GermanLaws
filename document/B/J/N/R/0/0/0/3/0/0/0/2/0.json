@@ -1,0 +1,74 @@
+{
+  "documentIdentifier" : "BJNR000300020",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR000300020Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR000300020BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Mindestanforderungen an energetische Einzelmaßnahmen"
+        },
+        {
+          "documentIdentifier" : "BJNR000300020BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Anforderung an ein Fachunternehmen"
+        },
+        {
+          "documentIdentifier" : "BJNR000300020BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR000300020BJNE000500000",
+          "paragraph" : "Anlage 1",
+          "title" : "Wärmedämmung von Wänden"
+        },
+        {
+          "documentIdentifier" : "BJNR000300020BJNE000600000",
+          "paragraph" : "Anlage 2",
+          "title" : "Wärmedämmung von Dachflächen"
+        },
+        {
+          "documentIdentifier" : "BJNR000300020BJNE000700000",
+          "paragraph" : "Anlage 3",
+          "title" : "Wärmedämmung von Geschossdecken"
+        },
+        {
+          "documentIdentifier" : "BJNR000300020BJNE000800000",
+          "paragraph" : "Anlage 4",
+          "title" : "Erneuerung der Fenster oder Außentüren"
+        },
+        {
+          "documentIdentifier" : "BJNR000300020BJNE000900000",
+          "paragraph" : "Anlage 5",
+          "title" : "Erneuerung oder Einbau einer Lüftungsanlage"
+        },
+        {
+          "documentIdentifier" : "BJNR000300020BJNE001000000",
+          "paragraph" : "Anlage 6",
+          "title" : "Erneuerung der Heizungsanlage"
+        },
+        {
+          "documentIdentifier" : "BJNR000300020BJNE001100000",
+          "paragraph" : "Anlage 7",
+          "title" : "Einbau von digitalen Systemen zur energetischen Betriebs- und Verbrauchsoptimierung"
+        },
+        {
+          "documentIdentifier" : "BJNR000300020BJNE001200000",
+          "paragraph" : "Anlage 8",
+          "title" : "Optimierung bestehender Heizungsanlagen, sofern diese älter als zwei Jahre sind"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

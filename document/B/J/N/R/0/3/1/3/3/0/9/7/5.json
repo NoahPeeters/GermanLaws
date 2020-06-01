@@ -1,0 +1,64 @@
+{
+  "documentIdentifier" : "BJNR031330975",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR031330975Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR031330975BJNE000200319",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR031330975BJNE000300319",
+          "paragraph" : "§ 2",
+          "title" : "Ausrüstung"
+        },
+        {
+          "documentIdentifier" : "BJNR031330975BJNE000400319",
+          "paragraph" : "§ 3",
+          "title" : "Lagerung"
+        },
+        {
+          "documentIdentifier" : "BJNR031330975BJNE000500319",
+          "paragraph" : "§ 4",
+          "title" : "Emissionswert"
+        },
+        {
+          "documentIdentifier" : "BJNR031330975BJNE000600319",
+          "paragraph" : "§ 5",
+          "title" : "Weitergehende Anforderungen"
+        },
+        {
+          "documentIdentifier" : "BJNR031330975BJNE000700319",
+          "paragraph" : "§ 6",
+          "title" : "Zulassung von Ausnahmen"
+        },
+        {
+          "documentIdentifier" : "BJNR031330975BJNE000800319",
+          "paragraph" : "§ 7",
+          "title" : "Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR031330975BJNE001000319",
+          "paragraph" : "§ 9",
+          "title" : "Berlin-Klausel"
+        },
+        {
+          "documentIdentifier" : "BJNR031330975BJNE001100319",
+          "paragraph" : "§ 10",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "documentIdentifier" : "BJNR100800001",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR100800001BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR100800001BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Anzeigepflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR100800001BJNE000303377",
+          "paragraph" : "§ 2",
+          "title" : "Überwachung"
+        },
+        {
+          "documentIdentifier" : "BJNR100800001BJNE000403377",
+          "paragraph" : "§ 3",
+          "title" : "Befallsverdacht"
+        },
+        {
+          "documentIdentifier" : "BJNR100800001BJNE000503377",
+          "paragraph" : "§ 4",
+          "title" : "Befallsfeststellung"
+        },
+        {
+          "documentIdentifier" : "BJNR100800001BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Abgrenzung und Aufhebung der Sicherheitszone"
+        },
+        {
+          "documentIdentifier" : "BJNR100800001BJNE000703377",
+          "paragraph" : "§ 6",
+          "title" : "Schutzmaßnahmen in der Sicherheitszone"
+        },
+        {
+          "documentIdentifier" : "BJNR100800001BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Züchtungs- und Haltungsverbot"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Schutzbestimmungen"
+    },
+    {
+      "documentIdentifier" : "BJNR100800001BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR100800001BJNE000903377",
+          "paragraph" : "§ 8",
+          "title" : "Verwendung und Behandlung bei Befall an Kartoffeln"
+        },
+        {
+          "documentIdentifier" : "BJNR100800001BJNE001003377",
+          "paragraph" : "§ 9",
+          "title" : "Verwendung und Behandlung bei Befall an Tomatenpflanzen"
+        },
+        {
+          "documentIdentifier" : "BJNR100800001BJNE001103377",
+          "paragraph" : "§ 10",
+          "title" : "Verbote und Beschränkungen bei Befall mit der Bakteriellen Ringfäule"
+        },
+        {
+          "documentIdentifier" : "BJNR100800001BJNE001203377",
+          "paragraph" : "§ 11",
+          "title" : "Verbote und Beschränkungen bei Befall mit der Schleimkrankheit"
+        },
+        {
+          "documentIdentifier" : "BJNR100800001BJNE001303377",
+          "paragraph" : "§ 12",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Besondere Schutzbestimmungen bei Befall"
+    },
+    {
+      "documentIdentifier" : "BJNR100800001BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR100800001BJNE001400000",
+          "paragraph" : "§ 13",
+          "title" : "Ausnahmen zu Versuchs- und Züchtungszwecken"
+        },
+        {
+          "documentIdentifier" : "BJNR100800001BJNE001504377",
+          "paragraph" : "§ 14",
+          "title" : "Ordnungswidrigkeiten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Ausnahmen, Ordnungswidrigkeiten"
+    }
+  ]
+}

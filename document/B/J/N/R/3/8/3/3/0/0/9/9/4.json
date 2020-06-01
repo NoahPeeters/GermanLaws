@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR383300994",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR383300994Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR383300994BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Grundsatz"
+        },
+        {
+          "documentIdentifier" : "BJNR383300994BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Herkunftsgebiet"
+        },
+        {
+          "documentIdentifier" : "BJNR383300994BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Begriff der Schneidwaren"
+        },
+        {
+          "documentIdentifier" : "BJNR383300994BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

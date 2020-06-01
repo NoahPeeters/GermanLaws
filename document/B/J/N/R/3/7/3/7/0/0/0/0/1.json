@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR373700001",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR373700001Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR373700001BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Zweck und Anwendungsbereich der Verordnung"
+        },
+        {
+          "documentIdentifier" : "BJNR373700001BJNE000202116",
+          "paragraph" : "§ 2",
+          "title" : "Angaben im Rahmen des koordinierten Meldewesens"
+        },
+        {
+          "documentIdentifier" : "BJNR373700001BJNE000302116",
+          "paragraph" : "§ 3",
+          "title" : "Epidemiologische Daten"
+        },
+        {
+          "documentIdentifier" : "BJNR373700001BJNE000401116",
+          "paragraph" : "§ 4",
+          "title" : "Übergangsvorschrift aus Anlass des Gesetzes zur Fortschreibung der Vorschriften für Blut- und Gewebezubereitungen und zur Änderung anderer Vorschriften"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

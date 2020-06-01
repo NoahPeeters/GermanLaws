@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR604600006",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR604600006Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR604600006BJNE000220360",
+          "paragraph" : "§ 1",
+          "title" : "Verbringungsverbot zum Schutz gegen die Blauzungenkrankheit"
+        },
+        {
+          "documentIdentifier" : "BJNR604600006BJNE000311360",
+          "paragraph" : "§ 2",
+          "title" : "Überwachungsprogramme, Beobachtungsprogramme"
+        },
+        {
+          "documentIdentifier" : "BJNR604600006BJNE000413360",
+          "paragraph" : "§ 3",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR604600006BJNE000516118",
+          "paragraph" : "§ 4",
+          "title" : "Impfungen"
+        },
+        {
+          "documentIdentifier" : "BJNR604600006BJNE002103360",
+          "paragraph" : "§ 4a",
+          "title" : "Wildtieruntersuchung, weitergehende Maßnahmen"
+        },
+        {
+          "documentIdentifier" : "BJNR604600006BJNE000618118",
+          "paragraph" : "§ 5",
+          "title" : "Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR604600006BJNE001003360",
+          "paragraph" : "§ 6",
+          "title" : "(Inkrafttreten, Außerkrafttreten)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

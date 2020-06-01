@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR200600015",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR200600015Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR200600015BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Befugnisse von Dienstbehörden"
+        },
+        {
+          "documentIdentifier" : "BJNR200600015BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Befugnisse von Dienstvorgesetzten"
+        },
+        {
+          "documentIdentifier" : "BJNR200600015BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Ernennungs- und Entlassungsbefugnis"
+        },
+        {
+          "documentIdentifier" : "BJNR200600015BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

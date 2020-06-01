@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR108100012",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR108100012Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR108100012BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR108100012BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR108100012BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Bundesamt für Kartographie und Geodäsie"
+        },
+        {
+          "documentIdentifier" : "BJNR108100012BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Weitere geotopographische Referenzdaten führende Stellen des Bundes"
+        },
+        {
+          "documentIdentifier" : "BJNR108100012BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Austausch unter Behörden"
+        },
+        {
+          "documentIdentifier" : "BJNR108100012BJNE000600000",
+          "paragraph" : "§ 6",
+          "title" : "Technische Richtlinien des Interministeriellen Ausschusses für Geoinformationswesen"
+        },
+        {
+          "documentIdentifier" : "BJNR108100012BJNE000700000",
+          "paragraph" : "§ 7",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

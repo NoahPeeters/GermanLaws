@@ -1,0 +1,74 @@
+{
+  "documentIdentifier" : "BJNR098800011",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR098800011Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR098800011BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Staatliche Anerkennung des Ausbildungsberufes"
+        },
+        {
+          "documentIdentifier" : "BJNR098800011BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Dauer der Berufsausbildung"
+        },
+        {
+          "documentIdentifier" : "BJNR098800011BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Struktur der Berufsausbildung"
+        },
+        {
+          "documentIdentifier" : "BJNR098800011BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Ausbildungsrahmenplan, Ausbildungsberufsbild"
+        },
+        {
+          "documentIdentifier" : "BJNR098800011BJNE000601125",
+          "paragraph" : "§ 5",
+          "title" : "Durchführung der Berufsausbildung"
+        },
+        {
+          "documentIdentifier" : "BJNR098800011BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Zwischenprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR098800011BJNE000801125",
+          "paragraph" : "§ 7",
+          "title" : "Abschlussprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR098800011BJNE000901125",
+          "paragraph" : "§ 8",
+          "title" : "Gewichtungs- und Bestehensregelung"
+        },
+        {
+          "documentIdentifier" : "BJNR098800011BJNE001000000",
+          "paragraph" : "§ 9",
+          "title" : "Anrechnungsregelung"
+        },
+        {
+          "documentIdentifier" : "BJNR098800011BJNE001100000",
+          "paragraph" : "§ 10",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR098800011BJNE001200000",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 4 Absatz 1 Satz 1)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

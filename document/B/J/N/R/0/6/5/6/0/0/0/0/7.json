@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR065600007",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR065600007Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR065600007BJNE000202301",
+          "paragraph" : "§ 1",
+          "title" : "Gebühren und Auslagen"
+        },
+        {
+          "documentIdentifier" : "BJNR065600007BJNE000302301",
+          "paragraph" : "§ 2",
+          "title" : "Ungültigkeit und Rücknahme von Anträgen"
+        },
+        {
+          "documentIdentifier" : "BJNR065600007BJNE000401301",
+          "paragraph" : "§ 3",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR065600007BJNE000501301",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 1)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

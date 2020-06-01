@@ -1,0 +1,156 @@
+{
+  "documentIdentifier" : "BJNR188700004",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR188700004BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR188700004BJNE000300000",
+          "paragraph" : "§ 1",
+          "title" : "Staatliche Anerkennung der Ausbildungsberufe"
+        },
+        {
+          "documentIdentifier" : "BJNR188700004BJNE000400000",
+          "paragraph" : "§ 2",
+          "title" : "Ausbildungsdauer"
+        },
+        {
+          "documentIdentifier" : "BJNR188700004BJNE000500000",
+          "paragraph" : "§ 3",
+          "title" : "Zielsetzung der Berufsausbildung"
+        },
+        {
+          "documentIdentifier" : "BJNR188700004BJNE000600000",
+          "paragraph" : "§ 4",
+          "title" : "Ausbildungsplan"
+        },
+        {
+          "documentIdentifier" : "BJNR188700004BJNE000700000",
+          "paragraph" : "§ 5",
+          "title" : "Berichtsheft"
+        },
+        {
+          "documentIdentifier" : "BJNR188700004BJNE000800000",
+          "paragraph" : "§ 6",
+          "title" : "Fortsetzung der Berufsausbildung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gemeinsame Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR188700004BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR188700004BJNE000900000",
+          "paragraph" : "§ 7",
+          "title" : "Ausbildungsberufsbild"
+        },
+        {
+          "documentIdentifier" : "BJNR188700004BJNE001000000",
+          "paragraph" : "§ 8",
+          "title" : "Ausbildungsrahmenplan"
+        },
+        {
+          "documentIdentifier" : "BJNR188700004BJNE001100000",
+          "paragraph" : "§ 9",
+          "title" : "Zwischenprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR188700004BJNE001200000",
+          "paragraph" : "§ 10",
+          "title" : "Abschlussprüfung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Vorschriften für den Ausbildungsberuf Fachlagerist\/Fachlageristin"
+    },
+    {
+      "documentIdentifier" : "BJNR188700004BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR188700004BJNE001300000",
+          "paragraph" : "§ 11",
+          "title" : "Ausbildungsberufsbild"
+        },
+        {
+          "documentIdentifier" : "BJNR188700004BJNE001400000",
+          "paragraph" : "§ 12",
+          "title" : "Ausbildungsrahmenplan"
+        },
+        {
+          "documentIdentifier" : "BJNR188700004BJNE001500000",
+          "paragraph" : "§ 13",
+          "title" : "Zwischenprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR188700004BJNE001600000",
+          "paragraph" : "§ 14",
+          "title" : "Abschlussprüfung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Vorschriften für den Ausbildungsberuf Fachkraft für Lagerlogistik"
+    },
+    {
+      "documentIdentifier" : "BJNR188700004BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR188700004BJNE001700000",
+          "paragraph" : "§ 15",
+          "title" : "Nichtanwendung von Vorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR188700004BJNE001800000",
+          "paragraph" : "§ 16",
+          "title" : "Übergangsregelung"
+        },
+        {
+          "documentIdentifier" : "BJNR188700004BJNE001900000",
+          "paragraph" : "§ 17",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR188700004BJNE002000000",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 8)"
+        },
+        {
+          "documentIdentifier" : "BJNR188700004BJNE002100000",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 12)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussvorschriften"
+    }
+  ]
+}

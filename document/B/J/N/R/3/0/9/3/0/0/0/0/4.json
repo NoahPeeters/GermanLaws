@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR309300004",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR309300004Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR309300004BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Geltungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR309300004BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Beschaffenheit und Betriebstüchtigkeit der Flugsicherungsausrüstung"
+        },
+        {
+          "documentIdentifier" : "BJNR309300004BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Flugsicherungsausrüstung für Flüge nach Instrumentenflugregeln"
+        },
+        {
+          "documentIdentifier" : "BJNR309300004BJNE000503124",
+          "paragraph" : "§ 4",
+          "title" : "Flugsicherungsausrüstung für Flüge nach Sichtflugregeln"
+        },
+        {
+          "documentIdentifier" : "BJNR309300004BJNE000601305",
+          "paragraph" : "§ 5",
+          "title" : "Pflichten des Führers, Eigentümers und Halters eines Luftfahrzeugs"
+        },
+        {
+          "documentIdentifier" : "BJNR309300004BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR309300004BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

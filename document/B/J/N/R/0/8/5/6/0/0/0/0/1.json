@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR085600001",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR085600001Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR085600001BJNE000200305",
+          "paragraph" : "§ 1",
+          "title" : "Verbot der Verwendung bestimmter Stoffe, bestimmter\nZubereitungen aus Stoffen oder bestimmter Gegenstände"
+        },
+        {
+          "documentIdentifier" : "BJNR085600001BJNE000300305",
+          "paragraph" : "§ 2",
+          "title" : "Erklärung für das Verbringen aus Mitgliedstaaten der\nEuropäischen Union und die Einfuhr aus Drittstaaten"
+        },
+        {
+          "documentIdentifier" : "BJNR085600001BJNE000401310",
+          "paragraph" : "§ 3",
+          "title" : "Straftaten und Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR085600001BJNE000500305",
+          "paragraph" : "§ 4",
+          "title" : "Übergangsregelung"
+        },
+        {
+          "documentIdentifier" : "BJNR085600001BJNE000600305",
+          "paragraph" : "§ 5",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

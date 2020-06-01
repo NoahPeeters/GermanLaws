@@ -1,0 +1,73 @@
+{
+  "documentIdentifier" : "BJNR102310999",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR102310999BJNG000100310",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR102310999BJNE000300310",
+          "paragraph" : "§ 1",
+          "title" : "Durchführung der allgemeinen Wahlstatistik"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Wahlstatistik"
+    },
+    {
+      "documentIdentifier" : "BJNR102310999BJNG000200310",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR102310999BJNE000401377",
+          "paragraph" : "§ 2",
+          "title" : "Art der Statistik"
+        },
+        {
+          "documentIdentifier" : "BJNR102310999BJNE000501377",
+          "paragraph" : "§ 3",
+          "title" : "Stichprobenauswahl"
+        },
+        {
+          "documentIdentifier" : "BJNR102310999BJNE000602377",
+          "paragraph" : "§ 4",
+          "title" : "Erhebungs- und Hilfsmerkmale sowie Bildung der Geburtsjahresgruppen"
+        },
+        {
+          "documentIdentifier" : "BJNR102310999BJNE000701377",
+          "paragraph" : "§ 5",
+          "title" : "Durchführende Stellen"
+        },
+        {
+          "documentIdentifier" : "BJNR102310999BJNE000801377",
+          "paragraph" : "§ 6",
+          "title" : "Wahlstatistische Auszählungen der Gemeinden"
+        },
+        {
+          "documentIdentifier" : "BJNR102310999BJNE000901377",
+          "paragraph" : "§ 7",
+          "title" : "Ergebnisfeststellung"
+        },
+        {
+          "documentIdentifier" : "BJNR102310999BJNE001001377",
+          "paragraph" : "§ 8",
+          "title" : "Veröffentlichung der Ergebnisse"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Repräsentative Wahlstatistik"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR147500018",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR147500018Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR147500018BJNE000200000",
+          "paragraph" : "Muster 1",
+          "title" : "Muster des Antrags auf Untersuchung"
+        },
+        {
+          "documentIdentifier" : "BJNR147500018BJNE000300000",
+          "paragraph" : "Muster 2",
+          "title" : "Muster der Bescheinigung über die Besatzung für Binnenschiffe"
+        },
+        {
+          "documentIdentifier" : "BJNR147500018BJNE000400000",
+          "paragraph" : "Muster 3",
+          "title" : "Muster des Fährzeugnisses"
+        },
+        {
+          "documentIdentifier" : "BJNR147500018BJNE000500000",
+          "paragraph" : "Muster 4",
+          "title" : "Muster des vorläufigen Fährzeugnisses"
+        },
+        {
+          "documentIdentifier" : "BJNR147500018BJNE000600000",
+          "paragraph" : "Muster 5",
+          "title" : "Muster des Abnahmeprotokolls für die Prüfung der Seil- und Kettenanlagen von seil- und kettengebundenen Fähren"
+        },
+        {
+          "documentIdentifier" : "BJNR147500018BJNE000700000",
+          "paragraph" : "Muster 6",
+          "title" : "Muster des Abnahmeprotokolls für Fahrgastboote"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

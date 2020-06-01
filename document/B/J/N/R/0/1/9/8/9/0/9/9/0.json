@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR019890990",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR019890990Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR019890990BJNE000202377",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR019890990BJNE000505124",
+          "paragraph" : "§ 4",
+          "title" : "Kennzeichnungsvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR019890990BJNE000705124",
+          "paragraph" : "§ 6",
+          "title" : "Straftaten und Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR019890990BJNE001001308",
+          "paragraph" : "§ 7",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR019890990BJNE001202308",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 3)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

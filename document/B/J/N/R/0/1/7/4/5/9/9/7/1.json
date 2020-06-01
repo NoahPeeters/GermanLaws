@@ -1,0 +1,255 @@
+{
+  "documentIdentifier" : "BJNR017459971",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR017459971BJNE001200301",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          0
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "-"
+    },
+    {
+      "documentIdentifier" : "BJNR017459971BJNG000100301",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Art 1"
+    },
+    {
+      "documentIdentifier" : "BJNR017459971BJNG000200301",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Art 2"
+    },
+    {
+      "documentIdentifier" : "BJNR017459971BJNG000300301",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Art 3"
+    },
+    {
+      "documentIdentifier" : "BJNR017459971BJNG000401377",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "(weggefallen)"
+    },
+    {
+      "documentIdentifier" : "BJNR017459971BJNG000500301",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Art 5"
+    },
+    {
+      "documentIdentifier" : "BJNR017459971BJNG000600301",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR017459971BJNE001301307",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              6
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR017459971BJNE001402377",
+              "laws" : [
+
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  6
+                ]
+              },
+              "subsections" : [
+                {
+                  "documentIdentifier" : "BJNR017459971BJNE001502377",
+                  "laws" : [
+
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      6
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Art 6"
+                }
+              ],
+              "title" : "Art 6"
+            }
+          ],
+          "title" : "Art 6"
+        }
+      ],
+      "title" : "Verbot der Zweckentfremdung von Wohnraum"
+    },
+    {
+      "documentIdentifier" : "BJNR017459971BJNG000700301",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Art 7"
+    },
+    {
+      "documentIdentifier" : "BJNR017459971BJNG000800301",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          8
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Art 8"
+    },
+    {
+      "documentIdentifier" : "BJNR017459971BJNG000900301",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          9
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gesetz zur Regelung der Wohnungsvermittlung"
+    },
+    {
+      "documentIdentifier" : "BJNR017459971BJNG001000301",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          10
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gesetz zur Regelung von Ingenieur- und Architektenleistungen"
+    },
+    {
+      "documentIdentifier" : "BJNR017459971BJNG001100301",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          11
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR017459971BJNE001600301",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              11
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR017459971BJNE001700301",
+              "laws" : [
+
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  11
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Art 11"
+            }
+          ],
+          "title" : "Art 11"
+        }
+      ],
+      "title" : "Schlußvorschriften"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR116800018",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR116800018Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR116800018BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR116800018BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Gebühren und Auslagen"
+        },
+        {
+          "documentIdentifier" : "BJNR116800018BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Gebührenbemessung"
+        },
+        {
+          "documentIdentifier" : "BJNR116800018BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Übergangsregelung"
+        },
+        {
+          "documentIdentifier" : "BJNR116800018BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR116800018BJNE000700000",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 2 Absatz 1)"
+        },
+        {
+          "documentIdentifier" : "BJNR116800018BJNE000800000",
+          "paragraph" : "Anhang",
+          "title" : "(zu Nummer 4011 der Anlage)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

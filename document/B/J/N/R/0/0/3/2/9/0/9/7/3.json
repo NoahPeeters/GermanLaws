@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR003290973",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR003290973Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR003290973BJNE000200314",
+          "paragraph" : "§ 1",
+          "title" : "Feststellung der Länderanteile an der Umsatzsteuer im\nAusgleichsjahr 1970"
+        },
+        {
+          "documentIdentifier" : "BJNR003290973BJNE000300314",
+          "paragraph" : "§ 2",
+          "title" : "Abrechnung des Finanzausgleichs unter den Ländern im\nAusgleichsjahr 1970"
+        },
+        {
+          "documentIdentifier" : "BJNR003290973BJNE000500314",
+          "paragraph" : "§ 4",
+          "title" : "Berlin-Klausel"
+        },
+        {
+          "documentIdentifier" : "BJNR003290973BJNE000600314",
+          "paragraph" : "§ 5",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

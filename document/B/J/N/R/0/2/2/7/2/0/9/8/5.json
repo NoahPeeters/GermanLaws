@@ -1,0 +1,59 @@
+{
+  "documentIdentifier" : "BJNR022720985",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR022720985Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR022720985BJNE000203377",
+          "paragraph" : "§ 1",
+          "title" : "Gesetzliche Einheiten"
+        },
+        {
+          "documentIdentifier" : "BJNR022720985BJNE000301377",
+          "paragraph" : "§ 2",
+          "title" : "Einheitennamen in Datenverarbeitungsanlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR022720985BJNE000404377",
+          "paragraph" : "§ 3",
+          "title" : "Zusätzliche Verwendung nicht gesetzlicher Einheiten"
+        },
+        {
+          "documentIdentifier" : "BJNR022720985BJNE000500325",
+          "paragraph" : "§ 4",
+          "title" : "Bezugsquelle und Niederlegung der DIN-Normen"
+        },
+        {
+          "documentIdentifier" : "BJNR022720985BJNE000603377",
+          "paragraph" : "§ 5",
+          "title" : "Bußgeldvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR022720985BJNE000700325",
+          "paragraph" : "§ 6",
+          "title" : "Inkrafttreten, abgelöste Vorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR022720985BJNE000901377",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 1)"
+        },
+        {
+          "documentIdentifier" : "BJNR022720985BJNE001001308",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 1)\n"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

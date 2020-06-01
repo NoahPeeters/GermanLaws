@@ -1,0 +1,121 @@
+{
+  "documentIdentifier" : "BJNR230200001",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR230200001BJNG000102123",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR230200001BJNE000102123",
+          "paragraph" : "§ 1",
+          "title" : "Grundsätze der Maßstabsbildung"
+        },
+        {
+          "documentIdentifier" : "BJNR230200001BJNE000202123",
+          "paragraph" : "§ 2",
+          "title" : "Bindungswirkung der Maßstäbe"
+        },
+        {
+          "documentIdentifier" : "BJNR230200001BJNE000302123",
+          "paragraph" : "§ 3",
+          "title" : "Sicherung des Eigenbehalts"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Bestimmungen"
+    },
+    {
+      "documentIdentifier" : "BJNR230200001BJNG000202123",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR230200001BJNE000402123",
+          "paragraph" : "§ 4",
+          "title" : "Vertikale Umsatzsteuerverteilung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Vertikale Umsatzsteuerverteilung (Artikel 106 Abs. 3 Satz 4 und Abs. 4 Satz 1 GG)"
+    },
+    {
+      "documentIdentifier" : "BJNR230200001BJNG000302123",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR230200001BJNE000602123",
+          "paragraph" : "§ 5",
+          "title" : "Grundsätze für die horizontale Umsatzsteuerverteilung"
+        },
+        {
+          "documentIdentifier" : "BJNR230200001BJNE000702123",
+          "paragraph" : "§ 6",
+          "title" : "Finanzkraft"
+        },
+        {
+          "documentIdentifier" : "BJNR230200001BJNE000802123",
+          "paragraph" : "§ 7",
+          "title" : "Vergleichbarkeit der Finanzkraft, Berücksichtigung des kommunalen Finanzbedarfs, Einwohnergewichtung und Förderabgabe"
+        },
+        {
+          "documentIdentifier" : "BJNR230200001BJNE000902123",
+          "paragraph" : "§ 8",
+          "title" : "Ausgleichshöhe"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Horizontale Umsatzsteuerverteilung (Artikel 107 Absatz 1 Satz 4 und Absatz 2 Satz 1 bis 4 GG)"
+    },
+    {
+      "documentIdentifier" : "BJNR230200001BJNG000502123",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR230200001BJNE001002123",
+          "paragraph" : "§ 9",
+          "title" : "Funktion der Bundesergänzungszuweisungen"
+        },
+        {
+          "documentIdentifier" : "BJNR230200001BJNE001102123",
+          "paragraph" : "§ 10",
+          "title" : "Allgemeine Bundesergänzungszuweisungen"
+        },
+        {
+          "documentIdentifier" : "BJNR230200001BJNE001601123",
+          "paragraph" : "§ 11",
+          "title" : "Zuweisungen nach Artikel 107 Absatz 2 Satz 6 des Grundgesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR230200001BJNE001203123",
+          "paragraph" : "§ 12",
+          "title" : "Sonderbedarfs-Bundesergänzungszuweisungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Bundesergänzungszuweisungen (Artikel 107 Absatz 2 Satz 5 und 6 GG)"
+    }
+  ]
+}

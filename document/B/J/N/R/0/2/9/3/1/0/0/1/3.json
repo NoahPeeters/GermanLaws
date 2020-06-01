@@ -1,0 +1,146 @@
+{
+  "documentIdentifier" : "BJNR029310013",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR029310013BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR029310013BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR029310013BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Zuständige Stellen"
+        },
+        {
+          "documentIdentifier" : "BJNR029310013BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Einzelstückprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR029310013BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Anerkennung der Musterprüfung anderer Stellen"
+        },
+        {
+          "documentIdentifier" : "BJNR029310013BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Anerkennung der Herstellungsnachweise anderer Stellen"
+        },
+        {
+          "documentIdentifier" : "BJNR029310013BJNE000600000",
+          "paragraph" : "§ 6",
+          "title" : "Anerkennung der Instandhaltungsnachweise anderer Stellen"
+        },
+        {
+          "documentIdentifier" : "BJNR029310013BJNE000700000",
+          "paragraph" : "§ 7",
+          "title" : "Genehmigung von Kleinbetrieben"
+        },
+        {
+          "documentIdentifier" : "BJNR029310013BJNE000800000",
+          "paragraph" : "§ 8",
+          "title" : "Behebung von Mängeln des Musters"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR029310013BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR029310013BJNE000900000",
+          "paragraph" : "§ 9",
+          "title" : "Musterprüfung und Stückprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR029310013BJNE001001116",
+          "paragraph" : "§ 10",
+          "title" : "Luftsportgerät"
+        },
+        {
+          "documentIdentifier" : "BJNR029310013BJNE001100000",
+          "paragraph" : "§ 11",
+          "title" : "Nicht musterzulassungspflichtiges Luftsportgerät"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Entwicklung und Herstellung"
+    },
+    {
+      "documentIdentifier" : "BJNR029310013BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR029310013BJNE001200000",
+          "paragraph" : "§ 12",
+          "title" : "Durchführung der Instandhaltungsmaßnahmen"
+        },
+        {
+          "documentIdentifier" : "BJNR029310013BJNE001300000",
+          "paragraph" : "§ 13",
+          "title" : "Nachprüfungen"
+        },
+        {
+          "documentIdentifier" : "BJNR029310013BJNE001400000",
+          "paragraph" : "§ 14",
+          "title" : "Angeordnete Maßnahmen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Instandhaltung"
+    },
+    {
+      "documentIdentifier" : "BJNR029310013BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR029310013BJNE001500000",
+          "paragraph" : "§ 15",
+          "title" : "Durchführungsvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR029310013BJNE001600000",
+          "paragraph" : "§ 16",
+          "title" : "Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR029310013BJNE001700000",
+          "paragraph" : "§ 17",
+          "title" : "Übergangsbestimmungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussvorschriften"
+    }
+  ]
+}

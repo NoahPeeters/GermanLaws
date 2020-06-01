@@ -1,0 +1,518 @@
+{
+  "documentIdentifier" : "BJNR119530979",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR119530979BJNG000904301",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR119530979BJNE001621123",
+          "paragraph" : "§ 1",
+          "title" : "Steuerbare Umsätze"
+        },
+        {
+          "documentIdentifier" : "BJNR119530979BJNE006709123",
+          "paragraph" : "§ 1a",
+          "title" : "Innergemeinschaftlicher Erwerb"
+        },
+        {
+          "documentIdentifier" : "BJNR119530979BJNE006804301",
+          "paragraph" : "§ 1b",
+          "title" : "Innergemeinschaftlicher Erwerb neuer Fahrzeuge"
+        },
+        {
+          "documentIdentifier" : "BJNR119530979BJNE007403301",
+          "paragraph" : "§ 1c",
+          "title" : "Innergemeinschaftlicher Erwerb durch diplomatische Missionen,\nzwischenstaatliche Einrichtungen und Streitkräfte der\nVertragsparteien des Nordatlantikvertrags"
+        },
+        {
+          "documentIdentifier" : "BJNR119530979BJNE001712116",
+          "paragraph" : "§ 2",
+          "title" : "Unternehmer, Unternehmen"
+        },
+        {
+          "documentIdentifier" : "BJNR119530979BJNE008203301",
+          "paragraph" : "§ 2a",
+          "title" : "Fahrzeuglieferer"
+        },
+        {
+          "documentIdentifier" : "BJNR119530979BJNE010101123",
+          "paragraph" : "§ 2b",
+          "title" : "Juristische Personen des öffentlichen Rechts"
+        },
+        {
+          "documentIdentifier" : "BJNR119530979BJNE001820123",
+          "paragraph" : "§ 3",
+          "title" : "Lieferung, sonstige Leistung"
+        },
+        {
+          "documentIdentifier" : "BJNR119530979BJNE001927123",
+          "paragraph" : "§ 3a",
+          "title" : "Ort der sonstigen Leistung"
+        },
+        {
+          "documentIdentifier" : "BJNR119530979BJNE006906140",
+          "paragraph" : "§ 3b",
+          "title" : "Ort der Beförderungsleistungen und der damit zusammenhängenden sonstigen Leistungen"
+        },
+        {
+          "documentIdentifier" : "BJNR119530979BJNE005506301",
+          "paragraph" : "§ 3c",
+          "title" : "Ort der Lieferung in besonderen Fällen"
+        },
+        {
+          "documentIdentifier" : "BJNR119530979BJNE005605140",
+          "paragraph" : "§ 3d",
+          "title" : "Ort des innergemeinschaftlichen Erwerbs"
+        },
+        {
+          "documentIdentifier" : "BJNR119530979BJNE007204140",
+          "paragraph" : "§ 3e",
+          "title" : "Ort der Lieferungen und Restaurationsleistungen während einer Beförderung an Bord eines Schiffs, in einem Luftfahrzeug oder in einer Eisenbahn"
+        },
+        {
+          "documentIdentifier" : "BJNR119530979BJNE008103123",
+          "paragraph" : "§ 3f",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR119530979BJNE009602140",
+          "paragraph" : "§ 3g",
+          "title" : "Ort der Lieferung von Gas, Elektrizität, Wärme oder Kälte"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Steuergegenstand und Geltungsbereich"
+    },
+    {
+      "documentIdentifier" : "BJNR119530979BJNG001004301",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR119530979BJNE010207123",
+          "paragraph" : "§ 4",
+          "title" : "Steuerbefreiungen bei Lieferungen und sonstigen Leistungen"
+        },
+        {
+          "documentIdentifier" : "BJNR119530979BJNE002109116",
+          "paragraph" : "§ 4a",
+          "title" : "Steuervergütung"
+        },
+        {
+          "documentIdentifier" : "BJNR119530979BJNE005706301",
+          "paragraph" : "§ 4b",
+          "title" : "Steuerbefreiung beim innergemeinschaftlichen Erwerb von\nGegenständen"
+        },
+        {
+          "documentIdentifier" : "BJNR119530979BJNE002215140",
+          "paragraph" : "§ 5",
+          "title" : "Steuerbefreiungen bei der Einfuhr"
+        },
+        {
+          "documentIdentifier" : "BJNR119530979BJNE002316123",
+          "paragraph" : "§ 6",
+          "title" : "Ausfuhrlieferung"
+        },
+        {
+          "documentIdentifier" : "BJNR119530979BJNE005806123",
+          "paragraph" : "§ 6a",
+          "title" : "Innergemeinschaftliche Lieferung"
+        },
+        {
+          "documentIdentifier" : "BJNR119530979BJNE011000123",
+          "paragraph" : "§ 6b",
+          "title" : "Konsignationslagerregelung"
+        },
+        {
+          "documentIdentifier" : "BJNR119530979BJNE002410301",
+          "paragraph" : "§ 7",
+          "title" : "Lohnveredelung an Gegenständen der Ausfuhr"
+        },
+        {
+          "documentIdentifier" : "BJNR119530979BJNE002510140",
+          "paragraph" : "§ 8",
+          "title" : "Umsätze für die Seeschiffahrt und für die Luftfahrt"
+        },
+        {
+          "documentIdentifier" : "BJNR119530979BJNE002612140",
+          "paragraph" : "§ 9",
+          "title" : "Verzicht auf Steuerbefreiungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Steuerbefreiungen und Steuervergütungen"
+    },
+    {
+      "documentIdentifier" : "BJNR119530979BJNG001104301",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR119530979BJNE002718123",
+          "paragraph" : "§ 10",
+          "title" : "Bemessungsgrundlage für Lieferungen, sonstige Leistungen und innergemeinschaftliche Erwerbe"
+        },
+        {
+          "documentIdentifier" : "BJNR119530979BJNE002815140",
+          "paragraph" : "§ 11",
+          "title" : "Bemessungsgrundlage für die Einfuhr"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Bemessungsgrundlagen"
+    },
+    {
+      "documentIdentifier" : "BJNR119530979BJNG001204301",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR119530979BJNE002932123",
+          "paragraph" : "§ 12",
+          "title" : "Steuersätze"
+        },
+        {
+          "documentIdentifier" : "BJNR119530979BJNE003016116",
+          "paragraph" : "§ 13",
+          "title" : "Entstehung der Steuer"
+        },
+        {
+          "documentIdentifier" : "BJNR119530979BJNE008402301",
+          "paragraph" : "§ 13a",
+          "title" : "Steuerschuldner"
+        },
+        {
+          "documentIdentifier" : "BJNR119530979BJNE008525123",
+          "paragraph" : "§ 13b",
+          "title" : "Leistungsempfänger als Steuerschuldner"
+        },
+        {
+          "documentIdentifier" : "BJNR119530979BJNE009102360",
+          "paragraph" : "§ 13c",
+          "title" : "Haftung bei Abtretung, Verpfändung oder Pfändung von Forderungen"
+        },
+        {
+          "documentIdentifier" : "BJNR119530979BJNE009203301",
+          "paragraph" : "§ 13d",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR119530979BJNE003122123",
+          "paragraph" : "§ 14",
+          "title" : "Ausstellung von Rechnungen"
+        },
+        {
+          "documentIdentifier" : "BJNR119530979BJNE005913118",
+          "paragraph" : "§ 14a",
+          "title" : "Zusätzliche Pflichten bei der Ausstellung von Rechnungen in besonderen Fällen"
+        },
+        {
+          "documentIdentifier" : "BJNR119530979BJNE009305140",
+          "paragraph" : "§ 14b",
+          "title" : "Aufbewahrung von Rechnungen"
+        },
+        {
+          "documentIdentifier" : "BJNR119530979BJNE009401301",
+          "paragraph" : "§ 14c",
+          "title" : "Unrichtiger oder unberechtigter Steuerausweis"
+        },
+        {
+          "documentIdentifier" : "BJNR119530979BJNE003221123",
+          "paragraph" : "§ 15",
+          "title" : "Vorsteuerabzug"
+        },
+        {
+          "documentIdentifier" : "BJNR119530979BJNE003312140",
+          "paragraph" : "§ 15a",
+          "title" : "Berichtigung des Vorsteuerabzugs"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Steuer und Vorsteuer"
+    },
+    {
+      "documentIdentifier" : "BJNR119530979BJNG001304301",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR119530979BJNE003421123",
+          "paragraph" : "§ 16",
+          "title" : "Steuerberechnung, Besteuerungszeitraum und Einzelbesteuerung"
+        },
+        {
+          "documentIdentifier" : "BJNR119530979BJNE003509140",
+          "paragraph" : "§ 17",
+          "title" : "Änderung der Bemessungsgrundlage"
+        },
+        {
+          "documentIdentifier" : "BJNR119530979BJNE003640123",
+          "paragraph" : "§ 18",
+          "title" : "Besteuerungsverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR119530979BJNE006017123",
+          "paragraph" : "§ 18a",
+          "title" : "Zusammenfassende Meldung"
+        },
+        {
+          "documentIdentifier" : "BJNR119530979BJNE006109140",
+          "paragraph" : "§ 18b",
+          "title" : "Gesonderte Erklärung innergemeinschaftlicher Lieferungen und bestimmter sonstiger Leistungen im Besteuerungsverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR119530979BJNE006206301",
+          "paragraph" : "§ 18c",
+          "title" : "Meldepflicht bei der Lieferung neuer Fahrzeuge"
+        },
+        {
+          "documentIdentifier" : "BJNR119530979BJNE006305140",
+          "paragraph" : "§ 18d",
+          "title" : "Vorlage von Urkunden"
+        },
+        {
+          "documentIdentifier" : "BJNR119530979BJNE006405308",
+          "paragraph" : "§ 18e",
+          "title" : "Bestätigungsverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR119530979BJNE008601301",
+          "paragraph" : "§ 18f",
+          "title" : "Sicherheitsleistung"
+        },
+        {
+          "documentIdentifier" : "BJNR119530979BJNE009701377",
+          "paragraph" : "§ 18g",
+          "title" : "Abgabe des Antrags auf Vergütung von Vorsteuerbeträgen in einem anderen Mitgliedstaat"
+        },
+        {
+          "documentIdentifier" : "BJNR119530979BJNE009901377",
+          "paragraph" : "§ 18h",
+          "title" : "Verfahren der Abgabe der Umsatzsteuererklärung für einen anderen Mitgliedstaat"
+        },
+        {
+          "documentIdentifier" : "BJNR119530979BJNE003718123",
+          "paragraph" : "§ 19",
+          "title" : "Besteuerung der Kleinunternehmer"
+        },
+        {
+          "documentIdentifier" : "BJNR119530979BJNE003814123",
+          "paragraph" : "§ 20",
+          "title" : "Berechnung der Steuer nach vereinnahmten Entgelten"
+        },
+        {
+          "documentIdentifier" : "BJNR119530979BJNE003911301",
+          "paragraph" : "§ 21",
+          "title" : "Besondere Vorschriften für die Einfuhrumsatzsteuer"
+        },
+        {
+          "documentIdentifier" : "BJNR119530979BJNE004023123",
+          "paragraph" : "§ 22",
+          "title" : "Aufzeichnungspflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR119530979BJNE007504301",
+          "paragraph" : "§ 22a",
+          "title" : "Fiskalvertretung"
+        },
+        {
+          "documentIdentifier" : "BJNR119530979BJNE007603123",
+          "paragraph" : "§ 22b",
+          "title" : "Rechte und Pflichten des Fiskalvertreters"
+        },
+        {
+          "documentIdentifier" : "BJNR119530979BJNE007702301",
+          "paragraph" : "§ 22c",
+          "title" : "Ausstellung von Rechnungen im Falle der Fiskalvertretung"
+        },
+        {
+          "documentIdentifier" : "BJNR119530979BJNE007802301",
+          "paragraph" : "§ 22d",
+          "title" : "Steuernummer und zuständiges Finanzamt"
+        },
+        {
+          "documentIdentifier" : "BJNR119530979BJNE007902301",
+          "paragraph" : "§ 22e",
+          "title" : "Untersagung der Fiskalvertretung"
+        },
+        {
+          "documentIdentifier" : "BJNR119530979BJNE010301123",
+          "paragraph" : "§ 22f",
+          "title" : "Besondere Pflichten für Betreiber eines elektronischen Marktplatzes"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Besteuerung"
+    },
+    {
+      "documentIdentifier" : "BJNR119530979BJNG001405301",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR119530979BJNE004105301",
+          "paragraph" : "§ 23",
+          "title" : "Allgemeine Durchschnittsätze"
+        },
+        {
+          "documentIdentifier" : "BJNR119530979BJNE005107301",
+          "paragraph" : "§ 23a",
+          "title" : "Durchschnittssatz für Körperschaften, Personenvereinigungen und Vermögensmassen im Sinne des § 5 Abs. 1 Nr. 9 des Körperschaftsteuergesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR119530979BJNE004218301",
+          "paragraph" : "§ 24",
+          "title" : "Durchschnittssätze für land- und forstwirtschaftliche Betriebe"
+        },
+        {
+          "documentIdentifier" : "BJNR119530979BJNE004311123",
+          "paragraph" : "§ 25",
+          "title" : "Besteuerung von Reiseleistungen"
+        },
+        {
+          "documentIdentifier" : "BJNR119530979BJNE005215118",
+          "paragraph" : "§ 25a",
+          "title" : "Differenzbesteuerung"
+        },
+        {
+          "documentIdentifier" : "BJNR119530979BJNE008003301",
+          "paragraph" : "§ 25b",
+          "title" : "Innergemeinschaftliche Dreiecksgeschäfte"
+        },
+        {
+          "documentIdentifier" : "BJNR119530979BJNE008302116",
+          "paragraph" : "§ 25c",
+          "title" : "Besteuerung von Umsätzen mit Anlagegold"
+        },
+        {
+          "documentIdentifier" : "BJNR119530979BJNE008703123",
+          "paragraph" : "§ 25d",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR119530979BJNE010500123",
+          "paragraph" : "§ 25e",
+          "title" : "Haftung beim Handel auf einem elektronischen Marktplatz"
+        },
+        {
+          "documentIdentifier" : "BJNR119530979BJNE011100123",
+          "paragraph" : "§ 25f",
+          "title" : "Versagung des Vorsteuerabzugs und der Steuerbefreiung bei Beteiligung an einer Steuerhinterziehung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Sonderregelungen"
+    },
+    {
+      "documentIdentifier" : "BJNR119530979BJNG001505301",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR119530979BJNE004411140",
+          "paragraph" : "§ 26",
+          "title" : "Durchführung, Erstattung in Sonderfällen"
+        },
+        {
+          "documentIdentifier" : "BJNR119530979BJNE006512118",
+          "paragraph" : "§ 26a",
+          "title" : "Bußgeldvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR119530979BJNE008802140",
+          "paragraph" : "§ 26b",
+          "title" : "Schädigung des Umsatzsteueraufkommens"
+        },
+        {
+          "documentIdentifier" : "BJNR119530979BJNE008901301",
+          "paragraph" : "§ 26c",
+          "title" : "Gewerbsmäßige oder bandenmäßige Schädigung des Umsatzsteueraufkommens"
+        },
+        {
+          "documentIdentifier" : "BJNR119530979BJNE004543123",
+          "paragraph" : "§ 27",
+          "title" : "Allgemeine Übergangsvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR119530979BJNE006610123",
+          "paragraph" : "§ 27a",
+          "title" : "Umsatzsteuer-Identifikationsnummer"
+        },
+        {
+          "documentIdentifier" : "BJNR119530979BJNE009002140",
+          "paragraph" : "§ 27b",
+          "title" : "Umsatzsteuer-Nachschau"
+        },
+        {
+          "documentIdentifier" : "BJNR119530979BJNE004629140",
+          "paragraph" : "§ 28",
+          "title" : "Zeitlich begrenzte Fassungen einzelner Gesetzesvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR119530979BJNE004705301",
+          "paragraph" : "§ 29",
+          "title" : "Umstellung langfristiger Verträge"
+        },
+        {
+          "documentIdentifier" : "BJNR119530979BJNE009502301",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 4 Nr. 4a)\n"
+        },
+        {
+          "documentIdentifier" : "BJNR119530979BJNE004920123",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 12 Absatz 2 Nummer 1, 2, 12, 13 und 14)"
+        },
+        {
+          "documentIdentifier" : "BJNR119530979BJNE009800140",
+          "paragraph" : "Anlage 3",
+          "title" : "(zu § 13b Absatz 2 Nummer 7)"
+        },
+        {
+          "documentIdentifier" : "BJNR119530979BJNE010002116",
+          "paragraph" : "Anlage 4",
+          "title" : "(zu § 13b Absatz 2 Nummer 11)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Durchführung, Bußgeld-, Straf-, Verfahrens-, Übergangs- und Schlussvorschriften"
+    }
+  ]
+}

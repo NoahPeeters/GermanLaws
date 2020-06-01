@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR064200015",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR064200015Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR064200015BJNE000300000",
+          "paragraph" : "Art 1",
+          "title" : "Gesetz über die Mitwirkung des Bundes an der Besetzung von Gremien"
+        },
+        {
+          "documentIdentifier" : "BJNR064200015BJNE000400000",
+          "paragraph" : "Art 2",
+          "title" : "Gesetz für die Gleichstellung von Frauen und Männern in der Bundesverwaltung und in den Unternehmen und Gerichten des Bundes"
+        },
+        {
+          "documentIdentifier" : "BJNR064200015BJNE003101377",
+          "paragraph" : "Art 23",
+          "title" : "Berichtswesen, Evaluation"
+        },
+        {
+          "documentIdentifier" : "BJNR064200015BJNE003200000",
+          "paragraph" : "Art 24",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

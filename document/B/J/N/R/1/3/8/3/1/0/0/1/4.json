@@ -1,0 +1,271 @@
+{
+  "documentIdentifier" : "BJNR138310014",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR138310014BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR138310014BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR138310014BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR138310014BJNG000200000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR138310014BJNG000300000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR138310014BJNE000400000",
+              "paragraph" : "§ 3",
+              "title" : "Anforderungen an die Seediensttauglichkeit"
+            },
+            {
+              "documentIdentifier" : "BJNR138310014BJNE000500000",
+              "paragraph" : "§ 4",
+              "title" : "Durchführung der Seediensttauglichkeitsuntersuchung"
+            },
+            {
+              "documentIdentifier" : "BJNR138310014BJNE000600000",
+              "paragraph" : "§ 5",
+              "title" : "Seediensttauglichkeitszeugnis"
+            },
+            {
+              "documentIdentifier" : "BJNR138310014BJNE000700000",
+              "paragraph" : "§ 6",
+              "title" : "Einschränkungen der Seediensttauglichkeit"
+            },
+            {
+              "documentIdentifier" : "BJNR138310014BJNE000800000",
+              "paragraph" : "§ 7",
+              "title" : "Ablehnung der Seediensttauglichkeit"
+            },
+            {
+              "documentIdentifier" : "BJNR138310014BJNE000900000",
+              "paragraph" : "§ 8",
+              "title" : "Widerspruchsausschuss"
+            },
+            {
+              "documentIdentifier" : "BJNR138310014BJNE001000000",
+              "paragraph" : "§ 9",
+              "title" : "Zulassung von Ärzten"
+            },
+            {
+              "documentIdentifier" : "BJNR138310014BJNE001100000",
+              "paragraph" : "§ 10",
+              "title" : "Verlängerung der Zulassung"
+            },
+            {
+              "documentIdentifier" : "BJNR138310014BJNE001200000",
+              "paragraph" : "§ 11",
+              "title" : "Dokumentationspflichten"
+            },
+            {
+              "documentIdentifier" : "BJNR138310014BJNE001300000",
+              "paragraph" : "§ 12",
+              "title" : "Zugang zum Seediensttauglichkeitsverzeichnis"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Anforderungen an Personen an Bord"
+        },
+        {
+          "documentIdentifier" : "BJNR138310014BJNG000400000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR138310014BJNE001400000",
+              "paragraph" : "§ 13",
+              "title" : "Anforderungen an die Seediensttauglichkeit von Kanalsteurern"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Anforderungen an besondere Personengruppen"
+        }
+      ],
+      "title" : "Seediensttauglichkeit"
+    },
+    {
+      "documentIdentifier" : "BJNR138310014BJNG000500000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR138310014BJNG000600000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR138310014BJNE001500000",
+              "paragraph" : "§ 14",
+              "title" : "Betriebseigene Kontrollen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Durchführung der medizinischen Betreuung"
+        },
+        {
+          "documentIdentifier" : "BJNR138310014BJNG000700000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR138310014BJNE001600000",
+              "paragraph" : "§ 15",
+              "title" : "Verpflichtung zur Teilnahme an medizinischen Wiederholungslehrgängen"
+            },
+            {
+              "documentIdentifier" : "BJNR138310014BJNE001701124",
+              "paragraph" : "§ 16",
+              "title" : "Zulassung von Lehrgängen"
+            },
+            {
+              "documentIdentifier" : "BJNR138310014BJNE001800000",
+              "paragraph" : "§ 17",
+              "title" : "Überwachung der Anbieter"
+            },
+            {
+              "documentIdentifier" : "BJNR138310014BJNE001901124",
+              "paragraph" : "§ 18",
+              "title" : "Inhalt und Durchführung der Lehrgänge"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Medizinische Wiederholungslehrgänge"
+        },
+        {
+          "documentIdentifier" : "BJNR138310014BJNG000800000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR138310014BJNE002000000",
+              "paragraph" : "§ 19",
+              "title" : "Registrierung von Schiffsärzten"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Schiffsärzte"
+        }
+      ],
+      "title" : "Medizinische Betreuung"
+    },
+    {
+      "documentIdentifier" : "BJNR138310014BJNG000900000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR138310014BJNE002100000",
+          "paragraph" : "§ 20",
+          "title" : "Muster"
+        },
+        {
+          "documentIdentifier" : "BJNR138310014BJNE002200000",
+          "paragraph" : "§ 21",
+          "title" : "Übergangsregelung für vorläufig zugelassene Ärzte"
+        },
+        {
+          "documentIdentifier" : "BJNR138310014BJNE002300000",
+          "paragraph" : "§ 22",
+          "title" : "Übergangsregelung für Lehrgänge"
+        },
+        {
+          "documentIdentifier" : "BJNR138310014BJNE002400000",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 3 und § 13 Absatz 1 Nummer 1 und Absatz 3)"
+        },
+        {
+          "documentIdentifier" : "BJNR138310014BJNE002500000",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 4 Absatz 1)"
+        },
+        {
+          "documentIdentifier" : "BJNR138310014BJNE002600000",
+          "paragraph" : "Anlage 3",
+          "title" : "(zu § 5 Absatz 1 Nummer 2 und § 9 Absatz 4)"
+        },
+        {
+          "documentIdentifier" : "BJNR138310014BJNE002700000",
+          "paragraph" : "Anlage 4",
+          "title" : "(zu § 16 Absatz 1 Nummer 1 und § 18 Absatz 1)"
+        },
+        {
+          "documentIdentifier" : "BJNR138310014BJNE002800000",
+          "paragraph" : "Anlage 5",
+          "title" : "(zu § 16 Absatz 1 Nummer 4)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übergangs- und Schlussvorschriften"
+    }
+  ]
+}

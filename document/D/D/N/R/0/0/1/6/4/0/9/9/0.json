@@ -1,0 +1,86 @@
+{
+  "documentIdentifier" : "DDNR001640990",
+  "sections" : [
+    {
+      "documentIdentifier" : "DDNR001640990Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "DDNR001640990BJNE000400314",
+          "paragraph" : "§ 1",
+          "title" : "Grundsätze"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "DDNR001640990BJNG000100314",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Gründung"
+        }
+      ],
+      "title" : "Inhalt"
+    },
+    {
+      "documentIdentifier" : "DDNR001640990BJNG000200314",
+      "laws" : [
+        {
+          "documentIdentifier" : "DDNR001640990BJNE000901308",
+          "paragraph" : "§ 6",
+          "title" : "Wirksamwerden der Umwandlung, Rechtsfolge,\nErlöschen"
+        },
+        {
+          "documentIdentifier" : "DDNR001640990BJNE001000314",
+          "paragraph" : "§ 7",
+          "title" : "Auflösung"
+        },
+        {
+          "documentIdentifier" : "DDNR001640990BJNE001100314",
+          "paragraph" : "§ 8",
+          "title" : "Beschlußfassung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Umwandlung"
+    },
+    {
+      "documentIdentifier" : "DDNR001640990BJNG000300314",
+      "laws" : [
+        {
+          "documentIdentifier" : "DDNR001640990BJNE888800301",
+          "paragraph" : "Anhang EV",
+          "title" : "Auszug aus EinigVtr Anlage II Kapitel V Sachgebiet A Abschnitt III\n"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlußbestimmungen"
+    }
+  ]
+}

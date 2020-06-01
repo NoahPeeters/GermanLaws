@@ -1,0 +1,219 @@
+{
+  "documentIdentifier" : "BJNR037500009",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR037500009BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR037500009BJNE000300000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR037500009BJNE000400000",
+          "paragraph" : "§ 2",
+          "title" : "Zulassungsnummer"
+        },
+        {
+          "documentIdentifier" : "BJNR037500009BJNE000500000",
+          "paragraph" : "§ 3",
+          "title" : "Ausnahmen für Straßentransportmittel"
+        },
+        {
+          "documentIdentifier" : "BJNR037500009BJNE000600000",
+          "paragraph" : "§ 4",
+          "title" : "Befähigungsnachweis"
+        },
+        {
+          "documentIdentifier" : "BJNR037500009BJNE000701360",
+          "paragraph" : "§ 5",
+          "title" : "Schienentransport"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR037500009BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR037500009BJNE000801360",
+          "paragraph" : "§ 6",
+          "title" : "Besondere Anforderungen an Behältnisse"
+        },
+        {
+          "documentIdentifier" : "BJNR037500009BJNE000901360",
+          "paragraph" : "§ 7",
+          "title" : "Pflichten des Absenders"
+        },
+        {
+          "documentIdentifier" : "BJNR037500009BJNE001001360",
+          "paragraph" : "§ 8",
+          "title" : "Nachnahmeversand"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Transport in Behältnissen"
+    },
+    {
+      "documentIdentifier" : "BJNR037500009BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR037500009BJNE001101360",
+          "paragraph" : "§ 9",
+          "title" : "Raumbedarf und Pflege"
+        },
+        {
+          "documentIdentifier" : "BJNR037500009BJNE001201360",
+          "paragraph" : "§ 10",
+          "title" : "Begrenzung von Transporten"
+        },
+        {
+          "documentIdentifier" : "BJNR037500009BJNE001301360",
+          "paragraph" : "§ 11",
+          "title" : "Eintagsküken"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Besondere Vorschriften zum Schutz von Nutztieren beim innerstaatlichen Transport"
+    },
+    {
+      "documentIdentifier" : "BJNR037500009BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR037500009BJNE001401360",
+          "paragraph" : "§ 12",
+          "title" : "Meeressäugetiere und Vögel"
+        },
+        {
+          "documentIdentifier" : "BJNR037500009BJNE001501360",
+          "paragraph" : "§ 13",
+          "title" : "Wechselwarme Wirbeltiere und wirbellose Tiere"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Besondere Vorschriften zum Schutz von anderen Tieren als Nutztieren"
+    },
+    {
+      "documentIdentifier" : "BJNR037500009BJNG000500000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR037500009BJNE001601118",
+          "paragraph" : "§ 14",
+          "title" : "Ausfuhr über bestimmte Überwachungsstellen"
+        },
+        {
+          "documentIdentifier" : "BJNR037500009BJNE001700000",
+          "paragraph" : "§ 15",
+          "title" : "Anzeige der Ankunft"
+        },
+        {
+          "documentIdentifier" : "BJNR037500009BJNE001801118",
+          "paragraph" : "§ 16",
+          "title" : "Einfuhr über bestimmte Überwachungsstellen"
+        },
+        {
+          "documentIdentifier" : "BJNR037500009BJNE001901360",
+          "paragraph" : "§ 17",
+          "title" : "Einfuhrdokument"
+        },
+        {
+          "documentIdentifier" : "BJNR037500009BJNE002000000",
+          "paragraph" : "§ 18",
+          "title" : "Anforderungen an die Einfuhr"
+        },
+        {
+          "documentIdentifier" : "BJNR037500009BJNE002100000",
+          "paragraph" : "§ 19",
+          "title" : "Einfuhruntersuchung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Grenzüberschreitender Transport"
+    },
+    {
+      "documentIdentifier" : "BJNR037500009BJNG000600000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR037500009BJNE002200000",
+          "paragraph" : "§ 20",
+          "title" : "Befugnisse der Behörde"
+        },
+        {
+          "documentIdentifier" : "BJNR037500009BJNE002300000",
+          "paragraph" : "§ 21",
+          "title" : "Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR037500009BJNE002401360",
+          "paragraph" : "§ 22",
+          "title" : "Unterrichtung"
+        },
+        {
+          "documentIdentifier" : "BJNR037500009BJNE002600000",
+          "paragraph" : "§ 24",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR037500009BJNE002800000",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 6)"
+        },
+        {
+          "documentIdentifier" : "BJNR037500009BJNE002900000",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 9 Abs. 1 und 2)"
+        },
+        {
+          "documentIdentifier" : "BJNR037500009BJNE003000000",
+          "paragraph" : "Anlage 3",
+          "title" : "(zu § 19 Abs. 1)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Befugnisse der Behörde, Ordnungswidrigkeiten"
+    }
+  ]
+}

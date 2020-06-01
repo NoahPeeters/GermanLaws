@@ -1,0 +1,355 @@
+{
+  "documentIdentifier" : "BJNR313600005",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR313600005BJNG000101123",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR313600005BJNE000210126",
+          "paragraph" : "§ 1",
+          "title" : "Gegenstand der Verordnung"
+        },
+        {
+          "documentIdentifier" : "BJNR313600005BJNE000304126",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR313600005BJNG000204126",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR313600005BJNG000301123",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR313600005BJNE000405126",
+              "paragraph" : "§ 3",
+              "title" : "Kreis der Verpflichteten"
+            },
+            {
+              "documentIdentifier" : "BJNR313600005BJNE000503123",
+              "paragraph" : "§ 4",
+              "title" : "Grenzen des Anwendungsbereichs"
+            },
+            {
+              "documentIdentifier" : "BJNR313600005BJNE000604126",
+              "paragraph" : "§ 5",
+              "title" : "Grundsätze"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Kreis der Verpflichteten, Grundsätze"
+        },
+        {
+          "documentIdentifier" : "BJNR313600005BJNG000401123",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR313600005BJNE000702123",
+              "paragraph" : "§ 6",
+              "title" : "Grundlegende Anforderungen an die technischen Einrichtungen"
+            },
+            {
+              "documentIdentifier" : "BJNR313600005BJNE000803123",
+              "paragraph" : "§ 7",
+              "title" : "Bereitzustellende Daten"
+            },
+            {
+              "documentIdentifier" : "BJNR313600005BJNE000902123",
+              "paragraph" : "§ 8",
+              "title" : "Übergabepunkt"
+            },
+            {
+              "documentIdentifier" : "BJNR313600005BJNE001002123",
+              "paragraph" : "§ 9",
+              "title" : "Übermittlung der Überwachungskopie"
+            },
+            {
+              "documentIdentifier" : "BJNR313600005BJNE001102123",
+              "paragraph" : "§ 10",
+              "title" : "Zeitweilige Übermittlungshindernisse"
+            },
+            {
+              "documentIdentifier" : "BJNR313600005BJNE001203123",
+              "paragraph" : "§ 11",
+              "title" : "(weggefallen)"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Technische Anforderungen"
+        },
+        {
+          "documentIdentifier" : "BJNR313600005BJNG000501123",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR313600005BJNE001303123",
+              "paragraph" : "§ 12",
+              "title" : "Entgegennahme der Anordnung, Rückfragen"
+            },
+            {
+              "documentIdentifier" : "BJNR313600005BJNE001401123",
+              "paragraph" : "§ 13",
+              "title" : "Störung und Unterbrechung"
+            },
+            {
+              "documentIdentifier" : "BJNR313600005BJNE001502123",
+              "paragraph" : "§ 14",
+              "title" : "Schutzanforderungen"
+            },
+            {
+              "documentIdentifier" : "BJNR313600005BJNE001601123",
+              "paragraph" : "§ 15",
+              "title" : "Verschwiegenheit"
+            },
+            {
+              "documentIdentifier" : "BJNR313600005BJNE001702123",
+              "paragraph" : "§ 16",
+              "title" : "Protokollierung"
+            },
+            {
+              "documentIdentifier" : "BJNR313600005BJNE001802123",
+              "paragraph" : "§ 17",
+              "title" : "Prüfung und Löschung der Protokolldaten, Vernichtung von Unterlagen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Organisatorische Anforderungen, Schutzanforderungen"
+        },
+        {
+          "documentIdentifier" : "BJNR313600005BJNG000601123",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR313600005BJNE001901123",
+              "paragraph" : "§ 18",
+              "title" : "(weggefallen)"
+            },
+            {
+              "documentIdentifier" : "BJNR313600005BJNE002003123",
+              "paragraph" : "§ 19",
+              "title" : "Nachweis"
+            },
+            {
+              "documentIdentifier" : "BJNR313600005BJNE002102123",
+              "paragraph" : "§ 20",
+              "title" : "Änderungen der Telekommunikationsanlage oder der Überwachungseinrichtung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Verfahren zum Nachweis nach § 110 Absatz 1 Satz 1 Nummer 3 des Telekommunikationsgesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR313600005BJNG000701123",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR313600005BJNE002202123",
+              "paragraph" : "§ 21",
+              "title" : "(weggefallen)"
+            },
+            {
+              "documentIdentifier" : "BJNR313600005BJNE002303123",
+              "paragraph" : "§ 22",
+              "title" : "Abweichungen, Feldversuche, Probebetriebe"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              5
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Abweichungen"
+        },
+        {
+          "documentIdentifier" : "BJNR313600005BJNG000801123",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR313600005BJNE002402123",
+              "paragraph" : "§ 23",
+              "title" : "Probeweise Anwendung der Überwachungsfunktionen"
+            },
+            {
+              "documentIdentifier" : "BJNR313600005BJNE002501123",
+              "paragraph" : "§ 24",
+              "title" : "Anforderungen an Aufzeichnungsanschlüsse"
+            },
+            {
+              "documentIdentifier" : "BJNR313600005BJNE002602123",
+              "paragraph" : "§ 25",
+              "title" : "(weggefallen)"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              6
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Sonstige Vorschriften"
+        }
+      ],
+      "title" : "Maßnahmen nach § 100a Absatz 1 Satz 1 der Strafprozessordnung, § 3 des Artikel 10-Gesetzes, den §§ 23a bis 23c und 23e des Zollfahndungsdienstgesetzes, § 51 Absatz 1 des Bundeskriminalamtgesetzes oder nach Landesrecht"
+    },
+    {
+      "documentIdentifier" : "BJNR313600005BJNG000902123",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR313600005BJNE002702123",
+          "paragraph" : "§ 26",
+          "title" : "Kreis der Verpflichteten"
+        },
+        {
+          "documentIdentifier" : "BJNR313600005BJNE002803123",
+          "paragraph" : "§ 27",
+          "title" : "Grundsätze, technische und organisatorische Umsetzung von Anordnungen, Verschwiegenheit"
+        },
+        {
+          "documentIdentifier" : "BJNR313600005BJNE002902123",
+          "paragraph" : "§ 28",
+          "title" : "Verfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR313600005BJNE003002123",
+          "paragraph" : "§ 29",
+          "title" : "Bereitstellung von Übertragungswegen zum Bundesnachrichtendienst"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Maßnahmen nach den §§ 5 und 8 des Artikel 10-Gesetzes und den §§ 6, 12 und 14 des BND-Gesetzes"
+    },
+    {
+      "documentIdentifier" : "BJNR313600005BJNG001002123",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR313600005BJNE003102123",
+          "paragraph" : "§ 30",
+          "title" : "Kreis der Verpflichteten"
+        },
+        {
+          "documentIdentifier" : "BJNR313600005BJNE003203126",
+          "paragraph" : "§ 31",
+          "title" : "Grundsätze"
+        },
+        {
+          "documentIdentifier" : "BJNR313600005BJNE003601123",
+          "paragraph" : "§ 32",
+          "title" : "Auskünfte über zurückliegende Verkehrsdaten, zukünftige Verkehrsdaten, Verkehrsdaten in Echtzeit"
+        },
+        {
+          "documentIdentifier" : "BJNR313600005BJNE003701123",
+          "paragraph" : "§ 33",
+          "title" : "Verschwiegenheit"
+        },
+        {
+          "documentIdentifier" : "BJNR313600005BJNE003801123",
+          "paragraph" : "§ 34",
+          "title" : "Nachweis, probeweise Anwendungen"
+        },
+        {
+          "documentIdentifier" : "BJNR313600005BJNE003901123",
+          "paragraph" : "§ 35",
+          "title" : "Protokollierung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Vorkehrungen für die Erteilung von Auskünften über Verkehrsdaten"
+    },
+    {
+      "documentIdentifier" : "BJNR313600005BJNG001101123",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR313600005BJNE004001123",
+          "paragraph" : "§ 36",
+          "title" : "Technische Richtlinie"
+        },
+        {
+          "documentIdentifier" : "BJNR313600005BJNE004101123",
+          "paragraph" : "§ 37",
+          "title" : "Übergangsvorschrift"
+        },
+        {
+          "documentIdentifier" : "BJNR313600005BJNE003402123",
+          "paragraph" : "Anlage",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Ergänzende technische Festlegungen, Übergangsvorschriften, Schlussbestimmungen"
+    }
+  ]
+}

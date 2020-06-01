@@ -1,0 +1,137 @@
+{
+  "documentIdentifier" : "BJNR043100018",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR043100018BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR043100018BJNE000300000",
+          "paragraph" : "§ 1",
+          "title" : "Staatliche Anerkennung des Ausbildungsberufes"
+        },
+        {
+          "documentIdentifier" : "BJNR043100018BJNE000400000",
+          "paragraph" : "§ 2",
+          "title" : "Dauer der Berufsausbildung"
+        },
+        {
+          "documentIdentifier" : "BJNR043100018BJNE000500000",
+          "paragraph" : "§ 3",
+          "title" : "Gegenstand der Berufsausbildung und Ausbildungsrahmenplan"
+        },
+        {
+          "documentIdentifier" : "BJNR043100018BJNE000600000",
+          "paragraph" : "§ 4",
+          "title" : "Struktur der Berufsausbildung, Ausbildungsberufsbild"
+        },
+        {
+          "documentIdentifier" : "BJNR043100018BJNE000700000",
+          "paragraph" : "§ 5",
+          "title" : "Ausbildungsplan"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gegenstand, Dauer und Gliederung der Berufsausbildung"
+    },
+    {
+      "documentIdentifier" : "BJNR043100018BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR043100018BJNE000800000",
+          "paragraph" : "§ 6",
+          "title" : "Ziel, Aufteilung in zwei Teile und Zeitpunkt"
+        },
+        {
+          "documentIdentifier" : "BJNR043100018BJNE000900000",
+          "paragraph" : "§ 7",
+          "title" : "Inhalt von Teil 1"
+        },
+        {
+          "documentIdentifier" : "BJNR043100018BJNE001000000",
+          "paragraph" : "§ 8",
+          "title" : "Prüfungsbereiche von Teil 1"
+        },
+        {
+          "documentIdentifier" : "BJNR043100018BJNE001100000",
+          "paragraph" : "§ 9",
+          "title" : "Prüfungsbereich Manuelle Flachglasbearbeitung"
+        },
+        {
+          "documentIdentifier" : "BJNR043100018BJNE001200000",
+          "paragraph" : "§ 10",
+          "title" : "Prüfungsbereich Flachglasveredlungsverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR043100018BJNE001300000",
+          "paragraph" : "§ 11",
+          "title" : "Inhalt von Teil 2"
+        },
+        {
+          "documentIdentifier" : "BJNR043100018BJNE001400000",
+          "paragraph" : "§ 12",
+          "title" : "Prüfungsbereiche von Teil 2"
+        },
+        {
+          "documentIdentifier" : "BJNR043100018BJNE001500000",
+          "paragraph" : "§ 13",
+          "title" : "Prüfungsbereich Maschinelle Flachglasbearbeitung"
+        },
+        {
+          "documentIdentifier" : "BJNR043100018BJNE001600000",
+          "paragraph" : "§ 14",
+          "title" : "Prüfungsbereich Technologie der Flachglasbearbeitung"
+        },
+        {
+          "documentIdentifier" : "BJNR043100018BJNE001700000",
+          "paragraph" : "§ 15",
+          "title" : "Prüfungsbereich Wirtschafts- und Sozialkunde"
+        },
+        {
+          "documentIdentifier" : "BJNR043100018BJNE001800000",
+          "paragraph" : "§ 16",
+          "title" : "Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Abschlussprüfung"
+    },
+    {
+      "documentIdentifier" : "BJNR043100018BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR043100018BJNE001900000",
+          "paragraph" : "§ 17",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR043100018BJNE002000000",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 3 Absatz 1)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussvorschrift"
+    }
+  ]
+}

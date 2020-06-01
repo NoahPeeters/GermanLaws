@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR006920982",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR006920982Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR006920982BJNE000203119",
+          "paragraph" : "§ 1",
+          "title" : "Gebühren- und auslagenpflichtige individuell zurechenbare öffentliche Leistungen"
+        },
+        {
+          "documentIdentifier" : "BJNR006920982BJNE000305126",
+          "paragraph" : "§ 2",
+          "title" : "Höhe der Gebühren"
+        },
+        {
+          "documentIdentifier" : "BJNR006920982BJNE000402119",
+          "paragraph" : "§ 3",
+          "title" : "Auslagen"
+        },
+        {
+          "documentIdentifier" : "BJNR006920982BJNE000601119",
+          "paragraph" : "§ 5",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

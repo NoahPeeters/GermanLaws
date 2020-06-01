@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR067700002",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR067700002Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR067700002BJNE000101301",
+          "paragraph" : "§ 1",
+          "title" : "Grundsatz"
+        },
+        {
+          "documentIdentifier" : "BJNR067700002BJNE000202301",
+          "paragraph" : "§ 2",
+          "title" : "Datensicherheit, Schutz vor Missbrauch"
+        },
+        {
+          "documentIdentifier" : "BJNR067700002BJNE000301301",
+          "paragraph" : "§ 3",
+          "title" : "Löschungsfristen"
+        },
+        {
+          "documentIdentifier" : "BJNR067700002BJNE000401301",
+          "paragraph" : "§ 4",
+          "title" : "Einsichtsrecht"
+        },
+        {
+          "documentIdentifier" : "BJNR067700002BJNE000700310",
+          "paragraph" : "§ 4a",
+          "title" : "Anwendbares Recht"
+        },
+        {
+          "documentIdentifier" : "BJNR067700002BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

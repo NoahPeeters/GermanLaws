@@ -1,0 +1,219 @@
+{
+  "documentIdentifier" : "BJNR102500000",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR102500000BJNG000100310",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR102500000BJNE000700310",
+          "paragraph" : "§ 1",
+          "title" : "Errichtung"
+        },
+        {
+          "documentIdentifier" : "BJNR102500000BJNE000801308",
+          "paragraph" : "§ 2",
+          "title" : "Zusammensetzung und Berufung des Prüfungsausschusses"
+        },
+        {
+          "documentIdentifier" : "BJNR102500000BJNE000900310",
+          "paragraph" : "§ 3",
+          "title" : "Ausschluss und Befangenheit"
+        },
+        {
+          "documentIdentifier" : "BJNR102500000BJNE001001308",
+          "paragraph" : "§ 4",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR102500000BJNE001100310",
+          "paragraph" : "§ 5",
+          "title" : "Geschäftsführung"
+        },
+        {
+          "documentIdentifier" : "BJNR102500000BJNE001201308",
+          "paragraph" : "§ 6",
+          "title" : "Verschwiegenheit"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Prüfungsausschuss, Prüfungskommission"
+    },
+    {
+      "documentIdentifier" : "BJNR102500000BJNG000200310",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR102500000BJNE001300310",
+          "paragraph" : "§ 7",
+          "title" : "Zulassungsvoraussetzungen"
+        },
+        {
+          "documentIdentifier" : "BJNR102500000BJNE001401308",
+          "paragraph" : "§ 8",
+          "title" : "Anmeldung zur Prüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR102500000BJNE001500310",
+          "paragraph" : "§ 9",
+          "title" : "Entscheidung über die Zulassung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Zulassung zur Prüfung"
+    },
+    {
+      "documentIdentifier" : "BJNR102500000BJNG000300310",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR102500000BJNE001600310",
+          "paragraph" : "§ 10",
+          "title" : "Zweck der Prüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR102500000BJNE001701308",
+          "paragraph" : "§ 11",
+          "title" : "Prüfungstermine"
+        },
+        {
+          "documentIdentifier" : "BJNR102500000BJNE001802308",
+          "paragraph" : "§ 12",
+          "title" : "Gliederung der Prüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR102500000BJNE001901308",
+          "paragraph" : "§ 13",
+          "title" : "Schriftliche Prüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR102500000BJNE002001308",
+          "paragraph" : "§ 14",
+          "title" : "Mündliche Prüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR102500000BJNE002101308",
+          "paragraph" : "§ 15",
+          "title" : "Nichtöffentlichkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR102500000BJNE002201308",
+          "paragraph" : "§ 16",
+          "title" : "Ausweispflicht und Belehrung"
+        },
+        {
+          "documentIdentifier" : "BJNR102500000BJNE002300310",
+          "paragraph" : "§ 17",
+          "title" : "Täuschungshandlungen und Ordnungsverstöße"
+        },
+        {
+          "documentIdentifier" : "BJNR102500000BJNE002401308",
+          "paragraph" : "§ 18",
+          "title" : "Rücktritt und Nichtteilnahme"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Durchführung der Prüfung"
+    },
+    {
+      "documentIdentifier" : "BJNR102500000BJNG000400310",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR102500000BJNE002501308",
+          "paragraph" : "§ 19",
+          "title" : "Bewerten der einzelnen Prüfungsleistungen"
+        },
+        {
+          "documentIdentifier" : "BJNR102500000BJNE002602308",
+          "paragraph" : "§ 20",
+          "title" : "Feststellen und Bekanntgeben des Prüfungsergebnisses"
+        },
+        {
+          "documentIdentifier" : "BJNR102500000BJNE002701308",
+          "paragraph" : "§ 21",
+          "title" : "Prüfungszeugnis"
+        },
+        {
+          "documentIdentifier" : "BJNR102500000BJNE002800310",
+          "paragraph" : "§ 22",
+          "title" : "Nicht bestandene Prüfung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Bewerten und Feststellen der Prüfungsergebnisse, Erteilen der Prüfungszeugnisse"
+    },
+    {
+      "documentIdentifier" : "BJNR102500000BJNG000500310",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR102500000BJNE002900310",
+          "paragraph" : "§ 23",
+          "title" : "Wiederholungsprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR102500000BJNE003000310",
+          "paragraph" : "§ 24",
+          "title" : "Prüfungsunterlagen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Wiederholungsprüfung, Einsicht in die Prüfungsunterlagen, Aufbewahrung"
+    },
+    {
+      "documentIdentifier" : "BJNR102500000BJNG000600310",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR102500000BJNE003101308",
+          "paragraph" : "§ 25",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR102500000BJNE003201308",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 19 Absatz 1)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übergangsvorschriften"
+    }
+  ]
+}

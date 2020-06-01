@@ -1,0 +1,397 @@
+{
+  "documentIdentifier" : "BJNR252310006",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR252310006BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR252310006BJNE000206116",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR252310006BJNE000310116",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Anwendungsbereich und Begriffsbestimmungen"
+    },
+    {
+      "documentIdentifier" : "BJNR252310006BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR252310006BJNE000404116",
+          "paragraph" : "§ 3",
+          "title" : "Qualitätsmanagementsystem, Gute Herstellungspraxis und gute fachliche Praxis"
+        },
+        {
+          "documentIdentifier" : "BJNR252310006BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Personal"
+        },
+        {
+          "documentIdentifier" : "BJNR252310006BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Betriebsräume und Ausrüstungen"
+        },
+        {
+          "documentIdentifier" : "BJNR252310006BJNE000701116",
+          "paragraph" : "§ 6",
+          "title" : "Hygienemaßnahmen"
+        },
+        {
+          "documentIdentifier" : "BJNR252310006BJNE000802116",
+          "paragraph" : "§ 7",
+          "title" : "Lagerung und Transport"
+        },
+        {
+          "documentIdentifier" : "BJNR252310006BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Tierhaltung"
+        },
+        {
+          "documentIdentifier" : "BJNR252310006BJNE001001116",
+          "paragraph" : "§ 9",
+          "title" : "Tätigkeiten im Auftrag"
+        },
+        {
+          "documentIdentifier" : "BJNR252310006BJNE001100000",
+          "paragraph" : "§ 10",
+          "title" : "Allgemeine Dokumentation"
+        },
+        {
+          "documentIdentifier" : "BJNR252310006BJNE001202116",
+          "paragraph" : "§ 11",
+          "title" : "Selbstinspektionen und Lieferantenqualifizierung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Anforderungen"
+    },
+    {
+      "documentIdentifier" : "BJNR252310006BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR252310006BJNE001304116",
+          "paragraph" : "§ 12",
+          "title" : "Personal in leitender und in verantwortlicher Stellung"
+        },
+        {
+          "documentIdentifier" : "BJNR252310006BJNE001405116",
+          "paragraph" : "§ 13",
+          "title" : "Herstellung"
+        },
+        {
+          "documentIdentifier" : "BJNR252310006BJNE001503116",
+          "paragraph" : "§ 14",
+          "title" : "Prüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR252310006BJNE001601116",
+          "paragraph" : "§ 15",
+          "title" : "Kennzeichnung"
+        },
+        {
+          "documentIdentifier" : "BJNR252310006BJNE001704116",
+          "paragraph" : "§ 16",
+          "title" : "Freigabe zum Inverkehrbringen"
+        },
+        {
+          "documentIdentifier" : "BJNR252310006BJNE001804116",
+          "paragraph" : "§ 17",
+          "title" : "Inverkehrbringen und Einfuhr"
+        },
+        {
+          "documentIdentifier" : "BJNR252310006BJNE001901360",
+          "paragraph" : "§ 18",
+          "title" : "Rückstellmuster"
+        },
+        {
+          "documentIdentifier" : "BJNR252310006BJNE002004116",
+          "paragraph" : "§ 19",
+          "title" : "Beanstandungen und Rückruf"
+        },
+        {
+          "documentIdentifier" : "BJNR252310006BJNE002104116",
+          "paragraph" : "§ 20",
+          "title" : "Aufbewahrung der Dokumentation"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Arzneimittel, Blutprodukte und andere Blutbestandteile sowie Produkte menschlicher Herkunft"
+    },
+    {
+      "documentIdentifier" : "BJNR252310006BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR252310006BJNE002200000",
+          "paragraph" : "§ 21",
+          "title" : "Organisationsstruktur"
+        },
+        {
+          "documentIdentifier" : "BJNR252310006BJNE002301116",
+          "paragraph" : "§ 22",
+          "title" : "Herstellung"
+        },
+        {
+          "documentIdentifier" : "BJNR252310006BJNE002401116",
+          "paragraph" : "§ 23",
+          "title" : "Prüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR252310006BJNE002502116",
+          "paragraph" : "§ 24",
+          "title" : "Kennzeichnung"
+        },
+        {
+          "documentIdentifier" : "BJNR252310006BJNE002603116",
+          "paragraph" : "§ 25",
+          "title" : "Freigabe zum Inverkehrbringen"
+        },
+        {
+          "documentIdentifier" : "BJNR252310006BJNE002700000",
+          "paragraph" : "§ 26",
+          "title" : "Inverkehrbringen und Einfuhr"
+        },
+        {
+          "documentIdentifier" : "BJNR252310006BJNE002801116",
+          "paragraph" : "§ 27",
+          "title" : "Rückstellmuster"
+        },
+        {
+          "documentIdentifier" : "BJNR252310006BJNE002901116",
+          "paragraph" : "§ 28",
+          "title" : "Beanstandungen und Rückruf"
+        },
+        {
+          "documentIdentifier" : "BJNR252310006BJNE003000000",
+          "paragraph" : "§ 29",
+          "title" : "Aufbewahrung der Dokumentation"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Wirkstoffe nicht menschlicher Herkunft"
+    },
+    {
+      "documentIdentifier" : "BJNR252310006BJNG000500000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR252310006BJNE003101116",
+          "paragraph" : "§ 30",
+          "title" : "Ergänzende Regelungen für Fütterungsarzneimittel"
+        },
+        {
+          "documentIdentifier" : "BJNR252310006BJNE003207116",
+          "paragraph" : "§ 31",
+          "title" : "Ergänzende Regelungen für Blutspendeeinrichtungen"
+        },
+        {
+          "documentIdentifier" : "BJNR252310006BJNE004500116",
+          "paragraph" : "§ 31a",
+          "title" : "Verbringen von Arzneimitteln nach § 73 Absatz 3a des Arzneimittelgesetzes"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR252310006BJNG000800310",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR252310006BJNE003503116",
+              "paragraph" : "§ 32",
+              "title" : "Ergänzende allgemeine Anforderungen"
+            },
+            {
+              "documentIdentifier" : "BJNR252310006BJNE003600310",
+              "paragraph" : "§ 33",
+              "title" : "Feststellung der Spendereignung und für die Gewinnung erforderliche Laboruntersuchungen"
+            },
+            {
+              "documentIdentifier" : "BJNR252310006BJNE003705116",
+              "paragraph" : "§ 34",
+              "title" : "Gewinnung von Gewebe durch die Entnahmeeinrichtung"
+            },
+            {
+              "documentIdentifier" : "BJNR252310006BJNE003802116",
+              "paragraph" : "§ 35",
+              "title" : "Transport zur Be- oder Verarbeitung und Entgegennahme in der Gewebeeinrichtung"
+            },
+            {
+              "documentIdentifier" : "BJNR252310006BJNE003904116",
+              "paragraph" : "§ 36",
+              "title" : "Be- oder Verarbeitung und Lagerung durch die Gewebeeinrichtung"
+            },
+            {
+              "documentIdentifier" : "BJNR252310006BJNE004000310",
+              "paragraph" : "§ 37",
+              "title" : "Prüfung von Gewebe und Gewebezubereitungen"
+            },
+            {
+              "documentIdentifier" : "BJNR252310006BJNE004101116",
+              "paragraph" : "§ 38",
+              "title" : "Freigabe durch die Gewebeeinrichtung"
+            },
+            {
+              "documentIdentifier" : "BJNR252310006BJNE004202116",
+              "paragraph" : "§ 39",
+              "title" : "Inverkehrbringen, Einfuhr und Transport durch die Gewebeeinrichtung"
+            },
+            {
+              "documentIdentifier" : "BJNR252310006BJNE004305116",
+              "paragraph" : "§ 40",
+              "title" : "Meldung schwerwiegender unerwünschter Reaktionen und schwerwiegender Zwischenfälle und Rückruf"
+            },
+            {
+              "documentIdentifier" : "BJNR252310006BJNE004403116",
+              "paragraph" : "§ 41",
+              "title" : "Aufbewahrung der Dokumentation"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              5
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR252310006BJNG000900116",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR252310006BJNE004601116",
+                  "paragraph" : "§ 41a",
+                  "title" : "Europäisches Kodierungssystem für Gewebe und Gewebezubereitungen"
+                },
+                {
+                  "documentIdentifier" : "BJNR252310006BJNE004701116",
+                  "paragraph" : "§ 41b",
+                  "title" : "Bestimmungen für die Verwendung des Einheitlichen Europäischen Codes; Meldepflichten"
+                },
+                {
+                  "documentIdentifier" : "BJNR252310006BJNE004801116",
+                  "paragraph" : "§ 41c",
+                  "title" : "Kodierung in anderen Fällen und sonstige Pflichten der Gewebeeinrichtungen"
+                },
+                {
+                  "documentIdentifier" : "BJNR252310006BJNE004900116",
+                  "paragraph" : "§ 41d",
+                  "title" : "Format des Einheitlichen Europäischen Codes"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  5
+                ]
+              },
+              "subsections" : [
+                {
+                  "documentIdentifier" : "BJNR252310006BJNG000901116",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR252310006BJNE005100116",
+                      "paragraph" : "§ 41e",
+                      "title" : "Ergänzende Anforderungen an die Gewebevigilanz"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR252310006BJNE005200116",
+                      "paragraph" : "§ 41f",
+                      "title" : "Ergänzende Anforderungen zur Kennzeichnung"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR252310006BJNE005300116",
+                      "paragraph" : "§ 41g",
+                      "title" : "Ergänzende Anforderungen zur Einfuhr"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      5
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Sondervorschriften für Einrichtungen mit einer Erlaubnis nach § 13 des Arzneimittelgesetzes oder § 72 des Arzneimittelgesetzes"
+                }
+              ],
+              "title" : "Ergänzende Vorschriften für die Kodierung von Gewebe und Gewebezubereitungen"
+            }
+          ],
+          "title" : "Sondervorschriften für Entnahme- und Gewebeeinrichtungen sowie für Gewebespenderlabore"
+        }
+      ],
+      "title" : "Sondervorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR252310006BJNG000600000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR252310006BJNE003303116",
+          "paragraph" : "§ 42",
+          "title" : "Ordnungswidrigkeiten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Ordnungswidrigkeiten"
+    },
+    {
+      "documentIdentifier" : "BJNR252310006BJNG000700000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR252310006BJNE003404116",
+          "paragraph" : "§ 43",
+          "title" : "Übergangsvorschrift aus Anlass des Gesetzes zur Umsetzung der Richtlinien (EU) 2015\/566 und (EU) 2015\/565 zur Einfuhr und zur Kodierung menschlicher Gewebe und Gewebezubereitungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussvorschriften"
+    }
+  ]
+}

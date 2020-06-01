@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR369400005",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR369400005Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR369400005BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Einrichtung, Zuständigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR369400005BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Aufgabenübertragung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

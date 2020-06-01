@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR003090986",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR003090986Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR003090986BJNE000800327",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 2 der Verordnung über die Festsetzung des Lärmschutzbereichs\nfür den militärischen Flugplatz Ahlhorn)"
+        },
+        {
+          "documentIdentifier" : "BJNR003090986BJNE000900327",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 4 der Verordnung über die Festsetzung des Lärmschutzbereichs\nfür den militärischen Flugplatz Ahlhorn)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

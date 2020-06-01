@@ -1,0 +1,157 @@
+{
+  "documentIdentifier" : "BJNR002200977",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR002200977BJNG000100326",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR002200977BJNE000601377",
+          "paragraph" : "§ 1",
+          "title" : "Arten der Deckungsvorsorge"
+        },
+        {
+          "documentIdentifier" : "BJNR002200977BJNE000702118",
+          "paragraph" : "§ 2",
+          "title" : "Haftpflichtversicherung"
+        },
+        {
+          "documentIdentifier" : "BJNR002200977BJNE000801377",
+          "paragraph" : "§ 3",
+          "title" : "Sonstige finanzielle Sicherheit"
+        },
+        {
+          "documentIdentifier" : "BJNR002200977BJNE000900326",
+          "paragraph" : "§ 4",
+          "title" : "Umfang der Deckungsvorsorge"
+        },
+        {
+          "documentIdentifier" : "BJNR002200977BJNE001002377",
+          "paragraph" : "§ 5",
+          "title" : "Nachweis der Deckungsvorsorge, Mitteilungen und Anzeigen"
+        },
+        {
+          "documentIdentifier" : "BJNR002200977BJNE001102377",
+          "paragraph" : "§ 6",
+          "title" : "Auflagen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR002200977BJNG000200326",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR002200977BJNE001200326",
+          "paragraph" : "§ 7",
+          "title" : "Deckungssumme und Regeldeckungssumme"
+        },
+        {
+          "documentIdentifier" : "BJNR002200977BJNE001304118",
+          "paragraph" : "§ 8",
+          "title" : "Umgang und Beförderung"
+        },
+        {
+          "documentIdentifier" : "BJNR002200977BJNE001403377",
+          "paragraph" : "§ 9",
+          "title" : "Reaktoren"
+        },
+        {
+          "documentIdentifier" : "BJNR002200977BJNE001501377",
+          "paragraph" : "§ 10",
+          "title" : "Schiffsreaktoren"
+        },
+        {
+          "documentIdentifier" : "BJNR002200977BJNE001602377",
+          "paragraph" : "§ 11",
+          "title" : "Sonstige kerntechnische Anlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR002200977BJNE001700326",
+          "paragraph" : "§ 12",
+          "title" : "Stillegung von Anlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR002200977BJNE001803377",
+          "paragraph" : "§ 13",
+          "title" : "Anlagen zur Erzeugung ionisierender Strahlen"
+        },
+        {
+          "documentIdentifier" : "BJNR002200977BJNE002003377",
+          "paragraph" : "§ 15",
+          "title" : "Anwendung radioaktiver Stoffe am Menschen in der medizinischen Forschung"
+        },
+        {
+          "documentIdentifier" : "BJNR002200977BJNE002101377",
+          "paragraph" : "§ 16",
+          "title" : "Ermittlung der Deckungssumme im Einzelfall"
+        },
+        {
+          "documentIdentifier" : "BJNR002200977BJNE002300326",
+          "paragraph" : "§ 18",
+          "title" : "Deckungssumme bei mehrfachem Umgang"
+        },
+        {
+          "documentIdentifier" : "BJNR002200977BJNE002401377",
+          "paragraph" : "§ 19",
+          "title" : "Abrundung der Deckungssumme"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Deckungssummen"
+    },
+    {
+      "documentIdentifier" : "BJNR002200977BJNG000300326",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR002200977BJNE002502118",
+          "paragraph" : "§ 20",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR002200977BJNE002601118",
+          "paragraph" : "§ 21",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR002200977BJNE002700326",
+          "paragraph" : "§ 22",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR002200977BJNE002801377",
+          "paragraph" : "Anlage 1",
+          "title" : "Regeldeckungssumme bei Kernbrennstoffen in Millionen Euro"
+        },
+        {
+          "documentIdentifier" : "BJNR002200977BJNE002905116",
+          "paragraph" : "Anlage 2",
+          "title" : "Regeldeckungssummen bei sonstigen radioaktiven Stoffen in Millionen Euro"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlußvorschriften"
+    }
+  ]
+}

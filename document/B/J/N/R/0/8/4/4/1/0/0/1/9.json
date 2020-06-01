@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR084410019",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR084410019Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR084410019BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Missbräuchliche Verwendung von Leistungen der Europäischen Union"
+        },
+        {
+          "documentIdentifier" : "BJNR084410019BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Rechtswidrige Verminderung von Einnahmen der Europäischen Union"
+        },
+        {
+          "documentIdentifier" : "BJNR084410019BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Bestechlichkeit und Bestechung mit Bezug zu den finanziellen Interessen der Europäischen Union"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

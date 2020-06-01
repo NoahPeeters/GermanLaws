@@ -1,0 +1,59 @@
+{
+  "documentIdentifier" : "BJNR011970973",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR011970973Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR011970973BJNE000201377",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR011970973BJNE000301308",
+          "paragraph" : "§ 2",
+          "title" : "Zuständige Stellen"
+        },
+        {
+          "documentIdentifier" : "BJNR011970973BJNE000400328",
+          "paragraph" : "§ 3",
+          "title" : "Anerkannte Betriebe"
+        },
+        {
+          "documentIdentifier" : "BJNR011970973BJNE000501308",
+          "paragraph" : "§ 4",
+          "title" : "Anträge"
+        },
+        {
+          "documentIdentifier" : "BJNR011970973BJNE000701308",
+          "paragraph" : "§ 6",
+          "title" : "Denaturierung"
+        },
+        {
+          "documentIdentifier" : "BJNR011970973BJNE000801308",
+          "paragraph" : "§ 7",
+          "title" : "Auszahlungsbetrag"
+        },
+        {
+          "documentIdentifier" : "BJNR011970973BJNE000900328",
+          "paragraph" : "§ 8",
+          "title" : "Überwachung"
+        },
+        {
+          "documentIdentifier" : "BJNR011970973BJNE001201308",
+          "paragraph" : "§ 9",
+          "title" : "Inkrafttreten und Überleitung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

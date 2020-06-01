@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR090400019",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR090400019Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR090400019BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Zielbestimmung und Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR090400019BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Erteilung der Zulassung"
+        },
+        {
+          "documentIdentifier" : "BJNR090400019BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Untersagung und Widerruf der Zulassung"
+        },
+        {
+          "documentIdentifier" : "BJNR090400019BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Mitteilungspflichten und Veröffentlichung"
+        },
+        {
+          "documentIdentifier" : "BJNR090400019BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Kosten der Zulassung"
+        },
+        {
+          "documentIdentifier" : "BJNR090400019BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Rechtsmittel"
+        },
+        {
+          "documentIdentifier" : "BJNR090400019BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

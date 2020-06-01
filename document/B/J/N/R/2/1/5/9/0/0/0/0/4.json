@@ -1,0 +1,145 @@
+{
+  "documentIdentifier" : "BJNR215900004",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR215900004BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR215900004BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Anwendungsbereich, Voraussetzungen und Grenzen"
+    },
+    {
+      "documentIdentifier" : "BJNR215900004BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR215900004BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Vorrangige Erfüllung von Verträgen"
+        },
+        {
+          "documentIdentifier" : "BJNR215900004BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Erklärungsermächtigung"
+        },
+        {
+          "documentIdentifier" : "BJNR215900004BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Erklärungsberechtigung"
+        },
+        {
+          "documentIdentifier" : "BJNR215900004BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Vorrangbestellung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Vorrangverträge"
+    },
+    {
+      "documentIdentifier" : "BJNR215900004BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR215900004BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Verpflichtungsbescheid"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Verpflichtung durch Verwaltungsakt"
+    },
+    {
+      "documentIdentifier" : "BJNR215900004BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR215900004BJNE000802118",
+          "paragraph" : "§ 7",
+          "title" : "Einschränkungen"
+        },
+        {
+          "documentIdentifier" : "BJNR215900004BJNE000902118",
+          "paragraph" : "§ 8",
+          "title" : "Allgemeine Zulassungen und Genehmigungen im Einzelfall"
+        },
+        {
+          "documentIdentifier" : "BJNR215900004BJNE001002118",
+          "paragraph" : "§ 9",
+          "title" : "Bezugsberechtigungen"
+        },
+        {
+          "documentIdentifier" : "BJNR215900004BJNE001102118",
+          "paragraph" : "§ 10",
+          "title" : "Zuteilungsnachweis"
+        },
+        {
+          "documentIdentifier" : "BJNR215900004BJNE001200000",
+          "paragraph" : "§ 11",
+          "title" : "Meldungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Warenbewirtschaftung"
+    },
+    {
+      "documentIdentifier" : "BJNR215900004BJNG000500000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR215900004BJNE001302118",
+          "paragraph" : "§ 12",
+          "title" : "Zuständige Behörde"
+        },
+        {
+          "documentIdentifier" : "BJNR215900004BJNE001400000",
+          "paragraph" : "§ 13",
+          "title" : "Straftaten und Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR215900004BJNE001502118",
+          "paragraph" : "§ 14",
+          "title" : "Inkrafttreten und Anwendbarkeit"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Zuständigkeiten und Schlussbestimmungen"
+    }
+  ]
+}

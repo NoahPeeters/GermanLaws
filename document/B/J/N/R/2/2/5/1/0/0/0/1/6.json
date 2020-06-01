@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR225100016",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR225100016Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR225100016BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Entscheidung über Widersprüche in Beihilfeangelegenheiten"
+        },
+        {
+          "documentIdentifier" : "BJNR225100016BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Vertretung des Dienstherrn bei Klagen in Beihilfeangelegenheiten"
+        },
+        {
+          "documentIdentifier" : "BJNR225100016BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Vorbehalt des Selbsteintritts"
+        },
+        {
+          "documentIdentifier" : "BJNR225100016BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

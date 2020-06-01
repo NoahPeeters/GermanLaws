@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR148010010",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR148010010Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR148010010BJNE000101311",
+          "paragraph" : "§ 1",
+          "title" : "Übermittlung und Verwendung"
+        },
+        {
+          "documentIdentifier" : "BJNR148010010BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Daten der Finanzbehörden"
+        },
+        {
+          "documentIdentifier" : "BJNR148010010BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Daten der Bundesagentur für Arbeit"
+        },
+        {
+          "documentIdentifier" : "BJNR148010010BJNE000600311",
+          "paragraph" : "§ 3a",
+          "title" : "Daten der Bundesanstalt für Finanzdienstleistungsaufsicht"
+        },
+        {
+          "documentIdentifier" : "BJNR148010010BJNE000700311",
+          "paragraph" : "§ 3b",
+          "title" : "Daten der Deutschen Bundesbank"
+        },
+        {
+          "documentIdentifier" : "BJNR148010010BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Rückfragen"
+        },
+        {
+          "documentIdentifier" : "BJNR148010010BJNE000501311",
+          "paragraph" : "§ 5",
+          "title" : "Verordnungsermächtigung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

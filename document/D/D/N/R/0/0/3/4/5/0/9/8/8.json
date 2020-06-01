@@ -1,0 +1,92 @@
+{
+  "documentIdentifier" : "DDNR003450988",
+  "sections" : [
+    {
+      "documentIdentifier" : "DDNR003450988Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "DDNR003450988BJNE000400307",
+          "paragraph" : "§ 1",
+          "title" : "Geltungsbereich"
+        },
+        {
+          "documentIdentifier" : "DDNR003450988BJNE000500307",
+          "paragraph" : "§ 2",
+          "title" : "Grundsätze"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "DDNR003450988BJNG000100307",
+          "laws" : [
+            {
+              "documentIdentifier" : "DDNR003450988BJNE001200307",
+              "paragraph" : "§ 9",
+              "title" : "Höhe der staatlichen Vorauszahlung"
+            },
+            {
+              "documentIdentifier" : "DDNR003450988BJNE001300307",
+              "paragraph" : "§ 10",
+              "title" : "Antragsberechtigung"
+            },
+            {
+              "documentIdentifier" : "DDNR003450988BJNE001400307",
+              "paragraph" : "§ 11",
+              "title" : "Zuständigkeit des Gerichts"
+            },
+            {
+              "documentIdentifier" : "DDNR003450988BJNE001500307",
+              "paragraph" : "§ 12",
+              "title" : "Entscheidung durch das Gericht"
+            },
+            {
+              "documentIdentifier" : "DDNR003450988BJNE001600307",
+              "paragraph" : "§ 13",
+              "title" : "Gewährung einer staatlichen Vorauszahlung in\nbesonderen Fällen"
+            },
+            {
+              "documentIdentifier" : "DDNR003450988BJNE001700307",
+              "paragraph" : "§ 14",
+              "title" : "Leistungen durch die Staatliche Versicherung\nder DDR"
+            },
+            {
+              "documentIdentifier" : "DDNR003450988BJNE001800307",
+              "paragraph" : "§ 15",
+              "title" : "Ausgleichszahlung ohne Vollstreckungstitel"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Voraussetzungen und Umfang der staatlichen Vorauszahlung"
+        }
+      ],
+      "title" : "Inhalt"
+    },
+    {
+      "documentIdentifier" : "DDNR003450988BJNG000200307",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlußbestimmungen"
+    }
+  ]
+}

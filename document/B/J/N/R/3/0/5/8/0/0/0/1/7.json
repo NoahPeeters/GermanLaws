@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR305800017",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR305800017Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR305800017BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Widersprüche in Besoldungs- und Beihilfeangelegenheiten"
+        },
+        {
+          "documentIdentifier" : "BJNR305800017BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Widersprüche in Angelegenheiten der Beamtenversorgung"
+        },
+        {
+          "documentIdentifier" : "BJNR305800017BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Widersprüche in Angelegenheiten der Soldatenversorgung"
+        },
+        {
+          "documentIdentifier" : "BJNR305800017BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Vertretung bei Klagen in Angelegenheiten der Unterhaltssicherung"
+        },
+        {
+          "documentIdentifier" : "BJNR305800017BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Vertretung bei Klagen aus dem Beamten- oder Wehrdienstverhältnis"
+        },
+        {
+          "documentIdentifier" : "BJNR305800017BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Vorbehaltsklausel"
+        },
+        {
+          "documentIdentifier" : "BJNR305800017BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR012590980",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR012590980Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR012590980BJNE000101377",
+          "paragraph" : "I.",
+          "title" : "Fragerecht"
+        },
+        {
+          "documentIdentifier" : "BJNR012590980BJNE000203377",
+          "paragraph" : "II.",
+          "title" : "Die Einreichung der Fragen"
+        },
+        {
+          "documentIdentifier" : "BJNR012590980BJNE000301377",
+          "paragraph" : "III.",
+          "title" : "Durchführung der Fragestunde"
+        },
+        {
+          "documentIdentifier" : "BJNR012590980BJNE000401377",
+          "paragraph" : "IV.",
+          "title" : "Schriftliche Fragen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

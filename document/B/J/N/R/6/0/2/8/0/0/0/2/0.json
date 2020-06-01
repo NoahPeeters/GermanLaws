@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR602800020",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR602800020Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR602800020BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Anpassung des Betrags zur Finanzierung der Gesellschaft für Telematik"
+        },
+        {
+          "documentIdentifier" : "BJNR602800020BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

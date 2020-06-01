@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR363210005",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR363210005Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR363210005BJNE000803116",
+          "paragraph" : "§ 7",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR363210005BJNE000901310",
+          "paragraph" : "§ 8",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR363210005BJNE001623116",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 1 Nr. 1 und § 5)"
+        },
+        {
+          "documentIdentifier" : "BJNR363210005BJNE001001310",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 6)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

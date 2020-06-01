@@ -1,0 +1,160 @@
+{
+  "documentIdentifier" : "BJNR237400017",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR237400017BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR237400017BJNE000300000",
+          "paragraph" : "§ 1",
+          "title" : "Zuständiges Hauptzollamt"
+        },
+        {
+          "documentIdentifier" : "BJNR237400017BJNE000400000",
+          "paragraph" : "§ 2",
+          "title" : "Mitwirkung des Bundesamtes für Güterverkehr"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Bestimmungen"
+    },
+    {
+      "documentIdentifier" : "BJNR237400017BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR237400017BJNE000500000",
+          "paragraph" : "§ 3",
+          "title" : "Steuererklärung"
+        },
+        {
+          "documentIdentifier" : "BJNR237400017BJNE000600000",
+          "paragraph" : "§ 4",
+          "title" : "Anhängerzuschlag"
+        },
+        {
+          "documentIdentifier" : "BJNR237400017BJNE000700000",
+          "paragraph" : "§ 5",
+          "title" : "Mitwirkung der Zulassungsbehörden"
+        },
+        {
+          "documentIdentifier" : "BJNR237400017BJNE000800000",
+          "paragraph" : "§ 6",
+          "title" : "Prüfung durch das Hauptzollamt"
+        },
+        {
+          "documentIdentifier" : "BJNR237400017BJNE000900000",
+          "paragraph" : "§ 7",
+          "title" : "Steuervergünstigungen"
+        },
+        {
+          "documentIdentifier" : "BJNR237400017BJNE001000000",
+          "paragraph" : "§ 8",
+          "title" : "Besondere Kennzeichen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inländische Fahrzeuge"
+    },
+    {
+      "documentIdentifier" : "BJNR237400017BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR237400017BJNE001100000",
+          "paragraph" : "§ 9",
+          "title" : "Grundsatz"
+        },
+        {
+          "documentIdentifier" : "BJNR237400017BJNE001200000",
+          "paragraph" : "§ 10",
+          "title" : "Steuererklärung"
+        },
+        {
+          "documentIdentifier" : "BJNR237400017BJNE001300000",
+          "paragraph" : "§ 11",
+          "title" : "Steuerfestsetzung, Steuerkarte"
+        },
+        {
+          "documentIdentifier" : "BJNR237400017BJNE001400000",
+          "paragraph" : "§ 12",
+          "title" : "Weiterversteuerung"
+        },
+        {
+          "documentIdentifier" : "BJNR237400017BJNE001500000",
+          "paragraph" : "§ 13",
+          "title" : "Mitführ- und Auskunftspflichten des Steuerschuldners"
+        },
+        {
+          "documentIdentifier" : "BJNR237400017BJNE001600000",
+          "paragraph" : "§ 14",
+          "title" : "Steuererstattung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Ausländische Fahrzeuge"
+    },
+    {
+      "documentIdentifier" : "BJNR237400017BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR237400017BJNE001700000",
+          "paragraph" : "§ 15",
+          "title" : "Steuererklärung"
+        },
+        {
+          "documentIdentifier" : "BJNR237400017BJNE001800000",
+          "paragraph" : "§ 16",
+          "title" : "Steuerfestsetzung, Steuererhebung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Widerrechtliche Benutzung"
+    },
+    {
+      "documentIdentifier" : "BJNR237400017BJNG000500000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR237400017BJNE001900000",
+          "paragraph" : "§ 17",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussvorschriften"
+    }
+  ]
+}

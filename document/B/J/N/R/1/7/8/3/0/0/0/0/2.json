@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR178300002",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR178300002Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR178300002BJNE000103308",
+          "paragraph" : "§ 1",
+          "title" : "Ehrenamtliche Betätigung"
+        },
+        {
+          "documentIdentifier" : "BJNR178300002BJNE000201308",
+          "paragraph" : "§ 2",
+          "title" : "Berufliche Eingliederung"
+        },
+        {
+          "documentIdentifier" : "BJNR178300002BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

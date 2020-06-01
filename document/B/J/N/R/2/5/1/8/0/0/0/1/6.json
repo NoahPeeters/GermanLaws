@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR251800016",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR251800016Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR251800016BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Monitoring"
+        },
+        {
+          "documentIdentifier" : "BJNR251800016BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Duldungs- und Mitwirkungspflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR251800016BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Mitteilungen der Länder"
+        },
+        {
+          "documentIdentifier" : "BJNR251800016BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Weitergehende Maßnahmen"
+        },
+        {
+          "documentIdentifier" : "BJNR251800016BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR251800016BJNE000800000",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 1 Absatz 4)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

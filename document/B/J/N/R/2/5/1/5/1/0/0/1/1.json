@@ -1,0 +1,192 @@
+{
+  "documentIdentifier" : "BJNR251510011",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR251510011BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR251510011BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Zweck des Gesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR251510011BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR251510011BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Begriffsbestimmungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeiner Teil"
+    },
+    {
+      "documentIdentifier" : "BJNR251510011BJNG000200000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR251510011BJNG000300000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR251510011BJNE000401119",
+              "paragraph" : "§ 4",
+              "title" : "Feststellung der Gleichwertigkeit"
+            },
+            {
+              "documentIdentifier" : "BJNR251510011BJNE000501126",
+              "paragraph" : "§ 5",
+              "title" : "Vorzulegende Unterlagen"
+            },
+            {
+              "documentIdentifier" : "BJNR251510011BJNE000603126",
+              "paragraph" : "§ 6",
+              "title" : "Verfahren"
+            },
+            {
+              "documentIdentifier" : "BJNR251510011BJNE000701311",
+              "paragraph" : "§ 7",
+              "title" : "Form der Entscheidung"
+            },
+            {
+              "documentIdentifier" : "BJNR251510011BJNE000800000",
+              "paragraph" : "§ 8",
+              "title" : "Zuständige Stelle"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Nicht reglementierte Berufe"
+        },
+        {
+          "documentIdentifier" : "BJNR251510011BJNG000400000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR251510011BJNE000901119",
+              "paragraph" : "§ 9",
+              "title" : "Voraussetzungen der Gleichwertigkeit"
+            },
+            {
+              "documentIdentifier" : "BJNR251510011BJNE001000000",
+              "paragraph" : "§ 10",
+              "title" : "Feststellung der vorhandenen Berufsqualifikationen"
+            },
+            {
+              "documentIdentifier" : "BJNR251510011BJNE001101119",
+              "paragraph" : "§ 11",
+              "title" : "Ausgleichsmaßnahmen"
+            },
+            {
+              "documentIdentifier" : "BJNR251510011BJNE001202126",
+              "paragraph" : "§ 12",
+              "title" : "Vorzulegende Unterlagen"
+            },
+            {
+              "documentIdentifier" : "BJNR251510011BJNE001303119",
+              "paragraph" : "§ 13",
+              "title" : "Verfahren"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Reglementierte Berufe"
+        },
+        {
+          "documentIdentifier" : "BJNR251510011BJNG000500000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR251510011BJNE001400000",
+              "paragraph" : "§ 14",
+              "title" : "Sonstige Verfahren zur Feststellung der Gleichwertigkeit bei fehlenden Nachweisen"
+            },
+            {
+              "documentIdentifier" : "BJNR251510011BJNE002000126",
+              "paragraph" : "§ 14a",
+              "title" : "Beschleunigtes Verfahren im Fall des § 81a des Aufenthaltsgesetzes"
+            },
+            {
+              "documentIdentifier" : "BJNR251510011BJNE001501311",
+              "paragraph" : "§ 15",
+              "title" : "Mitwirkungspflichten"
+            },
+            {
+              "documentIdentifier" : "BJNR251510011BJNE001600000",
+              "paragraph" : "§ 16",
+              "title" : "Rechtsweg"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Gemeinsame Vorschriften"
+        }
+      ],
+      "title" : "Feststellung der Gleichwertigkeit"
+    },
+    {
+      "documentIdentifier" : "BJNR251510011BJNG000600000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR251510011BJNE001703126",
+          "paragraph" : "§ 17",
+          "title" : "Statistik"
+        },
+        {
+          "documentIdentifier" : "BJNR251510011BJNE001800000",
+          "paragraph" : "§ 18",
+          "title" : "Evaluation und Bericht"
+        },
+        {
+          "documentIdentifier" : "BJNR251510011BJNE001902126",
+          "paragraph" : "§ 19",
+          "title" : "Ausschluss abweichenden Landesrechts"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussvorschriften"
+    }
+  ]
+}

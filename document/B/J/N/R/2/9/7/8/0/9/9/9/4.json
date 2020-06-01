@@ -1,0 +1,93 @@
+{
+  "documentIdentifier" : "BJNR297809994",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR297809994BJNE000400305",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          0
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "-"
+    },
+    {
+      "documentIdentifier" : "BJNR297809994BJNG000100305",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Art 1"
+    },
+    {
+      "documentIdentifier" : "BJNR297809994BJNG000200305",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR297809994BJNE000600305",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR297809994BJNE000700305",
+              "laws" : [
+
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Art 2"
+            }
+          ],
+          "title" : "Art 2"
+        }
+      ],
+      "title" : "Art 2"
+    },
+    {
+      "documentIdentifier" : "BJNR297809994BJNG000300305",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inkrafttretens-, Außerkrafttretens- und Anwendungsbestimmungen"
+    }
+  ]
+}

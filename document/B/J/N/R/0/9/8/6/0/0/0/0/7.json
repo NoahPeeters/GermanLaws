@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR098600007",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR098600007Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR098600007BJNE000100000",
+          "paragraph" : "(XXXX) Art 1 und 2",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR098600007BJNE000200000",
+          "paragraph" : "Art 3",
+          "title" : "Fortgeltung von Vorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR098600007BJNE000300000",
+          "paragraph" : "Art 4",
+          "title" : "Übergangsvorschrift"
+        },
+        {
+          "documentIdentifier" : "BJNR098600007BJNE000400000",
+          "paragraph" : "Art 5",
+          "title" : "Neufassung des Gesetzes zum Schutz gegen Fluglärm"
+        },
+        {
+          "documentIdentifier" : "BJNR098600007BJNE000500000",
+          "paragraph" : "Art 6",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

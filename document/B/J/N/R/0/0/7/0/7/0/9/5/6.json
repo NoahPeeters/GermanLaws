@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR007070956",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR007070956BJNG000100319",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Mitbestimmung in herrschenden Unternehmen"
+    },
+    {
+      "documentIdentifier" : "BJNR007070956BJNG000202308",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR007070956BJNE002201308",
+          "paragraph" : "(XXXX) §§ 19 u. 20",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Anwendung und Änderung des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit"
+    },
+    {
+      "documentIdentifier" : "BJNR007070956BJNG000300319",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übergangs- und Schlußvorschriften"
+    }
+  ]
+}

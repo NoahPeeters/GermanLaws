@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR217200018",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR217200018Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR217200018BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR217200018BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Aufforderung zum Aufenthalt in Gebäuden"
+        },
+        {
+          "documentIdentifier" : "BJNR217200018BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Aufforderung zur Einnahme von Jodtabletten"
+        },
+        {
+          "documentIdentifier" : "BJNR217200018BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Evakuierung"
+        },
+        {
+          "documentIdentifier" : "BJNR217200018BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Entsprechende Anwendung der Strahlenschutzverordnung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

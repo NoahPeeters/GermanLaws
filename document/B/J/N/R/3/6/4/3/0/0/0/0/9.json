@@ -1,0 +1,150 @@
+{
+  "documentIdentifier" : "BJNR364300009",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR364300009BJNG000101116",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR364300009BJNE000202116",
+          "paragraph" : "§ 1",
+          "title" : "Angemessenheit der Eigenmittel und Erforderlichkeit der Absicherung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Angemessenheit und Erforderlichkeit"
+    },
+    {
+      "documentIdentifier" : "BJNR364300009BJNG000201116",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR364300009BJNE000301116",
+          "paragraph" : "§ 2",
+          "title" : "Berechnung der Eigenmittelanforderungen"
+        },
+        {
+          "documentIdentifier" : "BJNR364300009BJNE000401116",
+          "paragraph" : "§ 3",
+          "title" : "Berechnung nach Methode A"
+        },
+        {
+          "documentIdentifier" : "BJNR364300009BJNE000501116",
+          "paragraph" : "§ 4",
+          "title" : "Berechnung nach Methode B"
+        },
+        {
+          "documentIdentifier" : "BJNR364300009BJNE000601116",
+          "paragraph" : "§ 5",
+          "title" : "Berechnung nach Methode C"
+        },
+        {
+          "documentIdentifier" : "BJNR364300009BJNE000701116",
+          "paragraph" : "§ 6",
+          "title" : "Festlegung der Methode"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Regelungen für die Eigenmittelberechnung von Zahlungsinstituten"
+    },
+    {
+      "documentIdentifier" : "BJNR364300009BJNG000301116",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR364300009BJNE001201116",
+          "paragraph" : "§ 7",
+          "title" : "Berechnung der Eigenmittelanforderungen"
+        },
+        {
+          "documentIdentifier" : "BJNR364300009BJNE001301116",
+          "paragraph" : "§ 8",
+          "title" : "Berechnung bei Erbringung von Zahlungsdiensten"
+        },
+        {
+          "documentIdentifier" : "BJNR364300009BJNE001401116",
+          "paragraph" : "§ 9",
+          "title" : "Berechnung nach Methode D für die Ausgabe von E-Geld"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Regelungen für die Eigenmittelberechnung von E-Geld-Instituten"
+    },
+    {
+      "documentIdentifier" : "BJNR364300009BJNG000500116",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR364300009BJNE001500116",
+          "paragraph" : "§ 10",
+          "title" : "Kriterien bei Zahlungsauslösediensten"
+        },
+        {
+          "documentIdentifier" : "BJNR364300009BJNE001600116",
+          "paragraph" : "§ 11",
+          "title" : "Kriterien bei Kontoinformationsdiensten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Kriterien für die erforderliche Absicherung für den Haftungsfall bei Zahlungsauslöse- und Kontoinformationsdiensten"
+    },
+    {
+      "documentIdentifier" : "BJNR364300009BJNG000401116",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR364300009BJNE000802116",
+          "paragraph" : "§ 12",
+          "title" : "Meldungen zur Eigenmittelausstattung"
+        },
+        {
+          "documentIdentifier" : "BJNR364300009BJNE000902116",
+          "paragraph" : "§ 13",
+          "title" : "Anzeigen bei Nichteinhaltung der Eigenmittelanforderungen"
+        },
+        {
+          "documentIdentifier" : "BJNR364300009BJNE001001116",
+          "paragraph" : "§ 14",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR364300009BJNE001102116",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 12 Absatz 1)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Melde- und Anzeigepflichten"
+    }
+  ]
+}

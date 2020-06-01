@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR064810009",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR064810009Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR064810009BJNE000102116",
+          "paragraph" : "§ 1",
+          "title" : "Erhebung von Gebühren und Auslagen"
+        },
+        {
+          "documentIdentifier" : "BJNR064810009BJNE000202116",
+          "paragraph" : "§ 2",
+          "title" : "Gebührenpflichtige Tatbestände, Erhöhungen und Ermäßigungen der Gebühren"
+        },
+        {
+          "documentIdentifier" : "BJNR064810009BJNE000302116",
+          "paragraph" : "§ 3",
+          "title" : "Rücknahme, Widerspruch"
+        },
+        {
+          "documentIdentifier" : "BJNR064810009BJNE000401116",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 2 Absatz 1)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

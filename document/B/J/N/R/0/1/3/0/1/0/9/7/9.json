@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR013010979",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR013010979Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR013010979BJNE000200311",
+          "paragraph" : "(XXXX) Art 1 bis Art 8",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR013010979BJNE000301310",
+          "paragraph" : "Art 9",
+          "title" : "Arbeitnehmer des öffentlichen Dienstes des Bundes"
+        },
+        {
+          "documentIdentifier" : "BJNR013010979BJNE000401310",
+          "paragraph" : "Art 10",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR013010979BJNE000601310",
+          "paragraph" : "Art 12",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR013010979BJNE000700311",
+          "paragraph" : "Art 13",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

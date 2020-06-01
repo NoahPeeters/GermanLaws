@@ -1,0 +1,1342 @@
+{
+  "documentIdentifier" : "BJNR111630990",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR111630990BJNG000105140",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR111630990BJNE002405140",
+          "paragraph" : "§ 1",
+          "title" : "Recht auf Erziehung, Elternverantwortung, Jugendhilfe"
+        },
+        {
+          "documentIdentifier" : "BJNR111630990BJNE002512119",
+          "paragraph" : "§ 2",
+          "title" : "Aufgaben der Jugendhilfe"
+        },
+        {
+          "documentIdentifier" : "BJNR111630990BJNE002605140",
+          "paragraph" : "§ 3",
+          "title" : "Freie und öffentliche Jugendhilfe"
+        },
+        {
+          "documentIdentifier" : "BJNR111630990BJNE002706140",
+          "paragraph" : "§ 4",
+          "title" : "Zusammenarbeit der öffentlichen Jugendhilfe mit der freien Jugendhilfe"
+        },
+        {
+          "documentIdentifier" : "BJNR111630990BJNE002808140",
+          "paragraph" : "§ 5",
+          "title" : "Wunsch- und Wahlrecht"
+        },
+        {
+          "documentIdentifier" : "BJNR111630990BJNE002908140",
+          "paragraph" : "§ 6",
+          "title" : "Geltungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR111630990BJNE003007119",
+          "paragraph" : "§ 7",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR111630990BJNE003108140",
+          "paragraph" : "§ 8",
+          "title" : "Beteiligung von Kindern und Jugendlichen"
+        },
+        {
+          "documentIdentifier" : "BJNR111630990BJNE016503140",
+          "paragraph" : "§ 8a",
+          "title" : "Schutzauftrag bei Kindeswohlgefährdung"
+        },
+        {
+          "documentIdentifier" : "BJNR111630990BJNE017001140",
+          "paragraph" : "§ 8b",
+          "title" : "Fachliche Beratung und Begleitung zum Schutz von Kindern und Jugendlichen"
+        },
+        {
+          "documentIdentifier" : "BJNR111630990BJNE003205140",
+          "paragraph" : "§ 9",
+          "title" : "Grundrichtung der Erziehung, Gleichberechtigung von Mädchen und Jungen"
+        },
+        {
+          "documentIdentifier" : "BJNR111630990BJNE003313119",
+          "paragraph" : "§ 10",
+          "title" : "Verhältnis zu anderen Leistungen und Verpflichtungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR111630990BJNG000205140",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR111630990BJNG000305140",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR111630990BJNE003406140",
+              "paragraph" : "§ 11",
+              "title" : "Jugendarbeit"
+            },
+            {
+              "documentIdentifier" : "BJNR111630990BJNE003505140",
+              "paragraph" : "§ 12",
+              "title" : "Förderung der Jugendverbände"
+            },
+            {
+              "documentIdentifier" : "BJNR111630990BJNE003607140",
+              "paragraph" : "§ 13",
+              "title" : "Jugendsozialarbeit"
+            },
+            {
+              "documentIdentifier" : "BJNR111630990BJNE003705140",
+              "paragraph" : "§ 14",
+              "title" : "Erzieherischer Kinder- und Jugendschutz"
+            },
+            {
+              "documentIdentifier" : "BJNR111630990BJNE003805140",
+              "paragraph" : "§ 15",
+              "title" : "Landesrechtsvorbehalt"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Jugendarbeit, Jugendsozialarbeit, erzieherischer Kinder- und Jugendschutz"
+        },
+        {
+          "documentIdentifier" : "BJNR111630990BJNG000405140",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR111630990BJNE003910119",
+              "paragraph" : "§ 16",
+              "title" : "Allgemeine Förderung der Erziehung in der Familie"
+            },
+            {
+              "documentIdentifier" : "BJNR111630990BJNE004006140",
+              "paragraph" : "§ 17",
+              "title" : "Beratung in Fragen der Partnerschaft, Trennung und Scheidung"
+            },
+            {
+              "documentIdentifier" : "BJNR111630990BJNE004212301",
+              "paragraph" : "§ 18",
+              "title" : "Beratung und Unterstützung bei der Ausübung der Personensorge und des Umgangsrechts"
+            },
+            {
+              "documentIdentifier" : "BJNR111630990BJNE004307140",
+              "paragraph" : "§ 19",
+              "title" : "Gemeinsame Wohnformen für Mütter\/Väter und Kinder"
+            },
+            {
+              "documentIdentifier" : "BJNR111630990BJNE004405140",
+              "paragraph" : "§ 20",
+              "title" : "Betreuung und Versorgung des Kindes in Notsituationen"
+            },
+            {
+              "documentIdentifier" : "BJNR111630990BJNE004608140",
+              "paragraph" : "§ 21",
+              "title" : "Unterstützung bei notwendiger Unterbringung zur Erfüllung der Schulpflicht"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Förderung der Erziehung in der Familie"
+        },
+        {
+          "documentIdentifier" : "BJNR111630990BJNG000506140",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR111630990BJNE004707126",
+              "paragraph" : "§ 22",
+              "title" : "Grundsätze der Förderung"
+            },
+            {
+              "documentIdentifier" : "BJNR111630990BJNE016303140",
+              "paragraph" : "§ 22a",
+              "title" : "Förderung in Tageseinrichtungen"
+            },
+            {
+              "documentIdentifier" : "BJNR111630990BJNE004809140",
+              "paragraph" : "§ 23",
+              "title" : "Förderung in Kindertagespflege"
+            },
+            {
+              "documentIdentifier" : "BJNR111630990BJNE004916140",
+              "paragraph" : "§ 24",
+              "title" : "Anspruch auf Förderung in Tageseinrichtungen und in Kindertagespflege"
+            },
+            {
+              "documentIdentifier" : "BJNR111630990BJNE005005140",
+              "paragraph" : "§ 25",
+              "title" : "Unterstützung selbst organisierter Förderung von Kindern"
+            },
+            {
+              "documentIdentifier" : "BJNR111630990BJNE005105140",
+              "paragraph" : "§ 26",
+              "title" : "Landesrechtsvorbehalt"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Förderung von Kindern in Tageseinrichtungen und in Kindertagespflege"
+        },
+        {
+          "documentIdentifier" : "BJNR111630990BJNG000606140",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              4
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR111630990BJNG002305140",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR111630990BJNE005207140",
+                  "paragraph" : "§ 27",
+                  "title" : "Hilfe zur Erziehung"
+                },
+                {
+                  "documentIdentifier" : "BJNR111630990BJNE005305140",
+                  "paragraph" : "§ 28",
+                  "title" : "Erziehungsberatung"
+                },
+                {
+                  "documentIdentifier" : "BJNR111630990BJNE005405140",
+                  "paragraph" : "§ 29",
+                  "title" : "Soziale Gruppenarbeit"
+                },
+                {
+                  "documentIdentifier" : "BJNR111630990BJNE005505140",
+                  "paragraph" : "§ 30",
+                  "title" : "Erziehungsbeistand, Betreuungshelfer"
+                },
+                {
+                  "documentIdentifier" : "BJNR111630990BJNE005605140",
+                  "paragraph" : "§ 31",
+                  "title" : "Sozialpädagogische Familienhilfe"
+                },
+                {
+                  "documentIdentifier" : "BJNR111630990BJNE005705140",
+                  "paragraph" : "§ 32",
+                  "title" : "Erziehung in einer Tagesgruppe"
+                },
+                {
+                  "documentIdentifier" : "BJNR111630990BJNE005805140",
+                  "paragraph" : "§ 33",
+                  "title" : "Vollzeitpflege"
+                },
+                {
+                  "documentIdentifier" : "BJNR111630990BJNE005906140",
+                  "paragraph" : "§ 34",
+                  "title" : "Heimerziehung, sonstige betreute Wohnform"
+                },
+                {
+                  "documentIdentifier" : "BJNR111630990BJNE006005140",
+                  "paragraph" : "§ 35",
+                  "title" : "Intensive sozialpädagogische Einzelbetreuung"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  4,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Hilfe zur Erziehung"
+            },
+            {
+              "documentIdentifier" : "BJNR111630990BJNG002405140",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR111630990BJNE013216360",
+                  "paragraph" : "§ 35a",
+                  "title" : "Eingliederungshilfe für seelisch behinderte Kinder und Jugendliche"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  4,
+                  2
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Eingliederungshilfe für seelisch behinderte Kinder und Jugendliche"
+            },
+            {
+              "documentIdentifier" : "BJNR111630990BJNG002505140",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR111630990BJNE006110140",
+                  "paragraph" : "§ 36",
+                  "title" : "Mitwirkung, Hilfeplan"
+                },
+                {
+                  "documentIdentifier" : "BJNR111630990BJNE016603140",
+                  "paragraph" : "§ 36a",
+                  "title" : "Steuerungsverantwortung, Selbstbeschaffung"
+                },
+                {
+                  "documentIdentifier" : "BJNR111630990BJNE006208140",
+                  "paragraph" : "§ 37",
+                  "title" : "Zusammenarbeit bei Hilfen außerhalb der eigenen Familie"
+                },
+                {
+                  "documentIdentifier" : "BJNR111630990BJNE006307140",
+                  "paragraph" : "§ 38",
+                  "title" : "Vermittlung bei der Ausübung der Personensorge"
+                },
+                {
+                  "documentIdentifier" : "BJNR111630990BJNE006411301",
+                  "paragraph" : "§ 39",
+                  "title" : "Leistungen zum Unterhalt des Kindes oder des Jugendlichen"
+                },
+                {
+                  "documentIdentifier" : "BJNR111630990BJNE006509140",
+                  "paragraph" : "§ 40",
+                  "title" : "Krankenhilfe"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  4,
+                  3
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Gemeinsame Vorschriften für die Hilfe zur Erziehung und die Eingliederungshilfe für seelisch behinderte Kinder und Jugendliche"
+            },
+            {
+              "documentIdentifier" : "BJNR111630990BJNG002605140",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR111630990BJNE006706140",
+                  "paragraph" : "§ 41",
+                  "title" : "Hilfe für junge Volljährige, Nachbetreuung"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  4,
+                  4
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Hilfe für junge Volljährige"
+            }
+          ],
+          "title" : "Hilfe zur Erziehung, Eingliederungshilfe für seelisch behinderte Kinder und Jugendliche, Hilfe für junge Volljährige"
+        }
+      ],
+      "title" : "Leistungen der Jugendhilfe"
+    },
+    {
+      "documentIdentifier" : "BJNR111630990BJNG000705140",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR111630990BJNG000805140",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR111630990BJNE006810119",
+              "paragraph" : "§ 42",
+              "title" : "Inobhutnahme von Kindern und Jugendlichen"
+            },
+            {
+              "documentIdentifier" : "BJNR111630990BJNE017202126",
+              "paragraph" : "§ 42a",
+              "title" : "Vorläufige Inobhutnahme von ausländischen Kindern und Jugendlichen nach unbegleiteter Einreise"
+            },
+            {
+              "documentIdentifier" : "BJNR111630990BJNE017300119",
+              "paragraph" : "§ 42b",
+              "title" : "Verfahren zur Verteilung unbegleiteter ausländischer Kinder und Jugendlicher"
+            },
+            {
+              "documentIdentifier" : "BJNR111630990BJNE017400119",
+              "paragraph" : "§ 42c",
+              "title" : "Aufnahmequote"
+            },
+            {
+              "documentIdentifier" : "BJNR111630990BJNE017500119",
+              "paragraph" : "§ 42d",
+              "title" : "Übergangsregelung"
+            },
+            {
+              "documentIdentifier" : "BJNR111630990BJNE017600119",
+              "paragraph" : "§ 42e",
+              "title" : "Berichtspflicht"
+            },
+            {
+              "documentIdentifier" : "BJNR111630990BJNE017700119",
+              "paragraph" : "§ 42f",
+              "title" : "Behördliches Verfahren zur Altersfeststellung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Vorläufige Maßnahmen zum Schutz von Kindern und Jugendlichen"
+        },
+        {
+          "documentIdentifier" : "BJNR111630990BJNG000906140",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR111630990BJNE006910140",
+              "paragraph" : "§ 43",
+              "title" : "Erlaubnis zur Kindertagespflege"
+            },
+            {
+              "documentIdentifier" : "BJNR111630990BJNE007009140",
+              "paragraph" : "§ 44",
+              "title" : "Erlaubnis zur Vollzeitpflege"
+            },
+            {
+              "documentIdentifier" : "BJNR111630990BJNE007114126",
+              "paragraph" : "§ 45",
+              "title" : "Erlaubnis für den Betrieb einer Einrichtung"
+            },
+            {
+              "documentIdentifier" : "BJNR111630990BJNE007206140",
+              "paragraph" : "§ 46",
+              "title" : "Örtliche Prüfung"
+            },
+            {
+              "documentIdentifier" : "BJNR111630990BJNE007307140",
+              "paragraph" : "§ 47",
+              "title" : "Meldepflichten"
+            },
+            {
+              "documentIdentifier" : "BJNR111630990BJNE007405140",
+              "paragraph" : "§ 48",
+              "title" : "Tätigkeitsuntersagung"
+            },
+            {
+              "documentIdentifier" : "BJNR111630990BJNE013305140",
+              "paragraph" : "§ 48a",
+              "title" : "Sonstige betreute Wohnform"
+            },
+            {
+              "documentIdentifier" : "BJNR111630990BJNE007505140",
+              "paragraph" : "§ 49",
+              "title" : "Landesrechtsvorbehalt"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Schutz von Kindern und Jugendlichen in Familienpflege und in Einrichtungen"
+        },
+        {
+          "documentIdentifier" : "BJNR111630990BJNG001005140",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR111630990BJNE007609308",
+              "paragraph" : "§ 50",
+              "title" : "Mitwirkung in Verfahren vor den Familiengerichten"
+            },
+            {
+              "documentIdentifier" : "BJNR111630990BJNE007708308",
+              "paragraph" : "§ 51",
+              "title" : "Beratung und Belehrung in Verfahren zur Annahme als Kind"
+            },
+            {
+              "documentIdentifier" : "BJNR111630990BJNE007806140",
+              "paragraph" : "§ 52",
+              "title" : "Mitwirkung in Verfahren nach dem Jugendgerichtsgesetz"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Mitwirkung in gerichtlichen Verfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR111630990BJNG001107140",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR111630990BJNE015306140",
+              "paragraph" : "§ 52a",
+              "title" : "Beratung und Unterstützung bei Vaterschaftsfeststellung und Geltendmachung von Unterhaltsansprüchen"
+            },
+            {
+              "documentIdentifier" : "BJNR111630990BJNE007907140",
+              "paragraph" : "§ 53",
+              "title" : "Beratung und Unterstützung von Pflegern und Vormündern"
+            },
+            {
+              "documentIdentifier" : "BJNR111630990BJNE008007140",
+              "paragraph" : "§ 54",
+              "title" : "Erlaubnis zur Übernahme von Vereinsvormundschaften"
+            },
+            {
+              "documentIdentifier" : "BJNR111630990BJNE008108140",
+              "paragraph" : "§ 55",
+              "title" : "Beistandschaft, Amtspflegschaft und Amtsvormundschaft"
+            },
+            {
+              "documentIdentifier" : "BJNR111630990BJNE008208140",
+              "paragraph" : "§ 56",
+              "title" : "Führung der Beistandschaft, der Amtspflegschaft und der Amtsvormundschaft"
+            },
+            {
+              "documentIdentifier" : "BJNR111630990BJNE008307140",
+              "paragraph" : "§ 57",
+              "title" : "Mitteilungspflicht des Jugendamts"
+            },
+            {
+              "documentIdentifier" : "BJNR111630990BJNE008406140",
+              "paragraph" : "§ 58",
+              "title" : "Gegenvormundschaft des Jugendamts"
+            },
+            {
+              "documentIdentifier" : "BJNR111630990BJNE015405308",
+              "paragraph" : "§ 58a",
+              "title" : "Sorgeregister; Bescheinigung über Nichtvorliegen von Eintragungen im Sorgeregister"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Beistandschaft, Pflegschaft und Vormundschaft für Kinder und Jugendliche, Auskunft über Nichtabgabe von Sorgeerklärungen"
+        },
+        {
+          "documentIdentifier" : "BJNR111630990BJNG001206140",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR111630990BJNE008517377",
+              "paragraph" : "§ 59",
+              "title" : "Beurkundung"
+            },
+            {
+              "documentIdentifier" : "BJNR111630990BJNE008608140",
+              "paragraph" : "§ 60",
+              "title" : "Vollstreckbare Urkunden"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              5
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Beurkundung, vollstreckbare Urkunden"
+        }
+      ],
+      "title" : "Andere Aufgaben der Jugendhilfe"
+    },
+    {
+      "documentIdentifier" : "BJNR111630990BJNG001306140",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR111630990BJNE008709126",
+          "paragraph" : "§ 61",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR111630990BJNE008809126",
+          "paragraph" : "§ 62",
+          "title" : "Datenerhebung"
+        },
+        {
+          "documentIdentifier" : "BJNR111630990BJNE008907140",
+          "paragraph" : "§ 63",
+          "title" : "Datenspeicherung"
+        },
+        {
+          "documentIdentifier" : "BJNR111630990BJNE009009126",
+          "paragraph" : "§ 64",
+          "title" : "Datenübermittlung und -nutzung"
+        },
+        {
+          "documentIdentifier" : "BJNR111630990BJNE009111126",
+          "paragraph" : "§ 65",
+          "title" : "Besonderer Vertrauensschutz in der persönlichen und erzieherischen Hilfe"
+        },
+        {
+          "documentIdentifier" : "BJNR111630990BJNE009206140",
+          "paragraph" : "§ 66",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR111630990BJNE009307140",
+          "paragraph" : "§ 67",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR111630990BJNE009410126",
+          "paragraph" : "§ 68",
+          "title" : "Sozialdaten im Bereich der Beistandschaft, Amtspflegschaft und der Amtsvormundschaft"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schutz von Sozialdaten"
+    },
+    {
+      "documentIdentifier" : "BJNR111630990BJNG001405140",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR111630990BJNG001505140",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR111630990BJNE009509140",
+              "paragraph" : "§ 69",
+              "title" : "Träger der öffentlichen Jugendhilfe, Jugendämter, Landesjugendämter"
+            },
+            {
+              "documentIdentifier" : "BJNR111630990BJNE009605140",
+              "paragraph" : "§ 70",
+              "title" : "Organisation des Jugendamts und des Landesjugendamts"
+            },
+            {
+              "documentIdentifier" : "BJNR111630990BJNE009705140",
+              "paragraph" : "§ 71",
+              "title" : "Jugendhilfeausschuss, Landesjugendhilfeausschuss"
+            },
+            {
+              "documentIdentifier" : "BJNR111630990BJNE009805140",
+              "paragraph" : "§ 72",
+              "title" : "Mitarbeiter, Fortbildung"
+            },
+            {
+              "documentIdentifier" : "BJNR111630990BJNE016708119",
+              "paragraph" : "§ 72a",
+              "title" : "Tätigkeitsausschluss einschlägig vorbestrafter Personen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              5,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Träger der öffentlichen Jugendhilfe"
+        },
+        {
+          "documentIdentifier" : "BJNR111630990BJNG001605140",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR111630990BJNE009905140",
+              "paragraph" : "§ 73",
+              "title" : "Ehrenamtliche Tätigkeit"
+            },
+            {
+              "documentIdentifier" : "BJNR111630990BJNE010006140",
+              "paragraph" : "§ 74",
+              "title" : "Förderung der freien Jugendhilfe"
+            },
+            {
+              "documentIdentifier" : "BJNR111630990BJNE016403140",
+              "paragraph" : "§ 74a",
+              "title" : "Finanzierung von Tageseinrichtungen für Kinder"
+            },
+            {
+              "documentIdentifier" : "BJNR111630990BJNE010106140",
+              "paragraph" : "§ 75",
+              "title" : "Anerkennung als Träger der freien Jugendhilfe"
+            },
+            {
+              "documentIdentifier" : "BJNR111630990BJNE010209119",
+              "paragraph" : "§ 76",
+              "title" : "Beteiligung anerkannter Träger der freien Jugendhilfe an der Wahrnehmung anderer Aufgaben"
+            },
+            {
+              "documentIdentifier" : "BJNR111630990BJNE010308140",
+              "paragraph" : "§ 77",
+              "title" : "Vereinbarungen über die Höhe der Kosten"
+            },
+            {
+              "documentIdentifier" : "BJNR111630990BJNE010405140",
+              "paragraph" : "§ 78",
+              "title" : "Arbeitsgemeinschaften"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              5,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Zusammenarbeit mit der freien Jugendhilfe, ehrenamtliche Tätigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR111630990BJNG003703140",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR111630990BJNE015505140",
+              "paragraph" : "§ 78a",
+              "title" : "Anwendungsbereich"
+            },
+            {
+              "documentIdentifier" : "BJNR111630990BJNE015604140",
+              "paragraph" : "§ 78b",
+              "title" : "Voraussetzungen für die Übernahme des Leistungsentgelts"
+            },
+            {
+              "documentIdentifier" : "BJNR111630990BJNE015703140",
+              "paragraph" : "§ 78c",
+              "title" : "Inhalt der Leistungs- und Entgeltvereinbarungen"
+            },
+            {
+              "documentIdentifier" : "BJNR111630990BJNE015803140",
+              "paragraph" : "§ 78d",
+              "title" : "Vereinbarungszeitraum"
+            },
+            {
+              "documentIdentifier" : "BJNR111630990BJNE015903140",
+              "paragraph" : "§ 78e",
+              "title" : "Örtliche Zuständigkeit für den Abschluss von Vereinbarungen"
+            },
+            {
+              "documentIdentifier" : "BJNR111630990BJNE016003140",
+              "paragraph" : "§ 78f",
+              "title" : "Rahmenverträge"
+            },
+            {
+              "documentIdentifier" : "BJNR111630990BJNE016103140",
+              "paragraph" : "§ 78g",
+              "title" : "Schiedsstelle"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              5,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Vereinbarungen über Leistungsangebote, Entgelte und Qualitätsentwicklung"
+        },
+        {
+          "documentIdentifier" : "BJNR111630990BJNG001707140",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR111630990BJNE010506140",
+              "paragraph" : "§ 79",
+              "title" : "Gesamtverantwortung, Grundausstattung"
+            },
+            {
+              "documentIdentifier" : "BJNR111630990BJNE017101140",
+              "paragraph" : "§ 79a",
+              "title" : "Qualitätsentwicklung in der Kinder- und Jugendhilfe"
+            },
+            {
+              "documentIdentifier" : "BJNR111630990BJNE010605140",
+              "paragraph" : "§ 80",
+              "title" : "Jugendhilfeplanung"
+            },
+            {
+              "documentIdentifier" : "BJNR111630990BJNE010709126",
+              "paragraph" : "§ 81",
+              "title" : "Strukturelle Zusammenarbeit mit anderen Stellen und öffentlichen Einrichtungen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              5,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Gesamtverantwortung, Jugendhilfeplanung"
+        }
+      ],
+      "title" : "Träger der Jugendhilfe, Zusammenarbeit, Gesamtverantwortung"
+    },
+    {
+      "documentIdentifier" : "BJNR111630990BJNG001805140",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR111630990BJNE010805140",
+          "paragraph" : "§ 82",
+          "title" : "Aufgaben der Länder"
+        },
+        {
+          "documentIdentifier" : "BJNR111630990BJNE010906301",
+          "paragraph" : "§ 83",
+          "title" : "Aufgaben des Bundes, Bundesjugendkuratorium"
+        },
+        {
+          "documentIdentifier" : "BJNR111630990BJNE011006140",
+          "paragraph" : "§ 84",
+          "title" : "Jugendbericht"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Zentrale Aufgaben"
+    },
+    {
+      "documentIdentifier" : "BJNR111630990BJNG001906140",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR111630990BJNG002705140",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR111630990BJNE011108140",
+              "paragraph" : "§ 85",
+              "title" : "Sachliche Zuständigkeit"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              7,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Sachliche Zuständigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR111630990BJNG002805140",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              7,
+              2
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR111630990BJNG002905140",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR111630990BJNE011210301",
+                  "paragraph" : "§ 86",
+                  "title" : "Örtliche Zuständigkeit für Leistungen an Kinder, Jugendliche und ihre Eltern"
+                },
+                {
+                  "documentIdentifier" : "BJNR111630990BJNE013406140",
+                  "paragraph" : "§ 86a",
+                  "title" : "Örtliche Zuständigkeit für Leistungen an junge Volljährige"
+                },
+                {
+                  "documentIdentifier" : "BJNR111630990BJNE013505140",
+                  "paragraph" : "§ 86b",
+                  "title" : "Örtliche Zuständigkeit für Leistungen in gemeinsamen Wohnformen für Mütter\/Väter und Kinder"
+                },
+                {
+                  "documentIdentifier" : "BJNR111630990BJNE013606140",
+                  "paragraph" : "§ 86c",
+                  "title" : "Fortdauernde Leistungsverpflichtung und Fallübergabe bei Zuständigkeitswechsel"
+                },
+                {
+                  "documentIdentifier" : "BJNR111630990BJNE013705140",
+                  "paragraph" : "§ 86d",
+                  "title" : "Verpflichtung zum vorläufigen Tätigwerden"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  7,
+                  2,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Örtliche Zuständigkeit für Leistungen"
+            },
+            {
+              "documentIdentifier" : "BJNR111630990BJNG003005140",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR111630990BJNE011308119",
+                  "paragraph" : "§ 87",
+                  "title" : "Örtliche Zuständigkeit für vorläufige Maßnahmen zum Schutz von Kindern und Jugendlichen"
+                },
+                {
+                  "documentIdentifier" : "BJNR111630990BJNE013806140",
+                  "paragraph" : "§ 87a",
+                  "title" : "Örtliche Zuständigkeit für Erlaubnis, Meldepflichten und Untersagung"
+                },
+                {
+                  "documentIdentifier" : "BJNR111630990BJNE013906140",
+                  "paragraph" : "§ 87b",
+                  "title" : "Örtliche Zuständigkeit für die Mitwirkung in gerichtlichen Verfahren"
+                },
+                {
+                  "documentIdentifier" : "BJNR111630990BJNE014012301",
+                  "paragraph" : "§ 87c",
+                  "title" : "Örtliche Zuständigkeit für die Beistandschaft, die Amtspflegschaft, die Amtsvormundschaft und die Bescheinigung nach § 58a"
+                },
+                {
+                  "documentIdentifier" : "BJNR111630990BJNE014106140",
+                  "paragraph" : "§ 87d",
+                  "title" : "Örtliche Zuständigkeit für weitere Aufgaben im Vormundschaftswesen"
+                },
+                {
+                  "documentIdentifier" : "BJNR111630990BJNE014205140",
+                  "paragraph" : "§ 87e",
+                  "title" : "Örtliche Zuständigkeit für Beurkundung und Beglaubigung"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  7,
+                  2,
+                  2
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Örtliche Zuständigkeit für andere Aufgaben"
+            },
+            {
+              "documentIdentifier" : "BJNR111630990BJNG003105140",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR111630990BJNE011406140",
+                  "paragraph" : "§ 88",
+                  "title" : "Örtliche Zuständigkeit bei Aufenthalt im Ausland"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  7,
+                  2,
+                  3
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Örtliche Zuständigkeit bei Aufenthalt im Ausland"
+            },
+            {
+              "documentIdentifier" : "BJNR111630990BJNG003800119",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR111630990BJNE017800119",
+                  "paragraph" : "§ 88a",
+                  "title" : "Örtliche Zuständigkeit für vorläufige Maßnahmen, Leistungen und die Amtsvormundschaft für unbegleitete ausländische Kinder und Jugendliche"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  7,
+                  2,
+                  4
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Örtliche Zuständigkeit für vorläufige Maßnahmen, Leistungen und die Amtsvormundschaft für unbegleitete ausländische Kinder und Jugendliche"
+            }
+          ],
+          "title" : "Örtliche Zuständigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR111630990BJNG003205140",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR111630990BJNE011506140",
+              "paragraph" : "§ 89",
+              "title" : "Kostenerstattung bei fehlendem gewöhnlichen Aufenthalt"
+            },
+            {
+              "documentIdentifier" : "BJNR111630990BJNE014308301",
+              "paragraph" : "§ 89a",
+              "title" : "Kostenerstattung bei fortdauernder Vollzeitpflege"
+            },
+            {
+              "documentIdentifier" : "BJNR111630990BJNE014408140",
+              "paragraph" : "§ 89b",
+              "title" : "Kostenerstattung bei vorläufigen Maßnahmen zum Schutz von Kindern und Jugendlichen"
+            },
+            {
+              "documentIdentifier" : "BJNR111630990BJNE014506140",
+              "paragraph" : "§ 89c",
+              "title" : "Kostenerstattung bei fortdauernder oder vorläufiger Leistungsverpflichtung"
+            },
+            {
+              "documentIdentifier" : "BJNR111630990BJNE014608119",
+              "paragraph" : "§ 89d",
+              "title" : "Kostenerstattung bei Gewährung von Jugendhilfe nach der Einreise"
+            },
+            {
+              "documentIdentifier" : "BJNR111630990BJNE014706140",
+              "paragraph" : "§ 89e",
+              "title" : "Schutz der Einrichtungsorte"
+            },
+            {
+              "documentIdentifier" : "BJNR111630990BJNE014808140",
+              "paragraph" : "§ 89f",
+              "title" : "Umfang der Kostenerstattung"
+            },
+            {
+              "documentIdentifier" : "BJNR111630990BJNE014906140",
+              "paragraph" : "§ 89g",
+              "title" : "Landesrechtsvorbehalt"
+            },
+            {
+              "documentIdentifier" : "BJNR111630990BJNE016203140",
+              "paragraph" : "§ 89h",
+              "title" : "Übergangsvorschrift"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              7,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Kostenerstattung"
+        }
+      ],
+      "title" : "Zuständigkeit, Kostenerstattung"
+    },
+    {
+      "documentIdentifier" : "BJNR111630990BJNG002007140",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          8
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR111630990BJNG003306140",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR111630990BJNE011611126",
+              "paragraph" : "§ 90",
+              "title" : "Pauschalierte Kostenbeteiligung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              8,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Pauschalierte Kostenbeteiligung"
+        },
+        {
+          "documentIdentifier" : "BJNR111630990BJNG003406140",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR111630990BJNE011711140",
+              "paragraph" : "§ 91",
+              "title" : "Anwendungsbereich"
+            },
+            {
+              "documentIdentifier" : "BJNR111630990BJNE011809301",
+              "paragraph" : "§ 92",
+              "title" : "Ausgestaltung der Heranziehung"
+            },
+            {
+              "documentIdentifier" : "BJNR111630990BJNE011911301",
+              "paragraph" : "§ 93",
+              "title" : "Berechnung des Einkommens"
+            },
+            {
+              "documentIdentifier" : "BJNR111630990BJNE012010301",
+              "paragraph" : "§ 94",
+              "title" : "Umfang der Heranziehung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              8,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Kostenbeiträge für stationäre und teilstationäre Leistungen sowie vorläufige Maßnahmen"
+        },
+        {
+          "documentIdentifier" : "BJNR111630990BJNG003505140",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR111630990BJNE012108140",
+              "paragraph" : "§ 95",
+              "title" : "Überleitung von Ansprüchen"
+            },
+            {
+              "documentIdentifier" : "BJNR111630990BJNE012209140",
+              "paragraph" : "§ 96",
+              "title" : "(weggefallen)"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              8,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Überleitung von Ansprüchen"
+        },
+        {
+          "documentIdentifier" : "BJNR111630990BJNG003605140",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR111630990BJNE012306140",
+              "paragraph" : "§ 97",
+              "title" : "Feststellung der Sozialleistungen"
+            },
+            {
+              "documentIdentifier" : "BJNR111630990BJNE015008140",
+              "paragraph" : "§ 97a",
+              "title" : "Pflicht zur Auskunft"
+            },
+            {
+              "documentIdentifier" : "BJNR111630990BJNE016803140",
+              "paragraph" : "§ 97b",
+              "title" : "(weggefallen)"
+            },
+            {
+              "documentIdentifier" : "BJNR111630990BJNE016902140",
+              "paragraph" : "§ 97c",
+              "title" : "Erhebung von Gebühren und Auslagen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              8,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Ergänzende Vorschriften"
+        }
+      ],
+      "title" : "Kostenbeteiligung"
+    },
+    {
+      "documentIdentifier" : "BJNR111630990BJNG002105140",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR111630990BJNE012411301",
+          "paragraph" : "§ 98",
+          "title" : "Zweck und Umfang der Erhebung"
+        },
+        {
+          "documentIdentifier" : "BJNR111630990BJNE012517119",
+          "paragraph" : "§ 99",
+          "title" : "Erhebungsmerkmale"
+        },
+        {
+          "documentIdentifier" : "BJNR111630990BJNE012608301",
+          "paragraph" : "§ 100",
+          "title" : "Hilfsmerkmale"
+        },
+        {
+          "documentIdentifier" : "BJNR111630990BJNE012715301",
+          "paragraph" : "§ 101",
+          "title" : "Periodizität und Berichtszeitraum"
+        },
+        {
+          "documentIdentifier" : "BJNR111630990BJNE012811119",
+          "paragraph" : "§ 102",
+          "title" : "Auskunftspflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR111630990BJNE012907140",
+          "paragraph" : "§ 103",
+          "title" : "Übermittlung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          9
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Kinder- und Jugendhilfestatistik"
+    },
+    {
+      "documentIdentifier" : "BJNR111630990BJNG002205140",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR111630990BJNE013008140",
+          "paragraph" : "§ 104",
+          "title" : "Bußgeldvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR111630990BJNE013105140",
+          "paragraph" : "§ 105",
+          "title" : "Strafvorschriften"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          10
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Straf- und Bußgeldvorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR111630990BJNG003900119",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR111630990BJNE017900119",
+          "paragraph" : "§ 106",
+          "title" : "Einschränkung eines Grundrechts"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          11
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussvorschriften"
+    }
+  ]
+}

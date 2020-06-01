@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR345600004",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR345600004Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR345600004BJNE000100000",
+          "paragraph" : "(XXXX) Art 1",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR345600004BJNE000200000",
+          "paragraph" : "Art 2",
+          "title" : "Übergangsregelung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

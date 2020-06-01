@@ -1,0 +1,604 @@
+{
+  "documentIdentifier" : "BJNR258110017",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR258110017BJNG000100000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR258110017BJNG000200000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR258110017BJNE000200000",
+              "paragraph" : "§ 1",
+              "title" : "Führen der Berufsbezeichnung"
+            },
+            {
+              "documentIdentifier" : "BJNR258110017BJNE000300000",
+              "paragraph" : "§ 2",
+              "title" : "Voraussetzungen für die Erteilung der Erlaubnis"
+            },
+            {
+              "documentIdentifier" : "BJNR258110017BJNE000400000",
+              "paragraph" : "§ 3",
+              "title" : "Rücknahme, Widerruf und Ruhen der Erlaubnis"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Erlaubnis zum Führen der Berufsbezeichnung"
+        },
+        {
+          "documentIdentifier" : "BJNR258110017BJNG000300000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR258110017BJNE000500000",
+              "paragraph" : "§ 4",
+              "title" : "Vorbehaltene Tätigkeiten"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Vorbehaltene Tätigkeiten"
+        }
+      ],
+      "title" : "Allgemeiner Teil"
+    },
+    {
+      "documentIdentifier" : "BJNR258110017BJNG000400000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR258110017BJNG000500000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR258110017BJNE000600000",
+              "paragraph" : "§ 5",
+              "title" : "Ausbildungsziel"
+            },
+            {
+              "documentIdentifier" : "BJNR258110017BJNE000700000",
+              "paragraph" : "§ 6",
+              "title" : "Dauer und Struktur der Ausbildung"
+            },
+            {
+              "documentIdentifier" : "BJNR258110017BJNE000800000",
+              "paragraph" : "§ 7",
+              "title" : "Durchführung der praktischen Ausbildung"
+            },
+            {
+              "documentIdentifier" : "BJNR258110017BJNE000900000",
+              "paragraph" : "§ 8",
+              "title" : "Träger der praktischen Ausbildung"
+            },
+            {
+              "documentIdentifier" : "BJNR258110017BJNE001000000",
+              "paragraph" : "§ 9",
+              "title" : "Mindestanforderungen an Pflegeschulen"
+            },
+            {
+              "documentIdentifier" : "BJNR258110017BJNE001100000",
+              "paragraph" : "§ 10",
+              "title" : "Gesamtverantwortung der Pflegeschule"
+            },
+            {
+              "documentIdentifier" : "BJNR258110017BJNE001200000",
+              "paragraph" : "§ 11",
+              "title" : "Voraussetzungen für den Zugang zur Ausbildung"
+            },
+            {
+              "documentIdentifier" : "BJNR258110017BJNE001300000",
+              "paragraph" : "§ 12",
+              "title" : "Anrechnung gleichwertiger Ausbildungen"
+            },
+            {
+              "documentIdentifier" : "BJNR258110017BJNE001400000",
+              "paragraph" : "§ 13",
+              "title" : "Anrechnung von Fehlzeiten"
+            },
+            {
+              "documentIdentifier" : "BJNR258110017BJNE001500000",
+              "paragraph" : "§ 14",
+              "title" : "Ausbildung im Rahmen von Modellvorhaben nach § 63 Absatz 3c des Fünften Buches Sozialgesetzbuch"
+            },
+            {
+              "documentIdentifier" : "BJNR258110017BJNE001600000",
+              "paragraph" : "§ 15",
+              "title" : "Modellvorhaben zur Weiterentwicklung des Pflegeberufs"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Ausbildung"
+        },
+        {
+          "documentIdentifier" : "BJNR258110017BJNG000600000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR258110017BJNE001700000",
+              "paragraph" : "§ 16",
+              "title" : "Ausbildungsvertrag"
+            },
+            {
+              "documentIdentifier" : "BJNR258110017BJNE001800000",
+              "paragraph" : "§ 17",
+              "title" : "Pflichten der Auszubildenden"
+            },
+            {
+              "documentIdentifier" : "BJNR258110017BJNE001900000",
+              "paragraph" : "§ 18",
+              "title" : "Pflichten des Trägers der praktischen Ausbildung"
+            },
+            {
+              "documentIdentifier" : "BJNR258110017BJNE002000000",
+              "paragraph" : "§ 19",
+              "title" : "Ausbildungsvergütung"
+            },
+            {
+              "documentIdentifier" : "BJNR258110017BJNE002100000",
+              "paragraph" : "§ 20",
+              "title" : "Probezeit"
+            },
+            {
+              "documentIdentifier" : "BJNR258110017BJNE002200000",
+              "paragraph" : "§ 21",
+              "title" : "Ende des Ausbildungsverhältnisses"
+            },
+            {
+              "documentIdentifier" : "BJNR258110017BJNE002300000",
+              "paragraph" : "§ 22",
+              "title" : "Kündigung des Ausbildungsverhältnisses"
+            },
+            {
+              "documentIdentifier" : "BJNR258110017BJNE002400000",
+              "paragraph" : "§ 23",
+              "title" : "Beschäftigung im Anschluss an das Ausbildungsverhältnis"
+            },
+            {
+              "documentIdentifier" : "BJNR258110017BJNE002500000",
+              "paragraph" : "§ 24",
+              "title" : "Nichtigkeit von Vereinbarungen"
+            },
+            {
+              "documentIdentifier" : "BJNR258110017BJNE002600000",
+              "paragraph" : "§ 25",
+              "title" : "Ausschluss der Geltung von Vorschriften dieses Abschnitts"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Ausbildungsverhältnis"
+        },
+        {
+          "documentIdentifier" : "BJNR258110017BJNG000700000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR258110017BJNE002700000",
+              "paragraph" : "§ 26",
+              "title" : "Grundsätze der Finanzierung"
+            },
+            {
+              "documentIdentifier" : "BJNR258110017BJNE002801116",
+              "paragraph" : "§ 27",
+              "title" : "Ausbildungskosten"
+            },
+            {
+              "documentIdentifier" : "BJNR258110017BJNE002900000",
+              "paragraph" : "§ 28",
+              "title" : "Umlageverfahren"
+            },
+            {
+              "documentIdentifier" : "BJNR258110017BJNE003000000",
+              "paragraph" : "§ 29",
+              "title" : "Ausbildungsbudget, Grundsätze"
+            },
+            {
+              "documentIdentifier" : "BJNR258110017BJNE003100000",
+              "paragraph" : "§ 30",
+              "title" : "Pauschalbudgets"
+            },
+            {
+              "documentIdentifier" : "BJNR258110017BJNE003200000",
+              "paragraph" : "§ 31",
+              "title" : "Individualbudgets"
+            },
+            {
+              "documentIdentifier" : "BJNR258110017BJNE003300000",
+              "paragraph" : "§ 32",
+              "title" : "Höhe des Finanzierungsbedarfs; Verwaltungskosten"
+            },
+            {
+              "documentIdentifier" : "BJNR258110017BJNE003400000",
+              "paragraph" : "§ 33",
+              "title" : "Aufbringung des Finanzierungsbedarfs; Verordnungsermächtigung"
+            },
+            {
+              "documentIdentifier" : "BJNR258110017BJNE003500000",
+              "paragraph" : "§ 34",
+              "title" : "Ausgleichszuweisungen"
+            },
+            {
+              "documentIdentifier" : "BJNR258110017BJNE003600000",
+              "paragraph" : "§ 35",
+              "title" : "Rechnungslegung der zuständigen Stelle"
+            },
+            {
+              "documentIdentifier" : "BJNR258110017BJNE003700000",
+              "paragraph" : "§ 36",
+              "title" : "Schiedsstelle; Verordnungsermächtigung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Finanzierung der beruflichen Ausbildung in der Pflege"
+        }
+      ],
+      "title" : "Berufliche Ausbildung in der Pflege"
+    },
+    {
+      "documentIdentifier" : "BJNR258110017BJNG000800000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR258110017BJNE003800000",
+          "paragraph" : "§ 37",
+          "title" : "Ausbildungsziele"
+        },
+        {
+          "documentIdentifier" : "BJNR258110017BJNE003900000",
+          "paragraph" : "§ 38",
+          "title" : "Durchführung des Studiums"
+        },
+        {
+          "documentIdentifier" : "BJNR258110017BJNE004000000",
+          "paragraph" : "§ 39",
+          "title" : "Abschluss des Studiums, staatliche Prüfung zur Erlangung der Berufszulassung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Hochschulische Pflegeausbildung"
+    },
+    {
+      "documentIdentifier" : "BJNR258110017BJNG000900000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR258110017BJNG001000000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR258110017BJNE004100000",
+              "paragraph" : "§ 40",
+              "title" : "Gleichwertigkeit und Anerkennung von Ausbildungen"
+            },
+            {
+              "documentIdentifier" : "BJNR258110017BJNE004200000",
+              "paragraph" : "§ 41",
+              "title" : "Gleichwertigkeit entsprechender Ausbildungen; Verordnungsermächtigung"
+            },
+            {
+              "documentIdentifier" : "BJNR258110017BJNE004300000",
+              "paragraph" : "§ 42",
+              "title" : "Erlaubnis bei Vorlage von Nachweisen anderer EWR-Vertragsstaaten"
+            },
+            {
+              "documentIdentifier" : "BJNR258110017BJNE004400000",
+              "paragraph" : "§ 43",
+              "title" : "Feststellungsbescheid"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Außerhalb des Geltungsbereichs des Gesetzes erworbene Berufsabschlüsse"
+        },
+        {
+          "documentIdentifier" : "BJNR258110017BJNG001100000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR258110017BJNE004500000",
+              "paragraph" : "§ 44",
+              "title" : "Dienstleistungserbringende Personen"
+            },
+            {
+              "documentIdentifier" : "BJNR258110017BJNE004600000",
+              "paragraph" : "§ 45",
+              "title" : "Rechte und Pflichten"
+            },
+            {
+              "documentIdentifier" : "BJNR258110017BJNE004700000",
+              "paragraph" : "§ 46",
+              "title" : "Meldung der dienstleistungserbringenden Person an die zuständige Behörde"
+            },
+            {
+              "documentIdentifier" : "BJNR258110017BJNE004800000",
+              "paragraph" : "§ 47",
+              "title" : "Bescheinigungen der zuständigen Behörde"
+            },
+            {
+              "documentIdentifier" : "BJNR258110017BJNE004900000",
+              "paragraph" : "§ 48",
+              "title" : "Verwaltungszusammenarbeit bei Dienstleistungserbringung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Erbringen von Dienstleistungen"
+        },
+        {
+          "documentIdentifier" : "BJNR258110017BJNG001200000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR258110017BJNE005000000",
+              "paragraph" : "§ 49",
+              "title" : "Zuständige Behörden"
+            },
+            {
+              "documentIdentifier" : "BJNR258110017BJNE005100000",
+              "paragraph" : "§ 50",
+              "title" : "Unterrichtungspflichten"
+            },
+            {
+              "documentIdentifier" : "BJNR258110017BJNE005200000",
+              "paragraph" : "§ 51",
+              "title" : "Vorwarnmechanismus"
+            },
+            {
+              "documentIdentifier" : "BJNR258110017BJNE005300000",
+              "paragraph" : "§ 52",
+              "title" : "Weitere Aufgaben der jeweils zuständigen Behörden"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Aufgaben und Zuständigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR258110017BJNG001300000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR258110017BJNE005400000",
+              "paragraph" : "§ 53",
+              "title" : "Fachkommission; Erarbeitung von Rahmenplänen"
+            },
+            {
+              "documentIdentifier" : "BJNR258110017BJNE005500000",
+              "paragraph" : "§ 54",
+              "title" : "Beratung; Aufbau unterstützender Angebote und Forschung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Fachkommission, Beratung, Aufbau unterstützender Angebote und Forschung"
+        },
+        {
+          "documentIdentifier" : "BJNR258110017BJNG001400000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR258110017BJNE005600000",
+              "paragraph" : "§ 55",
+              "title" : "Statistik; Verordnungsermächtigung"
+            },
+            {
+              "documentIdentifier" : "BJNR258110017BJNE005701116",
+              "paragraph" : "§ 56",
+              "title" : "Ausbildungs- und Prüfungsverordnung, Finanzierung; Verordnungsermächtigungen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4,
+              5
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Statistik und Verordnungsermächtigung"
+        },
+        {
+          "documentIdentifier" : "BJNR258110017BJNG001500000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR258110017BJNE005800000",
+              "paragraph" : "§ 57",
+              "title" : "Bußgeldvorschriften"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4,
+              6
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Bußgeldvorschriften"
+        }
+      ],
+      "title" : "Anerkennung ausländischer Berufsabschlüsse; Zuständigkeiten; Fachkommission; Statistik und Verordnungsermächtigungen; Bußgeldvorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR258110017BJNG001600000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR258110017BJNE005900000",
+          "paragraph" : "§ 58",
+          "title" : "Führen der Berufsbezeichnungen in der Gesundheits- und Kinderkrankenpflege sowie in der Altenpflege"
+        },
+        {
+          "documentIdentifier" : "BJNR258110017BJNE006000000",
+          "paragraph" : "§ 59",
+          "title" : "Gemeinsame Vorschriften; Wahlrecht der Auszubildenden"
+        },
+        {
+          "documentIdentifier" : "BJNR258110017BJNE006100000",
+          "paragraph" : "§ 60",
+          "title" : "Ausbildung zur Gesundheits- und Kinderkrankenpflegerin oder zum Gesundheits- und Kinderkrankenpfleger; Ausbildungsziel und Durchführung der Ausbildung"
+        },
+        {
+          "documentIdentifier" : "BJNR258110017BJNE006200000",
+          "paragraph" : "§ 61",
+          "title" : "Ausbildung zur Altenpflegerin oder zum Altenpfleger; Ausbildungsziel und Durchführung der Ausbildung"
+        },
+        {
+          "documentIdentifier" : "BJNR258110017BJNE006300000",
+          "paragraph" : "§ 62",
+          "title" : "Überprüfung der Vorschriften über die Berufsabschlüsse in der Gesundheits- und Kinderkrankenpflege sowie in der Altenpflege"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Besondere Vorschriften über die Berufsabschlüsse in der Gesundheits- und Kinderkrankenpflege sowie in der Altenpflege"
+    },
+    {
+      "documentIdentifier" : "BJNR258110017BJNG001700000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR258110017BJNE006400000",
+          "paragraph" : "§ 63",
+          "title" : "Nichtanwendung des Berufsbildungsgesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR258110017BJNE006500000",
+          "paragraph" : "§ 64",
+          "title" : "Fortgeltung der Berufsbezeichnung"
+        },
+        {
+          "documentIdentifier" : "BJNR258110017BJNE006600000",
+          "paragraph" : "§ 65",
+          "title" : "Weitergeltung staatlicher Anerkennungen von Schulen; Bestandsschutz"
+        },
+        {
+          "documentIdentifier" : "BJNR258110017BJNE006700000",
+          "paragraph" : "§ 66",
+          "title" : "Übergangsvorschriften für begonnene Ausbildungen nach dem Krankenpflegegesetz oder dem Altenpflegegesetz"
+        },
+        {
+          "documentIdentifier" : "BJNR258110017BJNE007100116",
+          "paragraph" : "§ 66a",
+          "title" : "Übergangsvorschrift für die Anerkennung ausländischer Berufsabschlüsse"
+        },
+        {
+          "documentIdentifier" : "BJNR258110017BJNE006800000",
+          "paragraph" : "§ 67",
+          "title" : "Kooperationen von Hochschulen und Pflegeschulen"
+        },
+        {
+          "documentIdentifier" : "BJNR258110017BJNE006900000",
+          "paragraph" : "§ 68",
+          "title" : "Evaluierung"
+        },
+        {
+          "documentIdentifier" : "BJNR258110017BJNE007000000",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 41 Absatz 1 Satz 1)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Anwendungs- und Übergangsvorschriften"
+    }
+  ]
+}

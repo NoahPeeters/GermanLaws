@@ -1,0 +1,64 @@
+{
+  "documentIdentifier" : "BJNR416100001",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR416100001Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR416100001BJNE000101116",
+          "paragraph" : "§ 1",
+          "title" : "Gebührenverzeichnis"
+        },
+        {
+          "documentIdentifier" : "BJNR416100001BJNE000201116",
+          "paragraph" : "§ 2",
+          "title" : "Wertgebühr"
+        },
+        {
+          "documentIdentifier" : "BJNR416100001BJNE000301116",
+          "paragraph" : "§ 3",
+          "title" : "Auslagen"
+        },
+        {
+          "documentIdentifier" : "BJNR416100001BJNE000401116",
+          "paragraph" : "§ 4",
+          "title" : "Sprachengruppen"
+        },
+        {
+          "documentIdentifier" : "BJNR416100001BJNE000501116",
+          "paragraph" : "§ 5",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR416100001BJNE000604116",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 1)"
+        },
+        {
+          "documentIdentifier" : "BJNR416100001BJNE000704116",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 2 Abs. 1) "
+        },
+        {
+          "documentIdentifier" : "BJNR416100001BJNE000802116",
+          "paragraph" : "Anlage 3",
+          "title" : "(zu § 2 Absatz 2)"
+        },
+        {
+          "documentIdentifier" : "BJNR416100001BJNE000902116",
+          "paragraph" : "Anlage 4",
+          "title" : "(zu § 4)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

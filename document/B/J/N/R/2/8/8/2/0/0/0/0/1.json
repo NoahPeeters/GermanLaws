@@ -1,0 +1,64 @@
+{
+  "documentIdentifier" : "BJNR288200001",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR288200001Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR288200001BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Ziel der Prüfung und Bezeichnung des Abschlusses"
+        },
+        {
+          "documentIdentifier" : "BJNR288200001BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Zulassungsvoraussetzungen"
+        },
+        {
+          "documentIdentifier" : "BJNR288200001BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Gliederung und Durchführung der Prüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR288200001BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Anforderungen und Inhalte der Prüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR288200001BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Anrechnung anderer Prüfungsleistungen"
+        },
+        {
+          "documentIdentifier" : "BJNR288200001BJNE000601360",
+          "paragraph" : "§ 6",
+          "title" : "Bestehen der Prüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR288200001BJNE000700000",
+          "paragraph" : "§ 7",
+          "title" : "Wiederholung der Prüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR288200001BJNE000800000",
+          "paragraph" : "§ 8",
+          "title" : "Übergangsvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR288200001BJNE000900000",
+          "paragraph" : "§ 9",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

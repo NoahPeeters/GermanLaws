@@ -1,0 +1,756 @@
+{
+  "documentIdentifier" : "BJNR093000015",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR093000015BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR093000015BJNE000300000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR093000015BJNE000400000",
+          "paragraph" : "§ 2",
+          "title" : "Berichtszeitraum"
+        },
+        {
+          "documentIdentifier" : "BJNR093000015BJNE000500000",
+          "paragraph" : "§ 3",
+          "title" : "Risikoorientierung und Wesentlichkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR093000015BJNE000600000",
+          "paragraph" : "§ 4",
+          "title" : "Art und Umfang der Berichterstattung"
+        },
+        {
+          "documentIdentifier" : "BJNR093000015BJNE000700000",
+          "paragraph" : "§ 5",
+          "title" : "Form und Frist der Berichterstattung"
+        },
+        {
+          "documentIdentifier" : "BJNR093000015BJNE000800000",
+          "paragraph" : "§ 6",
+          "title" : "Anlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR093000015BJNE000900000",
+          "paragraph" : "§ 7",
+          "title" : "Zusammenfassende Schlussbemerkung"
+        },
+        {
+          "documentIdentifier" : "BJNR093000015BJNE001000000",
+          "paragraph" : "§ 8",
+          "title" : "Berichtsturnus; Unterzeichnung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR093000015BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR093000015BJNE001102118",
+          "paragraph" : "§ 9",
+          "title" : "Darstellung der rechtlichen, wirtschaftlichen und organisatorischen Grundlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR093000015BJNE001200000",
+          "paragraph" : "§ 10",
+          "title" : "Zweigniederlassungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Angaben zum Institut"
+    },
+    {
+      "documentIdentifier" : "BJNR093000015BJNG000300000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR093000015BJNG000400000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR093000015BJNE001300000",
+              "paragraph" : "§ 11",
+              "title" : "Angemessenheit und Wirksamkeit des Risikomanagements und Ordnungsmäßigkeit der Geschäftsorganisation"
+            },
+            {
+              "documentIdentifier" : "BJNR093000015BJNE001400000",
+              "paragraph" : "§ 12",
+              "title" : "Vergütungssysteme"
+            },
+            {
+              "documentIdentifier" : "BJNR093000015BJNE001500000",
+              "paragraph" : "§ 13",
+              "title" : "IT-Systeme"
+            },
+            {
+              "documentIdentifier" : "BJNR093000015BJNE001600000",
+              "paragraph" : "§ 14",
+              "title" : "Zinsänderungsrisiken im Anlagebuch"
+            },
+            {
+              "documentIdentifier" : "BJNR093000015BJNE001602311",
+              "paragraph" : "§ 14a",
+              "title" : "Einhaltung der Pflichten aus Derivategeschäften und für zentrale Gegenparteien gemäß der Verordnung (EU) Nr. 648\/2012"
+            },
+            {
+              "documentIdentifier" : "BJNR093000015BJNE001700000",
+              "paragraph" : "§ 15",
+              "title" : "Sanierungsplanung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Risikomanagement und Geschäftsorganisation"
+        },
+        {
+          "documentIdentifier" : "BJNR093000015BJNG000500000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR093000015BJNE001800000",
+              "paragraph" : "§ 16",
+              "title" : "Vorgaben für das Handelsbuch"
+            },
+            {
+              "documentIdentifier" : "BJNR093000015BJNE001900000",
+              "paragraph" : "§ 17",
+              "title" : "Ausnahme für Handelsbuchtätigkeiten von geringem Umfang"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Handelsbuch"
+        },
+        {
+          "documentIdentifier" : "BJNR093000015BJNG000600000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR093000015BJNE002000000",
+              "paragraph" : "§ 18",
+              "title" : "Ermittlung der Eigenmittel"
+            },
+            {
+              "documentIdentifier" : "BJNR093000015BJNE002100000",
+              "paragraph" : "§ 19",
+              "title" : "Eigenmittel"
+            },
+            {
+              "documentIdentifier" : "BJNR093000015BJNE002200000",
+              "paragraph" : "§ 20",
+              "title" : "Kapitalpuffer"
+            },
+            {
+              "documentIdentifier" : "BJNR093000015BJNE002300000",
+              "paragraph" : "§ 21",
+              "title" : "Kapitalquoten"
+            },
+            {
+              "documentIdentifier" : "BJNR093000015BJNE002400000",
+              "paragraph" : "§ 22",
+              "title" : "Solvabilitätskennzahl bei Wohnungsunternehmen mit Spareinrichtung"
+            },
+            {
+              "documentIdentifier" : "BJNR093000015BJNE002500000",
+              "paragraph" : "§ 23",
+              "title" : "Liquiditätslage"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Eigenmittel, Kapitalquoten und Liquiditätslage"
+        },
+        {
+          "documentIdentifier" : "BJNR093000015BJNG000700000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR093000015BJNE002600000",
+              "paragraph" : "§ 24",
+              "title" : "Offenlegungsanforderungen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Offenlegung"
+        },
+        {
+          "documentIdentifier" : "BJNR093000015BJNG000800000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR093000015BJNE002700000",
+              "paragraph" : "§ 25",
+              "title" : "Anzeigewesen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              5
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Anzeigewesen"
+        },
+        {
+          "documentIdentifier" : "BJNR093000015BJNG000900000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR093000015BJNE002801118",
+              "paragraph" : "§ 26",
+              "title" : "Zeitpunkt der Prüfung und Berichtszeitraum"
+            },
+            {
+              "documentIdentifier" : "BJNR093000015BJNE002902118",
+              "paragraph" : "§ 27",
+              "title" : "Darstellung und Beurteilung der getroffenen Vorkehrungen zur Verhinderung von Geldwäsche und Terrorismusfinanzierung sowie von sonstigen strafbaren Handlungen"
+            },
+            {
+              "documentIdentifier" : "BJNR093000015BJNE003000000",
+              "paragraph" : "§ 28",
+              "title" : "Darstellung und Beurteilung der getroffenen Vorkehrungen zur Einhaltung der Pflichten nach der Verordnung (EG) Nr. 924\/2009"
+            },
+            {
+              "documentIdentifier" : "BJNR093000015BJNE003100000",
+              "paragraph" : "§ 29",
+              "title" : "Darstellung und Beurteilung der getroffenen Vorkehrungen zur Einhaltung der Pflichten nach der Verordnung (EU) Nr. 260\/2012"
+            },
+            {
+              "documentIdentifier" : "BJNR093000015BJNE008200118",
+              "paragraph" : "§ 29a",
+              "title" : "Darstellung und Beurteilung der getroffenen Vorkehrungen zur Einhaltung der Pflichten nach der Verordnung (EU) 2015\/751"
+            },
+            {
+              "documentIdentifier" : "BJNR093000015BJNE008300118",
+              "paragraph" : "§ 29b",
+              "title" : "Darstellung und Beurteilung der getroffenen Vorkehrungen zur Einhaltung der Pflichten nach dem Zahlungskontengesetz"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              6
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Bargeldloser Zahlungsverkehr; Vorkehrungen zur Verhinderung von Geldwäsche und Terrorismusfinanzierung sowie von sonstigen strafbaren Handlungen zu Lasten des Instituts"
+        },
+        {
+          "documentIdentifier" : "BJNR093000015BJNG001000000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR093000015BJNE003200000",
+              "paragraph" : "§ 30",
+              "title" : "Ausnahmen für gruppenangehörige Institute"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              7
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Gruppenangehörige Institute"
+        }
+      ],
+      "title" : "Aufsichtliche Vorgaben"
+    },
+    {
+      "documentIdentifier" : "BJNR093000015BJNG001100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR093000015BJNE003301118",
+          "paragraph" : "§ 31",
+          "title" : "Berichterstattung über das Kreditgeschäft und das Verbriefungsgeschäft"
+        },
+        {
+          "documentIdentifier" : "BJNR093000015BJNE003400000",
+          "paragraph" : "§ 32",
+          "title" : "Länderrisiko"
+        },
+        {
+          "documentIdentifier" : "BJNR093000015BJNE003500000",
+          "paragraph" : "§ 33",
+          "title" : "Organkredite"
+        },
+        {
+          "documentIdentifier" : "BJNR093000015BJNE003600000",
+          "paragraph" : "§ 34",
+          "title" : "Bemerkenswerte Kredite"
+        },
+        {
+          "documentIdentifier" : "BJNR093000015BJNE003700000",
+          "paragraph" : "§ 35",
+          "title" : "Beurteilung der Werthaltigkeit von Krediten"
+        },
+        {
+          "documentIdentifier" : "BJNR093000015BJNE003800000",
+          "paragraph" : "§ 36",
+          "title" : "Einhaltung der Offenlegungsvorschriften des § 18 des Kreditwesengesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR093000015BJNE003901118",
+          "paragraph" : "§ 37",
+          "title" : "Sorgfaltspflichten für institutionelle Anleger in Bezug auf Verbriefungspositionen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Angaben zum Kreditgeschäft"
+    },
+    {
+      "documentIdentifier" : "BJNR093000015BJNG001200000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR093000015BJNG001300000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR093000015BJNE004000000",
+              "paragraph" : "§ 38",
+              "title" : "Geschäftliche Entwicklung im Berichtsjahr"
+            },
+            {
+              "documentIdentifier" : "BJNR093000015BJNE004100000",
+              "paragraph" : "§ 39",
+              "title" : "Entwicklung der Vermögenslage"
+            },
+            {
+              "documentIdentifier" : "BJNR093000015BJNE004200000",
+              "paragraph" : "§ 40",
+              "title" : "Entwicklung der Ertragslage"
+            },
+            {
+              "documentIdentifier" : "BJNR093000015BJNE004300000",
+              "paragraph" : "§ 41",
+              "title" : "Risikolage und Risikovorsorge"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              5,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Wirtschaftliche Lage des Instituts, einschließlich der geschäftlichen Entwicklung und der Ergebnisentwicklung"
+        },
+        {
+          "documentIdentifier" : "BJNR093000015BJNG001400000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR093000015BJNE004400000",
+              "paragraph" : "§ 42",
+              "title" : "Erläuterungen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              5,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Erläuterungen zur Rechnungslegung"
+        }
+      ],
+      "title" : "Abschlussorientierte Berichterstattung"
+    },
+    {
+      "documentIdentifier" : "BJNR093000015BJNG001500000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR093000015BJNE004500000",
+          "paragraph" : "§ 43",
+          "title" : "Regelungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR093000015BJNE004600000",
+          "paragraph" : "§ 44",
+          "title" : "Ort der Berichterstattung"
+        },
+        {
+          "documentIdentifier" : "BJNR093000015BJNE004700000",
+          "paragraph" : "§ 45",
+          "title" : "In die aufsichtliche Zusammenfassung einzubeziehende Unternehmen"
+        },
+        {
+          "documentIdentifier" : "BJNR093000015BJNE004800000",
+          "paragraph" : "§ 46",
+          "title" : "Berichterstattung bei aufsichtsrechtlichen Gruppen"
+        },
+        {
+          "documentIdentifier" : "BJNR093000015BJNE004901118",
+          "paragraph" : "§ 47",
+          "title" : "Zusammengefasste Eigenmittel"
+        },
+        {
+          "documentIdentifier" : "BJNR093000015BJNE005000000",
+          "paragraph" : "§ 48",
+          "title" : "Zusätzliche Angaben"
+        },
+        {
+          "documentIdentifier" : "BJNR093000015BJNE005100000",
+          "paragraph" : "§ 49",
+          "title" : "Mindestangaben im Konzernprüfungsbericht"
+        },
+        {
+          "documentIdentifier" : "BJNR093000015BJNE005200000",
+          "paragraph" : "§ 50",
+          "title" : "Ergänzende Vorschriften für Unternehmen eines Finanzkonglomerats (§§ 17, 18 und 23 des Finanzkonglomerate-Aufsichtsgesetzes)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Angaben zu Institutsgruppen, Finanzholding-Gruppen, gemischten Finanzholding-Gruppen und Finanzkonglomeraten sowie Angaben in Konzernprüfungsberichten"
+    },
+    {
+      "documentIdentifier" : "BJNR093000015BJNG001600000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR093000015BJNG001700000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR093000015BJNE005301118",
+              "paragraph" : "§ 51",
+              "title" : "Grundsätze der Prüfung und Darstellung pfandbriefrechtlicher Aspekte"
+            },
+            {
+              "documentIdentifier" : "BJNR093000015BJNE005401118",
+              "paragraph" : "§ 52",
+              "title" : "Prüfung und Darstellung der organisatorischen Anforderungen des Pfandbriefgesetzes"
+            },
+            {
+              "documentIdentifier" : "BJNR093000015BJNE005501118",
+              "paragraph" : "§ 53",
+              "title" : "(weggefallen)"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              7,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Pfandbriefgeschäft"
+        },
+        {
+          "documentIdentifier" : "BJNR093000015BJNG001800000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR093000015BJNE005600000",
+              "paragraph" : "§ 54",
+              "title" : "Organisation und Auflagen"
+            },
+            {
+              "documentIdentifier" : "BJNR093000015BJNE005700000",
+              "paragraph" : "§ 55",
+              "title" : "Angaben zum Kreditgeschäft von Bausparkassen"
+            },
+            {
+              "documentIdentifier" : "BJNR093000015BJNE005800000",
+              "paragraph" : "§ 56",
+              "title" : "Angaben zur geschäftlichen Entwicklung von Bausparkassen"
+            },
+            {
+              "documentIdentifier" : "BJNR093000015BJNE005900000",
+              "paragraph" : "§ 57",
+              "title" : "Angaben zur Liquiditätslage von Bausparkassen"
+            },
+            {
+              "documentIdentifier" : "BJNR093000015BJNE006000000",
+              "paragraph" : "§ 58",
+              "title" : "Einsatz von Derivaten"
+            },
+            {
+              "documentIdentifier" : "BJNR093000015BJNE006100000",
+              "paragraph" : "§ 59",
+              "title" : "Angaben zur Ertragslage von Bausparkassen"
+            },
+            {
+              "documentIdentifier" : "BJNR093000015BJNE006200000",
+              "paragraph" : "§ 60",
+              "title" : "Darstellung des Kollektivgeschäfts sowie der Vor- und Zwischenfinanzierung bei Bausparkassen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              7,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Bausparkassengeschäft"
+        },
+        {
+          "documentIdentifier" : "BJNR093000015BJNG001900000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR093000015BJNE006300000",
+              "paragraph" : "§ 61",
+              "title" : "Eigenmittel gemäß Artikel 97 Absatz 1 der Verordnung (EU) Nr. 575\/2013"
+            },
+            {
+              "documentIdentifier" : "BJNR093000015BJNE006400000",
+              "paragraph" : "§ 62",
+              "title" : "Vorschriften für einzelne Finanzdienstleistungsinstitute"
+            },
+            {
+              "documentIdentifier" : "BJNR093000015BJNE006500000",
+              "paragraph" : "§ 63",
+              "title" : "Ausnahmeregelung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              7,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Finanzdienstleistungsinstitute"
+        },
+        {
+          "documentIdentifier" : "BJNR093000015BJNG002000000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR093000015BJNE006600000",
+              "paragraph" : "§ 64",
+              "title" : "Angaben bei Instituten, die das Factoring betreiben"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              7,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Factoring"
+        },
+        {
+          "documentIdentifier" : "BJNR093000015BJNG002100000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR093000015BJNE006700000",
+              "paragraph" : "§ 65",
+              "title" : "Angaben bei Instituten, die das Finanzierungsleasing betreiben"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              7,
+              5
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Leasing"
+        },
+        {
+          "documentIdentifier" : "BJNR093000015BJNG002200000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR093000015BJNE006802360",
+              "paragraph" : "§ 66",
+              "title" : "Prüfungsgegenstand"
+            },
+            {
+              "documentIdentifier" : "BJNR093000015BJNE006900000",
+              "paragraph" : "§ 67",
+              "title" : "Zeitpunkt der Prüfung und Berichtszeitraum"
+            },
+            {
+              "documentIdentifier" : "BJNR093000015BJNE007001360",
+              "paragraph" : "§ 68",
+              "title" : "Besondere Anforderungen an den Depotprüfungsbericht"
+            },
+            {
+              "documentIdentifier" : "BJNR093000015BJNE007100000",
+              "paragraph" : "§ 69",
+              "title" : "Prüfung von Verwahrstellen im Sinne des Kapitalanlagegesetzbuchs"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              7,
+              6
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Prüfung des Depotgeschäfts oder des eingeschränkten Verwahrgeschäfts"
+        }
+      ],
+      "title" : "Sondergeschäfte"
+    },
+    {
+      "documentIdentifier" : "BJNR093000015BJNG002300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR093000015BJNE007201118",
+          "paragraph" : "§ 70",
+          "title" : "Datenübersicht"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          8
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Datenübersicht"
+    },
+    {
+      "documentIdentifier" : "BJNR093000015BJNG002400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR093000015BJNE007305118",
+          "paragraph" : "§ 71",
+          "title" : "Erstmalige Anwendung; Übergangsbestimmung"
+        },
+        {
+          "documentIdentifier" : "BJNR093000015BJNE007400000",
+          "paragraph" : "§ 72",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR093000015BJNE007501118",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 70)"
+        },
+        {
+          "documentIdentifier" : "BJNR093000015BJNE007600000",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 70)"
+        },
+        {
+          "documentIdentifier" : "BJNR093000015BJNE007802118",
+          "paragraph" : "Anlage 3",
+          "title" : "(zu § 70)"
+        },
+        {
+          "documentIdentifier" : "BJNR093000015BJNE007901118",
+          "paragraph" : "Anlage 4",
+          "title" : "(zu § 70)"
+        },
+        {
+          "documentIdentifier" : "BJNR093000015BJNE008002118",
+          "paragraph" : "Anlage 5",
+          "title" : "(zu § 27)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          9
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussvorschriften"
+    }
+  ]
+}

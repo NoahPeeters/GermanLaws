@@ -1,0 +1,99 @@
+{
+  "documentIdentifier" : "BJNR402500002",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR402500002Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR402500002BJNE000101310",
+          "paragraph" : "§ 1",
+          "title" : "Geltungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR402500002BJNE000201310",
+          "paragraph" : "§ 2",
+          "title" : "Grundakte, Teilakten, Nebenakten"
+        },
+        {
+          "documentIdentifier" : "BJNR402500002BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Tauglichkeitsakte"
+        },
+        {
+          "documentIdentifier" : "BJNR402500002BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Sachakten"
+        },
+        {
+          "documentIdentifier" : "BJNR402500002BJNE000501310",
+          "paragraph" : "§ 5",
+          "title" : "Weitergabe der Personalakte"
+        },
+        {
+          "documentIdentifier" : "BJNR402500002BJNE000601310",
+          "paragraph" : "§ 6",
+          "title" : "Aufbewahrung der Personalakte"
+        },
+        {
+          "documentIdentifier" : "BJNR402500002BJNE000701310",
+          "paragraph" : "§ 7",
+          "title" : "Aufbewahrungsfristen; Vernichtung der Personalakte"
+        },
+        {
+          "documentIdentifier" : "BJNR402500002BJNE000801310",
+          "paragraph" : "§ 8",
+          "title" : "Ersetzung der Urschrift"
+        },
+        {
+          "documentIdentifier" : "BJNR402500002BJNE000901310",
+          "paragraph" : "§ 9",
+          "title" : "Erhebung, Verarbeitung und Nutzung personenbezogener Daten"
+        },
+        {
+          "documentIdentifier" : "BJNR402500002BJNE001001310",
+          "paragraph" : "§ 10",
+          "title" : "Zugriff auf gespeicherte personenbezogene Daten"
+        },
+        {
+          "documentIdentifier" : "BJNR402500002BJNE001101310",
+          "paragraph" : "§ 11",
+          "title" : "Übermittlung personenbezogener Daten durch das Bundesamt"
+        },
+        {
+          "documentIdentifier" : "BJNR402500002BJNE001201310",
+          "paragraph" : "§ 12",
+          "title" : "Löschung von Daten"
+        },
+        {
+          "documentIdentifier" : "BJNR402500002BJNE001301310",
+          "paragraph" : "§ 13",
+          "title" : "Akteneinsicht"
+        },
+        {
+          "documentIdentifier" : "BJNR402500002BJNE001401310",
+          "paragraph" : "§ 14",
+          "title" : "Auskunftserteilung"
+        },
+        {
+          "documentIdentifier" : "BJNR402500002BJNE001500000",
+          "paragraph" : "§ 15",
+          "title" : "Entbindung von der ärztlichen Schweigepflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR402500002BJNE001600000",
+          "paragraph" : "§ 16",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

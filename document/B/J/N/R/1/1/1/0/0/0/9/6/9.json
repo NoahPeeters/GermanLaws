@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR111000969",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR111000969Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR111000969BJNE000200311",
+          "paragraph" : "§ 1",
+          "title" : "Einberufung"
+        },
+        {
+          "documentIdentifier" : "BJNR111000969BJNE000300311",
+          "paragraph" : "§ 2",
+          "title" : "Vorsitz"
+        },
+        {
+          "documentIdentifier" : "BJNR111000969BJNE000400311",
+          "paragraph" : "§ 3",
+          "title" : "Beratung"
+        },
+        {
+          "documentIdentifier" : "BJNR111000969BJNE000500311",
+          "paragraph" : "§ 4",
+          "title" : "Ausschußberatung"
+        },
+        {
+          "documentIdentifier" : "BJNR111000969BJNE000600311",
+          "paragraph" : "§ 5",
+          "title" : "Schlußberatung und Schlußabstimmung"
+        },
+        {
+          "documentIdentifier" : "BJNR111000969BJNE000700311",
+          "paragraph" : "§ 6",
+          "title" : "Entsprechende Anwendung der Geschäftsordnungen des\nBundestages und des Bundesrates"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

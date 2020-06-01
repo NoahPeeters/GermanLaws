@@ -1,0 +1,74 @@
+{
+  "documentIdentifier" : "BJNR329100006",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR329100006Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR329100006BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Zwecke der Verdienststatistik, Anordnung als Bundesstatistik"
+        },
+        {
+          "documentIdentifier" : "BJNR329100006BJNE000202377",
+          "paragraph" : "§ 2",
+          "title" : "Art der Erhebungen, Stichprobenauswahl, Erhebungseinheiten"
+        },
+        {
+          "documentIdentifier" : "BJNR329100006BJNE000301308",
+          "paragraph" : "§ 3",
+          "title" : "Erhebung der Arbeitsverdienste"
+        },
+        {
+          "documentIdentifier" : "BJNR329100006BJNE000403377",
+          "paragraph" : "§ 4",
+          "title" : "Erhebung der Struktur der Arbeitsverdienste"
+        },
+        {
+          "documentIdentifier" : "BJNR329100006BJNE000501308",
+          "paragraph" : "§ 5",
+          "title" : "Erhebung der Struktur der Arbeitskosten"
+        },
+        {
+          "documentIdentifier" : "BJNR329100006BJNE000602377",
+          "paragraph" : "§ 6",
+          "title" : "Erprobung der Verwendung von Verwaltungsdaten"
+        },
+        {
+          "documentIdentifier" : "BJNR329100006BJNE000702377",
+          "paragraph" : "§ 7",
+          "title" : "Hilfsmerkmale"
+        },
+        {
+          "documentIdentifier" : "BJNR329100006BJNE000803119",
+          "paragraph" : "§ 8",
+          "title" : "Auskunftspflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR329100006BJNE000900000",
+          "paragraph" : "§ 9",
+          "title" : "Übermittlung von Einzelangaben"
+        },
+        {
+          "documentIdentifier" : "BJNR329100006BJNE001000000",
+          "paragraph" : "§ 10",
+          "title" : "Verordnungsermächtigung"
+        },
+        {
+          "documentIdentifier" : "BJNR329100006BJNE001100000",
+          "paragraph" : "§ 11",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

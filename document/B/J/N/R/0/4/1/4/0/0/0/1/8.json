@@ -1,0 +1,275 @@
+{
+  "documentIdentifier" : "BJNR041400018",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR041400018BJNG000101126",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR041400018BJNE000301126",
+          "paragraph" : "§ 1",
+          "title" : "Staatliche Anerkennung des Ausbildungsberufes"
+        },
+        {
+          "documentIdentifier" : "BJNR041400018BJNE000401126",
+          "paragraph" : "§ 2",
+          "title" : "Dauer der Berufsausbildung"
+        },
+        {
+          "documentIdentifier" : "BJNR041400018BJNE000501126",
+          "paragraph" : "§ 3",
+          "title" : "Gegenstand der Berufsausbildung und Ausbildungsrahmenplan"
+        },
+        {
+          "documentIdentifier" : "BJNR041400018BJNE000601126",
+          "paragraph" : "§ 4",
+          "title" : "Struktur der Berufsausbildung, Ausbildungsberufsbild"
+        },
+        {
+          "documentIdentifier" : "BJNR041400018BJNE000701126",
+          "paragraph" : "§ 5",
+          "title" : "Ausbildungsplan"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gegenstand, Dauer und Gliederung der Berufsausbildung"
+    },
+    {
+      "documentIdentifier" : "BJNR041400018BJNG000201126",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR041400018BJNG000301126",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR041400018BJNE000801126",
+              "paragraph" : "§ 6",
+              "title" : "Ziel, Aufteilung in zwei Teile und Zeitpunkt"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Allgemeines"
+        },
+        {
+          "documentIdentifier" : "BJNR041400018BJNG000401126",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR041400018BJNE000901126",
+              "paragraph" : "§ 7",
+              "title" : "Inhalt von Teil 1"
+            },
+            {
+              "documentIdentifier" : "BJNR041400018BJNE001001126",
+              "paragraph" : "§ 8",
+              "title" : "Prüfungsbereich von Teil 1"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Teil 1 der Gesellenprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR041400018BJNG000501126",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR041400018BJNE001101126",
+              "paragraph" : "§ 9",
+              "title" : "Inhalt von Teil 2"
+            },
+            {
+              "documentIdentifier" : "BJNR041400018BJNE001201126",
+              "paragraph" : "§ 10",
+              "title" : "Prüfungsbereiche von Teil 2"
+            },
+            {
+              "documentIdentifier" : "BJNR041400018BJNE001301126",
+              "paragraph" : "§ 11",
+              "title" : "Prüfungsbereich Instandsetzen von Schneidwerkzeugen"
+            },
+            {
+              "documentIdentifier" : "BJNR041400018BJNE001401126",
+              "paragraph" : "§ 12",
+              "title" : "Prüfungsbereich Herstellen von Schneidwerkzeugen"
+            },
+            {
+              "documentIdentifier" : "BJNR041400018BJNE001501126",
+              "paragraph" : "§ 13",
+              "title" : "Prüfungsbereich Arbeitsplanung"
+            },
+            {
+              "documentIdentifier" : "BJNR041400018BJNE001601126",
+              "paragraph" : "§ 14",
+              "title" : "Prüfungsbereich Wirtschafts- und Sozialkunde"
+            },
+            {
+              "documentIdentifier" : "BJNR041400018BJNE001701126",
+              "paragraph" : "§ 15",
+              "title" : "Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Gesellenprüfung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Teil 2 der Gesellenprüfung in der Fachrichtung Schneidwerkzeuge"
+        },
+        {
+          "documentIdentifier" : "BJNR041400018BJNG000601126",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR041400018BJNE001801126",
+              "paragraph" : "§ 16",
+              "title" : "Inhalt von Teil 2"
+            },
+            {
+              "documentIdentifier" : "BJNR041400018BJNE001901126",
+              "paragraph" : "§ 17",
+              "title" : "Prüfungsbereiche von Teil 2"
+            },
+            {
+              "documentIdentifier" : "BJNR041400018BJNE002001126",
+              "paragraph" : "§ 18",
+              "title" : "Prüfungsbereich Instandsetzen von Zerspanwerkzeugen"
+            },
+            {
+              "documentIdentifier" : "BJNR041400018BJNE002101126",
+              "paragraph" : "§ 19",
+              "title" : "Prüfungsbereich Herstellen von Zerspanwerkzeugen"
+            },
+            {
+              "documentIdentifier" : "BJNR041400018BJNE002201126",
+              "paragraph" : "§ 20",
+              "title" : "Prüfungsbereich Arbeitsplanung"
+            },
+            {
+              "documentIdentifier" : "BJNR041400018BJNE002301126",
+              "paragraph" : "§ 21",
+              "title" : "Prüfungsbereich Wirtschafts- und Sozialkunde"
+            },
+            {
+              "documentIdentifier" : "BJNR041400018BJNE002401126",
+              "paragraph" : "§ 22",
+              "title" : "Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Gesellenprüfung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Teil 2 der Gesellenprüfung in der Fachrichtung Zerspanwerkzeuge"
+        }
+      ],
+      "title" : "Gesellenprüfung"
+    },
+    {
+      "documentIdentifier" : "BJNR041400018BJNG000701126",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR041400018BJNE002501126",
+          "paragraph" : "§ 23",
+          "title" : "Inhalt der Zusatzqualifikation"
+        },
+        {
+          "documentIdentifier" : "BJNR041400018BJNE002601126",
+          "paragraph" : "§ 24",
+          "title" : "Prüfung der Zusatzqualifikation"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Zusatzqualifikation Messer schmieden"
+    },
+    {
+      "documentIdentifier" : "BJNR041400018BJNG000901126",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR041400018BJNE003001126",
+          "paragraph" : "§ 25",
+          "title" : "Anrechnung von Ausbildungszeiten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Weitere Berufsausbildung"
+    },
+    {
+      "documentIdentifier" : "BJNR041400018BJNG000802126",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR041400018BJNE002702126",
+          "paragraph" : "§ 26",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR041400018BJNE002801126",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 3 Absatz 1)"
+        },
+        {
+          "documentIdentifier" : "BJNR041400018BJNE002901126",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 23 Absatz 2)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussvorschriften"
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "documentIdentifier" : "BJNR009150972",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR009150972BJNG000102360",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Begriffsbestimmungen"
+    },
+    {
+      "documentIdentifier" : "BJNR009150972BJNG000202360",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR009150972BJNG000302360",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Allgemeine Schutzmaßregeln"
+        },
+        {
+          "documentIdentifier" : "BJNR009150972BJNG000402360",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              2
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR009150972BJNG001105360",
+              "laws" : [
+
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  2
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Schutzmaßregeln bei Ansteckungsverdacht"
+            }
+          ],
+          "title" : "Schutzmaßregeln nach amtlicher Feststellung der Tuberkulose oder des Verdachts auf Tuberkulose"
+        },
+        {
+          "documentIdentifier" : "BJNR009150972BJNG000502360",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Desinfektion"
+        },
+        {
+          "documentIdentifier" : "BJNR009150972BJNG000602360",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Aufhebung der Schutzmaßregeln"
+        }
+      ],
+      "title" : "Schutzmaßregeln"
+    },
+    {
+      "documentIdentifier" : "BJNR009150972BJNG000703360",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR009150972BJNE002103360",
+          "paragraph" : "(XXXX) §§ 10 und 11",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "(weggefallen)"
+    },
+    {
+      "documentIdentifier" : "BJNR009150972BJNG000802360",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Anerkannte Bestände"
+    },
+    {
+      "documentIdentifier" : "BJNR009150972BJNG001200124",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR009150972BJNE002704360",
+          "paragraph" : "§ 16",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Weitere Schutzmaßregeln"
+    },
+    {
+      "documentIdentifier" : "BJNR009150972BJNG000903124",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Ordnungswidrigkeiten"
+    },
+    {
+      "documentIdentifier" : "BJNR009150972BJNG001003124",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR009150972BJNE003103360",
+          "paragraph" : "§ 19",
+          "title" : "(Inkrafttreten)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussvorschriften"
+    }
+  ]
+}

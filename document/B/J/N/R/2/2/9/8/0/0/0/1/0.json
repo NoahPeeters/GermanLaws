@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR229800010",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR229800010Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR229800010BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Aufhebung von Vorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR229800010BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Weiteranwendung von Vorschriften"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

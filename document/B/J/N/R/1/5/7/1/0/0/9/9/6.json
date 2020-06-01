@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR157100996",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR157100996Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR157100996BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR157100996BJNE000301310",
+          "paragraph" : "§ 2",
+          "title" : "Erkrankungen und Unfälle im Ausland"
+        },
+        {
+          "documentIdentifier" : "BJNR157100996BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Ausschluß der Unfallfürsorge"
+        },
+        {
+          "documentIdentifier" : "BJNR157100996BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Anrechnung anderer Leistungen"
+        },
+        {
+          "documentIdentifier" : "BJNR157100996BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

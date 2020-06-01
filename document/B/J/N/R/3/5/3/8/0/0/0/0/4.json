@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR353800004",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR353800004Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR353800004BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Vordrucke"
+        },
+        {
+          "documentIdentifier" : "BJNR353800004BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR353800004BJNE000500000",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 1)"
+        },
+        {
+          "documentIdentifier" : "BJNR353800004BJNE000600000",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 1)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

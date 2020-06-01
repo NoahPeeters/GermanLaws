@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR248220002",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR248220002Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR248220002BJNE000200308",
+          "paragraph" : "(XXXX) Art 1 bis Art 6",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR248220002BJNE000300308",
+          "paragraph" : "Art 7",
+          "title" : "Rechtsstellung der Beamten, Versorgungsempfänger und\nanderen Beschäftigten"
+        },
+        {
+          "documentIdentifier" : "BJNR248220002BJNE000400308",
+          "paragraph" : "Art 8",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

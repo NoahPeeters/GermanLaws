@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR031800994",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR031800994Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR031800994BJNE000201310",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR031800994BJNE000302310",
+          "paragraph" : "§ 2",
+          "title" : "Zuständigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR031800994BJNE000401308",
+          "paragraph" : "§ 3",
+          "title" : "Mindestmenge"
+        },
+        {
+          "documentIdentifier" : "BJNR031800994BJNE000504377",
+          "paragraph" : "§ 4",
+          "title" : "Gewinnung, Verpackung und Nämlichkeitssicherung der Teilstücke"
+        },
+        {
+          "documentIdentifier" : "BJNR031800994BJNE000601308",
+          "paragraph" : "§ 5",
+          "title" : "Pflichten des Zerlegebetriebes"
+        },
+        {
+          "documentIdentifier" : "BJNR031800994BJNE000701310",
+          "paragraph" : "§ 6",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR031800994BJNE000800307",
+          "paragraph" : "§ 7",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

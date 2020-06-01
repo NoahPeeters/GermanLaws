@@ -1,0 +1,131 @@
+{
+  "documentIdentifier" : "BJNR165400012",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR165400012BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR165400012BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Inhalt des Schuldnerverzeichnisses"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Das Schuldnerverzeichnis"
+    },
+    {
+      "documentIdentifier" : "BJNR165400012BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR165400012BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Übermittlung von Eintragungsanordnungen und Entscheidungen"
+        },
+        {
+          "documentIdentifier" : "BJNR165400012BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Vollziehung von Eintragungsanordnungen"
+        },
+        {
+          "documentIdentifier" : "BJNR165400012BJNE000501311",
+          "paragraph" : "§ 4",
+          "title" : "Löschung von Eintragungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Form und Übermittlung von Eintragungsanordnungen und Entscheidungen"
+    },
+    {
+      "documentIdentifier" : "BJNR165400012BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR165400012BJNE000601311",
+          "paragraph" : "§ 5",
+          "title" : "Einsichtsberechtigung"
+        },
+        {
+          "documentIdentifier" : "BJNR165400012BJNE000702125",
+          "paragraph" : "§ 6",
+          "title" : "Einsichtnahme"
+        },
+        {
+          "documentIdentifier" : "BJNR165400012BJNE000801125",
+          "paragraph" : "§ 7",
+          "title" : "Registrierung"
+        },
+        {
+          "documentIdentifier" : "BJNR165400012BJNE000901311",
+          "paragraph" : "§ 8",
+          "title" : "Abfragedatenübermittlung"
+        },
+        {
+          "documentIdentifier" : "BJNR165400012BJNE001001125",
+          "paragraph" : "§ 9",
+          "title" : "Informationsverwendung"
+        },
+        {
+          "documentIdentifier" : "BJNR165400012BJNE001102125",
+          "paragraph" : "§ 10",
+          "title" : "Ausschluss von der Einsichtnahme"
+        },
+        {
+          "documentIdentifier" : "BJNR165400012BJNE001200000",
+          "paragraph" : "§ 11",
+          "title" : "Zugang zur Einsicht in das Schuldnerverzeichnis"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Einsicht in das Schuldnerverzeichnis"
+    },
+    {
+      "documentIdentifier" : "BJNR165400012BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR165400012BJNE001300000",
+          "paragraph" : "§ 12",
+          "title" : "Rechtsweg"
+        },
+        {
+          "documentIdentifier" : "BJNR165400012BJNE001600311",
+          "paragraph" : "§ 12a",
+          "title" : "Evaluierung"
+        },
+        {
+          "documentIdentifier" : "BJNR165400012BJNE001400000",
+          "paragraph" : "§ 13",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussvorschriften"
+    }
+  ]
+}

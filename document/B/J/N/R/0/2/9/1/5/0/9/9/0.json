@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR029150990",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR029150990Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR029150990BJNE001002377",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 1)\n"
+        },
+        {
+          "documentIdentifier" : "BJNR029150990BJNE001103377",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 2 Nr. 1)\n"
+        },
+        {
+          "documentIdentifier" : "BJNR029150990BJNE001204377",
+          "paragraph" : "Anlage 3",
+          "title" : "(zu § 2 Nr. 2)"
+        },
+        {
+          "documentIdentifier" : "BJNR029150990BJNE001300308",
+          "paragraph" : "Anlage 4",
+          "title" : "(zu § 4 Abs. 1 Satz 1)\n"
+        },
+        {
+          "documentIdentifier" : "BJNR029150990BJNE001400308",
+          "paragraph" : "Anhang 1",
+          "title" : "zu Anlage 1\n"
+        },
+        {
+          "documentIdentifier" : "BJNR029150990BJNE001500308",
+          "paragraph" : "Anhang 2",
+          "title" : "zu Anlage 1"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

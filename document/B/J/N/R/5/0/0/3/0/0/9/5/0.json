@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR500300950",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR500300950Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR500300950BJNE000200325",
+          "paragraph" : "§ 1",
+          "title" : "Fristen und Termine"
+        },
+        {
+          "documentIdentifier" : "BJNR500300950BJNE000300325",
+          "paragraph" : "§ 2",
+          "title" : "Bewertung der Bausparguthaben"
+        },
+        {
+          "documentIdentifier" : "BJNR500300950BJNE000400325",
+          "paragraph" : "§ 3",
+          "title" : "Festsetzung der Bausparsumme und der Bewertungsziffer\nbei Widerspruch"
+        },
+        {
+          "documentIdentifier" : "BJNR500300950BJNE000500325",
+          "paragraph" : "§ 4",
+          "title" : "Umstellung der Tilgungsbeiträge"
+        },
+        {
+          "documentIdentifier" : "BJNR500300950BJNE000600325",
+          "paragraph" : "§ 5",
+          "title" : "Erleichterte Herabsetzung der Bausparsumme"
+        },
+        {
+          "documentIdentifier" : "BJNR500300950BJNE000700325",
+          "paragraph" : "§ 6",
+          "title" : "Schlußbestimmungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

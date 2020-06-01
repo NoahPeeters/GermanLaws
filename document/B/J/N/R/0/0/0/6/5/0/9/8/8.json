@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR000650988",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR000650988Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR000650988BJNE000100328",
+          "paragraph" : "§ 1",
+          "title" : "Archivierung von Unterlagen aus dem Lastenausgleich"
+        },
+        {
+          "documentIdentifier" : "BJNR000650988BJNE000200328",
+          "paragraph" : "§ 2",
+          "title" : "Übernahme von Unterlagen der Heimatortskarteien"
+        },
+        {
+          "documentIdentifier" : "BJNR000650988BJNE000300328",
+          "paragraph" : "§ 3",
+          "title" : "Berlin-Klausel"
+        },
+        {
+          "documentIdentifier" : "BJNR000650988BJNE000400328",
+          "paragraph" : "§ 4",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

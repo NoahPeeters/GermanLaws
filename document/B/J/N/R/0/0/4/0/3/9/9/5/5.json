@@ -1,0 +1,180 @@
+{
+  "documentIdentifier" : "BJNR004039955",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR004039955BJNG000100326",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Änderung des Lastenausgleichsgesetzes"
+    },
+    {
+      "documentIdentifier" : "BJNR004039955BJNG000200326",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Änderung des Feststellungsgesetzes"
+    },
+    {
+      "documentIdentifier" : "BJNR004039955BJNG000300326",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Änderung des Gesetzes über einen Währungsausgleich für Sparguthaben Vertriebener"
+    },
+    {
+      "documentIdentifier" : "BJNR004039955BJNG000400326",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Änderung des Altsparergesetzes"
+    },
+    {
+      "documentIdentifier" : "BJNR004039955BJNG000500326",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR004039955BJNE000800326",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              5
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR004039955BJNE000900326",
+              "laws" : [
+
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  5
+                ]
+              },
+              "subsections" : [
+                {
+                  "documentIdentifier" : "BJNR004039955BJNE001000326",
+                  "laws" : [
+
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      5
+                    ]
+                  },
+                  "subsections" : [
+                    {
+                      "documentIdentifier" : "BJNR004039955BJNE001100326",
+                      "laws" : [
+
+                      ],
+                      "sectionNumber" : {
+                        "numbers" : [
+                          5
+                        ]
+                      },
+                      "subsections" : [
+                        {
+                          "documentIdentifier" : "BJNR004039955BJNE001200326",
+                          "laws" : [
+
+                          ],
+                          "sectionNumber" : {
+                            "numbers" : [
+                              5
+                            ]
+                          },
+                          "subsections" : [
+
+                          ],
+                          "title" : "Art V"
+                        }
+                      ],
+                      "title" : "Art V"
+                    }
+                  ],
+                  "title" : "Art V"
+                }
+              ],
+              "title" : "Art V"
+            }
+          ],
+          "title" : "Art V"
+        }
+      ],
+      "title" : "Sonstige und Überleitungsvorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR004039955BJNG000600326",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Anwendung in Berlin"
+    },
+    {
+      "documentIdentifier" : "BJNR004039955BJNG000700326",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inkrafttreten"
+    }
+  ]
+}

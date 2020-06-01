@@ -1,0 +1,2924 @@
+{
+  "documentIdentifier" : "BJNR198110013",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR198110013BJNG000100000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR198110013BJNG000200000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR198110013BJNE037601311",
+              "paragraph" : "§ 1",
+              "title" : "Begriffsbestimmungen"
+            },
+            {
+              "documentIdentifier" : "BJNR198110013BJNE000305118",
+              "paragraph" : "§ 2",
+              "title" : "Ausnahmebestimmungen"
+            },
+            {
+              "documentIdentifier" : "BJNR198110013BJNE000400000",
+              "paragraph" : "§ 3",
+              "title" : "Bezeichnungsschutz"
+            },
+            {
+              "documentIdentifier" : "BJNR198110013BJNE000500000",
+              "paragraph" : "§ 4",
+              "title" : "Namensgebung; Fondskategorien"
+            },
+            {
+              "documentIdentifier" : "BJNR198110013BJNE000610118",
+              "paragraph" : "§ 5",
+              "title" : "Zuständige Behörde; Aufsicht; Anordnungsbefugnis; Verordnungsermächtigung"
+            },
+            {
+              "documentIdentifier" : "BJNR198110013BJNE000700000",
+              "paragraph" : "§ 6",
+              "title" : "Besondere Aufgaben"
+            },
+            {
+              "documentIdentifier" : "BJNR198110013BJNE000802118",
+              "paragraph" : "§ 7",
+              "title" : "Sofortige Vollziehbarkeit"
+            },
+            {
+              "documentIdentifier" : "BJNR198110013BJNE036700118",
+              "paragraph" : "§ 7a",
+              "title" : "Bekanntmachung von sofort vollziehbaren Maßnahmen"
+            },
+            {
+              "documentIdentifier" : "BJNR198110013BJNE000901118",
+              "paragraph" : "§ 8",
+              "title" : "Verschwiegenheitspflicht"
+            },
+            {
+              "documentIdentifier" : "BJNR198110013BJNE001005311",
+              "paragraph" : "§ 9",
+              "title" : "Zusammenarbeit mit anderen Stellen"
+            },
+            {
+              "documentIdentifier" : "BJNR198110013BJNE001101118",
+              "paragraph" : "§ 10",
+              "title" : "Allgemeine Vorschriften für die Zusammenarbeit bei der Aufsicht"
+            },
+            {
+              "documentIdentifier" : "BJNR198110013BJNE001202116",
+              "paragraph" : "§ 11",
+              "title" : "Besondere Vorschriften für die Zusammenarbeit bei grenzüberschreitender Verwaltung und grenzüberschreitendem Vertrieb von AIF"
+            },
+            {
+              "documentIdentifier" : "BJNR198110013BJNE001306118",
+              "paragraph" : "§ 12",
+              "title" : "Meldungen der Bundesanstalt an die Europäische Kommission, an die europäischen Aufsichtsbehörden und an den Betreiber des Bundesanzeigers"
+            },
+            {
+              "documentIdentifier" : "BJNR198110013BJNE001400000",
+              "paragraph" : "§ 13",
+              "title" : "Informationsaustausch mit der Deutschen Bundesbank"
+            },
+            {
+              "documentIdentifier" : "BJNR198110013BJNE001501118",
+              "paragraph" : "§ 14",
+              "title" : "Auskünfte und Prüfungen"
+            },
+            {
+              "documentIdentifier" : "BJNR198110013BJNE001601118",
+              "paragraph" : "§ 15",
+              "title" : "Einschreiten gegen unerlaubte Investmentgeschäfte"
+            },
+            {
+              "documentIdentifier" : "BJNR198110013BJNE001702118",
+              "paragraph" : "§ 16",
+              "title" : "Verfolgung unerlaubter Investmentgeschäfte"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Allgemeine Vorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR198110013BJNG000300000",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              2
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR198110013BJNG000400000",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE001800000",
+                  "paragraph" : "§ 17",
+                  "title" : "Kapitalverwaltungsgesellschaften"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE001903118",
+                  "paragraph" : "§ 18",
+                  "title" : "Externe Kapitalverwaltungsgesellschaften"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE002001000",
+                  "paragraph" : "§ 19",
+                  "title" : "Inhaber bedeutender Beteiligungen; Verordnungsermächtigung"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE002102118",
+                  "paragraph" : "§ 20",
+                  "title" : "Erlaubnis zum Geschäftsbetrieb"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE002200000",
+                  "paragraph" : "§ 21",
+                  "title" : "Erlaubnisantrag für eine OGAW-Kapitalverwaltungsgesellschaft und Erlaubniserteilung"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE002301116",
+                  "paragraph" : "§ 22",
+                  "title" : "Erlaubnisantrag für eine AIF-Kapitalverwaltungsgesellschaft und Erlaubniserteilung"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE002401360",
+                  "paragraph" : "§ 23",
+                  "title" : "Versagung der Erlaubnis einer Kapitalverwaltungsgesellschaft"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE002502118",
+                  "paragraph" : "§ 24",
+                  "title" : "Anhörung der zuständigen Stellen eines anderen Mitgliedstaates der Europäischen Union oder eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum; Aussetzung oder Beschränkung der Erlaubnis bei Unternehmen mit Sitz in einem Drittstaat"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE002603118",
+                  "paragraph" : "§ 25",
+                  "title" : "Kapitalanforderungen"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  1,
+                  2,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Erlaubnis"
+            },
+            {
+              "documentIdentifier" : "BJNR198110013BJNG000500000",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE002702118",
+                  "paragraph" : "§ 26",
+                  "title" : "Allgemeine Verhaltensregeln; Verordnungsermächtigung"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE002801000",
+                  "paragraph" : "§ 27",
+                  "title" : "Interessenkonflikte; Verordnungsermächtigung"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE002907311",
+                  "paragraph" : "§ 28",
+                  "title" : "Allgemeine Organisationspflichten; Verordnungsermächtigung"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE003004118",
+                  "paragraph" : "§ 29",
+                  "title" : "Risikomanagement; Verordnungsermächtigung"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE003101000",
+                  "paragraph" : "§ 30",
+                  "title" : "Liquiditätsmanagement; Verordnungsermächtigung"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE003200000",
+                  "paragraph" : "§ 31",
+                  "title" : "Primebroker"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE003301118",
+                  "paragraph" : "§ 32",
+                  "title" : "Entschädigungseinrichtung"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE003400000",
+                  "paragraph" : "§ 33",
+                  "title" : "Werbung"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE003501118",
+                  "paragraph" : "§ 34",
+                  "title" : "Anzeigepflichten von Verwaltungsgesellschaften gegenüber der Bundesanstalt und der Bundesbank"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE003601118",
+                  "paragraph" : "§ 35",
+                  "title" : "Meldepflichten von AIF-Verwaltungsgesellschaften"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE003700000",
+                  "paragraph" : "§ 36",
+                  "title" : "Auslagerung"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE003802118",
+                  "paragraph" : "§ 37",
+                  "title" : "Vergütungssysteme; Verordnungsermächtigung"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE003908311",
+                  "paragraph" : "§ 38",
+                  "title" : "Jahresabschluss, Lagebericht, Prüfungsbericht und Abschlussprüfer der externen Kapitalverwaltungsgesellschaft; Verordnungsermächtigung"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  1,
+                  2,
+                  2
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Allgemeine Verhaltens- und Organisationspflichten"
+            },
+            {
+              "documentIdentifier" : "BJNR198110013BJNG000600000",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE004006118",
+                  "paragraph" : "§ 39",
+                  "title" : "Erlöschen und Aufhebung der Erlaubnis"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE004101118",
+                  "paragraph" : "§ 40",
+                  "title" : "Abberufung von Geschäftsleitern; Tätigkeitsverbot"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE004200000",
+                  "paragraph" : "§ 41",
+                  "title" : "Maßnahmen bei unzureichenden Eigenmitteln"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE004300000",
+                  "paragraph" : "§ 42",
+                  "title" : "Maßnahmen bei Gefahr"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE004401118",
+                  "paragraph" : "§ 43",
+                  "title" : "Insolvenzantrag, Unterrichtung der Gläubiger im Insolvenzverfahren"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  1,
+                  2,
+                  3
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Weitere Maßnahmen der Aufsichtsbehörde"
+            },
+            {
+              "documentIdentifier" : "BJNR198110013BJNG000700000",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE004503118",
+                  "paragraph" : "§ 44",
+                  "title" : "Registrierung und Berichtspflichten"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE004603118",
+                  "paragraph" : "§ 45",
+                  "title" : "Erstellung und Bekanntmachung von Jahresberichten"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE004700000",
+                  "paragraph" : "§ 46",
+                  "title" : "Inhalt von Jahresabschlüssen und Lageberichten"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE004802311",
+                  "paragraph" : "§ 47",
+                  "title" : "Prüfung und Bestätigung des Abschlussprüfers; Verordnungsermächtigung"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE004902118",
+                  "paragraph" : "§ 48",
+                  "title" : "Verkürzung der handelsrechtlichen Offenlegungsfrist"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE036802311",
+                  "paragraph" : "§ 48a",
+                  "title" : "Jahresbericht, Lagebericht und Prüfung von Spezial-AIF, die Darlehen nach § 285 Absatz 2 vergeben; Verordnungsermächtigung"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  1,
+                  2,
+                  4
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Pflichten für registrierungspflichtige AIF-Kapitalverwaltungsgesellschaften"
+            },
+            {
+              "documentIdentifier" : "BJNR198110013BJNG000800000",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE005001000",
+                  "paragraph" : "§ 49",
+                  "title" : "Zweigniederlassung und grenzüberschreitender Dienstleistungsverkehr durch OGAW-Kapitalverwaltungsgesellschaften; Verordnungsermächtigung"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE005101118",
+                  "paragraph" : "§ 50",
+                  "title" : "Besonderheiten für die Verwaltung von EU-OGAW durch OGAW-Kapitalverwaltungsgesellschaften"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE005204118",
+                  "paragraph" : "§ 51",
+                  "title" : "Inländische Zweigniederlassungen und grenzüberschreitender Dienstleistungsverkehr von EU-OGAW-Verwaltungsgesellschaften"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE005302118",
+                  "paragraph" : "§ 52",
+                  "title" : "Besonderheiten für die Verwaltung inländischer OGAW durch EU-OGAW-Verwaltungsgesellschaften"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  1,
+                  2,
+                  5
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Grenzüberschreitender Dienstleistungsverkehr bei OGAW-Verwaltungsgesellschaften"
+            },
+            {
+              "documentIdentifier" : "BJNR198110013BJNG000900000",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE005401116",
+                  "paragraph" : "§ 53",
+                  "title" : "Verwaltung von EU-AIF durch AIF-Kapitalverwaltungsgesellschaften"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE005502118",
+                  "paragraph" : "§ 54",
+                  "title" : "Zweigniederlassung und grenzüberschreitender Dienstleistungsverkehr von EU-AIF-Verwaltungsgesellschaften im Inland"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE005600000",
+                  "paragraph" : "§ 55",
+                  "title" : "Bedingungen für AIF-Kapitalverwaltungsgesellschaften, welche ausländische AIF verwalten, die weder in den Mitgliedstaaten der Europäischen Union noch in den Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum vertrieben werden"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE005700000",
+                  "paragraph" : "§ 56",
+                  "title" : "Bestimmung der Bundesrepublik Deutschland als Referenzmitgliedstaat einer ausländischen AIF-Verwaltungsgesellschaft"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE005800000",
+                  "paragraph" : "§ 57",
+                  "title" : "Zulässigkeit der Verwaltung von inländischen Spezial-AIF und EU-AIF sowie des Vertriebs von AIF gemäß den §§ 325, 326, 333 oder 334 durch ausländische AIF-Verwaltungsgesellschaften"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE005900000",
+                  "paragraph" : "§ 58",
+                  "title" : "Erteilung der Erlaubnis für eine ausländische AIF-Verwaltungsgesellschaft"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE006000000",
+                  "paragraph" : "§ 59",
+                  "title" : "Befreiung einer ausländischen AIF-Verwaltungsgesellschaft von Bestimmungen der Richtlinie 2011\/61\/EU"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE006100000",
+                  "paragraph" : "§ 60",
+                  "title" : "Unterrichtung der Europäischen Wertpapier- und Marktaufsichtsbehörde im Hinblick auf die Erlaubnis einer ausländischen AIF-Verwaltungsgesellschaft durch die Bundesanstalt"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE006200000",
+                  "paragraph" : "§ 61",
+                  "title" : "Änderung des Referenzmitgliedstaates einer ausländischen AIF-Verwaltungsgesellschaft"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE006300000",
+                  "paragraph" : "§ 62",
+                  "title" : "Rechtsstreitigkeiten"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE006400000",
+                  "paragraph" : "§ 63",
+                  "title" : "Verweismöglichkeiten der Bundesanstalt an die Europäische Wertpapier- und Marktaufsichtsbehörde"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE006500000",
+                  "paragraph" : "§ 64",
+                  "title" : "Vergleichende Analyse der Zulassung von und der Aufsicht über ausländische AIF-Verwaltungsgesellschaften"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE006600000",
+                  "paragraph" : "§ 65",
+                  "title" : "Verwaltung von EU-AIF durch ausländische AIF-Verwaltungsgesellschaften, für die die Bundesrepublik Deutschland Referenzmitgliedstaat ist"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE006701116",
+                  "paragraph" : "§ 66",
+                  "title" : "Inländische Zweigniederlassung und grenzüberschreitender Dienstleistungsverkehr von ausländischen AIF-Verwaltungsgesellschaften, deren Referenzmitgliedstaat nicht die Bundesrepublik Deutschland ist"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE006802118",
+                  "paragraph" : "§ 67",
+                  "title" : "Jahresbericht für EU-AIF und ausländische AIF"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  1,
+                  2,
+                  6
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Grenzüberschreitender Dienstleistungsverkehr und Drittstaatenbezug bei AIF-Verwaltungsgesellschaften"
+            }
+          ],
+          "title" : "Verwaltungsgesellschaften"
+        },
+        {
+          "documentIdentifier" : "BJNR198110013BJNG001000000",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              3
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR198110013BJNG001100000",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE006905118",
+                  "paragraph" : "§ 68",
+                  "title" : "Beauftragung und jährliche Prüfung; Verordnungsermächtigung"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE007002118",
+                  "paragraph" : "§ 69",
+                  "title" : "Aufsicht"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE007102118",
+                  "paragraph" : "§ 70",
+                  "title" : "Interessenkollision"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE007201311",
+                  "paragraph" : "§ 71",
+                  "title" : "Ausgabe und Rücknahme von Anteilen oder Aktien eines inländischen OGAW"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE007303118",
+                  "paragraph" : "§ 72",
+                  "title" : "Verwahrung"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE007402118",
+                  "paragraph" : "§ 73",
+                  "title" : "Unterverwahrung"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE007502118",
+                  "paragraph" : "§ 74",
+                  "title" : "Zahlung und Lieferung"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE007600000",
+                  "paragraph" : "§ 75",
+                  "title" : "Zustimmungspflichtige Geschäfte"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE007702118",
+                  "paragraph" : "§ 76",
+                  "title" : "Kontrollfunktion"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE007802118",
+                  "paragraph" : "§ 77",
+                  "title" : "Haftung"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE007902118",
+                  "paragraph" : "§ 78",
+                  "title" : "Geltendmachung von Ansprüchen der Anleger; Verordnungsermächtigung"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE008000000",
+                  "paragraph" : "§ 79",
+                  "title" : "Vergütung, Aufwendungsersatz"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  1,
+                  3,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Vorschriften für OGAW-Verwahrstellen"
+            },
+            {
+              "documentIdentifier" : "BJNR198110013BJNG001200000",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE008103118",
+                  "paragraph" : "§ 80",
+                  "title" : "Beauftragung"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE008200000",
+                  "paragraph" : "§ 81",
+                  "title" : "Verwahrung"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE008303118",
+                  "paragraph" : "§ 82",
+                  "title" : "Unterverwahrung"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE008400000",
+                  "paragraph" : "§ 83",
+                  "title" : "Kontrollfunktion"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE008500000",
+                  "paragraph" : "§ 84",
+                  "title" : "Zustimmungspflichtige Geschäfte"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE008602118",
+                  "paragraph" : "§ 85",
+                  "title" : "Interessenkollision"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE008700000",
+                  "paragraph" : "§ 86",
+                  "title" : "Informationspflichten gegenüber der Bundesanstalt"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE008800000",
+                  "paragraph" : "§ 87",
+                  "title" : "Anwendbare Vorschriften für Publikums-AIF"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE008901118",
+                  "paragraph" : "§ 88",
+                  "title" : "Haftung"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE009002118",
+                  "paragraph" : "§ 89",
+                  "title" : "Geltendmachung von Ansprüchen der Anleger; Verordnungsermächtigung"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE035800116",
+                  "paragraph" : "§ 89a",
+                  "title" : "Vergütung, Aufwendungsersatz"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE009100000",
+                  "paragraph" : "§ 90",
+                  "title" : "Anwendbare Vorschriften für ausländische AIF"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  1,
+                  3,
+                  2
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Vorschriften für AIF-Verwahrstellen"
+            }
+          ],
+          "title" : "Verwahrstelle"
+        },
+        {
+          "documentIdentifier" : "BJNR198110013BJNG001300000",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              4
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR198110013BJNG001400000",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE009200000",
+                  "paragraph" : "§ 91",
+                  "title" : "Rechtsform"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  1,
+                  4,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Allgemeine Vorschriften für offene inländische Investmentvermögen"
+            },
+            {
+              "documentIdentifier" : "BJNR198110013BJNG001500000",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE009300000",
+                  "paragraph" : "§ 92",
+                  "title" : "Sondervermögen"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE009403118",
+                  "paragraph" : "§ 93",
+                  "title" : "Verfügungsbefugnis, Treuhänderschaft, Sicherheitsvorschriften"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE009502118",
+                  "paragraph" : "§ 94",
+                  "title" : "Stimmrechtsausübung"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE009601118",
+                  "paragraph" : "§ 95",
+                  "title" : "Anteilscheine"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE009702116",
+                  "paragraph" : "§ 96",
+                  "title" : "Anteilklassen und Teilsondervermögen; Verordnungsermächtigung"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE009801118",
+                  "paragraph" : "§ 97",
+                  "title" : "Sammelverwahrung, Verlust von Anteilscheinen"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE009902311",
+                  "paragraph" : "§ 98",
+                  "title" : "Rücknahme von Anteilen, Aussetzung"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE010000000",
+                  "paragraph" : "§ 99",
+                  "title" : "Kündigung und Verlust des Verwaltungsrechts"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE010101118",
+                  "paragraph" : "§ 100",
+                  "title" : "Abwicklung des Sondervermögens"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE036200118",
+                  "paragraph" : "§ 100a",
+                  "title" : "Grunderwerbsteuer bei Übergang eines Immobilien-Sondervermögens"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE036900118",
+                  "paragraph" : "§ 100b",
+                  "title" : "Übertragung auf eine andere Kapitalverwaltungsgesellschaft"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE010203311",
+                  "paragraph" : "§ 101",
+                  "title" : "Jahresbericht"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE010300000",
+                  "paragraph" : "§ 102",
+                  "title" : "Abschlussprüfung"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE010401118",
+                  "paragraph" : "§ 103",
+                  "title" : "Halbjahresbericht"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE010500000",
+                  "paragraph" : "§ 104",
+                  "title" : "Zwischenbericht"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE010600000",
+                  "paragraph" : "§ 105",
+                  "title" : "Auflösungs- und Abwicklungsbericht"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE010702311",
+                  "paragraph" : "§ 106",
+                  "title" : "Verordnungsermächtigung"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE010801116",
+                  "paragraph" : "§ 107",
+                  "title" : "Veröffentlichung der Jahres-, Halbjahres-, Zwischen-, Auflösungs- und Abwicklungsberichte"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  1,
+                  4,
+                  2
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Allgemeine Vorschriften für Sondervermögen"
+            },
+            {
+              "documentIdentifier" : "BJNR198110013BJNG001600000",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE010902118",
+                  "paragraph" : "§ 108",
+                  "title" : "Rechtsform, anwendbare Vorschriften"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE011000000",
+                  "paragraph" : "§ 109",
+                  "title" : "Aktien"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE011102118",
+                  "paragraph" : "§ 110",
+                  "title" : "Satzung"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE011200000",
+                  "paragraph" : "§ 111",
+                  "title" : "Anlagebedingungen"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE011301118",
+                  "paragraph" : "§ 112",
+                  "title" : "Verwaltung und Anlage"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE011401118",
+                  "paragraph" : "§ 113",
+                  "title" : "Erlaubnisantrag und Erlaubniserteilung bei der extern verwalteten OGAW-Investmentaktiengesellschaft"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE011500000",
+                  "paragraph" : "§ 114",
+                  "title" : "Unterschreitung des Anfangskapitals oder der Eigenmittel"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE011600000",
+                  "paragraph" : "§ 115",
+                  "title" : "Gesellschaftskapital"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE011702311",
+                  "paragraph" : "§ 116",
+                  "title" : "Veränderliches Kapital, Rücknahme von Aktien"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE011802116",
+                  "paragraph" : "§ 117",
+                  "title" : "Teilgesellschaftsvermögen; Verordnungsermächtigung"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE011900000",
+                  "paragraph" : "§ 118",
+                  "title" : "Firma und zusätzliche Hinweise im Rechtsverkehr"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE012001118",
+                  "paragraph" : "§ 119",
+                  "title" : "Vorstand, Aufsichtsrat"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE012105311",
+                  "paragraph" : "§ 120",
+                  "title" : "Jahresabschluss und Lagebericht; Verordnungsermächtigung"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE012207311",
+                  "paragraph" : "§ 121",
+                  "title" : "Prüfung des Jahresabschlusses und des Lageberichts; Verordnungsermächtigung"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE012301118",
+                  "paragraph" : "§ 122",
+                  "title" : "Halbjahres- und Liquidationsbericht"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE012402118",
+                  "paragraph" : "§ 123",
+                  "title" : "Offenlegung und Vorlage von Berichten"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  1,
+                  4,
+                  3
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Allgemeine Vorschriften für Investmentaktiengesellschaften mit veränderlichem Kapital"
+            },
+            {
+              "documentIdentifier" : "BJNR198110013BJNG001700000",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE012502118",
+                  "paragraph" : "§ 124",
+                  "title" : "Rechtsform, anwendbare Vorschriften"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE012601116",
+                  "paragraph" : "§ 125",
+                  "title" : "Gesellschaftsvertrag"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE012700000",
+                  "paragraph" : "§ 126",
+                  "title" : "Anlagebedingungen"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE012800000",
+                  "paragraph" : "§ 127",
+                  "title" : "Anleger"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE012901118",
+                  "paragraph" : "§ 128",
+                  "title" : "Geschäftsführung"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE013001118",
+                  "paragraph" : "§ 129",
+                  "title" : "Verwaltung und Anlage"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE013100000",
+                  "paragraph" : "§ 130",
+                  "title" : "Unterschreitung des Anfangskapitals oder der Eigenmittel"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE013200000",
+                  "paragraph" : "§ 131",
+                  "title" : "Gesellschaftsvermögen"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE013301000",
+                  "paragraph" : "§ 132",
+                  "title" : "Teilgesellschaftsvermögen; Verordnungsermächtigung"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE013402311",
+                  "paragraph" : "§ 133",
+                  "title" : "Veränderliches Kapital, Kündigung von Kommanditanteilen"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE013500000",
+                  "paragraph" : "§ 134",
+                  "title" : "Firma und zusätzliche Hinweise im Rechtsverkehr"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE013604311",
+                  "paragraph" : "§ 135",
+                  "title" : "Jahresbericht; Verordnungsermächtigung"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE013707311",
+                  "paragraph" : "§ 136",
+                  "title" : "Abschlussprüfung; Verordnungsermächtigung"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE013800000",
+                  "paragraph" : "§ 137",
+                  "title" : "Vorlage von Berichten"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE013900000",
+                  "paragraph" : "§ 138",
+                  "title" : "Auflösung und Liquidation"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  1,
+                  4,
+                  4
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Allgemeine Vorschriften für offene Investmentkommanditgesellschaften"
+            }
+          ],
+          "title" : "Offene inländische Investmentvermögen"
+        },
+        {
+          "documentIdentifier" : "BJNR198110013BJNG001800000",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              5
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR198110013BJNG001900000",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE014000000",
+                  "paragraph" : "§ 139",
+                  "title" : "Rechtsform"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  1,
+                  5,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Allgemeine Vorschriften für geschlossene inländische Investmentvermögen"
+            },
+            {
+              "documentIdentifier" : "BJNR198110013BJNG002000000",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE014103311",
+                  "paragraph" : "§ 140",
+                  "title" : "Rechtsform, anwendbare Vorschriften"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE014200000",
+                  "paragraph" : "§ 141",
+                  "title" : "Aktien"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE014300000",
+                  "paragraph" : "§ 142",
+                  "title" : "Satzung"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE014400000",
+                  "paragraph" : "§ 143",
+                  "title" : "Anlagebedingungen"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE014501118",
+                  "paragraph" : "§ 144",
+                  "title" : "Verwaltung und Anlage"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE014600000",
+                  "paragraph" : "§ 145",
+                  "title" : "Unterschreitung des Anfangskapitals oder der Eigenmittel"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE014700000",
+                  "paragraph" : "§ 146",
+                  "title" : "Firma"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE014801118",
+                  "paragraph" : "§ 147",
+                  "title" : "Vorstand, Aufsichtsrat"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE014901118",
+                  "paragraph" : "§ 148",
+                  "title" : "Rechnungslegung"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  1,
+                  5,
+                  2
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Allgemeine Vorschriften für Investmentaktiengesellschaften mit fixem Kapital"
+            },
+            {
+              "documentIdentifier" : "BJNR198110013BJNG002100000",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE015003311",
+                  "paragraph" : "§ 149",
+                  "title" : "Rechtsform, anwendbare Vorschriften"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE015100000",
+                  "paragraph" : "§ 150",
+                  "title" : "Gesellschaftsvertrag"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE015200000",
+                  "paragraph" : "§ 151",
+                  "title" : "Anlagebedingungen"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE015300000",
+                  "paragraph" : "§ 152",
+                  "title" : "Anleger"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE015402118",
+                  "paragraph" : "§ 153",
+                  "title" : "Geschäftsführung, Beirat"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE015502118",
+                  "paragraph" : "§ 154",
+                  "title" : "Verwaltung und Anlage"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE015600000",
+                  "paragraph" : "§ 155",
+                  "title" : "Unterschreitung des Anfangskapitals oder der Eigenmittel"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE015700000",
+                  "paragraph" : "§ 156",
+                  "title" : "Gesellschaftsvermögen"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE015800000",
+                  "paragraph" : "§ 157",
+                  "title" : "Firma"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE015900000",
+                  "paragraph" : "§ 158",
+                  "title" : "Jahresbericht"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE016000000",
+                  "paragraph" : "§ 159",
+                  "title" : "Abschlussprüfung"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE016101118",
+                  "paragraph" : "§ 160",
+                  "title" : "Offenlegung und Vorlage von Berichten"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE016202118",
+                  "paragraph" : "§ 161",
+                  "title" : "Auflösung und Liquidation"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  1,
+                  5,
+                  3
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Allgemeine Vorschriften für geschlossene Investmentkommanditgesellschaften"
+            }
+          ],
+          "title" : "Geschlossene inländische Investmentvermögen"
+        }
+      ],
+      "title" : "Allgemeine Bestimmungen für Investmentvermögen und Verwaltungsgesellschaften"
+    },
+    {
+      "documentIdentifier" : "BJNR198110013BJNG002200000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR198110013BJNG002300000",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              1
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR198110013BJNG002400000",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE016303311",
+                  "paragraph" : "§ 162",
+                  "title" : "Anlagebedingungen"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE016401118",
+                  "paragraph" : "§ 163",
+                  "title" : "Genehmigung der Anlagebedingungen"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE016500000",
+                  "paragraph" : "§ 164",
+                  "title" : "Erstellung von Verkaufsprospekt und wesentlichen Anlegerinformationen"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE016605311",
+                  "paragraph" : "§ 165",
+                  "title" : "Mindestangaben im Verkaufsprospekt"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE016703118",
+                  "paragraph" : "§ 166",
+                  "title" : "Inhalt, Form und Gestaltung der wesentlichen Anlegerinformationen; Verordnungsermächtigung"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE016801311",
+                  "paragraph" : "§ 167",
+                  "title" : "Information mittels eines dauerhaften Datenträgers"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE016902311",
+                  "paragraph" : "§ 168",
+                  "title" : "Bewertung; Verordnungsermächtigung"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE017000000",
+                  "paragraph" : "§ 169",
+                  "title" : "Bewertungsverfahren"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE017100000",
+                  "paragraph" : "§ 170",
+                  "title" : "Veröffentlichung des Ausgabe- und Rücknahmepreises und des Nettoinventarwertes"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  1,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Allgemeines"
+            },
+            {
+              "documentIdentifier" : "BJNR198110013BJNG002500000",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE017200000",
+                  "paragraph" : "§ 171",
+                  "title" : "Genehmigung des Feederfonds"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE017300000",
+                  "paragraph" : "§ 172",
+                  "title" : "Besondere Anforderungen an Kapitalverwaltungsgesellschaften"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE017400000",
+                  "paragraph" : "§ 173",
+                  "title" : "Verkaufsprospekt, Anlagebedingungen, Jahresbericht"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE017501116",
+                  "paragraph" : "§ 174",
+                  "title" : "Anlagegrenzen, Anlagebeschränkungen, Aussetzung der Anteile"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE017600000",
+                  "paragraph" : "§ 175",
+                  "title" : "Vereinbarungen bei Master-Feeder-Strukturen"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE017700000",
+                  "paragraph" : "§ 176",
+                  "title" : "Pflichten der Kapitalverwaltungsgesellschaft und der Verwahrstelle"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE017800000",
+                  "paragraph" : "§ 177",
+                  "title" : "Mitteilungspflichten der Bundesanstalt"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE017900000",
+                  "paragraph" : "§ 178",
+                  "title" : "Abwicklung eines Masterfonds"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE018000000",
+                  "paragraph" : "§ 179",
+                  "title" : "Verschmelzung oder Spaltung des Masterfonds"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE018100000",
+                  "paragraph" : "§ 180",
+                  "title" : "Umwandlung in Feederfonds oder Änderung des Masterfonds"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  1,
+                  2
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Master-Feeder-Strukturen"
+            },
+            {
+              "documentIdentifier" : "BJNR198110013BJNG002600000",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE018200000",
+                  "paragraph" : "§ 181",
+                  "title" : "Gegenstand der Verschmelzung; Verschmelzungsarten"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE018300000",
+                  "paragraph" : "§ 182",
+                  "title" : "Genehmigung der Verschmelzung"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE018400000",
+                  "paragraph" : "§ 183",
+                  "title" : "Verschmelzung eines EU-OGAW auf ein OGAW-Sondervermögen"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE018500000",
+                  "paragraph" : "§ 184",
+                  "title" : "Verschmelzungsplan"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE018602118",
+                  "paragraph" : "§ 185",
+                  "title" : "Prüfung der Verschmelzung; Verordnungsermächtigung"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE018700000",
+                  "paragraph" : "§ 186",
+                  "title" : "Verschmelzungsinformationen"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE018800000",
+                  "paragraph" : "§ 187",
+                  "title" : "Rechte der Anleger"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE018900000",
+                  "paragraph" : "§ 188",
+                  "title" : "Kosten der Verschmelzung"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE019000000",
+                  "paragraph" : "§ 189",
+                  "title" : "Wirksamwerden der Verschmelzung"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE019100000",
+                  "paragraph" : "§ 190",
+                  "title" : "Rechtsfolgen der Verschmelzung"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE019201118",
+                  "paragraph" : "§ 191",
+                  "title" : "Verschmelzung mit Investmentaktiengesellschaften mit veränderlichem Kapital"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  1,
+                  3
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Verschmelzung von offenen Publikumsinvestmentvermögen"
+            }
+          ],
+          "title" : "Allgemeine Vorschriften für offene Publikumsinvestmentvermögen"
+        },
+        {
+          "documentIdentifier" : "BJNR198110013BJNG002700000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR198110013BJNE019300000",
+              "paragraph" : "§ 192",
+              "title" : "Zulässige Vermögensgegenstände"
+            },
+            {
+              "documentIdentifier" : "BJNR198110013BJNE019400000",
+              "paragraph" : "§ 193",
+              "title" : "Wertpapiere"
+            },
+            {
+              "documentIdentifier" : "BJNR198110013BJNE019501118",
+              "paragraph" : "§ 194",
+              "title" : "Geldmarktinstrumente"
+            },
+            {
+              "documentIdentifier" : "BJNR198110013BJNE019600000",
+              "paragraph" : "§ 195",
+              "title" : "Bankguthaben"
+            },
+            {
+              "documentIdentifier" : "BJNR198110013BJNE019701116",
+              "paragraph" : "§ 196",
+              "title" : "Investmentanteile"
+            },
+            {
+              "documentIdentifier" : "BJNR198110013BJNE019801000",
+              "paragraph" : "§ 197",
+              "title" : "Gesamtgrenze; Derivate; Verordnungsermächtigung"
+            },
+            {
+              "documentIdentifier" : "BJNR198110013BJNE019902118",
+              "paragraph" : "§ 198",
+              "title" : "Sonstige Anlageinstrumente"
+            },
+            {
+              "documentIdentifier" : "BJNR198110013BJNE020000000",
+              "paragraph" : "§ 199",
+              "title" : "Kreditaufnahme"
+            },
+            {
+              "documentIdentifier" : "BJNR198110013BJNE020100000",
+              "paragraph" : "§ 200",
+              "title" : "Wertpapier-Darlehen, Sicherheiten"
+            },
+            {
+              "documentIdentifier" : "BJNR198110013BJNE020200000",
+              "paragraph" : "§ 201",
+              "title" : "Wertpapier-Darlehensvertrag"
+            },
+            {
+              "documentIdentifier" : "BJNR198110013BJNE020300000",
+              "paragraph" : "§ 202",
+              "title" : "Organisierte Wertpapier-Darlehenssysteme"
+            },
+            {
+              "documentIdentifier" : "BJNR198110013BJNE020400000",
+              "paragraph" : "§ 203",
+              "title" : "Pensionsgeschäfte"
+            },
+            {
+              "documentIdentifier" : "BJNR198110013BJNE020501000",
+              "paragraph" : "§ 204",
+              "title" : "Verweisung; Verordnungsermächtigung"
+            },
+            {
+              "documentIdentifier" : "BJNR198110013BJNE020600000",
+              "paragraph" : "§ 205",
+              "title" : "Leerverkäufe"
+            },
+            {
+              "documentIdentifier" : "BJNR198110013BJNE020700000",
+              "paragraph" : "§ 206",
+              "title" : "Emittentengrenzen"
+            },
+            {
+              "documentIdentifier" : "BJNR198110013BJNE020800000",
+              "paragraph" : "§ 207",
+              "title" : "Erwerb von Anteilen an Investmentvermögen"
+            },
+            {
+              "documentIdentifier" : "BJNR198110013BJNE020900000",
+              "paragraph" : "§ 208",
+              "title" : "Erweiterte Anlagegrenzen"
+            },
+            {
+              "documentIdentifier" : "BJNR198110013BJNE021000000",
+              "paragraph" : "§ 209",
+              "title" : "Wertpapierindex-OGAW"
+            },
+            {
+              "documentIdentifier" : "BJNR198110013BJNE021100000",
+              "paragraph" : "§ 210",
+              "title" : "Emittentenbezogene Anlagegrenzen"
+            },
+            {
+              "documentIdentifier" : "BJNR198110013BJNE021200000",
+              "paragraph" : "§ 211",
+              "title" : "Überschreiten von Anlagegrenzen"
+            },
+            {
+              "documentIdentifier" : "BJNR198110013BJNE021300000",
+              "paragraph" : "§ 212",
+              "title" : "Bewerter; Häufigkeit der Bewertung und Berechnung"
+            },
+            {
+              "documentIdentifier" : "BJNR198110013BJNE021400000",
+              "paragraph" : "§ 213",
+              "title" : "Umwandlung von inländischen OGAW"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Investmentvermögen gemäß der OGAW-Richtlinie"
+        },
+        {
+          "documentIdentifier" : "BJNR198110013BJNG002800000",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              3
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR198110013BJNG002900000",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE021500000",
+                  "paragraph" : "§ 214",
+                  "title" : "Risikomischung, Arten"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE021600000",
+                  "paragraph" : "§ 215",
+                  "title" : "Begrenzung von Leverage durch die Bundesanstalt"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE021700000",
+                  "paragraph" : "§ 216",
+                  "title" : "Bewerter"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE021800000",
+                  "paragraph" : "§ 217",
+                  "title" : "Häufigkeit der Bewertung und Berechnung; Offenlegung"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  3,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Allgemeine Vorschriften für offene inländische Publikums-AIF"
+            },
+            {
+              "documentIdentifier" : "BJNR198110013BJNG003000000",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE021900000",
+                  "paragraph" : "§ 218",
+                  "title" : "Gemischte Investmentvermögen"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE022000000",
+                  "paragraph" : "§ 219",
+                  "title" : "Zulässige Vermögensgegenstände, Anlagegrenzen"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  3,
+                  2
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Gemischte Investmentvermögen"
+            },
+            {
+              "documentIdentifier" : "BJNR198110013BJNG003100000",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE022100000",
+                  "paragraph" : "§ 220",
+                  "title" : "Sonstige Investmentvermögen"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE022201118",
+                  "paragraph" : "§ 221",
+                  "title" : "Zulässige Vermögensgegenstände, Anlagegrenzen, Kreditaufnahme"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE022300000",
+                  "paragraph" : "§ 222",
+                  "title" : "Mikrofinanzinstitute"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE022401116",
+                  "paragraph" : "§ 223",
+                  "title" : "Sonderregelungen für die Ausgabe und Rücknahme von Anteilen oder Aktien"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE022501116",
+                  "paragraph" : "§ 224",
+                  "title" : "Angaben im Verkaufsprospekt und in den Anlagebedingungen"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  3,
+                  3
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Sonstige Investmentvermögen"
+            },
+            {
+              "documentIdentifier" : "BJNR198110013BJNG003200000",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE022600000",
+                  "paragraph" : "§ 225",
+                  "title" : "Dach-Hedgefonds"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE022700000",
+                  "paragraph" : "§ 226",
+                  "title" : "Auskunftsrecht der Bundesanstalt"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE022801116",
+                  "paragraph" : "§ 227",
+                  "title" : "Rücknahme"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE022901116",
+                  "paragraph" : "§ 228",
+                  "title" : "Verkaufsprospekt"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE023000000",
+                  "paragraph" : "§ 229",
+                  "title" : "Anlagebedingungen"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  3,
+                  4
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Dach-Hedgefonds"
+            },
+            {
+              "documentIdentifier" : "BJNR198110013BJNG003300000",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE023100000",
+                  "paragraph" : "§ 230",
+                  "title" : "Immobilien-Sondervermögen"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE023201116",
+                  "paragraph" : "§ 231",
+                  "title" : "Zulässige Vermögensgegenstände; Anlagegrenzen"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE023300000",
+                  "paragraph" : "§ 232",
+                  "title" : "Erbbaurechtsbestellung"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE023400000",
+                  "paragraph" : "§ 233",
+                  "title" : "Vermögensgegenstände in Drittstaaten; Währungsrisiko"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE023500000",
+                  "paragraph" : "§ 234",
+                  "title" : "Beteiligung an Immobilien-Gesellschaften"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE023600000",
+                  "paragraph" : "§ 235",
+                  "title" : "Anforderungen an die Immobilien-Gesellschaften"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE023700000",
+                  "paragraph" : "§ 236",
+                  "title" : "Erwerb der Beteiligung; Wertermittlung durch Abschlussprüfer"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE023800000",
+                  "paragraph" : "§ 237",
+                  "title" : "Umfang der Beteiligung; Anlagegrenzen"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE023900000",
+                  "paragraph" : "§ 238",
+                  "title" : "Beteiligungen von Immobilien-Gesellschaften an Immobilien-Gesellschaften"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE024000000",
+                  "paragraph" : "§ 239",
+                  "title" : "Verbot und Einschränkung von Erwerb und Veräußerung"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE024100000",
+                  "paragraph" : "§ 240",
+                  "title" : "Darlehensgewährung an Immobilien-Gesellschaften"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE024200000",
+                  "paragraph" : "§ 241",
+                  "title" : "Zahlungen, Überwachung durch die Verwahrstelle"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE024300000",
+                  "paragraph" : "§ 242",
+                  "title" : "Wirksamkeit eines Rechtsgeschäfts"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE024400000",
+                  "paragraph" : "§ 243",
+                  "title" : "Risikomischung"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE024500000",
+                  "paragraph" : "§ 244",
+                  "title" : "Anlaufzeit"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE024600000",
+                  "paragraph" : "§ 245",
+                  "title" : "Treuhandverhältnis"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE024700000",
+                  "paragraph" : "§ 246",
+                  "title" : "Verfügungsbeschränkung"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE024800000",
+                  "paragraph" : "§ 247",
+                  "title" : "Vermögensaufstellung"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE024900000",
+                  "paragraph" : "§ 248",
+                  "title" : "Sonderregeln für die Bewertung"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE025001116",
+                  "paragraph" : "§ 249",
+                  "title" : "Sonderregeln für das Bewertungsverfahren"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE025101116",
+                  "paragraph" : "§ 250",
+                  "title" : "Sonderregeln für den Bewerter"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE025200000",
+                  "paragraph" : "§ 251",
+                  "title" : "Sonderregeln für die Häufigkeit der Bewertung"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE025300000",
+                  "paragraph" : "§ 252",
+                  "title" : "Ertragsverwendung"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE025401118",
+                  "paragraph" : "§ 253",
+                  "title" : "Liquiditätsvorschriften"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE025500000",
+                  "paragraph" : "§ 254",
+                  "title" : "Kreditaufnahme"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE025601311",
+                  "paragraph" : "§ 255",
+                  "title" : "Sonderregeln für die Ausgabe und Rücknahme von Anteilen"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE025700000",
+                  "paragraph" : "§ 256",
+                  "title" : "Zusätzliche Angaben im Verkaufsprospekt und in den Anlagebedingungen"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE025800000",
+                  "paragraph" : "§ 257",
+                  "title" : "Aussetzung der Rücknahme"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE025900000",
+                  "paragraph" : "§ 258",
+                  "title" : "Aussetzung nach Kündigung"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE026000000",
+                  "paragraph" : "§ 259",
+                  "title" : "Beschlüsse der Anleger"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE026100000",
+                  "paragraph" : "§ 260",
+                  "title" : "Veräußerung und Belastung von Vermögensgegenständen"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  3,
+                  5
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Immobilien-Sondervermögen"
+            }
+          ],
+          "title" : "Offene inländische Publikums-AIF"
+        },
+        {
+          "documentIdentifier" : "BJNR198110013BJNG003400000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR198110013BJNE026201118",
+              "paragraph" : "§ 261",
+              "title" : "Zulässige Vermögensgegenstände, Anlagegrenzen"
+            },
+            {
+              "documentIdentifier" : "BJNR198110013BJNE026301118",
+              "paragraph" : "§ 262",
+              "title" : "Risikomischung"
+            },
+            {
+              "documentIdentifier" : "BJNR198110013BJNE026402118",
+              "paragraph" : "§ 263",
+              "title" : "Beschränkung von Leverage und Belastung"
+            },
+            {
+              "documentIdentifier" : "BJNR198110013BJNE026500000",
+              "paragraph" : "§ 264",
+              "title" : "Verfügungsbeschränkung"
+            },
+            {
+              "documentIdentifier" : "BJNR198110013BJNE026600000",
+              "paragraph" : "§ 265",
+              "title" : "Leerverkäufe"
+            },
+            {
+              "documentIdentifier" : "BJNR198110013BJNE026700000",
+              "paragraph" : "§ 266",
+              "title" : "Anlagebedingungen"
+            },
+            {
+              "documentIdentifier" : "BJNR198110013BJNE026801118",
+              "paragraph" : "§ 267",
+              "title" : "Genehmigung der Anlagebedingungen"
+            },
+            {
+              "documentIdentifier" : "BJNR198110013BJNE026901311",
+              "paragraph" : "§ 268",
+              "title" : "Erstellung von Verkaufsprospekt und wesentlichen Anlegerinformationen"
+            },
+            {
+              "documentIdentifier" : "BJNR198110013BJNE027002118",
+              "paragraph" : "§ 269",
+              "title" : "Mindestangaben im Verkaufsprospekt"
+            },
+            {
+              "documentIdentifier" : "BJNR198110013BJNE027101116",
+              "paragraph" : "§ 270",
+              "title" : "Inhalt, Form und Gestaltung der wesentlichen Anlegerinformationen"
+            },
+            {
+              "documentIdentifier" : "BJNR198110013BJNE027200000",
+              "paragraph" : "§ 271",
+              "title" : "Bewertung, Bewertungsverfahren, Bewerter"
+            },
+            {
+              "documentIdentifier" : "BJNR198110013BJNE027300000",
+              "paragraph" : "§ 272",
+              "title" : "Häufigkeit der Bewertung und Berechnung; Offenlegung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Geschlossene inländische Publikums-AIF"
+        }
+      ],
+      "title" : "Publikumsinvestmentvermögen"
+    },
+    {
+      "documentIdentifier" : "BJNR198110013BJNG003500000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR198110013BJNG003600000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR198110013BJNE027400000",
+              "paragraph" : "§ 273",
+              "title" : "Anlagebedingungen"
+            },
+            {
+              "documentIdentifier" : "BJNR198110013BJNE027500000",
+              "paragraph" : "§ 274",
+              "title" : "Begrenzung von Leverage"
+            },
+            {
+              "documentIdentifier" : "BJNR198110013BJNE027600000",
+              "paragraph" : "§ 275",
+              "title" : "Belastung"
+            },
+            {
+              "documentIdentifier" : "BJNR198110013BJNE027700000",
+              "paragraph" : "§ 276",
+              "title" : "Leerverkäufe"
+            },
+            {
+              "documentIdentifier" : "BJNR198110013BJNE027801116",
+              "paragraph" : "§ 277",
+              "title" : "Übertragung von Anteilen oder Aktien"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Allgemeine Vorschriften für inländische Spezial-AIF"
+        },
+        {
+          "documentIdentifier" : "BJNR198110013BJNG003700000",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              2
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR198110013BJNG003800000",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE027900000",
+                  "paragraph" : "§ 278",
+                  "title" : "Bewertung, Bewertungsverfahren und Bewerter"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE028001311",
+                  "paragraph" : "§ 279",
+                  "title" : "Häufigkeit der Bewertung, Offenlegung"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE028100000",
+                  "paragraph" : "§ 280",
+                  "title" : "Master-Feeder-Strukturen"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE028201118",
+                  "paragraph" : "§ 281",
+                  "title" : "Verschmelzung"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  3,
+                  2,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Allgemeine Vorschriften für offene inländische Spezial-AIF"
+            },
+            {
+              "documentIdentifier" : "BJNR198110013BJNG003900000",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE028302118",
+                  "paragraph" : "§ 282",
+                  "title" : "Anlageobjekte, Anlagegrenzen"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  3,
+                  2,
+                  2
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Besondere Vorschriften für allgemeine offene inländische Spezial-AIF"
+            },
+            {
+              "documentIdentifier" : "BJNR198110013BJNG004000000",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE028400000",
+                  "paragraph" : "§ 283",
+                  "title" : "Hedgefonds"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  3,
+                  2,
+                  3
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Besondere Vorschriften für Hedgefonds"
+            },
+            {
+              "documentIdentifier" : "BJNR198110013BJNG004100000",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE028501118",
+                  "paragraph" : "§ 284",
+                  "title" : "Anlagebedingungen, Anlagegrenzen"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  3,
+                  2,
+                  4
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Besondere Vorschriften für offene inländische Spezial-AIF mit festen Anlagebedingungen"
+            }
+          ],
+          "title" : "Vorschriften für offene inländische Spezial-AIF"
+        },
+        {
+          "documentIdentifier" : "BJNR198110013BJNG004200000",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              3
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR198110013BJNG004300000",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE028601118",
+                  "paragraph" : "§ 285",
+                  "title" : "Anlageobjekte"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE028700000",
+                  "paragraph" : "§ 286",
+                  "title" : "Bewertung, Bewertungsverfahren und Bewerter; Häufigkeit der Bewertung"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  3,
+                  3,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Allgemeine Vorschriften für geschlossene inländische Spezial-AIF"
+            },
+            {
+              "documentIdentifier" : "BJNR198110013BJNG004400000",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE028802118",
+                  "paragraph" : "§ 287",
+                  "title" : "Geltungsbereich"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE028900000",
+                  "paragraph" : "§ 288",
+                  "title" : "Erlangen von Kontrolle"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE029000000",
+                  "paragraph" : "§ 289",
+                  "title" : "Mitteilungspflichten"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE029100000",
+                  "paragraph" : "§ 290",
+                  "title" : "Offenlegungspflicht bei Erlangen der Kontrolle"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE029200000",
+                  "paragraph" : "§ 291",
+                  "title" : "Besondere Vorschriften hinsichtlich des Jahresabschlusses und des Lageberichts"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE029300000",
+                  "paragraph" : "§ 292",
+                  "title" : "Zerschlagen von Unternehmen"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  3,
+                  3,
+                  2
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Besondere Vorschriften für AIF, die die Kontrolle über nicht börsennotierte Unternehmen und Emittenten erlangen"
+            }
+          ],
+          "title" : "Vorschriften für geschlossene inländische Spezial-AIF"
+        }
+      ],
+      "title" : "Inländische Spezial-AIF"
+    },
+    {
+      "documentIdentifier" : "BJNR198110013BJNG004500000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR198110013BJNG004600000",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4,
+              1
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR198110013BJNG004700000",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE029403311",
+                  "paragraph" : "§ 293",
+                  "title" : "Allgemeine Vorschriften"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE029501116",
+                  "paragraph" : "§ 294",
+                  "title" : "Auf den Vertrieb und den Erwerb von OGAW anwendbare Vorschriften"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE029604311",
+                  "paragraph" : "§ 295",
+                  "title" : "Auf den Vertrieb und den Erwerb von AIF anwendbare Vorschriften"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE029702118",
+                  "paragraph" : "§ 296",
+                  "title" : "Vereinbarungen mit Drittstaaten zur OGAW-Konformität"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  4,
+                  1,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Allgemeine Vorschriften für den Vertrieb und den Erwerb von Investmentvermögen"
+            },
+            {
+              "documentIdentifier" : "BJNR198110013BJNG004800000",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE029801118",
+                  "paragraph" : "§ 297",
+                  "title" : "Verkaufsunterlagen und Hinweispflichten"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE029900000",
+                  "paragraph" : "§ 298",
+                  "title" : "Veröffentlichungspflichten und laufende Informationspflichten für EU-OGAW"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE030002118",
+                  "paragraph" : "§ 299",
+                  "title" : "Veröffentlichungspflichten und laufende Informationspflichten für EU-AIF und ausländische AIF"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE030100000",
+                  "paragraph" : "§ 300",
+                  "title" : "Zusätzliche Informationspflichten bei AIF"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE030201118",
+                  "paragraph" : "§ 301",
+                  "title" : "Sonstige Veröffentlichungspflichten"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE030300000",
+                  "paragraph" : "§ 302",
+                  "title" : "Werbung"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE030401118",
+                  "paragraph" : "§ 303",
+                  "title" : "Maßgebliche Sprachfassung"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE030500000",
+                  "paragraph" : "§ 304",
+                  "title" : "Kostenvorausbelastung"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE030603118",
+                  "paragraph" : "§ 305",
+                  "title" : "Widerrufsrecht"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE030701116",
+                  "paragraph" : "§ 306",
+                  "title" : "Prospekthaftung und Haftung für die wesentlichen Anlegerinformationen"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  4,
+                  1,
+                  2
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Vorschriften für den Vertrieb und den Erwerb von AIF in Bezug auf Privatanleger und für den Vertrieb und den Erwerb von OGAW"
+            },
+            {
+              "documentIdentifier" : "BJNR198110013BJNG004900000",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE030805311",
+                  "paragraph" : "§ 307",
+                  "title" : "Informationspflichten gegenüber semiprofessionellen und professionellen Anlegern und Haftung"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE030900000",
+                  "paragraph" : "§ 308",
+                  "title" : "Sonstige Informationspflichten"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  4,
+                  1,
+                  3
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Vorschriften für den Vertrieb und den Erwerb von AIF in Bezug auf semiprofessionelle und professionelle Anleger"
+            }
+          ],
+          "title" : "Vorschriften für den Vertrieb und den Erwerb von Investmentvermögen"
+        },
+        {
+          "documentIdentifier" : "BJNR198110013BJNG005000000",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4,
+              2
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR198110013BJNG005100000",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE031000000",
+                  "paragraph" : "§ 309",
+                  "title" : "Pflichten beim Vertrieb von EU-OGAW im Inland"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE031100000",
+                  "paragraph" : "§ 310",
+                  "title" : "Anzeige zum Vertrieb von EU-OGAW im Inland"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE031200000",
+                  "paragraph" : "§ 311",
+                  "title" : "Untersagung und Einstellung des Vertriebs von EU-OGAW"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  4,
+                  2,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Anzeigeverfahren beim Vertrieb von EU-OGAW im Inland"
+            },
+            {
+              "documentIdentifier" : "BJNR198110013BJNG005200000",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE031302116",
+                  "paragraph" : "§ 312",
+                  "title" : "Anzeigepflicht; Verordnungsermächtigung"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE031400000",
+                  "paragraph" : "§ 313",
+                  "title" : "Veröffentlichungspflichten"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  4,
+                  2,
+                  2
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Anzeigeverfahren für den Vertrieb von inländischen OGAW in anderen Mitgliedstaaten der Europäischen Union oder in Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum"
+            }
+          ],
+          "title" : "Vertriebsanzeige und Vertriebsuntersagung für OGAW"
+        },
+        {
+          "documentIdentifier" : "BJNR198110013BJNG005300000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR198110013BJNE031501118",
+              "paragraph" : "§ 314",
+              "title" : "Untersagung des Vertriebs"
+            },
+            {
+              "documentIdentifier" : "BJNR198110013BJNE031600000",
+              "paragraph" : "§ 315",
+              "title" : "Einstellung des Vertriebs von AIF"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4,
+              3
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR198110013BJNG005400000",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE031700000",
+                  "paragraph" : "§ 316",
+                  "title" : "Anzeigepflicht einer AIF-Kapitalverwaltungsgesellschaft beim beabsichtigten Vertrieb von inländischen Publikums-AIF im Inland"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE031802118",
+                  "paragraph" : "§ 317",
+                  "title" : "Zulässigkeit des Vertriebs von EU-AIF oder von ausländischen AIF an Privatanleger"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE031903311",
+                  "paragraph" : "§ 318",
+                  "title" : "Verkaufsprospekt und wesentliche Anlegerinformationen beim Vertrieb von EU-AIF oder von ausländischen AIF an Privatanleger"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE032000000",
+                  "paragraph" : "§ 319",
+                  "title" : "Vertretung der Gesellschaft, Gerichtsstand beim Vertrieb von EU-AIF oder von ausländischen AIF an Privatanleger"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE032101116",
+                  "paragraph" : "§ 320",
+                  "title" : "Anzeigepflicht beim beabsichtigten Vertrieb von EU-AIF oder von ausländischen AIF an Privatanleger im Inland"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  4,
+                  3,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Anzeigeverfahren für den Vertrieb von Publikums-AIF, von EU-AIF oder von ausländischen AIF an Privatanleger im Inland"
+            },
+            {
+              "documentIdentifier" : "BJNR198110013BJNG005500000",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE032200000",
+                  "paragraph" : "§ 321",
+                  "title" : "Anzeigepflicht einer AIF-Kapitalverwaltungsgesellschaft beim beabsichtigten Vertrieb von EU-AIF oder von inländischen Spezial-AIF an semiprofessionelle und professionelle Anleger im Inland"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE032300000",
+                  "paragraph" : "§ 322",
+                  "title" : "Anzeigepflicht einer AIF-Kapitalverwaltungsgesellschaft beim beabsichtigten Vertrieb von ausländischen AIF oder von inländischen Spezial-Feeder-AIF oder EU-Feeder-AIF, deren jeweiliger Master-AIF kein EU-AIF oder inländischer AIF ist, der von einer EU-AIF-Verwaltungsgesellschaft oder einer AIF-Kapitalverwaltungsgesellschaft verwaltet wird, an semiprofessionelle und professionelle Anleger im Inland"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE032400000",
+                  "paragraph" : "§ 323",
+                  "title" : "Anzeigepflicht einer EU-AIF-Verwaltungsgesellschaft beim beabsichtigten Vertrieb von EU-AIF oder von inländischen Spezial-AIF an semiprofessionelle und professionelle Anleger im Inland"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE032500000",
+                  "paragraph" : "§ 324",
+                  "title" : "Anzeigepflicht einer EU-AIF-Verwaltungsgesellschaft beim beabsichtigten Vertrieb von ausländischen AIF oder von inländischen Spezial-Feeder-AIF oder EU-Feeder-AIF, deren jeweiliger Master-AIF kein EU-AIF oder inländischer AIF ist, der von einer EU-AIF-Verwaltungsgesellschaft oder einer AIF-Kapitalverwaltungsgesellschaft verwaltet wird, an semiprofessionelle und professionelle Anleger im Inland"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE032600000",
+                  "paragraph" : "§ 325",
+                  "title" : "Anzeigepflicht einer ausländischen AIF-Verwaltungsgesellschaft, deren Referenzmitgliedstaat die Bundesrepublik Deutschland ist, beim beabsichtigten Vertrieb von EU-AIF oder von inländischen Spezial-AIF an semiprofessionelle und professionelle Anleger im Inland"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE032700000",
+                  "paragraph" : "§ 326",
+                  "title" : "Anzeigepflicht einer ausländischen AIF-Verwaltungsgesellschaft, deren Referenzmitgliedstaat die Bundesrepublik Deutschland ist, beim beabsichtigten Vertrieb von ausländischen AIF an semiprofessionelle und professionelle Anleger im Inland"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE032800000",
+                  "paragraph" : "§ 327",
+                  "title" : "Anzeigepflicht einer ausländischen AIF-Verwaltungsgesellschaft, deren Referenzmitgliedstaat nicht die Bundesrepublik Deutschland ist, beim beabsichtigten Vertrieb von EU-AIF oder von inländischen Spezial-AIF an semiprofessionelle und professionelle Anleger im Inland"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE032900000",
+                  "paragraph" : "§ 328",
+                  "title" : "Anzeigepflicht einer ausländischen AIF-Verwaltungsgesellschaft, deren Referenzmitgliedstaat nicht die Bundesrepublik Deutschland ist, beim beabsichtigten Vertrieb von ausländischen AIF an semiprofessionelle und professionelle Anleger im Inland"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE033001116",
+                  "paragraph" : "§ 329",
+                  "title" : "Anzeigepflicht einer EU-AIF-Verwaltungsgesellschaft oder einer AIF-Kapitalverwaltungsgesellschaft beim beabsichtigten Vertrieb von von ihr verwalteten inländischen Spezial-Feeder-AIF oder EU-Feeder-AIF, deren jeweiliger Master- AIF kein EU-AIF oder inländischer AIF ist, der von einer EU-AIF-Verwaltungsgesellschaft oder einer AIF-Kapitalverwaltungsgesellschaft verwaltet wird, oder ausländischen AIF an semiprofessionelle und professionelle Anleger im Inland"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE033102118",
+                  "paragraph" : "§ 330",
+                  "title" : "Anzeigepflicht einer ausländischen AIF-Verwaltungsgesellschaft beim beabsichtigten Vertrieb von von ihr verwalteten ausländischen AIF oder EU-AIF an semiprofessionelle und professionelle Anleger im Inland"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE033200000",
+                  "paragraph" : "§ 330a",
+                  "title" : "Anzeigepflicht von EU-AIF-Verwaltungsgesellschaften, die die Bedingungen nach Artikel 3 Absatz 2 der Richtlinie 2011\/61\/EU erfüllen, beim beabsichtigten Vertrieb von AIF an professionelle und semiprofessionelle Anleger im Inland"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  4,
+                  3,
+                  2
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Anzeigeverfahren für den Vertrieb von AIF an semiprofessionelle Anleger und professionelle Anleger im Inland"
+            },
+            {
+              "documentIdentifier" : "BJNR198110013BJNG005601116",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE033302116",
+                  "paragraph" : "§ 331",
+                  "title" : "Anzeigepflicht einer AIF-Kapitalverwaltungsgesellschaft beim Vertrieb von EU-AIF oder inländischen AIF an professionelle Anleger in anderen Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum; Verordnungsermächtigung"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE033401116",
+                  "paragraph" : "§ 332",
+                  "title" : "Anzeigepflicht einer AIF-Kapitalverwaltungsgesellschaft beim Vertrieb von ausländischen AIF oder von inländischen Feeder-AIF oder EU-Feeder-AIF, deren jeweiliger Master-AIF kein EU-AIF oder inländischer AIF ist, der von einer EU-AIF-Verwaltungsgesellschaft oder einer AIF-Kapitalverwaltungsgesellschaft verwaltet wird, an professionelle Anleger in anderen Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE033501116",
+                  "paragraph" : "§ 333",
+                  "title" : "Anzeigepflicht einer ausländischen AIF-Verwaltungsgesellschaft, deren Referenzmitgliedstaat die Bundesrepublik Deutschland ist, beim Vertrieb von EU-AIF oder von inländischen AIF an professionelle Anleger in anderen Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE033601116",
+                  "paragraph" : "§ 334",
+                  "title" : "Anzeigepflicht einer ausländischen AIF-Verwaltungsgesellschaft, deren Referenzmitgliedstaat die Bundesrepublik Deutschland ist, beim Vertrieb von ausländischen AIF an professionelle Anleger in anderen Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE033700000",
+                  "paragraph" : "§ 335",
+                  "title" : "Bescheinigung der Bundesanstalt"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  4,
+                  3,
+                  3
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Anzeigeverfahren für den Vertrieb von AIF an professionelle Anleger in anderen Mitgliedstaaten der Europäischen Union und in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum"
+            },
+            {
+              "documentIdentifier" : "BJNR198110013BJNG005700000",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE033800000",
+                  "paragraph" : "§ 336",
+                  "title" : "Verweise und Ersuchen nach Artikel 19 der Verordnung (EU) Nr. 1095\/2010"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  4,
+                  3,
+                  4
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Verweis und Ersuchen für den Vertrieb von AIF an semiprofessionelle und professionelle Anleger"
+            }
+          ],
+          "title" : "Anzeige, Einstellung und Untersagung des Vertriebs von AIF"
+        }
+      ],
+      "title" : "Vorschriften für den Vertrieb und den Erwerb von Investmentvermögen"
+    },
+    {
+      "documentIdentifier" : "BJNR198110013BJNG005800000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR198110013BJNE033901116",
+          "paragraph" : "§ 337",
+          "title" : "Europäische Risikokapitalfonds"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Europäische Risikokapitalfonds"
+    },
+    {
+      "documentIdentifier" : "BJNR198110013BJNG005900000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR198110013BJNE034001116",
+          "paragraph" : "§ 338",
+          "title" : "Europäische Fonds für soziales Unternehmertum"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Europäische Fonds für soziales Unternehmertum"
+    },
+    {
+      "documentIdentifier" : "BJNR198110013BJNG006800118",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR198110013BJNE036600118",
+          "paragraph" : "§ 338a",
+          "title" : "Europäische langfristige Investmentfonds"
+        },
+        {
+          "documentIdentifier" : "BJNR198110013BJNE037500124",
+          "paragraph" : "§ 338b",
+          "title" : "Geldmarktfonds"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Europäische langfristige Investmentfonds"
+    },
+    {
+      "documentIdentifier" : "BJNR198110013BJNG006001118",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          8
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR198110013BJNG006101118",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR198110013BJNE034102118",
+              "paragraph" : "§ 339",
+              "title" : "Strafvorschriften"
+            },
+            {
+              "documentIdentifier" : "BJNR198110013BJNE034209118",
+              "paragraph" : "§ 340",
+              "title" : "Bußgeldvorschriften"
+            },
+            {
+              "documentIdentifier" : "BJNR198110013BJNE034300000",
+              "paragraph" : "§ 341",
+              "title" : "Beteiligung der Bundesanstalt und Mitteilungen in Strafsachen"
+            },
+            {
+              "documentIdentifier" : "BJNR198110013BJNE037003118",
+              "paragraph" : "§ 341a",
+              "title" : "Bekanntmachung von bestandskräftigen Maßnahmen und unanfechtbar gewordenen Bußgeldentscheidungen"
+            },
+            {
+              "documentIdentifier" : "BJNR198110013BJNE034404118",
+              "paragraph" : "§ 342",
+              "title" : "Beschwerdeverfahren"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              8,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Straf- und Bußgeldvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR198110013BJNG006201118",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              8,
+              2
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR198110013BJNG006301118",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE034502118",
+                  "paragraph" : "§ 343",
+                  "title" : "Übergangsvorschriften für inländische und EU-AIF-Verwaltungsgesellschaften"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE034601116",
+                  "paragraph" : "§ 344",
+                  "title" : "Übergangsvorschriften für ausländische AIF-Verwaltungsgesellschaften und für andere Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE036000118",
+                  "paragraph" : "§ 344a",
+                  "title" : "Übergangsvorschrift zum Kleinanlegerschutzgesetz"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  8,
+                  2,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Allgemeine Übergangsvorschriften für AIF-Verwaltungsgesellschaften"
+            },
+            {
+              "documentIdentifier" : "BJNR198110013BJNG006401118",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE034701118",
+                  "paragraph" : "§ 345",
+                  "title" : "Übergangsvorschriften für offene AIF und AIF-Verwaltungsgesellschaften, die offene AIF verwalten, die bereits nach dem Investmentgesetz reguliert waren"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE034801118",
+                  "paragraph" : "§ 346",
+                  "title" : "Besondere Übergangsvorschriften für Immobilien-Sondervermögen"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE034900000",
+                  "paragraph" : "§ 347",
+                  "title" : "Besondere Übergangsvorschriften für Altersvorsorge-Sondervermögen"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE035000000",
+                  "paragraph" : "§ 348",
+                  "title" : "Besondere Übergangsvorschriften für Gemischte Sondervermögen und Gemischte Investmentaktiengesellschaften"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE035100000",
+                  "paragraph" : "§ 349",
+                  "title" : "Besondere Übergangsvorschriften für Sonstige Sondervermögen und Sonstige Investmentaktiengesellschaften"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE035200000",
+                  "paragraph" : "§ 350",
+                  "title" : "Besondere Übergangsvorschriften für Hedgefonds und offene Spezial-AIF"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE035301118",
+                  "paragraph" : "§ 351",
+                  "title" : "Übergangsvorschriften für offene AIF und für AIF-Verwaltungsgesellschaften, die offene AIF verwalten, die nicht bereits nach dem Investmentgesetz reguliert waren"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE035400000",
+                  "paragraph" : "§ 352",
+                  "title" : "Übergangsvorschrift zu § 127 des Investmentgesetzes"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  8,
+                  2,
+                  2
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Besondere Übergangsvorschriften für offene AIF und für AIF-Verwaltungsgesellschaften, die offene AIF verwalten"
+            },
+            {
+              "documentIdentifier" : "BJNR198110013BJNG006502118",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE035900116",
+                  "paragraph" : "§ 352a",
+                  "title" : "Definition von geschlossenen AIF im Sinne von § 353"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE035504311",
+                  "paragraph" : "§ 353",
+                  "title" : "Besondere Übergangsvorschriften für AIF-Verwaltungsgesellschaften, die geschlossene AIF verwalten, und für geschlossene AIF"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE037100118",
+                  "paragraph" : "§ 353a",
+                  "title" : "Übergangsvorschriften zu den §§ 261, 262 und 263"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE037200118",
+                  "paragraph" : "§ 353b",
+                  "title" : "Übergangsvorschriften zu § 285 Absatz 3"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE035600000",
+                  "paragraph" : "§ 354",
+                  "title" : "Übergangsvorschrift zu § 342 Absatz 3"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  8,
+                  2,
+                  3
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Besondere Übergangsvorschriften für AIF-Verwaltungsgesellschaften, die geschlossene AIF verwalten, und für geschlossene AIF"
+            },
+            {
+              "documentIdentifier" : "BJNR198110013BJNG006601118",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE035702118",
+                  "paragraph" : "§ 355",
+                  "title" : "Übergangsvorschriften für OGAW-Verwaltungsgesellschaften und OGAW"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  8,
+                  2,
+                  4
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Übergangsvorschriften für OGAW- Verwaltungsgesellschaften und OGAW"
+            },
+            {
+              "documentIdentifier" : "BJNR198110013BJNG006701118",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE036100118",
+                  "paragraph" : "§ 356",
+                  "title" : "Übergangsvorschriften zum Bilanzrichtlinie-Umsetzungsgesetz"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE036300118",
+                  "paragraph" : "§ 357",
+                  "title" : "Übergangsvorschrift zu § 100a"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE037300118",
+                  "paragraph" : "§ 358",
+                  "title" : "Übergangsvorschriften zu § 95 Absatz 1 und § 97 Absatz 1"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE037400118",
+                  "paragraph" : "§ 359",
+                  "title" : "Übergangsvorschrift zu § 26 Absatz 7 Satz 3, § 82 Absatz 6 Satz 2 und § 85 Absatz 5 Satz 4"
+                },
+                {
+                  "documentIdentifier" : "BJNR198110013BJNE037700311",
+                  "paragraph" : "§ 360",
+                  "title" : "Übergangsvorschrift zum Gesetz zur weiteren Ausführung der EU-Prospektverordnung und zur Änderung von Finanzmarktgesetzen"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  8,
+                  2,
+                  5
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Sonstige Übergangsvorschriften"
+            }
+          ],
+          "title" : "Übergangsvorschriften"
+        }
+      ],
+      "title" : "Straf-, Bußgeld- und Übergangsvorschriften"
+    }
+  ]
+}

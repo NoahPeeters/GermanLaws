@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR153000996",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR153000996Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR153000996BJNE000201377",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR153000996BJNE000302301",
+          "paragraph" : "§ 2",
+          "title" : "Ermächtigungen"
+        },
+        {
+          "documentIdentifier" : "BJNR153000996BJNE000405301",
+          "paragraph" : "§ 3",
+          "title" : "Bußgeldvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR153000996BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Übertragung von Ermächtigungen"
+        },
+        {
+          "documentIdentifier" : "BJNR153000996BJNE000601377",
+          "paragraph" : "§ 5",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR153000996BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

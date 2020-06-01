@@ -1,0 +1,69 @@
+{
+  "documentIdentifier" : "BJNR129210005",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR129210005Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR129210005BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Staatliche Anerkennung des Ausbildungsberufes"
+        },
+        {
+          "documentIdentifier" : "BJNR129210005BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Ausbildungsdauer"
+        },
+        {
+          "documentIdentifier" : "BJNR129210005BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Zielsetzung der Berufsausbildung"
+        },
+        {
+          "documentIdentifier" : "BJNR129210005BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Ausbildungsberufsbild"
+        },
+        {
+          "documentIdentifier" : "BJNR129210005BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Ausbildungsrahmenplan"
+        },
+        {
+          "documentIdentifier" : "BJNR129210005BJNE000600000",
+          "paragraph" : "§ 6",
+          "title" : "Ausbildungsplan"
+        },
+        {
+          "documentIdentifier" : "BJNR129210005BJNE000700000",
+          "paragraph" : "§ 7",
+          "title" : "Schriftlicher Ausbildungsnachweis"
+        },
+        {
+          "documentIdentifier" : "BJNR129210005BJNE000800000",
+          "paragraph" : "§ 8",
+          "title" : "Zwischenprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR129210005BJNE000900000",
+          "paragraph" : "§ 9",
+          "title" : "Gesellenprüfung\/Abschlussprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR129210005BJNE001000000",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 5)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

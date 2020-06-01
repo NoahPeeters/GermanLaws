@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR012000015",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR012000015Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR012000015BJNE000105124",
+          "paragraph" : "§ 1",
+          "title" : "Gebühren und Auslagen"
+        },
+        {
+          "documentIdentifier" : "BJNR012000015BJNE000205124",
+          "paragraph" : "§ 2",
+          "title" : "Ermäßigung der Gebühr"
+        },
+        {
+          "documentIdentifier" : "BJNR012000015BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Verordnungsermächtigung"
+        },
+        {
+          "documentIdentifier" : "BJNR012000015BJNE000406124",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 1 Absatz 2)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

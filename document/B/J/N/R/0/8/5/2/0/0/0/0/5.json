@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR085200005",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR085200005Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR085200005BJNE000101116",
+          "paragraph" : "§ 1",
+          "title" : "Aufbewahrung und Speicherung von Akten"
+        },
+        {
+          "documentIdentifier" : "BJNR085200005BJNE000202116",
+          "paragraph" : "§ 2",
+          "title" : "Verordnungsermächtigung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

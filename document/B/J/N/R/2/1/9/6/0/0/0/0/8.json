@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR219600008",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR219600008Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR219600008BJNE000102360",
+          "paragraph" : "§ 1",
+          "title" : "Gesetzliche Handelsklassen und Kategorien für Rinderschlachtkörper"
+        },
+        {
+          "documentIdentifier" : "BJNR219600008BJNE000202125",
+          "paragraph" : "§ 2",
+          "title" : "Einstufung in Handelsklassen"
+        },
+        {
+          "documentIdentifier" : "BJNR219600008BJNE000303125",
+          "paragraph" : "§ 3",
+          "title" : "Kennzeichnung"
+        },
+        {
+          "documentIdentifier" : "BJNR219600008BJNE000403125",
+          "paragraph" : "§ 4",
+          "title" : "Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR219600008BJNE000501377",
+          "paragraph" : "§ 5",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR219600008BJNE000700125",
+          "paragraph" : "§ 6",
+          "title" : "Überwachung, Duldungs- und Auskunftspflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR219600008BJNE000600000",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 1)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

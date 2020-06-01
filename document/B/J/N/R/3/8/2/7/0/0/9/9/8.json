@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR382700998",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR382700998Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR382700998BJNE000200310",
+          "paragraph" : "§ 1",
+          "title" : "Beitragssätze in der Rentenversicherung"
+        },
+        {
+          "documentIdentifier" : "BJNR382700998BJNE000300310",
+          "paragraph" : "§ 2",
+          "title" : "Beitrag in der Alterssicherung der\nLandwirte"
+        },
+        {
+          "documentIdentifier" : "BJNR382700998BJNE000400310",
+          "paragraph" : "§ 3",
+          "title" : "Beitragszuschuß in der Alterssicherung\nder Landwirte"
+        },
+        {
+          "documentIdentifier" : "BJNR382700998BJNE000500310",
+          "paragraph" : "§ 4",
+          "title" : "Umrechnungsfaktoren für den Versorgungsausgleich\nin der Rentenversicherung"
+        },
+        {
+          "documentIdentifier" : "BJNR382700998BJNE000600310",
+          "paragraph" : "§ 5",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

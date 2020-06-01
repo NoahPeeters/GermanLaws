@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR162800014",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR162800014Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR162800014BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Berufung der Mitglieder"
+        },
+        {
+          "documentIdentifier" : "BJNR162800014BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Sitzungen des Sachverständigenausschusses"
+        },
+        {
+          "documentIdentifier" : "BJNR162800014BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Weitere Teilnahme an den Sitzungen"
+        },
+        {
+          "documentIdentifier" : "BJNR162800014BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Besondere Sachverständige"
+        },
+        {
+          "documentIdentifier" : "BJNR162800014BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Ehrenamtliche Tätigkeit, Verfahrensbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR162800014BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR009400981",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR009400981Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR009400981BJNE000600301",
+          "paragraph" : "Anlage 1",
+          "title" : "Niederländische Prüf- und Gewährzeichen für Eier von freilaufenden Hennen"
+        },
+        {
+          "documentIdentifier" : "BJNR009400981BJNE000700301",
+          "paragraph" : "Anlage 2",
+          "title" : "Niederländische Prüf- und Gewährzeichen für Speck"
+        },
+        {
+          "documentIdentifier" : "BJNR009400981BJNE000800301",
+          "paragraph" : "Anlage 3",
+          "title" : "Brasilianische Prüf- und Gewährzeichen für Edelmetalle"
+        },
+        {
+          "documentIdentifier" : "BJNR009400981BJNE000900301",
+          "paragraph" : "Anlage 4",
+          "title" : "Internationale kriminalpolizeiliche Organisation"
+        },
+        {
+          "documentIdentifier" : "BJNR009400981BJNE001000301",
+          "paragraph" : "Anlage 5",
+          "title" : "Internationale Seefunksatelliten-Organisation"
+        },
+        {
+          "documentIdentifier" : "BJNR009400981BJNE001100301",
+          "paragraph" : "Anlage 6",
+          "title" : "Weltorganisation für Tourismus"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

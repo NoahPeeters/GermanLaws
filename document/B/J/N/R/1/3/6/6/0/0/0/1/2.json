@@ -1,0 +1,216 @@
+{
+  "documentIdentifier" : "BJNR136600012",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR136600012BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR136600012BJNE000302116",
+          "paragraph" : "§ 1",
+          "title" : "Zweck des Nationalen Waffenregisters; Registerbehörde"
+        },
+        {
+          "documentIdentifier" : "BJNR136600012BJNE000401118",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR136600012BJNE000501118",
+          "paragraph" : "§ 3",
+          "title" : "Anlass der Speicherung"
+        },
+        {
+          "documentIdentifier" : "BJNR136600012BJNE000601118",
+          "paragraph" : "§ 4",
+          "title" : "Inhalt des Nationalen Waffenregisters; Ordnungsnummern"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Zweck des Nationalen Waffenregisters, Datenbestand"
+    },
+    {
+      "documentIdentifier" : "BJNR136600012BJNG000201116",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR136600012BJNG000300000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR136600012BJNE000701116",
+              "paragraph" : "§ 5",
+              "title" : "Datenübermittlung durch die Waffenbehörden"
+            },
+            {
+              "documentIdentifier" : "BJNR136600012BJNE000800000",
+              "paragraph" : "§ 6",
+              "title" : "Datenzuordnung beim Überlassen und Erwerben registrierter Waffen"
+            },
+            {
+              "documentIdentifier" : "BJNR136600012BJNE000900000",
+              "paragraph" : "§ 7",
+              "title" : "Datenzuordnung bei Wohnortwechsel des Inhabers einer waffenrechtlichen Erlaubnis"
+            },
+            {
+              "documentIdentifier" : "BJNR136600012BJNE001001116",
+              "paragraph" : "§ 8",
+              "title" : "Datenpflege durch andere als die Verantwortlichen"
+            },
+            {
+              "documentIdentifier" : "BJNR136600012BJNE001101116",
+              "paragraph" : "§ 9",
+              "title" : "Protokollierungspflicht bei der Speicherung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Datenübermittlung an das Nationale Waffenregister"
+        },
+        {
+          "documentIdentifier" : "BJNR136600012BJNG000400000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR136600012BJNE001202116",
+              "paragraph" : "§ 10",
+              "title" : "Übermittlung von Daten an Waffenbehörden, Polizeien des Bundes und der Länder, Justiz- und Zollbehörden, Steuerfahndung sowie Nachrichtendienste"
+            },
+            {
+              "documentIdentifier" : "BJNR136600012BJNE001302116",
+              "paragraph" : "§ 11",
+              "title" : "Weitere Voraussetzungen für die Datenübermittlung"
+            },
+            {
+              "documentIdentifier" : "BJNR136600012BJNE001401116",
+              "paragraph" : "§ 12",
+              "title" : "Gruppenauskunft"
+            },
+            {
+              "documentIdentifier" : "BJNR136600012BJNE001501116",
+              "paragraph" : "§ 13",
+              "title" : "Datenabruf im automatisierten Verfahren"
+            },
+            {
+              "documentIdentifier" : "BJNR136600012BJNE001601116",
+              "paragraph" : "§ 14",
+              "title" : "Gruppenauskünfte im automatisierten Verfahren"
+            },
+            {
+              "documentIdentifier" : "BJNR136600012BJNE001700000",
+              "paragraph" : "§ 15",
+              "title" : "Datenübermittlung für statistische Zwecke"
+            },
+            {
+              "documentIdentifier" : "BJNR136600012BJNE001801116",
+              "paragraph" : "§ 16",
+              "title" : "Protokollierungspflicht bei der Datenübermittlung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Datenübermittlung aus dem Nationalen Waffenregister"
+        }
+      ],
+      "title" : "Datenübermittlungen, Verantwortliche"
+    },
+    {
+      "documentIdentifier" : "BJNR136600012BJNG000500000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR136600012BJNE001901116",
+          "paragraph" : "§ 17",
+          "title" : "Zweckbindung bei der Datenverarbeitung"
+        },
+        {
+          "documentIdentifier" : "BJNR136600012BJNE002001118",
+          "paragraph" : "§ 18",
+          "title" : "Löschung von Daten"
+        },
+        {
+          "documentIdentifier" : "BJNR136600012BJNE002102116",
+          "paragraph" : "§ 19",
+          "title" : "Auskunftsrecht der betroffenen Person"
+        },
+        {
+          "documentIdentifier" : "BJNR136600012BJNE002700116",
+          "paragraph" : "§ 19a",
+          "title" : "Mitteilungspflicht im Zusammenhang mit der Berichtigung oder Löschung personenbezogener Daten oder der Einschränkung der Verarbeitung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Zweckbindung, Schutzrechte"
+    },
+    {
+      "documentIdentifier" : "BJNR136600012BJNG000600000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR136600012BJNE002201116",
+          "paragraph" : "§ 20",
+          "title" : "Verordnungsermächtigung"
+        },
+        {
+          "documentIdentifier" : "BJNR136600012BJNE002300000",
+          "paragraph" : "§ 21",
+          "title" : "Ausschluss abweichenden Landesrechts"
+        },
+        {
+          "documentIdentifier" : "BJNR136600012BJNE002400000",
+          "paragraph" : "§ 22",
+          "title" : "Erstmalige Übermittlung des Datenbestandes"
+        },
+        {
+          "documentIdentifier" : "BJNR136600012BJNE002500000",
+          "paragraph" : "§ 23",
+          "title" : "Einführungsbestimmung; Probebetrieb"
+        },
+        {
+          "documentIdentifier" : "BJNR136600012BJNE002600000",
+          "paragraph" : "§ 24",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussvorschriften"
+    }
+  ]
+}

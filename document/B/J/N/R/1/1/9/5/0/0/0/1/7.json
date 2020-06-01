@@ -1,0 +1,150 @@
+{
+  "documentIdentifier" : "BJNR119500017",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR119500017BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR119500017BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR119500017BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Bestimmungen"
+    },
+    {
+      "documentIdentifier" : "BJNR119500017BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR119500017BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Anrechnungsvoraussetzungen"
+        },
+        {
+          "documentIdentifier" : "BJNR119500017BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Nachweise durch den Verpflichteten"
+        },
+        {
+          "documentIdentifier" : "BJNR119500017BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Spezifische Nachweise für netzentkoppelte Anlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR119500017BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Spezifische Nachweise bei Vermeidung der Reduzierung der Einspeiseleistung von Anlagen zur Erzeugung von erneuerbarem Strom"
+        },
+        {
+          "documentIdentifier" : "BJNR119500017BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Spezifische Nachweise für Bestandsanlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR119500017BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Überprüfungsersuchen"
+        },
+        {
+          "documentIdentifier" : "BJNR119500017BJNE001000000",
+          "paragraph" : "§ 9",
+          "title" : "Bericht"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Anrechnung strombasierter Kraftstoffe"
+    },
+    {
+      "documentIdentifier" : "BJNR119500017BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR119500017BJNE001100000",
+          "paragraph" : "§ 10",
+          "title" : "Anrechnung von mitverarbeiteten biogenen Ölen auf die Treibhausgasquote"
+        },
+        {
+          "documentIdentifier" : "BJNR119500017BJNE001200000",
+          "paragraph" : "§ 11",
+          "title" : "Nachweis für mitverarbeitete biogene Öle"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Mitverarbeitete biogene Öle"
+    },
+    {
+      "documentIdentifier" : "BJNR119500017BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR119500017BJNE001300000",
+          "paragraph" : "§ 12",
+          "title" : "Zugänglichkeit der DIN-Normen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Zugänglichkeit der DIN-Normen"
+    },
+    {
+      "documentIdentifier" : "BJNR119500017BJNG000500000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR119500017BJNE001400000",
+          "paragraph" : "§ 13",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR119500017BJNE001500000",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 3)"
+        },
+        {
+          "documentIdentifier" : "BJNR119500017BJNE001600000",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 3)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussbestimmung"
+    }
+  ]
+}

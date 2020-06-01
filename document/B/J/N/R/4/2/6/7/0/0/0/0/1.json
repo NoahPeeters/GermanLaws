@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR426700001",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR426700001Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR426700001BJNE000202123",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR426700001BJNE000302123",
+          "paragraph" : "§ 2",
+          "title" : "Gebührenpflichtige Handlungen"
+        },
+        {
+          "documentIdentifier" : "BJNR426700001BJNE000402123",
+          "paragraph" : "§ 3",
+          "title" : "Auslagen"
+        },
+        {
+          "documentIdentifier" : "BJNR426700001BJNE000504123",
+          "paragraph" : "§ 4",
+          "title" : "Höhe der Gebühren"
+        },
+        {
+          "documentIdentifier" : "BJNR426700001BJNE000701123",
+          "paragraph" : "§ 6",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

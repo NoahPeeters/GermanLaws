@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR176510000",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR176510000Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR176510000BJNE000100305",
+          "paragraph" : "§ 1",
+          "title" : "Zweck, Umfang"
+        },
+        {
+          "documentIdentifier" : "BJNR176510000BJNE000201377",
+          "paragraph" : "§ 2",
+          "title" : "Erhebungsbereiche, Erhebungseinheiten"
+        },
+        {
+          "documentIdentifier" : "BJNR176510000BJNE000301377",
+          "paragraph" : "§ 3",
+          "title" : "Erhebungsmerkmale, Berichtszeitraum, Berichtszeitpunkt"
+        },
+        {
+          "documentIdentifier" : "BJNR176510000BJNE000401377",
+          "paragraph" : "§ 4",
+          "title" : "Hilfsmerkmale"
+        },
+        {
+          "documentIdentifier" : "BJNR176510000BJNE000502118",
+          "paragraph" : "§ 5",
+          "title" : "Auskunftspflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR176510000BJNE000600305",
+          "paragraph" : "§ 6",
+          "title" : "Übermittlungsregelung"
+        },
+        {
+          "documentIdentifier" : "BJNR176510000BJNE000700305",
+          "paragraph" : "§ 7",
+          "title" : "Verordnungsermächtigung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

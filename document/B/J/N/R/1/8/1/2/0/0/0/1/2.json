@@ -1,0 +1,129 @@
+{
+  "documentIdentifier" : "BJNR181200012",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR181200012BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR181200012BJNE000300000",
+          "paragraph" : "§ 1",
+          "title" : "Ergänzende Begriffsbestimmungen zum Gesetz"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Zu § 2 des Gesetzes"
+    },
+    {
+      "documentIdentifier" : "BJNR181200012BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR181200012BJNE000400000",
+          "paragraph" : "§ 2",
+          "title" : "Erteilung der Erlaubnis als steuerlicher Beauftragter"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Zu § 8 des Gesetzes"
+    },
+    {
+      "documentIdentifier" : "BJNR181200012BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR181200012BJNE000500000",
+          "paragraph" : "§ 3",
+          "title" : "Anzeichen für eine Gefährdung der Steuer"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Zu § 9 des Gesetzes"
+    },
+    {
+      "documentIdentifier" : "BJNR181200012BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR181200012BJNE000601360",
+          "paragraph" : "§ 4",
+          "title" : "Elektronische Datenübermittlung im Besteuerungsverfahren, Allgemeines"
+        },
+        {
+          "documentIdentifier" : "BJNR181200012BJNE000700000",
+          "paragraph" : "§ 5",
+          "title" : "Schnittstellen"
+        },
+        {
+          "documentIdentifier" : "BJNR181200012BJNE000801123",
+          "paragraph" : "§ 6",
+          "title" : "Authentifizierung, Datenübermittlung im Auftrag"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Zu den §§ 12 und 18 Absatz 3 des Gesetzes"
+    },
+    {
+      "documentIdentifier" : "BJNR181200012BJNG000600360",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR181200012BJNE001000360",
+          "paragraph" : "§ 6a",
+          "title" : "Kleinbetragsregelung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Zu § 156 Absatz 1 der Abgabenordnung"
+    },
+    {
+      "documentIdentifier" : "BJNR181200012BJNG000501360",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR181200012BJNE000900000",
+          "paragraph" : "§ 7",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inkrafttreten"
+    }
+  ]
+}

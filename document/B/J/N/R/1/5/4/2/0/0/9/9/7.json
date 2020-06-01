@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR154200997",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR154200997Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR154200997BJNE000501305",
+          "paragraph" : "§ 4",
+          "title" : "Nationalpark \"Vorpommersche Boddenlandschaft\""
+        },
+        {
+          "documentIdentifier" : "BJNR154200997BJNE000601305",
+          "paragraph" : "§ 5",
+          "title" : "Nationalpark \"Jasmund\""
+        },
+        {
+          "documentIdentifier" : "BJNR154200997BJNE000701305",
+          "paragraph" : "§ 6",
+          "title" : "Biosphärenreservat \"Südost-Rügen\""
+        },
+        {
+          "documentIdentifier" : "BJNR154200997BJNE001200310",
+          "paragraph" : "Anlage I",
+          "title" : "(zu § 1 Abs. 2)"
+        },
+        {
+          "documentIdentifier" : "BJNR154200997BJNE001300310",
+          "paragraph" : "Anlage II",
+          "title" : "(zu § 4 Abs. 1 und 2)\n"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

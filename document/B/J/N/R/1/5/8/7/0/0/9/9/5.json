@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR158700995",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR158700995Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR158700995BJNE000200310",
+          "paragraph" : "Anlage 1",
+          "title" : "Estnisches Kontrollzeichen für Gegenstände aus\nEdelmetall"
+        },
+        {
+          "documentIdentifier" : "BJNR158700995BJNE000300310",
+          "paragraph" : "Anlage 2",
+          "title" : "Estnisches Sicherheitszeichen für elektrische\nGeräte (blau oder schwarz)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "documentIdentifier" : "BJNR003010895",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR003010895BJNG000100319",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schiffseigner"
+    },
+    {
+      "documentIdentifier" : "BJNR003010895BJNG000200319",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schiffer"
+    },
+    {
+      "documentIdentifier" : "BJNR003010895BJNG000300319",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schiffsmannschaft"
+    },
+    {
+      "documentIdentifier" : "BJNR003010895BJNG000401377",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR003010895BJNE003702377",
+          "paragraph" : "(XXXX) §§ 28 bis 76",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Frachtgeschäft. Schiffsüberlassungsverträge"
+    },
+    {
+      "documentIdentifier" : "BJNR003010895BJNG001100309",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Beförderung von Reisenden und ihrem Gepäck"
+    },
+    {
+      "documentIdentifier" : "BJNR003010895BJNG000502377",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR003010895BJNE008902377",
+          "paragraph" : "(XXXX) §§ 79 bis 91",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Große Haverei"
+    },
+    {
+      "documentIdentifier" : "BJNR003010895BJNG000602308",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR003010895BJNE010903377",
+          "paragraph" : "§ 93",
+          "title" : "Bergung"
+        },
+        {
+          "documentIdentifier" : "BJNR003010895BJNE011001308",
+          "paragraph" : "(XXXX) §§ 94 bis 101",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Zusammenstoß von Schiffen. Bergung"
+    },
+    {
+      "documentIdentifier" : "BJNR003010895BJNG000701309",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          8
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schiffsgläubiger"
+    },
+    {
+      "documentIdentifier" : "BJNR003010895BJNG000801309",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          9
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Verjährung"
+    },
+    {
+      "documentIdentifier" : "BJNR003010895BJNG001000319",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR003010895BJNE888800301",
+          "paragraph" : "Anhang EV",
+          "title" : "Auszug aus EinigVtr Anlage I Kapitel III Sachgebiet D Abschnitt III"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          10
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlußbestimmungen"
+    }
+  ]
+}

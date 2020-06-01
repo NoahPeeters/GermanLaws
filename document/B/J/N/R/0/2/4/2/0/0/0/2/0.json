@@ -1,0 +1,59 @@
+{
+  "documentIdentifier" : "BJNR024200020",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR024200020Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR024200020BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR024200020BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Bereitstellen des Inhalts zum Abruf"
+        },
+        {
+          "documentIdentifier" : "BJNR024200020BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Einsichtnahme in Diensträumen"
+        },
+        {
+          "documentIdentifier" : "BJNR024200020BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Ausdruck"
+        },
+        {
+          "documentIdentifier" : "BJNR024200020BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Datenträger"
+        },
+        {
+          "documentIdentifier" : "BJNR024200020BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Belehrung"
+        },
+        {
+          "documentIdentifier" : "BJNR024200020BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Bekanntmachung"
+        },
+        {
+          "documentIdentifier" : "BJNR024200020BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

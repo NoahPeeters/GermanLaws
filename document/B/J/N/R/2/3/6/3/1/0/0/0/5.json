@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR236310005",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR236310005Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR236310005BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Zweckvermögen"
+        },
+        {
+          "documentIdentifier" : "BJNR236310005BJNE000202118",
+          "paragraph" : "§ 2",
+          "title" : "Verwendung des Zweckvermögens"
+        },
+        {
+          "documentIdentifier" : "BJNR236310005BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Wirtschaftsplan"
+        },
+        {
+          "documentIdentifier" : "BJNR236310005BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Verwaltungskosten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

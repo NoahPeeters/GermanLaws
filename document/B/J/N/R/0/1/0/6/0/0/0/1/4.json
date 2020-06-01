@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR010600014",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR010600014Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR010600014BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR010600014BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Umverteilungsprämie 2014"
+        },
+        {
+          "documentIdentifier" : "BJNR010600014BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Finanzvolumen und Beträge"
+        },
+        {
+          "documentIdentifier" : "BJNR010600014BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Mitteilungspflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR010600014BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Sonstige Bestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR010600014BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

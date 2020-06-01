@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR009060992",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR009060992Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR009060992BJNE000200314",
+          "paragraph" : "Art 1",
+          "title" : "Entschädigungsrentengesetz"
+        },
+        {
+          "documentIdentifier" : "BJNR009060992BJNE000300314",
+          "paragraph" : "Art 2",
+          "title" : "Rentenberechnung bei Bezug einer Entschädigungsrente"
+        },
+        {
+          "documentIdentifier" : "BJNR009060992BJNE000400314",
+          "paragraph" : "Art 3",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

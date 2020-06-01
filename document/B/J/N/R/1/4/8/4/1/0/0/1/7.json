@@ -1,0 +1,193 @@
+{
+  "documentIdentifier" : "BJNR148410017",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR148410017BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR148410017BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Fluggastdatenzentralstelle und Zweck des Fluggastdaten-Informationssystems"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Fluggastdatenzentralstelle und Zweck des Fluggastdaten-Informationssystems"
+    },
+    {
+      "documentIdentifier" : "BJNR148410017BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR148410017BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Datenübermittlung durch Luftfahrtunternehmen"
+        },
+        {
+          "documentIdentifier" : "BJNR148410017BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Datenübermittlung der durch andere Unternehmen erhobenen Fluggastdaten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übermittlung von Fluggastdaten an die Fluggastdatenzentralstelle"
+    },
+    {
+      "documentIdentifier" : "BJNR148410017BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR148410017BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Voraussetzungen für die Datenverarbeitung"
+        },
+        {
+          "documentIdentifier" : "BJNR148410017BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Depersonalisierung von Daten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Verarbeitung von Fluggastdaten durch die Fluggastdatenzentralstelle"
+    },
+    {
+      "documentIdentifier" : "BJNR148410017BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR148410017BJNE000600000",
+          "paragraph" : "§ 6",
+          "title" : "Datenübermittlung an die zuständigen Behörden im Inland"
+        },
+        {
+          "documentIdentifier" : "BJNR148410017BJNE000701000",
+          "paragraph" : "§ 7",
+          "title" : "Datenaustausch zwischen den Mitgliedstaaten der Europäischen Union"
+        },
+        {
+          "documentIdentifier" : "BJNR148410017BJNE000800000",
+          "paragraph" : "§ 8",
+          "title" : "Teilnahme an gemeinsamen Verfahren der Zusammenarbeit"
+        },
+        {
+          "documentIdentifier" : "BJNR148410017BJNE000900000",
+          "paragraph" : "§ 9",
+          "title" : "Datenübermittlung an Europol"
+        },
+        {
+          "documentIdentifier" : "BJNR148410017BJNE001000000",
+          "paragraph" : "§ 10",
+          "title" : "Datenübermittlung an Drittstaaten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übermittlung von Fluggastdaten durch die Fluggastdatenzentralstelle"
+    },
+    {
+      "documentIdentifier" : "BJNR148410017BJNG000500000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR148410017BJNE001100000",
+          "paragraph" : "§ 11",
+          "title" : "Nationale Kontrollstelle"
+        },
+        {
+          "documentIdentifier" : "BJNR148410017BJNE001200000",
+          "paragraph" : "§ 12",
+          "title" : "Die oder der Datenschutzbeauftragte der Fluggastdatenzentralstelle"
+        },
+        {
+          "documentIdentifier" : "BJNR148410017BJNE001300000",
+          "paragraph" : "§ 13",
+          "title" : "Löschung von Daten"
+        },
+        {
+          "documentIdentifier" : "BJNR148410017BJNE001401116",
+          "paragraph" : "§ 14",
+          "title" : "Protokollierung"
+        },
+        {
+          "documentIdentifier" : "BJNR148410017BJNE001500000",
+          "paragraph" : "§ 15",
+          "title" : "Dokumentationspflicht"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Datenschutzrechtliche Bestimmungen"
+    },
+    {
+      "documentIdentifier" : "BJNR148410017BJNG000600000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR148410017BJNE001600000",
+          "paragraph" : "§ 16",
+          "title" : "Geltung des Bundeskriminalamtgesetzes"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Geltung des Bundeskriminalamtgesetzes"
+    },
+    {
+      "documentIdentifier" : "BJNR148410017BJNG000700000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR148410017BJNE001700000",
+          "paragraph" : "§ 17",
+          "title" : "Gerichtliche Zuständigkeit, Verfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR148410017BJNE001801000",
+          "paragraph" : "§ 18",
+          "title" : "Bußgeldvorschriften"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussvorschriften"
+    }
+  ]
+}

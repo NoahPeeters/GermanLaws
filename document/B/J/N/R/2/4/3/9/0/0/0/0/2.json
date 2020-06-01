@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR243900002",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR243900002Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR243900002BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Berufe und Personengruppen"
+        },
+        {
+          "documentIdentifier" : "BJNR243900002BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Höhe der Vergütungen"
+        },
+        {
+          "documentIdentifier" : "BJNR243900002BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Übergangsregelung"
+        },
+        {
+          "documentIdentifier" : "BJNR243900002BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

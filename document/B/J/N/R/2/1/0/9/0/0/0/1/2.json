@@ -1,0 +1,74 @@
+{
+  "documentIdentifier" : "BJNR210900012",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR210900012Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR210900012BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Gegenstand"
+        },
+        {
+          "documentIdentifier" : "BJNR210900012BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Meisterprüfungsberufsbild"
+        },
+        {
+          "documentIdentifier" : "BJNR210900012BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Ziel und Gliederung des Teils I"
+        },
+        {
+          "documentIdentifier" : "BJNR210900012BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Meisterprüfungsprojekt"
+        },
+        {
+          "documentIdentifier" : "BJNR210900012BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Fachgespräch"
+        },
+        {
+          "documentIdentifier" : "BJNR210900012BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Prüfungsdauer und Bestehen des Teils I"
+        },
+        {
+          "documentIdentifier" : "BJNR210900012BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Ziel, Gliederung und Inhalt des Teils II"
+        },
+        {
+          "documentIdentifier" : "BJNR210900012BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Prüfungsdauer und Bestehen des Teils II"
+        },
+        {
+          "documentIdentifier" : "BJNR210900012BJNE001000000",
+          "paragraph" : "§ 9",
+          "title" : "Allgemeine Prüfungs- und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR210900012BJNE001100000",
+          "paragraph" : "§ 10",
+          "title" : "Übergangsvorschrift"
+        },
+        {
+          "documentIdentifier" : "BJNR210900012BJNE001200000",
+          "paragraph" : "§ 11",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

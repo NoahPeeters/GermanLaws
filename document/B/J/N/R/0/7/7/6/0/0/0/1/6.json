@@ -1,0 +1,59 @@
+{
+  "documentIdentifier" : "BJNR077600016",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR077600016Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR077600016BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR077600016BJNE000301118",
+          "paragraph" : "§ 2",
+          "title" : "Versicherungsmathematische Bestätigung"
+        },
+        {
+          "documentIdentifier" : "BJNR077600016BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Abgabe der versicherungsmathematischen Bestätigung"
+        },
+        {
+          "documentIdentifier" : "BJNR077600016BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Erläuterungsbericht"
+        },
+        {
+          "documentIdentifier" : "BJNR077600016BJNE000601118",
+          "paragraph" : "§ 5",
+          "title" : "Angemessenheitsbericht"
+        },
+        {
+          "documentIdentifier" : "BJNR077600016BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Vorlagefristen"
+        },
+        {
+          "documentIdentifier" : "BJNR077600016BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Übergangsvorschrift"
+        },
+        {
+          "documentIdentifier" : "BJNR077600016BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

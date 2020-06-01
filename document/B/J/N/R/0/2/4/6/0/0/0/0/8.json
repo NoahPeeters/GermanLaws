@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR024600008",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR024600008Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR024600008BJNE000200000",
+          "paragraph" : "Art 1",
+          "title" : "Änderung der Anlagen des Betäubungsmittelgesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR024600008BJNE000300000",
+          "paragraph" : "Art 2",
+          "title" : "Übergangsvorschrift"
+        },
+        {
+          "documentIdentifier" : "BJNR024600008BJNE000400000",
+          "paragraph" : "Art 3",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

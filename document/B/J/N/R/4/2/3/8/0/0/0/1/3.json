@@ -1,0 +1,677 @@
+{
+  "documentIdentifier" : "BJNR423800013",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR423800013BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR423800013BJNE000300000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR423800013BJNE000400000",
+          "paragraph" : "§ 2",
+          "title" : "Angemessenheit des Eigenkapitals"
+        },
+        {
+          "documentIdentifier" : "BJNR423800013BJNE000500000",
+          "paragraph" : "§ 3",
+          "title" : "Anrechnungspflichtige Positionen, Schuldnergesamtheit"
+        },
+        {
+          "documentIdentifier" : "BJNR423800013BJNE000600000",
+          "paragraph" : "§ 4",
+          "title" : "Auf fremde Währung lautende Positionen"
+        },
+        {
+          "documentIdentifier" : "BJNR423800013BJNE000700000",
+          "paragraph" : "§ 5",
+          "title" : "Meldungen zur Eigenkapitalausstattung"
+        },
+        {
+          "documentIdentifier" : "BJNR423800013BJNE000800000",
+          "paragraph" : "§ 6",
+          "title" : "Anzeigen bei Nichteinhaltung der Eigenkapitalanforderungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR423800013BJNG000200000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR423800013BJNG000300000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR423800013BJNE000900000",
+              "paragraph" : "§ 7",
+              "title" : "Adressenausfallrisikopositionen"
+            },
+            {
+              "documentIdentifier" : "BJNR423800013BJNE001000000",
+              "paragraph" : "§ 8",
+              "title" : "Bilanzielle Adressenausfallrisikopositionen"
+            },
+            {
+              "documentIdentifier" : "BJNR423800013BJNE001100000",
+              "paragraph" : "§ 9",
+              "title" : "Derivative Adressenausfallrisikopositionen"
+            },
+            {
+              "documentIdentifier" : "BJNR423800013BJNE001200000",
+              "paragraph" : "§ 10",
+              "title" : "Außerbilanzielle Adressenausfallrisikopositionen"
+            },
+            {
+              "documentIdentifier" : "BJNR423800013BJNE001300000",
+              "paragraph" : "§ 11",
+              "title" : "Vorleistungsrisikopositionen"
+            },
+            {
+              "documentIdentifier" : "BJNR423800013BJNE001400000",
+              "paragraph" : "§ 12",
+              "title" : "Abwicklungsrisikopositionen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Risikopositionen"
+        },
+        {
+          "documentIdentifier" : "BJNR423800013BJNG000400000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR423800013BJNE001500000",
+              "paragraph" : "§ 13",
+              "title" : "Ermittlung des Gesamtanrechnungsbetrags für Adressrisiken"
+            },
+            {
+              "documentIdentifier" : "BJNR423800013BJNE001600000",
+              "paragraph" : "§ 14",
+              "title" : "Ermittlung der risikogewichteten KSA-Positionswerte für Adressenausfallrisikopositionen"
+            },
+            {
+              "documentIdentifier" : "BJNR423800013BJNE001700000",
+              "paragraph" : "§ 15",
+              "title" : "Gesamtanrechnungsbetrag für Abwicklungsrisiken"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Gesamtanrechnungsbetrag für Adressrisiken"
+        },
+        {
+          "documentIdentifier" : "BJNR423800013BJNG000500000",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              3
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR423800013BJNG000600000",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR423800013BJNE001800000",
+                  "paragraph" : "§ 16",
+                  "title" : "Zuordnung von KSA-Positionen zu KSA-Forderungsklassen"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  3,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "KSA-Forderungsklassen"
+            },
+            {
+              "documentIdentifier" : "BJNR423800013BJNG000700000",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR423800013BJNE001900000",
+                  "paragraph" : "§ 17",
+                  "title" : "KSA-Risikogewicht für Zentralregierungen"
+                },
+                {
+                  "documentIdentifier" : "BJNR423800013BJNE002000000",
+                  "paragraph" : "§ 18",
+                  "title" : "KSA-Risikogewicht für Regionalregierungen und örtliche Gebietskörperschaften"
+                },
+                {
+                  "documentIdentifier" : "BJNR423800013BJNE002100000",
+                  "paragraph" : "§ 19",
+                  "title" : "KSA-Risikogewicht für sonstige öffentliche Stellen"
+                },
+                {
+                  "documentIdentifier" : "BJNR423800013BJNE002200000",
+                  "paragraph" : "§ 20",
+                  "title" : "KSA-Risikogewicht für multilaterale Entwicklungsbanken"
+                },
+                {
+                  "documentIdentifier" : "BJNR423800013BJNE002300000",
+                  "paragraph" : "§ 21",
+                  "title" : "KSA-Risikogewicht für internationale Organisationen"
+                },
+                {
+                  "documentIdentifier" : "BJNR423800013BJNE002400000",
+                  "paragraph" : "§ 22",
+                  "title" : "KSA-Risikogewicht für Institute"
+                },
+                {
+                  "documentIdentifier" : "BJNR423800013BJNE002500000",
+                  "paragraph" : "§ 23",
+                  "title" : "KSA-Risikogewicht für von Kreditinstituten emittierte gedeckte Schuldverschreibungen"
+                },
+                {
+                  "documentIdentifier" : "BJNR423800013BJNE002600000",
+                  "paragraph" : "§ 24",
+                  "title" : "KSA-Risikogewicht für Unternehmen"
+                },
+                {
+                  "documentIdentifier" : "BJNR423800013BJNE002700000",
+                  "paragraph" : "§ 25",
+                  "title" : "KSA-Risikogewicht für das Mengengeschäft"
+                },
+                {
+                  "documentIdentifier" : "BJNR423800013BJNE002800000",
+                  "paragraph" : "§ 26",
+                  "title" : "KSA-Risikogewicht für Investmentanteile"
+                },
+                {
+                  "documentIdentifier" : "BJNR423800013BJNE002900000",
+                  "paragraph" : "§ 27",
+                  "title" : "KSA-Risikogewicht für Beteiligungen"
+                },
+                {
+                  "documentIdentifier" : "BJNR423800013BJNE003000000",
+                  "paragraph" : "§ 28",
+                  "title" : "KSA-Risikogewicht für sonstige Positionen"
+                },
+                {
+                  "documentIdentifier" : "BJNR423800013BJNE003100000",
+                  "paragraph" : "§ 29",
+                  "title" : "KSA-Risikogewicht für überfällige Positionen"
+                },
+                {
+                  "documentIdentifier" : "BJNR423800013BJNE003200000",
+                  "paragraph" : "§ 30",
+                  "title" : "Benennung von Exportversicherungsagenturen"
+                },
+                {
+                  "documentIdentifier" : "BJNR423800013BJNE003300000",
+                  "paragraph" : "§ 31",
+                  "title" : "Verwendung von Länderklassifizierungen"
+                },
+                {
+                  "documentIdentifier" : "BJNR423800013BJNE003400000",
+                  "paragraph" : "§ 32",
+                  "title" : "Maßgebliche Länderklassifizierungen"
+                },
+                {
+                  "documentIdentifier" : "BJNR423800013BJNE003500000",
+                  "paragraph" : "§ 33",
+                  "title" : "Maßgebliche Länderklassifizierung einer beurteilten KSA-Position"
+                },
+                {
+                  "documentIdentifier" : "BJNR423800013BJNE003600000",
+                  "paragraph" : "§ 34",
+                  "title" : "Verwendungsfähige Länderklassifizierungen von Exportversicherungsagenturen"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  3,
+                  2
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "KSA-Risikogewicht"
+            },
+            {
+              "documentIdentifier" : "BJNR423800013BJNG000800000",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR423800013BJNE003700000",
+                  "paragraph" : "§ 35",
+                  "title" : "KSA-Positionswert"
+                },
+                {
+                  "documentIdentifier" : "BJNR423800013BJNE003800000",
+                  "paragraph" : "§ 36",
+                  "title" : "KSA-Bemessungsgrundlage"
+                },
+                {
+                  "documentIdentifier" : "BJNR423800013BJNE003900000",
+                  "paragraph" : "§ 37",
+                  "title" : "Bemessungsgrundlage für derivative Adressenausfallrisikopositionen"
+                },
+                {
+                  "documentIdentifier" : "BJNR423800013BJNE004000000",
+                  "paragraph" : "§ 38",
+                  "title" : "Marktbewerteter Wiedereindeckungsaufwand"
+                },
+                {
+                  "documentIdentifier" : "BJNR423800013BJNE004100000",
+                  "paragraph" : "§ 39",
+                  "title" : "Gegenwärtiger potenzieller Wiedereindeckungsaufwand"
+                },
+                {
+                  "documentIdentifier" : "BJNR423800013BJNE004200000",
+                  "paragraph" : "§ 40",
+                  "title" : "Künftig zu erwartende Erhöhung des gegenwärtigen potenziellen Wiedereindeckungsaufwands"
+                },
+                {
+                  "documentIdentifier" : "BJNR423800013BJNE004300000",
+                  "paragraph" : "§ 41",
+                  "title" : "Marktbewerteter Anspruch aus einem Derivat"
+                },
+                {
+                  "documentIdentifier" : "BJNR423800013BJNE004400000",
+                  "paragraph" : "§ 42",
+                  "title" : "Für den Wiedereindeckungsaufwand maßgebliche Laufzeit"
+                },
+                {
+                  "documentIdentifier" : "BJNR423800013BJNE004500000",
+                  "paragraph" : "§ 43",
+                  "title" : "Laufzeitbewerteter Wiedereindeckungsaufwand"
+                },
+                {
+                  "documentIdentifier" : "BJNR423800013BJNE004600000",
+                  "paragraph" : "§ 44",
+                  "title" : "KSA-Konversionsfaktor"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  3,
+                  3
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "KSA-Positionswert"
+            },
+            {
+              "documentIdentifier" : "BJNR423800013BJNG000900000",
+              "laws" : [
+
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  3,
+                  4
+                ]
+              },
+              "subsections" : [
+                {
+                  "documentIdentifier" : "BJNR423800013BJNG001000000",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR423800013BJNE004700000",
+                      "paragraph" : "§ 45",
+                      "title" : "Anrechnung der risikogewichteten KSA-Positionswerte für Verbriefungspositionen"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR423800013BJNE004800000",
+                      "paragraph" : "§ 46",
+                      "title" : "Verbriefungstransaktion"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR423800013BJNE004900000",
+                      "paragraph" : "§ 47",
+                      "title" : "Verbriefungspositionen, Verbriefungstranchen"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR423800013BJNE005000000",
+                      "paragraph" : "§ 48",
+                      "title" : "Verbrieftes Portfolio"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR423800013BJNE005100000",
+                      "paragraph" : "§ 49",
+                      "title" : "Originator, Sponsor, Investor"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR423800013BJNE005200000",
+                      "paragraph" : "§ 50",
+                      "title" : "Sonstige Begriffsbestimmungen für Verbriefungen"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      2,
+                      3,
+                      4,
+                      1
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Anrechnung von Verbriefungspositionen, Begriffsbestimmungen"
+                },
+                {
+                  "documentIdentifier" : "BJNR423800013BJNG001100000",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR423800013BJNE005300000",
+                      "paragraph" : "§ 51",
+                      "title" : "Mindestanforderungen an einen wesentlichen und wirksamen Risikotransfer"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR423800013BJNE005400000",
+                      "paragraph" : "§ 52",
+                      "title" : "Verbot der impliziten Unterstützung von Verbriefungstransaktionen"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      2,
+                      3,
+                      4,
+                      2
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Anforderungen an Wohnungsunternehmen mit Spareinrichtung, die als Originator oder Sponsor von Verbriefungstransaktionen gelten"
+                },
+                {
+                  "documentIdentifier" : "BJNR423800013BJNG001200000",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR423800013BJNE005500000",
+                      "paragraph" : "§ 53",
+                      "title" : "KSA-Bemessungsgrundlage einer Verbriefungsposition"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR423800013BJNE005600000",
+                      "paragraph" : "§ 54",
+                      "title" : "KSA-Positionswert einer Verbriefungsposition"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR423800013BJNE005700000",
+                      "paragraph" : "§ 55",
+                      "title" : "Risikogewichteter KSA-Positionswert einer Verbriefungsposition"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR423800013BJNE005800000",
+                      "paragraph" : "§ 56",
+                      "title" : "KSA-Verbriefungsrisikogewicht für Verbriefungspositionen"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR423800013BJNE005900000",
+                      "paragraph" : "§ 57",
+                      "title" : "Maximaler risikogewichteter KSA-Positionswert einer KSA-Verbriefungstransaktion"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      2,
+                      3,
+                      4,
+                      3
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Anrechnung von Verbriefungstransaktionen"
+                },
+                {
+                  "documentIdentifier" : "BJNR423800013BJNG001300000",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR423800013BJNE006000000",
+                      "paragraph" : "§ 58",
+                      "title" : "Abzugsbetrag von Verbriefungspositionen"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      2,
+                      3,
+                      4,
+                      4
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Abzugsbeträge für Verbriefungspositionen"
+                }
+              ],
+              "title" : "Verbriefungen"
+            }
+          ],
+          "title" : "Kreditrisiko-Standardansatz"
+        }
+      ],
+      "title" : "Adressrisiken"
+    },
+    {
+      "documentIdentifier" : "BJNR423800013BJNG001400000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR423800013BJNG001500000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR423800013BJNE006100000",
+              "paragraph" : "§ 59",
+              "title" : "Begriffsbestimmung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Allgemeine Vorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR423800013BJNG001600000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR423800013BJNE006200000",
+              "paragraph" : "§ 60",
+              "title" : "Berechnung des Anrechnungsbetrags"
+            },
+            {
+              "documentIdentifier" : "BJNR423800013BJNE006300000",
+              "paragraph" : "§ 61",
+              "title" : "Definition des relevanten Indikators"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Basisindikatoransatz"
+        }
+      ],
+      "title" : "Operationelle Risiken"
+    },
+    {
+      "documentIdentifier" : "BJNR423800013BJNG001700000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR423800013BJNG001800000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR423800013BJNE006400000",
+              "paragraph" : "§ 62",
+              "title" : "Ermittlung und Anrechnung der Währungsgesamtposition"
+            },
+            {
+              "documentIdentifier" : "BJNR423800013BJNE006500000",
+              "paragraph" : "§ 63",
+              "title" : "Aktiv- und Passivpositionen"
+            },
+            {
+              "documentIdentifier" : "BJNR423800013BJNE006600000",
+              "paragraph" : "§ 64",
+              "title" : "Berücksichtigung von Optionsgeschäften"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Währungsgesamtposition"
+        },
+        {
+          "documentIdentifier" : "BJNR423800013BJNG001900000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR423800013BJNE006700000",
+              "paragraph" : "§ 65",
+              "title" : "Ermittlung und Anrechnung der Rohwarenposition"
+            },
+            {
+              "documentIdentifier" : "BJNR423800013BJNE006800000",
+              "paragraph" : "§ 66",
+              "title" : "Zeitfächermethode"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Rohwarenposition"
+        },
+        {
+          "documentIdentifier" : "BJNR423800013BJNG002000000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR423800013BJNE006900000",
+              "paragraph" : "§ 67",
+              "title" : "Ermittlung und Anrechnung der anderen Marktrisikopositionen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Andere Marktrisikopositionen"
+        }
+      ],
+      "title" : "Marktrisiken"
+    },
+    {
+      "documentIdentifier" : "BJNR423800013BJNG002100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR423800013BJNE007000000",
+          "paragraph" : "§ 68",
+          "title" : "Übergangsbestimmungen für die Eigenkapitalausstattung und -berechnung"
+        },
+        {
+          "documentIdentifier" : "BJNR423800013BJNE007100000",
+          "paragraph" : "§ 69",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR423800013BJNE007300000",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 5 Absatz 1)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übergangs- und Schlussbestimmungen"
+    }
+  ]
+}

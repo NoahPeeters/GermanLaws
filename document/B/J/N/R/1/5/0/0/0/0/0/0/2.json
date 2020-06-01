@@ -1,0 +1,131 @@
+{
+  "documentIdentifier" : "BJNR150000002",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR150000002BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR150000002BJNE000105118",
+          "paragraph" : "§ 1",
+          "title" : "Bezeichnung, Aufbau und Organisation der Bundesanstalt"
+        },
+        {
+          "documentIdentifier" : "BJNR150000002BJNE001400118",
+          "paragraph" : "§ 1a",
+          "title" : "Geschäftsbereich Abwicklung"
+        },
+        {
+          "documentIdentifier" : "BJNR150000002BJNE000202360",
+          "paragraph" : "§ 2",
+          "title" : "Rechte und Pflichten der Organe der Bundesanstalt"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Aufbau und Geschäftsführung"
+    },
+    {
+      "documentIdentifier" : "BJNR150000002BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR150000002BJNE000304124",
+          "paragraph" : "§ 3",
+          "title" : "Bestellung und Abberufung der Mitglieder des Verwaltungsrats"
+        },
+        {
+          "documentIdentifier" : "BJNR150000002BJNE000404124",
+          "paragraph" : "§ 4",
+          "title" : "Befugnisse des Verwaltungsrats"
+        },
+        {
+          "documentIdentifier" : "BJNR150000002BJNE000501124",
+          "paragraph" : "§ 5",
+          "title" : "Vertretung des Verwaltungsrats"
+        },
+        {
+          "documentIdentifier" : "BJNR150000002BJNE000603124",
+          "paragraph" : "§ 6",
+          "title" : "Sitzungen des Verwaltungsrats"
+        },
+        {
+          "documentIdentifier" : "BJNR150000002BJNE000700000",
+          "paragraph" : "§ 7",
+          "title" : "Verfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR150000002BJNE000804124",
+          "paragraph" : "§ 8",
+          "title" : "Fachbeirat"
+        },
+        {
+          "documentIdentifier" : "BJNR150000002BJNE001301124",
+          "paragraph" : "§ 8a",
+          "title" : "Verbraucherbeirat"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Verwaltungsrat"
+    },
+    {
+      "documentIdentifier" : "BJNR150000002BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR150000002BJNE000902360",
+          "paragraph" : "§ 9",
+          "title" : "Haushaltsplan"
+        },
+        {
+          "documentIdentifier" : "BJNR150000002BJNE001002310",
+          "paragraph" : "§ 10",
+          "title" : "Haushalt"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Haushaltsführung"
+    },
+    {
+      "documentIdentifier" : "BJNR150000002BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR150000002BJNE001100000",
+          "paragraph" : "§ 11",
+          "title" : "Übergang von Rechten und Pflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR150000002BJNE001201360",
+          "paragraph" : "§ 12",
+          "title" : "Veröffentlichung der Satzung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übergang von Rechten und Pflichten, Veröffentlichung"
+    }
+  ]
+}

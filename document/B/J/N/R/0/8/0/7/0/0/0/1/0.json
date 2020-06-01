@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR080700010",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR080700010Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR080700010BJNE000202301",
+          "paragraph" : "§ 1",
+          "title" : "Gebührenerhebung"
+        },
+        {
+          "documentIdentifier" : "BJNR080700010BJNE000301301",
+          "paragraph" : "§ 2",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR080700010BJNE000401301",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 1)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "documentIdentifier" : "BJNR022600995",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR022600995BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR022600995BJNE000301124",
+          "paragraph" : "§ 1",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR022600995BJNE000405124",
+          "paragraph" : "§ 2",
+          "title" : "Kennzeichnungspflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR022600995BJNE000502305",
+          "paragraph" : "§ 3",
+          "title" : "Ausnahmen"
+        },
+        {
+          "documentIdentifier" : "BJNR022600995BJNE000602305",
+          "paragraph" : "§ 4",
+          "title" : "Amtliche Kennzeichen"
+        },
+        {
+          "documentIdentifier" : "BJNR022600995BJNE000700000",
+          "paragraph" : "§ 5",
+          "title" : "Amtlich anerkannte Kennzeichen"
+        },
+        {
+          "documentIdentifier" : "BJNR022600995BJNE000801301",
+          "paragraph" : "§ 6",
+          "title" : "Urkunden"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR022600995BJNG000900000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR022600995BJNE001006118",
+          "paragraph" : "§ 7",
+          "title" : "Antrag"
+        },
+        {
+          "documentIdentifier" : "BJNR022600995BJNE001102305",
+          "paragraph" : "§ 8",
+          "title" : "Zuteilung des Kennzeichens, Ausstellung des Ausweises"
+        },
+        {
+          "documentIdentifier" : "BJNR022600995BJNE001204305",
+          "paragraph" : "§ 9",
+          "title" : "Änderungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Verfahren"
+    },
+    {
+      "documentIdentifier" : "BJNR022600995BJNG001300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR022600995BJNE001401308",
+          "paragraph" : "§ 10",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR022600995BJNE001502301",
+          "paragraph" : "§ 11",
+          "title" : "Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR022600995BJNE001800000",
+          "paragraph" : "§ 14",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR022600995BJNE002002305",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 8 Abs. 2)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlußvorschriften"
+    }
+  ]
+}

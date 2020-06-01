@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR021030988",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR021030988Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR021030988BJNE000200326",
+          "paragraph" : "(XXXX) Art 1 und Art 2",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR021030988BJNE000300326",
+          "paragraph" : "Art 3",
+          "title" : "Gemeinsame Neufassung"
+        },
+        {
+          "documentIdentifier" : "BJNR021030988BJNE000400326",
+          "paragraph" : "Art 4",
+          "title" : "Berlin-Klausel"
+        },
+        {
+          "documentIdentifier" : "BJNR021030988BJNE000500326",
+          "paragraph" : "Art 5",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

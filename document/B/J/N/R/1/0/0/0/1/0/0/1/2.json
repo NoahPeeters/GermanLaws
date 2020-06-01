@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR100010012",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR100010012Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR100010012BJNE000102360",
+          "paragraph" : "§ 1",
+          "title" : "Anspruchsvoraussetzungen"
+        },
+        {
+          "documentIdentifier" : "BJNR100010012BJNE000201116",
+          "paragraph" : "§ 2",
+          "title" : "Bereitschaftsdienst"
+        },
+        {
+          "documentIdentifier" : "BJNR100010012BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Rufbereitschaft"
+        },
+        {
+          "documentIdentifier" : "BJNR100010012BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Gesamtzeit"
+        },
+        {
+          "documentIdentifier" : "BJNR100010012BJNE000501116",
+          "paragraph" : "§ 5",
+          "title" : "Vergütung bei Vollzeitbeschäftigung"
+        },
+        {
+          "documentIdentifier" : "BJNR100010012BJNE000600000",
+          "paragraph" : "§ 6",
+          "title" : "Vergütung bei Teilzeitbeschäftigung"
+        },
+        {
+          "documentIdentifier" : "BJNR100010012BJNE000700000",
+          "paragraph" : "§ 7",
+          "title" : "Ausschluss des Vergütungsanspruchs"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

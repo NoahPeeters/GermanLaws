@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR063000009",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR063000009Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR063000009BJNE000201377",
+          "paragraph" : "§ 1",
+          "title" : "Gegenstand, Form und Frist der Meldung"
+        },
+        {
+          "documentIdentifier" : "BJNR063000009BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Inhalt der Meldung"
+        },
+        {
+          "documentIdentifier" : "BJNR063000009BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Meldepflichtiger"
+        },
+        {
+          "documentIdentifier" : "BJNR063000009BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Ordnungswidrigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR063000009BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

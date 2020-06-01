@@ -1,0 +1,126 @@
+{
+  "documentIdentifier" : "BJNR218610008",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR218610008BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR218610008BJNE000101377",
+          "paragraph" : "§ 1",
+          "title" : "Schlachtnummer"
+        },
+        {
+          "documentIdentifier" : "BJNR218610008BJNE000203125",
+          "paragraph" : "§ 2",
+          "title" : "Verwiegung, Schnittführung"
+        },
+        {
+          "documentIdentifier" : "BJNR218610008BJNE000301377",
+          "paragraph" : "§ 3",
+          "title" : "Protokoll"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Bestimmungen"
+    },
+    {
+      "documentIdentifier" : "BJNR218610008BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR218610008BJNE000402360",
+          "paragraph" : "§ 4",
+          "title" : "Preismeldepflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR218610008BJNE000502125",
+          "paragraph" : "§ 5",
+          "title" : "Ausnahmen"
+        },
+        {
+          "documentIdentifier" : "BJNR218610008BJNE000601125",
+          "paragraph" : "§ 6",
+          "title" : "Inhalt der Preismeldung"
+        },
+        {
+          "documentIdentifier" : "BJNR218610008BJNE000700000",
+          "paragraph" : "§ 7",
+          "title" : "Verfahren der Preismeldung"
+        },
+        {
+          "documentIdentifier" : "BJNR218610008BJNE000801377",
+          "paragraph" : "§ 8",
+          "title" : "Preisfeststellung"
+        },
+        {
+          "documentIdentifier" : "BJNR218610008BJNE000900000",
+          "paragraph" : "§ 9",
+          "title" : "Festlegung der Meldegebiete"
+        },
+        {
+          "documentIdentifier" : "BJNR218610008BJNE001001377",
+          "paragraph" : "§ 10",
+          "title" : "Muster"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Preismeldungen"
+    },
+    {
+      "documentIdentifier" : "BJNR218610008BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR218610008BJNE001101377",
+          "paragraph" : "§ 11",
+          "title" : "Auskunftspflichten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Auskunftspflichten"
+    },
+    {
+      "documentIdentifier" : "BJNR218610008BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR218610008BJNE001200000",
+          "paragraph" : "§ 12",
+          "title" : "Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR218610008BJNE001300125",
+          "paragraph" : "§ 13",
+          "title" : "Überwachung, Duldungs- und Auskunftspflichten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Ordnungswidrigkeiten"
+    }
+  ]
+}

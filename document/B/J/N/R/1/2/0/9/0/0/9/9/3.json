@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR120900993",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR120900993Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR120900993BJNE000200307",
+          "paragraph" : "§ 1",
+          "title" : "Bundesanstalt für Arbeit"
+        },
+        {
+          "documentIdentifier" : "BJNR120900993BJNE000301320",
+          "paragraph" : "§ 2",
+          "title" : "*Ku Bundesversicherungsanstalt für Angestellte,\nLandesversicherungsanstalt Oldenburg-Bremen, Bundesknappschaft *KE"
+        },
+        {
+          "documentIdentifier" : "BJNR120900993BJNE000400307",
+          "paragraph" : "§ 3",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

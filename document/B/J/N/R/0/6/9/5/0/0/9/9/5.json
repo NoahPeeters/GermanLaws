@@ -1,0 +1,209 @@
+{
+  "documentIdentifier" : "BJNR069500995",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR069500995BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR069500995BJNE000302311",
+          "paragraph" : "§ 1",
+          "title" : "Inhalt der Datensätze"
+        },
+        {
+          "documentIdentifier" : "BJNR069500995BJNE000402311",
+          "paragraph" : "§ 2",
+          "title" : "AZR-Nummer"
+        },
+        {
+          "documentIdentifier" : "BJNR069500995BJNE000501311",
+          "paragraph" : "§ 3",
+          "title" : "Berichtigung eines Datensatzes"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt des Registers"
+    },
+    {
+      "documentIdentifier" : "BJNR069500995BJNG000600000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR069500995BJNE000706311",
+          "paragraph" : "§ 4",
+          "title" : "Allgemeine Regelungen"
+        },
+        {
+          "documentIdentifier" : "BJNR069500995BJNE000806311",
+          "paragraph" : "§ 5",
+          "title" : "Verfahren der Datenübermittlung"
+        },
+        {
+          "documentIdentifier" : "BJNR069500995BJNE000903311",
+          "paragraph" : "§ 6",
+          "title" : "Begründungstexte"
+        },
+        {
+          "documentIdentifier" : "BJNR069500995BJNE001007311",
+          "paragraph" : "§ 7",
+          "title" : "Übermittlungssperren"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Datenübermittlung an die Registerbehörde"
+    },
+    {
+      "documentIdentifier" : "BJNR069500995BJNG001100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR069500995BJNE001214311",
+          "paragraph" : "§ 8",
+          "title" : "Übermittlungsersuchen"
+        },
+        {
+          "documentIdentifier" : "BJNR069500995BJNE001304311",
+          "paragraph" : "§ 9",
+          "title" : "Allgemeine Regelungen der Datenübermittlung durch die Registerbehörde"
+        },
+        {
+          "documentIdentifier" : "BJNR069500995BJNE001402311",
+          "paragraph" : "§ 10",
+          "title" : "Zulassung zum Abruf im automatisierten Verfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR069500995BJNE001502116",
+          "paragraph" : "§ 11",
+          "title" : "Gruppenauskünfte an öffentliche Stellen"
+        },
+        {
+          "documentIdentifier" : "BJNR069500995BJNE001600000",
+          "paragraph" : "§ 12",
+          "title" : "Datenübermittlung an nichtöffentliche Stellen,\ndie humanitäre oder soziale Aufgaben wahrnehmen"
+        },
+        {
+          "documentIdentifier" : "BJNR069500995BJNE001702311",
+          "paragraph" : "§ 13",
+          "title" : "Datenübermittlung an Behörden anderer Staaten und an zwischenstaatliche Stellen"
+        },
+        {
+          "documentIdentifier" : "BJNR069500995BJNE001800000",
+          "paragraph" : "§ 14",
+          "title" : "Datenübermittlung an sonstige nichtöffentliche Stellen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Datenübermittlung durch die Registerbehörde"
+    },
+    {
+      "documentIdentifier" : "BJNR069500995BJNG001901311",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR069500995BJNE002001311",
+          "paragraph" : "§ 15",
+          "title" : "Voraussetzungen und Verfahren der Auskunftserteilung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Auskunft an die betroffene Person"
+    },
+    {
+      "documentIdentifier" : "BJNR069500995BJNG002101311",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR069500995BJNE002201311",
+          "paragraph" : "§ 16",
+          "title" : "Aufzeichnungen bei Datenübermittlungen"
+        },
+        {
+          "documentIdentifier" : "BJNR069500995BJNE002301311",
+          "paragraph" : "§ 17",
+          "title" : "Einschränkung der Verarbeitung"
+        },
+        {
+          "documentIdentifier" : "BJNR069500995BJNE002406310",
+          "paragraph" : "§ 18",
+          "title" : "Löschung von Daten, Löschungsfristen im allgemeinen Datenbestand"
+        },
+        {
+          "documentIdentifier" : "BJNR069500995BJNE002501320",
+          "paragraph" : "§ 19",
+          "title" : "Löschung von Daten, Löschungsfristen in der Visadatei"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Aufzeichnungen bei Datenübermittlungen, Einschränkung der Verarbeitung und Löschung von Daten"
+    },
+    {
+      "documentIdentifier" : "BJNR069500995BJNG002601116",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR069500995BJNE003301116",
+          "paragraph" : "§ 19a",
+          "title" : "Auswirkungen späterer Rechtsänderungen auf den Registerbestand"
+        },
+        {
+          "documentIdentifier" : "BJNR069500995BJNE003401116",
+          "paragraph" : "§ 19b",
+          "title" : "Auswirkungen eines späteren Wechsels des Personenkreises auf den Datensatz zu einer Person"
+        },
+        {
+          "documentIdentifier" : "BJNR069500995BJNE002705116",
+          "paragraph" : "§ 20",
+          "title" : "Übergangsregelung aus Anlass des Inkrafttretens des Zuwanderungsgesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR069500995BJNE002802310",
+          "paragraph" : "§ 21",
+          "title" : "Übergangsregelung aus Anlass des Inkrafttretens des Gesetzes zur Umsetzung aufenthaltsrechtlicher Richtlinien der Europäischen Union und zur Anpassung nationaler Rechtsvorschriften an den EU-Visakodex"
+        },
+        {
+          "documentIdentifier" : "BJNR069500995BJNE003613311",
+          "paragraph" : "Anlage",
+          "title" : "Daten, die im Register gespeichert werden, übermittelnde Stellen, Übermittlungs-\/Weitergabeempfänger"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlußvorschriften"
+    }
+  ]
+}

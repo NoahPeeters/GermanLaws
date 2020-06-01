@@ -1,0 +1,196 @@
+{
+  "documentIdentifier" : "BJNR010000015",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR010000015BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR010000015BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Bachelorstudium"
+        },
+        {
+          "documentIdentifier" : "BJNR010000015BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Ziele des Studiums"
+        },
+        {
+          "documentIdentifier" : "BJNR010000015BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Laufbahnbefähigung, Hochschulgrad"
+        },
+        {
+          "documentIdentifier" : "BJNR010000015BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Dienstbehörden"
+        },
+        {
+          "documentIdentifier" : "BJNR010000015BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Einstellungsvoraussetzungen"
+        },
+        {
+          "documentIdentifier" : "BJNR010000015BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Auswahlverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR010000015BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Urlaub"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeines"
+    },
+    {
+      "documentIdentifier" : "BJNR010000015BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR010000015BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Dauer und Aufbau des Studiums"
+        },
+        {
+          "documentIdentifier" : "BJNR010000015BJNE001000000",
+          "paragraph" : "§ 9",
+          "title" : "Studieninhalte, Module"
+        },
+        {
+          "documentIdentifier" : "BJNR010000015BJNE001100000",
+          "paragraph" : "§ 10",
+          "title" : "Berufspraktische Studienzeiten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Studienordnung"
+    },
+    {
+      "documentIdentifier" : "BJNR010000015BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR010000015BJNE001200000",
+          "paragraph" : "§ 11",
+          "title" : "Laufbahnprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR010000015BJNE001301116",
+          "paragraph" : "§ 12",
+          "title" : "Zuständigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR010000015BJNE001401116",
+          "paragraph" : "§ 13",
+          "title" : "Prüfende, Prüfungskommission"
+        },
+        {
+          "documentIdentifier" : "BJNR010000015BJNE001500000",
+          "paragraph" : "§ 14",
+          "title" : "Modulprüfungen, qualifizierte Teilnahmenachweise"
+        },
+        {
+          "documentIdentifier" : "BJNR010000015BJNE001601116",
+          "paragraph" : "§ 15",
+          "title" : "Bachelorarbeit"
+        },
+        {
+          "documentIdentifier" : "BJNR010000015BJNE001701116",
+          "paragraph" : "§ 16",
+          "title" : "Verteidigung der Bachelorarbeit"
+        },
+        {
+          "documentIdentifier" : "BJNR010000015BJNE001800000",
+          "paragraph" : "§ 17",
+          "title" : "Bewertung der Prüfungen und Prüfungsteile"
+        },
+        {
+          "documentIdentifier" : "BJNR010000015BJNE001900000",
+          "paragraph" : "§ 18",
+          "title" : "Fernbleiben, Rücktritt"
+        },
+        {
+          "documentIdentifier" : "BJNR010000015BJNE002000000",
+          "paragraph" : "§ 19",
+          "title" : "Täuschung, Ordnungsverstoß"
+        },
+        {
+          "documentIdentifier" : "BJNR010000015BJNE002100000",
+          "paragraph" : "§ 20",
+          "title" : "Wiederholung von Prüfungen"
+        },
+        {
+          "documentIdentifier" : "BJNR010000015BJNE002200000",
+          "paragraph" : "§ 21",
+          "title" : "Bestehen der Laufbahnprüfung, Gesamtnote"
+        },
+        {
+          "documentIdentifier" : "BJNR010000015BJNE002300000",
+          "paragraph" : "§ 22",
+          "title" : "Abschlusszeugnis, Diploma Supplement"
+        },
+        {
+          "documentIdentifier" : "BJNR010000015BJNE002400000",
+          "paragraph" : "§ 23",
+          "title" : "Prüfungsakten, Einsichtnahme"
+        },
+        {
+          "documentIdentifier" : "BJNR010000015BJNE002500000",
+          "paragraph" : "§ 24",
+          "title" : "Anerkennung von Studien- und Prüfungsleistungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Prüfungen"
+    },
+    {
+      "documentIdentifier" : "BJNR010000015BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR010000015BJNE002600000",
+          "paragraph" : "§ 25",
+          "title" : "Übergangsregelung für Studierende, die vor dem 1. Oktober 2009 mit dem Vorbereitungsdienst begonnen haben"
+        },
+        {
+          "documentIdentifier" : "BJNR010000015BJNE002700000",
+          "paragraph" : "§ 26",
+          "title" : "Übergangsregelung für Studierende, die vor dem 1. April 2014 mit dem Vorbereitungsdienst begonnen haben"
+        },
+        {
+          "documentIdentifier" : "BJNR010000015BJNE002800000",
+          "paragraph" : "§ 27",
+          "title" : "Übergangsregelung für Studierende, die vor dem 1. Oktober 2014 mit dem Vorbereitungsdienst begonnen haben"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übergangsvorschriften"
+    }
+  ]
+}

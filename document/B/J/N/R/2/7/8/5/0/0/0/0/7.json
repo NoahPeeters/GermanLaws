@@ -1,0 +1,64 @@
+{
+  "documentIdentifier" : "BJNR278500007",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR278500007Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR278500007BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Einreichung der Anzeigen"
+        },
+        {
+          "documentIdentifier" : "BJNR278500007BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Inhalt der Anzeigen"
+        },
+        {
+          "documentIdentifier" : "BJNR278500007BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Bestätigung der fachlichen Eignung und Zuverlässigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR278500007BJNE000501118",
+          "paragraph" : "§ 4",
+          "title" : "Inhalt des Registers"
+        },
+        {
+          "documentIdentifier" : "BJNR278500007BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Verantwortlichkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR278500007BJNE000701118",
+          "paragraph" : "§ 6",
+          "title" : "Einsichtnahme in das Register"
+        },
+        {
+          "documentIdentifier" : "BJNR278500007BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Dauer der Einsehbarkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR278500007BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Übergangsvorschrift"
+        },
+        {
+          "documentIdentifier" : "BJNR278500007BJNE001000000",
+          "paragraph" : "§ 9",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

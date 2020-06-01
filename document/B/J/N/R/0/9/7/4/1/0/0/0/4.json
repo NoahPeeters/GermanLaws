@@ -1,0 +1,117 @@
+{
+  "documentIdentifier" : "BJNR097410004",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR097410004BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR097410004BJNE000103119",
+          "paragraph" : "§ 1",
+          "title" : "Erfasste Unternehmen"
+        },
+        {
+          "documentIdentifier" : "BJNR097410004BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Konzern"
+        },
+        {
+          "documentIdentifier" : "BJNR097410004BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Arbeitnehmer, Betrieb"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Geltungsbereich"
+    },
+    {
+      "documentIdentifier" : "BJNR097410004BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR097410004BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Zusammensetzung"
+        },
+        {
+          "documentIdentifier" : "BJNR097410004BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Wahl der Aufsichtsratsmitglieder der Arbeitnehmer"
+        },
+        {
+          "documentIdentifier" : "BJNR097410004BJNE000600000",
+          "paragraph" : "§ 6",
+          "title" : "Wahlvorschläge"
+        },
+        {
+          "documentIdentifier" : "BJNR097410004BJNE000700000",
+          "paragraph" : "§ 7",
+          "title" : "Ersatzmitglieder"
+        },
+        {
+          "documentIdentifier" : "BJNR097410004BJNE000801140",
+          "paragraph" : "§ 8",
+          "title" : "Bekanntmachung der Mitglieder des Aufsichtsrats"
+        },
+        {
+          "documentIdentifier" : "BJNR097410004BJNE000900000",
+          "paragraph" : "§ 9",
+          "title" : "Schutz von Aufsichtsratsmitgliedern vor Benachteiligung"
+        },
+        {
+          "documentIdentifier" : "BJNR097410004BJNE001000000",
+          "paragraph" : "§ 10",
+          "title" : "Wahlschutz und Wahlkosten"
+        },
+        {
+          "documentIdentifier" : "BJNR097410004BJNE001101140",
+          "paragraph" : "§ 11",
+          "title" : "Anfechtung der Wahl von Aufsichtsratsmitgliedern der Arbeitnehmer"
+        },
+        {
+          "documentIdentifier" : "BJNR097410004BJNE001200000",
+          "paragraph" : "§ 12",
+          "title" : "Abberufung von Aufsichtsratsmitgliedern der Arbeitnehmer"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Aufsichtsrat"
+    },
+    {
+      "documentIdentifier" : "BJNR097410004BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR097410004BJNE001300000",
+          "paragraph" : "§ 13",
+          "title" : "Ermächtigung zum Erlass von Rechtsverordnungen"
+        },
+        {
+          "documentIdentifier" : "BJNR097410004BJNE001400000",
+          "paragraph" : "§ 14",
+          "title" : "Verweisungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übergangs- und Schlussvorschriften"
+    }
+  ]
+}

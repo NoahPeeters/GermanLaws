@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR006070961",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR006070961BJNG000100311",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Erster Abschnitt"
+    },
+    {
+      "documentIdentifier" : "BJNR006070961BJNG000200311",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR006070961BJNE001000311",
+          "paragraph" : "(XXXX) §§ 7 bis 10",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Zweiter Abschnitt"
+    },
+    {
+      "documentIdentifier" : "BJNR006070961BJNG000300311",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Dritter Abschnitt"
+    }
+  ]
+}

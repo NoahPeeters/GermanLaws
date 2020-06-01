@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR003570970",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR003570970Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR003570970BJNE000200304",
+          "paragraph" : "§ 1",
+          "title" : "Sachlicher Geltungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR003570970BJNE000300304",
+          "paragraph" : "§ 2",
+          "title" : "Bemessung des lebensnotwendigen Bedarfs an\nTrinkwasser"
+        },
+        {
+          "documentIdentifier" : "BJNR003570970BJNE000400304",
+          "paragraph" : "§ 3",
+          "title" : "Beschaffenheit des Trinkwassers"
+        },
+        {
+          "documentIdentifier" : "BJNR003570970BJNE000500304",
+          "paragraph" : "§ 4",
+          "title" : "Bemessung des Bedarfs an Betriebswasser im\nunentbehrlichen Umfang"
+        },
+        {
+          "documentIdentifier" : "BJNR003570970BJNE000600304",
+          "paragraph" : "§ 5",
+          "title" : "Beschaffenheit des Betriebswassers"
+        },
+        {
+          "documentIdentifier" : "BJNR003570970BJNE000700304",
+          "paragraph" : "§ 6",
+          "title" : "Bemessung des Bedarfs an Löschwasser"
+        },
+        {
+          "documentIdentifier" : "BJNR003570970BJNE000800304",
+          "paragraph" : "§ 7",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

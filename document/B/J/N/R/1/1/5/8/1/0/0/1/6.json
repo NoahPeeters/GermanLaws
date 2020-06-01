@@ -1,0 +1,151 @@
+{
+  "documentIdentifier" : "BJNR115810016",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR115810016BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR115810016BJNE000201123",
+          "paragraph" : "§ 1",
+          "title" : "Zweck und Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR115810016BJNE000301123",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeines"
+    },
+    {
+      "documentIdentifier" : "BJNR115810016BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR115810016BJNE000401123",
+          "paragraph" : "§ 3",
+          "title" : "Grundsätze"
+        },
+        {
+          "documentIdentifier" : "BJNR115810016BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Anzeigepflicht für Steuerbegünstigungen"
+        },
+        {
+          "documentIdentifier" : "BJNR115810016BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Erklärungspflicht für Steuerentlastungen"
+        },
+        {
+          "documentIdentifier" : "BJNR115810016BJNE000702123",
+          "paragraph" : "§ 6",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR115810016BJNE000802123",
+          "paragraph" : "§ 7",
+          "title" : "Elektronische Datenübermittlung, Ausnahme"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Veröffentlichungs-, Informations- und Transparenzpflichten"
+    },
+    {
+      "documentIdentifier" : "BJNR115810016BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR115810016BJNE000901360",
+          "paragraph" : "§ 8",
+          "title" : "Verarbeitung der erhobenen Daten"
+        },
+        {
+          "documentIdentifier" : "BJNR115810016BJNE001000000",
+          "paragraph" : "§ 9",
+          "title" : "Datenübermittlung im innerstaatlichen Bereich"
+        },
+        {
+          "documentIdentifier" : "BJNR115810016BJNE001101123",
+          "paragraph" : "§ 10",
+          "title" : "Datenübermittlung an die Kommission"
+        },
+        {
+          "documentIdentifier" : "BJNR115810016BJNE001200000",
+          "paragraph" : "§ 11",
+          "title" : "Berichtigung, Speicherung und Löschung der erhobenen Daten"
+        },
+        {
+          "documentIdentifier" : "BJNR115810016BJNE001301123",
+          "paragraph" : "§ 12",
+          "title" : "Elektronische Datenbank"
+        },
+        {
+          "documentIdentifier" : "BJNR115810016BJNE001402123",
+          "paragraph" : "§ 13",
+          "title" : "Datenschutzrechtliche Verantwortung"
+        },
+        {
+          "documentIdentifier" : "BJNR115810016BJNE001500000",
+          "paragraph" : "§ 14",
+          "title" : "Einsichtnahme"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Datenschutzrechtliche Regelungen"
+    },
+    {
+      "documentIdentifier" : "BJNR115810016BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR115810016BJNE001801123",
+          "paragraph" : "§ 15",
+          "title" : "Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR115810016BJNE001900360",
+          "paragraph" : "§ 16",
+          "title" : "Steueraufsicht"
+        },
+        {
+          "documentIdentifier" : "BJNR115810016BJNE001602123",
+          "paragraph" : "§ 17",
+          "title" : "Geltungszeitraum"
+        },
+        {
+          "documentIdentifier" : "BJNR115810016BJNE001702123",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 2 Absatz 1)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussbestimmungen"
+    }
+  ]
+}

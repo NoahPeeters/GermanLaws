@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR268800002",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR268800002Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR268800002BJNE000101377",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR268800002BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Zuständige Stelle"
+        },
+        {
+          "documentIdentifier" : "BJNR268800002BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Duldungs- und Mitwirkungspflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR268800002BJNE000403301",
+          "paragraph" : "§ 4",
+          "title" : "Ermächtigung zum Erlass von Rechtsverordnungen"
+        },
+        {
+          "documentIdentifier" : "BJNR268800002BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Bußgeldvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR268800002BJNE000600000",
+          "paragraph" : "§ 6",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

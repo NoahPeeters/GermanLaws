@@ -1,0 +1,83 @@
+{
+  "documentIdentifier" : "BJNR018300989",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR018300989BJNG000100308",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR018300989BJNE000201116",
+          "paragraph" : "§ 1",
+          "title" : "Errichtung und Sitz"
+        },
+        {
+          "documentIdentifier" : "BJNR018300989BJNE000305116",
+          "paragraph" : "§ 2",
+          "title" : "Aufgaben"
+        },
+        {
+          "documentIdentifier" : "BJNR018300989BJNE000401116",
+          "paragraph" : "§ 3",
+          "title" : "Fachaufsicht"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Errichtung eines Bundesamtes für Strahlenschutz"
+    },
+    {
+      "documentIdentifier" : "BJNR018300989BJNG000500308",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR018300989BJNE000506116",
+          "paragraph" : "§ 4",
+          "title" : "Gebühren und Auslagen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Art 2 und 3"
+    },
+    {
+      "documentIdentifier" : "BJNR018300989BJNG000600308",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Berlin-Klausel"
+    },
+    {
+      "documentIdentifier" : "BJNR018300989BJNG000700308",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inkrafttreten"
+    }
+  ]
+}

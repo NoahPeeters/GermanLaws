@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR513400953",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR513400953Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR513400953BJNE000200303",
+          "paragraph" : "§ 1",
+          "title" : "Geltungsbereich und Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR513400953BJNE000300303",
+          "paragraph" : "§ 2",
+          "title" : "Hinterlegung der Bonds"
+        },
+        {
+          "documentIdentifier" : "BJNR513400953BJNE000400303",
+          "paragraph" : "§ 3",
+          "title" : "Beweisführung"
+        },
+        {
+          "documentIdentifier" : "BJNR513400953BJNE000500303",
+          "paragraph" : "§ 4",
+          "title" : "Gesetzliche Schiedsgerichte"
+        },
+        {
+          "documentIdentifier" : "BJNR513400953BJNE000600303",
+          "paragraph" : "§ 5",
+          "title" : "Zustellungen"
+        },
+        {
+          "documentIdentifier" : "BJNR513400953BJNE000700303",
+          "paragraph" : "§ 6",
+          "title" : "Land Berlin"
+        },
+        {
+          "documentIdentifier" : "BJNR513400953BJNE000800303",
+          "paragraph" : "§ 7",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

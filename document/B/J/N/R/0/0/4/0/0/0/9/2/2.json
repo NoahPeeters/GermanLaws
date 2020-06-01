@@ -1,0 +1,94 @@
+{
+  "documentIdentifier" : "BJNR004000922",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR004000922Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR004000922BJNE000105140",
+          "paragraph" : "§ 1",
+          "title" : "Gegenstand der Steuer"
+        },
+        {
+          "documentIdentifier" : "BJNR004000922BJNE000201301",
+          "paragraph" : "§ 2",
+          "title" : "Versicherungsverträge"
+        },
+        {
+          "documentIdentifier" : "BJNR004000922BJNE000302140",
+          "paragraph" : "§ 3",
+          "title" : "Versicherungsentgelt"
+        },
+        {
+          "documentIdentifier" : "BJNR004000922BJNE000419377",
+          "paragraph" : "§ 4",
+          "title" : "Ausnahmen von der Besteuerung"
+        },
+        {
+          "documentIdentifier" : "BJNR004000922BJNE000507123",
+          "paragraph" : "§ 5",
+          "title" : "Steuerberechnung, Steuerentstehung, Steuerausweis"
+        },
+        {
+          "documentIdentifier" : "BJNR004000922BJNE000612123",
+          "paragraph" : "§ 6",
+          "title" : "Steuersatz"
+        },
+        {
+          "documentIdentifier" : "BJNR004000922BJNE000704140",
+          "paragraph" : "§ 7",
+          "title" : "Steuerschuldner, Steuerentrichtungsschuldner, Haftende"
+        },
+        {
+          "documentIdentifier" : "BJNR004000922BJNE001407140",
+          "paragraph" : "§ 7a",
+          "title" : "Zuständigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR004000922BJNE000807140",
+          "paragraph" : "§ 8",
+          "title" : "Anmeldung, Fälligkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR004000922BJNE000903140",
+          "paragraph" : "§ 9",
+          "title" : "Erstattung, Nachentrichtung der Steuer"
+        },
+        {
+          "documentIdentifier" : "BJNR004000922BJNE001007140",
+          "paragraph" : "§ 10",
+          "title" : "Aufzeichnungspflichten, Außenprüfung, Änderung nach Außenprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR004000922BJNE001202140",
+          "paragraph" : "§ 10a",
+          "title" : "Mitteilungspflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR004000922BJNE001306301",
+          "paragraph" : "§ 10b",
+          "title" : "Anwendungsvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR004000922BJNE001104140",
+          "paragraph" : "§ 11",
+          "title" : "Ermächtigungen"
+        },
+        {
+          "documentIdentifier" : "BJNR004000922BJNE001700140",
+          "paragraph" : "§ 12",
+          "title" : "Übergangsvorschrift"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

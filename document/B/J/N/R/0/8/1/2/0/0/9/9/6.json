@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR081200996",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR081200996Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR081200996BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR081200996BJNE000301320",
+          "paragraph" : "§ 2",
+          "title" : "Inhalt der Meldepflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR081200996BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Assoziierungsverhältnis"
+        },
+        {
+          "documentIdentifier" : "BJNR081200996BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Schätzung"
+        },
+        {
+          "documentIdentifier" : "BJNR081200996BJNE000601320",
+          "paragraph" : "§ 5",
+          "title" : "Änderungen der Vertragszugehörigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR081200996BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

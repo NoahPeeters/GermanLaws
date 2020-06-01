@@ -1,0 +1,243 @@
+{
+  "documentIdentifier" : "BJNR265500013",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR265500013BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR265500013BJNE000202311",
+          "paragraph" : "§ 1",
+          "title" : "Geltungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR265500013BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Kostenfreiheit"
+        },
+        {
+          "documentIdentifier" : "BJNR265500013BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Kostenfreie Amtshandlungen"
+        },
+        {
+          "documentIdentifier" : "BJNR265500013BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Höhe der Kosten"
+        },
+        {
+          "documentIdentifier" : "BJNR265500013BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Verjährung, Verzinsung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR265500013BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR265500013BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Fälligkeit der Kosten im Allgemeinen"
+        },
+        {
+          "documentIdentifier" : "BJNR265500013BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Fälligkeit bestimmter Auslagen"
+        },
+        {
+          "documentIdentifier" : "BJNR265500013BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Vorschuss"
+        },
+        {
+          "documentIdentifier" : "BJNR265500013BJNE001000000",
+          "paragraph" : "§ 9",
+          "title" : "Zurückbehaltungsrecht"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Fälligkeit und Sicherstellung der Kosten"
+    },
+    {
+      "documentIdentifier" : "BJNR265500013BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR265500013BJNE001100000",
+          "paragraph" : "§ 10",
+          "title" : "Ermäßigung der Gebühren und Absehen von der Kostenerhebung"
+        },
+        {
+          "documentIdentifier" : "BJNR265500013BJNE001200000",
+          "paragraph" : "§ 11",
+          "title" : "Absehen von der Kostenerhebung wegen des öffentlichen Interesses"
+        },
+        {
+          "documentIdentifier" : "BJNR265500013BJNE001300000",
+          "paragraph" : "§ 12",
+          "title" : "Nichterhebung von Kosten in bestimmten Fällen"
+        },
+        {
+          "documentIdentifier" : "BJNR265500013BJNE001400000",
+          "paragraph" : "§ 13",
+          "title" : "Nichterhebung von Kosten bei unrichtiger Sachbehandlung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Kostenerhebung"
+    },
+    {
+      "documentIdentifier" : "BJNR265500013BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR265500013BJNE001501311",
+          "paragraph" : "§ 14",
+          "title" : "Amtshandlungen auf Antrag"
+        },
+        {
+          "documentIdentifier" : "BJNR265500013BJNE001600000",
+          "paragraph" : "§ 15",
+          "title" : "Datenabruf aus einem Register oder dem Grundbuch"
+        },
+        {
+          "documentIdentifier" : "BJNR265500013BJNE002800311",
+          "paragraph" : "§ 15a",
+          "title" : "Schutzschriftenregister"
+        },
+        {
+          "documentIdentifier" : "BJNR265500013BJNE001700000",
+          "paragraph" : "§ 16",
+          "title" : "Unternehmensregister"
+        },
+        {
+          "documentIdentifier" : "BJNR265500013BJNE002900311",
+          "paragraph" : "§ 16a",
+          "title" : "Behördliche Schlichtung nach § 57a des Luftverkehrsgesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR265500013BJNE001801311",
+          "paragraph" : "§ 17",
+          "title" : "Mahnung bei der Forderungseinziehung nach dem Justizbeitreibungsgesetz"
+        },
+        {
+          "documentIdentifier" : "BJNR265500013BJNE001900000",
+          "paragraph" : "§ 18",
+          "title" : "Weitere Fälle der Kostenhaftung"
+        },
+        {
+          "documentIdentifier" : "BJNR265500013BJNE002000000",
+          "paragraph" : "§ 19",
+          "title" : "Mehrere Kostenschuldner"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Kostenhaftung"
+    },
+    {
+      "documentIdentifier" : "BJNR265500013BJNG000500000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR265500013BJNE002100000",
+          "paragraph" : "§ 20",
+          "title" : "Übermittlung gerichtlicher Entscheidungen"
+        },
+        {
+          "documentIdentifier" : "BJNR265500013BJNE002200000",
+          "paragraph" : "§ 21",
+          "title" : "Auskunft für wissenschaftliche Forschungsvorhaben"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Öffentlich-rechtlicher Vertrag"
+    },
+    {
+      "documentIdentifier" : "BJNR265500013BJNG000600000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR265500013BJNE002301311",
+          "paragraph" : "§ 22",
+          "title" : "Einwendungen und gerichtliches Verfahren"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Rechtsbehelf und gerichtliches Verfahren"
+    },
+    {
+      "documentIdentifier" : "BJNR265500013BJNG000700000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR265500013BJNE002401311",
+          "paragraph" : "§ 23",
+          "title" : "Bekanntmachung von Neufassungen"
+        },
+        {
+          "documentIdentifier" : "BJNR265500013BJNE002500000",
+          "paragraph" : "§ 24",
+          "title" : "Übergangsvorschrift"
+        },
+        {
+          "documentIdentifier" : "BJNR265500013BJNE002600000",
+          "paragraph" : "§ 25",
+          "title" : "Übergangsvorschrift aus Anlass des Inkrafttretens dieses Gesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR265500013BJNE002713125",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 4 Absatz 1)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schluss- und Übergangsvorschriften"
+    }
+  ]
+}

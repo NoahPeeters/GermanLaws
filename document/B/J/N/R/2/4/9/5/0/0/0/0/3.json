@@ -1,0 +1,69 @@
+{
+  "documentIdentifier" : "BJNR249500003",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR249500003Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR249500003BJNE000201308",
+          "paragraph" : "§ 1",
+          "title" : "Anwendung der Arbeitszeitverordnung"
+        },
+        {
+          "documentIdentifier" : "BJNR249500003BJNE000306308",
+          "paragraph" : "§ 2",
+          "title" : "Regelmäßige Arbeitszeit"
+        },
+        {
+          "documentIdentifier" : "BJNR249500003BJNE000404308",
+          "paragraph" : "§ 3",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR249500003BJNE000501308",
+          "paragraph" : "§ 4",
+          "title" : "Gleitende Arbeitszeit"
+        },
+        {
+          "documentIdentifier" : "BJNR249500003BJNE000601308",
+          "paragraph" : "§ 5",
+          "title" : "Ruhepausen"
+        },
+        {
+          "documentIdentifier" : "BJNR249500003BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Nachtdienst"
+        },
+        {
+          "documentIdentifier" : "BJNR249500003BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Erprobung neuer Arbeitszeitmodelle"
+        },
+        {
+          "documentIdentifier" : "BJNR249500003BJNE001001308",
+          "paragraph" : "§ 8",
+          "title" : "Arbeitszeit bei einem anderen Unternehmen oder einer öffentlichen Einrichtung"
+        },
+        {
+          "documentIdentifier" : "BJNR249500003BJNE001100305",
+          "paragraph" : "§ 9",
+          "title" : "Lebensarbeitszeitkonten"
+        },
+        {
+          "documentIdentifier" : "BJNR249500003BJNE000902305",
+          "paragraph" : "§ 10",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

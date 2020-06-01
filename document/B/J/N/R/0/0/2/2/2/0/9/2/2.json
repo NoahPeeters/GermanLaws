@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR002220922",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR002220922Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR002220922BJNE000200308",
+          "paragraph" : "Anlage",
+          "title" : "Zusatzvertrag mit Preußen"
+        },
+        {
+          "documentIdentifier" : "BJNR002220922BJNE000300308",
+          "paragraph" : "Anlage",
+          "title" : "Zusatzvertrag mit Hamburg"
+        },
+        {
+          "documentIdentifier" : "BJNR002220922BJNE000400308",
+          "paragraph" : "Anlage",
+          "title" : "Zusatzvertrag mit Bremen"
+        },
+        {
+          "documentIdentifier" : "BJNR002220922BJNE000500308",
+          "paragraph" : "Anlage",
+          "title" : "Zusatzvertrag mit Lübeck"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

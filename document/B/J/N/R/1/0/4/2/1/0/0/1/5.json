@@ -1,0 +1,428 @@
+{
+  "documentIdentifier" : "BJNR104210015",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR104210015BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR104210015BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Anwendungsbereich"
+    },
+    {
+      "documentIdentifier" : "BJNR104210015BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR104210015BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Örtliche Zuständigkeit"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Bürgerliche Streitigkeiten"
+    },
+    {
+      "documentIdentifier" : "BJNR104210015BJNG000300000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR104210015BJNG000400000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR104210015BJNE000400000",
+              "paragraph" : "§ 3",
+              "title" : "Zuständigkeit"
+            },
+            {
+              "documentIdentifier" : "BJNR104210015BJNE000500000",
+              "paragraph" : "§ 4",
+              "title" : "Antragstellung"
+            },
+            {
+              "documentIdentifier" : "BJNR104210015BJNE000600000",
+              "paragraph" : "§ 5",
+              "title" : "Verfahren"
+            },
+            {
+              "documentIdentifier" : "BJNR104210015BJNE000700000",
+              "paragraph" : "§ 6",
+              "title" : "Vollstreckbarkeit ausländischer Titel in Sonderfällen"
+            },
+            {
+              "documentIdentifier" : "BJNR104210015BJNE000800000",
+              "paragraph" : "§ 7",
+              "title" : "Entscheidung"
+            },
+            {
+              "documentIdentifier" : "BJNR104210015BJNE000900000",
+              "paragraph" : "§ 8",
+              "title" : "Vollstreckungsklausel"
+            },
+            {
+              "documentIdentifier" : "BJNR104210015BJNE001000000",
+              "paragraph" : "§ 9",
+              "title" : "Bekanntgabe der Entscheidung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Vollstreckbarkeit ausländischer Titel"
+        },
+        {
+          "documentIdentifier" : "BJNR104210015BJNG000500000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR104210015BJNE001100000",
+              "paragraph" : "§ 10",
+              "title" : "Beschwerdegericht; Einlegung der Beschwerde"
+            },
+            {
+              "documentIdentifier" : "BJNR104210015BJNE001200000",
+              "paragraph" : "§ 11",
+              "title" : "Beschwerdeverfahren und Entscheidung über die Beschwerde"
+            },
+            {
+              "documentIdentifier" : "BJNR104210015BJNE001300000",
+              "paragraph" : "§ 12",
+              "title" : "Statthaftigkeit und Frist der Rechtsbeschwerde"
+            },
+            {
+              "documentIdentifier" : "BJNR104210015BJNE001400000",
+              "paragraph" : "§ 13",
+              "title" : "Einlegung und Begründung der Rechtsbeschwerde"
+            },
+            {
+              "documentIdentifier" : "BJNR104210015BJNE001500000",
+              "paragraph" : "§ 14",
+              "title" : "Verfahren und Entscheidung über die Rechtsbeschwerde"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Beschwerde; Rechtsbeschwerde"
+        },
+        {
+          "documentIdentifier" : "BJNR104210015BJNG000600000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR104210015BJNE001600000",
+              "paragraph" : "§ 15",
+              "title" : "Prüfung der Beschränkung"
+            },
+            {
+              "documentIdentifier" : "BJNR104210015BJNE001700000",
+              "paragraph" : "§ 16",
+              "title" : "Sicherheitsleistung durch den Schuldner"
+            },
+            {
+              "documentIdentifier" : "BJNR104210015BJNE001800000",
+              "paragraph" : "§ 17",
+              "title" : "Versteigerung beweglicher Sachen"
+            },
+            {
+              "documentIdentifier" : "BJNR104210015BJNE001900000",
+              "paragraph" : "§ 18",
+              "title" : "Unbeschränkte Fortsetzung der Zwangsvollstreckung; besondere gerichtliche Anordnungen"
+            },
+            {
+              "documentIdentifier" : "BJNR104210015BJNE002000000",
+              "paragraph" : "§ 19",
+              "title" : "Unbeschränkte Fortsetzung der durch das Gericht des ersten Rechtszuges zugelassenen Zwangsvollstreckung"
+            },
+            {
+              "documentIdentifier" : "BJNR104210015BJNE002100000",
+              "paragraph" : "§ 20",
+              "title" : "Unbeschränkte Fortsetzung der durch das Beschwerdegericht zugelassenen Zwangsvollstreckung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Beschränkung der Zwangsvollstreckung auf Sicherungsmaßregeln und unbeschränkte Fortsetzung der Zwangsvollstreckung"
+        },
+        {
+          "documentIdentifier" : "BJNR104210015BJNG000700000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR104210015BJNE002200000",
+              "paragraph" : "§ 21",
+              "title" : "Verfahren"
+            },
+            {
+              "documentIdentifier" : "BJNR104210015BJNE002300000",
+              "paragraph" : "§ 22",
+              "title" : "Kostenentscheidung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Feststellung der Anerkennung einer ausländischen Entscheidung"
+        },
+        {
+          "documentIdentifier" : "BJNR104210015BJNG000800000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR104210015BJNE002400000",
+              "paragraph" : "§ 23",
+              "title" : "Vollstreckungsabwehrklage"
+            },
+            {
+              "documentIdentifier" : "BJNR104210015BJNE002500000",
+              "paragraph" : "§ 24",
+              "title" : "Verfahren nach Aufhebung oder Änderung eines für vollstreckbar erklärten ausländischen Titels im Ursprungsmitgliedstaat"
+            },
+            {
+              "documentIdentifier" : "BJNR104210015BJNE002600000",
+              "paragraph" : "§ 25",
+              "title" : "Aufhebung oder Änderung einer ausländischen Entscheidung, deren Anerkennung festgestellt ist"
+            },
+            {
+              "documentIdentifier" : "BJNR104210015BJNE002700000",
+              "paragraph" : "§ 26",
+              "title" : "Schadensersatz wegen ungerechtfertigter Vollstreckung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              5
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Vollstreckungsabwehrklage; besonderes Verfahren; Schadensersatz"
+        },
+        {
+          "documentIdentifier" : "BJNR104210015BJNG000900000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR104210015BJNE002800000",
+              "paragraph" : "§ 27",
+              "title" : "Bescheinigungen zu inländischen Titeln"
+            },
+            {
+              "documentIdentifier" : "BJNR104210015BJNE002900000",
+              "paragraph" : "§ 28",
+              "title" : "Vervollständigung inländischer Entscheidungen zur Verwendung im Ausland"
+            },
+            {
+              "documentIdentifier" : "BJNR104210015BJNE003000000",
+              "paragraph" : "§ 29",
+              "title" : "Vollstreckungsklausel zur Verwendung im Ausland"
+            },
+            {
+              "documentIdentifier" : "BJNR104210015BJNE003100000",
+              "paragraph" : "§ 30",
+              "title" : "Mahnverfahren mit Zustellung im Ausland"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              6
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Entscheidungen deutscher Gerichte; Mahnverfahren"
+        }
+      ],
+      "title" : "Zulassung der Zwangsvollstreckung aus ausländischen Titeln; Anerkennungsfeststellung"
+    },
+    {
+      "documentIdentifier" : "BJNR104210015BJNG001000000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR104210015BJNE003200000",
+          "paragraph" : "§ 31",
+          "title" : "Entgegennahme von Erklärungen"
+        },
+        {
+          "documentIdentifier" : "BJNR104210015BJNE003300000",
+          "paragraph" : "§ 32",
+          "title" : "Aneignungsrecht"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Entgegennahme von Erklärungen; Aneignungsrecht"
+    },
+    {
+      "documentIdentifier" : "BJNR104210015BJNG001100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR104210015BJNE003400000",
+          "paragraph" : "§ 33",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR104210015BJNE003500000",
+          "paragraph" : "§ 34",
+          "title" : "Örtliche und sachliche Zuständigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR104210015BJNE003600000",
+          "paragraph" : "§ 35",
+          "title" : "Allgemeine Verfahrensvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR104210015BJNE003700000",
+          "paragraph" : "§ 36",
+          "title" : "Ausstellung eines Europäischen Nachlasszeugnisses"
+        },
+        {
+          "documentIdentifier" : "BJNR104210015BJNE003800000",
+          "paragraph" : "§ 37",
+          "title" : "Beteiligte"
+        },
+        {
+          "documentIdentifier" : "BJNR104210015BJNE003900000",
+          "paragraph" : "§ 38",
+          "title" : "Änderung oder Widerruf eines Europäischen Nachlasszeugnisses"
+        },
+        {
+          "documentIdentifier" : "BJNR104210015BJNE004000000",
+          "paragraph" : "§ 39",
+          "title" : "Art der Entscheidung"
+        },
+        {
+          "documentIdentifier" : "BJNR104210015BJNE004100000",
+          "paragraph" : "§ 40",
+          "title" : "Bekanntgabe der Entscheidung"
+        },
+        {
+          "documentIdentifier" : "BJNR104210015BJNE004200000",
+          "paragraph" : "§ 41",
+          "title" : "Wirksamwerden"
+        },
+        {
+          "documentIdentifier" : "BJNR104210015BJNE004300000",
+          "paragraph" : "§ 42",
+          "title" : "Gültigkeitsfrist der beglaubigten Abschrift eines Europäischen Nachlasszeugnisses"
+        },
+        {
+          "documentIdentifier" : "BJNR104210015BJNE004400000",
+          "paragraph" : "§ 43",
+          "title" : "Beschwerde"
+        },
+        {
+          "documentIdentifier" : "BJNR104210015BJNE004500000",
+          "paragraph" : "§ 44",
+          "title" : "Rechtsbeschwerde"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Europäisches Nachlasszeugnis"
+    },
+    {
+      "documentIdentifier" : "BJNR104210015BJNG001200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR104210015BJNE004600000",
+          "paragraph" : "§ 45",
+          "title" : "Aussetzung des inländischen Verfahrens"
+        },
+        {
+          "documentIdentifier" : "BJNR104210015BJNE004700000",
+          "paragraph" : "§ 46",
+          "title" : "Authentizität einer deutschen öffentlichen Urkunde"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Authentizität von Urkunden"
+    },
+    {
+      "documentIdentifier" : "BJNR104210015BJNG001300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR104210015BJNE004800000",
+          "paragraph" : "§ 47",
+          "title" : "Sonstige örtliche Zuständigkeit"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Zuständigkeit in sonstigen Angelegenheiten der freiwilligen Gerichtsbarkeit"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR010950983",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR010950983Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR010950983BJNE000404377",
+          "paragraph" : "§ 3",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR010950983BJNE000704377",
+          "paragraph" : "§ 5",
+          "title" : "(Inkrafttreten)"
+        },
+        {
+          "documentIdentifier" : "BJNR010950983BJNE000913119",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 1)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

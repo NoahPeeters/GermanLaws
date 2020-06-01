@@ -1,0 +1,136 @@
+{
+  "documentIdentifier" : "BJNR383800013",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR383800013BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR383800013BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Errichtung, Zuständigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR383800013BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Eingliederung der Unfallkasse Post und Telekom und der Berufsgenossenschaft für Transport und Verkehrswirtschaft"
+        },
+        {
+          "documentIdentifier" : "BJNR383800013BJNE000301126",
+          "paragraph" : "§ 3",
+          "title" : "Sitz und Satzung"
+        },
+        {
+          "documentIdentifier" : "BJNR383800013BJNE000401126",
+          "paragraph" : "§ 4",
+          "title" : "Dienstrechtliche Vorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR383800013BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Übertragene Aufgaben, Verordnungsermächtigung"
+        },
+        {
+          "documentIdentifier" : "BJNR383800013BJNE000600000",
+          "paragraph" : "§ 6",
+          "title" : "Kosten bei Errichtung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Errichtung"
+    },
+    {
+      "documentIdentifier" : "BJNR383800013BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR383800013BJNE000700000",
+          "paragraph" : "§ 7",
+          "title" : "Übertritt des Personals"
+        },
+        {
+          "documentIdentifier" : "BJNR383800013BJNE000801126",
+          "paragraph" : "§ 8",
+          "title" : "Geschäftsführer"
+        },
+        {
+          "documentIdentifier" : "BJNR383800013BJNE000900000",
+          "paragraph" : "§ 9",
+          "title" : "Sonstige personalrechtliche Übergangsregelungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Personalrechtliche Übergangsregelungen"
+    },
+    {
+      "documentIdentifier" : "BJNR383800013BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR383800013BJNE001000000",
+          "paragraph" : "§ 10",
+          "title" : "Übergangsregelungen zu den Selbstverwaltungsorganen"
+        },
+        {
+          "documentIdentifier" : "BJNR383800013BJNE001100000",
+          "paragraph" : "§ 11",
+          "title" : "Vertreterversammlung"
+        },
+        {
+          "documentIdentifier" : "BJNR383800013BJNE001200000",
+          "paragraph" : "§ 12",
+          "title" : "Vorstand"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übergangsregelungen zum Selbstverwaltungsrecht"
+    },
+    {
+      "documentIdentifier" : "BJNR383800013BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR383800013BJNE001301126",
+          "paragraph" : "§ 13",
+          "title" : "Gefahrtarif- und Beitragsgestaltung"
+        },
+        {
+          "documentIdentifier" : "BJNR383800013BJNE001400000",
+          "paragraph" : "§ 14",
+          "title" : "Haushalt"
+        },
+        {
+          "documentIdentifier" : "BJNR383800013BJNE001500000",
+          "paragraph" : "§ 15",
+          "title" : "Übernahme weiterer Aufgaben für die Mitgliedsunternehmen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Sonstige Übergangsregelungen"
+    }
+  ]
+}

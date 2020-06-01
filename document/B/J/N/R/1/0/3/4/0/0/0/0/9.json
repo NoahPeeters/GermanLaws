@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR103400009",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR103400009Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR103400009BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Unmittelbare Anwendbarkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR103400009BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Zugangsberechtigte Behörden und zentrale Zugangsstellen"
+        },
+        {
+          "documentIdentifier" : "BJNR103400009BJNE000402377",
+          "paragraph" : "§ 3",
+          "title" : "Terroristische und sonstige schwerwiegende Straftaten"
+        },
+        {
+          "documentIdentifier" : "BJNR103400009BJNE000501377",
+          "paragraph" : "§ 4",
+          "title" : "Datenschutzkontrolle"
+        },
+        {
+          "documentIdentifier" : "BJNR103400009BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Protokollierung"
+        },
+        {
+          "documentIdentifier" : "BJNR103400009BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

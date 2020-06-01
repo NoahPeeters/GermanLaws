@@ -1,0 +1,123 @@
+{
+  "documentIdentifier" : "BJNR000770877",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR000770877BJNG000100307",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR000770877BJNE000101301",
+          "paragraph" : "§ 1",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR000770877BJNE000401301",
+          "paragraph" : "§ 4",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR000770877BJNE000501307",
+          "paragraph" : "§ 5",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR000770877BJNE000502307",
+          "paragraph" : "§ 7",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR000770877BJNE000901301",
+          "paragraph" : "§ 11",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR000770877BJNG000200307",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Verfahrensübergreifende Mitteilungen von Amts wegen"
+    },
+    {
+      "documentIdentifier" : "BJNR000770877BJNG000300307",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Anfechtung von Justizverwaltungsakten"
+    },
+    {
+      "documentIdentifier" : "BJNR000770877BJNG000400307",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Kontaktsperre"
+    },
+    {
+      "documentIdentifier" : "BJNR000770877BJNG000500301",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR000770877BJNE004301308",
+          "paragraph" : "§ 39",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Insolvenzstatistik"
+    },
+    {
+      "documentIdentifier" : "BJNR000770877BJNG000600160",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übergangsvorschriften"
+    }
+  ]
+}

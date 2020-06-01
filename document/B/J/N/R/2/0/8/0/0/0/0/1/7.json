@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR208000017",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR208000017Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR208000017BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Zuständigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR208000017BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Erstellung, Inhalt, Mittel und Form"
+        },
+        {
+          "documentIdentifier" : "BJNR208000017BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Verordnungsermächtigung zur Überprüfung der gesamtwirtschaftlichen Vorausschätzungen durch eine unabhängige Einrichtung"
+        },
+        {
+          "documentIdentifier" : "BJNR208000017BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

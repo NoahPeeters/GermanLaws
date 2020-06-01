@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR337910001",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR337910001Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR337910001BJNE000102377",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR337910001BJNE000202377",
+          "paragraph" : "§ 2",
+          "title" : "Abfallbezeichnung"
+        },
+        {
+          "documentIdentifier" : "BJNR337910001BJNE000304377",
+          "paragraph" : "§ 3",
+          "title" : "Gefährlichkeit von Abfällen"
+        },
+        {
+          "documentIdentifier" : "BJNR337910001BJNE000407116",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 2 Abs. 1)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

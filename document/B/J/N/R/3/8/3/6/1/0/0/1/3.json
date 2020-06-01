@@ -1,0 +1,141 @@
+{
+  "documentIdentifier" : "BJNR383610013",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR383610013BJNG000101000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR383610013BJNE000101000",
+          "paragraph" : "§ 1",
+          "title" : "Errichtung, Zuständigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR383610013BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Eingliederung der Unfallkasse des Bundes und der Eisenbahn-Unfallkasse"
+        },
+        {
+          "documentIdentifier" : "BJNR383610013BJNE000301126",
+          "paragraph" : "§ 3",
+          "title" : "Sitz und Satzung"
+        },
+        {
+          "documentIdentifier" : "BJNR383610013BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Prävention für Beamte, Verordnungsermächtigung"
+        },
+        {
+          "documentIdentifier" : "BJNR383610013BJNE001500119",
+          "paragraph" : "§ 4a",
+          "title" : "Unfallfürsorge für Beamte"
+        },
+        {
+          "documentIdentifier" : "BJNR383610013BJNE001600126",
+          "paragraph" : "§ 4b",
+          "title" : "Aufgabenübertragung an die Unfallversicherung Bund und Bahn"
+        },
+        {
+          "documentIdentifier" : "BJNR383610013BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Kosten bei Errichtung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Errichtung"
+    },
+    {
+      "documentIdentifier" : "BJNR383610013BJNG000201000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR383610013BJNE000601000",
+          "paragraph" : "§ 6",
+          "title" : "Übertritt des Personals"
+        },
+        {
+          "documentIdentifier" : "BJNR383610013BJNE000701000",
+          "paragraph" : "§ 7",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR383610013BJNE000801126",
+          "paragraph" : "§ 8",
+          "title" : "Sonstige personalrechtliche Übergangsregelungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Personalrechtliche Übergangsregelungen"
+    },
+    {
+      "documentIdentifier" : "BJNR383610013BJNG000301000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR383610013BJNE000901000",
+          "paragraph" : "§ 9",
+          "title" : "Übergangsregelungen zu den Selbstverwaltungsorganen der Unfallversicherung Bund und Bahn"
+        },
+        {
+          "documentIdentifier" : "BJNR383610013BJNE001000000",
+          "paragraph" : "§ 10",
+          "title" : "Vertreterversammlung"
+        },
+        {
+          "documentIdentifier" : "BJNR383610013BJNE001100000",
+          "paragraph" : "§ 11",
+          "title" : "Vorstand"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übergangsregelungen zum Selbstverwaltungsrecht"
+    },
+    {
+      "documentIdentifier" : "BJNR383610013BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR383610013BJNE001202119",
+          "paragraph" : "§ 12",
+          "title" : "Haushalt"
+        },
+        {
+          "documentIdentifier" : "BJNR383610013BJNE001301000",
+          "paragraph" : "§ 13",
+          "title" : "Altrentenerstattung"
+        },
+        {
+          "documentIdentifier" : "BJNR383610013BJNE001401119",
+          "paragraph" : "§ 14",
+          "title" : "Personal- und Organisationskonzept"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Sonstige Übergangsregelungen"
+    }
+  ]
+}

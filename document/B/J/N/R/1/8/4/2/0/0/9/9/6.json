@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR184200996",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR184200996Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR184200996BJNE000705360",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR184200996BJNE000800000",
+          "paragraph" : "§ 2",
+          "title" : "Maßnahmen"
+        },
+        {
+          "documentIdentifier" : "BJNR184200996BJNE000900000",
+          "paragraph" : "§ 3",
+          "title" : "Übertragung von Aufgaben"
+        },
+        {
+          "documentIdentifier" : "BJNR184200996BJNE001000000",
+          "paragraph" : "§ 4",
+          "title" : "Unterweisung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

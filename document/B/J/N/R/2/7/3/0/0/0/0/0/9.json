@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR273000009",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR273000009Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR273000009BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich und Grundsätze"
+        },
+        {
+          "documentIdentifier" : "BJNR273000009BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Definitionen und Leistungsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR273000009BJNE000401377",
+          "paragraph" : "§ 3",
+          "title" : "Ermittlung des Abschlags"
+        },
+        {
+          "documentIdentifier" : "BJNR273000009BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "documentIdentifier" : "BJNR120100009",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR120100009Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR120100009BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Staatliche Anerkennung des Ausbildungsberufes"
+        },
+        {
+          "documentIdentifier" : "BJNR120100009BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Dauer der Berufsausbildung"
+        },
+        {
+          "documentIdentifier" : "BJNR120100009BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Struktur der Berufsausbildung"
+        },
+        {
+          "documentIdentifier" : "BJNR120100009BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Ausbildungsrahmenplan, Ausbildungsberufsbild"
+        },
+        {
+          "documentIdentifier" : "BJNR120100009BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Durchführung der Berufsausbildung"
+        },
+        {
+          "documentIdentifier" : "BJNR120100009BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Zwischenprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR120100009BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Abschlussprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR120100009BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Gewichtung und Bestehensregelung"
+        },
+        {
+          "documentIdentifier" : "BJNR120100009BJNE001000000",
+          "paragraph" : "§ 9",
+          "title" : "Fortsetzung der Berufsausbildung"
+        },
+        {
+          "documentIdentifier" : "BJNR120100009BJNE001100000",
+          "paragraph" : "§ 10",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR120100009BJNE001200000",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 4)"
+        },
+        {
+          "documentIdentifier" : "BJNR120100009BJNE001300000",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 4)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

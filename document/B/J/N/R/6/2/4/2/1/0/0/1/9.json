@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR624210019",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR624210019Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR624210019BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Geltungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR624210019BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Mindestlohn"
+        },
+        {
+          "documentIdentifier" : "BJNR624210019BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Fälligkeit des Mindestlohnes"
+        },
+        {
+          "documentIdentifier" : "BJNR624210019BJNE000400000",
+          "paragraph" : "Anhang",
+          "title" : "(zur Anlage)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR169600006",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR169600006Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR169600006BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR169600006BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Kennzeichnung von Kleinstmengen"
+        },
+        {
+          "documentIdentifier" : "BJNR169600006BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

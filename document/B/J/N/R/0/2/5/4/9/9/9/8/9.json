@@ -1,0 +1,181 @@
+{
+  "documentIdentifier" : "BJNR025499989",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR025499989BJNE000700328",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          0
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "-"
+    },
+    {
+      "documentIdentifier" : "BJNR025499989BJNG000100328",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Art 1"
+    },
+    {
+      "documentIdentifier" : "BJNR025499989BJNG000200328",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Art 2"
+    },
+    {
+      "documentIdentifier" : "BJNR025499989BJNG000300328",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR025499989BJNE000800328",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR025499989BJNE000900328",
+              "laws" : [
+
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  3
+                ]
+              },
+              "subsections" : [
+                {
+                  "documentIdentifier" : "BJNR025499989BJNE001000328",
+                  "laws" : [
+
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      3
+                    ]
+                  },
+                  "subsections" : [
+                    {
+                      "documentIdentifier" : "BJNR025499989BJNE001100328",
+                      "laws" : [
+
+                      ],
+                      "sectionNumber" : {
+                        "numbers" : [
+                          3
+                        ]
+                      },
+                      "subsections" : [
+
+                      ],
+                      "title" : "Art 3"
+                    }
+                  ],
+                  "title" : "Art 3"
+                }
+              ],
+              "title" : "Art 3"
+            }
+          ],
+          "title" : "Art 3"
+        }
+      ],
+      "title" : "Art 3"
+    },
+    {
+      "documentIdentifier" : "BJNR025499989BJNG000400328",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Art 4"
+    },
+    {
+      "documentIdentifier" : "BJNR025499989BJNG000500328",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Art 5"
+    },
+    {
+      "documentIdentifier" : "BJNR025499989BJNG000600328",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Art 6"
+    },
+    {
+      "documentIdentifier" : "BJNR025499989BJNE001200328",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "-"
+    }
+  ]
+}

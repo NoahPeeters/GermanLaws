@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR122900016",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR122900016Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR122900016BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Feststellung der Länderanteile an der Umsatzsteuer im Ausgleichsjahr 2014"
+        },
+        {
+          "documentIdentifier" : "BJNR122900016BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Abrechnung des Finanzausgleichs unter den Ländern im Ausgleichsjahr 2014"
+        },
+        {
+          "documentIdentifier" : "BJNR122900016BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Abschlusszahlungen für 2014"
+        },
+        {
+          "documentIdentifier" : "BJNR122900016BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

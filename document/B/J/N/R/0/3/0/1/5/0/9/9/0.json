@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR030150990",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR030150990Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR030150990BJNE000803310",
+          "paragraph" : "§ 7",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR030150990BJNE001003310",
+          "paragraph" : "§ 9",
+          "title" : "(Inkrafttreten)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

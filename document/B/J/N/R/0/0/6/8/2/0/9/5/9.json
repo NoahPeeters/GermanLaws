@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR006820959",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR006820959Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR006820959BJNE000200306",
+          "paragraph" : "§ 1",
+          "title" : "Höhe der Verwaltungsabgabe"
+        },
+        {
+          "documentIdentifier" : "BJNR006820959BJNE000300306",
+          "paragraph" : "§ 2",
+          "title" : "Anrechnung früherer Leistungen"
+        },
+        {
+          "documentIdentifier" : "BJNR006820959BJNE000401377",
+          "paragraph" : "§ 3",
+          "title" : "Erhebung der Verwaltungsabgabe"
+        },
+        {
+          "documentIdentifier" : "BJNR006820959BJNE000500306",
+          "paragraph" : "§ 4",
+          "title" : "Befreiungen"
+        },
+        {
+          "documentIdentifier" : "BJNR006820959BJNE000600306",
+          "paragraph" : "§ 5",
+          "title" : "Land Berlin"
+        },
+        {
+          "documentIdentifier" : "BJNR006820959BJNE000700306",
+          "paragraph" : "§ 6",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

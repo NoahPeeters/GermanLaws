@@ -1,0 +1,92 @@
+{
+  "documentIdentifier" : "BJNR001510988",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR001510988BJNG000100325",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR001510988BJNE000503118",
+          "paragraph" : "§ 1",
+          "title" : "Berufsbild"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Berufsbild"
+    },
+    {
+      "documentIdentifier" : "BJNR001510988BJNG000200325",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR001510988BJNE000600325",
+          "paragraph" : "§ 2",
+          "title" : "Gliederung, Dauer und Bestehen der praktischen Prüfung\n"
+        },
+        {
+          "documentIdentifier" : "BJNR001510988BJNE000700325",
+          "paragraph" : "§ 3",
+          "title" : "Meisterprüfungsarbeit"
+        },
+        {
+          "documentIdentifier" : "BJNR001510988BJNE000800325",
+          "paragraph" : "§ 4",
+          "title" : "Arbeitsprobe"
+        },
+        {
+          "documentIdentifier" : "BJNR001510988BJNE000902308",
+          "paragraph" : "§ 5",
+          "title" : "Prüfung der fachtheoretischen Kenntnisse\n"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Prüfungsanforderungen in den Teilen I und II der Meisterprüfung"
+    },
+    {
+      "documentIdentifier" : "BJNR001510988BJNG000300325",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR001510988BJNE001000325",
+          "paragraph" : "§ 6",
+          "title" : "Übergangsvorschrift"
+        },
+        {
+          "documentIdentifier" : "BJNR001510988BJNE001100325",
+          "paragraph" : "§ 7",
+          "title" : "Weitere Anforderungen"
+        },
+        {
+          "documentIdentifier" : "BJNR001510988BJNE001200325",
+          "paragraph" : "§ 8",
+          "title" : "Berlin-Klausel"
+        },
+        {
+          "documentIdentifier" : "BJNR001510988BJNE001300325",
+          "paragraph" : "§ 9",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übergangs- und Schlußvorschriften"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "documentIdentifier" : "BJNR246000013",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR246000013Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR246000013BJNE000300000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR246000013BJNE000400000",
+          "paragraph" : "§ 2",
+          "title" : "Allgemeine Verhaltensregeln"
+        },
+        {
+          "documentIdentifier" : "BJNR246000013BJNE000500000",
+          "paragraph" : "§ 3",
+          "title" : "Interessenkonflikte"
+        },
+        {
+          "documentIdentifier" : "BJNR246000013BJNE000600000",
+          "paragraph" : "§ 4",
+          "title" : "Allgemeine Organisationspflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR246000013BJNE000701118",
+          "paragraph" : "§ 5",
+          "title" : "Risikomanagement"
+        },
+        {
+          "documentIdentifier" : "BJNR246000013BJNE000800000",
+          "paragraph" : "§ 6",
+          "title" : "Liquiditätsmanagement"
+        },
+        {
+          "documentIdentifier" : "BJNR246000013BJNE000900000",
+          "paragraph" : "§ 7",
+          "title" : "Übergangsvorschrift"
+        },
+        {
+          "documentIdentifier" : "BJNR246000013BJNE001000000",
+          "paragraph" : "§ 8",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "documentIdentifier" : "BJNR062310001",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR062310001BJNG000100305",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR062310001BJNE000600305",
+          "paragraph" : "§ 1",
+          "title" : "Geltungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR062310001BJNE000804301",
+          "paragraph" : "§ 2",
+          "title" : "Kostenfreiheit"
+        },
+        {
+          "documentIdentifier" : "BJNR062310001BJNE000905311",
+          "paragraph" : "§ 3",
+          "title" : "Auftrag"
+        },
+        {
+          "documentIdentifier" : "BJNR062310001BJNE003100308",
+          "paragraph" : "§ 3a",
+          "title" : "Rechtsbehelfsbelehrung"
+        },
+        {
+          "documentIdentifier" : "BJNR062310001BJNE001002160",
+          "paragraph" : "§ 4",
+          "title" : "Vorschuss"
+        },
+        {
+          "documentIdentifier" : "BJNR062310001BJNE001104311",
+          "paragraph" : "§ 5",
+          "title" : "Kostenansatz, Erinnerung, Beschwerde, Gehörsrüge"
+        },
+        {
+          "documentIdentifier" : "BJNR062310001BJNE001200305",
+          "paragraph" : "§ 6",
+          "title" : "Nachforderung"
+        },
+        {
+          "documentIdentifier" : "BJNR062310001BJNE001300305",
+          "paragraph" : "§ 7",
+          "title" : "Nichterhebung von Kosten wegen unrichtiger Sachbehandlung"
+        },
+        {
+          "documentIdentifier" : "BJNR062310001BJNE001504301",
+          "paragraph" : "§ 8",
+          "title" : "Verjährung, Verzinsung"
+        },
+        {
+          "documentIdentifier" : "BJNR062310001BJNE001600305",
+          "paragraph" : "§ 9",
+          "title" : "Höhe der Kosten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR062310001BJNG000200305",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR062310001BJNE001704311",
+          "paragraph" : "§ 10",
+          "title" : "Abgeltungsbereich der Gebühren"
+        },
+        {
+          "documentIdentifier" : "BJNR062310001BJNE001801301",
+          "paragraph" : "§ 11",
+          "title" : "Tätigkeit zur Nachtzeit, an Sonnabenden, Sonn- und Feiertagen"
+        },
+        {
+          "documentIdentifier" : "BJNR062310001BJNE001901311",
+          "paragraph" : "§ 12",
+          "title" : "Siegelungen, Vermögensverzeichnisse, Proteste und ähnliche Geschäfte"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gebührenvorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR062310001BJNG000500311",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR062310001BJNE003200311",
+          "paragraph" : "§ 12a",
+          "title" : "Erhöhtes Wegegeld"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Auslagenvorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR062310001BJNG000301311",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR062310001BJNE002002311",
+          "paragraph" : "§ 13",
+          "title" : "Kostenschuldner"
+        },
+        {
+          "documentIdentifier" : "BJNR062310001BJNE002100305",
+          "paragraph" : "§ 14",
+          "title" : "Fälligkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR062310001BJNE002202311",
+          "paragraph" : "§ 15",
+          "title" : "Entnahmerecht"
+        },
+        {
+          "documentIdentifier" : "BJNR062310001BJNE002300305",
+          "paragraph" : "§ 16",
+          "title" : "Verteilung der Verwertungskosten"
+        },
+        {
+          "documentIdentifier" : "BJNR062310001BJNE002402311",
+          "paragraph" : "§ 17",
+          "title" : "Verteilung der Auslagen bei der Durchführung mehrerer Aufträge"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Kostenzahlung"
+    },
+    {
+      "documentIdentifier" : "BJNR062310001BJNG000401311",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR062310001BJNE002501160",
+          "paragraph" : "§ 18",
+          "title" : "Übergangsvorschrift"
+        },
+        {
+          "documentIdentifier" : "BJNR062310001BJNE002600305",
+          "paragraph" : "§ 19",
+          "title" : "Übergangsvorschrift aus Anlass des Inkrafttretens dieses Gesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR062310001BJNE002921311",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 9)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übergangs- und Schlussvorschriften"
+    }
+  ]
+}

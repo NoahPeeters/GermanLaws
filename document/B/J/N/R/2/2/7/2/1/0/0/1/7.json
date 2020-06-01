@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR227210017",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR227210017Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR227210017BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR227210017BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Allgemeine Anforderungen an die Kennzeichnung von Lebensmitteln beim Inverkehrbringen"
+        },
+        {
+          "documentIdentifier" : "BJNR227210017BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Besondere Anforderungen an die Kennzeichnung bestimmter vorverpackter Lebensmittel beim Inverkehrbringen"
+        },
+        {
+          "documentIdentifier" : "BJNR227210017BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Besondere Vorschriften für die Kennzeichnung von nicht vorverpackten Lebensmitteln beim Inverkehrbringen oder Abgeben"
+        },
+        {
+          "documentIdentifier" : "BJNR227210017BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Verkehrs- und Abgabeverbote"
+        },
+        {
+          "documentIdentifier" : "BJNR227210017BJNE000600000",
+          "paragraph" : "§ 6",
+          "title" : "Straftaten und Ordnungswidrigkeiten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

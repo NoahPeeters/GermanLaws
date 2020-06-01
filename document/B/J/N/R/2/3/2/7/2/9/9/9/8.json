@@ -1,0 +1,106 @@
+{
+  "documentIdentifier" : "BJNR232729998",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR232729998BJNG000100305",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Zustimmung zum Vertrag"
+    },
+    {
+      "documentIdentifier" : "BJNR232729998BJNG000200305",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR232729998BJNE000401308",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR232729998BJNE000500305",
+              "laws" : [
+
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2
+                ]
+              },
+              "subsections" : [
+                {
+                  "documentIdentifier" : "BJNR232729998BJNE000601308",
+                  "laws" : [
+
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      2
+                    ]
+                  },
+                  "subsections" : [
+                    {
+                      "documentIdentifier" : "BJNR232729998BJNE000701308",
+                      "laws" : [
+
+                      ],
+                      "sectionNumber" : {
+                        "numbers" : [
+                          2
+                        ]
+                      },
+                      "subsections" : [
+
+                      ],
+                      "title" : "Art 2"
+                    }
+                  ],
+                  "title" : "Art 2"
+                }
+              ],
+              "title" : "Art 2"
+            }
+          ],
+          "title" : "Art 2"
+        }
+      ],
+      "title" : "Durchführungsbestimmungen"
+    },
+    {
+      "documentIdentifier" : "BJNR232729998BJNG000300305",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inkrafttreten"
+    }
+  ]
+}

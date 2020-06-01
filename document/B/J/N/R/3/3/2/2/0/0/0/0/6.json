@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR332200006",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR332200006Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR332200006BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Pauschalierung"
+        },
+        {
+          "documentIdentifier" : "BJNR332200006BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Berechnungsgrundlage"
+        },
+        {
+          "documentIdentifier" : "BJNR332200006BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Fälligkeit des Erstattungsbetrages"
+        },
+        {
+          "documentIdentifier" : "BJNR332200006BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

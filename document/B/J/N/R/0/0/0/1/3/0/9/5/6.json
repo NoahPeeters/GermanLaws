@@ -1,0 +1,84 @@
+{
+  "documentIdentifier" : "BJNR000130956",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR000130956Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR000130956BJNE000100311",
+          "paragraph" : "§ 1",
+          "title" : "Arbeitsverhältnis bei Einberufung"
+        },
+        {
+          "documentIdentifier" : "BJNR000130956BJNE000200311",
+          "paragraph" : "§ 2",
+          "title" : "Kündigungsverbot für den Arbeitgeber"
+        },
+        {
+          "documentIdentifier" : "BJNR000130956BJNE000300311",
+          "paragraph" : "§ 3",
+          "title" : "Ende des Arbeitsverhältnisses"
+        },
+        {
+          "documentIdentifier" : "BJNR000130956BJNE000400311",
+          "paragraph" : "§ 4",
+          "title" : "Werkwohnung"
+        },
+        {
+          "documentIdentifier" : "BJNR000130956BJNE000500311",
+          "paragraph" : "§ 5",
+          "title" : "Vorschriften für Handelsvertreter"
+        },
+        {
+          "documentIdentifier" : "BJNR000130956BJNE000600311",
+          "paragraph" : "§ 6",
+          "title" : "Ausschluß von Nachteilen"
+        },
+        {
+          "documentIdentifier" : "BJNR000130956BJNE000701310",
+          "paragraph" : "§ 7",
+          "title" : "Vorschriften für Beamte und Richter"
+        },
+        {
+          "documentIdentifier" : "BJNR000130956BJNE000803377",
+          "paragraph" : "§ 8",
+          "title" : "Gesetzliche Krankenversicherung"
+        },
+        {
+          "documentIdentifier" : "BJNR000130956BJNE001301377",
+          "paragraph" : "§ 8a",
+          "title" : "Pflegeversicherung"
+        },
+        {
+          "documentIdentifier" : "BJNR000130956BJNE000902307",
+          "paragraph" : "§ 9",
+          "title" : "Gesetzliche Rentenversicherung"
+        },
+        {
+          "documentIdentifier" : "BJNR000130956BJNE001001305",
+          "paragraph" : "§ 9a",
+          "title" : "Öffentlich-rechtliche Versicherungs- oder\nVersorgungseinrichtungen"
+        },
+        {
+          "documentIdentifier" : "BJNR000130956BJNE001103377",
+          "paragraph" : "§ 10",
+          "title" : "Arbeitslosenversicherung"
+        },
+        {
+          "documentIdentifier" : "BJNR000130956BJNE001201310",
+          "paragraph" : "§ 11",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

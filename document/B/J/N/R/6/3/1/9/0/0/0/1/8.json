@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR631900018",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR631900018Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR631900018BJNE000201124",
+          "paragraph" : "§ 1",
+          "title" : "Lufttüchtigkeitsforderungen (Bauvorschriften)"
+        },
+        {
+          "documentIdentifier" : "BJNR631900018BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

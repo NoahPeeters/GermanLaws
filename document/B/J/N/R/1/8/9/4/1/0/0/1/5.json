@@ -1,0 +1,437 @@
+{
+  "documentIdentifier" : "BJNR189410015",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR189410015BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR189410015BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR189410015BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Maßeinheiten"
+        },
+        {
+          "documentIdentifier" : "BJNR189410015BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Zuständige Behörde nach Artikel 4 der Durchführungsverordnung (EU) Nr. 923\/2012"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR189410015BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR189410015BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Körperliche und geistige Beeinträchtigungen"
+        },
+        {
+          "documentIdentifier" : "BJNR189410015BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Lärm"
+        },
+        {
+          "documentIdentifier" : "BJNR189410015BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Mitführung von Urkunden und Ausweisen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Luftfahrtpersonal"
+    },
+    {
+      "documentIdentifier" : "BJNR189410015BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR189410015BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Meldung von Unfällen und Störungen"
+        },
+        {
+          "documentIdentifier" : "BJNR189410015BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Startverbote"
+        },
+        {
+          "documentIdentifier" : "BJNR189410015BJNE001000000",
+          "paragraph" : "§ 9",
+          "title" : "Meldung von sicherheitsrelevanten Ereignissen"
+        },
+        {
+          "documentIdentifier" : "BJNR189410015BJNE001100000",
+          "paragraph" : "§ 10",
+          "title" : "Register für sicherheitsrelevante Ereignisse"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Besondere Meldepflichten"
+    },
+    {
+      "documentIdentifier" : "BJNR189410015BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR189410015BJNE001200000",
+          "paragraph" : "§ 11",
+          "title" : "Abweichung von Höchstgeschwindigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR189410015BJNE001301116",
+          "paragraph" : "§ 12",
+          "title" : "Zuständige Behörde nach Anhang SERA.3210 der Durchführungsverordnung (EU) Nr. 923\/2012"
+        },
+        {
+          "documentIdentifier" : "BJNR189410015BJNE001400000",
+          "paragraph" : "§ 13",
+          "title" : "Abwerfen von Gegenständen oder sonstigen Stoffen"
+        },
+        {
+          "documentIdentifier" : "BJNR189410015BJNE001500000",
+          "paragraph" : "§ 14",
+          "title" : "Kunstflüge"
+        },
+        {
+          "documentIdentifier" : "BJNR189410015BJNE001600000",
+          "paragraph" : "§ 15",
+          "title" : "Schlepp- und Reklameflüge"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Verkehrsregeln"
+    },
+    {
+      "documentIdentifier" : "BJNR189410015BJNG000500000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR189410015BJNE001700000",
+          "paragraph" : "§ 16",
+          "title" : "Luftraumordnung"
+        },
+        {
+          "documentIdentifier" : "BJNR189410015BJNE001800000",
+          "paragraph" : "§ 17",
+          "title" : "Luftsperrgebiete und Gebiete mit Flugbeschränkungen"
+        },
+        {
+          "documentIdentifier" : "BJNR189410015BJNE001901305",
+          "paragraph" : "§ 18",
+          "title" : "Erlaubnisbedürftige Außenstarts und Außenlandungen"
+        },
+        {
+          "documentIdentifier" : "BJNR189410015BJNE002002119",
+          "paragraph" : "§ 19",
+          "title" : "Verbotene Nutzung des Luftraums"
+        },
+        {
+          "documentIdentifier" : "BJNR189410015BJNE002101116",
+          "paragraph" : "§ 20",
+          "title" : "Erlaubnisbedürftige Nutzung des Luftraums"
+        },
+        {
+          "documentIdentifier" : "BJNR189410015BJNE002200000",
+          "paragraph" : "§ 21",
+          "title" : "Nutzung des kontrollierten Luftraums und des Luftraums über Flugplätzen mit Flugverkehrskontrollstelle"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR189410015BJNG001200116",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR189410015BJNE004900116",
+              "paragraph" : "§ 21a",
+              "title" : "Erlaubnisbedürftiger Betrieb von unbemannten Luftfahrtsystemen und Flugmodellen"
+            },
+            {
+              "documentIdentifier" : "BJNR189410015BJNE005000116",
+              "paragraph" : "§ 21b",
+              "title" : "Verbotener Betrieb von unbemannten Luftfahrtsystemen und Flugmodellen"
+            },
+            {
+              "documentIdentifier" : "BJNR189410015BJNE005100116",
+              "paragraph" : "§ 21c",
+              "title" : "Zuständige Behörde"
+            },
+            {
+              "documentIdentifier" : "BJNR189410015BJNE005200116",
+              "paragraph" : "§ 21d",
+              "title" : "Bescheinigungen zum Nachweis ausreichender Kenntnisse und Fertigkeiten; anerkannte Stellen"
+            },
+            {
+              "documentIdentifier" : "BJNR189410015BJNE005300116",
+              "paragraph" : "§ 21e",
+              "title" : "Bescheinigungen zum Nachweis ausreichender Kenntnisse und Fertigkeiten zum Betrieb von Flugmodellen"
+            },
+            {
+              "documentIdentifier" : "BJNR189410015BJNE005400116",
+              "paragraph" : "§ 21f",
+              "title" : "Ausweichregeln für unbemannte Fluggeräte"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              5
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Betrieb von unbemannten Luftfahrtsystemen und Flugmodellen"
+        }
+      ],
+      "title" : "Nutzung des Luftraums"
+    },
+    {
+      "documentIdentifier" : "BJNR189410015BJNG000600000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR189410015BJNE002300000",
+          "paragraph" : "§ 22",
+          "title" : "Regelung des Flugplatzverkehrs"
+        },
+        {
+          "documentIdentifier" : "BJNR189410015BJNE002400000",
+          "paragraph" : "§ 23",
+          "title" : "Flugbetrieb auf einem Flugplatz und in dessen Umgebung"
+        },
+        {
+          "documentIdentifier" : "BJNR189410015BJNE002500000",
+          "paragraph" : "§ 24",
+          "title" : "Flugbetrieb mit Flugzeugen zur gewerbsmäßigen Beförderung von Personen oder Sachen"
+        },
+        {
+          "documentIdentifier" : "BJNR189410015BJNE002600000",
+          "paragraph" : "§ 25",
+          "title" : "Besondere Regelungen für den Flugbetrieb auf einem Flugplatz mit Flugverkehrskontrollstelle"
+        },
+        {
+          "documentIdentifier" : "BJNR189410015BJNE002700000",
+          "paragraph" : "§ 26",
+          "title" : "Beschränkungen der Starts und Landungen von Flugzeugen mit Strahltriebwerken"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Flugplatzverkehr"
+    },
+    {
+      "documentIdentifier" : "BJNR189410015BJNG000700000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR189410015BJNE002800000",
+          "paragraph" : "§ 27",
+          "title" : "Prüfung der Flugvorbereitung und der vorgeschriebenen Ausweise"
+        },
+        {
+          "documentIdentifier" : "BJNR189410015BJNE002900000",
+          "paragraph" : "§ 28",
+          "title" : "Festlegung des Flugplans"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Flugvorbereitung"
+    },
+    {
+      "documentIdentifier" : "BJNR189410015BJNG000800000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR189410015BJNE003000000",
+          "paragraph" : "§ 29",
+          "title" : "Festlegungen im Funkverkehr"
+        },
+        {
+          "documentIdentifier" : "BJNR189410015BJNE003100000",
+          "paragraph" : "§ 30",
+          "title" : "Standortmeldungen"
+        },
+        {
+          "documentIdentifier" : "BJNR189410015BJNE003200000",
+          "paragraph" : "§ 31",
+          "title" : "Flugverkehrskontrollfreigabe"
+        },
+        {
+          "documentIdentifier" : "BJNR189410015BJNE003300000",
+          "paragraph" : "§ 32",
+          "title" : "Start- und Landemeldung"
+        },
+        {
+          "documentIdentifier" : "BJNR189410015BJNE003400000",
+          "paragraph" : "§ 33",
+          "title" : "Flugverfahren"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          8
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Flug"
+    },
+    {
+      "documentIdentifier" : "BJNR189410015BJNG000900000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR189410015BJNE003500000",
+          "paragraph" : "§ 34",
+          "title" : "Genehmigung von Flügen oberhalb der Flugfläche 195"
+        },
+        {
+          "documentIdentifier" : "BJNR189410015BJNE003600000",
+          "paragraph" : "§ 35",
+          "title" : "Höhenmessereinstellung und Reiseflughöhen bei Flügen nach Sichtflugregeln"
+        },
+        {
+          "documentIdentifier" : "BJNR189410015BJNE003700000",
+          "paragraph" : "§ 36",
+          "title" : "Flüge nach Sichtflugregeln bei Nacht"
+        },
+        {
+          "documentIdentifier" : "BJNR189410015BJNE003800000",
+          "paragraph" : "§ 37",
+          "title" : "Sicherheitsmindesthöhe bei Flügen nach Sichtflugregeln"
+        },
+        {
+          "documentIdentifier" : "BJNR189410015BJNE003900000",
+          "paragraph" : "§ 38",
+          "title" : "Überschallflüge nach Sichtflugregeln"
+        },
+        {
+          "documentIdentifier" : "BJNR189410015BJNE004000000",
+          "paragraph" : "§ 39",
+          "title" : "Allgemeingenehmigung für Such- und Rettungsflüge"
+        },
+        {
+          "documentIdentifier" : "BJNR189410015BJNE004100000",
+          "paragraph" : "§ 40",
+          "title" : "Mindestsichtwetterbedingungen in den Lufträumen der Klassen F und G"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          9
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Sichtflugregeln"
+    },
+    {
+      "documentIdentifier" : "BJNR189410015BJNG001000000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR189410015BJNE004200000",
+          "paragraph" : "§ 41",
+          "title" : "Höhenmessereinstellung und Reiseflughöhen bei Flügen nach Instrumentenflugregeln"
+        },
+        {
+          "documentIdentifier" : "BJNR189410015BJNE004300000",
+          "paragraph" : "§ 42",
+          "title" : "Abbruch von Landeanflügen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          10
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Instrumentenflugregeln"
+    },
+    {
+      "documentIdentifier" : "BJNR189410015BJNG001100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR189410015BJNE004400000",
+          "paragraph" : "§ 43",
+          "title" : "Bekanntmachung in den Nachrichten für Luftfahrer"
+        },
+        {
+          "documentIdentifier" : "BJNR189410015BJNE004501116",
+          "paragraph" : "§ 44",
+          "title" : "Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR189410015BJNE004600000",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 9 Absatz 2)"
+        },
+        {
+          "documentIdentifier" : "BJNR189410015BJNE004700000",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 9 Absatz 2)"
+        },
+        {
+          "documentIdentifier" : "BJNR189410015BJNE004800305",
+          "paragraph" : "Anlage 3",
+          "title" : "(zu § 18 Absatz 4)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          11
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Bußgeld- und Schlussvorschriften"
+    }
+  ]
+}

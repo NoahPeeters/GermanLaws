@@ -1,0 +1,233 @@
+{
+  "documentIdentifier" : "BJNR000010949",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR000010949BJNG000100314",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Die Grundrechte"
+    },
+    {
+      "documentIdentifier" : "BJNR000010949BJNG000200314",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Der Bund und die Länder"
+    },
+    {
+      "documentIdentifier" : "BJNR000010949BJNG000300314",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR000010949BJNE020800160",
+          "paragraph" : "Art 45d",
+          "title" : "Parlamentarisches Kontrollgremium"
+        },
+        {
+          "documentIdentifier" : "BJNR000010949BJNE007000314",
+          "paragraph" : "Art 49",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Der Bundestag"
+    },
+    {
+      "documentIdentifier" : "BJNR000010949BJNG000400314",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR000010949BJNG000500314",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Gemeinsamer Ausschuß"
+        }
+      ],
+      "title" : "Der Bundesrat"
+    },
+    {
+      "documentIdentifier" : "BJNR000010949BJNG000600314",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR000010949BJNE008200314",
+          "paragraph" : "Art 59a",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Der Bundespräsident"
+    },
+    {
+      "documentIdentifier" : "BJNR000010949BJNG000700314",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Die Bundesregierung"
+    },
+    {
+      "documentIdentifier" : "BJNR000010949BJNG000800314",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR000010949BJNE009801377",
+          "paragraph" : "(XXXX) Art 74a und 75",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Die Gesetzgebung des Bundes"
+    },
+    {
+      "documentIdentifier" : "BJNR000010949BJNG000900314",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          8
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR000010949BJNG001001160",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              8
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Gemeinschaftsaufgaben, Verwaltungszusammenarbeit"
+        }
+      ],
+      "title" : "Die Ausführung der Bundesgesetze und die Bundesverwaltung"
+    },
+    {
+      "documentIdentifier" : "BJNR000010949BJNG001100314",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          9
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Die Rechtsprechung"
+    },
+    {
+      "documentIdentifier" : "BJNR000010949BJNG001200314",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          10
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR000010949BJNG001300314",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              10
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Verteidigungsfall"
+        }
+      ],
+      "title" : "Das Finanzwesen"
+    },
+    {
+      "documentIdentifier" : "BJNR000010949BJNG001400314",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR000010949BJNE018800314",
+          "paragraph" : "Art 142a",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          11
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übergangs- und Schlußbestimmungen"
+    }
+  ]
+}

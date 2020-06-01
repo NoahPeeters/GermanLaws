@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR005810980",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR005810980Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR005810980BJNE000100314",
+          "paragraph" : "(XXXX) Art 1 bis Art 5",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR005810980BJNE000200314",
+          "paragraph" : "Art 6",
+          "title" : "Übergangsvorschrift"
+        },
+        {
+          "documentIdentifier" : "BJNR005810980BJNE000300314",
+          "paragraph" : "Art 7",
+          "title" : "Schlußvorschrift"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR310810997",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR310810997Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR310810997BJNE000201308",
+          "paragraph" : "§ 1",
+          "title" : "Überleitungsmaßnahmen für die Bediensteten"
+        },
+        {
+          "documentIdentifier" : "BJNR310810997BJNE000301308",
+          "paragraph" : "§ 2",
+          "title" : "Stellenplan und Ämterbewertung"
+        },
+        {
+          "documentIdentifier" : "BJNR310810997BJNE000401308",
+          "paragraph" : "§ 3",
+          "title" : "Soziales"
+        },
+        {
+          "documentIdentifier" : "BJNR310810997BJNE000501308",
+          "paragraph" : "§ 4",
+          "title" : "Personalvertretung"
+        },
+        {
+          "documentIdentifier" : "BJNR310810997BJNE000602308",
+          "paragraph" : "§ 5",
+          "title" : "Schwerbehindertenvertretung"
+        },
+        {
+          "documentIdentifier" : "BJNR310810997BJNE000701308",
+          "paragraph" : "§ 6",
+          "title" : "Frauenbeauftragte"
+        },
+        {
+          "documentIdentifier" : "BJNR310810997BJNE000803308",
+          "paragraph" : "§ 7",
+          "title" : "Besoldungs- und tarifrechtliche Sonderregelungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

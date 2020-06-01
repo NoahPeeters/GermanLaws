@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR110930988",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR110930988Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR110930988BJNE000100304",
+          "paragraph" : "§ 1",
+          "title" : "Strafbefreiende Erklärung"
+        },
+        {
+          "documentIdentifier" : "BJNR110930988BJNE000200304",
+          "paragraph" : "§ 2",
+          "title" : "Absehen von Steuerfestsetzung"
+        },
+        {
+          "documentIdentifier" : "BJNR110930988BJNE000300304",
+          "paragraph" : "§ 3",
+          "title" : "Berlin-Klausel"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

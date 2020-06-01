@@ -1,0 +1,434 @@
+{
+  "documentIdentifier" : "BJNR006510956",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR006510956BJNG000108310",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR006510956BJNG000208310",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR006510956BJNE001810310",
+              "paragraph" : "§ 1",
+              "title" : "Allgemeine Wehrpflicht"
+            },
+            {
+              "documentIdentifier" : "BJNR006510956BJNE001911311",
+              "paragraph" : "§ 2",
+              "title" : "Geltung der folgenden Vorschriften"
+            },
+            {
+              "documentIdentifier" : "BJNR006510956BJNE002117377",
+              "paragraph" : "§ 3",
+              "title" : "Inhalt und Dauer der Wehrpflicht"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Umfang der Wehrpflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR006510956BJNG000308310",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR006510956BJNE002214377",
+              "paragraph" : "§ 4",
+              "title" : "Arten des Wehrdienstes"
+            },
+            {
+              "documentIdentifier" : "BJNR006510956BJNE002420310",
+              "paragraph" : "§ 5",
+              "title" : "Grundwehrdienst"
+            },
+            {
+              "documentIdentifier" : "BJNR006510956BJNE002613310",
+              "paragraph" : "§ 6",
+              "title" : "Wehrübungen"
+            },
+            {
+              "documentIdentifier" : "BJNR006510956BJNE009908377",
+              "paragraph" : "§ 6a",
+              "title" : "Besondere Auslandsverwendung"
+            },
+            {
+              "documentIdentifier" : "BJNR006510956BJNE010108377",
+              "paragraph" : "§ 6b",
+              "title" : "Freiwilliger zusätzlicher Wehrdienst im Anschluss an den Grundwehrdienst"
+            },
+            {
+              "documentIdentifier" : "BJNR006510956BJNE010204310",
+              "paragraph" : "§ 6c",
+              "title" : "Hilfeleistung im Innern"
+            },
+            {
+              "documentIdentifier" : "BJNR006510956BJNE010302310",
+              "paragraph" : "§ 6d",
+              "title" : "Hilfeleistung im Ausland"
+            },
+            {
+              "documentIdentifier" : "BJNR006510956BJNE002910310",
+              "paragraph" : "§ 7",
+              "title" : "Anrechnung von freiwillig geleistetem Wehrdienst und von geleistetem Zivildienst"
+            },
+            {
+              "documentIdentifier" : "BJNR006510956BJNE003011377",
+              "paragraph" : "§ 8",
+              "title" : "Wehrdienst außerhalb der Bundeswehr; Anrechnung von Wehrdienst und anderen Diensten außerhalb der Bundeswehr"
+            },
+            {
+              "documentIdentifier" : "BJNR006510956BJNE003111310",
+              "paragraph" : "§ 8a",
+              "title" : "Tauglichkeitsgrade; Verwendungsgrade"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Wehrdienst"
+        },
+        {
+          "documentIdentifier" : "BJNR006510956BJNG000408310",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR006510956BJNE003208310",
+              "paragraph" : "§ 9",
+              "title" : "Wehrdienstunfähigkeit"
+            },
+            {
+              "documentIdentifier" : "BJNR006510956BJNE003313310",
+              "paragraph" : "§ 10",
+              "title" : "Ausschluss vom Wehrdienst"
+            },
+            {
+              "documentIdentifier" : "BJNR006510956BJNE003420377",
+              "paragraph" : "§ 11",
+              "title" : "Befreiung vom Wehrdienst"
+            },
+            {
+              "documentIdentifier" : "BJNR006510956BJNE003515310",
+              "paragraph" : "§ 12",
+              "title" : "Zurückstellung vom Wehrdienst"
+            },
+            {
+              "documentIdentifier" : "BJNR006510956BJNE003611377",
+              "paragraph" : "§ 13",
+              "title" : "Unabkömmlichstellung"
+            },
+            {
+              "documentIdentifier" : "BJNR006510956BJNE003718377",
+              "paragraph" : "§ 13a",
+              "title" : "Zivilschutz oder Katastrophenschutz"
+            },
+            {
+              "documentIdentifier" : "BJNR006510956BJNE003813310",
+              "paragraph" : "§ 13b",
+              "title" : "Entwicklungsdienst"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Wehrdienstausnahmen"
+        }
+      ],
+      "title" : "Wehrpflicht"
+    },
+    {
+      "documentIdentifier" : "BJNR006510956BJNG000508310",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR006510956BJNE003911377",
+          "paragraph" : "§ 14",
+          "title" : "Wehrersatzbehörden"
+        },
+        {
+          "documentIdentifier" : "BJNR006510956BJNE004013310",
+          "paragraph" : "§ 15",
+          "title" : "Erfassung"
+        },
+        {
+          "documentIdentifier" : "BJNR006510956BJNE004114377",
+          "paragraph" : "§ 16",
+          "title" : "Zweck der Musterung"
+        },
+        {
+          "documentIdentifier" : "BJNR006510956BJNE004215377",
+          "paragraph" : "§ 17",
+          "title" : "Durchführung der Musterung"
+        },
+        {
+          "documentIdentifier" : "BJNR006510956BJNE004309310",
+          "paragraph" : "§ 18",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR006510956BJNE004413377",
+          "paragraph" : "§ 19",
+          "title" : "Verfahrensgrundsätze"
+        },
+        {
+          "documentIdentifier" : "BJNR006510956BJNE004511377",
+          "paragraph" : "§ 20",
+          "title" : "Zurückstellungsanträge"
+        },
+        {
+          "documentIdentifier" : "BJNR006510956BJNE004611310",
+          "paragraph" : "§ 20a",
+          "title" : "Eignungsuntersuchung und Eignungsfeststellung nach der Musterung"
+        },
+        {
+          "documentIdentifier" : "BJNR006510956BJNE008709377",
+          "paragraph" : "§ 20b",
+          "title" : "Überprüfungsuntersuchung; Anhörung"
+        },
+        {
+          "documentIdentifier" : "BJNR006510956BJNE004712377",
+          "paragraph" : "§ 21",
+          "title" : "Einberufung"
+        },
+        {
+          "documentIdentifier" : "BJNR006510956BJNE004809310",
+          "paragraph" : "§ 22",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR006510956BJNE004915377",
+          "paragraph" : "§ 23",
+          "title" : "Heranziehung von gedienten Wehrpflichtigen"
+        },
+        {
+          "documentIdentifier" : "BJNR006510956BJNE005018377",
+          "paragraph" : "§ 24",
+          "title" : "Wehrüberwachung; Haftung"
+        },
+        {
+          "documentIdentifier" : "BJNR006510956BJNE008909377",
+          "paragraph" : "§ 24a",
+          "title" : "Änderungsdienst"
+        },
+        {
+          "documentIdentifier" : "BJNR006510956BJNE009008310",
+          "paragraph" : "§ 24b",
+          "title" : "Aufenthaltsfeststellungsverfahren"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Wehrersatzwesen"
+    },
+    {
+      "documentIdentifier" : "BJNR006510956BJNG009108310",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR006510956BJNE009411377",
+          "paragraph" : "§ 25",
+          "title" : "Personalakten ungedienter Wehrpflichtiger"
+        },
+        {
+          "documentIdentifier" : "BJNR006510956BJNE009507310",
+          "paragraph" : "(XXXX) §§ 26 und 27",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Personalakten"
+    },
+    {
+      "documentIdentifier" : "BJNR006510956BJNG001308310",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR006510956BJNE005510310",
+          "paragraph" : "§ 28",
+          "title" : "Beendigungsgründe"
+        },
+        {
+          "documentIdentifier" : "BJNR006510956BJNE005613377",
+          "paragraph" : "§ 29",
+          "title" : "Entlassung"
+        },
+        {
+          "documentIdentifier" : "BJNR006510956BJNE005708310",
+          "paragraph" : "§ 29a",
+          "title" : "Verlängerung des Wehrdienstes bei stationärer truppenärztlicher Behandlung"
+        },
+        {
+          "documentIdentifier" : "BJNR006510956BJNE010005310",
+          "paragraph" : "§ 29b",
+          "title" : "Verlängerung des Wehrdienstes aus sonstigen Gründen"
+        },
+        {
+          "documentIdentifier" : "BJNR006510956BJNE005811310",
+          "paragraph" : "§ 30",
+          "title" : "Ausschluss aus der Bundeswehr und Verlust des Dienstgrades"
+        },
+        {
+          "documentIdentifier" : "BJNR006510956BJNE005907310",
+          "paragraph" : "§ 31",
+          "title" : "Wiederaufnahme des Verfahrens"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Beendigung des Wehrdienstes und Verlust des Dienstgrades"
+    },
+    {
+      "documentIdentifier" : "BJNR006510956BJNG001408310",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR006510956BJNE006007310",
+          "paragraph" : "§ 32",
+          "title" : "Rechtsweg"
+        },
+        {
+          "documentIdentifier" : "BJNR006510956BJNE006217377",
+          "paragraph" : "§ 33",
+          "title" : "Besondere Vorschriften für das Vorverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR006510956BJNE006308310",
+          "paragraph" : "§ 34",
+          "title" : "Rechtsmittel gegen Entscheidungen des Verwaltungsgerichts"
+        },
+        {
+          "documentIdentifier" : "BJNR006510956BJNE006512377",
+          "paragraph" : "§ 35",
+          "title" : "Besondere Vorschriften für die Anfechtungsklage"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Rechtsbehelfe; Rechtsmittel"
+    },
+    {
+      "documentIdentifier" : "BJNR006510956BJNG001509310",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR006510956BJNE006709310",
+          "paragraph" : "(XXXX) §§ 36 bis 41",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR006510956BJNE007312377",
+          "paragraph" : "§ 42",
+          "title" : "Sondervorschriften für Angehörige des Polizeivollzugsdienstes"
+        },
+        {
+          "documentIdentifier" : "BJNR006510956BJNE007410310",
+          "paragraph" : "§ 42a",
+          "title" : "Grenzschutzdienstpflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR006510956BJNE007511310",
+          "paragraph" : "§ 43",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR006510956BJNE007611310",
+          "paragraph" : "§ 44",
+          "title" : "Zustellung, Vorführung und Zuführung"
+        },
+        {
+          "documentIdentifier" : "BJNR006510956BJNE007713377",
+          "paragraph" : "§ 45",
+          "title" : "Bußgeldvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR006510956BJNE007809310",
+          "paragraph" : "(XXXX) §§ 46 und 47",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR006510956BJNE008118377",
+          "paragraph" : "§ 48",
+          "title" : "Bereitschaftsdienst, Spannungs- oder Verteidigungsfall"
+        },
+        {
+          "documentIdentifier" : "BJNR006510956BJNE008211310",
+          "paragraph" : "§ 49",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR006510956BJNE008414310",
+          "paragraph" : "§ 50",
+          "title" : "Zuständigkeit für den Erlass von Rechtsverordnungen"
+        },
+        {
+          "documentIdentifier" : "BJNR006510956BJNE008507310",
+          "paragraph" : "§ 51",
+          "title" : "Einschränkung von Grundrechten"
+        },
+        {
+          "documentIdentifier" : "BJNR006510956BJNE008612310",
+          "paragraph" : "§ 52",
+          "title" : "Übergangsvorschrift"
+        },
+        {
+          "documentIdentifier" : "BJNR006510956BJNE010401310",
+          "paragraph" : "§ 53",
+          "title" : "Übergangsvorschrift aus Anlass des Wehrrechtsänderungsgesetzes 2010"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Einschränkung von Grundrechten, Sonder-, Bußgeld- und Übergangsvorschriften"
+    }
+  ]
+}

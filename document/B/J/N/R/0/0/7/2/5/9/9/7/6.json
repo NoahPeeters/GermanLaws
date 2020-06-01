@@ -1,0 +1,165 @@
+{
+  "documentIdentifier" : "BJNR007259976",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR007259976BJNG000100328",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Art 1"
+    },
+    {
+      "documentIdentifier" : "BJNR007259976BJNG000200328",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR007259976BJNE000700328",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR007259976BJNE000800328",
+              "laws" : [
+
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2
+                ]
+              },
+              "subsections" : [
+                {
+                  "documentIdentifier" : "BJNR007259976BJNE000900328",
+                  "laws" : [
+
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      2
+                    ]
+                  },
+                  "subsections" : [
+                    {
+                      "documentIdentifier" : "BJNR007259976BJNE001000328",
+                      "laws" : [
+
+                      ],
+                      "sectionNumber" : {
+                        "numbers" : [
+                          2
+                        ]
+                      },
+                      "subsections" : [
+                        {
+                          "documentIdentifier" : "BJNR007259976BJNE001100328",
+                          "laws" : [
+
+                          ],
+                          "sectionNumber" : {
+                            "numbers" : [
+                              2
+                            ]
+                          },
+                          "subsections" : [
+
+                          ],
+                          "title" : "Art 2"
+                        }
+                      ],
+                      "title" : "Art 2"
+                    }
+                  ],
+                  "title" : "Art 2"
+                }
+              ],
+              "title" : "Art 2"
+            }
+          ],
+          "title" : "Art 2"
+        }
+      ],
+      "title" : "Übergangsvorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR007259976BJNG000300328",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Art 3"
+    },
+    {
+      "documentIdentifier" : "BJNR007259976BJNG000400328",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Art 4"
+    },
+    {
+      "documentIdentifier" : "BJNR007259976BJNG000500328",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Berlin-Klausel"
+    },
+    {
+      "documentIdentifier" : "BJNR007259976BJNG000600328",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inkrafttreten"
+    }
+  ]
+}

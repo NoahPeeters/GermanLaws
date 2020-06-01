@@ -1,0 +1,256 @@
+{
+  "documentIdentifier" : "BJNR079900009",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR079900009BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR079900009BJNE000201377",
+          "paragraph" : "§ 1",
+          "title" : "Zielsetzung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Zielsetzung"
+    },
+    {
+      "documentIdentifier" : "BJNR079900009BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR079900009BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Allgemeine Arbeitsbedingungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Arbeitsbedingungen"
+    },
+    {
+      "documentIdentifier" : "BJNR079900009BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR079900009BJNE000402124",
+          "paragraph" : "§ 3",
+          "title" : "Tarifvertragliche Arbeitsbedingungen"
+        },
+        {
+          "documentIdentifier" : "BJNR079900009BJNE000502377",
+          "paragraph" : "§ 4",
+          "title" : "Branchen"
+        },
+        {
+          "documentIdentifier" : "BJNR079900009BJNE000602124",
+          "paragraph" : "§ 5",
+          "title" : "Arbeitsbedingungen"
+        },
+        {
+          "documentIdentifier" : "BJNR079900009BJNE000706124",
+          "paragraph" : "§ 6",
+          "title" : "Besondere Regelungen"
+        },
+        {
+          "documentIdentifier" : "BJNR079900009BJNE000801377",
+          "paragraph" : "§ 7",
+          "title" : "Rechtsverordnung für die Fälle des § 4 Absatz 1"
+        },
+        {
+          "documentIdentifier" : "BJNR079900009BJNE002801126",
+          "paragraph" : "§ 7a",
+          "title" : "Rechtsverordnung für die Fälle des § 4 Absatz 2"
+        },
+        {
+          "documentIdentifier" : "BJNR079900009BJNE000901377",
+          "paragraph" : "§ 8",
+          "title" : "Pflichten des Arbeitgebers zur Gewährung von Arbeitsbedingungen"
+        },
+        {
+          "documentIdentifier" : "BJNR079900009BJNE001001377",
+          "paragraph" : "§ 9",
+          "title" : "Verzicht, Verwirkung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Tarifvertragliche Arbeitsbedingungen"
+    },
+    {
+      "documentIdentifier" : "BJNR079900009BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR079900009BJNE001101126",
+          "paragraph" : "§ 10",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR079900009BJNE001201126",
+          "paragraph" : "§ 11",
+          "title" : "Rechtsverordnung"
+        },
+        {
+          "documentIdentifier" : "BJNR079900009BJNE001302126",
+          "paragraph" : "§ 12",
+          "title" : "Berufung der Kommission"
+        },
+        {
+          "documentIdentifier" : "BJNR079900009BJNE003000126",
+          "paragraph" : "§ 12a",
+          "title" : "Empfehlung von Arbeitsbedingungen"
+        },
+        {
+          "documentIdentifier" : "BJNR079900009BJNE001401126",
+          "paragraph" : "§ 13",
+          "title" : "Rechtsfolgen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR079900009BJNG000800308",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR079900009BJNE002700308",
+              "paragraph" : "§ 13a",
+              "title" : "Gleichstellung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Arbeitsbedingungen im Gewerbe des grenzüberschreitenden Straßentransports von Euro-Bargeld"
+        }
+      ],
+      "title" : "Arbeitsbedingungen in der Pflegebranche"
+    },
+    {
+      "documentIdentifier" : "BJNR079900009BJNG000500000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR079900009BJNE001500000",
+          "paragraph" : "§ 14",
+          "title" : "Haftung des Auftraggebers"
+        },
+        {
+          "documentIdentifier" : "BJNR079900009BJNE001600000",
+          "paragraph" : "§ 15",
+          "title" : "Gerichtsstand"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Zivilrechtliche Durchsetzung"
+    },
+    {
+      "documentIdentifier" : "BJNR079900009BJNG000600000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR079900009BJNE001702124",
+          "paragraph" : "§ 16",
+          "title" : "Zuständigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR079900009BJNE001802126",
+          "paragraph" : "§ 17",
+          "title" : "Befugnisse der Behörden der Zollverwaltung und anderer Behörden"
+        },
+        {
+          "documentIdentifier" : "BJNR079900009BJNE001902124",
+          "paragraph" : "§ 18",
+          "title" : "Meldepflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR079900009BJNE002002124",
+          "paragraph" : "§ 19",
+          "title" : "Erstellen und Bereithalten von Dokumenten"
+        },
+        {
+          "documentIdentifier" : "BJNR079900009BJNE002101377",
+          "paragraph" : "§ 20",
+          "title" : "Zusammenarbeit der in- und ausländischen Behörden"
+        },
+        {
+          "documentIdentifier" : "BJNR079900009BJNE002201119",
+          "paragraph" : "§ 21",
+          "title" : "Ausschluss von der Vergabe öffentlicher Aufträge"
+        },
+        {
+          "documentIdentifier" : "BJNR079900009BJNE002301377",
+          "paragraph" : "§ 22",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR079900009BJNE002403124",
+          "paragraph" : "§ 23",
+          "title" : "Bußgeldvorschriften"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Kontrolle und Durchsetzung durch staatliche Behörden"
+    },
+    {
+      "documentIdentifier" : "BJNR079900009BJNG000700000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR079900009BJNE002500000",
+          "paragraph" : "§ 24",
+          "title" : "Evaluation"
+        },
+        {
+          "documentIdentifier" : "BJNR079900009BJNE002601126",
+          "paragraph" : "§ 25",
+          "title" : "Übergangsregelung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussvorschriften"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR097310013",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR097310013Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR097310013BJNE000102116",
+          "paragraph" : "§ 1",
+          "title" : "Genehmigungsbedürftige Anlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR097310013BJNE000201116",
+          "paragraph" : "§ 2",
+          "title" : "Zuordnung zu den Verfahrensarten"
+        },
+        {
+          "documentIdentifier" : "BJNR097310013BJNE000301116",
+          "paragraph" : "§ 3",
+          "title" : "Anlagen nach der Industrieemissions-Richtlinie"
+        },
+        {
+          "documentIdentifier" : "BJNR097310013BJNE000502116",
+          "paragraph" : "Anhang 2",
+          "title" : "Stoffliste zu Nr. 9.3 des Anhangs 1"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

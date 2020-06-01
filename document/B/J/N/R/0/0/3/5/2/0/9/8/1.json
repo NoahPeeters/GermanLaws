@@ -1,0 +1,534 @@
+{
+  "documentIdentifier" : "BJNR003520981",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR003520981BJNG001301118",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR003520981BJNE001125126",
+          "paragraph" : "§ 1",
+          "title" : "Begriffsbestimmungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Bestimmungen"
+    },
+    {
+      "documentIdentifier" : "BJNR003520981BJNG001401118",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR003520981BJNG001501118",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR003520981BJNE005810126",
+              "paragraph" : "§ 2",
+              "title" : "Verwendungszwecke für Diätfuttermittel"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Verwendungszwecke für Diätfuttermittel"
+        },
+        {
+          "documentIdentifier" : "BJNR003520981BJNG001601118",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR003520981BJNE010013126",
+              "paragraph" : "§ 3",
+              "title" : "Inverkehrbringen bestimmter Diätfuttermittel"
+            },
+            {
+              "documentIdentifier" : "BJNR003520981BJNE010304118",
+              "paragraph" : "§ 4",
+              "title" : "Kennzeichnung bestimmter Futtermittel"
+            },
+            {
+              "documentIdentifier" : "BJNR003520981BJNE002214118",
+              "paragraph" : "§ 5",
+              "title" : "Kennzeichnung von Futtermitteln bei Fernabsatzverträgen"
+            },
+            {
+              "documentIdentifier" : "BJNR003520981BJNE002326126",
+              "paragraph" : "§ 6",
+              "title" : "Angaben"
+            },
+            {
+              "documentIdentifier" : "BJNR003520981BJNE003421126",
+              "paragraph" : "§ 7",
+              "title" : "Kennzeichnung"
+            },
+            {
+              "documentIdentifier" : "BJNR003520981BJNE003333118",
+              "paragraph" : "§ 8",
+              "title" : "Unerwünschte Stoffe"
+            },
+            {
+              "documentIdentifier" : "BJNR003520981BJNE008308118",
+              "paragraph" : "§ 9",
+              "title" : "Aktionsgrenzwerte für unerwünschte Stoffe"
+            },
+            {
+              "documentIdentifier" : "BJNR003520981BJNE010505118",
+              "paragraph" : "§ 10",
+              "title" : "Ausnahmen"
+            },
+            {
+              "documentIdentifier" : "BJNR003520981BJNE003511118",
+              "paragraph" : "§ 11",
+              "title" : "Verbotene Stoffe"
+            },
+            {
+              "documentIdentifier" : "BJNR003520981BJNE003711118",
+              "paragraph" : "§ 12",
+              "title" : "Inverkehrbringensverbote"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Kennzeichnung und Inverkehrbringen"
+        },
+        {
+          "documentIdentifier" : "BJNR003520981BJNG001701118",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR003520981BJNE002619118",
+              "paragraph" : "§ 13",
+              "title" : "Zugelassene Futtermittelzusatzstoffe"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Futtermittelzusatzstoffe"
+        },
+        {
+          "documentIdentifier" : "BJNR003520981BJNG001801118",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR003520981BJNE003619118",
+              "paragraph" : "§ 14",
+              "title" : "Fütterungsvorschriften"
+            },
+            {
+              "documentIdentifier" : "BJNR003520981BJNE009208124",
+              "paragraph" : "§ 15",
+              "title" : "Ausnahmen vom Verfütterungsverbot"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Fütterung"
+        },
+        {
+          "documentIdentifier" : "BJNR003520981BJNG001901118",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR003520981BJNE008709126",
+              "paragraph" : "§ 16",
+              "title" : "Mitwirkung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              5
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Mitwirkung des Bundesamtes für Verbraucherschutz und Lebensmittelsicherheit"
+        },
+        {
+          "documentIdentifier" : "BJNR003520981BJNG002001118",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR003520981BJNE003824118",
+              "paragraph" : "§ 17",
+              "title" : "Zulassungsbedürftige Betriebe"
+            },
+            {
+              "documentIdentifier" : "BJNR003520981BJNE003920118",
+              "paragraph" : "§ 18",
+              "title" : "Zulassung"
+            },
+            {
+              "documentIdentifier" : "BJNR003520981BJNE006010118",
+              "paragraph" : "§ 19",
+              "title" : "Besondere Pflichten für Trocknungsbetriebe"
+            },
+            {
+              "documentIdentifier" : "BJNR003520981BJNE004022118",
+              "paragraph" : "§ 20",
+              "title" : "Registrierungsbedürftige Betriebe"
+            },
+            {
+              "documentIdentifier" : "BJNR003520981BJNE004116118",
+              "paragraph" : "§ 21",
+              "title" : "Registrierung"
+            },
+            {
+              "documentIdentifier" : "BJNR003520981BJNE008407118",
+              "paragraph" : "§ 22",
+              "title" : "Anzeigebedürftige Betriebe"
+            },
+            {
+              "documentIdentifier" : "BJNR003520981BJNE006208118",
+              "paragraph" : "§ 23",
+              "title" : "Zulassungs- und Registrierungs-Kennnummer"
+            },
+            {
+              "documentIdentifier" : "BJNR003520981BJNE004217118",
+              "paragraph" : "§ 24",
+              "title" : "Rücknahme, Widerruf, Ruhen und Erlöschen der Zulassung und der Registrierung"
+            },
+            {
+              "documentIdentifier" : "BJNR003520981BJNE004316118",
+              "paragraph" : "§ 25",
+              "title" : "Bekanntmachung"
+            },
+            {
+              "documentIdentifier" : "BJNR003520981BJNE007709118",
+              "paragraph" : "§ 26",
+              "title" : "Status anerkannter, registrierter und angezeigter Betriebe"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              6
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Anforderungen an Betriebe"
+        }
+      ],
+      "title" : "Verkehr mit Futtermitteln"
+    },
+    {
+      "documentIdentifier" : "BJNR003520981BJNG002101118",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR003520981BJNE010205118",
+          "paragraph" : "§ 27",
+          "title" : "Lagerung und Aufbewahrung einer zurückgelassenen Endprobe"
+        },
+        {
+          "documentIdentifier" : "BJNR003520981BJNE002128126",
+          "paragraph" : "§ 28",
+          "title" : "Analysemethoden"
+        },
+        {
+          "documentIdentifier" : "BJNR003520981BJNE010406118",
+          "paragraph" : "§ 29",
+          "title" : "Untersuchung von Futtermitteln auf Pestizidrückstände"
+        },
+        {
+          "documentIdentifier" : "BJNR003520981BJNE004417118",
+          "paragraph" : "§ 30",
+          "title" : "Aufbewahrung von Buchführungsunterlagen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Überwachung"
+    },
+    {
+      "documentIdentifier" : "BJNR003520981BJNG002201118",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR003520981BJNE009307118",
+          "paragraph" : "§ 31",
+          "title" : "Einfuhrverbote"
+        },
+        {
+          "documentIdentifier" : "BJNR003520981BJNE009509118",
+          "paragraph" : "§ 32",
+          "title" : "Einfuhrregelungen für Guarkernmehl"
+        },
+        {
+          "documentIdentifier" : "BJNR003520981BJNE008609118",
+          "paragraph" : "§ 33",
+          "title" : "Verbote auf Grund von Schutzmaßnahmen der Europäischen Gemeinschaft"
+        },
+        {
+          "documentIdentifier" : "BJNR003520981BJNE004522126",
+          "paragraph" : "§ 34",
+          "title" : "Ausnahmen von Verbringungsverboten"
+        },
+        {
+          "documentIdentifier" : "BJNR003520981BJNE006312118",
+          "paragraph" : "§ 35",
+          "title" : "Eingangsstellen, Anmeldepflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR003520981BJNE006411126",
+          "paragraph" : "§ 36",
+          "title" : "Dokumentenprüfung, Nämlichkeitskontrolle, Warenuntersuchung"
+        },
+        {
+          "documentIdentifier" : "BJNR003520981BJNE007909118",
+          "paragraph" : "§ 37",
+          "title" : "Bescheinigungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Verbringen in das und aus dem Inland"
+    },
+    {
+      "documentIdentifier" : "BJNR003520981BJNG002301118",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR003520981BJNG002401118",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR003520981BJNE008124118",
+              "paragraph" : "§ 38",
+              "title" : "Straftaten"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              5,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Straftaten bei bestimmten Zuwiderhandlungen gegen die Futtermittelverordnung"
+        },
+        {
+          "documentIdentifier" : "BJNR003520981BJNG002501118",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR003520981BJNE009608124",
+              "paragraph" : "§ 39",
+              "title" : "Straftaten"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              5,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Straftaten bei bestimmten Zuwiderhandlungen gegen die Verordnung (EG) Nr. 999\/2001"
+        },
+        {
+          "documentIdentifier" : "BJNR003520981BJNG002601118",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR003520981BJNE010121118",
+              "paragraph" : "§ 40",
+              "title" : "Ordnungswidrigkeiten"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              5,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Ordnungswidrigkeiten bei bestimmten Zuwiderhandlungen gegen die Futtermittelverordnung"
+        },
+        {
+          "documentIdentifier" : "BJNR003520981BJNG002702124",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR003520981BJNE011500124",
+              "paragraph" : "§ 40a",
+              "title" : "Ordnungswidrigkeiten bei bestimmten Zuwiderhandlungen gegen die Verordnung (EG) Nr. 999\/2001"
+            },
+            {
+              "documentIdentifier" : "BJNR003520981BJNE008226118",
+              "paragraph" : "§ 41",
+              "title" : "Ordnungswidrigkeiten bei bestimmten Zuwiderhandlungen gegen die Verordnung (EG) Nr. 1831\/2003"
+            },
+            {
+              "documentIdentifier" : "BJNR003520981BJNE010601118",
+              "paragraph" : "§ 42",
+              "title" : "Ordnungswidrigkeiten bei bestimmten Zuwiderhandlungen gegen die Verordnung (EG) Nr. 183\/2005"
+            },
+            {
+              "documentIdentifier" : "BJNR003520981BJNE010703126",
+              "paragraph" : "§ 43",
+              "title" : "Ordnungswidrigkeiten bei Zuwiderhandlungen gegen die Verordnung (EG) Nr. 669\/2009"
+            },
+            {
+              "documentIdentifier" : "BJNR003520981BJNE010802126",
+              "paragraph" : "§ 44",
+              "title" : "Ordnungswidrigkeiten bei bestimmten Zuwiderhandlungen gegen die Verordnung (EG) Nr. 767\/2009"
+            },
+            {
+              "documentIdentifier" : "BJNR003520981BJNE010902118",
+              "paragraph" : "§ 45",
+              "title" : "Ordnungswidrigkeiten bei bestimmten Zuwiderhandlungen gegen die Durchführungsverordnung (EU) Nr. 884\/2014"
+            },
+            {
+              "documentIdentifier" : "BJNR003520981BJNE011001118",
+              "paragraph" : "§ 46",
+              "title" : "Ordnungswidrigkeiten bei bestimmten Zuwiderhandlungen gegen die Durchführungsverordnung (EU) 2015\/175"
+            },
+            {
+              "documentIdentifier" : "BJNR003520981BJNE011200118",
+              "paragraph" : "§ 46a",
+              "title" : "Ordnungswidrigkeiten bei bestimmten Zuwiderhandlungen gegen die Verordnung (EU) 2015\/786"
+            },
+            {
+              "documentIdentifier" : "BJNR003520981BJNE011102126",
+              "paragraph" : "§ 47",
+              "title" : "Ordnungswidrigkeiten bei bestimmten Zuwiderhandlungen gegen die Durchführungsverordnung (EU) 2016\/6"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              5,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Ordnungswidrigkeiten bei bestimmten Zuwiderhandlungen gegen Verordnungen der Europäischen Gemeinschaft oder der Europäischen Union"
+        }
+      ],
+      "title" : "Straftaten und Ordnungswidrigkeiten"
+    },
+    {
+      "documentIdentifier" : "BJNR003520981BJNG002801118",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR003520981BJNE008505118",
+          "paragraph" : "§ 48",
+          "title" : "Verkehr mit den zuständigen Behörden anderer Mitgliedstaaten"
+        },
+        {
+          "documentIdentifier" : "BJNR003520981BJNE008007118",
+          "paragraph" : "§ 49",
+          "title" : "Technische Festlegungen"
+        },
+        {
+          "documentIdentifier" : "BJNR003520981BJNE011600126",
+          "paragraph" : "§ 49a",
+          "title" : "Übergangsregelungen"
+        },
+        {
+          "documentIdentifier" : "BJNR003520981BJNE009910124",
+          "paragraph" : "§ 50",
+          "title" : "Weitere Anwendung von Vorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR003520981BJNE004833118",
+          "paragraph" : "§ 51",
+          "title" : "Inkrafttreten, Übergangsregelungen"
+        },
+        {
+          "documentIdentifier" : "BJNR003520981BJNE005921126",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu §§ 2 und 4 Absatz 1 Satz 1)"
+        },
+        {
+          "documentIdentifier" : "BJNR003520981BJNE005418126",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 6 Absatz 1)"
+        },
+        {
+          "documentIdentifier" : "BJNR003520981BJNE005215126",
+          "paragraph" : "Anlage 3",
+          "title" : "(zu § 6 Absatz 2)"
+        },
+        {
+          "documentIdentifier" : "BJNR003520981BJNE007809118",
+          "paragraph" : "Anlage 4",
+          "title" : "(zu § 18 Absatz 2)"
+        },
+        {
+          "documentIdentifier" : "BJNR003520981BJNE009810118",
+          "paragraph" : "Anlage 5",
+          "title" : "(zu § 32 Absatz 1 und 2)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussbestimmungen"
+    }
+  ]
+}

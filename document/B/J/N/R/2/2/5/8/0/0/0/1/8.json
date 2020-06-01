@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR225800018",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR225800018Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR225800018BJNE000200000",
+          "paragraph" : "Art 1",
+          "title" : "Auflösung, Übergang"
+        },
+        {
+          "documentIdentifier" : "BJNR225800018BJNE000300000",
+          "paragraph" : "Art 2",
+          "title" : "Beschäftigte"
+        },
+        {
+          "documentIdentifier" : "BJNR225800018BJNE000400000",
+          "paragraph" : "Art 3",
+          "title" : "Dienstort"
+        },
+        {
+          "documentIdentifier" : "BJNR225800018BJNE000500000",
+          "paragraph" : "Art 4",
+          "title" : "Rechtliche Folgeregelungen"
+        },
+        {
+          "documentIdentifier" : "BJNR225800018BJNE000600000",
+          "paragraph" : "Art 5",
+          "title" : "Inkrafttreten; Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "documentIdentifier" : "BJNR000190954",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR000190954BJNG000100312",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Prüfungsausschuß"
+    },
+    {
+      "documentIdentifier" : "BJNR000190954BJNG000200312",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Zulassung zur Prüfung"
+    },
+    {
+      "documentIdentifier" : "BJNR000190954BJNG000300312",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Feststellung des Prüfungsergebnisses"
+    },
+    {
+      "documentIdentifier" : "BJNR000190954BJNG000400312",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Prüfungsgebühren"
+    },
+    {
+      "documentIdentifier" : "BJNR000190954BJNG000500312",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Die Vorprüfung"
+    },
+    {
+      "documentIdentifier" : "BJNR000190954BJNG000600312",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Die Hauptprüfung"
+    },
+    {
+      "documentIdentifier" : "BJNR000190954BJNG000700312",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR000190954BJNE005200312",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 24 Abs. 1 erster Satz)"
+        },
+        {
+          "documentIdentifier" : "BJNR000190954BJNE005300312",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 24 Abs. 1 letzter Satz)"
+        },
+        {
+          "documentIdentifier" : "BJNR000190954BJNE005400312",
+          "paragraph" : "Anlage 3",
+          "title" : "(zu § 39 Abs. 3)"
+        },
+        {
+          "documentIdentifier" : "BJNR000190954BJNE005500312",
+          "paragraph" : "Anlage 4",
+          "title" : "(zu § 40 Abs. 2)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlußbestimmungen"
+    }
+  ]
+}

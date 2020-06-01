@@ -1,0 +1,156 @@
+{
+  "documentIdentifier" : "BJNR051400017",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR051400017BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR051400017BJNE000301311",
+          "paragraph" : "§ 1",
+          "title" : "Gegenstand"
+        },
+        {
+          "documentIdentifier" : "BJNR051400017BJNE000400000",
+          "paragraph" : "§ 2",
+          "title" : "Ziele der Ausbildung"
+        },
+        {
+          "documentIdentifier" : "BJNR051400017BJNE000501311",
+          "paragraph" : "§ 3",
+          "title" : "Auswahlverfahren"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeines"
+    },
+    {
+      "documentIdentifier" : "BJNR051400017BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR051400017BJNE000601311",
+          "paragraph" : "§ 4",
+          "title" : "Dauer und Gliederung"
+        },
+        {
+          "documentIdentifier" : "BJNR051400017BJNE000700000",
+          "paragraph" : "§ 5",
+          "title" : "Ausbildungsgebiete"
+        },
+        {
+          "documentIdentifier" : "BJNR051400017BJNE000801311",
+          "paragraph" : "§ 6",
+          "title" : "Dienstaufsicht und Durchführung"
+        },
+        {
+          "documentIdentifier" : "BJNR051400017BJNE000900000",
+          "paragraph" : "§ 7",
+          "title" : "Ausbildungsplan"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Ausbildung"
+    },
+    {
+      "documentIdentifier" : "BJNR051400017BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR051400017BJNE001000000",
+          "paragraph" : "§ 8",
+          "title" : "Zuständigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR051400017BJNE001100000",
+          "paragraph" : "§ 9",
+          "title" : "Prüfungskommission"
+        },
+        {
+          "documentIdentifier" : "BJNR051400017BJNE001201360",
+          "paragraph" : "§ 10",
+          "title" : "Inhalt und Durchführung"
+        },
+        {
+          "documentIdentifier" : "BJNR051400017BJNE001300000",
+          "paragraph" : "§ 11",
+          "title" : "Bewertung"
+        },
+        {
+          "documentIdentifier" : "BJNR051400017BJNE001400000",
+          "paragraph" : "§ 12",
+          "title" : "Bestehen"
+        },
+        {
+          "documentIdentifier" : "BJNR051400017BJNE001500000",
+          "paragraph" : "§ 13",
+          "title" : "Fernbleiben und Rücktritt"
+        },
+        {
+          "documentIdentifier" : "BJNR051400017BJNE001600000",
+          "paragraph" : "§ 14",
+          "title" : "Täuschung und Ordnungsverstoß"
+        },
+        {
+          "documentIdentifier" : "BJNR051400017BJNE001700000",
+          "paragraph" : "§ 15",
+          "title" : "Wiederholung"
+        },
+        {
+          "documentIdentifier" : "BJNR051400017BJNE001800000",
+          "paragraph" : "§ 16",
+          "title" : "Abschlusszeugnis und Bescheid über das nicht bestandene Prüfungsgespräch"
+        },
+        {
+          "documentIdentifier" : "BJNR051400017BJNE001900000",
+          "paragraph" : "§ 17",
+          "title" : "Prüfungsakten und Einsichtnahme"
+        },
+        {
+          "documentIdentifier" : "BJNR051400017BJNE002000000",
+          "paragraph" : "§ 18",
+          "title" : "Zuständigkeit für die Entscheidung über Widersprüche"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Prüfungsgespräch"
+    },
+    {
+      "documentIdentifier" : "BJNR051400017BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR051400017BJNE002100000",
+          "paragraph" : "§ 19",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussvorschrift"
+    }
+  ]
+}

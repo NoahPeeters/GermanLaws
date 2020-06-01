@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR325100997",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR325100997Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR325100997BJNE000300310",
+          "paragraph" : "Art 5",
+          "title" : "Umsetzung"
+        },
+        {
+          "documentIdentifier" : "BJNR325100997BJNE000500310",
+          "paragraph" : "Art 7",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

@@ -1,0 +1,303 @@
+{
+  "documentIdentifier" : "BJNR001710937",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR001710937Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR001710937BJNE000706123",
+          "paragraph" : "§ 1",
+          "title" : "Allgemeine Vorschriften"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR001710937BJNG000101307",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR001710937BJNE000802307",
+              "paragraph" : "§ 2",
+              "title" : "Sonderverwahrung"
+            },
+            {
+              "documentIdentifier" : "BJNR001710937BJNE000901307",
+              "paragraph" : "§ 3",
+              "title" : "Drittverwahrung"
+            },
+            {
+              "documentIdentifier" : "BJNR001710937BJNE001002307",
+              "paragraph" : "§ 4",
+              "title" : "Beschränkte Geltendmachung von Pfand- und Zurückbehaltungsrechten"
+            },
+            {
+              "documentIdentifier" : "BJNR001710937BJNE001104307",
+              "paragraph" : "§ 5",
+              "title" : "Sammelverwahrung"
+            },
+            {
+              "documentIdentifier" : "BJNR001710937BJNE001201307",
+              "paragraph" : "§ 6",
+              "title" : "Miteigentum am Sammelbestand,\nVerwaltungsbefugnis des Verwahrers bei der Sammelverwahrung"
+            },
+            {
+              "documentIdentifier" : "BJNR001710937BJNE001301307",
+              "paragraph" : "§ 7",
+              "title" : "Auslieferungsansprüche des Hinterlegers bei der\nSammelverwahrung"
+            },
+            {
+              "documentIdentifier" : "BJNR001710937BJNE001401307",
+              "paragraph" : "§ 8",
+              "title" : "Ansprüche der Miteigentümer und sonstiger dinglich\nBerechtigter bei der Sammelverwahrung"
+            },
+            {
+              "documentIdentifier" : "BJNR001710937BJNE001501307",
+              "paragraph" : "§ 9",
+              "title" : "Beschränkte Geltendmachung von Pfand- und Zurückbehaltungsrechten\nbei der Sammelverwahrung"
+            },
+            {
+              "documentIdentifier" : "BJNR001710937BJNE001602307",
+              "paragraph" : "§ 9a",
+              "title" : "Sammelurkunde"
+            },
+            {
+              "documentIdentifier" : "BJNR001710937BJNE001701307",
+              "paragraph" : "§ 10",
+              "title" : "Tauschverwahrung"
+            },
+            {
+              "documentIdentifier" : "BJNR001710937BJNE001801307",
+              "paragraph" : "§ 11",
+              "title" : "Umfang der Ermächtigung zur Tauschverwahrung"
+            },
+            {
+              "documentIdentifier" : "BJNR001710937BJNE001901307",
+              "paragraph" : "§ 12",
+              "title" : "Ermächtigungen zur Verpfändung"
+            },
+            {
+              "documentIdentifier" : "BJNR001710937BJNE005101307",
+              "paragraph" : "§ 12a",
+              "title" : "Verpfändung als Sicherheit für Verbindlichkeiten aus Börsengeschäften"
+            },
+            {
+              "documentIdentifier" : "BJNR001710937BJNE002001307",
+              "paragraph" : "§ 13",
+              "title" : "Ermächtigung zur Verfügung über das Eigentum"
+            },
+            {
+              "documentIdentifier" : "BJNR001710937BJNE002102307",
+              "paragraph" : "§ 14",
+              "title" : "Verwahrungsbuch"
+            },
+            {
+              "documentIdentifier" : "BJNR001710937BJNE002202307",
+              "paragraph" : "§ 15",
+              "title" : "Unregelmäßige Verwahrung,\nWertpapierdarlehen"
+            },
+            {
+              "documentIdentifier" : "BJNR001710937BJNE002304377",
+              "paragraph" : "§ 16",
+              "title" : "Befreiung von Formvorschriften"
+            },
+            {
+              "documentIdentifier" : "BJNR001710937BJNE002402307",
+              "paragraph" : "§ 17",
+              "title" : "Pfandverwahrung"
+            },
+            {
+              "documentIdentifier" : "BJNR001710937BJNE005200308",
+              "paragraph" : "§ 17a",
+              "title" : "Verfügungen über Wertpapiere"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Verwahrung"
+        }
+      ],
+      "title" : "Inhalt"
+    },
+    {
+      "documentIdentifier" : "BJNR001710937BJNG000201307",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR001710937BJNE002501307",
+          "paragraph" : "§ 18",
+          "title" : "Stückeverzeichnis"
+        },
+        {
+          "documentIdentifier" : "BJNR001710937BJNE002601307",
+          "paragraph" : "§ 19",
+          "title" : "Aussetzung der Übersendung des Stückeverzeichnisses"
+        },
+        {
+          "documentIdentifier" : "BJNR001710937BJNE002701307",
+          "paragraph" : "§ 20",
+          "title" : "Übersendung des Stückeverzeichnisses auf Verlangen"
+        },
+        {
+          "documentIdentifier" : "BJNR001710937BJNE002801307",
+          "paragraph" : "§ 21",
+          "title" : "Befugnis zur Aussetzung und Befugnis zur Übersendung\nauf Verlangen"
+        },
+        {
+          "documentIdentifier" : "BJNR001710937BJNE002901307",
+          "paragraph" : "§ 22",
+          "title" : "Stückeverzeichnis beim Auslandsgeschäft"
+        },
+        {
+          "documentIdentifier" : "BJNR001710937BJNE003001307",
+          "paragraph" : "§ 23",
+          "title" : "Befreiung von der Übersendung des Stückeverzeichnisses"
+        },
+        {
+          "documentIdentifier" : "BJNR001710937BJNE003104360",
+          "paragraph" : "§ 24",
+          "title" : "Erfüllung durch Übertragung von Miteigentum am Sammelbestand"
+        },
+        {
+          "documentIdentifier" : "BJNR001710937BJNE003201307",
+          "paragraph" : "§ 25",
+          "title" : "Rechte des Kommittenten bei Nichtübersendung des\nStückeverzeichnisses"
+        },
+        {
+          "documentIdentifier" : "BJNR001710937BJNE003301307",
+          "paragraph" : "§ 26",
+          "title" : "Stückeverzeichnis beim Auftrag zum Umtausch und zur\nGeltendmachung eines Bezugsrechts"
+        },
+        {
+          "documentIdentifier" : "BJNR001710937BJNE003401307",
+          "paragraph" : "§ 27",
+          "title" : "Verlust des Provisionsanspruchs"
+        },
+        {
+          "documentIdentifier" : "BJNR001710937BJNE003502307",
+          "paragraph" : "§ 28",
+          "title" : "Unabdingbarkeit der Verpflichtungen des Kommissionärs"
+        },
+        {
+          "documentIdentifier" : "BJNR001710937BJNE003601307",
+          "paragraph" : "§ 29",
+          "title" : "Verwahrung durch den Kommissionär"
+        },
+        {
+          "documentIdentifier" : "BJNR001710937BJNE003701307",
+          "paragraph" : "§ 30",
+          "title" : "Beschränkte Geltendmachung von Pfand- und Zurückbehaltungsrechten\nbei dem Kommissionsgeschäft"
+        },
+        {
+          "documentIdentifier" : "BJNR001710937BJNE003802307",
+          "paragraph" : "§ 31",
+          "title" : "Eigenhändler, Selbsteintritt"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Einkaufskommission"
+    },
+    {
+      "documentIdentifier" : "BJNR001710937BJNG000303307",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR001710937BJNE003905360",
+          "paragraph" : "§ 32",
+          "title" : "Vorrangige Gläubiger"
+        },
+        {
+          "documentIdentifier" : "BJNR001710937BJNE004003307",
+          "paragraph" : "§ 33",
+          "title" : "Ausgleichsverfahren bei Verpfändung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Vorrang im Insolvenzverfahren"
+    },
+    {
+      "documentIdentifier" : "BJNR001710937BJNG000401307",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR001710937BJNE004102307",
+          "paragraph" : "§ 34",
+          "title" : "Depotunterschlagung"
+        },
+        {
+          "documentIdentifier" : "BJNR001710937BJNE004202307",
+          "paragraph" : "§ 35",
+          "title" : "Unwahre Angaben über das Eigentum"
+        },
+        {
+          "documentIdentifier" : "BJNR001710937BJNE004301307",
+          "paragraph" : "§ 36",
+          "title" : "Strafantrag"
+        },
+        {
+          "documentIdentifier" : "BJNR001710937BJNE004405307",
+          "paragraph" : "§ 37",
+          "title" : "Strafbarkeit im Falle der Zahlungseinstellung oder des\nInsolvenzverfahrens"
+        },
+        {
+          "documentIdentifier" : "BJNR001710937BJNE004501307",
+          "paragraph" : "(XXXX) §§ 38 bis 40",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Strafbestimmungen"
+    },
+    {
+      "documentIdentifier" : "BJNR001710937BJNG000501307",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR001710937BJNE004903301",
+          "paragraph" : "§ 42",
+          "title" : "Anwendung auf Treuhänder, Erlass weiterer Bestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR001710937BJNE005002123",
+          "paragraph" : "§ 43",
+          "title" : "Übergangsregelung zum Ersten Finanzmarktnovellierungsgesetz"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlußbestimmungen"
+    }
+  ]
+}

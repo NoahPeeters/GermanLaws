@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR044800013",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR044800013Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR044800013BJNE000201360",
+          "paragraph" : "§ 1",
+          "title" : "Gebühren und Auslagen"
+        },
+        {
+          "documentIdentifier" : "BJNR044800013BJNE000302118",
+          "paragraph" : "§ 2",
+          "title" : "Zurücknahme von Anträgen"
+        },
+        {
+          "documentIdentifier" : "BJNR044800013BJNE000402118",
+          "paragraph" : "§ 3",
+          "title" : "Ablehnung von Anträgen"
+        },
+        {
+          "documentIdentifier" : "BJNR044800013BJNE000502118",
+          "paragraph" : "§ 4",
+          "title" : "Anwendungsbestimmung"
+        },
+        {
+          "documentIdentifier" : "BJNR044800013BJNE000602118",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 1 Absatz 1 Satz 2)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

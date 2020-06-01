@@ -1,0 +1,99 @@
+{
+  "documentIdentifier" : "BJNR013730976",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR013730976BJNG000100312",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Anpassung der Renten aus den gesetzlichen Rentenversicherungen"
+    },
+    {
+      "documentIdentifier" : "BJNR013730976BJNG000200312",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Anpassung der Geldleistungen und des Pflegegeldes aus der gesetzlichen Unfallversicherung"
+    },
+    {
+      "documentIdentifier" : "BJNR013730976BJNG000300312",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Anpassung der Altersgelder in der Altershilfe für Landwirte"
+    },
+    {
+      "documentIdentifier" : "BJNR013730976BJNG000400312",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gemeinsame Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR013730976BJNG000500312",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Fünfter Abschnitt"
+    },
+    {
+      "documentIdentifier" : "BJNR013730976BJNG000600312",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR013730976BJNE002401308",
+          "paragraph" : "§ 28",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übergangs- und Schlußvorschriften"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR135900019",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR135900019Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR135900019BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Erhebung von Gebühren und Auslagen"
+        },
+        {
+          "documentIdentifier" : "BJNR135900019BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Höhe der Gebühren und Auslagen"
+        },
+        {
+          "documentIdentifier" : "BJNR135900019BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Zeitgebühr"
+        },
+        {
+          "documentIdentifier" : "BJNR135900019BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Übergangsvorschrift"
+        },
+        {
+          "documentIdentifier" : "BJNR135900019BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR135900019BJNE000700000",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 2 Absatz 1)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

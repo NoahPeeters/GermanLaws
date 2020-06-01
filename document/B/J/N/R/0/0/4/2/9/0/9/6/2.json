@@ -1,0 +1,255 @@
+{
+  "documentIdentifier" : "BJNR004290962",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR004290962BJNG000102116",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR004290962BJNE000705116",
+          "paragraph" : "§ 1",
+          "title" : "Allgemeine Vorschriften für Bauflächen und Baugebiete"
+        },
+        {
+          "documentIdentifier" : "BJNR004290962BJNE000803116",
+          "paragraph" : "§ 2",
+          "title" : "Kleinsiedlungsgebiete"
+        },
+        {
+          "documentIdentifier" : "BJNR004290962BJNE000904116",
+          "paragraph" : "§ 3",
+          "title" : "Reine Wohngebiete"
+        },
+        {
+          "documentIdentifier" : "BJNR004290962BJNE001003116",
+          "paragraph" : "§ 4",
+          "title" : "Allgemeine Wohngebiete"
+        },
+        {
+          "documentIdentifier" : "BJNR004290962BJNE001103116",
+          "paragraph" : "§ 4a",
+          "title" : "Gebiete zur Erhaltung und Entwicklung der Wohnnutzung (besondere Wohngebiete)"
+        },
+        {
+          "documentIdentifier" : "BJNR004290962BJNE001203116",
+          "paragraph" : "§ 5",
+          "title" : "Dorfgebiete"
+        },
+        {
+          "documentIdentifier" : "BJNR004290962BJNE001303116",
+          "paragraph" : "§ 6",
+          "title" : "Mischgebiete"
+        },
+        {
+          "documentIdentifier" : "BJNR004290962BJNE004101116",
+          "paragraph" : "§ 6a",
+          "title" : "Urbane Gebiete"
+        },
+        {
+          "documentIdentifier" : "BJNR004290962BJNE001403116",
+          "paragraph" : "§ 7",
+          "title" : "Kerngebiete"
+        },
+        {
+          "documentIdentifier" : "BJNR004290962BJNE001503116",
+          "paragraph" : "§ 8",
+          "title" : "Gewerbegebiete"
+        },
+        {
+          "documentIdentifier" : "BJNR004290962BJNE001603116",
+          "paragraph" : "§ 9",
+          "title" : "Industriegebiete"
+        },
+        {
+          "documentIdentifier" : "BJNR004290962BJNE001702116",
+          "paragraph" : "§ 10",
+          "title" : "Sondergebiete, die der Erholung dienen"
+        },
+        {
+          "documentIdentifier" : "BJNR004290962BJNE001805116",
+          "paragraph" : "§ 11",
+          "title" : "Sonstige Sondergebiete"
+        },
+        {
+          "documentIdentifier" : "BJNR004290962BJNE001903116",
+          "paragraph" : "§ 12",
+          "title" : "Stellplätze und Garagen"
+        },
+        {
+          "documentIdentifier" : "BJNR004290962BJNE002002116",
+          "paragraph" : "§ 13",
+          "title" : "Gebäude und Räume für freie Berufe"
+        },
+        {
+          "documentIdentifier" : "BJNR004290962BJNE004201116",
+          "paragraph" : "§ 13a",
+          "title" : "Ferienwohnungen"
+        },
+        {
+          "documentIdentifier" : "BJNR004290962BJNE002104116",
+          "paragraph" : "§ 14",
+          "title" : "Nebenanlagen; Anlagen zur Nutzung solarer Strahlungsenergie und Kraft-Wärme-Kopplungsanlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR004290962BJNE002203116",
+          "paragraph" : "§ 15",
+          "title" : "Allgemeine Voraussetzungen für die Zulässigkeit baulicher und sonstiger Anlagen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Art der baulichen Nutzung"
+    },
+    {
+      "documentIdentifier" : "BJNR004290962BJNG000202116",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR004290962BJNE002303116",
+          "paragraph" : "§ 16",
+          "title" : "Bestimmung des Maßes der baulichen Nutzung"
+        },
+        {
+          "documentIdentifier" : "BJNR004290962BJNE002405116",
+          "paragraph" : "§ 17",
+          "title" : "Obergrenzen für die Bestimmung des Maßes der baulichen Nutzung"
+        },
+        {
+          "documentIdentifier" : "BJNR004290962BJNE002503116",
+          "paragraph" : "§ 18",
+          "title" : "Höhe baulicher Anlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR004290962BJNE002603116",
+          "paragraph" : "§ 19",
+          "title" : "Grundflächenzahl, zulässige Grundfläche"
+        },
+        {
+          "documentIdentifier" : "BJNR004290962BJNE002703116",
+          "paragraph" : "§ 20",
+          "title" : "Vollgeschosse, Geschossflächenzahl, Geschossfläche"
+        },
+        {
+          "documentIdentifier" : "BJNR004290962BJNE002803116",
+          "paragraph" : "§ 21",
+          "title" : "Baumassenzahl, Baumasse"
+        },
+        {
+          "documentIdentifier" : "BJNR004290962BJNE002903116",
+          "paragraph" : "§ 21a",
+          "title" : "Stellplätze, Garagen und Gemeinschaftsanlagen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Maß der baulichen Nutzung"
+    },
+    {
+      "documentIdentifier" : "BJNR004290962BJNG000302116",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR004290962BJNE003003116",
+          "paragraph" : "§ 22",
+          "title" : "Bauweise"
+        },
+        {
+          "documentIdentifier" : "BJNR004290962BJNE003103116",
+          "paragraph" : "§ 23",
+          "title" : "Überbaubare Grundstücksfläche"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Bauweise, überbaubare Grundstücksfläche"
+    },
+    {
+      "documentIdentifier" : "BJNR004290962BJNG000402116",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR004290962BJNE003203116",
+          "paragraph" : "§ 24",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Vierter Abschnitt"
+    },
+    {
+      "documentIdentifier" : "BJNR004290962BJNG000502116",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR004290962BJNE003302116",
+          "paragraph" : "§ 25",
+          "title" : "Fortführung eingeleiteter Verfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR004290962BJNE003402116",
+          "paragraph" : "§ 25a",
+          "title" : "Überleitungsvorschriften aus Anlaß der zweiten Änderungsverordnung"
+        },
+        {
+          "documentIdentifier" : "BJNR004290962BJNE003702116",
+          "paragraph" : "§ 25b",
+          "title" : "Überleitungsvorschrift aus Anlass der dritten Änderungsverordnung"
+        },
+        {
+          "documentIdentifier" : "BJNR004290962BJNE003803116",
+          "paragraph" : "§ 25c",
+          "title" : "Überleitungsvorschrift aus Anlass der vierten Änderungsverordnung"
+        },
+        {
+          "documentIdentifier" : "BJNR004290962BJNE004001116",
+          "paragraph" : "§ 25d",
+          "title" : "Überleitungsvorschrift aus Anlass des Gesetzes zur Stärkung der Innenentwicklung in den Städten und Gemeinden und weiteren Fortentwicklung des Städtebaurechts"
+        },
+        {
+          "documentIdentifier" : "BJNR004290962BJNE003503116",
+          "paragraph" : "§ 26",
+          "title" : "(Berlin-Klausel)"
+        },
+        {
+          "documentIdentifier" : "BJNR004290962BJNE003902116",
+          "paragraph" : "§ 26a",
+          "title" : "Überleitungsregelungen aus Anlass der Herstellung der Einheit Deutschlands"
+        },
+        {
+          "documentIdentifier" : "BJNR004290962BJNE003602116",
+          "paragraph" : "§ 27",
+          "title" : "(Inkrafttreten)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Überleitungs- und Schlussvorschriften"
+    }
+  ]
+}

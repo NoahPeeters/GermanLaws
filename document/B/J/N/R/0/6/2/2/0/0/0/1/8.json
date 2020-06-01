@@ -1,0 +1,251 @@
+{
+  "documentIdentifier" : "BJNR062200018",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR062200018BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR062200018BJNE000300000",
+          "paragraph" : "§ 1",
+          "title" : "Staatliche Anerkennung des Ausbildungsberufes"
+        },
+        {
+          "documentIdentifier" : "BJNR062200018BJNE000400000",
+          "paragraph" : "§ 2",
+          "title" : "Dauer der Berufsausbildung"
+        },
+        {
+          "documentIdentifier" : "BJNR062200018BJNE000500000",
+          "paragraph" : "§ 3",
+          "title" : "Gegenstand der Berufsausbildung und Ausbildungsrahmenplan"
+        },
+        {
+          "documentIdentifier" : "BJNR062200018BJNE000600000",
+          "paragraph" : "§ 4",
+          "title" : "Struktur der Berufsausbildung, Ausbildungsberufsbild"
+        },
+        {
+          "documentIdentifier" : "BJNR062200018BJNE000700000",
+          "paragraph" : "§ 5",
+          "title" : "Ausbildungsplan"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gegenstand, Dauer und Gliederung der Berufsausbildung"
+    },
+    {
+      "documentIdentifier" : "BJNR062200018BJNG000200000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR062200018BJNG000300000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR062200018BJNE000800000",
+              "paragraph" : "§ 6",
+              "title" : "Ziel, Aufteilung in zwei Teile und Zeitpunkte"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Allgemeines"
+        },
+        {
+          "documentIdentifier" : "BJNR062200018BJNG000400000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR062200018BJNE000900000",
+              "paragraph" : "§ 7",
+              "title" : "Inhalt von Teil 1"
+            },
+            {
+              "documentIdentifier" : "BJNR062200018BJNE001000000",
+              "paragraph" : "§ 8",
+              "title" : "Prüfungsbereiche von Teil 1"
+            },
+            {
+              "documentIdentifier" : "BJNR062200018BJNE001100000",
+              "paragraph" : "§ 9",
+              "title" : "Prüfungsbereich Reparieren von Maß- und Konfektionsschuhen"
+            },
+            {
+              "documentIdentifier" : "BJNR062200018BJNE001200000",
+              "paragraph" : "§ 10",
+              "title" : "Prüfungsbereich Schuhreparatur"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Teil 1 der Gesellenprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR062200018BJNG000500000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR062200018BJNE001300000",
+              "paragraph" : "§ 11",
+              "title" : "Inhalt von Teil 2"
+            },
+            {
+              "documentIdentifier" : "BJNR062200018BJNE001400000",
+              "paragraph" : "§ 12",
+              "title" : "Prüfungsbereiche von Teil 2"
+            },
+            {
+              "documentIdentifier" : "BJNR062200018BJNE001500000",
+              "paragraph" : "§ 13",
+              "title" : "Prüfungsbereich Herstellen von Maßschuhen"
+            },
+            {
+              "documentIdentifier" : "BJNR062200018BJNE001600000",
+              "paragraph" : "§ 14",
+              "title" : "Prüfungsbereich Schuhtechnik"
+            },
+            {
+              "documentIdentifier" : "BJNR062200018BJNE001700000",
+              "paragraph" : "§ 15",
+              "title" : "Prüfungsbereich Wirtschafts- und Sozialkunde"
+            },
+            {
+              "documentIdentifier" : "BJNR062200018BJNE001800000",
+              "paragraph" : "§ 16",
+              "title" : "Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Gesellenprüfung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Teil 2 der Gesellenprüfung in der Fachrichtung Maßschuhe"
+        },
+        {
+          "documentIdentifier" : "BJNR062200018BJNG000600000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR062200018BJNE001900000",
+              "paragraph" : "§ 17",
+              "title" : "Inhalt von Teil 2"
+            },
+            {
+              "documentIdentifier" : "BJNR062200018BJNE002000000",
+              "paragraph" : "§ 18",
+              "title" : "Prüfungsbereiche von Teil 2"
+            },
+            {
+              "documentIdentifier" : "BJNR062200018BJNE002100000",
+              "paragraph" : "§ 19",
+              "title" : "Prüfungsbereich Herstellen von Schäften"
+            },
+            {
+              "documentIdentifier" : "BJNR062200018BJNE002200000",
+              "paragraph" : "§ 20",
+              "title" : "Prüfungsbereich Schuhtechnik"
+            },
+            {
+              "documentIdentifier" : "BJNR062200018BJNE002300000",
+              "paragraph" : "§ 21",
+              "title" : "Prüfungsbereich Wirtschafts- und Sozialkunde"
+            },
+            {
+              "documentIdentifier" : "BJNR062200018BJNE002400000",
+              "paragraph" : "§ 22",
+              "title" : "Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Gesellenprüfung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Teil 2 der Gesellenprüfung in der Fachrichtung Schaftbau"
+        }
+      ],
+      "title" : "Gesellenprüfung"
+    },
+    {
+      "documentIdentifier" : "BJNR062200018BJNG000700000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR062200018BJNE002500000",
+          "paragraph" : "§ 23",
+          "title" : "Anrechnung von Ausbildungszeiten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Weitere Berufsausbildung"
+    },
+    {
+      "documentIdentifier" : "BJNR062200018BJNG000800000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR062200018BJNE002600000",
+          "paragraph" : "§ 24",
+          "title" : "Bestehende Berufsausbildungsverhältnisse"
+        },
+        {
+          "documentIdentifier" : "BJNR062200018BJNE002700000",
+          "paragraph" : "§ 25",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR062200018BJNE002800000",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 3 Absatz 1)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussvorschriften"
+    }
+  ]
+}

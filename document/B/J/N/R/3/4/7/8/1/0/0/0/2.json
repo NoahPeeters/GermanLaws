@@ -1,0 +1,116 @@
+{
+  "documentIdentifier" : "BJNR347810002",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR347810002BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR347810002BJNE000104310",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR347810002BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR347810002BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR347810002BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Inverkehrbringen"
+        },
+        {
+          "documentIdentifier" : "BJNR347810002BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Übermittlung der Konformitätserklärung"
+        },
+        {
+          "documentIdentifier" : "BJNR347810002BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Aufbewahrung und Übermittlung von Informationen aus der\nKonformitätsbewertung"
+        },
+        {
+          "documentIdentifier" : "BJNR347810002BJNE000603116",
+          "paragraph" : "§ 6",
+          "title" : "Mitteilungspflichten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Marktverkehrsregelungen für Geräte und Maschinen"
+    },
+    {
+      "documentIdentifier" : "BJNR347810002BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR347810002BJNE000701310",
+          "paragraph" : "§ 7",
+          "title" : "Betrieb in Wohngebieten"
+        },
+        {
+          "documentIdentifier" : "BJNR347810002BJNE000800000",
+          "paragraph" : "§ 8",
+          "title" : "Betrieb in empfindlichen Gebieten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Betriebsregelungen für Geräte und Maschinen"
+    },
+    {
+      "documentIdentifier" : "BJNR347810002BJNG000500000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR347810002BJNE000902310",
+          "paragraph" : "§ 9",
+          "title" : "Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR347810002BJNE001000000",
+          "paragraph" : "§ 10",
+          "title" : "Übergangsvorschrift"
+        },
+        {
+          "documentIdentifier" : "BJNR347810002BJNE001100000",
+          "paragraph" : "§ 11",
+          "title" : "Anpassungsvorschrift"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussvorschriften"
+    }
+  ]
+}

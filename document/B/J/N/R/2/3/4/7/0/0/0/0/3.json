@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR234700003",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR234700003Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR234700003BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Betriebskosten"
+        },
+        {
+          "documentIdentifier" : "BJNR234700003BJNE000201310",
+          "paragraph" : "§ 2",
+          "title" : "Aufstellung der Betriebskosten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

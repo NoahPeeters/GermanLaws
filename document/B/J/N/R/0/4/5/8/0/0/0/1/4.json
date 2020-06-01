@@ -1,0 +1,84 @@
+{
+  "documentIdentifier" : "BJNR045800014",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR045800014Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR045800014BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich und Gebührenerhebung"
+        },
+        {
+          "documentIdentifier" : "BJNR045800014BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Entstehung der Gebührenschuld"
+        },
+        {
+          "documentIdentifier" : "BJNR045800014BJNE000401126",
+          "paragraph" : "§ 3",
+          "title" : "Gebührenschuldner"
+        },
+        {
+          "documentIdentifier" : "BJNR045800014BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Befreiung von der Zahlung der Gebühren und von der Erstattung der Auslagen"
+        },
+        {
+          "documentIdentifier" : "BJNR045800014BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Höhe der Grundgebühr"
+        },
+        {
+          "documentIdentifier" : "BJNR045800014BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Höhe der Zusatzgebühr für Datenauswertung und Datenbereitstellung"
+        },
+        {
+          "documentIdentifier" : "BJNR045800014BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Höhe der Gebühr bei Ablehnung eines Antrags"
+        },
+        {
+          "documentIdentifier" : "BJNR045800014BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Höhe der Gebühr bei Rücknahme des Antrags"
+        },
+        {
+          "documentIdentifier" : "BJNR045800014BJNE001000000",
+          "paragraph" : "§ 9",
+          "title" : "Erstattung von Auslagen"
+        },
+        {
+          "documentIdentifier" : "BJNR045800014BJNE001100000",
+          "paragraph" : "§ 10",
+          "title" : "Gebührenerhöhung und -ermäßigung"
+        },
+        {
+          "documentIdentifier" : "BJNR045800014BJNE001200000",
+          "paragraph" : "§ 11",
+          "title" : "Anwendung des Bundesgebührengesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR045800014BJNE001300000",
+          "paragraph" : "§ 12",
+          "title" : "Gebühren und Auslagen vor Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR045800014BJNE001400000",
+          "paragraph" : "§ 13",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

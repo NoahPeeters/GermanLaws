@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR244310017",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR244310017Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR244310017BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Aufhebung von Urteilen"
+        },
+        {
+          "documentIdentifier" : "BJNR244310017BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Teilaufhebung von Urteilen"
+        },
+        {
+          "documentIdentifier" : "BJNR244310017BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Feststellung der Aufhebung von Urteilen; Rehabilitierungsbescheinigung"
+        },
+        {
+          "documentIdentifier" : "BJNR244310017BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Tilgung im Bundeszentralregister"
+        },
+        {
+          "documentIdentifier" : "BJNR244310017BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Entschädigung"
+        },
+        {
+          "documentIdentifier" : "BJNR244310017BJNE000600000",
+          "paragraph" : "§ 6",
+          "title" : "Entschädigungsverfahren beim Bundesamt für Justiz"
+        },
+        {
+          "documentIdentifier" : "BJNR244310017BJNE000700000",
+          "paragraph" : "§ 7",
+          "title" : "Rechtsweg"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

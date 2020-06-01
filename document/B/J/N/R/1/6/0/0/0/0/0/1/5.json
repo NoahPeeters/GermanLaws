@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR160000015",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR160000015Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR160000015BJNE000101360",
+          "paragraph" : "§ 1",
+          "title" : "Widersprüche in Angelegenheiten der Besoldung, des Trennungsgelds, der Umzugskostenvergütung und der Beihilfe"
+        },
+        {
+          "documentIdentifier" : "BJNR160000015BJNE000201360",
+          "paragraph" : "§ 2",
+          "title" : "Vertretung bei Klagen aus dem Beamtenverhältnis in Angelegenheiten der Besoldung, des Trennungsgelds, der Umzugskostenvergütung und der Beihilfe"
+        },
+        {
+          "documentIdentifier" : "BJNR160000015BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Vorbehaltsklausel"
+        },
+        {
+          "documentIdentifier" : "BJNR160000015BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Übergangsregelung"
+        },
+        {
+          "documentIdentifier" : "BJNR160000015BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

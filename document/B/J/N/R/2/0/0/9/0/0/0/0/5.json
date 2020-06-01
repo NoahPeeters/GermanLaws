@@ -1,0 +1,74 @@
+{
+  "documentIdentifier" : "BJNR200900005",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR200900005Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR200900005BJNE000102116",
+          "paragraph" : "§ 1",
+          "title" : "Rechtsform, Name"
+        },
+        {
+          "documentIdentifier" : "BJNR200900005BJNE000201377",
+          "paragraph" : "§ 2",
+          "title" : "Tätigkeiten, Aufgabendurchführung"
+        },
+        {
+          "documentIdentifier" : "BJNR200900005BJNE000303116",
+          "paragraph" : "§ 3",
+          "title" : "Organe"
+        },
+        {
+          "documentIdentifier" : "BJNR200900005BJNE000405116",
+          "paragraph" : "§ 4",
+          "title" : "Öffentlich-rechtliche Amtsverhältnisse"
+        },
+        {
+          "documentIdentifier" : "BJNR200900005BJNE000503116",
+          "paragraph" : "§ 5",
+          "title" : "Beirat"
+        },
+        {
+          "documentIdentifier" : "BJNR200900005BJNE000602116",
+          "paragraph" : "§ 6",
+          "title" : "Geschäftsordnung, Vorsitz, Sitzungen des Beirates"
+        },
+        {
+          "documentIdentifier" : "BJNR200900005BJNE000700000",
+          "paragraph" : "§ 7",
+          "title" : "Aufgaben des Beirates"
+        },
+        {
+          "documentIdentifier" : "BJNR200900005BJNE000800000",
+          "paragraph" : "§ 8",
+          "title" : "Länderausschuss"
+        },
+        {
+          "documentIdentifier" : "BJNR200900005BJNE000900000",
+          "paragraph" : "§ 9",
+          "title" : "Geschäftsordnung, Vorsitz, Sitzungen des Länderausschusses"
+        },
+        {
+          "documentIdentifier" : "BJNR200900005BJNE001000000",
+          "paragraph" : "§ 10",
+          "title" : "Aufgaben des Länderausschusses"
+        },
+        {
+          "documentIdentifier" : "BJNR200900005BJNE001100000",
+          "paragraph" : "§ 11",
+          "title" : "Übergangsvorschrift"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "documentIdentifier" : "BJNR190600999",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR190600999BJNG000100305",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR190600999BJNE000801377",
+          "paragraph" : "§ 1",
+          "title" : "Zuständigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR190600999BJNE000900305",
+          "paragraph" : "§ 2",
+          "title" : "Berechnung"
+        },
+        {
+          "documentIdentifier" : "BJNR190600999BJNE001000305",
+          "paragraph" : "§ 3",
+          "title" : "Bestimmung und Mitteilung der vorbehaltenen Stellen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Berechnung und Bestimmung der vorbehaltenen Stellen"
+    },
+    {
+      "documentIdentifier" : "BJNR190600999BJNG000200305",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR190600999BJNE001100305",
+          "paragraph" : "§ 4",
+          "title" : "Einrichtung"
+        },
+        {
+          "documentIdentifier" : "BJNR190600999BJNE001201310",
+          "paragraph" : "§ 5",
+          "title" : "Aufgaben"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Vormerkstellen"
+    },
+    {
+      "documentIdentifier" : "BJNR190600999BJNG000300305",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR190600999BJNE001300305",
+          "paragraph" : "§ 6",
+          "title" : "Verfahren und Unterlagen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Bewerbung"
+    },
+    {
+      "documentIdentifier" : "BJNR190600999BJNG000400305",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR190600999BJNE001400305",
+          "paragraph" : "§ 7",
+          "title" : "Zuweisungsvorschlag"
+        },
+        {
+          "documentIdentifier" : "BJNR190600999BJNE001500305",
+          "paragraph" : "§ 8",
+          "title" : "Zuweisung"
+        },
+        {
+          "documentIdentifier" : "BJNR190600999BJNE001600305",
+          "paragraph" : "§ 9",
+          "title" : "Einstellung"
+        },
+        {
+          "documentIdentifier" : "BJNR190600999BJNE001701310",
+          "paragraph" : "§ 10",
+          "title" : "Ausscheiden vor Anstellung"
+        },
+        {
+          "documentIdentifier" : "BJNR190600999BJNE001800305",
+          "paragraph" : "§ 11",
+          "title" : "Freigabe von Stellen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Zuweisung und Einstellung"
+    },
+    {
+      "documentIdentifier" : "BJNR190600999BJNG000500305",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR190600999BJNE001901310",
+          "paragraph" : "§ 12",
+          "title" : "Feststellung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Erlöschen des Rechts aus dem Eingliederungsschein"
+    },
+    {
+      "documentIdentifier" : "BJNR190600999BJNG000600305",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR190600999BJNE002000305",
+          "paragraph" : "§ 13",
+          "title" : "Verbleib des Eingliederungsscheins, des Zulassungsscheins\noder der Bestätigung"
+        },
+        {
+          "documentIdentifier" : "BJNR190600999BJNE002100305",
+          "paragraph" : "§ 14",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlußvorschriften"
+    }
+  ]
+}

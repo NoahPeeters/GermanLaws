@@ -1,0 +1,116 @@
+{
+  "documentIdentifier" : "BJNR295010001",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR295010001BJNG000100306",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR295010001BJNE000201377",
+          "paragraph" : "§ 1",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR295010001BJNE000300306",
+          "paragraph" : "§ 2",
+          "title" : "Sachliche Zuständigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR295010001BJNE000401377",
+          "paragraph" : "§ 3",
+          "title" : "Verfahren"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Begriffsbestimmungen, Zuständigkeiten und Verfahren"
+    },
+    {
+      "documentIdentifier" : "BJNR295010001BJNG000200306",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR295010001BJNE000500306",
+          "paragraph" : "§ 4",
+          "title" : "Adoptionsbewerbung"
+        },
+        {
+          "documentIdentifier" : "BJNR295010001BJNE000600306",
+          "paragraph" : "§ 5",
+          "title" : "Aufnahme eines Kindes"
+        },
+        {
+          "documentIdentifier" : "BJNR295010001BJNE000701377",
+          "paragraph" : "§ 6",
+          "title" : "Einreise und Aufenthalt"
+        },
+        {
+          "documentIdentifier" : "BJNR295010001BJNE000800306",
+          "paragraph" : "§ 7",
+          "title" : "Bereiterklärung zur Adoption; Verantwortlichkeiten für ein\nAdoptivpflegekind"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Internationale Adoptionsvermittlung im Verhältnis zu anderen Vertragsstaaten"
+    },
+    {
+      "documentIdentifier" : "BJNR295010001BJNG000300306",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR295010001BJNE000900306",
+          "paragraph" : "§ 8",
+          "title" : "Bescheinigungen über eine im Inland vollzogene Annahme oder\nUmwandlung eines Annahmeverhältnisses"
+        },
+        {
+          "documentIdentifier" : "BJNR295010001BJNE001000306",
+          "paragraph" : "§ 9",
+          "title" : "Überprüfung ausländischer Bescheinigungen über den Vollzug einer\nAnnahme oder die Umwandlung eines Annahmeverhältnisses"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Bescheinigungen über das Zustandekommen oder die Umwandlung eines Annahmeverhältnisses"
+    },
+    {
+      "documentIdentifier" : "BJNR295010001BJNG000400306",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR295010001BJNE001100306",
+          "paragraph" : "§ 10",
+          "title" : "Anwendung des Abschnitts 2"
+        },
+        {
+          "documentIdentifier" : "BJNR295010001BJNE001200306",
+          "paragraph" : "§ 11",
+          "title" : "Anwendung des Abschnitts 3"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Zeitlicher Anwendungsbereich"
+    }
+  ]
+}

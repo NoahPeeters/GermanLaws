@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR181500002",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR181500002Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR181500002BJNE000400305",
+          "paragraph" : "Art 7",
+          "title" : "Rückkehr zum einheitlichen Verordnungsrang"
+        },
+        {
+          "documentIdentifier" : "BJNR181500002BJNE000500305",
+          "paragraph" : "Art 8",
+          "title" : "Neubekanntmachung des Seeaufgabengesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR181500002BJNE000600305",
+          "paragraph" : "Art 9",
+          "title" : "Aufhebung von Rechtsvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR181500002BJNE000700305",
+          "paragraph" : "Art 10",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

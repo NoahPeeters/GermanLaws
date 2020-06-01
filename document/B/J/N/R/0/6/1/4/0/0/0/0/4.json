@@ -1,0 +1,84 @@
+{
+  "documentIdentifier" : "BJNR061400004",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR061400004Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR061400004BJNE000203140",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR061400004BJNE000300000",
+          "paragraph" : "§ 1a",
+          "title" : "Bezugnahme auf Richtlinien der Europäischen Gemeinschaft"
+        },
+        {
+          "documentIdentifier" : "BJNR061400004BJNE000402140",
+          "paragraph" : "§ 2",
+          "title" : "Inverkehrbringen"
+        },
+        {
+          "documentIdentifier" : "BJNR061400004BJNE000503140",
+          "paragraph" : "§ 3",
+          "title" : "Ausnahmen"
+        },
+        {
+          "documentIdentifier" : "BJNR061400004BJNE000601310",
+          "paragraph" : "§ 4",
+          "title" : "Typgenehmigung"
+        },
+        {
+          "documentIdentifier" : "BJNR061400004BJNE000700000",
+          "paragraph" : "§ 5",
+          "title" : "Typgenehmigungsverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR061400004BJNE000800000",
+          "paragraph" : "§ 6",
+          "title" : "Änderung von Genehmigungen"
+        },
+        {
+          "documentIdentifier" : "BJNR061400004BJNE000901310",
+          "paragraph" : "§ 7",
+          "title" : "Serienübereinstimmung"
+        },
+        {
+          "documentIdentifier" : "BJNR061400004BJNE001000000",
+          "paragraph" : "§ 8",
+          "title" : "Nichtübereinstimmung mit dem genehmigten Typ oder der genehmigten\nTypfamilie"
+        },
+        {
+          "documentIdentifier" : "BJNR061400004BJNE001101116",
+          "paragraph" : "§ 9",
+          "title" : "Zusammenarbeit mit den Genehmigungsbehörden der übrigen Mitgliedstaaten"
+        },
+        {
+          "documentIdentifier" : "BJNR061400004BJNE001201310",
+          "paragraph" : "§ 10",
+          "title" : "Vollzugsbehörden und Technische Dienste"
+        },
+        {
+          "documentIdentifier" : "BJNR061400004BJNE001300000",
+          "paragraph" : "§ 11",
+          "title" : "Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR061400004BJNE001400000",
+          "paragraph" : "§ 12",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

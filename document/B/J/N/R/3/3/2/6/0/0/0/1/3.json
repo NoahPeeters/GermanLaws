@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR332600013",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR332600013Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR332600013BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Geltungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR332600013BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Inhalt der Frequenzzuweisungstabelle"
+        },
+        {
+          "documentIdentifier" : "BJNR332600013BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Aufbau der Frequenzzuweisungstabelle"
+        },
+        {
+          "documentIdentifier" : "BJNR332600013BJNE000501305",
+          "paragraph" : "§ 4",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR332600013BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR332600013BJNE000803124",
+          "paragraph" : "Anlage",
+          "title" : "Frequenzzuweisungstabelle für die Bundesrepublik Deutschland"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

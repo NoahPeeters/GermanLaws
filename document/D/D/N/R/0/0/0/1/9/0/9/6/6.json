@@ -1,0 +1,72 @@
+{
+  "documentIdentifier" : "DDNR000190966",
+  "sections" : [
+    {
+      "documentIdentifier" : "DDNR000190966Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "DDNR000190966BJNE000500307",
+          "paragraph" : "§ 1",
+          "title" : "Geltungsbereich"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "DDNR000190966BJNG000100307",
+          "laws" : [
+            {
+              "documentIdentifier" : "DDNR000190966BJNE000900307",
+              "paragraph" : "§ 5",
+              "title" : "Die Aufgaben des Leiters der Einrichtung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Inhalt und Umfang der Fürsorge und Aufsicht"
+        }
+      ],
+      "title" : "Inhalt"
+    },
+    {
+      "documentIdentifier" : "DDNR000190966BJNG000200307",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Pflichten und Rechte der Lehrkräfte und Erzieher"
+    },
+    {
+      "documentIdentifier" : "DDNR000190966BJNG000300307",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlußbestimmungen"
+    }
+  ]
+}

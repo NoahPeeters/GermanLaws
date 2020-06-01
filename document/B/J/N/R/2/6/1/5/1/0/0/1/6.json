@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR261510016",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR261510016Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR261510016BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR261510016BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR261510016BJNE000301116",
+          "paragraph" : "§ 3",
+          "title" : "Unerlaubter Umgang mit neuen psychoaktiven Stoffen"
+        },
+        {
+          "documentIdentifier" : "BJNR261510016BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Strafvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR261510016BJNE000501116",
+          "paragraph" : "§ 5",
+          "title" : "Einziehung"
+        },
+        {
+          "documentIdentifier" : "BJNR261510016BJNE000600000",
+          "paragraph" : "§ 6",
+          "title" : "Datenübermittlung"
+        },
+        {
+          "documentIdentifier" : "BJNR261510016BJNE000700000",
+          "paragraph" : "§ 7",
+          "title" : "Verordnungsermächtigung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

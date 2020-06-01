@@ -1,0 +1,348 @@
+{
+  "documentIdentifier" : "BJNR185100019",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR185100019BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR185100019BJNE000300000",
+          "paragraph" : "§ 1",
+          "title" : "Art, Stichtag, Quellen und Zwecke des Zensus"
+        },
+        {
+          "documentIdentifier" : "BJNR185100019BJNE000400000",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Regelungen"
+    },
+    {
+      "documentIdentifier" : "BJNR185100019BJNG000200000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR185100019BJNG000300000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR185100019BJNE000500000",
+              "paragraph" : "§ 3",
+              "title" : "Erhebungseinheiten der Bevölkerungszählung"
+            },
+            {
+              "documentIdentifier" : "BJNR185100019BJNE000600000",
+              "paragraph" : "§ 4",
+              "title" : "Gebietsstand und Bevölkerungsfortschreibung"
+            },
+            {
+              "documentIdentifier" : "BJNR185100019BJNE000700000",
+              "paragraph" : "§ 5",
+              "title" : "Übermittlung von Daten durch die Meldebehörden"
+            },
+            {
+              "documentIdentifier" : "BJNR185100019BJNE000800000",
+              "paragraph" : "§ 6",
+              "title" : "Erhebungsmerkmale und Hilfsmerkmale"
+            },
+            {
+              "documentIdentifier" : "BJNR185100019BJNE000900000",
+              "paragraph" : "§ 7",
+              "title" : "Übermittlungen von Daten durch oberste Bundesbehörden"
+            },
+            {
+              "documentIdentifier" : "BJNR185100019BJNE001000000",
+              "paragraph" : "§ 8",
+              "title" : "Übermittlung von Daten durch die Bundesagentur für Arbeit"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Bevölkerungszählung"
+        },
+        {
+          "documentIdentifier" : "BJNR185100019BJNG000400000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR185100019BJNE001100000",
+              "paragraph" : "§ 9",
+              "title" : "Erhebungseinheiten der Gebäude- und Wohnungszählung"
+            },
+            {
+              "documentIdentifier" : "BJNR185100019BJNE001200000",
+              "paragraph" : "§ 10",
+              "title" : "Erhebungsmerkmale und Hilfsmerkmale der Gebäude- und Wohnungszählung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Gebäude- und Wohnungszählung"
+        },
+        {
+          "documentIdentifier" : "BJNR185100019BJNG000500000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR185100019BJNE001300000",
+              "paragraph" : "§ 11",
+              "title" : "Zwecke und Umfang der Haushaltebefragung auf Stichprobenbasis"
+            },
+            {
+              "documentIdentifier" : "BJNR185100019BJNE001400000",
+              "paragraph" : "§ 12",
+              "title" : "Auswahleinheiten der Haushaltebefragung auf Stichprobenbasis"
+            },
+            {
+              "documentIdentifier" : "BJNR185100019BJNE001500000",
+              "paragraph" : "§ 13",
+              "title" : "Erhebungsmerkmale und Hilfsmerkmale der Haushaltebefragung auf Stichprobenbasis"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Haushaltebefragung auf Stichprobenbasis"
+        },
+        {
+          "documentIdentifier" : "BJNR185100019BJNG000600000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR185100019BJNE001600000",
+              "paragraph" : "§ 14",
+              "title" : "Umfang und Zuständigkeiten bei den Erhebungen an Anschriften mit Sonderbereichen"
+            },
+            {
+              "documentIdentifier" : "BJNR185100019BJNE001700000",
+              "paragraph" : "§ 15",
+              "title" : "Erhebungsmerkmale der Erhebungen an Anschriften mit Sonderbereichen"
+            },
+            {
+              "documentIdentifier" : "BJNR185100019BJNE001800000",
+              "paragraph" : "§ 16",
+              "title" : "Hilfsmerkmale der Erhebungen an Anschriften mit Sonderbereichen"
+            },
+            {
+              "documentIdentifier" : "BJNR185100019BJNE001900000",
+              "paragraph" : "§ 17",
+              "title" : "Durchführung der Haushaltebefragung auf Stichprobenbasis bei Anschriften mit Sonderbereichen"
+            },
+            {
+              "documentIdentifier" : "BJNR185100019BJNE002000000",
+              "paragraph" : "§ 18",
+              "title" : "Durchführung der Gebäude- und Wohnungszählung bei Anschriften mit Sonderbereichen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Erhebungen an Anschriften mit Sonderbereichen"
+        }
+      ],
+      "title" : "Erhebungen"
+    },
+    {
+      "documentIdentifier" : "BJNR185100019BJNG000700000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR185100019BJNE002100000",
+          "paragraph" : "§ 19",
+          "title" : "Weitere Erhebungsstellen"
+        },
+        {
+          "documentIdentifier" : "BJNR185100019BJNE002200000",
+          "paragraph" : "§ 20",
+          "title" : "Erhebungsbeauftragte"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Organisation"
+    },
+    {
+      "documentIdentifier" : "BJNR185100019BJNG000800000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR185100019BJNE002300000",
+          "paragraph" : "§ 21",
+          "title" : "Mehrfachfallprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR185100019BJNE002400000",
+          "paragraph" : "§ 22",
+          "title" : "Wiederholungsbefragungen zur Qualitätsbewertung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Maßnahmen zur Sicherung der Qualität der Zensusergebnisse"
+    },
+    {
+      "documentIdentifier" : "BJNR185100019BJNG000900000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR185100019BJNE002500000",
+          "paragraph" : "§ 23",
+          "title" : "Auskunftspflicht und Form der Auskunftserteilung"
+        },
+        {
+          "documentIdentifier" : "BJNR185100019BJNE002600000",
+          "paragraph" : "§ 24",
+          "title" : "Auskunftspflichtige für die Gebäude- und Wohnungszählung"
+        },
+        {
+          "documentIdentifier" : "BJNR185100019BJNE002700000",
+          "paragraph" : "§ 25",
+          "title" : "Auskunftspflichtige für die Haushaltebefragung auf Stichprobenbasis"
+        },
+        {
+          "documentIdentifier" : "BJNR185100019BJNE002800000",
+          "paragraph" : "§ 26",
+          "title" : "Auskunftspflichtige für die Erhebungen an Anschriften mit Sonderbereichen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Auskunftspflicht"
+    },
+    {
+      "documentIdentifier" : "BJNR185100019BJNG001000000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR185100019BJNE002900000",
+          "paragraph" : "§ 27",
+          "title" : "Datenschutzrechtliche Verantwortlichkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR185100019BJNE003000000",
+          "paragraph" : "§ 28",
+          "title" : "Befugnisse zur Verarbeitung der zentral gespeicherten Daten"
+        },
+        {
+          "documentIdentifier" : "BJNR185100019BJNE003100000",
+          "paragraph" : "§ 29",
+          "title" : "Aufgaben des Statistischen Bundesamts bei der Verarbeitung der Daten nach § 28"
+        },
+        {
+          "documentIdentifier" : "BJNR185100019BJNE003200000",
+          "paragraph" : "§ 30",
+          "title" : "Verarbeitung der Hilfsmerkmale zur Merkmalsgenerierung"
+        },
+        {
+          "documentIdentifier" : "BJNR185100019BJNE003300000",
+          "paragraph" : "§ 31",
+          "title" : "Trennung und Löschung der Hilfsmerkmale"
+        },
+        {
+          "documentIdentifier" : "BJNR185100019BJNE003400000",
+          "paragraph" : "§ 32",
+          "title" : "Übermittlung von Tabellen und Einzelangaben an oberste Bundes- und Landesbehörden sowie an Statistikstellen der Gemeinden und Gemeindeverbände"
+        },
+        {
+          "documentIdentifier" : "BJNR185100019BJNE003500000",
+          "paragraph" : "§ 33",
+          "title" : "Bereitstellung von Auswahlgrundlagen für Gebäude-, Wohnungs- und Bevölkerungsstichproben"
+        },
+        {
+          "documentIdentifier" : "BJNR185100019BJNE003600000",
+          "paragraph" : "§ 34",
+          "title" : "Bereitstellung der Zensusdaten für die statistischen Ämter der Länder"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Datenschutz und Datenverarbeitung"
+    },
+    {
+      "documentIdentifier" : "BJNR185100019BJNG001100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR185100019BJNE003700000",
+          "paragraph" : "§ 35",
+          "title" : "Kosten der Übermittlungen an das Statistische Bundesamt"
+        },
+        {
+          "documentIdentifier" : "BJNR185100019BJNE003800000",
+          "paragraph" : "§ 36",
+          "title" : "Finanzzuweisung"
+        },
+        {
+          "documentIdentifier" : "BJNR185100019BJNE003900000",
+          "paragraph" : "§ 37",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussvorschriften"
+    }
+  ]
+}

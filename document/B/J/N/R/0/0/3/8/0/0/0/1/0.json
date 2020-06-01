@@ -1,0 +1,263 @@
+{
+  "documentIdentifier" : "BJNR003800010",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR003800010BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR003800010BJNE000302116",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR003800010BJNE000400000",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR003800010BJNE000500000",
+          "paragraph" : "§ 3",
+          "title" : "Brennstoffe"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR003800010BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR003800010BJNE000600000",
+          "paragraph" : "§ 4",
+          "title" : "Allgemeine Anforderungen"
+        },
+        {
+          "documentIdentifier" : "BJNR003800010BJNE000700000",
+          "paragraph" : "§ 5",
+          "title" : "Feuerungsanlagen mit einer Nennwärmeleistung von 4 Kilowatt oder mehr"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Feuerungsanlagen für feste Brennstoffe"
+    },
+    {
+      "documentIdentifier" : "BJNR003800010BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR003800010BJNE000801116",
+          "paragraph" : "§ 6",
+          "title" : "Allgemeine Anforderungen"
+        },
+        {
+          "documentIdentifier" : "BJNR003800010BJNE000900000",
+          "paragraph" : "§ 7",
+          "title" : "Ölfeuerungsanlagen mit Verdampfungsbrenner"
+        },
+        {
+          "documentIdentifier" : "BJNR003800010BJNE001000000",
+          "paragraph" : "§ 8",
+          "title" : "Ölfeuerungsanlagen mit Zerstäubungsbrenner"
+        },
+        {
+          "documentIdentifier" : "BJNR003800010BJNE001100000",
+          "paragraph" : "§ 9",
+          "title" : "Gasfeuerungsanlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR003800010BJNE001200000",
+          "paragraph" : "§ 10",
+          "title" : "Begrenzung der Abgasverluste"
+        },
+        {
+          "documentIdentifier" : "BJNR003800010BJNE001301116",
+          "paragraph" : "§ 11",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Öl- und Gasfeuerungsanlagen"
+    },
+    {
+      "documentIdentifier" : "BJNR003800010BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR003800010BJNE001400000",
+          "paragraph" : "§ 12",
+          "title" : "Messöffnung"
+        },
+        {
+          "documentIdentifier" : "BJNR003800010BJNE001501116",
+          "paragraph" : "§ 13",
+          "title" : "Messeinrichtungen"
+        },
+        {
+          "documentIdentifier" : "BJNR003800010BJNE001601116",
+          "paragraph" : "§ 14",
+          "title" : "Überwachung neuer und wesentlich geänderter Feuerungsanlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR003800010BJNE001700000",
+          "paragraph" : "§ 15",
+          "title" : "Wiederkehrende Überwachung"
+        },
+        {
+          "documentIdentifier" : "BJNR003800010BJNE001801116",
+          "paragraph" : "§ 16",
+          "title" : "Zusammenstellung der Messergebnisse"
+        },
+        {
+          "documentIdentifier" : "BJNR003800010BJNE001901116",
+          "paragraph" : "§ 17",
+          "title" : "Eigenüberwachung"
+        },
+        {
+          "documentIdentifier" : "BJNR003800010BJNE002001116",
+          "paragraph" : "§ 18",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Überwachung"
+    },
+    {
+      "documentIdentifier" : "BJNR003800010BJNG000500000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR003800010BJNE002101116",
+          "paragraph" : "§ 19",
+          "title" : "Ableitbedingungen für Abgase"
+        },
+        {
+          "documentIdentifier" : "BJNR003800010BJNE002201116",
+          "paragraph" : "§ 20",
+          "title" : "Anzeige und Nachweise"
+        },
+        {
+          "documentIdentifier" : "BJNR003800010BJNE002300000",
+          "paragraph" : "§ 21",
+          "title" : "Weitergehende Anforderungen"
+        },
+        {
+          "documentIdentifier" : "BJNR003800010BJNE002401116",
+          "paragraph" : "§ 22",
+          "title" : "Zulassung von Ausnahmen"
+        },
+        {
+          "documentIdentifier" : "BJNR003800010BJNE002500000",
+          "paragraph" : "§ 23",
+          "title" : "Zugänglichkeit der Normen"
+        },
+        {
+          "documentIdentifier" : "BJNR003800010BJNE002601116",
+          "paragraph" : "§ 24",
+          "title" : "Ordnungswidrigkeiten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gemeinsame Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR003800010BJNG000600000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR003800010BJNE002700000",
+          "paragraph" : "§ 25",
+          "title" : "Übergangsregelung für Feuerungsanlagen für feste Brennstoffe, ausgenommen Einzelraumfeuerungsanlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR003800010BJNE002800000",
+          "paragraph" : "§ 26",
+          "title" : "Übergangsregelung für Einzelraumfeuerungsanlagen für feste Brennstoffe"
+        },
+        {
+          "documentIdentifier" : "BJNR003800010BJNE002900000",
+          "paragraph" : "§ 27",
+          "title" : "Übergangsregelung für Schornsteinfegerarbeiten nach dem 1. Januar 2013"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übergangsregelungen"
+    },
+    {
+      "documentIdentifier" : "BJNR003800010BJNG000700000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR003800010BJNE003000000",
+          "paragraph" : "§ 28",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR003800010BJNE003200000",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 12)"
+        },
+        {
+          "documentIdentifier" : "BJNR003800010BJNE003301116",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 5 Absatz 1, §§ 7, 8, 10, 14 Absatz 4, § 15 Absatz 5, § 25 Absatz 2)"
+        },
+        {
+          "documentIdentifier" : "BJNR003800010BJNE003400000",
+          "paragraph" : "Anlage 3",
+          "title" : "(zu § 2 Nummer 11, § 6)"
+        },
+        {
+          "documentIdentifier" : "BJNR003800010BJNE003500000",
+          "paragraph" : "Anlage 4",
+          "title" : "(zu § 3 Absatz 5 Nummer 2, § 4 Absatz 3, 5 und 7, § 26 Absatz 1 Satz 2 Nummer 2, Absatz 6)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussvorschrift"
+    }
+  ]
+}

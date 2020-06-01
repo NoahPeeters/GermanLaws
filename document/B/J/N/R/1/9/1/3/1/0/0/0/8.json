@@ -1,0 +1,92 @@
+{
+  "documentIdentifier" : "BJNR191310008",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR191310008BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR191310008BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR191310008BJNE000305124",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR191310008BJNE000405124",
+          "paragraph" : "§ 3",
+          "title" : "Benannte Stelle"
+        },
+        {
+          "documentIdentifier" : "BJNR191310008BJNE000501305",
+          "paragraph" : "§ 4",
+          "title" : "Aufsicht über benannte Stellen und Audit"
+        },
+        {
+          "documentIdentifier" : "BJNR191310008BJNE000601124",
+          "paragraph" : "§ 5",
+          "title" : "Konformitätsbewertungsverfahren und Kennzeichnung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR191310008BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR191310008BJNE000701124",
+          "paragraph" : "§ 6",
+          "title" : "Anforderungen an Ausrüstung, Befugnisse"
+        },
+        {
+          "documentIdentifier" : "BJNR191310008BJNE000801124",
+          "paragraph" : "§ 7",
+          "title" : "Maßnahmen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Marktüberwachung"
+    },
+    {
+      "documentIdentifier" : "BJNR191310008BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR191310008BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Zuständigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR191310008BJNE001000000",
+          "paragraph" : "§ 9",
+          "title" : "Ordnungswidrigkeiten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussvorschriften"
+    }
+  ]
+}

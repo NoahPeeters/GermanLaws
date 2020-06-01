@@ -1,0 +1,64 @@
+{
+  "documentIdentifier" : "BJNR279500013",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR279500013Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR279500013BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR279500013BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Übersicht über die Arbeitsorganisation"
+        },
+        {
+          "documentIdentifier" : "BJNR279500013BJNE000401124",
+          "paragraph" : "§ 3",
+          "title" : "Arbeitszeitnachweise"
+        },
+        {
+          "documentIdentifier" : "BJNR279500013BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Sprachenvorschrift"
+        },
+        {
+          "documentIdentifier" : "BJNR279500013BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Aufbewahrung"
+        },
+        {
+          "documentIdentifier" : "BJNR279500013BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR279500013BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR279500013BJNE001000000",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 2 Absatz 1)"
+        },
+        {
+          "documentIdentifier" : "BJNR279500013BJNE001100000",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 3 Absatz 1)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

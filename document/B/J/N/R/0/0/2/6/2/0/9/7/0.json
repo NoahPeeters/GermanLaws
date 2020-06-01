@@ -1,0 +1,438 @@
+{
+  "documentIdentifier" : "BJNR002620970",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR002620970BJNG000100328",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR002620970BJNE002010305",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR002620970BJNE002100328",
+          "paragraph" : "§ 2",
+          "title" : "Verantwortlichkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR002620970BJNE002202308",
+          "paragraph" : "§ 3",
+          "title" : "Grundregel für den Betrieb"
+        },
+        {
+          "documentIdentifier" : "BJNR002620970BJNE008200305",
+          "paragraph" : "§ 3a",
+          "title" : "Sprachkenntnisse der Flugbesatzung im gewerblichen Luftverkehr"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR002620970BJNG000201305",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR002620970BJNE002304305",
+          "paragraph" : "§ 4",
+          "title" : "Zulässige Betriebszeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR002620970BJNE002401305",
+          "paragraph" : "(XXXX) §§ 5 bis 9",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR002620970BJNE002901308",
+          "paragraph" : "§ 10",
+          "title" : "Wägung der Luftfahrzeuge"
+        },
+        {
+          "documentIdentifier" : "BJNR002620970BJNE003001305",
+          "paragraph" : "(XXXX) §§ 11 bis 13",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR002620970BJNE003302305",
+          "paragraph" : "§ 14",
+          "title" : "Lufttüchtigkeitsanweisung"
+        },
+        {
+          "documentIdentifier" : "BJNR002620970BJNE003403305",
+          "paragraph" : "§ 15",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Technische Betriebsvorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR002620970BJNG000801305",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR002620970BJNE003503305",
+          "paragraph" : "(XXXX) §§ 16 bis 17",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Dritter Abschnitt"
+    },
+    {
+      "documentIdentifier" : "BJNR002620970BJNG000900328",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR002620970BJNE003700328",
+          "paragraph" : "§ 18",
+          "title" : "Ausrüstung"
+        },
+        {
+          "documentIdentifier" : "BJNR002620970BJNE003802308",
+          "paragraph" : "§ 19",
+          "title" : "Ergänzungsausrüstung, die durch den Verwendungszweck erforderlich\nist"
+        },
+        {
+          "documentIdentifier" : "BJNR002620970BJNE003900328",
+          "paragraph" : "§ 20",
+          "title" : "Ergänzungsausrüstung, die durch die Betriebsart erforderlich ist"
+        },
+        {
+          "documentIdentifier" : "BJNR002620970BJNE004001305",
+          "paragraph" : "§ 21",
+          "title" : "Ergänzungsausrüstung, die durch äußere Betriebsbedingungen erforderlich ist"
+        },
+        {
+          "documentIdentifier" : "BJNR002620970BJNE004101308",
+          "paragraph" : "§ 22",
+          "title" : "Zusätzliche Ergänzungsausrüstung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Ausrüstung der Luftfahrzeuge"
+    },
+    {
+      "documentIdentifier" : "BJNR002620970BJNG001000328",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR002620970BJNG001100328",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR002620970BJNE004200328",
+              "paragraph" : "§ 23",
+              "title" : "Verwendung des Luftfahrzeugs"
+            },
+            {
+              "documentIdentifier" : "BJNR002620970BJNE004302308",
+              "paragraph" : "§ 24",
+              "title" : "Betriebsgrenzen für Luftfahrzeuge"
+            },
+            {
+              "documentIdentifier" : "BJNR002620970BJNE008300305",
+              "paragraph" : "§ 24a",
+              "title" : "Besondere betriebliche Genehmigungen"
+            },
+            {
+              "documentIdentifier" : "BJNR002620970BJNE004403305",
+              "paragraph" : "§ 25",
+              "title" : "Verlust der Lufttüchtigkeit"
+            },
+            {
+              "documentIdentifier" : "BJNR002620970BJNE004501308",
+              "paragraph" : "§ 26",
+              "title" : "Ausfall von Ausrüstungsteilen"
+            },
+            {
+              "documentIdentifier" : "BJNR002620970BJNE004601308",
+              "paragraph" : "§ 27",
+              "title" : "Kontrollen nach Klarlisten"
+            },
+            {
+              "documentIdentifier" : "BJNR002620970BJNE004700328",
+              "paragraph" : "§ 28",
+              "title" : "Anzeigepflicht"
+            },
+            {
+              "documentIdentifier" : "BJNR002620970BJNE004800328",
+              "paragraph" : "§ 29",
+              "title" : "Betriebsstoffmengen"
+            },
+            {
+              "documentIdentifier" : "BJNR002620970BJNE004903305",
+              "paragraph" : "§ 30",
+              "title" : "Bordbuch"
+            },
+            {
+              "documentIdentifier" : "BJNR002620970BJNE005000328",
+              "paragraph" : "§ 31",
+              "title" : "Flugdurchführungsplan"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              5,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Flugbetrieb"
+        },
+        {
+          "documentIdentifier" : "BJNR002620970BJNG001200328",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR002620970BJNE005102307",
+              "paragraph" : "§ 32",
+              "title" : "Zusammensetzung der Flugbesatzung"
+            },
+            {
+              "documentIdentifier" : "BJNR002620970BJNE005200328",
+              "paragraph" : "§ 33",
+              "title" : "Verhalten der Besatzung im Flugbetrieb"
+            },
+            {
+              "documentIdentifier" : "BJNR002620970BJNE008001305",
+              "paragraph" : "§ 34",
+              "title" : "Betriebsmindestbedingungen und Mindestflughöhen"
+            },
+            {
+              "documentIdentifier" : "BJNR002620970BJNE008101305",
+              "paragraph" : "§ 35",
+              "title" : "Wettermindestbedingungen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              5,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Flugbesatzung"
+        }
+      ],
+      "title" : "Allgemeine Flugbetriebsvorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR002620970BJNG001300328",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR002620970BJNG001400328",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR002620970BJNE005500328",
+              "paragraph" : "§ 36",
+              "title" : "Überwachung"
+            },
+            {
+              "documentIdentifier" : "BJNR002620970BJNE005600328",
+              "paragraph" : "§ 37",
+              "title" : "Flugbetriebshandbuch"
+            },
+            {
+              "documentIdentifier" : "BJNR002620970BJNE005700328",
+              "paragraph" : "§ 38",
+              "title" : "Betriebsleiter"
+            },
+            {
+              "documentIdentifier" : "BJNR002620970BJNE005800328",
+              "paragraph" : "§ 39",
+              "title" : "Anzeigepflicht"
+            },
+            {
+              "documentIdentifier" : "BJNR002620970BJNE005901307",
+              "paragraph" : "§ 40",
+              "title" : "Flugbetriebspersonal"
+            },
+            {
+              "documentIdentifier" : "BJNR002620970BJNE006001307",
+              "paragraph" : "§ 41",
+              "title" : "Zusammensetzung der Besatzung"
+            },
+            {
+              "documentIdentifier" : "BJNR002620970BJNE006101307",
+              "paragraph" : "§ 42",
+              "title" : "Anforderungen an die Besatzungsmitglieder"
+            },
+            {
+              "documentIdentifier" : "BJNR002620970BJNE006200328",
+              "paragraph" : "§ 43",
+              "title" : "Aufenthalt im Führerraum"
+            },
+            {
+              "documentIdentifier" : "BJNR002620970BJNE006300328",
+              "paragraph" : "§ 44",
+              "title" : "Aufgaben des Flugdienstberaters"
+            },
+            {
+              "documentIdentifier" : "BJNR002620970BJNE006400328",
+              "paragraph" : "§ 45",
+              "title" : "Flugdurchführungsplan"
+            },
+            {
+              "documentIdentifier" : "BJNR002620970BJNE006500328",
+              "paragraph" : "§ 46",
+              "title" : "Betriebsstoffmengen"
+            },
+            {
+              "documentIdentifier" : "BJNR002620970BJNE006600328",
+              "paragraph" : "§ 47",
+              "title" : "Mindestausrüstungsliste"
+            },
+            {
+              "documentIdentifier" : "BJNR002620970BJNE006700328",
+              "paragraph" : "§ 48",
+              "title" : "Klarlisten"
+            },
+            {
+              "documentIdentifier" : "BJNR002620970BJNE007901307",
+              "paragraph" : "(XXXX) §§ 49 und 50",
+              "title" : "(weggefallen)"
+            },
+            {
+              "documentIdentifier" : "BJNR002620970BJNE006900328",
+              "paragraph" : "§ 51",
+              "title" : "Such- und Rettungsdienst"
+            },
+            {
+              "documentIdentifier" : "BJNR002620970BJNE007000328",
+              "paragraph" : "§ 52",
+              "title" : "Fluggäste"
+            },
+            {
+              "documentIdentifier" : "BJNR002620970BJNE007101308",
+              "paragraph" : "§ 53",
+              "title" : "Einmotorige Luftfahrzeuge"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              6,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Betrieb von Luftfahrzeugen in Luftfahrtunternehmen"
+        },
+        {
+          "documentIdentifier" : "BJNR002620970BJNG001500328",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR002620970BJNE007200328",
+              "paragraph" : "§ 54",
+              "title" : "Arbeitsflüge"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              6,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Arbeitsflüge"
+        },
+        {
+          "documentIdentifier" : "BJNR002620970BJNG001601307",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR002620970BJNE007302307",
+              "paragraph" : "§ 55",
+              "title" : "Flugzeiten, Flugdienstzeiten und Ruhezeiten berufsmäßig tätiger\nBesatzungen von Luftfahrzeugen innerhalb und außerhalb von\nLuftfahrtunternehmen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              6,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Flugzeiten, Flugdienstzeiten und Ruhezeiten berufsmäßig tätiger Besatzungen von Luftfahrzeugen innerhalb und außerhalb von Luftfahrtunternehmen"
+        }
+      ],
+      "title" : "Besondere Flugbetriebsvorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR002620970BJNG001700328",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR002620970BJNE007401307",
+          "paragraph" : "§ 56",
+          "title" : "Durchführungsvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR002620970BJNE007505305",
+          "paragraph" : "§ 57",
+          "title" : "Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR002620970BJNE007701308",
+          "paragraph" : "§ 58",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Bußgeld- und Schlußvorschriften"
+    }
+  ]
+}

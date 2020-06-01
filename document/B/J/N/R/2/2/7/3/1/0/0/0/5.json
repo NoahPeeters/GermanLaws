@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR227310005",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR227310005Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR227310005BJNE000105119",
+          "paragraph" : "§ 1",
+          "title" : "Verfahren bei der Bundesagentur für Arbeit"
+        },
+        {
+          "documentIdentifier" : "BJNR227310005BJNE000601119",
+          "paragraph" : "§ 1a",
+          "title" : "Verfahren bei den zugelassenen kommunalen Trägern"
+        },
+        {
+          "documentIdentifier" : "BJNR227310005BJNE000703119",
+          "paragraph" : "§ 1b",
+          "title" : "Verfahren bei der Kopfstelle"
+        },
+        {
+          "documentIdentifier" : "BJNR227310005BJNE000205119",
+          "paragraph" : "§ 2",
+          "title" : "Verfahren bei den Auskunftsstellen und der Datenstelle der Rentenversicherung"
+        },
+        {
+          "documentIdentifier" : "BJNR227310005BJNE000303119",
+          "paragraph" : "§ 3",
+          "title" : "Anforderungen an die Datenübermittlung"
+        },
+        {
+          "documentIdentifier" : "BJNR227310005BJNE000401308",
+          "paragraph" : "§ 4",
+          "title" : "Einzelheiten des Datenabgleichverfahrens"
+        },
+        {
+          "documentIdentifier" : "BJNR227310005BJNE000503360",
+          "paragraph" : "§ 5",
+          "title" : "Kosten der Kopfstelle"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

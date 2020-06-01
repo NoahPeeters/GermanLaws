@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR147100017",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR147100017Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR147100017BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Entscheidung über Widersprüche"
+        },
+        {
+          "documentIdentifier" : "BJNR147100017BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Vertretung bei Klagen"
+        },
+        {
+          "documentIdentifier" : "BJNR147100017BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Übergangsregelung"
+        },
+        {
+          "documentIdentifier" : "BJNR147100017BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

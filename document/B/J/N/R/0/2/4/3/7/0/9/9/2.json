@@ -1,0 +1,536 @@
+{
+  "documentIdentifier" : "BJNR024370992",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR024370992BJNG000104377",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR024370992BJNE001515377",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR024370992BJNE001615310",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR024370992BJNE001706377",
+          "paragraph" : "§ 3",
+          "title" : "Bescheinigungen"
+        },
+        {
+          "documentIdentifier" : "BJNR024370992BJNE001809377",
+          "paragraph" : "§ 4",
+          "title" : "Anzeige und Registrierung"
+        },
+        {
+          "documentIdentifier" : "BJNR024370992BJNE001907377",
+          "paragraph" : "§ 5",
+          "title" : "Buchführung"
+        },
+        {
+          "documentIdentifier" : "BJNR024370992BJNE002004377",
+          "paragraph" : "§ 6",
+          "title" : "Anforderungen an Transportmittel und -behältnisse"
+        },
+        {
+          "documentIdentifier" : "BJNR024370992BJNE002108377",
+          "paragraph" : "§ 7",
+          "title" : "Zuständigkeit, allgemeiner Genehmigungsgrundsatz"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR024370992BJNG000204377",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR024370992BJNG000304377",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR024370992BJNE002218360",
+              "paragraph" : "§ 8",
+              "title" : "Genehmigungsfreies Verbringen"
+            },
+            {
+              "documentIdentifier" : "BJNR024370992BJNE002307310",
+              "paragraph" : "§ 9",
+              "title" : "Genehmigungspflichtiges Verbringen"
+            },
+            {
+              "documentIdentifier" : "BJNR024370992BJNE007304377",
+              "paragraph" : "§ 9a",
+              "title" : "Verbringungsverbot für Tiere"
+            },
+            {
+              "documentIdentifier" : "BJNR024370992BJNE008903310",
+              "paragraph" : "§ 9b",
+              "title" : "Verbringungsverbot für geimpfte Tiere"
+            },
+            {
+              "documentIdentifier" : "BJNR024370992BJNE002406301",
+              "paragraph" : "§ 10",
+              "title" : "Verbringungsverbot für bestimmte Waren"
+            },
+            {
+              "documentIdentifier" : "BJNR024370992BJNE007805310",
+              "paragraph" : "§ 10a",
+              "title" : "Weitere Verbringungsverbote"
+            },
+            {
+              "documentIdentifier" : "BJNR024370992BJNE002516360",
+              "paragraph" : "§ 11",
+              "title" : "Besonderes Verbringungsverbot für Tiere und Waren"
+            },
+            {
+              "documentIdentifier" : "BJNR024370992BJNE002607377",
+              "paragraph" : "§ 12",
+              "title" : "Verbringen nach anderen Mitgliedstaaten"
+            },
+            {
+              "documentIdentifier" : "BJNR024370992BJNE002710360",
+              "paragraph" : "§ 13",
+              "title" : "Verbringen aus anderen Mitgliedstaaten"
+            },
+            {
+              "documentIdentifier" : "BJNR024370992BJNE007905310",
+              "paragraph" : "§ 13a",
+              "title" : "Besondere Bestimmungen für Affen und Halbaffen"
+            },
+            {
+              "documentIdentifier" : "BJNR024370992BJNE002807377",
+              "paragraph" : "§ 14",
+              "title" : "Besondere Bestimmungen für Fische"
+            },
+            {
+              "documentIdentifier" : "BJNR024370992BJNE002905377",
+              "paragraph" : "§ 15",
+              "title" : "Zulassungsbedürftige Betriebe"
+            },
+            {
+              "documentIdentifier" : "BJNR024370992BJNE003016360",
+              "paragraph" : "§ 16",
+              "title" : "Bekanntgabe der Zulassungen"
+            },
+            {
+              "documentIdentifier" : "BJNR024370992BJNE003108310",
+              "paragraph" : "§ 17",
+              "title" : "Ruhen der Zulassung"
+            },
+            {
+              "documentIdentifier" : "BJNR024370992BJNE003204377",
+              "paragraph" : "§ 18",
+              "title" : "Kennzeichnung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Anforderungen an das innergemeinschaftliche Verbringen"
+        },
+        {
+          "documentIdentifier" : "BJNR024370992BJNG000404377",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR024370992BJNE003307310",
+              "paragraph" : "§ 19",
+              "title" : "Anzeige der Ankunft"
+            },
+            {
+              "documentIdentifier" : "BJNR024370992BJNE003404377",
+              "paragraph" : "§ 20",
+              "title" : "Maßnahmen bei Gefahr einer Seuchenverbreitung"
+            },
+            {
+              "documentIdentifier" : "BJNR024370992BJNE003505124",
+              "paragraph" : "§ 21",
+              "title" : "Sonstige Maßnahmen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Überwachung des innergemeinschaftlichen Verbringens"
+        }
+      ],
+      "title" : "Innergemeinschaftliches Verbringen"
+    },
+    {
+      "documentIdentifier" : "BJNR024370992BJNG000504377",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR024370992BJNG000604377",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR024370992BJNE003616360",
+              "paragraph" : "§ 22",
+              "title" : "Genehmigungsfreie Einfuhr"
+            },
+            {
+              "documentIdentifier" : "BJNR024370992BJNE003716377",
+              "paragraph" : "§ 23",
+              "title" : "Sonderbestimmungen für den Handel mit bestimmten Drittländern"
+            },
+            {
+              "documentIdentifier" : "BJNR024370992BJNE008305377",
+              "paragraph" : "§ 23a",
+              "title" : "Sonderbestimmungen für die Einfuhr von in Drittländern zurückgewiesenen Sendungen"
+            },
+            {
+              "documentIdentifier" : "BJNR024370992BJNE003805377",
+              "paragraph" : "§ 24",
+              "title" : "Genehmigungspflichtige Einfuhr"
+            },
+            {
+              "documentIdentifier" : "BJNR024370992BJNE008005310",
+              "paragraph" : "§ 24a",
+              "title" : "Einfuhrverbot für bestimmte Waren"
+            },
+            {
+              "documentIdentifier" : "BJNR024370992BJNE003914360",
+              "paragraph" : "§ 25",
+              "title" : "Besondere Einfuhrverbote"
+            },
+            {
+              "documentIdentifier" : "BJNR024370992BJNE004014118",
+              "paragraph" : "§ 26",
+              "title" : "Einfuhr über bestimmte Überwachungsstellen"
+            },
+            {
+              "documentIdentifier" : "BJNR024370992BJNE004116360",
+              "paragraph" : "§ 27",
+              "title" : "Einfuhruntersuchung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Anforderungen an die Einfuhr"
+        },
+        {
+          "documentIdentifier" : "BJNR024370992BJNG000704377",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR024370992BJNE004310377",
+              "paragraph" : "§ 29",
+              "title" : "Dokumentenprüfung, Nämlichkeitskontrolle, physische Untersuchung"
+            },
+            {
+              "documentIdentifier" : "BJNR024370992BJNE004412310",
+              "paragraph" : "§ 30",
+              "title" : "Bescheinigungen"
+            },
+            {
+              "documentIdentifier" : "BJNR024370992BJNE004510310",
+              "paragraph" : "§ 31",
+              "title" : "Zurückweisung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Maßnahmen bei der Einfuhr"
+        },
+        {
+          "documentIdentifier" : "BJNR024370992BJNG000804377",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR024370992BJNE004608377",
+              "paragraph" : "§ 32",
+              "title" : "Allgemeine Bestimmung"
+            },
+            {
+              "documentIdentifier" : "BJNR024370992BJNE004711377",
+              "paragraph" : "§ 33",
+              "title" : "Eingeführte Schlachttiere"
+            },
+            {
+              "documentIdentifier" : "BJNR024370992BJNE004808377",
+              "paragraph" : "§ 34",
+              "title" : "Eingeführte Nutz- und Zuchttiere, eingeführte Bruteier\nsowie daraus geschlüpftes Geflügel"
+            },
+            {
+              "documentIdentifier" : "BJNR024370992BJNE008103377",
+              "paragraph" : "§ 34a",
+              "title" : "Eingeführte Affen und Halbaffen"
+            },
+            {
+              "documentIdentifier" : "BJNR024370992BJNE004911310",
+              "paragraph" : "§ 35",
+              "title" : "Eingeführte Vögel"
+            },
+            {
+              "documentIdentifier" : "BJNR024370992BJNE008402377",
+              "paragraph" : "§ 36a",
+              "title" : "Verbringen eingeführter Waren in Lager in Freizonen,\nFreilager und Zolllager"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Vorschriften über eingeführte Tiere und Waren"
+        }
+      ],
+      "title" : "Einfuhr"
+    },
+    {
+      "documentIdentifier" : "BJNR024370992BJNG000904377",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR024370992BJNE009000310",
+          "paragraph" : "§ 36b",
+          "title" : "Durchfuhrverbot für bestimmte Waren"
+        },
+        {
+          "documentIdentifier" : "BJNR024370992BJNE005114360",
+          "paragraph" : "§ 37",
+          "title" : "Anforderungen an die Durchfuhr"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR024370992BJNG001301377",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR024370992BJNE008805360",
+              "paragraph" : "§ 37a",
+              "title" : "Verbote und Beschränkungen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Ausfuhr"
+        }
+      ],
+      "title" : "Durchfuhr"
+    },
+    {
+      "documentIdentifier" : "BJNR024370992BJNG001004377",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR024370992BJNE005210377",
+          "paragraph" : "§ 38",
+          "title" : "Tiere"
+        },
+        {
+          "documentIdentifier" : "BJNR024370992BJNE005320360",
+          "paragraph" : "§ 39",
+          "title" : "Waren"
+        },
+        {
+          "documentIdentifier" : "BJNR024370992BJNE008208360",
+          "paragraph" : "§ 39a",
+          "title" : "Anwendung von Unionsrecht"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Ausnahmen"
+    },
+    {
+      "documentIdentifier" : "BJNR024370992BJNG001104377",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR024370992BJNE005407124",
+          "paragraph" : "§ 40",
+          "title" : "Befugnisse der Behörde"
+        },
+        {
+          "documentIdentifier" : "BJNR024370992BJNE005525118",
+          "paragraph" : "§ 41",
+          "title" : "Ordnungswidrigkeiten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Befugnisse der Behörde, Ordnungswidrigkeiten"
+    },
+    {
+      "documentIdentifier" : "BJNR024370992BJNG001204377",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR024370992BJNE008504310",
+          "paragraph" : "§ 42",
+          "title" : "Übergangsvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR024370992BJNE008602377",
+          "paragraph" : "§ 43",
+          "title" : "Wirksamwerden von Bekanntmachungen"
+        },
+        {
+          "documentIdentifier" : "BJNR024370992BJNE009101377",
+          "paragraph" : "§ 43a",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR024370992BJNE006011310",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 4)\n"
+        },
+        {
+          "documentIdentifier" : "BJNR024370992BJNE006109377",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 6 Abs. 1)\n"
+        },
+        {
+          "documentIdentifier" : "BJNR024370992BJNE006221118",
+          "paragraph" : "Anlage 3",
+          "title" : "(zu § 8 Abs. 1 und 4)"
+        },
+        {
+          "documentIdentifier" : "BJNR024370992BJNE006312360",
+          "paragraph" : "Anlage 4",
+          "title" : "(zu §§ 9, 23a, 24, 24a Abs. 1 Satz 1, §§ 26 und 27 Abs. 1 Satz 1)"
+        },
+        {
+          "documentIdentifier" : "BJNR024370992BJNE006408377",
+          "paragraph" : "Anlage 5",
+          "title" : "(zu § 9a)\n"
+        },
+        {
+          "documentIdentifier" : "BJNR024370992BJNE006506377",
+          "paragraph" : "Anlage 6",
+          "title" : "(zu § 13 Abs. 3)\n"
+        },
+        {
+          "documentIdentifier" : "BJNR024370992BJNE006611118",
+          "paragraph" : "Anlage 7",
+          "title" : "(zu § 15)"
+        },
+        {
+          "documentIdentifier" : "BJNR024370992BJNE006713118",
+          "paragraph" : "Anlage 8",
+          "title" : "(zu § 18)"
+        },
+        {
+          "documentIdentifier" : "BJNR024370992BJNE006816377",
+          "paragraph" : "Anlage 9",
+          "title" : "(zu § 22 Abs. 1, 3 und 4, §§ 23a, 24a Abs. 1, §§ 26 und § 27 Abs. 1 Satz 1 und § 37 Abs. 1 Satz 1, Abs. 3 und 5 Satz 1)"
+        },
+        {
+          "documentIdentifier" : "BJNR024370992BJNE007108377",
+          "paragraph" : "Anlage 9a",
+          "title" : "(zu § 22 Abs. 2, §§ 23a, 26 und 27 Abs. 4)"
+        },
+        {
+          "documentIdentifier" : "BJNR024370992BJNE007609377",
+          "paragraph" : "Anlage 9b",
+          "title" : "(zu § 25 Abs. 1 und 3)"
+        },
+        {
+          "documentIdentifier" : "BJNR024370992BJNE006911377",
+          "paragraph" : "Anlage 10",
+          "title" : "(zu § 25 Abs. 2 und 3)"
+        },
+        {
+          "documentIdentifier" : "BJNR024370992BJNE008705377",
+          "paragraph" : "Anlage 10a",
+          "title" : "(zu § 29 Abs. 1)"
+        },
+        {
+          "documentIdentifier" : "BJNR024370992BJNE007006377",
+          "paragraph" : "Anlage 11",
+          "title" : "(zu § 29 Abs. 2 Nr. 1 und Abs. 3 Nr. 1)\n"
+        },
+        {
+          "documentIdentifier" : "BJNR024370992BJNE007208377",
+          "paragraph" : "Anlage 12",
+          "title" : "(zu § 29 Abs. 2 Nr. 2 und Abs. 3 Nr. 2)\n"
+        },
+        {
+          "documentIdentifier" : "BJNR024370992BJNE007708310",
+          "paragraph" : "Anlage 13",
+          "title" : "(zu § 37 Abs. 1 Satz 2)\n"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussvorschriften"
+    }
+  ]
+}

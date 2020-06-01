@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR085600010",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR085600010Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR085600010BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR085600010BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Berechnung"
+        },
+        {
+          "documentIdentifier" : "BJNR085600010BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR085600010BJNE000600000",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 2 Absatz 1)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

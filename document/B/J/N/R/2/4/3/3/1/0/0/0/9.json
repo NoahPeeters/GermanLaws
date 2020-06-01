@@ -1,0 +1,64 @@
+{
+  "documentIdentifier" : "BJNR243310009",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR243310009Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR243310009BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR243310009BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Schutz in der Medizin"
+        },
+        {
+          "documentIdentifier" : "BJNR243310009BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Schutz bei kosmetischen oder sonstigen Anwendungen"
+        },
+        {
+          "documentIdentifier" : "BJNR243310009BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Nutzungsverbot für Minderjährige"
+        },
+        {
+          "documentIdentifier" : "BJNR243310009BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Ermächtigung zum Erlass von Rechtsverordnungen"
+        },
+        {
+          "documentIdentifier" : "BJNR243310009BJNE000601116",
+          "paragraph" : "§ 6",
+          "title" : "Befugnisse der zuständigen Behörden"
+        },
+        {
+          "documentIdentifier" : "BJNR243310009BJNE000900310",
+          "paragraph" : "§ 6a",
+          "title" : "Bekanntgabe von Prüfstellen"
+        },
+        {
+          "documentIdentifier" : "BJNR243310009BJNE000700000",
+          "paragraph" : "§ 7",
+          "title" : "Kosten"
+        },
+        {
+          "documentIdentifier" : "BJNR243310009BJNE000800000",
+          "paragraph" : "§ 8",
+          "title" : "Bußgeldvorschriften"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

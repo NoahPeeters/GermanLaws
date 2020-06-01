@@ -1,0 +1,69 @@
+{
+  "documentIdentifier" : "BJNR000940960",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR000940960BJNG000100319",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gemeinsame Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR000940960BJNG000200319",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gesetzliche Unfallversicherung"
+    },
+    {
+      "documentIdentifier" : "BJNR000940960BJNG000300319",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR000940960BJNE002801308",
+          "paragraph" : "(XXXX) §§ 24 und 25",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR000940960BJNE003102308",
+          "paragraph" : "(XXXX) §§ 27 und 28",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR000940960BJNE003802308",
+          "paragraph" : "Anlage 1",
+          "title" : "Definitionen der Leistungsgruppen"
+        },
+        {
+          "documentIdentifier" : "BJNR000940960BJNE005600308",
+          "paragraph" : "Anlage 17",
+          "title" : "Entgeltpunkte für jedes volle Kalenderjahr unterteilt nach\nWirtschaftsbereichen und Leistungsgruppen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gesetzliche Rentenversicherungen"
+    }
+  ]
+}

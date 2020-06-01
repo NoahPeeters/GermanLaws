@@ -1,0 +1,107 @@
+{
+  "documentIdentifier" : "BJNR089000004",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR089000004BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR089000004BJNE000300000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeines"
+    },
+    {
+      "documentIdentifier" : "BJNR089000004BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR089000004BJNE000402360",
+          "paragraph" : "§ 2",
+          "title" : "Form der Einreichung"
+        },
+        {
+          "documentIdentifier" : "BJNR089000004BJNE000503360",
+          "paragraph" : "§ 3",
+          "title" : "Gebrauchsmusteranmeldung"
+        },
+        {
+          "documentIdentifier" : "BJNR089000004BJNE000603360",
+          "paragraph" : "§ 4",
+          "title" : "Anmeldungsunterlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR089000004BJNE000701360",
+          "paragraph" : "§ 5",
+          "title" : "Schutzansprüche"
+        },
+        {
+          "documentIdentifier" : "BJNR089000004BJNE000800000",
+          "paragraph" : "§ 6",
+          "title" : "Beschreibung"
+        },
+        {
+          "documentIdentifier" : "BJNR089000004BJNE000900000",
+          "paragraph" : "§ 7",
+          "title" : "Zeichnungen"
+        },
+        {
+          "documentIdentifier" : "BJNR089000004BJNE001001377",
+          "paragraph" : "§ 8",
+          "title" : "Abzweigung"
+        },
+        {
+          "documentIdentifier" : "BJNR089000004BJNE001101360",
+          "paragraph" : "§ 9",
+          "title" : "Fremdsprachige Dokumente"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gebrauchsmusteranmeldungen"
+    },
+    {
+      "documentIdentifier" : "BJNR089000004BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR089000004BJNE001200000",
+          "paragraph" : "§ 10",
+          "title" : "Übergangsregelung aus Anlass des Inkrafttretens dieser Verordnung"
+        },
+        {
+          "documentIdentifier" : "BJNR089000004BJNE001300000",
+          "paragraph" : "§ 11",
+          "title" : "Übergangsregelung für künftige Änderungen"
+        },
+        {
+          "documentIdentifier" : "BJNR089000004BJNE001400000",
+          "paragraph" : "§ 12",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussvorschriften"
+    }
+  ]
+}

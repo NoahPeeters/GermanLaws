@@ -1,0 +1,122 @@
+{
+  "documentIdentifier" : "BJNR031230975",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR031230975BJNG000100325",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR031230975BJNE000400325",
+          "paragraph" : "§ 1",
+          "title" : "Geldinstitute"
+        },
+        {
+          "documentIdentifier" : "BJNR031230975BJNE000500325",
+          "paragraph" : "§ 2",
+          "title" : "Ansprüche aus Reichsmarkguthaben"
+        },
+        {
+          "documentIdentifier" : "BJNR031230975BJNE000600325",
+          "paragraph" : "§ 3",
+          "title" : "Verjährung von Ansprüchen gegen Geldinstitute"
+        },
+        {
+          "documentIdentifier" : "BJNR031230975BJNE000700325",
+          "paragraph" : "§ 4",
+          "title" : "Erlöschen von Ansprüchen"
+        },
+        {
+          "documentIdentifier" : "BJNR031230975BJNE000800325",
+          "paragraph" : "§ 5",
+          "title" : "Auslandsschulden"
+        },
+        {
+          "documentIdentifier" : "BJNR031230975BJNE000900325",
+          "paragraph" : "§ 6",
+          "title" : "Leistungen aus öffentlichen Mitteln"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Alte Ansprüche gegen Geldinstitute"
+    },
+    {
+      "documentIdentifier" : "BJNR031230975BJNG000200325",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR031230975BJNE001000325",
+          "paragraph" : "§ 7",
+          "title" : "Versicherungsunternehmen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Alte Ansprüche gegen Versicherungsunternehmen"
+    },
+    {
+      "documentIdentifier" : "BJNR031230975BJNG000300325",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR031230975BJNE001100325",
+          "paragraph" : "§ 8",
+          "title" : "Auflösung und Abwicklung öffentlich-rechtlicher\nGeldinstitute"
+        },
+        {
+          "documentIdentifier" : "BJNR031230975BJNE001200325",
+          "paragraph" : "§ 9",
+          "title" : "Beendigung der Abwicklung von Geldinstituten"
+        },
+        {
+          "documentIdentifier" : "BJNR031230975BJNE001300325",
+          "paragraph" : "§ 10",
+          "title" : "Tote Depots"
+        },
+        {
+          "documentIdentifier" : "BJNR031230975BJNE001400325",
+          "paragraph" : "§ 11",
+          "title" : "Entschädigung nach dem Wertpapierbereinigungsschlußgesetz"
+        },
+        {
+          "documentIdentifier" : "BJNR031230975BJNE001500325",
+          "paragraph" : "§ 12",
+          "title" : "Aufhebung von Rechtsvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR031230975BJNE001600325",
+          "paragraph" : "§ 13",
+          "title" : "Sonderregelung für Berlin"
+        },
+        {
+          "documentIdentifier" : "BJNR031230975BJNE001700325",
+          "paragraph" : "§ 14",
+          "title" : "Berlin-Klausel"
+        },
+        {
+          "documentIdentifier" : "BJNR031230975BJNE001800325",
+          "paragraph" : "§ 15",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Sonstige Vorschriften"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR265200002",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR265200002Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR265200002BJNE000101119",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR265200002BJNE000201119",
+          "paragraph" : "§ 2",
+          "title" : "Gegenstand der Zugänglichmachung"
+        },
+        {
+          "documentIdentifier" : "BJNR265200002BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Formen der Zugänglichmachung"
+        },
+        {
+          "documentIdentifier" : "BJNR265200002BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Bekanntgabe"
+        },
+        {
+          "documentIdentifier" : "BJNR265200002BJNE000501119",
+          "paragraph" : "§ 5",
+          "title" : "Umfang des Anspruchs"
+        },
+        {
+          "documentIdentifier" : "BJNR265200002BJNE000601119",
+          "paragraph" : "§ 6",
+          "title" : "Organisation und Kosten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

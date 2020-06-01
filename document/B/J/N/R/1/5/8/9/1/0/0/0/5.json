@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR158910005",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR158910005Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR158910005BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Forderungsberechtigung"
+        },
+        {
+          "documentIdentifier" : "BJNR158910005BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Verhältnis zu anderen Vorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR158910005BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Umrechnung, Tilgungsleistungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

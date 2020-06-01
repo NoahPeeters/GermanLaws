@@ -1,0 +1,165 @@
+{
+  "documentIdentifier" : "BJNR208100004",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR208100004BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR208100004BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Zweck der Verordnung"
+        },
+        {
+          "documentIdentifier" : "BJNR208100004BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR208100004BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Begriffsbestimmungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR208100004BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR208100004BJNE000501310",
+          "paragraph" : "§ 4",
+          "title" : "Herstellung und Einfuhr"
+        },
+        {
+          "documentIdentifier" : "BJNR208100004BJNE000601360",
+          "paragraph" : "§ 5",
+          "title" : "Kennzeichnung von Prüfpräparaten"
+        },
+        {
+          "documentIdentifier" : "BJNR208100004BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Entblindung in Notfallsituationen und Rücknahme"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Anforderungen an Prüfpräparate"
+    },
+    {
+      "documentIdentifier" : "BJNR208100004BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR208100004BJNE000801360",
+          "paragraph" : "§ 7",
+          "title" : "Antragstellung"
+        },
+        {
+          "documentIdentifier" : "BJNR208100004BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Bewertung durch die Ethik-Kommission"
+        },
+        {
+          "documentIdentifier" : "BJNR208100004BJNE001001360",
+          "paragraph" : "§ 9",
+          "title" : "Genehmigung durch die zuständige Bundesoberbehörde"
+        },
+        {
+          "documentIdentifier" : "BJNR208100004BJNE001101360",
+          "paragraph" : "§ 10",
+          "title" : "Nachträgliche Änderungen"
+        },
+        {
+          "documentIdentifier" : "BJNR208100004BJNE001200000",
+          "paragraph" : "§ 11",
+          "title" : "Maßnahmen zum Schutz vor unmittelbarer Gefahr"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Genehmigung durch die Bundesoberbehörde und Bewertung durch die Ethik-Kommission"
+    },
+    {
+      "documentIdentifier" : "BJNR208100004BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR208100004BJNE001301360",
+          "paragraph" : "§ 12",
+          "title" : "Anzeige-, Dokumentations- und Mitteilungspflichten des Prüfers"
+        },
+        {
+          "documentIdentifier" : "BJNR208100004BJNE001401360",
+          "paragraph" : "§ 13",
+          "title" : "Dokumentations- und Mitteilungspflichten des Sponsors"
+        },
+        {
+          "documentIdentifier" : "BJNR208100004BJNE001502360",
+          "paragraph" : "§ 14",
+          "title" : "Mitteilungspflichten der zuständigen Bundesoberbehörde"
+        },
+        {
+          "documentIdentifier" : "BJNR208100004BJNE001601360",
+          "paragraph" : "§ 15",
+          "title" : "Inspektionen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Dokumentations- und Mitteilungspflichten, Datenbanken, Inspektionen"
+    },
+    {
+      "documentIdentifier" : "BJNR208100004BJNG000500000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR208100004BJNE001700000",
+          "paragraph" : "§ 16",
+          "title" : "Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR208100004BJNE001800000",
+          "paragraph" : "§ 17",
+          "title" : "Übergangsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR208100004BJNE001900000",
+          "paragraph" : "§ 18",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übergangs- und Schlussbestimmungen"
+    }
+  ]
+}

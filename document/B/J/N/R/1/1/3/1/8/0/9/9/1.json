@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR113180991",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR113180991Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR113180991BJNE000100308",
+          "paragraph" : "§ 1",
+          "title" : "Erhebung eines Solidaritätszuschlags"
+        },
+        {
+          "documentIdentifier" : "BJNR113180991BJNE000200308",
+          "paragraph" : "§ 2",
+          "title" : "Abgabepflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR113180991BJNE000301301",
+          "paragraph" : "§ 3",
+          "title" : "Bemessungsgrundlage"
+        },
+        {
+          "documentIdentifier" : "BJNR113180991BJNE000400308",
+          "paragraph" : "§ 4",
+          "title" : "Tarifvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR113180991BJNE000500308",
+          "paragraph" : "§ 5",
+          "title" : "Doppelbesteuerungsabkommen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

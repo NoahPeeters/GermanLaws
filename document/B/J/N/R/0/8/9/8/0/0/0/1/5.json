@@ -1,0 +1,59 @@
+{
+  "documentIdentifier" : "BJNR089800015",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR089800015Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR089800015BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR089800015BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR089800015BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Bevorrechtigungen"
+        },
+        {
+          "documentIdentifier" : "BJNR089800015BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Kennzeichnung"
+        },
+        {
+          "documentIdentifier" : "BJNR089800015BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Übergangsregelung"
+        },
+        {
+          "documentIdentifier" : "BJNR089800015BJNE000600000",
+          "paragraph" : "§ 6",
+          "title" : "Verkündung von Rechtsverordnungen"
+        },
+        {
+          "documentIdentifier" : "BJNR089800015BJNE000700000",
+          "paragraph" : "§ 7",
+          "title" : "Berichterstattung"
+        },
+        {
+          "documentIdentifier" : "BJNR089800015BJNE000800000",
+          "paragraph" : "§ 8",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

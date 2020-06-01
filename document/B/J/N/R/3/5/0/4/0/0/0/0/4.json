@@ -1,0 +1,64 @@
+{
+  "documentIdentifier" : "BJNR350400004",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR350400004Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR350400004BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Geltungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR350400004BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Leistungsbezüge"
+        },
+        {
+          "documentIdentifier" : "BJNR350400004BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Berufungs- und Bleibe-Leistungsbezüge"
+        },
+        {
+          "documentIdentifier" : "BJNR350400004BJNE000501310",
+          "paragraph" : "§ 4",
+          "title" : "Besondere Leistungsbezüge"
+        },
+        {
+          "documentIdentifier" : "BJNR350400004BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Funktions-Leistungsbezüge"
+        },
+        {
+          "documentIdentifier" : "BJNR350400004BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Forschungs- und Lehrzulage"
+        },
+        {
+          "documentIdentifier" : "BJNR350400004BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Ruhegehaltfähigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR350400004BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Sonstige Bestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR350400004BJNE001000000",
+          "paragraph" : "§ 9",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

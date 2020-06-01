@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR165100017",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR165100017Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR165100017BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR165100017BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Nachweis der Einhaltung der allgemeinen technischen Mindestanforderungen von Erzeugungsanlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR165100017BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Allgemein anerkannte Regeln der Technik"
+        },
+        {
+          "documentIdentifier" : "BJNR165100017BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Rechtsfolgen bei Nichterfüllung"
+        },
+        {
+          "documentIdentifier" : "BJNR165100017BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Übergangsregelungen"
+        },
+        {
+          "documentIdentifier" : "BJNR165100017BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

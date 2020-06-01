@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR078600995",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR078600995Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR078600995BJNE000100305",
+          "paragraph" : "§ 1",
+          "title" : "Vollstreckbarkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR078600995BJNE000202310",
+          "paragraph" : "§ 2",
+          "title" : "Vollstreckungsklausel"
+        },
+        {
+          "documentIdentifier" : "BJNR078600995BJNE000300305",
+          "paragraph" : "§ 3",
+          "title" : "Zuständigkeit des Oberlandesgerichts als Vollstreckungsorgan"
+        },
+        {
+          "documentIdentifier" : "BJNR078600995BJNE000400305",
+          "paragraph" : "§ 4",
+          "title" : "Rechtsbehelfe in der Zwangsvollstreckung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

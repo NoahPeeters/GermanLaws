@@ -1,0 +1,158 @@
+{
+  "documentIdentifier" : "BJNR199810998",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR199810998BJNG000100311",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR199810998BJNE000604140",
+          "paragraph" : "§ 1",
+          "title" : "Unmittelbare Steuerberechtigung"
+        },
+        {
+          "documentIdentifier" : "BJNR199810998BJNE002101140",
+          "paragraph" : "§ 1a",
+          "title" : "Unmittelbare Steuerberechtigung für die Einkommensteuer auf Einkünfte im Sinne des § 49 Abs. 1 Nr. 7 und 10 des Einkommensteuergesetzes nach Maßgabe der zu § 19 Abs. 6 der Abgabenordnung erlassenen Rechtsverordnung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Unmittelbare Steuerberechtigung"
+    },
+    {
+      "documentIdentifier" : "BJNR199810998BJNG000200311",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR199810998BJNE000706123",
+          "paragraph" : "§ 2",
+          "title" : "Grundlagen der Zerlegung der Körperschaftsteuer"
+        },
+        {
+          "documentIdentifier" : "BJNR199810998BJNE000801301",
+          "paragraph" : "§ 3",
+          "title" : "Zerlegung der verbleibenden Körperschaftsteuer"
+        },
+        {
+          "documentIdentifier" : "BJNR199810998BJNE000901377",
+          "paragraph" : "§ 4",
+          "title" : "Zerlegung der Körperschaftsteuer-Vorauszahlungen"
+        },
+        {
+          "documentIdentifier" : "BJNR199810998BJNE001002377",
+          "paragraph" : "§ 5",
+          "title" : "Abrechnung der Zerlegung"
+        },
+        {
+          "documentIdentifier" : "BJNR199810998BJNE001101140",
+          "paragraph" : "§ 6",
+          "title" : "Verfahrensrechtliche Vorschriften"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Zerlegung der Körperschaftsteuer"
+    },
+    {
+      "documentIdentifier" : "BJNR199810998BJNG000300311",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR199810998BJNE001207377",
+          "paragraph" : "§ 7",
+          "title" : "Zerlegung der Lohnsteuer"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Zerlegung der Lohnsteuer"
+    },
+    {
+      "documentIdentifier" : "BJNR199810998BJNG000400311",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR199810998BJNE001304377",
+          "paragraph" : "§ 8",
+          "title" : "Zerlegung der Kapitalertragsteuer"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR199810998BJNG000600140",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR199810998BJNE002000140",
+              "paragraph" : "§ 8a",
+              "title" : "Zerlegung der Einkommensteuer auf Einkünfte im Sinne des § 49 Abs. 1 Nr. 7 und 10 des Einkommensteuergesetzes nach Maßgabe der zu § 19 Abs. 6 der Abgabenordnung erlassenen Rechtsverordnung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Zerlegung der Einkommensteuer auf Einkünfte im Sinne des § 49 Abs. 1 Nr. 7 und 10 des Einkommensteuergesetzes, soweit durch Rechtsverordnung zu § 19 Abs. 6 der Abgabenordnung für die Einkommensbesteuerung von Personen, die beschränkt steuerpflichtig oder nach § 1 Abs. 3 des Einkommensteuergesetzes unbeschränkt steuerpflichtig sind und ausschließlich mit Einkünften im Sinne des § 49 Abs. 1 Nr. 7 und 10 des Einkommensteuergesetzes zu veranlagen sind, einer Finanzbehörde die örtliche Zuständigkeit übertragen wird"
+        }
+      ],
+      "title" : "Zerlegung des Zinsabschlags"
+    },
+    {
+      "documentIdentifier" : "BJNR199810998BJNG000500311",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR199810998BJNE001400311",
+          "paragraph" : "§ 9",
+          "title" : "Zahlungen im Clearingverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR199810998BJNE001500311",
+          "paragraph" : "§ 10",
+          "title" : "Erlöschen der Ansprüche"
+        },
+        {
+          "documentIdentifier" : "BJNR199810998BJNE001600311",
+          "paragraph" : "§ 11",
+          "title" : "Rechtsweg"
+        },
+        {
+          "documentIdentifier" : "BJNR199810998BJNE001711377",
+          "paragraph" : "§ 12",
+          "title" : "Anwendung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gemeinsame Vorschriften"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "documentIdentifier" : "BJNR523000001",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR523000001BJNG000100305",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR523000001BJNE000700305",
+          "paragraph" : "§ 1",
+          "title" : "Geltungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR523000001BJNE000800305",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR523000001BJNG000200305",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR523000001BJNE000900305",
+          "paragraph" : "§ 3",
+          "title" : "Allgemeine Vorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR523000001BJNE001000305",
+          "paragraph" : "§ 4",
+          "title" : "Personelle Voraussetzungen"
+        },
+        {
+          "documentIdentifier" : "BJNR523000001BJNE001100305",
+          "paragraph" : "§ 5",
+          "title" : "Technische Voraussetzungen"
+        },
+        {
+          "documentIdentifier" : "BJNR523000001BJNE001200305",
+          "paragraph" : "§ 6",
+          "title" : "Organisatorische Voraussetzungen"
+        },
+        {
+          "documentIdentifier" : "BJNR523000001BJNE001300305",
+          "paragraph" : "§ 7",
+          "title" : "Außerbetriebliche Stellen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Voraussetzungen für die Anerkennung"
+    },
+    {
+      "documentIdentifier" : "BJNR523000001BJNG000300305",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR523000001BJNE001400305",
+          "paragraph" : "§ 8",
+          "title" : "Gültigkeit der Anerkennung"
+        },
+        {
+          "documentIdentifier" : "BJNR523000001BJNE001500305",
+          "paragraph" : "§ 9",
+          "title" : "Anzeigepflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR523000001BJNE001600305",
+          "paragraph" : "§ 10",
+          "title" : "Rücknahme und Widerruf der Anerkennung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gültigkeit, Rücknahme und Widerruf der Anerkennung"
+    },
+    {
+      "documentIdentifier" : "BJNR523000001BJNG000400305",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR523000001BJNE001700305",
+          "paragraph" : "§ 11",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussvorschriften"
+    }
+  ]
+}

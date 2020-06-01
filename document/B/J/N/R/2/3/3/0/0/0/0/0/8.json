@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR233000008",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR233000008Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR233000008BJNE000202119",
+          "paragraph" : "§ 1",
+          "title" : "Zweck und Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR233000008BJNE000302119",
+          "paragraph" : "§ 2",
+          "title" : "Veröffentlichung"
+        },
+        {
+          "documentIdentifier" : "BJNR233000008BJNE000701119",
+          "paragraph" : "§ 2a",
+          "title" : "Datenverarbeitung"
+        },
+        {
+          "documentIdentifier" : "BJNR233000008BJNE000402119",
+          "paragraph" : "§ 3",
+          "title" : "Verordnungsermächtigungen"
+        },
+        {
+          "documentIdentifier" : "BJNR233000008BJNE000501377",
+          "paragraph" : "§ 4",
+          "title" : "Verkündung von Rechtsverordnungen"
+        },
+        {
+          "documentIdentifier" : "BJNR233000008BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "documentIdentifier" : "BJNR232800002",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR232800002Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR232800002BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Gliederung und Inhalt der Meisterprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR232800002BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Meisterprüfungsberufsbild"
+        },
+        {
+          "documentIdentifier" : "BJNR232800002BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Gliederung, Prüfungsdauer und Bestehen des Teils I"
+        },
+        {
+          "documentIdentifier" : "BJNR232800002BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Meisterprüfungsprojekt"
+        },
+        {
+          "documentIdentifier" : "BJNR232800002BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Fachgespräch"
+        },
+        {
+          "documentIdentifier" : "BJNR232800002BJNE000601360",
+          "paragraph" : "§ 6",
+          "title" : "Gliederung, Prüfungsdauer und Bestehen des Teils II"
+        },
+        {
+          "documentIdentifier" : "BJNR232800002BJNE000701360",
+          "paragraph" : "§ 7",
+          "title" : "Allgemeine Prüfungs- und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR232800002BJNE000801360",
+          "paragraph" : "§ 8",
+          "title" : "Übergangsvorschrift"
+        },
+        {
+          "documentIdentifier" : "BJNR232800002BJNE000900000",
+          "paragraph" : "§ 9",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR201130979",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR201130979Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR201130979BJNE000100303",
+          "paragraph" : "Art 1",
+          "title" : "Zustimmung zu dem Übereinkommen"
+        },
+        {
+          "documentIdentifier" : "BJNR201130979BJNE000200303",
+          "paragraph" : "Art 2",
+          "title" : "Ausschließliches Recht zur Weitersendung"
+        },
+        {
+          "documentIdentifier" : "BJNR201130979BJNE000300303",
+          "paragraph" : "Art 3",
+          "title" : "Berlin-Klausel"
+        },
+        {
+          "documentIdentifier" : "BJNR201130979BJNE000400303",
+          "paragraph" : "Art 4",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

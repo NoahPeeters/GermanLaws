@@ -1,0 +1,150 @@
+{
+  "documentIdentifier" : "BJNR023780990",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR023780990BJNG000101320",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR023780990BJNE000804310",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR023780990BJNE000902310",
+          "paragraph" : "§ 2",
+          "title" : "Beratung"
+        },
+        {
+          "documentIdentifier" : "BJNR023780990BJNE001003310",
+          "paragraph" : "§ 3",
+          "title" : "Formvorschriften"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeines"
+    },
+    {
+      "documentIdentifier" : "BJNR023780990BJNG000201320",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR023780990BJNE001105310",
+          "paragraph" : "§ 4",
+          "title" : "Unterlagen für gentechnische Anlagen, erstmalige oder weitere gentechnische Arbeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR023780990BJNE001205116",
+          "paragraph" : "§ 5",
+          "title" : "Unterlagen bei Freisetzungen"
+        },
+        {
+          "documentIdentifier" : "BJNR023780990BJNE001305116",
+          "paragraph" : "§ 6",
+          "title" : "Unterlagen bei Inverkehrbringen"
+        },
+        {
+          "documentIdentifier" : "BJNR023780990BJNE001401320",
+          "paragraph" : "§ 7",
+          "title" : "Ausnahmen von Angaben und Maßnahmen"
+        },
+        {
+          "documentIdentifier" : "BJNR023780990BJNE001501320",
+          "paragraph" : "§ 8",
+          "title" : "Unterlagen für eingeschlossene Entscheidungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Anforderungen an Unterlagen"
+    },
+    {
+      "documentIdentifier" : "BJNR023780990BJNG000301320",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR023780990BJNE001602320",
+          "paragraph" : "§ 9",
+          "title" : "Beteiligung anderer Stellen"
+        },
+        {
+          "documentIdentifier" : "BJNR023780990BJNE001702310",
+          "paragraph" : "§ 10",
+          "title" : "Bewertungsbericht"
+        },
+        {
+          "documentIdentifier" : "BJNR023780990BJNE001803310",
+          "paragraph" : "§ 11",
+          "title" : "Vereinfachtes Verfahren für Freisetzungen"
+        },
+        {
+          "documentIdentifier" : "BJNR023780990BJNE001903310",
+          "paragraph" : "§ 12",
+          "title" : "Form der Entscheidung, Bekanntgabe"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Genehmigungsverfahren"
+    },
+    {
+      "documentIdentifier" : "BJNR023780990BJNG000402310",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR023780990BJNE002003310",
+          "paragraph" : "§ 13",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR023780990BJNE002104310",
+          "paragraph" : "§ 14",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "(weggefallen)"
+    },
+    {
+      "documentIdentifier" : "BJNR023780990BJNG000502320",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR023780990BJNE002505310",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 4)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlußvorschrift"
+    }
+  ]
+}

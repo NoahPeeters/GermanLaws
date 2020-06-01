@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR193800017",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR193800017Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR193800017BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Beleihung"
+        },
+        {
+          "documentIdentifier" : "BJNR193800017BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Finanzierung des Beliehenen und Übertragung der Vollstreckung an den Beliehenen"
+        },
+        {
+          "documentIdentifier" : "BJNR193800017BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Vorzeitige Beendigung der Beleihung"
+        },
+        {
+          "documentIdentifier" : "BJNR193800017BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Abwicklung bei Beendigung der Beleihung"
+        },
+        {
+          "documentIdentifier" : "BJNR193800017BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

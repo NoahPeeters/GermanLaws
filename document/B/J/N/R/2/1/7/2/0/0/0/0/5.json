@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR217200005",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR217200005Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR217200005BJNE000201360",
+          "paragraph" : "§ 1",
+          "title" : "Mindestanforderungen an die Einrichtung und den wirtschaftlichen Zustand"
+        },
+        {
+          "documentIdentifier" : "BJNR217200005BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Fachrichtungsspezifische Anforderungen"
+        },
+        {
+          "documentIdentifier" : "BJNR217200005BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Ausnahmeregelungen"
+        },
+        {
+          "documentIdentifier" : "BJNR217200005BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

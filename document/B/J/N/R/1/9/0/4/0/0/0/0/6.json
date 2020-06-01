@@ -1,0 +1,206 @@
+{
+  "documentIdentifier" : "BJNR190400006",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR190400006BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR190400006BJNE000101310",
+          "paragraph" : "§ 1",
+          "title" : "Ziel des Gesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR190400006BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR190400006BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR190400006BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Unterschiedliche Behandlung wegen mehrerer Gründe"
+        },
+        {
+          "documentIdentifier" : "BJNR190400006BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Positive Maßnahmen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeiner Teil"
+    },
+    {
+      "documentIdentifier" : "BJNR190400006BJNG000200000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR190400006BJNG000300000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR190400006BJNE000600000",
+              "paragraph" : "§ 6",
+              "title" : "Persönlicher Anwendungsbereich"
+            },
+            {
+              "documentIdentifier" : "BJNR190400006BJNE000700000",
+              "paragraph" : "§ 7",
+              "title" : "Benachteiligungsverbot"
+            },
+            {
+              "documentIdentifier" : "BJNR190400006BJNE000800000",
+              "paragraph" : "§ 8",
+              "title" : "Zulässige unterschiedliche Behandlung wegen beruflicher\nAnforderungen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Verbot der Benachteiligung"
+        },
+        {
+          "documentIdentifier" : "BJNR190400006BJNG000400000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR190400006BJNE000900000",
+              "paragraph" : "§ 9",
+              "title" : "Personalwerbung; Dienstpostenbekanntgabe"
+            },
+            {
+              "documentIdentifier" : "BJNR190400006BJNE001000000",
+              "paragraph" : "§ 10",
+              "title" : "Maßnahmen und Pflichten des Dienstherrn"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Organisationspflichten des Dienstherrn"
+        },
+        {
+          "documentIdentifier" : "BJNR190400006BJNG000500000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR190400006BJNE001100000",
+              "paragraph" : "§ 11",
+              "title" : "Beschwerderecht"
+            },
+            {
+              "documentIdentifier" : "BJNR190400006BJNE001200000",
+              "paragraph" : "§ 12",
+              "title" : "Entschädigung und Schadensersatz"
+            },
+            {
+              "documentIdentifier" : "BJNR190400006BJNE001300000",
+              "paragraph" : "§ 13",
+              "title" : "Maßregelungsverbot"
+            },
+            {
+              "documentIdentifier" : "BJNR190400006BJNE001400000",
+              "paragraph" : "§ 14",
+              "title" : "Mitgliedschaft in Vereinigungen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Rechte der in § 6 genannten Personen"
+        }
+      ],
+      "title" : "Schutz vor Benachteiligung"
+    },
+    {
+      "documentIdentifier" : "BJNR190400006BJNG000600000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR190400006BJNE001501310",
+          "paragraph" : "§ 15",
+          "title" : "Beweislast"
+        },
+        {
+          "documentIdentifier" : "BJNR190400006BJNE001600000",
+          "paragraph" : "§ 16",
+          "title" : "Unterstützung durch Antidiskriminierungsverbände"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Rechtsschutz"
+    },
+    {
+      "documentIdentifier" : "BJNR190400006BJNG000700000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR190400006BJNE001700000",
+          "paragraph" : "§ 17",
+          "title" : "Antidiskriminierungsstelle des Bundes"
+        },
+        {
+          "documentIdentifier" : "BJNR190400006BJNE001801310",
+          "paragraph" : "§ 18",
+          "title" : "Schwerbehinderte Soldatinnen und Soldaten"
+        },
+        {
+          "documentIdentifier" : "BJNR190400006BJNE001900000",
+          "paragraph" : "§ 19",
+          "title" : "Unabdingbarkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR190400006BJNE002000000",
+          "paragraph" : "§ 20",
+          "title" : "Übergangsvorschrift"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Ergänzende Vorschriften"
+    }
+  ]
+}

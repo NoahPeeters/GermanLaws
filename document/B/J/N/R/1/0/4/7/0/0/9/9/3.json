@@ -1,0 +1,59 @@
+{
+  "documentIdentifier" : "BJNR104700993",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR104700993Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR104700993BJNE000102119",
+          "paragraph" : "§ 1",
+          "title" : "Geltungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR104700993BJNE000201126",
+          "paragraph" : "§ 2",
+          "title" : "Versorgungsträger"
+        },
+        {
+          "documentIdentifier" : "BJNR104700993BJNE000303308",
+          "paragraph" : "§ 3",
+          "title" : "Gleichstellung"
+        },
+        {
+          "documentIdentifier" : "BJNR104700993BJNE000401119",
+          "paragraph" : "§ 4",
+          "title" : "Rentenberechnung in Fällen ohne Gleichstellung"
+        },
+        {
+          "documentIdentifier" : "BJNR104700993BJNE000500307",
+          "paragraph" : "§ 5",
+          "title" : "Geltung von Regelungen"
+        },
+        {
+          "documentIdentifier" : "BJNR104700993BJNE000602308",
+          "paragraph" : "§ 6",
+          "title" : "Zeitpunkt und Art der Gleichstellung"
+        },
+        {
+          "documentIdentifier" : "BJNR104700993BJNE000703126",
+          "paragraph" : "§ 7",
+          "title" : "Verfahren zur Datenmitteilung"
+        },
+        {
+          "documentIdentifier" : "BJNR104700993BJNE000802126",
+          "paragraph" : "§ 8",
+          "title" : "Abrechnung der Aufwendungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

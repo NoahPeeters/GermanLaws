@@ -1,0 +1,50 @@
+{
+  "documentIdentifier" : "BJNR009810961",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR009810961BJNG000100319",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Einkommensteuer"
+    },
+    {
+      "documentIdentifier" : "BJNR009810961BJNG000300319",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Zweiter bis Elfter Abschnitt"
+    },
+    {
+      "documentIdentifier" : "BJNR009810961BJNG000200319",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          12
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlußvorschriften"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "documentIdentifier" : "BJNR195810006",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR195810006Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR195810006BJNE000102123",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR195810006BJNE000202123",
+          "paragraph" : "§ 2",
+          "title" : "Mindestalter, Qualifikation"
+        },
+        {
+          "documentIdentifier" : "BJNR195810006BJNE000301377",
+          "paragraph" : "§ 3",
+          "title" : "Besitzstand"
+        },
+        {
+          "documentIdentifier" : "BJNR195810006BJNE000401305",
+          "paragraph" : "§ 4",
+          "title" : "Erwerb der Grundqualifikation"
+        },
+        {
+          "documentIdentifier" : "BJNR195810006BJNE000502123",
+          "paragraph" : "§ 5",
+          "title" : "Weiterbildung"
+        },
+        {
+          "documentIdentifier" : "BJNR195810006BJNE000601123",
+          "paragraph" : "§ 6",
+          "title" : "Ausbildungs- und Prüfungsort"
+        },
+        {
+          "documentIdentifier" : "BJNR195810006BJNE000704360",
+          "paragraph" : "§ 7",
+          "title" : "Anerkennung und Überwachung von Ausbildungsstätten"
+        },
+        {
+          "documentIdentifier" : "BJNR195810006BJNE001000123",
+          "paragraph" : "§ 7a",
+          "title" : "Untersagung der Tätigkeit, Widerruf der Anerkennung"
+        },
+        {
+          "documentIdentifier" : "BJNR195810006BJNE001100123",
+          "paragraph" : "§ 7b",
+          "title" : "Überwachung von Ausbildungsstätten"
+        },
+        {
+          "documentIdentifier" : "BJNR195810006BJNE000802123",
+          "paragraph" : "§ 8",
+          "title" : "Rechtsverordnungen"
+        },
+        {
+          "documentIdentifier" : "BJNR195810006BJNE000901123",
+          "paragraph" : "§ 9",
+          "title" : "Bußgeldvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR195810006BJNE001200123",
+          "paragraph" : "§ 10",
+          "title" : "Verkündung von Rechtsverordnungen"
+        },
+        {
+          "documentIdentifier" : "BJNR195810006BJNE001300123",
+          "paragraph" : "§ 11",
+          "title" : "Übergangsvorschriften"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

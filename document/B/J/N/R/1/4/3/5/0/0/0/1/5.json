@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR143500015",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR143500015Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR143500015BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR143500015BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Inhalt der Veröffentlichung"
+        },
+        {
+          "documentIdentifier" : "BJNR143500015BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Art der Veröffentlichung von Tatsachen"
+        },
+        {
+          "documentIdentifier" : "BJNR143500015BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Form und Inhalt der Mitteilung der Tatsache und der Veröffentlichung an die Bundesanstalt"
+        },
+        {
+          "documentIdentifier" : "BJNR143500015BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Bekanntmachung der Tatsache durch die Bundesanstalt"
+        },
+        {
+          "documentIdentifier" : "BJNR143500015BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

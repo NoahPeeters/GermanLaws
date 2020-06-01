@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR129400017",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR129400017Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR129400017BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Erlass von Widerspruchsbescheiden"
+        },
+        {
+          "documentIdentifier" : "BJNR129400017BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Vertretung bei Klagen aus dem Beamtenverhältnis"
+        },
+        {
+          "documentIdentifier" : "BJNR129400017BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Vorbehaltsklausel"
+        },
+        {
+          "documentIdentifier" : "BJNR129400017BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Übergangsregelung"
+        },
+        {
+          "documentIdentifier" : "BJNR129400017BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

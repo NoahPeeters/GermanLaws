@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR017900995",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR017900995Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR017900995BJNE000201360",
+          "paragraph" : "§ 1",
+          "title" : "Mindestanforderungen an die Einrichtung und den Bewirtschaftungszustand"
+        },
+        {
+          "documentIdentifier" : "BJNR017900995BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Mindestanforderung an die Größe"
+        },
+        {
+          "documentIdentifier" : "BJNR017900995BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Ausnahmeregelungen"
+        },
+        {
+          "documentIdentifier" : "BJNR017900995BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

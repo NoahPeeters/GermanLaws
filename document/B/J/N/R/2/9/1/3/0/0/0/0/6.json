@@ -1,0 +1,69 @@
+{
+  "documentIdentifier" : "BJNR291300006",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR291300006Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR291300006BJNE000101118",
+          "paragraph" : "§ 1",
+          "title" : "Gegenstand und Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR291300006BJNE000201118",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR291300006BJNE000700118",
+          "paragraph" : "§ 2a",
+          "title" : "Grundsatz der Weiterverwendung"
+        },
+        {
+          "documentIdentifier" : "BJNR291300006BJNE000301118",
+          "paragraph" : "§ 3",
+          "title" : "Gleichbehandlungsanspruch"
+        },
+        {
+          "documentIdentifier" : "BJNR291300006BJNE000800118",
+          "paragraph" : "§ 3a",
+          "title" : "Verbot von Ausschließlichkeitsvereinbarungen"
+        },
+        {
+          "documentIdentifier" : "BJNR291300006BJNE000401118",
+          "paragraph" : "§ 4",
+          "title" : "Nutzungsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR291300006BJNE000501118",
+          "paragraph" : "§ 5",
+          "title" : "Grundsätze zur Entgeltberechnung"
+        },
+        {
+          "documentIdentifier" : "BJNR291300006BJNE000601118",
+          "paragraph" : "§ 6",
+          "title" : "Transparenz"
+        },
+        {
+          "documentIdentifier" : "BJNR291300006BJNE000900118",
+          "paragraph" : "§ 7",
+          "title" : "Rechtsschutz"
+        },
+        {
+          "documentIdentifier" : "BJNR291300006BJNE001000118",
+          "paragraph" : "§ 8",
+          "title" : "Praktische Vorkehrungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

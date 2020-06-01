@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR251700016",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR251700016Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR251700016BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Feste Beträge der Wahlkostenerstattung"
+        },
+        {
+          "documentIdentifier" : "BJNR251700016BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

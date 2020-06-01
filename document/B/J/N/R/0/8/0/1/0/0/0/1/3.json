@@ -1,0 +1,89 @@
+{
+  "documentIdentifier" : "BJNR080100013",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR080100013Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR080100013BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR080100013BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Anmeldung und Teilnahme"
+        },
+        {
+          "documentIdentifier" : "BJNR080100013BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Prüfungsumfang und Prüfungsdauer"
+        },
+        {
+          "documentIdentifier" : "BJNR080100013BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Prüfungsunterlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR080100013BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Ausschluss der Öffentlichkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR080100013BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Überprüfung der Identität"
+        },
+        {
+          "documentIdentifier" : "BJNR080100013BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Aufsicht und Protokoll"
+        },
+        {
+          "documentIdentifier" : "BJNR080100013BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Ausschluss von der Prüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR080100013BJNE001000000",
+          "paragraph" : "§ 9",
+          "title" : "Rücktritt, Abbruch und Wiederholung der Prüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR080100013BJNE001100000",
+          "paragraph" : "§ 10",
+          "title" : "Bewertung der Prüfungsergebnisse"
+        },
+        {
+          "documentIdentifier" : "BJNR080100013BJNE001200000",
+          "paragraph" : "§ 11",
+          "title" : "Einsichtnahme"
+        },
+        {
+          "documentIdentifier" : "BJNR080100013BJNE001300000",
+          "paragraph" : "§ 12",
+          "title" : "Verschwiegenheit"
+        },
+        {
+          "documentIdentifier" : "BJNR080100013BJNE001400000",
+          "paragraph" : "§ 13",
+          "title" : "Archivierung"
+        },
+        {
+          "documentIdentifier" : "BJNR080100013BJNE001500000",
+          "paragraph" : "§ 14",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR364100009",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR364100009Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR364100009BJNE000201116",
+          "paragraph" : "§ 1",
+          "title" : "Nachweise"
+        },
+        {
+          "documentIdentifier" : "BJNR364100009BJNE000301116",
+          "paragraph" : "§ 2",
+          "title" : "Sicherstellung der dauerhaften Einhaltung der Pflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR364100009BJNE000401116",
+          "paragraph" : "§ 3",
+          "title" : "Ausnahme für beaufsichtigte Agenten"
+        },
+        {
+          "documentIdentifier" : "BJNR364100009BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

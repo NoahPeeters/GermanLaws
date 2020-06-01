@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR055010004",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR055010004Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR055010004BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Haftung bei Personenschäden"
+        },
+        {
+          "documentIdentifier" : "BJNR055010004BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Haftung bei Güterschäden"
+        },
+        {
+          "documentIdentifier" : "BJNR055010004BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Umrechnung des Sonderziehungsrechts des Internationalen Währungsfonds"
+        },
+        {
+          "documentIdentifier" : "BJNR055010004BJNE000405305",
+          "paragraph" : "§ 4",
+          "title" : "Versicherungspflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR055010004BJNE000501301",
+          "paragraph" : "§ 5",
+          "title" : "Bußgeldvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR055010004BJNE000600000",
+          "paragraph" : "§ 6",
+          "title" : "Zeitlicher Anwendungsbereich"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

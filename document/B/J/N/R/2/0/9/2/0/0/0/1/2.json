@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR209200012",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR209200012Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR209200012BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Einsatzunfall als"
+        },
+        {
+          "documentIdentifier" : "BJNR209200012BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Bewaffnete Auseinandersetzung"
+        },
+        {
+          "documentIdentifier" : "BJNR209200012BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

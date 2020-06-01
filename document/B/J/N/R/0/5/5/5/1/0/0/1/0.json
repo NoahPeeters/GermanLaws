@@ -1,0 +1,74 @@
+{
+  "documentIdentifier" : "BJNR055510010",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR055510010Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR055510010BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR055510010BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Kennzeichnung"
+        },
+        {
+          "documentIdentifier" : "BJNR055510010BJNE000301360",
+          "paragraph" : "§ 3",
+          "title" : "Antragstellung"
+        },
+        {
+          "documentIdentifier" : "BJNR055510010BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Ergänzende Informationen der Genehmigungsbehörden"
+        },
+        {
+          "documentIdentifier" : "BJNR055510010BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Bewertungsverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR055510010BJNE000600000",
+          "paragraph" : "§ 6",
+          "title" : "Genehmigungsverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR055510010BJNE000701360",
+          "paragraph" : "§ 7",
+          "title" : "Verfahren bei klinischen Prüfungen und Leistungsbewertungsprüfungen von Medizinprodukten mit geringem Sicherheitsrisiko"
+        },
+        {
+          "documentIdentifier" : "BJNR055510010BJNE000800000",
+          "paragraph" : "§ 8",
+          "title" : "Änderungen"
+        },
+        {
+          "documentIdentifier" : "BJNR055510010BJNE000900000",
+          "paragraph" : "§ 9",
+          "title" : "Anforderungen an Prüfer"
+        },
+        {
+          "documentIdentifier" : "BJNR055510010BJNE001000000",
+          "paragraph" : "§ 10",
+          "title" : "Durchführung der klinischen Prüfung und Leistungsbewertungsprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR055510010BJNE001100000",
+          "paragraph" : "§ 11",
+          "title" : "Überwachung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

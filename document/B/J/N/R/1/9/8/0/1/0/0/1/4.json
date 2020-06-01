@@ -1,0 +1,179 @@
+{
+  "documentIdentifier" : "BJNR198010014",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR198010014Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR198010014BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR198010014BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Technische Anforderungen"
+        },
+        {
+          "documentIdentifier" : "BJNR198010014BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Europäischer elektronischer Mautdienst"
+        },
+        {
+          "documentIdentifier" : "BJNR198010014BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Registrierung von Anbietern"
+        },
+        {
+          "documentIdentifier" : "BJNR198010014BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Registrierungsvoraussetzungen"
+        },
+        {
+          "documentIdentifier" : "BJNR198010014BJNE000601126",
+          "paragraph" : "§ 6",
+          "title" : "Registrierungsverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR198010014BJNE000700000",
+          "paragraph" : "§ 7",
+          "title" : "Regelmäßige Überprüfung der Registrierungsvoraussetzungen"
+        },
+        {
+          "documentIdentifier" : "BJNR198010014BJNE000800000",
+          "paragraph" : "§ 8",
+          "title" : "Erhebung von Gebühren und Auslagen"
+        },
+        {
+          "documentIdentifier" : "BJNR198010014BJNE000900000",
+          "paragraph" : "§ 9",
+          "title" : "Gebietsvorgaben"
+        },
+        {
+          "documentIdentifier" : "BJNR198010014BJNE001000000",
+          "paragraph" : "§ 10",
+          "title" : "Zulassung von Anbietern"
+        },
+        {
+          "documentIdentifier" : "BJNR198010014BJNE001100000",
+          "paragraph" : "§ 11",
+          "title" : "Beschränkte Zulassung"
+        },
+        {
+          "documentIdentifier" : "BJNR198010014BJNE001200000",
+          "paragraph" : "§ 12",
+          "title" : "Abdeckung der mautpflichtigen Streckennetze"
+        },
+        {
+          "documentIdentifier" : "BJNR198010014BJNE001301126",
+          "paragraph" : "§ 13",
+          "title" : "Pflichten der Anbieter gegenüber den Nutzern"
+        },
+        {
+          "documentIdentifier" : "BJNR198010014BJNE001400000",
+          "paragraph" : "§ 14",
+          "title" : "Weitere Pflichten der Anbieter"
+        },
+        {
+          "documentIdentifier" : "BJNR198010014BJNE001500000",
+          "paragraph" : "§ 15",
+          "title" : "Rechte und Pflichten der Nutzer"
+        },
+        {
+          "documentIdentifier" : "BJNR198010014BJNE001600000",
+          "paragraph" : "§ 16",
+          "title" : "Befugnisse und Pflichten der für die Mauterhebung zuständigen Behörden"
+        },
+        {
+          "documentIdentifier" : "BJNR198010014BJNE001700000",
+          "paragraph" : "§ 17",
+          "title" : "Maut-Basisdaten"
+        },
+        {
+          "documentIdentifier" : "BJNR198010014BJNE001800000",
+          "paragraph" : "§ 18",
+          "title" : "Fahrzeugklassifizierung"
+        },
+        {
+          "documentIdentifier" : "BJNR198010014BJNE001900000",
+          "paragraph" : "§ 19",
+          "title" : "Mautbuchungsnachweise"
+        },
+        {
+          "documentIdentifier" : "BJNR198010014BJNE002000000",
+          "paragraph" : "§ 20",
+          "title" : "Buchführung"
+        },
+        {
+          "documentIdentifier" : "BJNR198010014BJNE002101126",
+          "paragraph" : "§ 21",
+          "title" : "Mautdienstregister"
+        },
+        {
+          "documentIdentifier" : "BJNR198010014BJNE002200000",
+          "paragraph" : "§ 22",
+          "title" : "Anforderungen an Interoperabilitätskomponenten"
+        },
+        {
+          "documentIdentifier" : "BJNR198010014BJNE002300000",
+          "paragraph" : "§ 23",
+          "title" : "Beurteilung und Kennzeichnung von Interoperabilitätskomponenten"
+        },
+        {
+          "documentIdentifier" : "BJNR198010014BJNE002400000",
+          "paragraph" : "§ 24",
+          "title" : "Inverkehrbringen von Interoperabilitätskomponenten"
+        },
+        {
+          "documentIdentifier" : "BJNR198010014BJNE002500000",
+          "paragraph" : "§ 25",
+          "title" : "Besondere Anforderungen an die Fahrzeuggeräte"
+        },
+        {
+          "documentIdentifier" : "BJNR198010014BJNE002601126",
+          "paragraph" : "§ 26",
+          "title" : "Liste gesperrter Fahrzeuggeräte"
+        },
+        {
+          "documentIdentifier" : "BJNR198010014BJNE002700000",
+          "paragraph" : "§ 27",
+          "title" : "Notifizierte Stellen"
+        },
+        {
+          "documentIdentifier" : "BJNR198010014BJNE002801126",
+          "paragraph" : "§ 28",
+          "title" : "Einrichtung und Aufgaben der Vermittlungsstelle"
+        },
+        {
+          "documentIdentifier" : "BJNR198010014BJNE002900000",
+          "paragraph" : "§ 29",
+          "title" : "Organisation der Vermittlungsstelle und Kostentragung"
+        },
+        {
+          "documentIdentifier" : "BJNR198010014BJNE003000000",
+          "paragraph" : "§ 30",
+          "title" : "Vermittlungsverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR198010014BJNE003100000",
+          "paragraph" : "§ 31",
+          "title" : "Verordnungsermächtigungen"
+        },
+        {
+          "documentIdentifier" : "BJNR198010014BJNE003200000",
+          "paragraph" : "§ 32",
+          "title" : "Pilot-Mautsysteme"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

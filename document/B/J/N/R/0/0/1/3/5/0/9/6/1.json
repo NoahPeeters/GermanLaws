@@ -1,0 +1,63 @@
+{
+  "documentIdentifier" : "BJNR001350961",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR001350961BJNG000100326",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR001350961BJNE000500326",
+          "paragraph" : "§ 1",
+          "title" : "Einführung von Rechtsverordnungen im Saarland"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Einführungsvorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR001350961BJNG000200326",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Anpassungsvorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR001350961BJNG000300326",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR001350961BJNE000700326",
+          "paragraph" : "§ 12",
+          "title" : "Anwendung in Berlin"
+        },
+        {
+          "documentIdentifier" : "BJNR001350961BJNE000800326",
+          "paragraph" : "§ 13",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlußvorschriften"
+    }
+  ]
+}

@@ -1,0 +1,2229 @@
+{
+  "documentIdentifier" : "BJNR003410960",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR003410960BJNG003604116",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR003410960BJNG000104116",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              1
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR003410960BJNG000204116",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE003616116",
+                  "paragraph" : "§ 1",
+                  "title" : "Aufgabe, Begriff und Grundsätze der Bauleitplanung"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE035407116",
+                  "paragraph" : "§ 1a",
+                  "title" : "Ergänzende Vorschriften zum Umweltschutz"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE003709116",
+                  "paragraph" : "§ 2",
+                  "title" : "Aufstellung der Bauleitpläne"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE036704116",
+                  "paragraph" : "§ 2a",
+                  "title" : "Begründung zum Bauleitplanentwurf, Umweltbericht"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE003913116",
+                  "paragraph" : "§ 3",
+                  "title" : "Beteiligung der Öffentlichkeit"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE004010116",
+                  "paragraph" : "§ 4",
+                  "title" : "Beteiligung der Behörden"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE035508116",
+                  "paragraph" : "§ 4a",
+                  "title" : "Gemeinsame Vorschriften zur Beteiligung"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE035605116",
+                  "paragraph" : "§ 4b",
+                  "title" : "Einschaltung eines Dritten"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE037004116",
+                  "paragraph" : "§ 4c",
+                  "title" : "Überwachung"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  1,
+                  1,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Allgemeine Vorschriften"
+            },
+            {
+              "documentIdentifier" : "BJNR003410960BJNG000304116",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE004214116",
+                  "paragraph" : "§ 5",
+                  "title" : "Inhalt des Flächennutzungsplans"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE004307116",
+                  "paragraph" : "§ 6",
+                  "title" : "Genehmigung des Flächennutzungsplans"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE038601116",
+                  "paragraph" : "§ 6a",
+                  "title" : "Zusammenfassende Erklärung zum Flächennutzungsplan; Einstellen in das Internet"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE004406116",
+                  "paragraph" : "§ 7",
+                  "title" : "Anpassung an den Flächennutzungsplan"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  1,
+                  1,
+                  2
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Vorbereitender Bauleitplan (Flächennutzungsplan)"
+            },
+            {
+              "documentIdentifier" : "BJNR003410960BJNG000404116",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE004506116",
+                  "paragraph" : "§ 8",
+                  "title" : "Zweck des Bebauungsplans"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE004617116",
+                  "paragraph" : "§ 9",
+                  "title" : "Inhalt des Bebauungsplans"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE036904116",
+                  "paragraph" : "§ 9a",
+                  "title" : "Verordnungsermächtigung"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE004808116",
+                  "paragraph" : "§ 10",
+                  "title" : "Beschluss, Genehmigung und Inkrafttreten des Bebauungsplans"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE038701116",
+                  "paragraph" : "§ 10a",
+                  "title" : "Zusammenfassende Erklärung zum Bebauungsplan; Einstellen in das Internet"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  1,
+                  1,
+                  3
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Verbindlicher Bauleitplan (Bebauungsplan)"
+            },
+            {
+              "documentIdentifier" : "BJNR003410960BJNG006203116",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE004911116",
+                  "paragraph" : "§ 11",
+                  "title" : "Städtebaulicher Vertrag"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE005010116",
+                  "paragraph" : "§ 12",
+                  "title" : "Vorhaben- und Erschließungsplan"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE005110116",
+                  "paragraph" : "§ 13",
+                  "title" : "Vereinfachtes Verfahren"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE038103116",
+                  "paragraph" : "§ 13a",
+                  "title" : "Bebauungspläne der Innenentwicklung"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE038801116",
+                  "paragraph" : "§ 13b",
+                  "title" : "Einbeziehung von Außenbereichsflächen in das beschleunigte Verfahren"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  1,
+                  1,
+                  4
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Zusammenarbeit mit Privaten; vereinfachtes Verfahren"
+            }
+          ],
+          "title" : "Bauleitplanung"
+        },
+        {
+          "documentIdentifier" : "BJNR003410960BJNG000504116",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              2
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR003410960BJNG000604116",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE005308116",
+                  "paragraph" : "§ 14",
+                  "title" : "Veränderungssperre"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE005409116",
+                  "paragraph" : "§ 15",
+                  "title" : "Zurückstellung von Baugesuchen"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE005506116",
+                  "paragraph" : "§ 16",
+                  "title" : "Beschluss über die Veränderungssperre"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE005607116",
+                  "paragraph" : "§ 17",
+                  "title" : "Geltungsdauer der Veränderungssperre"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE005705116",
+                  "paragraph" : "§ 18",
+                  "title" : "Entschädigung bei Veränderungssperre"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  1,
+                  2,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Veränderungssperre und Zurückstellung von Baugesuchen"
+            },
+            {
+              "documentIdentifier" : "BJNR003410960BJNG000706116",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE005808116",
+                  "paragraph" : "§ 19",
+                  "title" : "Teilung von Grundstücken"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE005907116",
+                  "paragraph" : "§ 20",
+                  "title" : "(weggefallen)"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE006006116",
+                  "paragraph" : "§ 21",
+                  "title" : "(weggefallen)"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE006109116",
+                  "paragraph" : "§ 22",
+                  "title" : "Sicherung von Gebieten mit Fremdenverkehrsfunktionen"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE006206116",
+                  "paragraph" : "§ 23",
+                  "title" : "(weggefallen)"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  1,
+                  2,
+                  2
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Teilung von Grundstücken; Gebiete mit Fremdenverkehrsfunktionen"
+            },
+            {
+              "documentIdentifier" : "BJNR003410960BJNG000805116",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE006309116",
+                  "paragraph" : "§ 24",
+                  "title" : "Allgemeines Vorkaufsrecht"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE006505116",
+                  "paragraph" : "§ 25",
+                  "title" : "Besonderes Vorkaufsrecht"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE006708116",
+                  "paragraph" : "§ 26",
+                  "title" : "Ausschluss des Vorkaufsrechts"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE006806116",
+                  "paragraph" : "§ 27",
+                  "title" : "Abwendung des Vorkaufsrechts"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE035706116",
+                  "paragraph" : "§ 27a",
+                  "title" : "Ausübung des Vorkaufsrechts zugunsten Dritter"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE006908116",
+                  "paragraph" : "§ 28",
+                  "title" : "Verfahren und Entschädigung"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  1,
+                  2,
+                  3
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Gesetzliche Vorkaufsrechte der Gemeinde"
+            }
+          ],
+          "title" : "Sicherung der Bauleitplanung"
+        },
+        {
+          "documentIdentifier" : "BJNR003410960BJNG000905116",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              3
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR003410960BJNG001004116",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE007107116",
+                  "paragraph" : "§ 29",
+                  "title" : "Begriff des Vorhabens; Geltung von Rechtsvorschriften"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE007206116",
+                  "paragraph" : "§ 30",
+                  "title" : "Zulässigkeit von Vorhaben im Geltungsbereich eines Bebauungsplans"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE007307116",
+                  "paragraph" : "§ 31",
+                  "title" : "Ausnahmen und Befreiungen"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE007404116",
+                  "paragraph" : "§ 32",
+                  "title" : "Nutzungsbeschränkungen auf künftigen Gemeinbedarfs-, Verkehrs-, Versorgungs- und Grünflächen"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE007509116",
+                  "paragraph" : "§ 33",
+                  "title" : "Zulässigkeit von Vorhaben während der Planaufstellung"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE007610116",
+                  "paragraph" : "§ 34",
+                  "title" : "Zulässigkeit von Vorhaben innerhalb der im Zusammenhang bebauten Ortsteile"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE007714116",
+                  "paragraph" : "§ 35",
+                  "title" : "Bauen im Außenbereich"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE007807116",
+                  "paragraph" : "§ 36",
+                  "title" : "Beteiligung der Gemeinde und der höheren Verwaltungsbehörde"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE007907116",
+                  "paragraph" : "§ 37",
+                  "title" : "Bauliche Maßnahmen des Bundes und der Länder"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE008009116",
+                  "paragraph" : "§ 38",
+                  "title" : "Bauliche Maßnahmen von überörtlicher Bedeutung auf Grund von Planfeststellungsverfahren; öffentlich zugängliche Abfallbeseitigungsanlagen"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  1,
+                  3,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Zulässigkeit von Vorhaben"
+            },
+            {
+              "documentIdentifier" : "BJNR003410960BJNG001204116",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE009105116",
+                  "paragraph" : "§ 39",
+                  "title" : "Vertrauensschaden"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE009206116",
+                  "paragraph" : "§ 40",
+                  "title" : "Entschädigung in Geld oder durch Übernahme"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE009305116",
+                  "paragraph" : "§ 41",
+                  "title" : "Entschädigung bei Begründung von Geh-, Fahr- und Leitungsrechten und bei Bindungen für Bepflanzungen"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE009605116",
+                  "paragraph" : "§ 42",
+                  "title" : "Entschädigung bei Änderung oder Aufhebung einer zulässigen Nutzung"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE009805116",
+                  "paragraph" : "§ 43",
+                  "title" : "Entschädigung und Verfahren"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE009707116",
+                  "paragraph" : "§ 44",
+                  "title" : "Entschädigungspflichtige, Fälligkeit und Erlöschen der Entschädigungsansprüche"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  1,
+                  3,
+                  2
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Entschädigung"
+            }
+          ],
+          "title" : "Regelung der baulichen und sonstigen Nutzung; Entschädigung"
+        },
+        {
+          "documentIdentifier" : "BJNR003410960BJNG001304116",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              4
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR003410960BJNG001404116",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE010007116",
+                  "paragraph" : "§ 45",
+                  "title" : "Zweck und Anwendungsbereich"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE010108116",
+                  "paragraph" : "§ 46",
+                  "title" : "Zuständigkeit und Voraussetzungen"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE010205116",
+                  "paragraph" : "§ 47",
+                  "title" : "Umlegungsbeschluss"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE010305116",
+                  "paragraph" : "§ 48",
+                  "title" : "Beteiligte"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE010404116",
+                  "paragraph" : "§ 49",
+                  "title" : "Rechtsnachfolge"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE010505116",
+                  "paragraph" : "§ 50",
+                  "title" : "Bekanntmachung des Umlegungsbeschlusses"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE010608116",
+                  "paragraph" : "§ 51",
+                  "title" : "Verfügungs- und Veränderungssperre"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE010706116",
+                  "paragraph" : "§ 52",
+                  "title" : "Umlegungsgebiet"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE010806116",
+                  "paragraph" : "§ 53",
+                  "title" : "Bestandskarte und Bestandsverzeichnis"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE010906116",
+                  "paragraph" : "§ 54",
+                  "title" : "Benachrichtigungen und Umlegungsvermerk"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE011007116",
+                  "paragraph" : "§ 55",
+                  "title" : "Umlegungsmasse und Verteilungsmasse"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE011104116",
+                  "paragraph" : "§ 56",
+                  "title" : "Verteilungsmaßstab"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE011206116",
+                  "paragraph" : "§ 57",
+                  "title" : "Verteilung nach Werten"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE011306116",
+                  "paragraph" : "§ 58",
+                  "title" : "Verteilung nach Flächen"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE011407116",
+                  "paragraph" : "§ 59",
+                  "title" : "Zuteilung und Abfindung"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE011505116",
+                  "paragraph" : "§ 60",
+                  "title" : "Abfindung und Ausgleich für bauliche Anlagen, Anpflanzungen und sonstige Einrichtungen"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE011607116",
+                  "paragraph" : "§ 61",
+                  "title" : "Aufhebung, Änderung und Begründung von Rechten"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE011704116",
+                  "paragraph" : "§ 62",
+                  "title" : "Gemeinschaftliches Eigentum; besondere rechtliche Verhältnisse"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE011805116",
+                  "paragraph" : "§ 63",
+                  "title" : "Übergang von Rechtsverhältnissen auf die Abfindung"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE011906116",
+                  "paragraph" : "§ 64",
+                  "title" : "Geldleistungen"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE012004116",
+                  "paragraph" : "§ 65",
+                  "title" : "Hinterlegung und Verteilungsverfahren"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE012105116",
+                  "paragraph" : "§ 66",
+                  "title" : "Aufstellung und Inhalt des Umlegungsplans"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE012204116",
+                  "paragraph" : "§ 67",
+                  "title" : "Umlegungskarte"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE012305116",
+                  "paragraph" : "§ 68",
+                  "title" : "Umlegungsverzeichnis"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE012405116",
+                  "paragraph" : "§ 69",
+                  "title" : "Bekanntmachung des Umlegungsplans, Einsichtnahme"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE012505116",
+                  "paragraph" : "§ 70",
+                  "title" : "Zustellung des Umlegungsplans"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE012604116",
+                  "paragraph" : "§ 71",
+                  "title" : "Inkrafttreten des Umlegungsplans"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE012705116",
+                  "paragraph" : "§ 72",
+                  "title" : "Wirkungen der Bekanntmachung"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE012804116",
+                  "paragraph" : "§ 73",
+                  "title" : "Änderung des Umlegungsplans"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE012905116",
+                  "paragraph" : "§ 74",
+                  "title" : "Berichtigung der öffentlichen Bücher"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE013004116",
+                  "paragraph" : "§ 75",
+                  "title" : "Einsichtnahme in den Umlegungsplan"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE013105116",
+                  "paragraph" : "§ 76",
+                  "title" : "Vorwegnahme der Entscheidung"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE013206116",
+                  "paragraph" : "§ 77",
+                  "title" : "Vorzeitige Besitzeinweisung"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE013304116",
+                  "paragraph" : "§ 78",
+                  "title" : "Verfahrens- und Sachkosten"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE013405116",
+                  "paragraph" : "§ 79",
+                  "title" : "Abgaben- und Auslagenbefreiung"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  1,
+                  4,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Umlegung"
+            },
+            {
+              "documentIdentifier" : "BJNR003410960BJNG001505116",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE013506116",
+                  "paragraph" : "§ 80",
+                  "title" : "Zweck, Anwendungsbereich, Zuständigkeiten"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE013606116",
+                  "paragraph" : "§ 81",
+                  "title" : "Geldleistungen"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE013706116",
+                  "paragraph" : "§ 82",
+                  "title" : "Beschluss über die vereinfachte Umlegung"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE013806116",
+                  "paragraph" : "§ 83",
+                  "title" : "Bekanntmachung und Rechtswirkungen der vereinfachten Umlegung"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE013906116",
+                  "paragraph" : "§ 84",
+                  "title" : "Berichtigung der öffentlichen Bücher"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  1,
+                  4,
+                  2
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Vereinfachte Umlegung"
+            }
+          ],
+          "title" : "Bodenordnung"
+        },
+        {
+          "documentIdentifier" : "BJNR003410960BJNG001604116",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              5
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR003410960BJNG001704116",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE014006116",
+                  "paragraph" : "§ 85",
+                  "title" : "Enteignungszweck"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE014105116",
+                  "paragraph" : "§ 86",
+                  "title" : "Gegenstand der Enteignung"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE014206116",
+                  "paragraph" : "§ 87",
+                  "title" : "Voraussetzungen für die Zulässigkeit der Enteignung"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE014305116",
+                  "paragraph" : "§ 88",
+                  "title" : "Enteignung aus zwingenden städtebaulichen Gründen"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE014406116",
+                  "paragraph" : "§ 89",
+                  "title" : "Veräußerungspflicht"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE014504116",
+                  "paragraph" : "§ 90",
+                  "title" : "Enteignung von Grundstücken zur Entschädigung in Land"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE014604116",
+                  "paragraph" : "§ 91",
+                  "title" : "Ersatz für entzogene Rechte"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE014704116",
+                  "paragraph" : "§ 92",
+                  "title" : "Umfang, Beschränkung und Ausdehnung der Enteignung"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  1,
+                  5,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Zulässigkeit der Enteignung"
+            },
+            {
+              "documentIdentifier" : "BJNR003410960BJNG001804116",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE014804116",
+                  "paragraph" : "§ 93",
+                  "title" : "Entschädigungsgrundsätze"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE014904116",
+                  "paragraph" : "§ 94",
+                  "title" : "Entschädigungsberechtigter und Entschädigungsverpflichteter"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE015006116",
+                  "paragraph" : "§ 95",
+                  "title" : "Entschädigung für den Rechtsverlust"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE015104116",
+                  "paragraph" : "§ 96",
+                  "title" : "Entschädigung für andere Vermögensnachteile"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE015204116",
+                  "paragraph" : "§ 97",
+                  "title" : "Behandlung der Rechte der Nebenberechtigten"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE015305116",
+                  "paragraph" : "§ 98",
+                  "title" : "Schuldübergang"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE015406116",
+                  "paragraph" : "§ 99",
+                  "title" : "Entschädigung in Geld"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE015506116",
+                  "paragraph" : "§ 100",
+                  "title" : "Entschädigung in Land"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE015605116",
+                  "paragraph" : "§ 101",
+                  "title" : "Entschädigung durch Gewährung anderer Rechte"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE015706116",
+                  "paragraph" : "§ 102",
+                  "title" : "Rückenteignung"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE015804116",
+                  "paragraph" : "§ 103",
+                  "title" : "Entschädigung für die Rückenteignung"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  1,
+                  5,
+                  2
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Entschädigung"
+            },
+            {
+              "documentIdentifier" : "BJNR003410960BJNG001904116",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE015904116",
+                  "paragraph" : "§ 104",
+                  "title" : "Enteignungsbehörde"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE016004116",
+                  "paragraph" : "§ 105",
+                  "title" : "Enteignungsantrag"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE016205116",
+                  "paragraph" : "§ 106",
+                  "title" : "Beteiligte"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE016306116",
+                  "paragraph" : "§ 107",
+                  "title" : "Vorbereitung der mündlichen Verhandlung"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE016406116",
+                  "paragraph" : "§ 108",
+                  "title" : "Einleitung des Enteignungsverfahrens und Anberaumung des Termins zur mündlichen Verhandlung; Enteignungsvermerk"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE016506116",
+                  "paragraph" : "§ 109",
+                  "title" : "Genehmigungspflicht"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE016604116",
+                  "paragraph" : "§ 110",
+                  "title" : "Einigung"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE016704116",
+                  "paragraph" : "§ 111",
+                  "title" : "Teileinigung"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE016804116",
+                  "paragraph" : "§ 112",
+                  "title" : "Entscheidung der Enteignungsbehörde"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE016906116",
+                  "paragraph" : "§ 113",
+                  "title" : "Enteignungsbeschluss"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE017004116",
+                  "paragraph" : "§ 114",
+                  "title" : "Lauf der Verwendungsfrist"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE017105116",
+                  "paragraph" : "§ 115",
+                  "title" : "Verfahren bei der Entschädigung durch Gewährung anderer Rechte"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE017204116",
+                  "paragraph" : "§ 116",
+                  "title" : "Vorzeitige Besitzeinweisung"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE017304116",
+                  "paragraph" : "§ 117",
+                  "title" : "Ausführung des Enteignungsbeschlusses"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE017404116",
+                  "paragraph" : "§ 118",
+                  "title" : "Hinterlegung"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE017504116",
+                  "paragraph" : "§ 119",
+                  "title" : "Verteilungsverfahren"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE017604116",
+                  "paragraph" : "§ 120",
+                  "title" : "Aufhebung des Enteignungsbeschlusses"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE017704116",
+                  "paragraph" : "§ 121",
+                  "title" : "Kosten"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE017806116",
+                  "paragraph" : "§ 122",
+                  "title" : "Vollstreckbarer Titel"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  1,
+                  5,
+                  3
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Enteignungsverfahren"
+            }
+          ],
+          "title" : "Enteignung"
+        },
+        {
+          "documentIdentifier" : "BJNR003410960BJNG002104116",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              6
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR003410960BJNG002204116",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE018106116",
+                  "paragraph" : "§ 123",
+                  "title" : "Erschließungslast"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE018207116",
+                  "paragraph" : "§ 124",
+                  "title" : "Erschließungspflicht nach abgelehntem Vertragsangebot"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE018307116",
+                  "paragraph" : "§ 125",
+                  "title" : "Bindung an den Bebauungsplan"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE018404116",
+                  "paragraph" : "§ 126",
+                  "title" : "Pflichten des Eigentümers"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  1,
+                  6,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Allgemeine Vorschriften"
+            },
+            {
+              "documentIdentifier" : "BJNR003410960BJNG002304116",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE018505116",
+                  "paragraph" : "§ 127",
+                  "title" : "Erhebung des Erschließungsbeitrags"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE018605116",
+                  "paragraph" : "§ 128",
+                  "title" : "Umfang des Erschließungsaufwands"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE018705116",
+                  "paragraph" : "§ 129",
+                  "title" : "Beitragsfähiger Erschließungsaufwand"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE018805116",
+                  "paragraph" : "§ 130",
+                  "title" : "Art der Ermittlung des beitragsfähigen Erschließungsaufwands"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE018905116",
+                  "paragraph" : "§ 131",
+                  "title" : "Maßstäbe für die Verteilung des Erschließungsaufwands"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE019004116",
+                  "paragraph" : "§ 132",
+                  "title" : "Regelung durch Satzung"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE019107116",
+                  "paragraph" : "§ 133",
+                  "title" : "Gegenstand und Entstehung der Beitragspflicht"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE019206116",
+                  "paragraph" : "§ 134",
+                  "title" : "Beitragspflichtiger"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE019307116",
+                  "paragraph" : "§ 135",
+                  "title" : "Fälligkeit und Zahlung des Beitrags"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  1,
+                  6,
+                  2
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Erschließungsbeitrag"
+            }
+          ],
+          "title" : "Erschließung"
+        },
+        {
+          "documentIdentifier" : "BJNR003410960BJNG006303116",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR003410960BJNE035803116",
+              "paragraph" : "§ 135a",
+              "title" : "Pflichten des Vorhabenträgers; Durchführung durch die Gemeinde; Kostenerstattung"
+            },
+            {
+              "documentIdentifier" : "BJNR003410960BJNE035903116",
+              "paragraph" : "§ 135b",
+              "title" : "Verteilungsmaßstäbe für die Abrechnung"
+            },
+            {
+              "documentIdentifier" : "BJNR003410960BJNE036003116",
+              "paragraph" : "§ 135c",
+              "title" : "Satzungsrecht"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              7
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Maßnahmen für den Naturschutz"
+        }
+      ],
+      "title" : "Allgemeines Städtebaurecht"
+    },
+    {
+      "documentIdentifier" : "BJNR003410960BJNG003704116",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR003410960BJNG003804116",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              1
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR003410960BJNG003904116",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE026905116",
+                  "paragraph" : "§ 136",
+                  "title" : "Städtebauliche Sanierungsmaßnahmen"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE027004116",
+                  "paragraph" : "§ 137",
+                  "title" : "Beteiligung und Mitwirkung der Betroffenen"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE027104116",
+                  "paragraph" : "§ 138",
+                  "title" : "Auskunftspflicht"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE027206116",
+                  "paragraph" : "§ 139",
+                  "title" : "Beteiligung und Mitwirkung öffentlicher Aufgabenträger"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  1,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Allgemeine Vorschriften"
+            },
+            {
+              "documentIdentifier" : "BJNR003410960BJNG004004116",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE027304116",
+                  "paragraph" : "§ 140",
+                  "title" : "Vorbereitung"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE027406116",
+                  "paragraph" : "§ 141",
+                  "title" : "Vorbereitende Untersuchungen"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE027506116",
+                  "paragraph" : "§ 142",
+                  "title" : "Sanierungssatzung"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE027605116",
+                  "paragraph" : "§ 143",
+                  "title" : "Bekanntmachung der Sanierungssatzung, Sanierungsvermerk"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE027706116",
+                  "paragraph" : "§ 144",
+                  "title" : "Genehmigungspflichtige Vorhaben und Rechtsvorgänge"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE027807116",
+                  "paragraph" : "§ 145",
+                  "title" : "Genehmigung"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE027905116",
+                  "paragraph" : "§ 146",
+                  "title" : "Durchführung"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE028005116",
+                  "paragraph" : "§ 147",
+                  "title" : "Ordnungsmaßnahmen"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE028106116",
+                  "paragraph" : "§ 148",
+                  "title" : "Baumaßnahmen"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE028205116",
+                  "paragraph" : "§ 149",
+                  "title" : "Kosten- und Finanzierungsübersicht"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE028305116",
+                  "paragraph" : "§ 150",
+                  "title" : "Ersatz für Änderungen von Einrichtungen, die der öffentlichen Versorgung dienen"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE028404116",
+                  "paragraph" : "§ 151",
+                  "title" : "Abgaben- und Auslagenbefreiung"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  1,
+                  2
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Vorbereitung und Durchführung"
+            },
+            {
+              "documentIdentifier" : "BJNR003410960BJNG004104116",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE028505116",
+                  "paragraph" : "§ 152",
+                  "title" : "Anwendungsbereich"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE028605116",
+                  "paragraph" : "§ 153",
+                  "title" : "Bemessung von Ausgleichs- und Entschädigungsleistungen, Kaufpreise, Umlegung"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE028706116",
+                  "paragraph" : "§ 154",
+                  "title" : "Ausgleichsbetrag des Eigentümers"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE028805116",
+                  "paragraph" : "§ 155",
+                  "title" : "Anrechnung auf den Ausgleichsbetrag, Absehen"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE028905116",
+                  "paragraph" : "§ 156",
+                  "title" : "Überleitungsvorschriften zur förmlichen Festlegung"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE036103116",
+                  "paragraph" : "§ 156a",
+                  "title" : "Kosten und Finanzierung der Sanierungsmaßnahme"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  1,
+                  3
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Besondere sanierungsrechtliche Vorschriften"
+            },
+            {
+              "documentIdentifier" : "BJNR003410960BJNG004204116",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE029005116",
+                  "paragraph" : "§ 157",
+                  "title" : "Erfüllung von Aufgaben für die Gemeinde"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE029106116",
+                  "paragraph" : "§ 158",
+                  "title" : "Voraussetzungen für die Beauftragung als Sanierungsträger"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE029207116",
+                  "paragraph" : "§ 159",
+                  "title" : "Erfüllung der Aufgaben als Sanierungsträger"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE029304116",
+                  "paragraph" : "§ 160",
+                  "title" : "Treuhandvermögen"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE029406116",
+                  "paragraph" : "§ 161",
+                  "title" : "Sicherung des Treuhandvermögens"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  1,
+                  4
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Sanierungsträger und andere Beauftragte"
+            },
+            {
+              "documentIdentifier" : "BJNR003410960BJNG004304116",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE029506116",
+                  "paragraph" : "§ 162",
+                  "title" : "Aufhebung der Sanierungssatzung"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE029605116",
+                  "paragraph" : "§ 163",
+                  "title" : "Fortfall von Rechtswirkungen für einzelne Grundstücke"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE029705116",
+                  "paragraph" : "§ 164",
+                  "title" : "Anspruch auf Rückübertragung"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  1,
+                  5
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Abschluss der Sanierung"
+            },
+            {
+              "documentIdentifier" : "BJNR003410960BJNG006403116",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE036203116",
+                  "paragraph" : "§ 164a",
+                  "title" : "Einsatz von Städtebauförderungsmitteln"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE036304116",
+                  "paragraph" : "§ 164b",
+                  "title" : "Verwaltungsvereinbarung"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  1,
+                  6
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Städtebauförderung"
+            }
+          ],
+          "title" : "Städtebauliche Sanierungsmaßnahmen"
+        },
+        {
+          "documentIdentifier" : "BJNR003410960BJNG004405116",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR003410960BJNE029807116",
+              "paragraph" : "§ 165",
+              "title" : "Städtebauliche Entwicklungsmaßnahmen"
+            },
+            {
+              "documentIdentifier" : "BJNR003410960BJNE029906116",
+              "paragraph" : "§ 166",
+              "title" : "Zuständigkeit und Aufgaben"
+            },
+            {
+              "documentIdentifier" : "BJNR003410960BJNE030006116",
+              "paragraph" : "§ 167",
+              "title" : "Erfüllung von Aufgaben für die Gemeinde; Entwicklungsträger"
+            },
+            {
+              "documentIdentifier" : "BJNR003410960BJNE030106116",
+              "paragraph" : "§ 168",
+              "title" : "Übernahmeverlangen"
+            },
+            {
+              "documentIdentifier" : "BJNR003410960BJNE030208116",
+              "paragraph" : "§ 169",
+              "title" : "Besondere Vorschriften für den städtebaulichen Entwicklungsbereich"
+            },
+            {
+              "documentIdentifier" : "BJNR003410960BJNE030306116",
+              "paragraph" : "§ 170",
+              "title" : "Sonderregelung für Anpassungsgebiete"
+            },
+            {
+              "documentIdentifier" : "BJNR003410960BJNE030406116",
+              "paragraph" : "§ 171",
+              "title" : "Kosten und Finanzierung der Entwicklungsmaßnahme"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Städtebauliche Entwicklungsmaßnahmen"
+        },
+        {
+          "documentIdentifier" : "BJNR003410960BJNG006502116",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR003410960BJNE037704116",
+              "paragraph" : "§ 171a",
+              "title" : "Stadtumbaumaßnahmen"
+            },
+            {
+              "documentIdentifier" : "BJNR003410960BJNE037802116",
+              "paragraph" : "§ 171b",
+              "title" : "Stadtumbaugebiet, städtebauliches Entwicklungskonzept"
+            },
+            {
+              "documentIdentifier" : "BJNR003410960BJNE037903116",
+              "paragraph" : "§ 171c",
+              "title" : "Stadtumbauvertrag"
+            },
+            {
+              "documentIdentifier" : "BJNR003410960BJNE037203116",
+              "paragraph" : "§ 171d",
+              "title" : "Sicherung von Durchführungsmaßnahmen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Stadtumbau"
+        },
+        {
+          "documentIdentifier" : "BJNR003410960BJNG006602116",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR003410960BJNE037302116",
+              "paragraph" : "§ 171e",
+              "title" : "Maßnahmen der Sozialen Stadt"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Soziale Stadt"
+        },
+        {
+          "documentIdentifier" : "BJNR003410960BJNG006701116",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR003410960BJNE038201116",
+              "paragraph" : "§ 171f",
+              "title" : "Private Initiativen zur Stadtentwicklung, Landesrecht"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              5
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Private Initiativen"
+        },
+        {
+          "documentIdentifier" : "BJNR003410960BJNG004506116",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              6
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR003410960BJNG004606116",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE030509116",
+                  "paragraph" : "§ 172",
+                  "title" : "Erhaltung baulicher Anlagen und der Eigenart von Gebieten (Erhaltungssatzung)"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE030606116",
+                  "paragraph" : "§ 173",
+                  "title" : "Genehmigung, Übernahmeanspruch"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE030704116",
+                  "paragraph" : "§ 174",
+                  "title" : "Ausnahmen"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  6,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Erhaltungssatzung"
+            },
+            {
+              "documentIdentifier" : "BJNR003410960BJNG004706116",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE030806116",
+                  "paragraph" : "§ 175",
+                  "title" : "Allgemeines"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE030905116",
+                  "paragraph" : "§ 176",
+                  "title" : "Baugebot"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE031004116",
+                  "paragraph" : "§ 177",
+                  "title" : "Modernisierungs- und Instandsetzungsgebot"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE031104116",
+                  "paragraph" : "§ 178",
+                  "title" : "Pflanzgebot"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE031206116",
+                  "paragraph" : "§ 179",
+                  "title" : "Rückbau- und Entsiegelungsgebot"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  6,
+                  2
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Städtebauliche Gebote"
+            }
+          ],
+          "title" : "Erhaltungssatzung und städtebauliche Gebote"
+        },
+        {
+          "documentIdentifier" : "BJNR003410960BJNG004806116",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR003410960BJNE031306116",
+              "paragraph" : "§ 180",
+              "title" : "Sozialplan"
+            },
+            {
+              "documentIdentifier" : "BJNR003410960BJNE031404116",
+              "paragraph" : "§ 181",
+              "title" : "Härteausgleich"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              7
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Sozialplan und Härteausgleich"
+        },
+        {
+          "documentIdentifier" : "BJNR003410960BJNG004906116",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR003410960BJNE031505116",
+              "paragraph" : "§ 182",
+              "title" : "Aufhebung von Miet- oder Pachtverhältnissen"
+            },
+            {
+              "documentIdentifier" : "BJNR003410960BJNE031604116",
+              "paragraph" : "§ 183",
+              "title" : "Aufhebung von Miet- oder Pachtverhältnissen über unbebaute Grundstücke"
+            },
+            {
+              "documentIdentifier" : "BJNR003410960BJNE031704116",
+              "paragraph" : "§ 184",
+              "title" : "Aufhebung anderer Vertragsverhältnisse"
+            },
+            {
+              "documentIdentifier" : "BJNR003410960BJNE031804116",
+              "paragraph" : "§ 185",
+              "title" : "Entschädigung bei Aufhebung von Miet- oder Pachtverhältnissen"
+            },
+            {
+              "documentIdentifier" : "BJNR003410960BJNE031905116",
+              "paragraph" : "§ 186",
+              "title" : "Verlängerung von Miet- oder Pachtverhältnissen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              8
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Miet- und Pachtverhältnisse"
+        },
+        {
+          "documentIdentifier" : "BJNR003410960BJNG005006116",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR003410960BJNE032004116",
+              "paragraph" : "§ 187",
+              "title" : "Abstimmung von Maßnahmen; Bauleitplanung und Maßnahmen zur Verbesserung der Agrarstruktur"
+            },
+            {
+              "documentIdentifier" : "BJNR003410960BJNE032104116",
+              "paragraph" : "§ 188",
+              "title" : "Bauleitplanung und Flurbereinigung"
+            },
+            {
+              "documentIdentifier" : "BJNR003410960BJNE032204116",
+              "paragraph" : "§ 189",
+              "title" : "Ersatzlandbeschaffung"
+            },
+            {
+              "documentIdentifier" : "BJNR003410960BJNE032304116",
+              "paragraph" : "§ 190",
+              "title" : "Flurbereinigung aus Anlass einer städtebaulichen Maßnahme"
+            },
+            {
+              "documentIdentifier" : "BJNR003410960BJNE032404116",
+              "paragraph" : "§ 191",
+              "title" : "Vorschriften über den Verkehr mit land- und forstwirtschaftlichen Grundstücken"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              9
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Städtebauliche Maßnahmen im Zusammenhang mit Maßnahmen zur Verbesserung der Agrarstruktur"
+        }
+      ],
+      "title" : "Besonderes Städtebaurecht"
+    },
+    {
+      "documentIdentifier" : "BJNR003410960BJNG005104116",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR003410960BJNG005204116",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR003410960BJNE032505116",
+              "paragraph" : "§ 192",
+              "title" : "Gutachterausschuss"
+            },
+            {
+              "documentIdentifier" : "BJNR003410960BJNE032605116",
+              "paragraph" : "§ 193",
+              "title" : "Aufgaben des Gutachterausschusses"
+            },
+            {
+              "documentIdentifier" : "BJNR003410960BJNE032705116",
+              "paragraph" : "§ 194",
+              "title" : "Verkehrswert"
+            },
+            {
+              "documentIdentifier" : "BJNR003410960BJNE032806116",
+              "paragraph" : "§ 195",
+              "title" : "Kaufpreissammlung"
+            },
+            {
+              "documentIdentifier" : "BJNR003410960BJNE032907116",
+              "paragraph" : "§ 196",
+              "title" : "Bodenrichtwerte"
+            },
+            {
+              "documentIdentifier" : "BJNR003410960BJNE033005116",
+              "paragraph" : "§ 197",
+              "title" : "Befugnisse des Gutachterausschusses"
+            },
+            {
+              "documentIdentifier" : "BJNR003410960BJNE033106116",
+              "paragraph" : "§ 198",
+              "title" : "Oberer Gutachterausschuss"
+            },
+            {
+              "documentIdentifier" : "BJNR003410960BJNE033206116",
+              "paragraph" : "§ 199",
+              "title" : "Ermächtigungen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Wertermittlung"
+        },
+        {
+          "documentIdentifier" : "BJNR003410960BJNG005305116",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              2
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR003410960BJNG005404116",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE021206116",
+                  "paragraph" : "§ 200",
+                  "title" : "Grundstücke; Rechte an Grundstücken; Baulandkataster"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE036404116",
+                  "paragraph" : "§ 200a",
+                  "title" : "Ersatzmaßnahmen"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE021306116",
+                  "paragraph" : "§ 201",
+                  "title" : "Begriff der Landwirtschaft"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE008105116",
+                  "paragraph" : "§ 202",
+                  "title" : "Schutz des Mutterbodens"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  3,
+                  2,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Allgemeine Vorschriften"
+            },
+            {
+              "documentIdentifier" : "BJNR003410960BJNG005504116",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE021408116",
+                  "paragraph" : "§ 203",
+                  "title" : "Abweichende Zuständigkeitsregelung"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE033305116",
+                  "paragraph" : "§ 204",
+                  "title" : "Gemeinsamer Flächennutzungsplan, Bauleitplanung bei Bildung von Planungsverbänden und bei Gebiets- oder Bestandsänderung"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE033406116",
+                  "paragraph" : "§ 205",
+                  "title" : "Planungsverbände"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE021505116",
+                  "paragraph" : "§ 206",
+                  "title" : "Örtliche und sachliche Zuständigkeit"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  3,
+                  2,
+                  2
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Zuständigkeiten"
+            },
+            {
+              "documentIdentifier" : "BJNR003410960BJNG005604116",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE021606116",
+                  "paragraph" : "§ 207",
+                  "title" : "Von Amts wegen bestellter Vertreter"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE021707116",
+                  "paragraph" : "§ 208",
+                  "title" : "Anordnungen zur Erforschung des Sachverhalts"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE021805116",
+                  "paragraph" : "§ 209",
+                  "title" : "Vorarbeiten auf Grundstücken"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE022006116",
+                  "paragraph" : "§ 210",
+                  "title" : "Wiedereinsetzung"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE022105116",
+                  "paragraph" : "§ 211",
+                  "title" : "Belehrung über Rechtsbehelfe"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE022206116",
+                  "paragraph" : "§ 212",
+                  "title" : "Vorverfahren"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE036504116",
+                  "paragraph" : "§ 212a",
+                  "title" : "Entfall der aufschiebenden Wirkung"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE022609116",
+                  "paragraph" : "§ 213",
+                  "title" : "Ordnungswidrigkeiten"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  3,
+                  2,
+                  3
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Verwaltungsverfahren"
+            },
+            {
+              "documentIdentifier" : "BJNR003410960BJNG005705116",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE022413116",
+                  "paragraph" : "§ 214",
+                  "title" : "Beachtlichkeit der Verletzung von Vorschriften über die Aufstellung des Flächennutzungsplans und der Satzungen; ergänzendes Verfahren"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE022308116",
+                  "paragraph" : "§ 215",
+                  "title" : "Frist für die Geltendmachung der Verletzung von Vorschriften"
+                },
+                {
+                  "documentIdentifier" : "BJNR003410960BJNE022506116",
+                  "paragraph" : "§ 216",
+                  "title" : "Aufgaben im Genehmigungsverfahren"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  3,
+                  2,
+                  4
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Planerhaltung"
+            }
+          ],
+          "title" : "Allgemeine Vorschriften; Zuständigkeiten; Verwaltungsverfahren; Planerhaltung"
+        },
+        {
+          "documentIdentifier" : "BJNR003410960BJNG005804116",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR003410960BJNE022708116",
+              "paragraph" : "§ 217",
+              "title" : "Antrag auf gerichtliche Entscheidung"
+            },
+            {
+              "documentIdentifier" : "BJNR003410960BJNE022805116",
+              "paragraph" : "§ 218",
+              "title" : "Wiedereinsetzung in den vorigen Stand"
+            },
+            {
+              "documentIdentifier" : "BJNR003410960BJNE022905116",
+              "paragraph" : "§ 219",
+              "title" : "Örtliche Zuständigkeit der Landgerichte"
+            },
+            {
+              "documentIdentifier" : "BJNR003410960BJNE023006116",
+              "paragraph" : "§ 220",
+              "title" : "Zusammensetzung der Kammern für Baulandsachen"
+            },
+            {
+              "documentIdentifier" : "BJNR003410960BJNE023108116",
+              "paragraph" : "§ 221",
+              "title" : "Allgemeine Verfahrensvorschriften"
+            },
+            {
+              "documentIdentifier" : "BJNR003410960BJNE023206116",
+              "paragraph" : "§ 222",
+              "title" : "Beteiligte"
+            },
+            {
+              "documentIdentifier" : "BJNR003410960BJNE023305116",
+              "paragraph" : "§ 223",
+              "title" : "Anfechtung von Ermessensentscheidungen"
+            },
+            {
+              "documentIdentifier" : "BJNR003410960BJNE023407116",
+              "paragraph" : "§ 224",
+              "title" : "Entfall der aufschiebenden Wirkung bei Antrag auf gerichtliche Entscheidung"
+            },
+            {
+              "documentIdentifier" : "BJNR003410960BJNE023505116",
+              "paragraph" : "§ 225",
+              "title" : "Vorzeitige Ausführungsanordnung"
+            },
+            {
+              "documentIdentifier" : "BJNR003410960BJNE023605116",
+              "paragraph" : "§ 226",
+              "title" : "Urteil"
+            },
+            {
+              "documentIdentifier" : "BJNR003410960BJNE023705116",
+              "paragraph" : "§ 227",
+              "title" : "Säumnis eines Beteiligten"
+            },
+            {
+              "documentIdentifier" : "BJNR003410960BJNE023805116",
+              "paragraph" : "§ 228",
+              "title" : "Kosten des Verfahrens"
+            },
+            {
+              "documentIdentifier" : "BJNR003410960BJNE023907116",
+              "paragraph" : "§ 229",
+              "title" : "Berufung, Beschwerde"
+            },
+            {
+              "documentIdentifier" : "BJNR003410960BJNE024005116",
+              "paragraph" : "§ 230",
+              "title" : "Revision"
+            },
+            {
+              "documentIdentifier" : "BJNR003410960BJNE024105116",
+              "paragraph" : "§ 231",
+              "title" : "Einigung"
+            },
+            {
+              "documentIdentifier" : "BJNR003410960BJNE024205116",
+              "paragraph" : "§ 232",
+              "title" : "Weitere Zuständigkeit der Kammern (Senate) für Baulandsachen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Verfahren vor den Kammern (Senaten) für Baulandsachen"
+        }
+      ],
+      "title" : "Sonstige Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR003410960BJNG005904116",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR003410960BJNG006004116",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR003410960BJNE033506116",
+              "paragraph" : "§ 233",
+              "title" : "Allgemeine Überleitungsvorschriften"
+            },
+            {
+              "documentIdentifier" : "BJNR003410960BJNE033605116",
+              "paragraph" : "§ 234",
+              "title" : "Überleitungsvorschriften für das Vorkaufsrecht"
+            },
+            {
+              "documentIdentifier" : "BJNR003410960BJNE033706116",
+              "paragraph" : "§ 235",
+              "title" : "Überleitungsvorschriften für städtebauliche Sanierungs- und Entwicklungsmaßnahmen"
+            },
+            {
+              "documentIdentifier" : "BJNR003410960BJNE033806116",
+              "paragraph" : "§ 236",
+              "title" : "Überleitungsvorschriften für das Baugebot und die Erhaltung baulicher Anlagen"
+            },
+            {
+              "documentIdentifier" : "BJNR003410960BJNE033906116",
+              "paragraph" : "§ 237",
+              "title" : "(weggefallen)"
+            },
+            {
+              "documentIdentifier" : "BJNR003410960BJNE034005116",
+              "paragraph" : "§ 238",
+              "title" : "Überleitungsvorschrift für Entschädigungen"
+            },
+            {
+              "documentIdentifier" : "BJNR003410960BJNE034105116",
+              "paragraph" : "§ 239",
+              "title" : "Überleitungsvorschrift für die Grenzregelung"
+            },
+            {
+              "documentIdentifier" : "BJNR003410960BJNE034205116",
+              "paragraph" : "§ 240",
+              "title" : "(weggefallen)"
+            },
+            {
+              "documentIdentifier" : "BJNR003410960BJNE034303116",
+              "paragraph" : "§ 241",
+              "title" : "(weggefallen)"
+            },
+            {
+              "documentIdentifier" : "BJNR003410960BJNE034407116",
+              "paragraph" : "§ 242",
+              "title" : "Überleitungsvorschriften für die Erschließung"
+            },
+            {
+              "documentIdentifier" : "BJNR003410960BJNE034505116",
+              "paragraph" : "§ 243",
+              "title" : "Überleitungsvorschriften für das Maßnahmengesetz zum Baugesetzbuch und das Bundesnaturschutzgesetz"
+            },
+            {
+              "documentIdentifier" : "BJNR003410960BJNE037403116",
+              "paragraph" : "§ 244",
+              "title" : "Überleitungsvorschriften für das Europarechtsanpassungsgesetz Bau"
+            },
+            {
+              "documentIdentifier" : "BJNR003410960BJNE037503116",
+              "paragraph" : "§ 245",
+              "title" : "Überleitungsvorschriften für den Stadtumbau, die Soziale Stadt und die Förderung städtebaulicher Maßnahmen"
+            },
+            {
+              "documentIdentifier" : "BJNR003410960BJNE035205116",
+              "paragraph" : "§ 245a",
+              "title" : "Überleitungsvorschriften aus Anlass des Gesetzes zur Stärkung der Innenentwicklung in den Städten und Gemeinden und weiteren Fortentwicklung des Städtebaurechts"
+            },
+            {
+              "documentIdentifier" : "BJNR003410960BJNE035306116",
+              "paragraph" : "§ 245b",
+              "title" : "Überleitungsvorschriften für Vorhaben im Außenbereich"
+            },
+            {
+              "documentIdentifier" : "BJNR003410960BJNE036805116",
+              "paragraph" : "§ 245c",
+              "title" : "Überleitungsvorschrift aus Anlass des Gesetzes zur Umsetzung der Richtlinie 2014\/52\/EU im Städtebaurecht und zur Stärkung des neuen Zusammenlebens in der Stadt"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Überleitungsvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR003410960BJNG006104116",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR003410960BJNE034810116",
+              "paragraph" : "§ 246",
+              "title" : "Sonderregelungen für einzelne Länder; Sonderregelungen für Flüchtlingsunterkünfte"
+            },
+            {
+              "documentIdentifier" : "BJNR003410960BJNE038001116",
+              "paragraph" : "§ 246a",
+              "title" : "Überschwemmungsgebiete, überschwemmungsgefährdete Gebiete"
+            },
+            {
+              "documentIdentifier" : "BJNR003410960BJNE038900116",
+              "paragraph" : "§ 246b",
+              "title" : "Sonderregelungen für Anlagen für gesundheitliche Zwecke im Zuge der COVID-19-Pandemie"
+            },
+            {
+              "documentIdentifier" : "BJNR003410960BJNE034907116",
+              "paragraph" : "§ 247",
+              "title" : "Sonderregelungen für Berlin als Hauptstadt der Bundesrepublik Deutschland"
+            },
+            {
+              "documentIdentifier" : "BJNR003410960BJNE038401116",
+              "paragraph" : "§ 248",
+              "title" : "Sonderregelung zur sparsamen und effizienten Nutzung von Energie"
+            },
+            {
+              "documentIdentifier" : "BJNR003410960BJNE038502116",
+              "paragraph" : "§ 249",
+              "title" : "Sonderregelungen zur Windenergie"
+            },
+            {
+              "documentIdentifier" : "BJNR003410960BJNE037604116",
+              "paragraph" : "Anlage 1",
+              "title" : "(zu § 2 Absatz 4 und den §§ 2a und 4c)"
+            },
+            {
+              "documentIdentifier" : "BJNR003410960BJNE038306116",
+              "paragraph" : "Anlage 2",
+              "title" : "(zu § 13a Absatz 1 Satz 2 Nummer 2)"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Schlussvorschriften"
+        }
+      ],
+      "title" : "Überleitungs- und Schlussvorschriften"
+    }
+  ]
+}

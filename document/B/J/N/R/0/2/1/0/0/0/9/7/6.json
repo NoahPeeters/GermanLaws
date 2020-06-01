@@ -1,0 +1,142 @@
+{
+  "documentIdentifier" : "BJNR021000976",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR021000976BJNG000103124",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Begriffsbestimmungen"
+    },
+    {
+      "documentIdentifier" : "BJNR021000976BJNG000202124",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR021000976BJNG000302124",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Allgemeine Schutzmaßregeln"
+        },
+        {
+          "documentIdentifier" : "BJNR021000976BJNG000402124",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Besondere Schutzmaßregeln nach amtlicher Feststellung der Leukose oder des Verdachts auf Leukose der Rinder"
+        },
+        {
+          "documentIdentifier" : "BJNR021000976BJNG000502124",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Desinfektion"
+        }
+      ],
+      "title" : "Schutzmaßregeln"
+    },
+    {
+      "documentIdentifier" : "BJNR021000976BJNG000602124",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Aufhebung der Schutzmaßregeln"
+    },
+    {
+      "documentIdentifier" : "BJNR021000976BJNG000901124",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Amtlich anerkannter leukosefreier Rinderbestand"
+    },
+    {
+      "documentIdentifier" : "BJNR021000976BJNG000703124",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Ordnungswidrigkeiten"
+    },
+    {
+      "documentIdentifier" : "BJNR021000976BJNG000803124",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussvorschriften"
+    }
+  ]
+}

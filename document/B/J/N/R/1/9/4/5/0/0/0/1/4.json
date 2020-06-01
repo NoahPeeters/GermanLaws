@@ -1,0 +1,64 @@
+{
+  "documentIdentifier" : "BJNR194500014",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR194500014Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR194500014BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Allgemeines"
+        },
+        {
+          "documentIdentifier" : "BJNR194500014BJNE000302125",
+          "paragraph" : "§ 2",
+          "title" : "Verfahren der Datenübermittlung"
+        },
+        {
+          "documentIdentifier" : "BJNR194500014BJNE000401116",
+          "paragraph" : "§ 3",
+          "title" : "Standards der Datenübermittlung"
+        },
+        {
+          "documentIdentifier" : "BJNR194500014BJNE000504116",
+          "paragraph" : "§ 4",
+          "title" : "Automatisiertes Abrufverfahren zur Anmeldung"
+        },
+        {
+          "documentIdentifier" : "BJNR194500014BJNE000601125",
+          "paragraph" : "§ 5",
+          "title" : "Organisation und Technik des automatisierten Abrufverfahrens zur Anmeldung"
+        },
+        {
+          "documentIdentifier" : "BJNR194500014BJNE000704116",
+          "paragraph" : "§ 6",
+          "title" : "Rückmeldung"
+        },
+        {
+          "documentIdentifier" : "BJNR194500014BJNE000801116",
+          "paragraph" : "§ 7",
+          "title" : "Auswertung der Rückmeldung"
+        },
+        {
+          "documentIdentifier" : "BJNR194500014BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Fortschreibung der Daten"
+        },
+        {
+          "documentIdentifier" : "BJNR194500014BJNE001000000",
+          "paragraph" : "§ 9",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

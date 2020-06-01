@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR120800014",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR120800014Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR120800014BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Erstattung der Gewerbeanzeige"
+        },
+        {
+          "documentIdentifier" : "BJNR120800014BJNE000301116",
+          "paragraph" : "§ 2",
+          "title" : "Elektronische Erstattung der Gewerbeanzeige"
+        },
+        {
+          "documentIdentifier" : "BJNR120800014BJNE000402116",
+          "paragraph" : "§ 3",
+          "title" : "Übermittlung von Daten aus der Gewerbeanzeige an weitere Behörden"
+        },
+        {
+          "documentIdentifier" : "BJNR120800014BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR120800014BJNE000701116",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 1 Satz 1 Nummer 1)"
+        },
+        {
+          "documentIdentifier" : "BJNR120800014BJNE000801116",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 1 Satz 1 Nummer 2)"
+        },
+        {
+          "documentIdentifier" : "BJNR120800014BJNE000901116",
+          "paragraph" : "Anlage 3",
+          "title" : "(zu § 1 Satz 1 Nummer 3)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

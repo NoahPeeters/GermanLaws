@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR005770967",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR005770967Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR005770967BJNE000200303",
+          "paragraph" : "Anlage 1",
+          "title" : "Bezeichnungen der Lateinamerikanischen Freihandelszone"
+        },
+        {
+          "documentIdentifier" : "BJNR005770967BJNE000300303",
+          "paragraph" : "Anlage 2",
+          "title" : "Bezeichnungen und Kennzeichen der Europäischen Organisation für Kernforschung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

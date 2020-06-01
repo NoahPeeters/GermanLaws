@@ -1,0 +1,300 @@
+{
+  "documentIdentifier" : "BJNR150900012",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR150900012BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR150900012BJNE000202118",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR150900012BJNE000302125",
+          "paragraph" : "§ 2",
+          "title" : "Anzuwendende Vorschriften für Liefer-, Dienstleistungs- und Bauaufträge"
+        },
+        {
+          "documentIdentifier" : "BJNR150900012BJNE000401118",
+          "paragraph" : "§ 3",
+          "title" : "Schätzung des Auftragswertes"
+        },
+        {
+          "documentIdentifier" : "BJNR150900012BJNE000501118",
+          "paragraph" : "§ 4",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR150900012BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Dienstleistungsaufträge"
+        },
+        {
+          "documentIdentifier" : "BJNR150900012BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Wahrung der Vertraulichkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR150900012BJNE000802118",
+          "paragraph" : "§ 7",
+          "title" : "Anforderungen an den Schutz von Verschlusssachen durch Unternehmen"
+        },
+        {
+          "documentIdentifier" : "BJNR150900012BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Versorgungssicherheit"
+        },
+        {
+          "documentIdentifier" : "BJNR150900012BJNE001001118",
+          "paragraph" : "§ 9",
+          "title" : "Unteraufträge"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Bestimmungen"
+    },
+    {
+      "documentIdentifier" : "BJNR150900012BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR150900012BJNE001101118",
+          "paragraph" : "§ 10",
+          "title" : "Grundsätze des Vergabeverfahrens"
+        },
+        {
+          "documentIdentifier" : "BJNR150900012BJNE001200000",
+          "paragraph" : "§ 11",
+          "title" : "Arten der Vergabe von Liefer- und Dienstleistungsaufträgen"
+        },
+        {
+          "documentIdentifier" : "BJNR150900012BJNE001302360",
+          "paragraph" : "§ 12",
+          "title" : "Verhandlungsverfahren ohne Teilnahmewettbewerb"
+        },
+        {
+          "documentIdentifier" : "BJNR150900012BJNE001401118",
+          "paragraph" : "§ 13",
+          "title" : "Wettbewerblicher Dialog"
+        },
+        {
+          "documentIdentifier" : "BJNR150900012BJNE001502118",
+          "paragraph" : "§ 14",
+          "title" : "Rahmenvereinbarungen"
+        },
+        {
+          "documentIdentifier" : "BJNR150900012BJNE001602118",
+          "paragraph" : "§ 15",
+          "title" : "Leistungsbeschreibung und technische Anforderungen"
+        },
+        {
+          "documentIdentifier" : "BJNR150900012BJNE001700000",
+          "paragraph" : "§ 16",
+          "title" : "Vergabeunterlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR150900012BJNE001801118",
+          "paragraph" : "§ 17",
+          "title" : "Vorinformation"
+        },
+        {
+          "documentIdentifier" : "BJNR150900012BJNE001901118",
+          "paragraph" : "§ 18",
+          "title" : "Bekanntmachung von Vergabeverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR150900012BJNE002001118",
+          "paragraph" : "§ 19",
+          "title" : "Informationsübermittlung"
+        },
+        {
+          "documentIdentifier" : "BJNR150900012BJNE002100000",
+          "paragraph" : "§ 20",
+          "title" : "Fristen für den Eingang von Anträgen auf Teilnahme und Eingang der Angebote"
+        },
+        {
+          "documentIdentifier" : "BJNR150900012BJNE002201118",
+          "paragraph" : "§ 21",
+          "title" : "Eignung und Auswahl der Bewerber"
+        },
+        {
+          "documentIdentifier" : "BJNR150900012BJNE002301118",
+          "paragraph" : "§ 22",
+          "title" : "Allgemeine Vorgaben zum Nachweis der Eignung und des Nichtvorliegens von Ausschlussgründen"
+        },
+        {
+          "documentIdentifier" : "BJNR150900012BJNE002403118",
+          "paragraph" : "§ 23",
+          "title" : "Zwingender Ausschluss"
+        },
+        {
+          "documentIdentifier" : "BJNR150900012BJNE002501118",
+          "paragraph" : "§ 24",
+          "title" : "Fakultativer Ausschluss"
+        },
+        {
+          "documentIdentifier" : "BJNR150900012BJNE002600000",
+          "paragraph" : "§ 25",
+          "title" : "Nachweis der Erlaubnis zur Berufsausübung"
+        },
+        {
+          "documentIdentifier" : "BJNR150900012BJNE002700000",
+          "paragraph" : "§ 26",
+          "title" : "Nachweis der wirtschaftlichen und finanziellen Leistungsfähigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR150900012BJNE002802118",
+          "paragraph" : "§ 27",
+          "title" : "Nachweis der technischen und beruflichen Leistungsfähigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR150900012BJNE002900000",
+          "paragraph" : "§ 28",
+          "title" : "Nachweis für die Einhaltung von Normen des Qualitäts- und Umweltmanagements"
+        },
+        {
+          "documentIdentifier" : "BJNR150900012BJNE003001118",
+          "paragraph" : "§ 29",
+          "title" : "Aufforderung zur Abgabe eines Angebots"
+        },
+        {
+          "documentIdentifier" : "BJNR150900012BJNE003100000",
+          "paragraph" : "§ 30",
+          "title" : "Öffnung der Angebote"
+        },
+        {
+          "documentIdentifier" : "BJNR150900012BJNE003201118",
+          "paragraph" : "§ 31",
+          "title" : "Prüfung der Angebote"
+        },
+        {
+          "documentIdentifier" : "BJNR150900012BJNE003300000",
+          "paragraph" : "§ 32",
+          "title" : "Nebenangebote"
+        },
+        {
+          "documentIdentifier" : "BJNR150900012BJNE003401118",
+          "paragraph" : "§ 33",
+          "title" : "Ungewöhnlich niedrige Angebote"
+        },
+        {
+          "documentIdentifier" : "BJNR150900012BJNE003502118",
+          "paragraph" : "§ 34",
+          "title" : "Zuschlag"
+        },
+        {
+          "documentIdentifier" : "BJNR150900012BJNE003601118",
+          "paragraph" : "§ 35",
+          "title" : "Bekanntmachung über die Auftragserteilung"
+        },
+        {
+          "documentIdentifier" : "BJNR150900012BJNE003702118",
+          "paragraph" : "§ 36",
+          "title" : "Unterrichtung der Bewerber oder Bieter"
+        },
+        {
+          "documentIdentifier" : "BJNR150900012BJNE003800000",
+          "paragraph" : "§ 37",
+          "title" : "Aufhebung und Einstellung des Vergabeverfahrens"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Vergabeverfahren"
+    },
+    {
+      "documentIdentifier" : "BJNR150900012BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR150900012BJNE003901118",
+          "paragraph" : "§ 38",
+          "title" : "Allgemeine Vorgaben zur Unterauftragsvergabe"
+        },
+        {
+          "documentIdentifier" : "BJNR150900012BJNE004001118",
+          "paragraph" : "§ 39",
+          "title" : "Bekanntmachung"
+        },
+        {
+          "documentIdentifier" : "BJNR150900012BJNE004100000",
+          "paragraph" : "§ 40",
+          "title" : "Kriterien zur Auswahl der Unterauftragsnehmer"
+        },
+        {
+          "documentIdentifier" : "BJNR150900012BJNE004200000",
+          "paragraph" : "§ 41",
+          "title" : "Unteraufträge aufgrund einer Rahmenvereinbarung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Unterauftragsvergabe"
+    },
+    {
+      "documentIdentifier" : "BJNR150900012BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR150900012BJNE004300000",
+          "paragraph" : "§ 42",
+          "title" : "Ausgeschlossene Personen"
+        },
+        {
+          "documentIdentifier" : "BJNR150900012BJNE004400000",
+          "paragraph" : "§ 43",
+          "title" : "Dokumentations- und Aufbewahrungspflichten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Besondere Bestimmungen"
+    },
+    {
+      "documentIdentifier" : "BJNR150900012BJNG000501118",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR150900012BJNE004601118",
+          "paragraph" : "§ 44",
+          "title" : "Übergangsbestimmung"
+        },
+        {
+          "documentIdentifier" : "BJNR150900012BJNE004701118",
+          "paragraph" : "§ 45",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übergangs- und Schlussbestimmungen"
+    }
+  ]
+}

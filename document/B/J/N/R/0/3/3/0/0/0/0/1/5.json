@@ -1,0 +1,64 @@
+{
+  "documentIdentifier" : "BJNR033000015",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR033000015Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR033000015BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Zuständigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR033000015BJNE000301118",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmung"
+        },
+        {
+          "documentIdentifier" : "BJNR033000015BJNE000401118",
+          "paragraph" : "§ 3",
+          "title" : "Gebührenerhebung"
+        },
+        {
+          "documentIdentifier" : "BJNR033000015BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Gebührenberechnung"
+        },
+        {
+          "documentIdentifier" : "BJNR033000015BJNE000601118",
+          "paragraph" : "§ 5",
+          "title" : "Gebühren in besonderen Fällen"
+        },
+        {
+          "documentIdentifier" : "BJNR033000015BJNE000701118",
+          "paragraph" : "§ 6",
+          "title" : "Auslagen"
+        },
+        {
+          "documentIdentifier" : "BJNR033000015BJNE000801118",
+          "paragraph" : "§ 7",
+          "title" : "Gebührenermäßigung und Gebührenbefreiung"
+        },
+        {
+          "documentIdentifier" : "BJNR033000015BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR033000015BJNE001101118",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 3)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

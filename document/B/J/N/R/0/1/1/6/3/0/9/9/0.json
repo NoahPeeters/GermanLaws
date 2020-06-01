@@ -1,0 +1,153 @@
+{
+  "documentIdentifier" : "BJNR011630990",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR011630990BJNG000100328",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR011630990BJNE000800328",
+          "paragraph" : "Art 1",
+          "title" : "Sozialgesetzbuch (SGB)\n"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Ergänzung und Änderung des Sozialgesetzbuchs"
+    },
+    {
+      "documentIdentifier" : "BJNR011630990BJNG000200328",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Änderung weiterer Gesetze"
+    },
+    {
+      "documentIdentifier" : "BJNR011630990BJNG000300328",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR011630990BJNG000400328",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR011630990BJNE001102308",
+              "paragraph" : "Art 10",
+              "title" : "Übergangsfassung einzelner Vorschriften"
+            },
+            {
+              "documentIdentifier" : "BJNR011630990BJNE001201308",
+              "paragraph" : "Art 11",
+              "title" : "Übergangsvorschrift für Leistungen an\nseelisch behinderte junge Menschen"
+            },
+            {
+              "documentIdentifier" : "BJNR011630990BJNE001300328",
+              "paragraph" : "Art 12",
+              "title" : "Fortführung einer Einrichtung"
+            },
+            {
+              "documentIdentifier" : "BJNR011630990BJNE001400328",
+              "paragraph" : "Art 13",
+              "title" : "Jugendhilfeausschuß, Landesjugendhilfeausschuß"
+            },
+            {
+              "documentIdentifier" : "BJNR011630990BJNE001501308",
+              "paragraph" : "Art 14",
+              "title" : "Örtliche Zuständigkeit, Kostenerstattung"
+            },
+            {
+              "documentIdentifier" : "BJNR011630990BJNE001601308",
+              "paragraph" : "Art 15",
+              "title" : "Sachliche Zuständigkeit des Landesjugendamts"
+            },
+            {
+              "documentIdentifier" : "BJNR011630990BJNE001700328",
+              "paragraph" : "Art 16",
+              "title" : "Fortgeltung von Verwaltungsakten"
+            },
+            {
+              "documentIdentifier" : "BJNR011630990BJNE001800328",
+              "paragraph" : "Art 17",
+              "title" : "Öffentlich-rechtliche Streitigkeiten"
+            },
+            {
+              "documentIdentifier" : "BJNR011630990BJNE001900328",
+              "paragraph" : "Art 18",
+              "title" : "Verfahren vor dem Vormundschaftsgericht"
+            },
+            {
+              "documentIdentifier" : "BJNR011630990BJNE002000328",
+              "paragraph" : "Art 19",
+              "title" : "Eintragungen im Erziehungsregister"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Überleitungsvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR011630990BJNG000500328",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR011630990BJNE002100328",
+              "paragraph" : "Art 20",
+              "title" : "Einschränkung von Grundrechten"
+            },
+            {
+              "documentIdentifier" : "BJNR011630990BJNE002200328",
+              "paragraph" : "Art 21",
+              "title" : "Zuständigkeit für die Kostenerstattung\naufgrund der deutsch-schweizerischen Fürsorgevereinbarung"
+            },
+            {
+              "documentIdentifier" : "BJNR011630990BJNE002300328",
+              "paragraph" : "Art 22",
+              "title" : "Stadtstaatenklausel"
+            },
+            {
+              "documentIdentifier" : "BJNR011630990BJNE002501308",
+              "paragraph" : "Art 23",
+              "title" : "Inkrafttreten"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Schlußvorschriften"
+        }
+      ],
+      "title" : "Überleitungs- und Schlußvorschriften"
+    }
+  ]
+}

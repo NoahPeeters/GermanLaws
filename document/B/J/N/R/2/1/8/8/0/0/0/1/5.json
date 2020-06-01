@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR218800015",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR218800015Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR218800015BJNE000202360",
+          "paragraph" : "§ 1",
+          "title" : "Festlegung des Mindestunterhalts"
+        },
+        {
+          "documentIdentifier" : "BJNR218800015BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

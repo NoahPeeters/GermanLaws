@@ -1,0 +1,79 @@
+{
+  "documentIdentifier" : "BJNR070000003",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR070000003Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR070000003BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Staatliche Anerkennung des Ausbildungsberufes"
+        },
+        {
+          "documentIdentifier" : "BJNR070000003BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Ausbildungsdauer, Fachrichtungen"
+        },
+        {
+          "documentIdentifier" : "BJNR070000003BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Ausbildungsberufsbild"
+        },
+        {
+          "documentIdentifier" : "BJNR070000003BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Ausbildungsrahmenplan"
+        },
+        {
+          "documentIdentifier" : "BJNR070000003BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Ausbildungsplan"
+        },
+        {
+          "documentIdentifier" : "BJNR070000003BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Berichtsheft"
+        },
+        {
+          "documentIdentifier" : "BJNR070000003BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Zwischenprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR070000003BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Abschlussprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR070000003BJNE001000000",
+          "paragraph" : "§ 9",
+          "title" : "Nichtanwendung von Vorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR070000003BJNE001100000",
+          "paragraph" : "§ 10",
+          "title" : "Übergangsregelung"
+        },
+        {
+          "documentIdentifier" : "BJNR070000003BJNE001200000",
+          "paragraph" : "§ 11",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR070000003BJNE001300000",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 4)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

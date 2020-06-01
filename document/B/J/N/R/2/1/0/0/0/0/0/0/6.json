@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR210000006",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR210000006Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR210000006BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Verzinsung und Tilgung der den Ländern zur Förderung des Wohnungsbaus\ngewährten Darlehen des Bundes"
+        },
+        {
+          "documentIdentifier" : "BJNR210000006BJNE000201311",
+          "paragraph" : "§ 2",
+          "title" : "Wohnungsfürsorge des Bundes, Bergarbeiterwohnungsbau"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

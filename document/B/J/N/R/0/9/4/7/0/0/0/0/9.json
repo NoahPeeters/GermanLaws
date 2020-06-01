@@ -1,0 +1,74 @@
+{
+  "documentIdentifier" : "BJNR094700009",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR094700009Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR094700009BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR094700009BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR094700009BJNE000301310",
+          "paragraph" : "§ 3",
+          "title" : "Errichtung, Betrieb, Stilllegung und Nachsorge"
+        },
+        {
+          "documentIdentifier" : "BJNR094700009BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Stabilitätsnachweis"
+        },
+        {
+          "documentIdentifier" : "BJNR094700009BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Abfallbewirtschaftungsplan"
+        },
+        {
+          "documentIdentifier" : "BJNR094700009BJNE000600000",
+          "paragraph" : "§ 6",
+          "title" : "Vermeidung schwerer Unfälle und Information"
+        },
+        {
+          "documentIdentifier" : "BJNR094700009BJNE000700000",
+          "paragraph" : "§ 7",
+          "title" : "Sicherheitsleistung"
+        },
+        {
+          "documentIdentifier" : "BJNR094700009BJNE000800000",
+          "paragraph" : "§ 8",
+          "title" : "Antrag, Anzeige"
+        },
+        {
+          "documentIdentifier" : "BJNR094700009BJNE000901310",
+          "paragraph" : "§ 9",
+          "title" : "Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR094700009BJNE001000000",
+          "paragraph" : "§ 10",
+          "title" : "Übergangsvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR094700009BJNE001100000",
+          "paragraph" : "Anhang",
+          "title" : "(zu § 5)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

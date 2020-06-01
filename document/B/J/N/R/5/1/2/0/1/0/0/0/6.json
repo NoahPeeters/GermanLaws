@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR512010006",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR512010006Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR512010006BJNE000202140",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR512010006BJNE000301377",
+          "paragraph" : "§ 2",
+          "title" : "Zuständige Stelle"
+        },
+        {
+          "documentIdentifier" : "BJNR512010006BJNE000402377",
+          "paragraph" : "§ 3",
+          "title" : "Umstrukturierungsbeihilfe"
+        },
+        {
+          "documentIdentifier" : "BJNR512010006BJNE000700377",
+          "paragraph" : "§ 3a",
+          "title" : "Umstrukturierungsbeihilfe für Lohn-unternehmen nach Artikel 3 Abs. 6 Unterabs. 1 Buchstabe b der Verordnung (EG) Nr. 320\/2006"
+        },
+        {
+          "documentIdentifier" : "BJNR512010006BJNE000502377",
+          "paragraph" : "§ 4",
+          "title" : "Duldungs- und Mitwirkungspflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR512010006BJNE000601377",
+          "paragraph" : "§ 5",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

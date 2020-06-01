@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR013130973",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR013130973Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR013130973BJNE000200304",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR013130973BJNE000300304",
+          "paragraph" : "§ 2",
+          "title" : "Allgemeine Anforderungen"
+        },
+        {
+          "documentIdentifier" : "BJNR013130973BJNE000400304",
+          "paragraph" : "§ 3",
+          "title" : "Bauweise, Baustoffe und Bestandteile von Brunnen"
+        },
+        {
+          "documentIdentifier" : "BJNR013130973BJNE000500304",
+          "paragraph" : "§ 4",
+          "title" : "Besondere Anforderungen für Trinkwasser-Notbrunnen"
+        },
+        {
+          "documentIdentifier" : "BJNR013130973BJNE000600304",
+          "paragraph" : "§ 5",
+          "title" : "Festigkeitsnachweis"
+        },
+        {
+          "documentIdentifier" : "BJNR013130973BJNE000700304",
+          "paragraph" : "§ 6",
+          "title" : "Bauweise, Baustoffe und Bestandteile von\nQuellfassungen"
+        },
+        {
+          "documentIdentifier" : "BJNR013130973BJNE000800304",
+          "paragraph" : "§ 7",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

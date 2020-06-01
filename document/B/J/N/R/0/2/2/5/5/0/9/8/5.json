@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR022550985",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR022550985Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR022550985BJNE000200326",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR022550985BJNE000302310",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR022550985BJNE000405360",
+          "paragraph" : "§ 3",
+          "title" : "Zuordnungsgrundsätze"
+        },
+        {
+          "documentIdentifier" : "BJNR022550985BJNE000503360",
+          "paragraph" : "§ 4",
+          "title" : "Instandhaltungskosten"
+        },
+        {
+          "documentIdentifier" : "BJNR022550985BJNE000601310",
+          "paragraph" : "§ 5",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR022550985BJNE000700326",
+          "paragraph" : "§ 6",
+          "title" : "Inkrafttreten und Übergangsvorschrift"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR000740989",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR000740989Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR000740989BJNE000200325",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR000740989BJNE000300325",
+          "paragraph" : "§ 2",
+          "title" : "Zinserhöhung"
+        },
+        {
+          "documentIdentifier" : "BJNR000740989BJNE000400325",
+          "paragraph" : "§ 3",
+          "title" : "Begrenzung der Zinserhöhung"
+        },
+        {
+          "documentIdentifier" : "BJNR000740989BJNE000500325",
+          "paragraph" : "§ 4",
+          "title" : "Ausschlußfrist"
+        },
+        {
+          "documentIdentifier" : "BJNR000740989BJNE000600325",
+          "paragraph" : "§ 5",
+          "title" : "Berlin-Klausel"
+        },
+        {
+          "documentIdentifier" : "BJNR000740989BJNE000700325",
+          "paragraph" : "§ 6",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

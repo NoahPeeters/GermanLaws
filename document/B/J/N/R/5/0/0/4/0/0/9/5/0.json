@@ -1,0 +1,88 @@
+{
+  "documentIdentifier" : "BJNR500400950",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR500400950BJNG000100325",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR500400950BJNE000400325",
+          "paragraph" : "(XXXX) 1. bis 6.",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR500400950BJNE000500325",
+          "paragraph" : "7.",
+          "title" : "Allgemeine Grundsätze für den Ansatz der Aktiven\nund Passiven in der Reichsmarkschlußbilanz"
+        },
+        {
+          "documentIdentifier" : "BJNR500400950BJNE000600325",
+          "paragraph" : "7a.",
+          "title" : "Grundstücke, Inventar, Warenvorräte"
+        },
+        {
+          "documentIdentifier" : "BJNR500400950BJNE000700325",
+          "paragraph" : "7b.",
+          "title" : "Kriegssachschäden"
+        },
+        {
+          "documentIdentifier" : "BJNR500400950BJNE000800325",
+          "paragraph" : "7c.",
+          "title" : "Zinsansprüche"
+        },
+        {
+          "documentIdentifier" : "BJNR500400950BJNE000900325",
+          "paragraph" : "7d.",
+          "title" : "Anleiheablösungsforderungen mit Auslosungsrechten,\nReichsschatzanweisungen 1944, Folge III"
+        },
+        {
+          "documentIdentifier" : "BJNR500400950BJNE001000325",
+          "paragraph" : "7e.",
+          "title" : "Bilanztechnische Behandlung"
+        },
+        {
+          "documentIdentifier" : "BJNR500400950BJNE001100325",
+          "paragraph" : "7f.",
+          "title" : "Berichtigungen der Reichsmarkschlußbilanz"
+        },
+        {
+          "documentIdentifier" : "BJNR500400950BJNE001200325",
+          "paragraph" : "7g.",
+          "title" : "Weitergeltung bisheriger Grundsätze"
+        },
+        {
+          "documentIdentifier" : "BJNR500400950BJNE001300325",
+          "paragraph" : "(XXXX) 8. bis 17.",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeines"
+    },
+    {
+      "documentIdentifier" : "BJNR500400950BJNG000200325",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR500400950BJNE001400325",
+          "paragraph" : "(XXXX) 18. bis 53.",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "II. bis V."
+    }
+  ]
+}

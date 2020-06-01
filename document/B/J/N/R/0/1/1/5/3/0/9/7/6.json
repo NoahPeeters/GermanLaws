@@ -1,0 +1,396 @@
+{
+  "documentIdentifier" : "BJNR011530976",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR011530976BJNG000100319",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR011530976BJNE001404308",
+          "paragraph" : "§ 1",
+          "title" : "Erfaßte Unternehmen"
+        },
+        {
+          "documentIdentifier" : "BJNR011530976BJNE001502308",
+          "paragraph" : "§ 2",
+          "title" : "Anteilseigner"
+        },
+        {
+          "documentIdentifier" : "BJNR011530976BJNE001601308",
+          "paragraph" : "§ 3",
+          "title" : "Arbeitnehmer und Betrieb"
+        },
+        {
+          "documentIdentifier" : "BJNR011530976BJNE001700319",
+          "paragraph" : "§ 4",
+          "title" : "Kommanditgesellschaft"
+        },
+        {
+          "documentIdentifier" : "BJNR011530976BJNE001800319",
+          "paragraph" : "§ 5",
+          "title" : "Konzern"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Geltungsbereich"
+    },
+    {
+      "documentIdentifier" : "BJNR011530976BJNG000200319",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR011530976BJNG000300319",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR011530976BJNE001902119",
+              "paragraph" : "§ 6",
+              "title" : "Grundsatz"
+            },
+            {
+              "documentIdentifier" : "BJNR011530976BJNE002003119",
+              "paragraph" : "§ 7",
+              "title" : "Zusammensetzung des Aufsichtsrats"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Bildung und Zusammensetzung"
+        },
+        {
+          "documentIdentifier" : "BJNR011530976BJNG000400319",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              2
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR011530976BJNG000500319",
+              "laws" : [
+
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  2,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Aufsichtsratsmitglieder der Anteilseigner"
+            },
+            {
+              "documentIdentifier" : "BJNR011530976BJNG000600319",
+              "laws" : [
+
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  2,
+                  2
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Aufsichtsratsmitglieder der Arbeitnehmer, Grundsatz"
+            },
+            {
+              "documentIdentifier" : "BJNR011530976BJNG000701305",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR011530976BJNE002302308",
+                  "paragraph" : "§ 10",
+                  "title" : "Wahl der Delegierten"
+                },
+                {
+                  "documentIdentifier" : "BJNR011530976BJNE002403308",
+                  "paragraph" : "§ 11",
+                  "title" : "Errechnung der Zahl der Delegierten"
+                },
+                {
+                  "documentIdentifier" : "BJNR011530976BJNE002503308",
+                  "paragraph" : "§ 12",
+                  "title" : "Wahlvorschläge für Delegierte"
+                },
+                {
+                  "documentIdentifier" : "BJNR011530976BJNE002601305",
+                  "paragraph" : "§ 13",
+                  "title" : "Amtszeit der Delegierten"
+                },
+                {
+                  "documentIdentifier" : "BJNR011530976BJNE002701305",
+                  "paragraph" : "§ 14",
+                  "title" : "Vorzeitige Beendigung der Amtszeit oder Verhinderung von\nDelegierten"
+                },
+                {
+                  "documentIdentifier" : "BJNR011530976BJNE002804308",
+                  "paragraph" : "§ 15",
+                  "title" : "Wahl der unternehmensangehörigen Aufsichtsratsmitglieder\nder Arbeitnehmer"
+                },
+                {
+                  "documentIdentifier" : "BJNR011530976BJNE002903119",
+                  "paragraph" : "§ 16",
+                  "title" : "Wahl der Vertreter von Gewerkschaften in den Aufsichtsrat"
+                },
+                {
+                  "documentIdentifier" : "BJNR011530976BJNE003002119",
+                  "paragraph" : "§ 17",
+                  "title" : "Ersatzmitglieder"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  2,
+                  3
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Wahl der Aufsichtsratsmitglieder der Arbeitnehmer durch Delegierte"
+            },
+            {
+              "documentIdentifier" : "BJNR011530976BJNG005500319",
+              "laws" : [
+
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  2,
+                  4
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Unmittelbare Wahl der Aufsichtsratsmitglieder der Arbeitnehmer"
+            },
+            {
+              "documentIdentifier" : "BJNR011530976BJNG005600119",
+              "laws" : [
+
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  2,
+                  5
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Nichterreichen des Geschlechteranteils durch die Wahl"
+            },
+            {
+              "documentIdentifier" : "BJNR011530976BJNG000801119",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR011530976BJNE003203140",
+                  "paragraph" : "§ 19",
+                  "title" : "Bekanntmachung der Mitglieder des Aufsichtsrats"
+                },
+                {
+                  "documentIdentifier" : "BJNR011530976BJNE003300319",
+                  "paragraph" : "§ 20",
+                  "title" : "Wahlschutz und Wahlkosten"
+                },
+                {
+                  "documentIdentifier" : "BJNR011530976BJNE003402308",
+                  "paragraph" : "§ 21",
+                  "title" : "Anfechtung der Wahl von Delegierten"
+                },
+                {
+                  "documentIdentifier" : "BJNR011530976BJNE003503140",
+                  "paragraph" : "§ 22",
+                  "title" : "Anfechtung der Wahl von Aufsichtsratsmitgliedern der Arbeitnehmer"
+                },
+                {
+                  "documentIdentifier" : "BJNR011530976BJNE003602308",
+                  "paragraph" : "§ 23",
+                  "title" : "Abberufung von Aufsichtsratsmitgliedern der Arbeitnehmer"
+                },
+                {
+                  "documentIdentifier" : "BJNR011530976BJNE003701308",
+                  "paragraph" : "§ 24",
+                  "title" : "Verlust der Wählbarkeit und Änderung\nder Zuordnung unternehmensangehöriger\nAufsichtsratsmitglieder"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  2,
+                  6
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Weitere Vorschriften über das Wahlverfahren sowie über die Bestellung und Abberufung von Aufsichtsratsmitgliedern"
+            }
+          ],
+          "title" : "Bestellung der Aufsichtsratsmitglieder"
+        },
+        {
+          "documentIdentifier" : "BJNR011530976BJNG000900319",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR011530976BJNE003804308",
+              "paragraph" : "§ 25",
+              "title" : "Grundsatz"
+            },
+            {
+              "documentIdentifier" : "BJNR011530976BJNE003900319",
+              "paragraph" : "§ 26",
+              "title" : "Schutz von Aufsichtsratsmitgliedern vor Benachteiligung"
+            },
+            {
+              "documentIdentifier" : "BJNR011530976BJNE004000319",
+              "paragraph" : "§ 27",
+              "title" : "Vorsitz im Aufsichtsrat"
+            },
+            {
+              "documentIdentifier" : "BJNR011530976BJNE004100319",
+              "paragraph" : "§ 28",
+              "title" : "Beschlußfähigkeit"
+            },
+            {
+              "documentIdentifier" : "BJNR011530976BJNE004200319",
+              "paragraph" : "§ 29",
+              "title" : "Abstimmungen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Innere Ordnung, Rechte und Pflichten des Aufsichtsrats"
+        }
+      ],
+      "title" : "Aufsichtsrat"
+    },
+    {
+      "documentIdentifier" : "BJNR011530976BJNG001000319",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR011530976BJNE004300319",
+          "paragraph" : "§ 30",
+          "title" : "Grundsatz"
+        },
+        {
+          "documentIdentifier" : "BJNR011530976BJNE004400319",
+          "paragraph" : "§ 31",
+          "title" : "Bestellung und Widerruf"
+        },
+        {
+          "documentIdentifier" : "BJNR011530976BJNE004501308",
+          "paragraph" : "§ 32",
+          "title" : "Ausübung von Beteiligungsrechten"
+        },
+        {
+          "documentIdentifier" : "BJNR011530976BJNE004601308",
+          "paragraph" : "§ 33",
+          "title" : "Arbeitsdirektor"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gesetzliches Vertretungsorgan"
+    },
+    {
+      "documentIdentifier" : "BJNR011530976BJNG001100319",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Seeschiffahrt"
+    },
+    {
+      "documentIdentifier" : "BJNR011530976BJNG001200319",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR011530976BJNE004901308",
+          "paragraph" : "§ 36",
+          "title" : "Verweisungen"
+        },
+        {
+          "documentIdentifier" : "BJNR011530976BJNE005002308",
+          "paragraph" : "§ 37",
+          "title" : "Erstmalige Anwendung des Gesetzes auf ein Unternehmen"
+        },
+        {
+          "documentIdentifier" : "BJNR011530976BJNE005203119",
+          "paragraph" : "§ 39",
+          "title" : "Ermächtigung zum Erlaß von Rechtsverordnungen"
+        },
+        {
+          "documentIdentifier" : "BJNR011530976BJNE005303119",
+          "paragraph" : "§ 40",
+          "title" : "Übergangsregelung"
+        },
+        {
+          "documentIdentifier" : "BJNR011530976BJNE005400319",
+          "paragraph" : "§ 41",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übergangs- und Schlußvorschriften"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR180500000",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR180500000Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR180500000BJNE000101377",
+          "paragraph" : "§ 1",
+          "title" : "Änderung oder Berichtigung von Steuerfestsetzungen"
+        },
+        {
+          "documentIdentifier" : "BJNR180500000BJNE000201377",
+          "paragraph" : "§ 2",
+          "title" : "Änderung oder Berichtigung der Festsetzung eines Gewerbesteuermessbetrages"
+        },
+        {
+          "documentIdentifier" : "BJNR180500000BJNE000301377",
+          "paragraph" : "§ 3",
+          "title" : "Änderung oder Berichtigung der gesonderten Feststellung von Einkünften"
+        },
+        {
+          "documentIdentifier" : "BJNR180500000BJNE000501377",
+          "paragraph" : "§ 4",
+          "title" : "Rückforderung von Wohnungsbauprämien"
+        },
+        {
+          "documentIdentifier" : "BJNR180500000BJNE000601377",
+          "paragraph" : "§ 5",
+          "title" : "Kraftfahrzeugsteuer bei Beendigung der Steuerpflicht"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

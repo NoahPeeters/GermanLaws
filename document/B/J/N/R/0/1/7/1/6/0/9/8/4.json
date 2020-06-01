@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR017160984",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR017160984Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR017160984BJNE000600314",
+          "paragraph" : "Art 6",
+          "title" : "Berlin-Klausel"
+        },
+        {
+          "documentIdentifier" : "BJNR017160984BJNE000700314",
+          "paragraph" : "Art 7",
+          "title" : "Inkrafttreten, Außerkrafttreten von Vorschriften"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

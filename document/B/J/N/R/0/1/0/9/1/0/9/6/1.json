@@ -1,0 +1,84 @@
+{
+  "documentIdentifier" : "BJNR010910961",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR010910961BJNG000100325",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Rechtsgeschäftliche Veräußerung"
+    },
+    {
+      "documentIdentifier" : "BJNR010910961BJNG000200325",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gerichtliche Zuweisung eines Betriebes"
+    },
+    {
+      "documentIdentifier" : "BJNR010910961BJNG000300325",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Verfahren"
+    },
+    {
+      "documentIdentifier" : "BJNR010910961BJNG000400325",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Siedlungsrechtliche Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR010910961BJNG000500325",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR010910961BJNE003901377",
+          "paragraph" : "(XXXX) §§ 34 bis 36",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Zusatz-, Übergangs- und Schlußvorschriften"
+    }
+  ]
+}

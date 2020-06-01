@@ -1,0 +1,250 @@
+{
+  "documentIdentifier" : "BJNR247710006",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR247710006BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR247710006BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich, Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR247710006BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Netzanschlussverhältnis"
+        },
+        {
+          "documentIdentifier" : "BJNR247710006BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Anschlussnutzungsverhältnis"
+        },
+        {
+          "documentIdentifier" : "BJNR247710006BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Inhalt des Vertrages und der Bestätigung des Netzbetreibers"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR247710006BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR247710006BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Netzanschluss"
+        },
+        {
+          "documentIdentifier" : "BJNR247710006BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Herstellung des Netzanschlusses"
+        },
+        {
+          "documentIdentifier" : "BJNR247710006BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Art des Netzanschlusses"
+        },
+        {
+          "documentIdentifier" : "BJNR247710006BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Betrieb des Netzanschlusses"
+        },
+        {
+          "documentIdentifier" : "BJNR247710006BJNE001000000",
+          "paragraph" : "§ 9",
+          "title" : "Kostenerstattung für die Herstellung oder Änderung des Netzanschlusses"
+        },
+        {
+          "documentIdentifier" : "BJNR247710006BJNE001101308",
+          "paragraph" : "§ 10",
+          "title" : "Transformatorenanlage"
+        },
+        {
+          "documentIdentifier" : "BJNR247710006BJNE001200000",
+          "paragraph" : "§ 11",
+          "title" : "Baukostenzuschüsse"
+        },
+        {
+          "documentIdentifier" : "BJNR247710006BJNE001300000",
+          "paragraph" : "§ 12",
+          "title" : "Grundstücksbenutzung"
+        },
+        {
+          "documentIdentifier" : "BJNR247710006BJNE001401310",
+          "paragraph" : "§ 13",
+          "title" : "Elektrische Anlage"
+        },
+        {
+          "documentIdentifier" : "BJNR247710006BJNE001500000",
+          "paragraph" : "§ 14",
+          "title" : "Inbetriebsetzung der elektrischen Anlage"
+        },
+        {
+          "documentIdentifier" : "BJNR247710006BJNE001600000",
+          "paragraph" : "§ 15",
+          "title" : "Überprüfung der elektrischen Anlage"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Netzanschluss"
+    },
+    {
+      "documentIdentifier" : "BJNR247710006BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR247710006BJNE001701118",
+          "paragraph" : "§ 16",
+          "title" : "Nutzung des Anschlusses"
+        },
+        {
+          "documentIdentifier" : "BJNR247710006BJNE001802118",
+          "paragraph" : "§ 17",
+          "title" : "Unterbrechung der Anschlussnutzung"
+        },
+        {
+          "documentIdentifier" : "BJNR247710006BJNE001900000",
+          "paragraph" : "§ 18",
+          "title" : "Haftung bei Störungen der Anschlussnutzung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Anschlussnutzung"
+    },
+    {
+      "documentIdentifier" : "BJNR247710006BJNG000400000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR247710006BJNG000500000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR247710006BJNE002001118",
+              "paragraph" : "§ 19",
+              "title" : "Betrieb von elektrischen Anlagen, Verbrauchsgeräten und Ladeeinrichtungen, Eigenanlagen"
+            },
+            {
+              "documentIdentifier" : "BJNR247710006BJNE002100000",
+              "paragraph" : "§ 20",
+              "title" : "Technische Anschlussbedingungen"
+            },
+            {
+              "documentIdentifier" : "BJNR247710006BJNE002202118",
+              "paragraph" : "§ 21",
+              "title" : "Zutrittsrecht"
+            },
+            {
+              "documentIdentifier" : "BJNR247710006BJNE002302118",
+              "paragraph" : "§ 22",
+              "title" : "Mess- und Steuereinrichtungen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Anlagenbetrieb und Rechte des Netzbetreibers"
+        },
+        {
+          "documentIdentifier" : "BJNR247710006BJNG000600000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR247710006BJNE002400000",
+              "paragraph" : "§ 23",
+              "title" : "Zahlung, Verzug"
+            },
+            {
+              "documentIdentifier" : "BJNR247710006BJNE002501118",
+              "paragraph" : "§ 24",
+              "title" : "Unterbrechung des Anschlusses und der Anschlussnutzung"
+            },
+            {
+              "documentIdentifier" : "BJNR247710006BJNE002602118",
+              "paragraph" : "§ 25",
+              "title" : "Kündigung des Netzanschlussverhältnisses"
+            },
+            {
+              "documentIdentifier" : "BJNR247710006BJNE002700000",
+              "paragraph" : "§ 26",
+              "title" : "Beendigung des Anschlussnutzungsverhältnisses"
+            },
+            {
+              "documentIdentifier" : "BJNR247710006BJNE002800000",
+              "paragraph" : "§ 27",
+              "title" : "Fristlose Kündigung oder Beendigung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Fälligkeit, Folge von Zuwiderhandlungen, Beendigung der Rechtsverhältnisse"
+        }
+      ],
+      "title" : "Gemeinsame Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR247710006BJNG000700000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR247710006BJNE002900000",
+          "paragraph" : "§ 28",
+          "title" : "Gerichtsstand"
+        },
+        {
+          "documentIdentifier" : "BJNR247710006BJNE003000000",
+          "paragraph" : "§ 29",
+          "title" : "Übergangsregelung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussbestimmungen"
+    }
+  ]
+}

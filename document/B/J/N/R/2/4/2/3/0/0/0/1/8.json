@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR242300018",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR242300018Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR242300018BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Sorgfalts- und Informationspflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR242300018BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Auskunftspflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR242300018BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Aufsicht über befugte Stellen"
+        },
+        {
+          "documentIdentifier" : "BJNR242300018BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Anzeige bei der Aufsichtsbehörde"
+        },
+        {
+          "documentIdentifier" : "BJNR242300018BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

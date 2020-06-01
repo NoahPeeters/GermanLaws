@@ -1,0 +1,233 @@
+{
+  "documentIdentifier" : "BJNR084610019",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR084610019BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR084610019BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "eID-Karte"
+        },
+        {
+          "documentIdentifier" : "BJNR084610019BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR084610019BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Besitz und Eigentum; Hersteller, Vergabestelle und Sperrlistenbetreiber"
+        },
+        {
+          "documentIdentifier" : "BJNR084610019BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Kartenmuster; Seriennummer; Chip"
+        },
+        {
+          "documentIdentifier" : "BJNR084610019BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Gültigkeitsdauer"
+        },
+        {
+          "documentIdentifier" : "BJNR084610019BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Sachliche Zuständigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR084610019BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Örtliche Zuständigkeit"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR084610019BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR084610019BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Ausstellung der eID-Karte"
+        },
+        {
+          "documentIdentifier" : "BJNR084610019BJNE001000000",
+          "paragraph" : "§ 9",
+          "title" : "Sperrung und Entsperrung"
+        },
+        {
+          "documentIdentifier" : "BJNR084610019BJNE001100000",
+          "paragraph" : "§ 10",
+          "title" : "Informationspflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR084610019BJNE001200000",
+          "paragraph" : "§ 11",
+          "title" : "Datenerfassung, -prüfung und -übermittlung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Ausstellung und Sperrung der eID-Karte"
+    },
+    {
+      "documentIdentifier" : "BJNR084610019BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR084610019BJNE001300000",
+          "paragraph" : "§ 12",
+          "title" : "Elektronischer Identitätsnachweis"
+        },
+        {
+          "documentIdentifier" : "BJNR084610019BJNE001400000",
+          "paragraph" : "§ 13",
+          "title" : "Vor-Ort-Auslesen"
+        },
+        {
+          "documentIdentifier" : "BJNR084610019BJNE001500000",
+          "paragraph" : "§ 14",
+          "title" : "Speicherung im Rahmen des elektronischen Identitätsnachweises"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Nutzung der eID-Karte"
+    },
+    {
+      "documentIdentifier" : "BJNR084610019BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR084610019BJNE001600000",
+          "paragraph" : "§ 15",
+          "title" : "Berechtigungen für Diensteanbieter"
+        },
+        {
+          "documentIdentifier" : "BJNR084610019BJNE001700000",
+          "paragraph" : "§ 16",
+          "title" : "Vor-Ort-Berechtigung für Vor-Ort-Diensteanbieter"
+        },
+        {
+          "documentIdentifier" : "BJNR084610019BJNE001800000",
+          "paragraph" : "§ 17",
+          "title" : "Berechtigung für Identifizierungsdiensteanbieter"
+        },
+        {
+          "documentIdentifier" : "BJNR084610019BJNE001900000",
+          "paragraph" : "§ 18",
+          "title" : "Elektronische Signatur"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Berechtigungen; elektronische Signatur"
+    },
+    {
+      "documentIdentifier" : "BJNR084610019BJNG000500000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR084610019BJNE002000000",
+          "paragraph" : "§ 19",
+          "title" : "eID-Karte-Register"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "eID-Karte-Register"
+    },
+    {
+      "documentIdentifier" : "BJNR084610019BJNG000600000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR084610019BJNE002100000",
+          "paragraph" : "§ 20",
+          "title" : "Pflichten des Karteninhabers"
+        },
+        {
+          "documentIdentifier" : "BJNR084610019BJNE002200000",
+          "paragraph" : "§ 21",
+          "title" : "Ungültigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR084610019BJNE002300000",
+          "paragraph" : "§ 22",
+          "title" : "Einziehung und Sicherstellung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Pflichten des Karteninhabers; Ungültigkeit und Einziehung"
+    },
+    {
+      "documentIdentifier" : "BJNR084610019BJNG000700000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR084610019BJNE002400000",
+          "paragraph" : "§ 23",
+          "title" : "Gebühren und Auslagen; Verordnungsermächtigung"
+        },
+        {
+          "documentIdentifier" : "BJNR084610019BJNE002500000",
+          "paragraph" : "§ 24",
+          "title" : "Bußgeldvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR084610019BJNE002600000",
+          "paragraph" : "§ 25",
+          "title" : "Verordnungsermächtigung"
+        },
+        {
+          "documentIdentifier" : "BJNR084610019BJNE002700000",
+          "paragraph" : "§ 26",
+          "title" : "Übergangsvorschrift"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gebühren und Auslagen; Bußgeldvorschriften"
+    }
+  ]
+}

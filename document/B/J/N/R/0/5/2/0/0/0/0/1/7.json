@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR052000017",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR052000017Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR052000017BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Datenumfang"
+        },
+        {
+          "documentIdentifier" : "BJNR052000017BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Erstellung und Übermittlung des Erhebungsbogens"
+        },
+        {
+          "documentIdentifier" : "BJNR052000017BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Information der oder des Versicherten"
+        },
+        {
+          "documentIdentifier" : "BJNR052000017BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Datenerfassung durch die Vertragsärztin oder den Vertragsarzt und Übermittlung der Daten an das Bundesinstitut für Arzneimittel und Medizinprodukte"
+        },
+        {
+          "documentIdentifier" : "BJNR052000017BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

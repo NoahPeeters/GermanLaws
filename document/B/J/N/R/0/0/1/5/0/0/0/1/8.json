@@ -1,0 +1,59 @@
+{
+  "documentIdentifier" : "BJNR001500018",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR001500018Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR001500018BJNE000201124",
+          "paragraph" : "§ 1",
+          "title" : "Ort und Ablauf der Ausbildung"
+        },
+        {
+          "documentIdentifier" : "BJNR001500018BJNE000301124",
+          "paragraph" : "§ 2",
+          "title" : "Fahrlehrerausbildungsstätte"
+        },
+        {
+          "documentIdentifier" : "BJNR001500018BJNE000401124",
+          "paragraph" : "§ 3",
+          "title" : "Ausbildungsfahrschule"
+        },
+        {
+          "documentIdentifier" : "BJNR001500018BJNE000501124",
+          "paragraph" : "§ 4",
+          "title" : "Einweisungsseminar"
+        },
+        {
+          "documentIdentifier" : "BJNR001500018BJNE000602124",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 2 Absatz 1)"
+        },
+        {
+          "documentIdentifier" : "BJNR001500018BJNE000700000",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 3 Absatz 1)"
+        },
+        {
+          "documentIdentifier" : "BJNR001500018BJNE000801124",
+          "paragraph" : "Anlage 3",
+          "title" : "(zu § 3 Absatz 1)"
+        },
+        {
+          "documentIdentifier" : "BJNR001500018BJNE000900000",
+          "paragraph" : "Anlage 4",
+          "title" : "(zu § 4)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

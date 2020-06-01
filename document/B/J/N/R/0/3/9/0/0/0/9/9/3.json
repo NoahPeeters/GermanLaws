@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR039000993",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR039000993Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR039000993BJNE000203160",
+          "paragraph" : "§ 1",
+          "title" : "Amtsverhältnisrechtliche Ausnahmeregelung"
+        },
+        {
+          "documentIdentifier" : "BJNR039000993BJNE000401377",
+          "paragraph" : "§ 1a",
+          "title" : "Fortgeltung bisherigen Rechts"
+        },
+        {
+          "documentIdentifier" : "BJNR039000993BJNE000502160",
+          "paragraph" : "§ 1b",
+          "title" : "Bezugsgröße B 11"
+        },
+        {
+          "documentIdentifier" : "BJNR039000993BJNE000300307",
+          "paragraph" : "§ 2",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

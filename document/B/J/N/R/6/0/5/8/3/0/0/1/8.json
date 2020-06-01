@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR605830018",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR605830018Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR605830018BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Geltungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR605830018BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Mindestlöhne"
+        },
+        {
+          "documentIdentifier" : "BJNR605830018BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Geringfügig Beschäftigte der Lohngruppe 1 – Monatslohn"
+        },
+        {
+          "documentIdentifier" : "BJNR605830018BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Lohn der Arbeitsstelle – Lohn bei auswärtiger Beschäftigung"
+        },
+        {
+          "documentIdentifier" : "BJNR605830018BJNE000500000",
+          "paragraph" : "Anhang",
+          "title" : "(zur Anlage)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

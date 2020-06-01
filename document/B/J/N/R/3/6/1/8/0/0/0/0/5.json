@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR361800005",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR361800005Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR361800005BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Ausnahmen von der Tötung bei Rindern"
+        },
+        {
+          "documentIdentifier" : "BJNR361800005BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Ausnahmen von der Tötung bei Schafen und Ziegen"
+        },
+        {
+          "documentIdentifier" : "BJNR361800005BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

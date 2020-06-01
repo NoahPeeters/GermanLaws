@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR002620964",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR002620964Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR002620964BJNE000201309",
+          "paragraph" : "§ 1",
+          "title" : "Beschäftigungsverbote"
+        },
+        {
+          "documentIdentifier" : "BJNR002620964BJNE000400317",
+          "paragraph" : "§ 3",
+          "title" : "Hinweis auf Bußgeld- und Strafvorschriften des\nJugendarbeitsschutzgesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR002620964BJNE000500317",
+          "paragraph" : "§ 4",
+          "title" : "Berlin-Klausel"
+        },
+        {
+          "documentIdentifier" : "BJNR002620964BJNE000600317",
+          "paragraph" : "§ 5",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

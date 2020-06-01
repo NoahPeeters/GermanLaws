@@ -1,0 +1,59 @@
+{
+  "documentIdentifier" : "BJNR313800017",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR313800017Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR313800017BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Portalverbund für digitale Verwaltungsleistungen"
+        },
+        {
+          "documentIdentifier" : "BJNR313800017BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR313800017BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Ziel des Portalverbundes; Nutzerkonten"
+        },
+        {
+          "documentIdentifier" : "BJNR313800017BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Elektronische Abwicklung von Verwaltungsverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR313800017BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "IT-Sicherheit"
+        },
+        {
+          "documentIdentifier" : "BJNR313800017BJNE000600000",
+          "paragraph" : "§ 6",
+          "title" : "Kommunikationsstandards"
+        },
+        {
+          "documentIdentifier" : "BJNR313800017BJNE000700000",
+          "paragraph" : "§ 7",
+          "title" : "Für die Nutzerkonten zuständige Stelle"
+        },
+        {
+          "documentIdentifier" : "BJNR313800017BJNE000800000",
+          "paragraph" : "§ 8",
+          "title" : "Rechtsgrundlagen der Datenverarbeitung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

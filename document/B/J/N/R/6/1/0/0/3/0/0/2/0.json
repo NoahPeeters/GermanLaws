@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR610030020",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR610030020Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR610030020BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Verpflichtung zur Registrierung und Übermittlung intensivmedizinischer Behandlungskapazitäten"
+        },
+        {
+          "documentIdentifier" : "BJNR610030020BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Nachweispflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR610030020BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Sanktion"
+        },
+        {
+          "documentIdentifier" : "BJNR610030020BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

@@ -1,0 +1,391 @@
+{
+  "documentIdentifier" : "BJNR346510017",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR346510017BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR346510017BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR346510017BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR346510017BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Kreislaufwirtschaft von Klärschlamm, Klärschlammgemisch und Klärschlammkompost"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR346510017BJNG000200000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR346510017BJNG000300000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR346510017BJNE000500000",
+              "paragraph" : "§ 4",
+              "title" : "Bodenbezogene Untersuchungspflichten"
+            },
+            {
+              "documentIdentifier" : "BJNR346510017BJNE000600000",
+              "paragraph" : "§ 5",
+              "title" : "Klärschlammbezogene Untersuchungspflichten"
+            },
+            {
+              "documentIdentifier" : "BJNR346510017BJNE000700000",
+              "paragraph" : "§ 6",
+              "title" : "Beschränkte Klärschlammuntersuchung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Untersuchungspflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR346510017BJNG000400000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR346510017BJNE000800000",
+              "paragraph" : "§ 7",
+              "title" : "Bodenbezogene Grenzwerte"
+            },
+            {
+              "documentIdentifier" : "BJNR346510017BJNE000900000",
+              "paragraph" : "§ 8",
+              "title" : "Klärschlammbezogene Grenzwerte"
+            },
+            {
+              "documentIdentifier" : "BJNR346510017BJNE001000000",
+              "paragraph" : "§ 9",
+              "title" : "Rückstellprobe"
+            },
+            {
+              "documentIdentifier" : "BJNR346510017BJNE001100000",
+              "paragraph" : "§ 10",
+              "title" : "Analysefehler und Messtoleranzen"
+            },
+            {
+              "documentIdentifier" : "BJNR346510017BJNE001200000",
+              "paragraph" : "§ 11",
+              "title" : "Anforderungen an die Seuchen- und die Phytohygiene"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Grenzwerte; Seuchen- und Phytohygiene"
+        },
+        {
+          "documentIdentifier" : "BJNR346510017BJNG000500000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR346510017BJNE001300000",
+              "paragraph" : "§ 12",
+              "title" : "Abgabe von Klärschlamm"
+            },
+            {
+              "documentIdentifier" : "BJNR346510017BJNE001400000",
+              "paragraph" : "§ 13",
+              "title" : "Bereitstellung von Klärschlamm"
+            },
+            {
+              "documentIdentifier" : "BJNR346510017BJNE001500000",
+              "paragraph" : "§ 14",
+              "title" : "Auf- oder Einbringungsmenge"
+            },
+            {
+              "documentIdentifier" : "BJNR346510017BJNE001600000",
+              "paragraph" : "§ 15",
+              "title" : "Beschränkung der Klärschlammverwertung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Abgabe und Auf- oder Einbringung von Klärschlamm"
+        },
+        {
+          "documentIdentifier" : "BJNR346510017BJNG000600000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR346510017BJNE001700000",
+              "paragraph" : "§ 16",
+              "title" : "Anzeigeverfahren"
+            },
+            {
+              "documentIdentifier" : "BJNR346510017BJNE001800000",
+              "paragraph" : "§ 17",
+              "title" : "Lieferscheinverfahren bei bodenbezogener Klärschlammverwertung"
+            },
+            {
+              "documentIdentifier" : "BJNR346510017BJNE001900000",
+              "paragraph" : "§ 18",
+              "title" : "Lieferscheinverfahren bei bodenbezogener Verwertung von Klärschlammgemisch und Klärschlammkompost"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Anzeige- und Lieferscheinverfahren"
+        }
+      ],
+      "title" : "Anforderungen an die Verwertung von Klärschlamm, Klärschlammgemisch und Klärschlammkompost auf und in Böden"
+    },
+    {
+      "documentIdentifier" : "BJNR346510017BJNG000700000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR346510017BJNE002000000",
+          "paragraph" : "§ 19",
+          "title" : "Regelmäßige Qualitätssicherung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR346510017BJNG000800000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR346510017BJNE002100000",
+              "paragraph" : "§ 20",
+              "title" : "Anerkennung des Trägers der Qualitätssicherung"
+            },
+            {
+              "documentIdentifier" : "BJNR346510017BJNE002200000",
+              "paragraph" : "§ 21",
+              "title" : "Pflichten des Trägers der Qualitätssicherung"
+            },
+            {
+              "documentIdentifier" : "BJNR346510017BJNE002300000",
+              "paragraph" : "§ 22",
+              "title" : "Sachverständige"
+            },
+            {
+              "documentIdentifier" : "BJNR346510017BJNE002400000",
+              "paragraph" : "§ 23",
+              "title" : "Unabhängiger Ausschuss beim Träger der Qualitätssicherung"
+            },
+            {
+              "documentIdentifier" : "BJNR346510017BJNE002500000",
+              "paragraph" : "§ 24",
+              "title" : "Behördliche Überwachung des Trägers der Qualitätssicherung"
+            },
+            {
+              "documentIdentifier" : "BJNR346510017BJNE002600000",
+              "paragraph" : "§ 25",
+              "title" : "Widerruf der Anerkennung; Auflösung des Trägers der Qualitätssicherung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Träger der Qualitätssicherung"
+        },
+        {
+          "documentIdentifier" : "BJNR346510017BJNG000900000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR346510017BJNE002700000",
+              "paragraph" : "§ 26",
+              "title" : "Anforderungen an die Zuverlässigkeit sowie an die Fach- und Sachkunde des Qualitätszeichennehmers"
+            },
+            {
+              "documentIdentifier" : "BJNR346510017BJNE002800000",
+              "paragraph" : "§ 27",
+              "title" : "Antrag auf Erteilung des Qualitätszeichens"
+            },
+            {
+              "documentIdentifier" : "BJNR346510017BJNE002900000",
+              "paragraph" : "§ 28",
+              "title" : "Nachweis der Erfüllung der Anforderungen der regelmäßigen Qualitätssicherung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Qualitätszeichennehmer"
+        },
+        {
+          "documentIdentifier" : "BJNR346510017BJNG001000000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR346510017BJNE003000000",
+              "paragraph" : "§ 29",
+              "title" : "Fortlaufende Überwachung"
+            },
+            {
+              "documentIdentifier" : "BJNR346510017BJNE003100000",
+              "paragraph" : "§ 30",
+              "title" : "Anforderungen an die Eigen- und die Fremdüberwachung in der fortlaufenden Überwachung"
+            },
+            {
+              "documentIdentifier" : "BJNR346510017BJNE003200000",
+              "paragraph" : "§ 31",
+              "title" : "Abweichende Regelungen bei Abgabe eines qualitätsgesicherten Klärschlamms, Klärschlammgemischs oder Klärschlammkomposts"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Fortlaufende Überwachung nach Erteilung des Qualitätszeichens"
+        },
+        {
+          "documentIdentifier" : "BJNR346510017BJNG001100000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR346510017BJNE003300000",
+              "paragraph" : "§ 32",
+              "title" : "Probenuntersuchung"
+            },
+            {
+              "documentIdentifier" : "BJNR346510017BJNE003400000",
+              "paragraph" : "§ 33",
+              "title" : "Unabhängige Untersuchungsstellen"
+            },
+            {
+              "documentIdentifier" : "BJNR346510017BJNE003500000",
+              "paragraph" : "§ 34",
+              "title" : "Registerführung"
+            },
+            {
+              "documentIdentifier" : "BJNR346510017BJNE003600000",
+              "paragraph" : "§ 35",
+              "title" : "Auf- oder Einbringungsplan"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Gemeinsame Bestimmungen zur Probenuntersuchung und zur Registerführung"
+        },
+        {
+          "documentIdentifier" : "BJNR346510017BJNG001200000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR346510017BJNE003700000",
+              "paragraph" : "§ 36",
+              "title" : "Ordnungswidrigkeiten"
+            },
+            {
+              "documentIdentifier" : "BJNR346510017BJNE003800000",
+              "paragraph" : "§ 37",
+              "title" : "Bereits erteilte Qualitätszeichen"
+            },
+            {
+              "documentIdentifier" : "BJNR346510017BJNE003900000",
+              "paragraph" : "§ 38",
+              "title" : "Verwendung vorliegender Untersuchungsergebnisse"
+            },
+            {
+              "documentIdentifier" : "BJNR346510017BJNE004000000",
+              "paragraph" : "§ 39",
+              "title" : "Bestehende Untersuchungsstellen"
+            },
+            {
+              "documentIdentifier" : "BJNR346510017BJNE004100000",
+              "paragraph" : "Anlage 1",
+              "title" : "(zu § 8 Absatz 1)"
+            },
+            {
+              "documentIdentifier" : "BJNR346510017BJNE004200000",
+              "paragraph" : "Anlage 2",
+              "title" : "(zu § 32 Absatz 2 und 3)"
+            },
+            {
+              "documentIdentifier" : "BJNR346510017BJNE004300000",
+              "paragraph" : "Anlage 3",
+              "title" : "(zu § 16 Absatz 3, § 17 Absatz 1, 3 und 4 und § 18 Absatz 1, 3 und 4)"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              5
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Schlussbestimmungen"
+        }
+      ],
+      "title" : "Anforderungen an die regelmäßige Qualitätssicherung"
+    }
+  ]
+}

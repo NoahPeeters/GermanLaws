@@ -1,0 +1,59 @@
+{
+  "documentIdentifier" : "BJNR310700001",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR310700001Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR310700001BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR310700001BJNE000201116",
+          "paragraph" : "§ 2",
+          "title" : "Kennzeichnung"
+        },
+        {
+          "documentIdentifier" : "BJNR310700001BJNE000301116",
+          "paragraph" : "§ 3",
+          "title" : "Verkehrsverbote"
+        },
+        {
+          "documentIdentifier" : "BJNR310700001BJNE000401320",
+          "paragraph" : "§ 4",
+          "title" : "Analysenmethoden"
+        },
+        {
+          "documentIdentifier" : "BJNR310700001BJNE000501310",
+          "paragraph" : "§ 5",
+          "title" : "Straftaten und Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR310700001BJNE000600000",
+          "paragraph" : "§ 6",
+          "title" : "Übergangsregelung"
+        },
+        {
+          "documentIdentifier" : "BJNR310700001BJNE000801116",
+          "paragraph" : "§ 7",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR310700001BJNE001000000",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 1 und § 2)\n"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

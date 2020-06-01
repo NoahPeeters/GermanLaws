@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR350300002",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR350300002Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR350300002BJNE000102116",
+          "paragraph" : "§ 1",
+          "title" : "Gebühren und Auslagen"
+        },
+        {
+          "documentIdentifier" : "BJNR350300002BJNE000201116",
+          "paragraph" : "§ 2",
+          "title" : "Widerspruch"
+        },
+        {
+          "documentIdentifier" : "BJNR350300002BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Zurückweisung oder Zurücknahme eines ausschließlich gegen eine\nFestsetzung von Gebühren oder Auslagen gerichteten Widerspruchs"
+        },
+        {
+          "documentIdentifier" : "BJNR350300002BJNE000401116",
+          "paragraph" : "§ 4",
+          "title" : "Widerruf und Rücknahme eines Verwaltungsaktes, Ablehnung und Rücknahme von Anträgen"
+        },
+        {
+          "documentIdentifier" : "BJNR350300002BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Zulassungsentscheidungen ohne mündliche Prüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR350300002BJNE000600000",
+          "paragraph" : "§ 6",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR350300002BJNE000704116",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 1 Absatz 1)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

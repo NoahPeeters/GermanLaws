@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR270700009",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR270700009Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR270700009BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Einrichtung eines Zentrums für Krebsregisterdaten"
+        },
+        {
+          "documentIdentifier" : "BJNR270700009BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Aufgaben"
+        },
+        {
+          "documentIdentifier" : "BJNR270700009BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Datenübermittlung"
+        },
+        {
+          "documentIdentifier" : "BJNR270700009BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Kontrollnummer, Datenabgleich"
+        },
+        {
+          "documentIdentifier" : "BJNR270700009BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Datennutzung"
+        },
+        {
+          "documentIdentifier" : "BJNR270700009BJNE000600000",
+          "paragraph" : "§ 6",
+          "title" : "Zusammenarbeit des Zentrums für Krebsregisterdaten mit den Landeskrebsregistern"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

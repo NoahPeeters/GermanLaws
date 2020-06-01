@@ -1,0 +1,69 @@
+{
+  "documentIdentifier" : "BJNR008050964",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR008050964BJNG000100314",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Art 1"
+    },
+    {
+      "documentIdentifier" : "BJNR008050964BJNG000200314",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Art 2"
+    },
+    {
+      "documentIdentifier" : "BJNR008050964BJNG000300314",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Art 3"
+    },
+    {
+      "documentIdentifier" : "BJNR008050964BJNG000400314",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR008050964BJNE000700314",
+          "paragraph" : "Anlage",
+          "title" : "zum Vierten Gesetz zur Änderung des Zollgesetzes vom 9. September 1964"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Art 4"
+    }
+  ]
+}

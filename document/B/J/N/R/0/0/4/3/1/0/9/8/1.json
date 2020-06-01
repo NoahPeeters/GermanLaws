@@ -1,0 +1,97 @@
+{
+  "documentIdentifier" : "BJNR004310981",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR004310981BJNG000103308",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR004310981BJNE000508119",
+          "paragraph" : "§ 1",
+          "title" : "Gestaltung des Ausweises"
+        },
+        {
+          "documentIdentifier" : "BJNR004310981BJNE000605308",
+          "paragraph" : "§ 2",
+          "title" : "Zugehörigkeit zu Sondergruppen"
+        },
+        {
+          "documentIdentifier" : "BJNR004310981BJNE000710119",
+          "paragraph" : "§ 3",
+          "title" : "Weitere Merkzeichen"
+        },
+        {
+          "documentIdentifier" : "BJNR004310981BJNE001907119",
+          "paragraph" : "§ 3a",
+          "title" : "Beiblatt"
+        },
+        {
+          "documentIdentifier" : "BJNR004310981BJNE000805308",
+          "paragraph" : "§ 4",
+          "title" : "Sonstige Eintragungen"
+        },
+        {
+          "documentIdentifier" : "BJNR004310981BJNE000904308",
+          "paragraph" : "§ 5",
+          "title" : "Lichtbild"
+        },
+        {
+          "documentIdentifier" : "BJNR004310981BJNE001009119",
+          "paragraph" : "§ 6",
+          "title" : "Gültigkeitsdauer"
+        },
+        {
+          "documentIdentifier" : "BJNR004310981BJNE001110119",
+          "paragraph" : "§ 7",
+          "title" : "Verwaltungsverfahren"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Ausweis für schwerbehinderte Menschen"
+    },
+    {
+      "documentIdentifier" : "BJNR004310981BJNG000202308",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR004310981BJNE001206308",
+          "paragraph" : "§ 8",
+          "title" : "Ausweis für sonstige freifahrtberechtigte Personen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Ausweis für sonstige Personen zur unentgeltlichen Beförderung im öffentlichen Personenverkehr"
+    },
+    {
+      "documentIdentifier" : "BJNR004310981BJNG000303308",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR004310981BJNE001306308",
+          "paragraph" : "§ 9",
+          "title" : "Übergangsregelung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übergangsregelung"
+    }
+  ]
+}

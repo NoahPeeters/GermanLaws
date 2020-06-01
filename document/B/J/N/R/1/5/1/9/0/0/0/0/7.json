@@ -1,0 +1,363 @@
+{
+  "documentIdentifier" : "BJNR151900007",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR151900007BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR151900007BJNE000302360",
+          "paragraph" : "§ 1",
+          "title" : "Zweck und Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR151900007BJNE000402360",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR151900007BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR151900007BJNE000503118",
+          "paragraph" : "§ 3",
+          "title" : "Anforderungen an Wohngebäude"
+        },
+        {
+          "documentIdentifier" : "BJNR151900007BJNE000601377",
+          "paragraph" : "§ 4",
+          "title" : "Anforderungen an Nichtwohngebäude"
+        },
+        {
+          "documentIdentifier" : "BJNR151900007BJNE000702360",
+          "paragraph" : "§ 5",
+          "title" : "Anrechnung von Strom aus erneuerbaren Energien"
+        },
+        {
+          "documentIdentifier" : "BJNR151900007BJNE000802360",
+          "paragraph" : "§ 6",
+          "title" : "Dichtheit, Mindestluftwechsel"
+        },
+        {
+          "documentIdentifier" : "BJNR151900007BJNE000901377",
+          "paragraph" : "§ 7",
+          "title" : "Mindestwärmeschutz, Wärmebrücken"
+        },
+        {
+          "documentIdentifier" : "BJNR151900007BJNE001001377",
+          "paragraph" : "§ 8",
+          "title" : "Anforderungen an kleine Gebäude und Gebäude aus Raumzellen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Zu errichtende Gebäude"
+    },
+    {
+      "documentIdentifier" : "BJNR151900007BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR151900007BJNE001103118",
+          "paragraph" : "§ 9",
+          "title" : "Änderung, Erweiterung und Ausbau von Gebäuden"
+        },
+        {
+          "documentIdentifier" : "BJNR151900007BJNE001202360",
+          "paragraph" : "§ 10",
+          "title" : "Nachrüstung bei Anlagen und Gebäuden"
+        },
+        {
+          "documentIdentifier" : "BJNR151900007BJNE004601360",
+          "paragraph" : "§ 10a",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR151900007BJNE001301360",
+          "paragraph" : "§ 11",
+          "title" : "Aufrechterhaltung der energetischen Qualität"
+        },
+        {
+          "documentIdentifier" : "BJNR151900007BJNE001402360",
+          "paragraph" : "§ 12",
+          "title" : "Energetische Inspektion von Klimaanlagen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Bestehende Gebäude und Anlagen"
+    },
+    {
+      "documentIdentifier" : "BJNR151900007BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR151900007BJNE001503360",
+          "paragraph" : "§ 13",
+          "title" : "Inbetriebnahme von Heizkesseln"
+        },
+        {
+          "documentIdentifier" : "BJNR151900007BJNE001601360",
+          "paragraph" : "§ 14",
+          "title" : "Verteilungseinrichtungen und Warmwasseranlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR151900007BJNE001702360",
+          "paragraph" : "§ 15",
+          "title" : "Klimaanlagen und sonstige Anlagen der Raumlufttechnik"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Anlagen der Heizungs-, Kühl- und Raumlufttechnik sowie der Warmwasserversorgung"
+    },
+    {
+      "documentIdentifier" : "BJNR151900007BJNG000500000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR151900007BJNE001802360",
+          "paragraph" : "§ 16",
+          "title" : "Ausstellung und Verwendung von Energieausweisen"
+        },
+        {
+          "documentIdentifier" : "BJNR151900007BJNE005000360",
+          "paragraph" : "§ 16a",
+          "title" : "Pflichtangaben in Immobilienanzeigen"
+        },
+        {
+          "documentIdentifier" : "BJNR151900007BJNE001902360",
+          "paragraph" : "§ 17",
+          "title" : "Grundsätze des Energieausweises"
+        },
+        {
+          "documentIdentifier" : "BJNR151900007BJNE002002360",
+          "paragraph" : "§ 18",
+          "title" : "Ausstellung auf der Grundlage des Energiebedarfs"
+        },
+        {
+          "documentIdentifier" : "BJNR151900007BJNE002103118",
+          "paragraph" : "§ 19",
+          "title" : "Ausstellung auf der Grundlage des Energieverbrauchs"
+        },
+        {
+          "documentIdentifier" : "BJNR151900007BJNE002202118",
+          "paragraph" : "§ 20",
+          "title" : "Empfehlungen für die Verbesserung der Energieeffizienz"
+        },
+        {
+          "documentIdentifier" : "BJNR151900007BJNE002302360",
+          "paragraph" : "§ 21",
+          "title" : "Ausstellungsberechtigung für bestehende Gebäude"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Energieausweise und Empfehlungen für die Verbesserung der Energieeffizienz"
+    },
+    {
+      "documentIdentifier" : "BJNR151900007BJNG000600000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR151900007BJNE002401377",
+          "paragraph" : "§ 22",
+          "title" : "Gemischt genutzte Gebäude"
+        },
+        {
+          "documentIdentifier" : "BJNR151900007BJNE002503118",
+          "paragraph" : "§ 23",
+          "title" : "Regeln der Technik"
+        },
+        {
+          "documentIdentifier" : "BJNR151900007BJNE002600000",
+          "paragraph" : "§ 24",
+          "title" : "Ausnahmen"
+        },
+        {
+          "documentIdentifier" : "BJNR151900007BJNE002702360",
+          "paragraph" : "§ 25",
+          "title" : "Befreiungen"
+        },
+        {
+          "documentIdentifier" : "BJNR151900007BJNE005500118",
+          "paragraph" : "§ 25a",
+          "title" : "Gebäude für die Unterbringung von Asylsuchenden und Flüchtlingen"
+        },
+        {
+          "documentIdentifier" : "BJNR151900007BJNE002801377",
+          "paragraph" : "§ 26",
+          "title" : "Verantwortliche"
+        },
+        {
+          "documentIdentifier" : "BJNR151900007BJNE004701360",
+          "paragraph" : "§ 26a",
+          "title" : "Private Nachweise"
+        },
+        {
+          "documentIdentifier" : "BJNR151900007BJNE004801360",
+          "paragraph" : "§ 26b",
+          "title" : "Aufgaben des bevollmächtigten Bezirksschornsteinfegers"
+        },
+        {
+          "documentIdentifier" : "BJNR151900007BJNE005100360",
+          "paragraph" : "§ 26c",
+          "title" : "Registriernummern"
+        },
+        {
+          "documentIdentifier" : "BJNR151900007BJNE005200360",
+          "paragraph" : "§ 26d",
+          "title" : "Stichprobenkontrollen von Energieausweisen und Inspektionsberichten über Klimaanlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR151900007BJNE005300360",
+          "paragraph" : "§ 26e",
+          "title" : "Nicht personenbezogene Auswertung von Daten"
+        },
+        {
+          "documentIdentifier" : "BJNR151900007BJNE005400360",
+          "paragraph" : "§ 26f",
+          "title" : "Erfahrungsberichte der Länder"
+        },
+        {
+          "documentIdentifier" : "BJNR151900007BJNE002903360",
+          "paragraph" : "§ 27",
+          "title" : "Ordnungswidrigkeiten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gemeinsame Vorschriften, Ordnungswidrigkeiten"
+    },
+    {
+      "documentIdentifier" : "BJNR151900007BJNG000700000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR151900007BJNE003002360",
+          "paragraph" : "§ 28",
+          "title" : "Allgemeine Übergangsvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR151900007BJNE003103118",
+          "paragraph" : "§ 29",
+          "title" : "Übergangsvorschriften für Energieausweise und Aussteller"
+        },
+        {
+          "documentIdentifier" : "BJNR151900007BJNE003202360",
+          "paragraph" : "§ 30",
+          "title" : "Übergangsvorschrift über die vorläufige Wahrnehmung von Vollzugsaufgaben der Länder durch das Deutsche Institut für Bautechnik"
+        },
+        {
+          "documentIdentifier" : "BJNR151900007BJNE003300000",
+          "paragraph" : "§ 31",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR151900007BJNE003502360",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu den §§ 3 und 9)"
+        },
+        {
+          "documentIdentifier" : "BJNR151900007BJNE003602360",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu den §§ 4 und 9)"
+        },
+        {
+          "documentIdentifier" : "BJNR151900007BJNE003703360",
+          "paragraph" : "Anlage 3",
+          "title" : "(zu den §§ 8 und 9)"
+        },
+        {
+          "documentIdentifier" : "BJNR151900007BJNE003802360",
+          "paragraph" : "Anlage 4",
+          "title" : "(zu § 6 Absatz 1)"
+        },
+        {
+          "documentIdentifier" : "BJNR151900007BJNE004902360",
+          "paragraph" : "Anlage 4a",
+          "title" : "(zu § 13 Absatz 2)"
+        },
+        {
+          "documentIdentifier" : "BJNR151900007BJNE003902360",
+          "paragraph" : "Anlage 5",
+          "title" : "(zu § 10 Absatz 2, § 14 Absatz 5 und § 15 Absatz 4) Anforderungen an die Wärmedämmung von Rohrleitungen und Armaturen"
+        },
+        {
+          "documentIdentifier" : "BJNR151900007BJNE004002360",
+          "paragraph" : "Anlage 6",
+          "title" : "(zu § 16)"
+        },
+        {
+          "documentIdentifier" : "BJNR151900007BJNE004103118",
+          "paragraph" : "Anlage 7",
+          "title" : "(zu § 16)"
+        },
+        {
+          "documentIdentifier" : "BJNR151900007BJNE004202360",
+          "paragraph" : "Anlage 8",
+          "title" : "(zu § 16)"
+        },
+        {
+          "documentIdentifier" : "BJNR151900007BJNE004302360",
+          "paragraph" : "Anlage 9",
+          "title" : "(zu § 16)"
+        },
+        {
+          "documentIdentifier" : "BJNR151900007BJNE004402360",
+          "paragraph" : "Anlage 10",
+          "title" : "Einteilung in Energieeffizienzklassen"
+        },
+        {
+          "documentIdentifier" : "BJNR151900007BJNE004502360",
+          "paragraph" : "Anlage 11",
+          "title" : "(zu § 21 Abs. 2 Nr. 2)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussvorschriften"
+    }
+  ]
+}

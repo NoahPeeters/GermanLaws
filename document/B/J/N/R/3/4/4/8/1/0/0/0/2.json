@@ -1,0 +1,69 @@
+{
+  "documentIdentifier" : "BJNR344810002",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR344810002Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR344810002BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Zweck des Gesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR344810002BJNE000201119",
+          "paragraph" : "§ 2",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR344810002BJNE000301119",
+          "paragraph" : "§ 3",
+          "title" : "Preisbindung"
+        },
+        {
+          "documentIdentifier" : "BJNR344810002BJNE000401119",
+          "paragraph" : "§ 4",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR344810002BJNE000501119",
+          "paragraph" : "§ 5",
+          "title" : "Preisfestsetzung"
+        },
+        {
+          "documentIdentifier" : "BJNR344810002BJNE000600000",
+          "paragraph" : "§ 6",
+          "title" : "Vertrieb"
+        },
+        {
+          "documentIdentifier" : "BJNR344810002BJNE000702377",
+          "paragraph" : "§ 7",
+          "title" : "Ausnahmen"
+        },
+        {
+          "documentIdentifier" : "BJNR344810002BJNE000801377",
+          "paragraph" : "§ 8",
+          "title" : "Dauer der Preisbindung"
+        },
+        {
+          "documentIdentifier" : "BJNR344810002BJNE000900000",
+          "paragraph" : "§ 9",
+          "title" : "Schadensersatz- und Unterlassungsansprüche"
+        },
+        {
+          "documentIdentifier" : "BJNR344810002BJNE001000000",
+          "paragraph" : "§ 10",
+          "title" : "Bucheinsicht"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

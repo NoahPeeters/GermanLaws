@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR012190970",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR012190970Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR012190970BJNE000100326",
+          "paragraph" : "I.",
+          "title" : "Festsetzungs- und Regelungsbehörden"
+        },
+        {
+          "documentIdentifier" : "BJNR012190970BJNE000200326",
+          "paragraph" : "II.",
+          "title" : "Dienstunfallversorgung"
+        },
+        {
+          "documentIdentifier" : "BJNR012190970BJNE000300326",
+          "paragraph" : "III.",
+          "title" : "Übertragung von Zuständigkeiten kraft besonderer Ermächtigung"
+        },
+        {
+          "documentIdentifier" : "BJNR012190970BJNE000400326",
+          "paragraph" : "IV.",
+          "title" : "Vorbehaltsklausel"
+        },
+        {
+          "documentIdentifier" : "BJNR012190970BJNE000500326",
+          "paragraph" : "V.",
+          "title" : "Übergangsvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR012190970BJNE000600326",
+          "paragraph" : "VI.",
+          "title" : "Schlußvorschriften"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

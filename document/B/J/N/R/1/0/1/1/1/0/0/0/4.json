@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR101110004",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR101110004Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR101110004BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR101110004BJNE000201116",
+          "paragraph" : "§ 2",
+          "title" : "Abgabe in Verpackungen"
+        },
+        {
+          "documentIdentifier" : "BJNR101110004BJNE000302116",
+          "paragraph" : "§ 3",
+          "title" : "Zugelassene Stoffe"
+        },
+        {
+          "documentIdentifier" : "BJNR101110004BJNE000402116",
+          "paragraph" : "§ 4",
+          "title" : "Kennzeichnung"
+        },
+        {
+          "documentIdentifier" : "BJNR101110004BJNE000504116",
+          "paragraph" : "§ 5",
+          "title" : "Anzeige"
+        },
+        {
+          "documentIdentifier" : "BJNR101110004BJNE000602116",
+          "paragraph" : "§ 6",
+          "title" : "Straftaten und Ordnungswidrigkeiten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

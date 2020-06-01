@@ -1,0 +1,510 @@
+{
+  "documentIdentifier" : "BJNR337800994",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR337800994BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR337800994BJNE000300000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Anwendungsbereich"
+    },
+    {
+      "documentIdentifier" : "BJNR337800994BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR337800994BJNE000500000",
+          "paragraph" : "§ 2",
+          "title" : "Formblätter"
+        },
+        {
+          "documentIdentifier" : "BJNR337800994BJNE000600000",
+          "paragraph" : "§ 3",
+          "title" : "Zusammenfassung von Posten"
+        },
+        {
+          "documentIdentifier" : "BJNR337800994BJNE000700000",
+          "paragraph" : "§ 4",
+          "title" : "Davon-Vermerke"
+        },
+        {
+          "documentIdentifier" : "BJNR337800994BJNE000800000",
+          "paragraph" : "§ 5",
+          "title" : "Zusätze"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Bilanz und Gewinn- und Verlustrechnung"
+    },
+    {
+      "documentIdentifier" : "BJNR337800994BJNG000900000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR337800994BJNG001000000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR337800994BJNE001001140",
+              "paragraph" : "§ 6",
+              "title" : "Immaterielle Vermögensgegenstände"
+            },
+            {
+              "documentIdentifier" : "BJNR337800994BJNE001101360",
+              "paragraph" : "§ 7",
+              "title" : "Aktien, Anteile oder Aktien an Investmentvermögen und andere nicht festverzinsliche Wertpapiere"
+            },
+            {
+              "documentIdentifier" : "BJNR337800994BJNE001200000",
+              "paragraph" : "§ 8",
+              "title" : "Inhaberschuldverschreibungen und andere festverzinsliche\nWertpapiere"
+            },
+            {
+              "documentIdentifier" : "BJNR337800994BJNE001300000",
+              "paragraph" : "§ 9",
+              "title" : "Hypotheken-, Grundschuld- und Rentenschuldforderungen"
+            },
+            {
+              "documentIdentifier" : "BJNR337800994BJNE001401377",
+              "paragraph" : "§ 10",
+              "title" : "Sonstige Ausleihungen"
+            },
+            {
+              "documentIdentifier" : "BJNR337800994BJNE001501377",
+              "paragraph" : "§ 11",
+              "title" : "Einlagen bei Kreditinstituten"
+            },
+            {
+              "documentIdentifier" : "BJNR337800994BJNE001600000",
+              "paragraph" : "§ 12",
+              "title" : "Andere Kapitalanlagen"
+            },
+            {
+              "documentIdentifier" : "BJNR337800994BJNE001700000",
+              "paragraph" : "§ 13",
+              "title" : "Depotforderungen aus dem in Rückdeckung übernommenen\nVersicherungsgeschäft"
+            },
+            {
+              "documentIdentifier" : "BJNR337800994BJNE001800000",
+              "paragraph" : "§ 14",
+              "title" : "Kapitalanlagen für Rechnung und Risiko von Inhabern\nvon Lebensversicherungspolicen"
+            },
+            {
+              "documentIdentifier" : "BJNR337800994BJNE001900000",
+              "paragraph" : "§ 15",
+              "title" : "Forderungen aus dem selbst abgeschlossenen Versicherungsgeschäft"
+            },
+            {
+              "documentIdentifier" : "BJNR337800994BJNE002000000",
+              "paragraph" : "§ 16",
+              "title" : "Abrechnungsforderungen aus dem Rückversicherungsgeschäft"
+            },
+            {
+              "documentIdentifier" : "BJNR337800994BJNE002100000",
+              "paragraph" : "§ 17",
+              "title" : "Sonstige Forderungen"
+            },
+            {
+              "documentIdentifier" : "BJNR337800994BJNE002200000",
+              "paragraph" : "§ 18",
+              "title" : "Sachanlagen und Vorräte"
+            },
+            {
+              "documentIdentifier" : "BJNR337800994BJNE002300000",
+              "paragraph" : "§ 19",
+              "title" : "Andere Vermögensgegenstände"
+            },
+            {
+              "documentIdentifier" : "BJNR337800994BJNE002400000",
+              "paragraph" : "§ 20",
+              "title" : "Abgegrenzte Zinsen und Mieten"
+            },
+            {
+              "documentIdentifier" : "BJNR337800994BJNE002500000",
+              "paragraph" : "§ 21",
+              "title" : "Ausgleichsbetrag"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Posten der Aktivseite"
+        },
+        {
+          "documentIdentifier" : "BJNR337800994BJNG002600000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR337800994BJNE002601377",
+              "paragraph" : "§ 22",
+              "title" : "Nachrangige Verbindlichkeiten"
+            },
+            {
+              "documentIdentifier" : "BJNR337800994BJNE002700000",
+              "paragraph" : "§ 23",
+              "title" : "Anteile für das in Rückdeckung gegebene Versicherungsgeschäft\nan den Bruttobeträgen der versicherungstechnischen\nRückstellungen"
+            },
+            {
+              "documentIdentifier" : "BJNR337800994BJNE002800000",
+              "paragraph" : "§ 24",
+              "title" : "Beitragsüberträge"
+            },
+            {
+              "documentIdentifier" : "BJNR337800994BJNE002902360",
+              "paragraph" : "§ 25",
+              "title" : "Deckungsrückstellung"
+            },
+            {
+              "documentIdentifier" : "BJNR337800994BJNE003000000",
+              "paragraph" : "§ 26",
+              "title" : "Rückstellung für noch nicht abgewickelte Versicherungsfälle"
+            },
+            {
+              "documentIdentifier" : "BJNR337800994BJNE003100000",
+              "paragraph" : "§ 27",
+              "title" : "Näherungs- und Vereinfachungsverfahren"
+            },
+            {
+              "documentIdentifier" : "BJNR337800994BJNE003202360",
+              "paragraph" : "§ 28",
+              "title" : "Rückstellung für erfolgsabhängige und erfolgsunabhängige Beitragsrückerstattung"
+            },
+            {
+              "documentIdentifier" : "BJNR337800994BJNE003300000",
+              "paragraph" : "§ 29",
+              "title" : "Schwankungsrückstellung"
+            },
+            {
+              "documentIdentifier" : "BJNR337800994BJNE003401377",
+              "paragraph" : "§ 30",
+              "title" : "Der Schwankungsrückstellung ähnliche Rückstellungen"
+            },
+            {
+              "documentIdentifier" : "BJNR337800994BJNE003501377",
+              "paragraph" : "§ 31",
+              "title" : "Sonstige versicherungstechnische Rückstellungen"
+            },
+            {
+              "documentIdentifier" : "BJNR337800994BJNE003600000",
+              "paragraph" : "§ 32",
+              "title" : "Versicherungstechnische Rückstellungen im Bereich\nder Lebensversicherung, wenn das Anlagerisiko\nvon den Versicherungsnehmern getragen wird"
+            },
+            {
+              "documentIdentifier" : "BJNR337800994BJNE003700000",
+              "paragraph" : "§ 33",
+              "title" : "Depotverbindlichkeiten aus dem in Rückdeckung\ngegebenen Versicherungsgeschäft"
+            },
+            {
+              "documentIdentifier" : "BJNR337800994BJNE003800000",
+              "paragraph" : "§ 34",
+              "title" : "Abrechnungsverbindlichkeiten aus dem Rückversicherungsgeschäft"
+            },
+            {
+              "documentIdentifier" : "BJNR337800994BJNE003900000",
+              "paragraph" : "§ 35",
+              "title" : "Ausgleichsbetrag"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Posten der Passivseite"
+        }
+      ],
+      "title" : "Vorschriften zu einzelnen Posten der Bilanz"
+    },
+    {
+      "documentIdentifier" : "BJNR337800994BJNG004000000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR337800994BJNE004100000",
+          "paragraph" : "§ 36",
+          "title" : "Gebuchte Bruttobeiträge"
+        },
+        {
+          "documentIdentifier" : "BJNR337800994BJNE004200000",
+          "paragraph" : "§ 37",
+          "title" : "Abgegebene Rückversicherungsbeiträge"
+        },
+        {
+          "documentIdentifier" : "BJNR337800994BJNE004300000",
+          "paragraph" : "§ 38",
+          "title" : "Technischer Zinsertrag für eigene Rechnung"
+        },
+        {
+          "documentIdentifier" : "BJNR337800994BJNE004400000",
+          "paragraph" : "§ 39",
+          "title" : "Nicht realisierte Gewinne aus Kapitalanlagen, nicht\nrealisierte Verluste aus Kapitalanlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR337800994BJNE004500000",
+          "paragraph" : "§ 40",
+          "title" : "Sonstige versicherungstechnische Erträge für eigene\nRechnung"
+        },
+        {
+          "documentIdentifier" : "BJNR337800994BJNE004600000",
+          "paragraph" : "§ 41",
+          "title" : "Aufwendungen für Versicherungsfälle für eigene Rechnung"
+        },
+        {
+          "documentIdentifier" : "BJNR337800994BJNE004700000",
+          "paragraph" : "§ 42",
+          "title" : "Aufwendungen für erfolgsabhängige und erfolgsunabhängige\nBeitragsrückerstattungen für eigene Rechnung"
+        },
+        {
+          "documentIdentifier" : "BJNR337800994BJNE004800000",
+          "paragraph" : "§ 43",
+          "title" : "Aufwendungen für den Versicherungsbetrieb für eigene\nRechnung"
+        },
+        {
+          "documentIdentifier" : "BJNR337800994BJNE004900000",
+          "paragraph" : "§ 44",
+          "title" : "Sonstige versicherungstechnische Aufwendungen für\neigene Rechnung"
+        },
+        {
+          "documentIdentifier" : "BJNR337800994BJNE005000000",
+          "paragraph" : "§ 45",
+          "title" : "Erträge aus Kapitalanlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR337800994BJNE005100000",
+          "paragraph" : "§ 46",
+          "title" : "Aufwendungen für Kapitalanlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR337800994BJNE005201140",
+          "paragraph" : "§ 47",
+          "title" : "Sonstige Erträge"
+        },
+        {
+          "documentIdentifier" : "BJNR337800994BJNE005301140",
+          "paragraph" : "§ 48",
+          "title" : "Sonstige Aufwendungen"
+        },
+        {
+          "documentIdentifier" : "BJNR337800994BJNE005400000",
+          "paragraph" : "§ 49",
+          "title" : "Sonstige Steuern"
+        },
+        {
+          "documentIdentifier" : "BJNR337800994BJNE005500000",
+          "paragraph" : "§ 50",
+          "title" : "Ausgleichsposten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Vorschriften zu einzelnen Posten der Gewinn- und Verlustrechnung"
+    },
+    {
+      "documentIdentifier" : "BJNR337800994BJNG005600000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR337800994BJNE005708360",
+          "paragraph" : "§ 51",
+          "title" : "Zusätzliche Erläuterungen"
+        },
+        {
+          "documentIdentifier" : "BJNR337800994BJNE005801360",
+          "paragraph" : "§ 52",
+          "title" : "Zusätzliche Pflichtangaben"
+        },
+        {
+          "documentIdentifier" : "BJNR337800994BJNE005900000",
+          "paragraph" : "§ 53",
+          "title" : "Versicherungsunternehmen, die im selbst abgeschlossenen\nVersicherungsgeschäft mehrere Geschäftszweige\nbetreiben"
+        },
+        {
+          "documentIdentifier" : "BJNR337800994BJNE006001377",
+          "paragraph" : "§ 54",
+          "title" : "Zeitwert der Kapitalanlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR337800994BJNE006101140",
+          "paragraph" : "§ 55",
+          "title" : "Zeitwert der Grundstücke, grundstücksgleichen Rechte und Bauten einschließlich der Bauten auf fremden Grundstücken"
+        },
+        {
+          "documentIdentifier" : "BJNR337800994BJNE006200000",
+          "paragraph" : "§ 56",
+          "title" : "Zeitwert der übrigen Kapitalanlagen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Anhang"
+    },
+    {
+      "documentIdentifier" : "BJNR337800994BJNG006300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR337800994BJNE006401377",
+          "paragraph" : "§ 57",
+          "title" : "Lagebericht"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Lagebericht"
+    },
+    {
+      "documentIdentifier" : "BJNR337800994BJNG006500000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR337800994BJNE006600000",
+          "paragraph" : "§ 58",
+          "title" : "Konzernbilanz und Konzern-Gewinn- und Verlustrechnung"
+        },
+        {
+          "documentIdentifier" : "BJNR337800994BJNE006703360",
+          "paragraph" : "§ 59",
+          "title" : "Konzernanhang"
+        },
+        {
+          "documentIdentifier" : "BJNR337800994BJNE006800000",
+          "paragraph" : "§ 60",
+          "title" : "Konzernlagebericht"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Konzernrechnungslegung"
+    },
+    {
+      "documentIdentifier" : "BJNR337800994BJNG006900000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR337800994BJNE007003360",
+          "paragraph" : "§ 61",
+          "title" : "Befreiungen"
+        },
+        {
+          "documentIdentifier" : "BJNR337800994BJNE007101360",
+          "paragraph" : "§ 62",
+          "title" : "Vereinfachungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          8
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Befreiungen und Vereinfachungen für bestimmte Versicherungsunternehmen"
+    },
+    {
+      "documentIdentifier" : "BJNR337800994BJNG007200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR337800994BJNE007300000",
+          "paragraph" : "§ 63",
+          "title" : "Ordnungswidrigkeiten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          9
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Ordnungswidrigkeiten"
+    },
+    {
+      "documentIdentifier" : "BJNR337800994BJNG007400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR337800994BJNE007515360",
+          "paragraph" : "§ 64",
+          "title" : "Übergangsvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR337800994BJNE007600000",
+          "paragraph" : "§ 65",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR337800994BJNE007804377",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 29)"
+        },
+        {
+          "documentIdentifier" : "BJNR337800994BJNE008702377",
+          "paragraph" : "Muster 5",
+          "title" : "Bewegung des Bestandes an Sterbegeldversicherungen, weiteren\nKapitalversicherungen und Zusatzversicherungen im Geschäftsjahr ..."
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          10
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlußvorschriften"
+    }
+  ]
+}

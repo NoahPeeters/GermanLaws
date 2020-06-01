@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR117000994",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR117000994Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR117000994BJNE000200307",
+          "paragraph" : "Art 1",
+          "title" : "Arbeitszeitgesetz (ArbZG)"
+        },
+        {
+          "documentIdentifier" : "BJNR117000994BJNE000400307",
+          "paragraph" : "Art 18",
+          "title" : "Rückkehr zum einheitlichen Verordnungsrang"
+        },
+        {
+          "documentIdentifier" : "BJNR117000994BJNE000500307",
+          "paragraph" : "Art 19",
+          "title" : "Aufhebung von Hausarbeitstagsregelungen"
+        },
+        {
+          "documentIdentifier" : "BJNR117000994BJNE000600307",
+          "paragraph" : "Art 20",
+          "title" : "Unanwendbarkeit von Maßgaben"
+        },
+        {
+          "documentIdentifier" : "BJNR117000994BJNE000700307",
+          "paragraph" : "Art 21",
+          "title" : "Inkrafttreten und Ablösung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

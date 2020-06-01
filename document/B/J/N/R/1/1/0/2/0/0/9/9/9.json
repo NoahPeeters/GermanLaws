@@ -1,0 +1,960 @@
+{
+  "documentIdentifier" : "BJNR110200999",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR110200999BJNG000201308",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR110200999BJNE000201308",
+          "paragraph" : "§ 1",
+          "title" : "Staatliche Anerkennung der Ausbildungsberufe"
+        },
+        {
+          "documentIdentifier" : "BJNR110200999BJNE000301308",
+          "paragraph" : "§ 2",
+          "title" : "Ausbildungsdauer"
+        },
+        {
+          "documentIdentifier" : "BJNR110200999BJNE000401308",
+          "paragraph" : "§ 3",
+          "title" : "Berufsfeldbreite Grundbildung und Zielsetzung der\nBerufsausbildung"
+        },
+        {
+          "documentIdentifier" : "BJNR110200999BJNE000501308",
+          "paragraph" : "§ 4",
+          "title" : "Berufsausbildung in überbetrieblichen Ausbildungsstätten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gemeinsame Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR110200999BJNG000500000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR110200999BJNG000601308",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR110200999BJNE000701308",
+              "paragraph" : "§ 5",
+              "title" : "Ausbildungsberufsbild"
+            },
+            {
+              "documentIdentifier" : "BJNR110200999BJNE000801308",
+              "paragraph" : "§ 6",
+              "title" : "Ausbildungsrahmenplan"
+            },
+            {
+              "documentIdentifier" : "BJNR110200999BJNE000901308",
+              "paragraph" : "§ 7",
+              "title" : "Ausbildungsplan"
+            },
+            {
+              "documentIdentifier" : "BJNR110200999BJNE001001308",
+              "paragraph" : "§ 8",
+              "title" : "Berichtsheft"
+            },
+            {
+              "documentIdentifier" : "BJNR110200999BJNE001101308",
+              "paragraph" : "§ 9",
+              "title" : "Zwischenprüfung"
+            },
+            {
+              "documentIdentifier" : "BJNR110200999BJNE001201308",
+              "paragraph" : "§ 10",
+              "title" : "Abschlussprüfung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Hochbaufacharbeiter\/Hochbaufacharbeiterin"
+        },
+        {
+          "documentIdentifier" : "BJNR110200999BJNG001300000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR110200999BJNE001400000",
+              "paragraph" : "§ 11",
+              "title" : "Ausbildungsberufsbild"
+            },
+            {
+              "documentIdentifier" : "BJNR110200999BJNE001500000",
+              "paragraph" : "§ 12",
+              "title" : "Ausbildungsrahmenplan"
+            },
+            {
+              "documentIdentifier" : "BJNR110200999BJNE001600000",
+              "paragraph" : "§ 13",
+              "title" : "Ausbildungsplan"
+            },
+            {
+              "documentIdentifier" : "BJNR110200999BJNE001700000",
+              "paragraph" : "§ 14",
+              "title" : "Berichtsheft"
+            },
+            {
+              "documentIdentifier" : "BJNR110200999BJNE001801308",
+              "paragraph" : "§ 15",
+              "title" : "Zwischenprüfung"
+            },
+            {
+              "documentIdentifier" : "BJNR110200999BJNE001901308",
+              "paragraph" : "§ 16",
+              "title" : "Abschlußprüfung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Ausbaufacharbeiter\/Ausbaufacharbeiterin"
+        },
+        {
+          "documentIdentifier" : "BJNR110200999BJNG002000000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR110200999BJNE002100000",
+              "paragraph" : "§ 17",
+              "title" : "Ausbildungsberufsbild"
+            },
+            {
+              "documentIdentifier" : "BJNR110200999BJNE002200000",
+              "paragraph" : "§ 18",
+              "title" : "Ausbildungsrahmenplan"
+            },
+            {
+              "documentIdentifier" : "BJNR110200999BJNE002300000",
+              "paragraph" : "§ 19",
+              "title" : "Ausbildungsplan"
+            },
+            {
+              "documentIdentifier" : "BJNR110200999BJNE002400000",
+              "paragraph" : "§ 20",
+              "title" : "Berichtsheft"
+            },
+            {
+              "documentIdentifier" : "BJNR110200999BJNE002501308",
+              "paragraph" : "§ 21",
+              "title" : "Zwischenprüfung"
+            },
+            {
+              "documentIdentifier" : "BJNR110200999BJNE002601308",
+              "paragraph" : "§ 22",
+              "title" : "Abschlußprüfung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Tiefbaufacharbeiter\/Tiefbaufacharbeiterin"
+        }
+      ],
+      "title" : "Vorschriften für die Ausbildungsberufe Hochbaufacharbeiter\/Hochbaufacharbeiterin, Ausbaufacharbeiter\/Ausbaufacharbeiterin und Tiefbaufacharbeiter\/Tiefbaufacharbeiterin"
+    },
+    {
+      "documentIdentifier" : "BJNR110200999BJNG002601308",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR110200999BJNG002700000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR110200999BJNE002800000",
+              "paragraph" : "§ 23",
+              "title" : "Ausbildungsberufsbild"
+            },
+            {
+              "documentIdentifier" : "BJNR110200999BJNE002900000",
+              "paragraph" : "§ 24",
+              "title" : "Ausbildungsrahmenplan"
+            },
+            {
+              "documentIdentifier" : "BJNR110200999BJNE003000000",
+              "paragraph" : "§ 25",
+              "title" : "Ausbildungsplan"
+            },
+            {
+              "documentIdentifier" : "BJNR110200999BJNE003100000",
+              "paragraph" : "§ 26",
+              "title" : "Berichtsheft"
+            },
+            {
+              "documentIdentifier" : "BJNR110200999BJNE003200000",
+              "paragraph" : "§ 27",
+              "title" : "Abschlußprüfung\/Gesellenprüfung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Maurer\/Maurerin"
+        },
+        {
+          "documentIdentifier" : "BJNR110200999BJNG003300000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR110200999BJNE003400000",
+              "paragraph" : "§ 28",
+              "title" : "Ausbildungsberufsbild"
+            },
+            {
+              "documentIdentifier" : "BJNR110200999BJNE003500000",
+              "paragraph" : "§ 29",
+              "title" : "Ausbildungsrahmenplan"
+            },
+            {
+              "documentIdentifier" : "BJNR110200999BJNE003600000",
+              "paragraph" : "§ 30",
+              "title" : "Ausbildungsplan"
+            },
+            {
+              "documentIdentifier" : "BJNR110200999BJNE003700000",
+              "paragraph" : "§ 31",
+              "title" : "Berichtsheft"
+            },
+            {
+              "documentIdentifier" : "BJNR110200999BJNE003800000",
+              "paragraph" : "§ 32",
+              "title" : "Abschlußprüfung\/Gesellenprüfung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Beton- und Stahlbetonbauer\/Beton- und Stahlbetonbauerin"
+        },
+        {
+          "documentIdentifier" : "BJNR110200999BJNG003900000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR110200999BJNE004000000",
+              "paragraph" : "§ 33",
+              "title" : "Ausbildungsberufsbild"
+            },
+            {
+              "documentIdentifier" : "BJNR110200999BJNE004100000",
+              "paragraph" : "§ 34",
+              "title" : "Ausbildungsrahmenplan"
+            },
+            {
+              "documentIdentifier" : "BJNR110200999BJNE004200000",
+              "paragraph" : "§ 35",
+              "title" : "Ausbildungsplan"
+            },
+            {
+              "documentIdentifier" : "BJNR110200999BJNE004300000",
+              "paragraph" : "§ 36",
+              "title" : "Berichtsheft"
+            },
+            {
+              "documentIdentifier" : "BJNR110200999BJNE004400000",
+              "paragraph" : "§ 37",
+              "title" : "Abschlußprüfung\/Gesellenprüfung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              3
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR110200999BJNG011700308",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR110200999BJNE014200308",
+                  "paragraph" : "§ 37a",
+                  "title" : "Ausbildungsberufsbild"
+                },
+                {
+                  "documentIdentifier" : "BJNR110200999BJNE014300308",
+                  "paragraph" : "§ 37b",
+                  "title" : "Ausbildungsrahmenplan"
+                },
+                {
+                  "documentIdentifier" : "BJNR110200999BJNE014400308",
+                  "paragraph" : "§ 37c",
+                  "title" : "Ausbildungsplan"
+                },
+                {
+                  "documentIdentifier" : "BJNR110200999BJNE014500308",
+                  "paragraph" : "§ 37d",
+                  "title" : "Berichtsheft"
+                },
+                {
+                  "documentIdentifier" : "BJNR110200999BJNE014600308",
+                  "paragraph" : "§ 37e",
+                  "title" : "Abschlussprüfung"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  3,
+                  3
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Bauwerksmechaniker für Abbruch und Betontrenntechnik\/Bauwerksmechanikerin für Abbruch und Betontrenntechnik"
+            }
+          ],
+          "title" : "Feuerungs- und Schornsteinbauer\/Feuerungs- und Schornsteinbauerin"
+        },
+        {
+          "documentIdentifier" : "BJNR110200999BJNG004500000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR110200999BJNE004600000",
+              "paragraph" : "§ 38",
+              "title" : "Ausbildungsberufsbild"
+            },
+            {
+              "documentIdentifier" : "BJNR110200999BJNE004700000",
+              "paragraph" : "§ 39",
+              "title" : "Ausbildungsrahmenplan"
+            },
+            {
+              "documentIdentifier" : "BJNR110200999BJNE004800000",
+              "paragraph" : "§ 40",
+              "title" : "Ausbildungsplan"
+            },
+            {
+              "documentIdentifier" : "BJNR110200999BJNE004900000",
+              "paragraph" : "§ 41",
+              "title" : "Berichtsheft"
+            },
+            {
+              "documentIdentifier" : "BJNR110200999BJNE005000000",
+              "paragraph" : "§ 42",
+              "title" : "Abschlußprüfung\/Gesellenprüfung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Zimmerer\/Zimmerin"
+        },
+        {
+          "documentIdentifier" : "BJNR110200999BJNG005100000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR110200999BJNE005200000",
+              "paragraph" : "§ 43",
+              "title" : "Ausbildungsberufsbild"
+            },
+            {
+              "documentIdentifier" : "BJNR110200999BJNE005300000",
+              "paragraph" : "§ 44",
+              "title" : "Ausbildungsrahmenplan"
+            },
+            {
+              "documentIdentifier" : "BJNR110200999BJNE005400000",
+              "paragraph" : "§ 45",
+              "title" : "Ausbildungsplan"
+            },
+            {
+              "documentIdentifier" : "BJNR110200999BJNE005500000",
+              "paragraph" : "§ 46",
+              "title" : "Berichtsheft"
+            },
+            {
+              "documentIdentifier" : "BJNR110200999BJNE005600000",
+              "paragraph" : "§ 47",
+              "title" : "Abschlußprüfung\/Gesellenprüfung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              5
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Stukkateur\/Stukkateurin"
+        },
+        {
+          "documentIdentifier" : "BJNR110200999BJNG005700000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR110200999BJNE005800000",
+              "paragraph" : "§ 48",
+              "title" : "Ausbildungsberufsbild"
+            },
+            {
+              "documentIdentifier" : "BJNR110200999BJNE005900000",
+              "paragraph" : "§ 49",
+              "title" : "Ausbildungsrahmenplan"
+            },
+            {
+              "documentIdentifier" : "BJNR110200999BJNE006000000",
+              "paragraph" : "§ 50",
+              "title" : "Ausbildungsplan"
+            },
+            {
+              "documentIdentifier" : "BJNR110200999BJNE006100000",
+              "paragraph" : "§ 51",
+              "title" : "Berichtsheft"
+            },
+            {
+              "documentIdentifier" : "BJNR110200999BJNE006200000",
+              "paragraph" : "§ 52",
+              "title" : "Abschlußprüfung\/Gesellenprüfung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              6
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Fliesen-, Platten- und Mosaikleger\/Fliesen-, Platten- und Mosaiklegerin"
+        },
+        {
+          "documentIdentifier" : "BJNR110200999BJNG006300000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR110200999BJNE006400000",
+              "paragraph" : "§ 53",
+              "title" : "Ausbildungsberufsbild"
+            },
+            {
+              "documentIdentifier" : "BJNR110200999BJNE006500000",
+              "paragraph" : "§ 54",
+              "title" : "Ausbildungsrahmenplan"
+            },
+            {
+              "documentIdentifier" : "BJNR110200999BJNE006600000",
+              "paragraph" : "§ 55",
+              "title" : "Ausbildungsplan"
+            },
+            {
+              "documentIdentifier" : "BJNR110200999BJNE006700000",
+              "paragraph" : "§ 56",
+              "title" : "Berichtsheft"
+            },
+            {
+              "documentIdentifier" : "BJNR110200999BJNE006800000",
+              "paragraph" : "§ 57",
+              "title" : "Abschlußprüfung\/Gesellenprüfung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              7
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Estrichleger\/Estrichlegerin"
+        },
+        {
+          "documentIdentifier" : "BJNR110200999BJNG006900000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR110200999BJNE007000000",
+              "paragraph" : "§ 58",
+              "title" : "Ausbildungsberufsbild"
+            },
+            {
+              "documentIdentifier" : "BJNR110200999BJNE007100000",
+              "paragraph" : "§ 59",
+              "title" : "Ausbildungsrahmenplan"
+            },
+            {
+              "documentIdentifier" : "BJNR110200999BJNE007200000",
+              "paragraph" : "§ 60",
+              "title" : "Ausbildungsplan"
+            },
+            {
+              "documentIdentifier" : "BJNR110200999BJNE007300000",
+              "paragraph" : "§ 61",
+              "title" : "Berichtsheft"
+            },
+            {
+              "documentIdentifier" : "BJNR110200999BJNE007400000",
+              "paragraph" : "§ 62",
+              "title" : "Abschlußprüfung\/Gesellenprüfung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              8
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Wärme-, Kälte- und Schallschutzisolierer\/Wärme-, Kälte- und Schallschutzisoliererin"
+        },
+        {
+          "documentIdentifier" : "BJNR110200999BJNG007500000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR110200999BJNE007600000",
+              "paragraph" : "§ 63",
+              "title" : "Ausbildungsberufsbild"
+            },
+            {
+              "documentIdentifier" : "BJNR110200999BJNE007700000",
+              "paragraph" : "§ 64",
+              "title" : "Ausbildungsrahmenplan"
+            },
+            {
+              "documentIdentifier" : "BJNR110200999BJNE007800000",
+              "paragraph" : "§ 65",
+              "title" : "Ausbildungsplan"
+            },
+            {
+              "documentIdentifier" : "BJNR110200999BJNE007900000",
+              "paragraph" : "§ 66",
+              "title" : "Berichtsheft"
+            },
+            {
+              "documentIdentifier" : "BJNR110200999BJNE008000000",
+              "paragraph" : "§ 67",
+              "title" : "Abschlußprüfung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              9
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Trockenbaumonteur\/Trockenbaumonteurin"
+        },
+        {
+          "documentIdentifier" : "BJNR110200999BJNG008100000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR110200999BJNE008200000",
+              "paragraph" : "§ 68",
+              "title" : "Ausbildungsberufsbild"
+            },
+            {
+              "documentIdentifier" : "BJNR110200999BJNE008300000",
+              "paragraph" : "§ 69",
+              "title" : "Ausbildungsrahmenplan"
+            },
+            {
+              "documentIdentifier" : "BJNR110200999BJNE008400000",
+              "paragraph" : "§ 70",
+              "title" : "Ausbildungsplan"
+            },
+            {
+              "documentIdentifier" : "BJNR110200999BJNE008500000",
+              "paragraph" : "§ 71",
+              "title" : "Berichtsheft"
+            },
+            {
+              "documentIdentifier" : "BJNR110200999BJNE008600000",
+              "paragraph" : "§ 72",
+              "title" : "Abschlußprüfung\/Gesellenprüfung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              10
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Straßenbauer\/Straßenbauerin"
+        },
+        {
+          "documentIdentifier" : "BJNR110200999BJNG008700000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR110200999BJNE008800000",
+              "paragraph" : "§ 73",
+              "title" : "Ausbildungsberufsbild"
+            },
+            {
+              "documentIdentifier" : "BJNR110200999BJNE008900000",
+              "paragraph" : "§ 74",
+              "title" : "Ausbildungsrahmenplan"
+            },
+            {
+              "documentIdentifier" : "BJNR110200999BJNE009000000",
+              "paragraph" : "§ 75",
+              "title" : "Ausbildungsplan"
+            },
+            {
+              "documentIdentifier" : "BJNR110200999BJNE009100000",
+              "paragraph" : "§ 76",
+              "title" : "Berichtsheft"
+            },
+            {
+              "documentIdentifier" : "BJNR110200999BJNE009200000",
+              "paragraph" : "§ 77",
+              "title" : "Abschlußprüfung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              11
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Rohrleitungsbauer\/Rohrleitungsbauerin"
+        },
+        {
+          "documentIdentifier" : "BJNR110200999BJNG009300000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR110200999BJNE009400000",
+              "paragraph" : "§ 78",
+              "title" : "Ausbildungsberufsbild"
+            },
+            {
+              "documentIdentifier" : "BJNR110200999BJNE009500000",
+              "paragraph" : "§ 79",
+              "title" : "Ausbildungsrahmenplan"
+            },
+            {
+              "documentIdentifier" : "BJNR110200999BJNE009600000",
+              "paragraph" : "§ 80",
+              "title" : "Ausbildungsplan"
+            },
+            {
+              "documentIdentifier" : "BJNR110200999BJNE009700000",
+              "paragraph" : "§ 81",
+              "title" : "Berichtsheft"
+            },
+            {
+              "documentIdentifier" : "BJNR110200999BJNE009800000",
+              "paragraph" : "§ 82",
+              "title" : "Abschlußprüfung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              12
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Kanalbauer\/Kanalbauerin"
+        },
+        {
+          "documentIdentifier" : "BJNR110200999BJNG009900000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR110200999BJNE010000000",
+              "paragraph" : "§ 83",
+              "title" : "Ausbildungsberufsbild"
+            },
+            {
+              "documentIdentifier" : "BJNR110200999BJNE010100000",
+              "paragraph" : "§ 84",
+              "title" : "Ausbildungsrahmenplan"
+            },
+            {
+              "documentIdentifier" : "BJNR110200999BJNE010200000",
+              "paragraph" : "§ 85",
+              "title" : "Ausbildungsplan"
+            },
+            {
+              "documentIdentifier" : "BJNR110200999BJNE010300000",
+              "paragraph" : "§ 86",
+              "title" : "Berichtsheft"
+            },
+            {
+              "documentIdentifier" : "BJNR110200999BJNE010400000",
+              "paragraph" : "§ 87",
+              "title" : "Abschlußprüfung\/Gesellenprüfung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              13
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Brunnenbauer\/Brunnenbauerin"
+        },
+        {
+          "documentIdentifier" : "BJNR110200999BJNG010500000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR110200999BJNE010600000",
+              "paragraph" : "§ 88",
+              "title" : "Ausbildungsberufsbild"
+            },
+            {
+              "documentIdentifier" : "BJNR110200999BJNE010700000",
+              "paragraph" : "§ 89",
+              "title" : "Ausbildungsrahmenplan"
+            },
+            {
+              "documentIdentifier" : "BJNR110200999BJNE010800000",
+              "paragraph" : "§ 90",
+              "title" : "Ausbildungsplan"
+            },
+            {
+              "documentIdentifier" : "BJNR110200999BJNE010900000",
+              "paragraph" : "§ 91",
+              "title" : "Berichtsheft"
+            },
+            {
+              "documentIdentifier" : "BJNR110200999BJNE011000000",
+              "paragraph" : "§ 92",
+              "title" : "Abschlußprüfung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              14
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Spezialtiefbauer\/Spezialtiefbauerin"
+        },
+        {
+          "documentIdentifier" : "BJNR110200999BJNG011100000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR110200999BJNE011200000",
+              "paragraph" : "§ 93",
+              "title" : "Ausbildungsberufsbild"
+            },
+            {
+              "documentIdentifier" : "BJNR110200999BJNE011300000",
+              "paragraph" : "§ 94",
+              "title" : "Ausbildungsrahmenplan"
+            },
+            {
+              "documentIdentifier" : "BJNR110200999BJNE011400000",
+              "paragraph" : "§ 95",
+              "title" : "Ausbildungsplan"
+            },
+            {
+              "documentIdentifier" : "BJNR110200999BJNE011500000",
+              "paragraph" : "§ 96",
+              "title" : "Berichtsheft"
+            },
+            {
+              "documentIdentifier" : "BJNR110200999BJNE011600000",
+              "paragraph" : "§ 97",
+              "title" : "Abschlußprüfung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              15
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Gleisbauer\/Gleisbauerin"
+        }
+      ],
+      "title" : "Vorschriften für die aufbauenden Ausbildungsberufe nach § 1 Abs. 1 Nr. 2 bis 4 sowie Abs. 2 Nr. 1 bis 3"
+    },
+    {
+      "documentIdentifier" : "BJNR110200999BJNG011600000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR110200999BJNE011700000",
+          "paragraph" : "§ 98",
+          "title" : "Übergangsregelung"
+        },
+        {
+          "documentIdentifier" : "BJNR110200999BJNE011800000",
+          "paragraph" : "§ 99",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR110200999BJNE012401308",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 6)"
+        },
+        {
+          "documentIdentifier" : "BJNR110200999BJNE012500305",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 12)"
+        },
+        {
+          "documentIdentifier" : "BJNR110200999BJNE012600305",
+          "paragraph" : "Anlage 3",
+          "title" : "(zu § 18)"
+        },
+        {
+          "documentIdentifier" : "BJNR110200999BJNE012700305",
+          "paragraph" : "Anlage 4",
+          "title" : "(zu § 24)"
+        },
+        {
+          "documentIdentifier" : "BJNR110200999BJNE012800305",
+          "paragraph" : "Anlage 5",
+          "title" : "(zu § 29)"
+        },
+        {
+          "documentIdentifier" : "BJNR110200999BJNE012900305",
+          "paragraph" : "Anlage 6",
+          "title" : "(zu § 34)"
+        },
+        {
+          "documentIdentifier" : "BJNR110200999BJNE014701310",
+          "paragraph" : "Anlage 6a",
+          "title" : "(zu § 37b)"
+        },
+        {
+          "documentIdentifier" : "BJNR110200999BJNE013000305",
+          "paragraph" : "Anlage 7",
+          "title" : "(zu § 39)"
+        },
+        {
+          "documentIdentifier" : "BJNR110200999BJNE013100305",
+          "paragraph" : "Anlage 8",
+          "title" : "(zu § 44)"
+        },
+        {
+          "documentIdentifier" : "BJNR110200999BJNE013200305",
+          "paragraph" : "Anlage 9",
+          "title" : "(zu § 49)"
+        },
+        {
+          "documentIdentifier" : "BJNR110200999BJNE013300305",
+          "paragraph" : "Anlage 10",
+          "title" : "(zu § 54)"
+        },
+        {
+          "documentIdentifier" : "BJNR110200999BJNE013400305",
+          "paragraph" : "Anlage 11",
+          "title" : "(zu § 59)"
+        },
+        {
+          "documentIdentifier" : "BJNR110200999BJNE013500305",
+          "paragraph" : "Anlage 12",
+          "title" : "(zu § 64)"
+        },
+        {
+          "documentIdentifier" : "BJNR110200999BJNE013600305",
+          "paragraph" : "Anlage 13",
+          "title" : "(zu § 69)"
+        },
+        {
+          "documentIdentifier" : "BJNR110200999BJNE013700305",
+          "paragraph" : "Anlage 14",
+          "title" : "(zu § 74)"
+        },
+        {
+          "documentIdentifier" : "BJNR110200999BJNE013800305",
+          "paragraph" : "Anlage 15",
+          "title" : "(zu § 79)"
+        },
+        {
+          "documentIdentifier" : "BJNR110200999BJNE013900305",
+          "paragraph" : "Anlage 16",
+          "title" : "(zu § 84)"
+        },
+        {
+          "documentIdentifier" : "BJNR110200999BJNE014000305",
+          "paragraph" : "Anlage 17",
+          "title" : "(zu § 89)"
+        },
+        {
+          "documentIdentifier" : "BJNR110200999BJNE014100305",
+          "paragraph" : "Anlage 18",
+          "title" : "(zu § 94)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übergangs- und Schlußvorschriften"
+    }
+  ]
+}

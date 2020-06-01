@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR373710013",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR373710013Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR373710013BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Allgemeines"
+        },
+        {
+          "documentIdentifier" : "BJNR373710013BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Prämie"
+        },
+        {
+          "documentIdentifier" : "BJNR373710013BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Zulage"
+        },
+        {
+          "documentIdentifier" : "BJNR373710013BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Entscheidungsberechtigte"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

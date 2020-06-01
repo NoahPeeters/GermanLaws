@@ -1,0 +1,166 @@
+{
+  "documentIdentifier" : "BJNR066000017",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR066000017BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR066000017BJNE000300000",
+          "paragraph" : "§ 1",
+          "title" : "Staatliche Anerkennung des Ausbildungsberufes"
+        },
+        {
+          "documentIdentifier" : "BJNR066000017BJNE000400000",
+          "paragraph" : "§ 2",
+          "title" : "Dauer der Berufsausbildung"
+        },
+        {
+          "documentIdentifier" : "BJNR066000017BJNE000500000",
+          "paragraph" : "§ 3",
+          "title" : "Gegenstand der Berufsausbildung und Ausbildungsrahmenplan"
+        },
+        {
+          "documentIdentifier" : "BJNR066000017BJNE000600000",
+          "paragraph" : "§ 4",
+          "title" : "Struktur der Berufsausbildung, Ausbildungsberufsbild"
+        },
+        {
+          "documentIdentifier" : "BJNR066000017BJNE000700000",
+          "paragraph" : "§ 5",
+          "title" : "Ausbildungsplan"
+        },
+        {
+          "documentIdentifier" : "BJNR066000017BJNE000800000",
+          "paragraph" : "§ 6",
+          "title" : "Schriftlicher Ausbildungsnachweis"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gegenstand, Dauer und Gliederung der Berufsausbildung"
+    },
+    {
+      "documentIdentifier" : "BJNR066000017BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR066000017BJNE000900000",
+          "paragraph" : "§ 7",
+          "title" : "Ziel und Zeitpunkt"
+        },
+        {
+          "documentIdentifier" : "BJNR066000017BJNE001000000",
+          "paragraph" : "§ 8",
+          "title" : "Inhalt"
+        },
+        {
+          "documentIdentifier" : "BJNR066000017BJNE001100000",
+          "paragraph" : "§ 9",
+          "title" : "Prüfungsbereiche"
+        },
+        {
+          "documentIdentifier" : "BJNR066000017BJNE001200000",
+          "paragraph" : "§ 10",
+          "title" : "Prüfungsbereich Passagierprozesse"
+        },
+        {
+          "documentIdentifier" : "BJNR066000017BJNE001300000",
+          "paragraph" : "§ 11",
+          "title" : "Prüfungsbereich Personalwirtschaft"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Zwischenprüfung"
+    },
+    {
+      "documentIdentifier" : "BJNR066000017BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR066000017BJNE001400000",
+          "paragraph" : "§ 12",
+          "title" : "Ziel und Zeitpunkt"
+        },
+        {
+          "documentIdentifier" : "BJNR066000017BJNE001500000",
+          "paragraph" : "§ 13",
+          "title" : "Inhalt"
+        },
+        {
+          "documentIdentifier" : "BJNR066000017BJNE001600000",
+          "paragraph" : "§ 14",
+          "title" : "Prüfungsbereiche"
+        },
+        {
+          "documentIdentifier" : "BJNR066000017BJNE001700000",
+          "paragraph" : "§ 15",
+          "title" : "Prüfungsbereich Abfertigungsprozesse"
+        },
+        {
+          "documentIdentifier" : "BJNR066000017BJNE001800000",
+          "paragraph" : "§ 16",
+          "title" : "Prüfungsbereich Luftverkehrswirtschaft"
+        },
+        {
+          "documentIdentifier" : "BJNR066000017BJNE001900000",
+          "paragraph" : "§ 17",
+          "title" : "Prüfungsbereich Serviceleistungen"
+        },
+        {
+          "documentIdentifier" : "BJNR066000017BJNE002000000",
+          "paragraph" : "§ 18",
+          "title" : "Prüfungsbereich Wirtschafts- und Sozialkunde"
+        },
+        {
+          "documentIdentifier" : "BJNR066000017BJNE002100000",
+          "paragraph" : "§ 19",
+          "title" : "Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Abschlussprüfung"
+    },
+    {
+      "documentIdentifier" : "BJNR066000017BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR066000017BJNE002200000",
+          "paragraph" : "§ 20",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR066000017BJNE002300000",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 3 Absatz 1)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussvorschriften"
+    }
+  ]
+}

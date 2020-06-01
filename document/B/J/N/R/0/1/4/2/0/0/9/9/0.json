@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR014200990",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR014200990Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR014200990BJNE000208119",
+          "paragraph" : "§ 1",
+          "title" : "Vorhaben"
+        },
+        {
+          "documentIdentifier" : "BJNR014200990BJNE000304118",
+          "paragraph" : "§ 2",
+          "title" : "Angaben im UVP-Bericht"
+        },
+        {
+          "documentIdentifier" : "BJNR014200990BJNE000404118",
+          "paragraph" : "§ 3",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR014200990BJNE000506123",
+          "paragraph" : "§ 4",
+          "title" : "Übergangsvorschrift"
+        },
+        {
+          "documentIdentifier" : "BJNR014200990BJNE000600328",
+          "paragraph" : "§ 5",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

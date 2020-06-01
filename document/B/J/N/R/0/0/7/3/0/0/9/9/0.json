@@ -1,0 +1,59 @@
+{
+  "documentIdentifier" : "BJNR007300990",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR007300990Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR007300990BJNE000200308",
+          "paragraph" : "§ 1",
+          "title" : "Umfang der Erhebungen, Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR007300990BJNE000301116",
+          "paragraph" : "§ 2",
+          "title" : "Erhebungseinheiten"
+        },
+        {
+          "documentIdentifier" : "BJNR007300990BJNE000605116",
+          "paragraph" : "§ 3",
+          "title" : "Erhebungsmerkmale"
+        },
+        {
+          "documentIdentifier" : "BJNR007300990BJNE000704116",
+          "paragraph" : "§ 4",
+          "title" : "Hilfsmerkmale"
+        },
+        {
+          "documentIdentifier" : "BJNR007300990BJNE000802116",
+          "paragraph" : "§ 5",
+          "title" : "Periodizität und Berichtszeitraum"
+        },
+        {
+          "documentIdentifier" : "BJNR007300990BJNE000902116",
+          "paragraph" : "§ 6",
+          "title" : "Auskunftspflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR007300990BJNE001001116",
+          "paragraph" : "§ 7",
+          "title" : "Übermittlung, Veröffentlichung"
+        },
+        {
+          "documentIdentifier" : "BJNR007300990BJNE001201320",
+          "paragraph" : "§ 8",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

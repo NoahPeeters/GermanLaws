@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR005970957",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR005970957Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR005970957BJNE000206123",
+          "paragraph" : "§ 1",
+          "title" : "Anwendung von Strafvorschriften zum Schutz der Vertragsstaaten des Nordatlantikpaktes"
+        },
+        {
+          "documentIdentifier" : "BJNR005970957BJNE000302140",
+          "paragraph" : "§ 2",
+          "title" : "Anwendung von Bußgeldvorschriften zum Schutz der Vertragsstaaten des Nordatlantikpaktes"
+        },
+        {
+          "documentIdentifier" : "BJNR005970957BJNE000402140",
+          "paragraph" : "§ 3",
+          "title" : "Anwendung von Vorschriften des Gerichtsverfassungsgesetzes bei Straftaten gegen die Vertragsstaaten des Nordatlantikpaktes"
+        },
+        {
+          "documentIdentifier" : "BJNR005970957BJNE000502140",
+          "paragraph" : "§ 4",
+          "title" : "Anwendung von Vorschriften der Strafprozessordnung bei Straftaten gegen die Vertragsstaaten des Nordatlantikpaktes"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

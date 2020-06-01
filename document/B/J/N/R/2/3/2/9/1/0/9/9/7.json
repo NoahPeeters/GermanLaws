@@ -1,0 +1,268 @@
+{
+  "documentIdentifier" : "BJNR232910997",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR232910997BJNG000100305",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR232910997BJNE000800305",
+          "paragraph" : "§ 1",
+          "title" : "Geltungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR232910997BJNE000900305",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR232910997BJNE001000305",
+          "paragraph" : "§ 3",
+          "title" : "Allgemeine Anforderungen"
+        },
+        {
+          "documentIdentifier" : "BJNR232910997BJNE001100305",
+          "paragraph" : "§ 4",
+          "title" : "Betriebserlaubnis"
+        },
+        {
+          "documentIdentifier" : "BJNR232910997BJNE001200305",
+          "paragraph" : "§ 5",
+          "title" : "Ausnahmen"
+        },
+        {
+          "documentIdentifier" : "BJNR232910997BJNE001300305",
+          "paragraph" : "§ 6",
+          "title" : "Abnahmen"
+        },
+        {
+          "documentIdentifier" : "BJNR232910997BJNE001400305",
+          "paragraph" : "§ 7",
+          "title" : "Aufsicht"
+        },
+        {
+          "documentIdentifier" : "BJNR232910997BJNE001500305",
+          "paragraph" : "§ 8",
+          "title" : "Instandhaltung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeines"
+    },
+    {
+      "documentIdentifier" : "BJNR232910997BJNG000200305",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR232910997BJNE001600305",
+          "paragraph" : "§ 9",
+          "title" : "Bauaufsichtliche Genehmigung"
+        },
+        {
+          "documentIdentifier" : "BJNR232910997BJNE001700305",
+          "paragraph" : "§ 10",
+          "title" : "Baubeginn"
+        },
+        {
+          "documentIdentifier" : "BJNR232910997BJNE001800305",
+          "paragraph" : "§ 11",
+          "title" : "Bauaufsicht"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Bauordnung"
+    },
+    {
+      "documentIdentifier" : "BJNR232910997BJNG000300305",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR232910997BJNE001900305",
+          "paragraph" : "§ 12",
+          "title" : "Fahrweg"
+        },
+        {
+          "documentIdentifier" : "BJNR232910997BJNE002000305",
+          "paragraph" : "§ 13",
+          "title" : "Linienführung"
+        },
+        {
+          "documentIdentifier" : "BJNR232910997BJNE002100305",
+          "paragraph" : "§ 14",
+          "title" : "Lichtraum"
+        },
+        {
+          "documentIdentifier" : "BJNR232910997BJNE002200305",
+          "paragraph" : "§ 15",
+          "title" : "Bahnsteige"
+        },
+        {
+          "documentIdentifier" : "BJNR232910997BJNE002300305",
+          "paragraph" : "§ 16",
+          "title" : "Überwachen der Betriebsanlagen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Betriebsanlagen"
+    },
+    {
+      "documentIdentifier" : "BJNR232910997BJNG000400305",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR232910997BJNE002400305",
+          "paragraph" : "§ 17",
+          "title" : "Grundsätze"
+        },
+        {
+          "documentIdentifier" : "BJNR232910997BJNE002500305",
+          "paragraph" : "§ 18",
+          "title" : "Ausrüstung"
+        },
+        {
+          "documentIdentifier" : "BJNR232910997BJNE002600305",
+          "paragraph" : "§ 19",
+          "title" : "Trag- und Führsystem"
+        },
+        {
+          "documentIdentifier" : "BJNR232910997BJNE002700305",
+          "paragraph" : "§ 20",
+          "title" : "Bremsen, Kupplung"
+        },
+        {
+          "documentIdentifier" : "BJNR232910997BJNE002800305",
+          "paragraph" : "§ 21",
+          "title" : "Überwachungsbedürftige Anlagen der Fahrzeuge"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Fahrzeuge"
+    },
+    {
+      "documentIdentifier" : "BJNR232910997BJNG004200305",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR232910997BJNE002900305",
+          "paragraph" : "§ 22",
+          "title" : "Fahrtvoraussetzungen"
+        },
+        {
+          "documentIdentifier" : "BJNR232910997BJNE003000305",
+          "paragraph" : "§ 23",
+          "title" : "Sicherheitskonzept"
+        },
+        {
+          "documentIdentifier" : "BJNR232910997BJNE003100305",
+          "paragraph" : "§ 24",
+          "title" : "Betriebshandbuch"
+        },
+        {
+          "documentIdentifier" : "BJNR232910997BJNE003200305",
+          "paragraph" : "§ 25",
+          "title" : "Störungen im Magnetschwebebahnbetrieb"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Fahrbetrieb"
+    },
+    {
+      "documentIdentifier" : "BJNR232910997BJNG000500305",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR232910997BJNE003300305",
+          "paragraph" : "§ 26",
+          "title" : "Betriebsbedienstete"
+        },
+        {
+          "documentIdentifier" : "BJNR232910997BJNE003400305",
+          "paragraph" : "§ 27",
+          "title" : "Bestellung des Betriebsleiters"
+        },
+        {
+          "documentIdentifier" : "BJNR232910997BJNE003500305",
+          "paragraph" : "§ 28",
+          "title" : "Stellung des Betriebsleiters"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Personal"
+    },
+    {
+      "documentIdentifier" : "BJNR232910997BJNG000600305",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR232910997BJNE003600305",
+          "paragraph" : "§ 29",
+          "title" : "Benutzen und Betreten der Betriebsanlagen und\nFahrzeuge"
+        },
+        {
+          "documentIdentifier" : "BJNR232910997BJNE003700305",
+          "paragraph" : "§ 30",
+          "title" : "Betriebsgefährdende Handlungen"
+        },
+        {
+          "documentIdentifier" : "BJNR232910997BJNE003800305",
+          "paragraph" : "§ 31",
+          "title" : "Tauglichkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR232910997BJNE003900305",
+          "paragraph" : "§ 32",
+          "title" : "Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR232910997BJNE004000305",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 14)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Öffentliche Sicherheit"
+    }
+  ]
+}

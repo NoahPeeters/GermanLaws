@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR096200008",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR096200008Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR096200008BJNE000201310",
+          "paragraph" : "§ 1",
+          "title" : "Erhebung der Abgabe"
+        },
+        {
+          "documentIdentifier" : "BJNR096200008BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Sammlung der Belege und Aufbewahrungsfrist"
+        },
+        {
+          "documentIdentifier" : "BJNR096200008BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Mitteilungspflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR096200008BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR096200008BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Zuständigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR096200008BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Aufhebung von Rechtsvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR096200008BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

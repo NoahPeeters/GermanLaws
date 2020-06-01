@@ -1,0 +1,441 @@
+{
+  "documentIdentifier" : "BJNR185310018",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR185310018BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR185310018BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Registerführung"
+        },
+        {
+          "documentIdentifier" : "BJNR185310018BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR185310018BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Kommunikation mit der Registerverwaltung"
+        },
+        {
+          "documentIdentifier" : "BJNR185310018BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Korrektur von Fehlern"
+        },
+        {
+          "documentIdentifier" : "BJNR185310018BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Benennung der Verwendungsgebiete und Bestimmung der Verwendungsregionen für Regionalnachweise"
+        },
+        {
+          "documentIdentifier" : "BJNR185310018BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Kontoeröffnung im Herkunftsnachweisregister"
+        },
+        {
+          "documentIdentifier" : "BJNR185310018BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Kontoeröffnung im Regionalnachweisregister"
+        },
+        {
+          "documentIdentifier" : "BJNR185310018BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Registrierung von Dienstleistern und Beauftragung und Bevollmächtigung von Dienstleistern durch den Kontoinhaber"
+        },
+        {
+          "documentIdentifier" : "BJNR185310018BJNE001000000",
+          "paragraph" : "§ 9",
+          "title" : "Kontoführung durch Nutzer und Hauptnutzer"
+        },
+        {
+          "documentIdentifier" : "BJNR185310018BJNE001100000",
+          "paragraph" : "§ 10",
+          "title" : "Übermittlung der Daten von Umweltgutachtern und Umweltgutachterorganisationen"
+        },
+        {
+          "documentIdentifier" : "BJNR185310018BJNE001200000",
+          "paragraph" : "§ 11",
+          "title" : "Übermittlung der Daten von Betreibern der Elektrizitätsversorgungsnetze"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR185310018BJNG000200000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR185310018BJNG000300000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR185310018BJNE001300000",
+              "paragraph" : "§ 12",
+              "title" : "Voraussetzungen für die Ausstellung von Herkunftsnachweisen"
+            },
+            {
+              "documentIdentifier" : "BJNR185310018BJNE001400000",
+              "paragraph" : "§ 13",
+              "title" : "Ausstellung von Herkunftsnachweisen für Strom aus Pumpspeicherkraftwerken und aus Laufwasserkraftwerken mit Pumpbetrieb ohne Speicherung"
+            },
+            {
+              "documentIdentifier" : "BJNR185310018BJNE001500000",
+              "paragraph" : "§ 14",
+              "title" : "Ausstellung von Herkunftsnachweisen für Strom aus Grenzkraftwerken"
+            },
+            {
+              "documentIdentifier" : "BJNR185310018BJNE001600000",
+              "paragraph" : "§ 15",
+              "title" : "Ablehnung der Ausstellung von Herkunftsnachweisen ohne entsprechende Stromerzeugung"
+            },
+            {
+              "documentIdentifier" : "BJNR185310018BJNE001700000",
+              "paragraph" : "§ 16",
+              "title" : "Inhalte des Herkunftsnachweises"
+            },
+            {
+              "documentIdentifier" : "BJNR185310018BJNE001800000",
+              "paragraph" : "§ 17",
+              "title" : "Festlegung des Erzeugungszeitraums bei Herkunftsnachweisen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Ausstellung von Herkunftsnachweisen"
+        },
+        {
+          "documentIdentifier" : "BJNR185310018BJNG000400000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR185310018BJNE001900000",
+              "paragraph" : "§ 18",
+              "title" : "Voraussetzungen für die Ausstellung von Regionalnachweisen"
+            },
+            {
+              "documentIdentifier" : "BJNR185310018BJNE002000000",
+              "paragraph" : "§ 19",
+              "title" : "Inhalte des Regionalnachweises"
+            },
+            {
+              "documentIdentifier" : "BJNR185310018BJNE002100000",
+              "paragraph" : "§ 20",
+              "title" : "Festlegung des Erzeugungszeitraums bei Regionalnachweisen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Ausstellung von Regionalnachweisen"
+        },
+        {
+          "documentIdentifier" : "BJNR185310018BJNG000500000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR185310018BJNE002200000",
+              "paragraph" : "§ 21",
+              "title" : "Anlagenregistrierung im Herkunftsnachweisregister"
+            },
+            {
+              "documentIdentifier" : "BJNR185310018BJNE002300000",
+              "paragraph" : "§ 22",
+              "title" : "Einsatz von Umweltgutachter oder Umweltgutachterorganisation bei der Anlagenregistrierung im Herkunftsnachweisregister"
+            },
+            {
+              "documentIdentifier" : "BJNR185310018BJNE002400000",
+              "paragraph" : "§ 23",
+              "title" : "Anlagenregistrierung im Regionalnachweisregister"
+            },
+            {
+              "documentIdentifier" : "BJNR185310018BJNE002500000",
+              "paragraph" : "§ 24",
+              "title" : "Änderung von Anlagendaten"
+            },
+            {
+              "documentIdentifier" : "BJNR185310018BJNE002600000",
+              "paragraph" : "§ 25",
+              "title" : "Registrierung von Gesamtanlagen"
+            },
+            {
+              "documentIdentifier" : "BJNR185310018BJNE002700000",
+              "paragraph" : "§ 26",
+              "title" : "Gültigkeitsdauer der Anlagenregistrierung; erneute Anlagenregistrierung"
+            },
+            {
+              "documentIdentifier" : "BJNR185310018BJNE002800000",
+              "paragraph" : "§ 27",
+              "title" : "Löschung der Anlagenregistrierung und Wechsel des Anlagenbetreibers"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Registrierung und Löschung von Anlagen"
+        }
+      ],
+      "title" : "Ausstellung und Inhalte von Herkunftsnachweisen und Regionalnachweisen, Registrierung von Anlagen"
+    },
+    {
+      "documentIdentifier" : "BJNR185310018BJNG000600000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR185310018BJNE002900000",
+          "paragraph" : "§ 28",
+          "title" : "Übertragung von Herkunftsnachweisen"
+        },
+        {
+          "documentIdentifier" : "BJNR185310018BJNE003000000",
+          "paragraph" : "§ 29",
+          "title" : "Übertragung und Rückbuchung von Regionalnachweisen"
+        },
+        {
+          "documentIdentifier" : "BJNR185310018BJNE003100000",
+          "paragraph" : "§ 30",
+          "title" : "Verwendung und Entwertung von Herkunftsnachweisen"
+        },
+        {
+          "documentIdentifier" : "BJNR185310018BJNE003200000",
+          "paragraph" : "§ 31",
+          "title" : "Verwendung und Entwertung von Regionalnachweisen, Ausweisung in der Stromkennzeichnung"
+        },
+        {
+          "documentIdentifier" : "BJNR185310018BJNE003300000",
+          "paragraph" : "§ 32",
+          "title" : "Löschung von Herkunftsnachweisen"
+        },
+        {
+          "documentIdentifier" : "BJNR185310018BJNE003400000",
+          "paragraph" : "§ 33",
+          "title" : "Löschung von Regionalnachweisen"
+        },
+        {
+          "documentIdentifier" : "BJNR185310018BJNE003500000",
+          "paragraph" : "§ 34",
+          "title" : "Verfall von Herkunftsnachweisen"
+        },
+        {
+          "documentIdentifier" : "BJNR185310018BJNE003600000",
+          "paragraph" : "§ 35",
+          "title" : "Verfall von Regionalnachweisen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übertragung, Entwertung, Löschung und Verfall von Herkunftsnachweisen und Regionalnachweisen"
+    },
+    {
+      "documentIdentifier" : "BJNR185310018BJNG000700000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR185310018BJNE003700000",
+          "paragraph" : "§ 36",
+          "title" : "Anerkennung von Herkunftsnachweisen von ausländischen registerführenden Stellen"
+        },
+        {
+          "documentIdentifier" : "BJNR185310018BJNE003800000",
+          "paragraph" : "§ 37",
+          "title" : "Import anerkannter Herkunftsnachweise"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Anerkennung und Import von Herkunftsnachweisen von ausländischen registerführenden Stellen"
+    },
+    {
+      "documentIdentifier" : "BJNR185310018BJNG000800000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR185310018BJNE003900000",
+          "paragraph" : "§ 38",
+          "title" : "Allgemeine Mitteilungs- und Mitwirkungspflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR185310018BJNE004000000",
+          "paragraph" : "§ 39",
+          "title" : "Pflichten bei der Nutzung des Herkunftsnachweisregisters oder des Regionalnachweisregisters"
+        },
+        {
+          "documentIdentifier" : "BJNR185310018BJNE004100000",
+          "paragraph" : "§ 40",
+          "title" : "Mitteilungs- und Mitwirkungspflichten der Kontoinhaber"
+        },
+        {
+          "documentIdentifier" : "BJNR185310018BJNE004200000",
+          "paragraph" : "§ 41",
+          "title" : "Übermittlungs- und Mitteilungspflichten der Betreiber von Elektrizitätsversorgungsnetzen und der Anlagenbetreiber"
+        },
+        {
+          "documentIdentifier" : "BJNR185310018BJNE004300000",
+          "paragraph" : "§ 42",
+          "title" : "Begutachtungspflichten bei im Herkunftsnachweisregister registrierten Biomasseanlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR185310018BJNE004400000",
+          "paragraph" : "§ 43",
+          "title" : "Tätigkeit von Umweltgutachtern und Umweltgutachterorganisationen"
+        },
+        {
+          "documentIdentifier" : "BJNR185310018BJNE004500000",
+          "paragraph" : "§ 44",
+          "title" : "Vorlage weiterer Unterlagen durch Anlagenbetreiber und Kontoinhaber"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Pflichten von Registerteilnehmern, Hauptnutzern, Nutzern und Betreibern von Elektrizitätsversorgungsnetzen"
+    },
+    {
+      "documentIdentifier" : "BJNR185310018BJNG000900000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR185310018BJNE004600000",
+          "paragraph" : "§ 45",
+          "title" : "Erhebung, Speicherung und Verwendung von personenbezogenen Daten"
+        },
+        {
+          "documentIdentifier" : "BJNR185310018BJNE004700000",
+          "paragraph" : "§ 46",
+          "title" : "Datenübermittlung"
+        },
+        {
+          "documentIdentifier" : "BJNR185310018BJNE004800000",
+          "paragraph" : "§ 47",
+          "title" : "Löschung von Daten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Erhebung, Speicherung, Verwendung, Übermittlung und Löschung von Daten"
+    },
+    {
+      "documentIdentifier" : "BJNR185310018BJNG001000000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR185310018BJNE004900000",
+          "paragraph" : "§ 48",
+          "title" : "Ordnungswidrigkeiten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Ordnungswidrigkeiten"
+    },
+    {
+      "documentIdentifier" : "BJNR185310018BJNG001100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR185310018BJNE005000000",
+          "paragraph" : "§ 49",
+          "title" : "Sperrung und Entsperrung des Kontos"
+        },
+        {
+          "documentIdentifier" : "BJNR185310018BJNE005100000",
+          "paragraph" : "§ 50",
+          "title" : "Schließung des Kontos"
+        },
+        {
+          "documentIdentifier" : "BJNR185310018BJNE005200000",
+          "paragraph" : "§ 51",
+          "title" : "Ausschluss von der Teilnahme an den Registern, erneute Teilnahme nach Ausschluss"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          8
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Sperrung und Schließung des Kontos, Ausschluss von der Teilnahme an den Registern"
+    },
+    {
+      "documentIdentifier" : "BJNR185310018BJNG001200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR185310018BJNE005300000",
+          "paragraph" : "§ 52",
+          "title" : "Nutzungsbedingungen"
+        },
+        {
+          "documentIdentifier" : "BJNR185310018BJNE005400000",
+          "paragraph" : "§ 53",
+          "title" : "Ausschluss des Widerspruchsverfahrens"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          9
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Nutzungsbedingungen"
+    }
+  ]
+}

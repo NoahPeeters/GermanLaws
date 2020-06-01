@@ -1,0 +1,167 @@
+{
+  "documentIdentifier" : "BJNR251210009",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR251210009BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR251210009BJNE000201360",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR251210009BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Anleihebedingungen"
+        },
+        {
+          "documentIdentifier" : "BJNR251210009BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Transparenz des Leistungsversprechens"
+        },
+        {
+          "documentIdentifier" : "BJNR251210009BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Kollektive Bindung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR251210009BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR251210009BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Mehrheitsbeschlüsse der Gläubiger"
+        },
+        {
+          "documentIdentifier" : "BJNR251210009BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Stimmrecht"
+        },
+        {
+          "documentIdentifier" : "BJNR251210009BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Gemeinsamer Vertreter der Gläubiger"
+        },
+        {
+          "documentIdentifier" : "BJNR251210009BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Bestellung des gemeinsamen Vertreters in den Anleihebedingungen"
+        },
+        {
+          "documentIdentifier" : "BJNR251210009BJNE001000000",
+          "paragraph" : "§ 9",
+          "title" : "Einberufung der Gläubigerversammlung"
+        },
+        {
+          "documentIdentifier" : "BJNR251210009BJNE001100000",
+          "paragraph" : "§ 10",
+          "title" : "Frist, Anmeldung, Nachweis"
+        },
+        {
+          "documentIdentifier" : "BJNR251210009BJNE001201123",
+          "paragraph" : "§ 11",
+          "title" : "Ort der Gläubigerversammlung"
+        },
+        {
+          "documentIdentifier" : "BJNR251210009BJNE001301360",
+          "paragraph" : "§ 12",
+          "title" : "Inhalt der Einberufung, Bekanntmachung"
+        },
+        {
+          "documentIdentifier" : "BJNR251210009BJNE001400000",
+          "paragraph" : "§ 13",
+          "title" : "Tagesordnung"
+        },
+        {
+          "documentIdentifier" : "BJNR251210009BJNE001500000",
+          "paragraph" : "§ 14",
+          "title" : "Vertretung"
+        },
+        {
+          "documentIdentifier" : "BJNR251210009BJNE001600000",
+          "paragraph" : "§ 15",
+          "title" : "Vorsitz, Beschlussfähigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR251210009BJNE001700000",
+          "paragraph" : "§ 16",
+          "title" : "Auskunftspflicht, Abstimmung, Niederschrift"
+        },
+        {
+          "documentIdentifier" : "BJNR251210009BJNE001802123",
+          "paragraph" : "§ 17",
+          "title" : "Bekanntmachung von Beschlüssen"
+        },
+        {
+          "documentIdentifier" : "BJNR251210009BJNE001900000",
+          "paragraph" : "§ 18",
+          "title" : "Abstimmung ohne Versammlung"
+        },
+        {
+          "documentIdentifier" : "BJNR251210009BJNE002000000",
+          "paragraph" : "§ 19",
+          "title" : "Insolvenzverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR251210009BJNE002101360",
+          "paragraph" : "§ 20",
+          "title" : "Anfechtung von Beschlüssen"
+        },
+        {
+          "documentIdentifier" : "BJNR251210009BJNE002200000",
+          "paragraph" : "§ 21",
+          "title" : "Vollziehung von Beschlüssen"
+        },
+        {
+          "documentIdentifier" : "BJNR251210009BJNE002301360",
+          "paragraph" : "§ 22",
+          "title" : "Geltung für Mitverpflichtete"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Beschlüsse der Gläubiger"
+    },
+    {
+      "documentIdentifier" : "BJNR251210009BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR251210009BJNE002400000",
+          "paragraph" : "§ 23",
+          "title" : "Bußgeldvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR251210009BJNE002500000",
+          "paragraph" : "§ 24",
+          "title" : "Übergangsbestimmungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Bußgeldvorschriften; Übergangsbestimmungen"
+    }
+  ]
+}

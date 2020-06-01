@@ -1,0 +1,317 @@
+{
+  "documentIdentifier" : "BJNR002740977",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR002740977BJNG000101308",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR002740977BJNG000201308",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR002740977BJNE001007116",
+              "paragraph" : "§ 1",
+              "title" : "Anwendungsbereich"
+            },
+            {
+              "documentIdentifier" : "BJNR002740977BJNE003704116",
+              "paragraph" : "§ 1a",
+              "title" : "Gegenstand der Prüfung der Umweltverträglichkeit"
+            },
+            {
+              "documentIdentifier" : "BJNR002740977BJNE001107116",
+              "paragraph" : "§ 2",
+              "title" : "Antragstellung"
+            },
+            {
+              "documentIdentifier" : "BJNR002740977BJNE003803116",
+              "paragraph" : "§ 2a",
+              "title" : "Unterrichtung über den Untersuchungsrahmen bei UVP-pflichtigen Vorhaben"
+            },
+            {
+              "documentIdentifier" : "BJNR002740977BJNE001203116",
+              "paragraph" : "§ 3",
+              "title" : "Antragsinhalt"
+            },
+            {
+              "documentIdentifier" : "BJNR002740977BJNE001307116",
+              "paragraph" : "§ 4",
+              "title" : "Antragsunterlagen"
+            },
+            {
+              "documentIdentifier" : "BJNR002740977BJNE003910116",
+              "paragraph" : "§ 4a",
+              "title" : "Angaben zur Anlage und zum Anlagenbetrieb"
+            },
+            {
+              "documentIdentifier" : "BJNR002740977BJNE004008116",
+              "paragraph" : "§ 4b",
+              "title" : "Angaben zu den Schutzmaßnahmen"
+            },
+            {
+              "documentIdentifier" : "BJNR002740977BJNE004103320",
+              "paragraph" : "§ 4c",
+              "title" : "Plan zur Behandlung der Abfälle"
+            },
+            {
+              "documentIdentifier" : "BJNR002740977BJNE004202320",
+              "paragraph" : "§ 4d",
+              "title" : "Angaben zur Energieeffizienz"
+            },
+            {
+              "documentIdentifier" : "BJNR002740977BJNE004303116",
+              "paragraph" : "§ 4e",
+              "title" : "Zusätzliche Angaben zur Prüfung der Umweltverträglichkeit; UVP-Bericht"
+            },
+            {
+              "documentIdentifier" : "BJNR002740977BJNE001401308",
+              "paragraph" : "§ 5",
+              "title" : "Vordrucke"
+            },
+            {
+              "documentIdentifier" : "BJNR002740977BJNE001502116",
+              "paragraph" : "§ 6",
+              "title" : "Eingangsbestätigung"
+            },
+            {
+              "documentIdentifier" : "BJNR002740977BJNE001605116",
+              "paragraph" : "§ 7",
+              "title" : "Prüfung der Vollständigkeit, Verfahrensablauf"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Anwendungsbereich, Antrag und Unterlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR002740977BJNG000301308",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR002740977BJNE001704116",
+              "paragraph" : "§ 8",
+              "title" : "Bekanntmachung des Vorhabens"
+            },
+            {
+              "documentIdentifier" : "BJNR002740977BJNE001805116",
+              "paragraph" : "§ 9",
+              "title" : "Inhalt der Bekanntmachung"
+            },
+            {
+              "documentIdentifier" : "BJNR002740977BJNE001904116",
+              "paragraph" : "§ 10",
+              "title" : "Auslegung von Antrag und Unterlagen; Veröffentlichung des UVP-Berichts"
+            },
+            {
+              "documentIdentifier" : "BJNR002740977BJNE004403116",
+              "paragraph" : "§ 10a",
+              "title" : "Akteneinsicht"
+            },
+            {
+              "documentIdentifier" : "BJNR002740977BJNE002006116",
+              "paragraph" : "§ 11",
+              "title" : "Beteiligung anderer Behörden"
+            },
+            {
+              "documentIdentifier" : "BJNR002740977BJNE004506116",
+              "paragraph" : "§ 11a",
+              "title" : "Grenzüberschreitende Behörden- und Öffentlichkeitsbeteiligung"
+            },
+            {
+              "documentIdentifier" : "BJNR002740977BJNE002104116",
+              "paragraph" : "§ 12",
+              "title" : "Einwendungen"
+            },
+            {
+              "documentIdentifier" : "BJNR002740977BJNE002211116",
+              "paragraph" : "§ 13",
+              "title" : "Sachverständigengutachten"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Beteiligung Dritter"
+        },
+        {
+          "documentIdentifier" : "BJNR002740977BJNG000401308",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR002740977BJNE002303116",
+              "paragraph" : "§ 14",
+              "title" : "Zweck"
+            },
+            {
+              "documentIdentifier" : "BJNR002740977BJNE002401308",
+              "paragraph" : "§ 15",
+              "title" : "Besondere Einwendungen"
+            },
+            {
+              "documentIdentifier" : "BJNR002740977BJNE002503116",
+              "paragraph" : "§ 16",
+              "title" : "Wegfall"
+            },
+            {
+              "documentIdentifier" : "BJNR002740977BJNE002602116",
+              "paragraph" : "§ 17",
+              "title" : "Verlegung"
+            },
+            {
+              "documentIdentifier" : "BJNR002740977BJNE002705116",
+              "paragraph" : "§ 18",
+              "title" : "Verlauf"
+            },
+            {
+              "documentIdentifier" : "BJNR002740977BJNE002803116",
+              "paragraph" : "§ 19",
+              "title" : "Niederschrift"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Erörterungstermin"
+        },
+        {
+          "documentIdentifier" : "BJNR002740977BJNG000501308",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR002740977BJNE002906116",
+              "paragraph" : "§ 20",
+              "title" : "Entscheidung"
+            },
+            {
+              "documentIdentifier" : "BJNR002740977BJNE003009116",
+              "paragraph" : "§ 21",
+              "title" : "Inhalt des Genehmigungsbescheids"
+            },
+            {
+              "documentIdentifier" : "BJNR002740977BJNE004603116",
+              "paragraph" : "§ 21a",
+              "title" : "Öffentliche Bekanntmachung und Veröffentlichung des Genehmigungsbescheids"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Genehmigung"
+        }
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR002740977BJNG000601308",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR002740977BJNE003103116",
+          "paragraph" : "§ 22",
+          "title" : "Teilgenehmigung"
+        },
+        {
+          "documentIdentifier" : "BJNR002740977BJNE003203116",
+          "paragraph" : "§ 23",
+          "title" : "Vorbescheid"
+        },
+        {
+          "documentIdentifier" : "BJNR002740977BJNE004703116",
+          "paragraph" : "§ 23a",
+          "title" : "Raumordnungsverfahren und Genehmigungsverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR002740977BJNE003304116",
+          "paragraph" : "§ 24",
+          "title" : "Vereinfachtes Verfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR002740977BJNE004805116",
+          "paragraph" : "§ 24a",
+          "title" : "Zulassung vorzeitigen Beginns"
+        },
+        {
+          "documentIdentifier" : "BJNR002740977BJNE005000116",
+          "paragraph" : "§ 24b",
+          "title" : "Verbundene Prüfverfahren bei UVP-pflichtigen Vorhaben"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Besondere Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR002740977BJNG000702116",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR002740977BJNE005100116",
+          "paragraph" : "§ 24c",
+          "title" : "Vermeidung von Interessenkonflikten"
+        },
+        {
+          "documentIdentifier" : "BJNR002740977BJNE003404116",
+          "paragraph" : "§ 25",
+          "title" : "Übergangsvorschrift"
+        },
+        {
+          "documentIdentifier" : "BJNR002740977BJNE003502116",
+          "paragraph" : "§ 26",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR002740977BJNE003602116",
+          "paragraph" : "§ 27",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR002740977BJNE005200116",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 4e)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussvorschriften"
+    }
+  ]
+}

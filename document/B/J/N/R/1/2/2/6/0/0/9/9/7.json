@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR122600997",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR122600997Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR122600997BJNE000205123",
+          "paragraph" : "§ 1",
+          "title" : "Erheben von Gebühren"
+        },
+        {
+          "documentIdentifier" : "BJNR122600997BJNE000301123",
+          "paragraph" : "§ 2",
+          "title" : "Gebührenbefreiungen"
+        },
+        {
+          "documentIdentifier" : "BJNR122600997BJNE000401123",
+          "paragraph" : "§ 3",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR122600997BJNE000510125",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 1 Abs. 1)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

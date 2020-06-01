@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR014590972",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR014590972Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR014590972BJNE000200319",
+          "paragraph" : "§ 1",
+          "title" : "Aufhebung von Ausbildungsberufen"
+        },
+        {
+          "documentIdentifier" : "BJNR014590972BJNE000300319",
+          "paragraph" : "§ 2",
+          "title" : "Besitzstandswahrung"
+        },
+        {
+          "documentIdentifier" : "BJNR014590972BJNE000400319",
+          "paragraph" : "§ 3",
+          "title" : "Berlin-Klausel"
+        },
+        {
+          "documentIdentifier" : "BJNR014590972BJNE000500319",
+          "paragraph" : "§ 4",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR014590972BJNE888800308",
+          "paragraph" : "Anhang EV",
+          "title" : "Auszug aus EinigVtr Anlage I Kapitel XVI Sachgebiet C Abschnitt III"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

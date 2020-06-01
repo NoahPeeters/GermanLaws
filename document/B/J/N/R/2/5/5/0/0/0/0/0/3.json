@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR255000003",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR255000003Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR255000003BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Übertragung der Zuständigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR255000003BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

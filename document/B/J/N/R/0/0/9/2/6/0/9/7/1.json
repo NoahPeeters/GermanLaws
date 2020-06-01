@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR009260971",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR009260971Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR009260971BJNE000102308",
+          "paragraph" : "(XXXX) §§ 1 bis 21",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR009260971BJNE002302314",
+          "paragraph" : "§ 22",
+          "title" : "Mischgetränke\n"
+        },
+        {
+          "documentIdentifier" : "BJNR009260971BJNE002402308",
+          "paragraph" : "(XXXX) §§ 23 und 24",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR009260971BJNE002704308",
+          "paragraph" : "§ 26",
+          "title" : "Straftaten"
+        },
+        {
+          "documentIdentifier" : "BJNR009260971BJNE002807308",
+          "paragraph" : "(XXXX) §§ 27 und 28",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

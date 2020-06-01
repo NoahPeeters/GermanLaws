@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR396200009",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR396200009Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR396200009BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Beleihung"
+        },
+        {
+          "documentIdentifier" : "BJNR396200009BJNE000303124",
+          "paragraph" : "§ 2",
+          "title" : "Aufsicht"
+        },
+        {
+          "documentIdentifier" : "BJNR396200009BJNE000401118",
+          "paragraph" : "§ 3",
+          "title" : "Berichtspflichten der Akkreditierungsstelle"
+        },
+        {
+          "documentIdentifier" : "BJNR396200009BJNE000501118",
+          "paragraph" : "§ 4",
+          "title" : "Öffentlich-rechtlicher Vertrag"
+        },
+        {
+          "documentIdentifier" : "BJNR396200009BJNE000601118",
+          "paragraph" : "§ 5",
+          "title" : "Mitwirkung in Akkreditierungsorganisationen"
+        },
+        {
+          "documentIdentifier" : "BJNR396200009BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

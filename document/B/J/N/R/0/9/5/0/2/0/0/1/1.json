@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR095020011",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR095020011Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR095020011BJNE000102301",
+          "paragraph" : "§ 1",
+          "title" : "Auflösung und Abwicklung"
+        },
+        {
+          "documentIdentifier" : "BJNR095020011BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Kostentragung und Vermögensüberschussverteilung"
+        },
+        {
+          "documentIdentifier" : "BJNR095020011BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Aufhebung des Holzabsatzfondsgesetzes und der Holzabsatzfondsverordnung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

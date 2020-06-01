@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR210500003",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR210500003Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR210500003BJNE000500000",
+          "paragraph" : "Anhang I",
+          "title" : "Gebühren für die Prüfung von Dampfkesselanlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR210500003BJNE000600000",
+          "paragraph" : "Anhang II",
+          "title" : "Gebühren für die Prüfung von Druckbehälteranlagen, Füllanlagen und Rohrleitungen"
+        },
+        {
+          "documentIdentifier" : "BJNR210500003BJNE000700000",
+          "paragraph" : "Anhang III",
+          "title" : "Gebühren für die Prüfung von Aufzugsanlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR210500003BJNE000800000",
+          "paragraph" : "Anhang IV",
+          "title" : "Gebühren für die Prüfung von Lageranlagen, Füllstellen, Tankstellen, Flugfeldbetankungsanlagen und Entleerstellen"
+        },
+        {
+          "documentIdentifier" : "BJNR210500003BJNE000900000",
+          "paragraph" : "Anhang V",
+          "title" : "Gebühren für die Prüfung von Anlagen in explosionsgefährdeten Bereichen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

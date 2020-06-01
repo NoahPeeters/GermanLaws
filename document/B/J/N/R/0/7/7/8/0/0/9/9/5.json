@@ -1,0 +1,108 @@
+{
+  "documentIdentifier" : "BJNR077800995",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR077800995BJNG000100305",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Seeschiffahrt"
+    },
+    {
+      "documentIdentifier" : "BJNR077800995BJNG000200305",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Meeresbergbau"
+    },
+    {
+      "documentIdentifier" : "BJNR077800995BJNG000300305",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Wissenschaftliche Meeresforschung"
+    },
+    {
+      "documentIdentifier" : "BJNR077800995BJNG000400305",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR077800995BJNE001600305",
+          "paragraph" : "Art 12",
+          "title" : "Erweiterung des Geltungsbereichs des deutschen Strafrechts"
+        },
+        {
+          "documentIdentifier" : "BJNR077800995BJNE001700305",
+          "paragraph" : "Art 13",
+          "title" : "Mitteilungspflichten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Umweltstrafrecht"
+    },
+    {
+      "documentIdentifier" : "BJNR077800995BJNG000500305",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Vollstreckung seegerichtlicher Entscheidungen"
+    },
+    {
+      "documentIdentifier" : "BJNR077800995BJNG000600305",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR077800995BJNE001900305",
+          "paragraph" : "Art 15",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlußvorschrift"
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "documentIdentifier" : "BJNR057600010",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR057600010BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR057600010BJNE000300000",
+          "paragraph" : "§ 1",
+          "title" : "Leitung des Prüfungsamtes"
+        },
+        {
+          "documentIdentifier" : "BJNR057600010BJNE000401311",
+          "paragraph" : "§ 2",
+          "title" : "Verwaltungsrat"
+        },
+        {
+          "documentIdentifier" : "BJNR057600010BJNE000500000",
+          "paragraph" : "§ 3",
+          "title" : "Aufgabenkommission"
+        },
+        {
+          "documentIdentifier" : "BJNR057600010BJNE000600000",
+          "paragraph" : "§ 4",
+          "title" : "Prüferinnen und Prüfer"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Prüfungsamt für die notarielle Fachprüfung bei der Bundesnotarkammer"
+    },
+    {
+      "documentIdentifier" : "BJNR057600010BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR057600010BJNE000700000",
+          "paragraph" : "§ 5",
+          "title" : "Prüfungsgebiete"
+        },
+        {
+          "documentIdentifier" : "BJNR057600010BJNE000800000",
+          "paragraph" : "§ 6",
+          "title" : "Prüfungstermine"
+        },
+        {
+          "documentIdentifier" : "BJNR057600010BJNE000900000",
+          "paragraph" : "§ 7",
+          "title" : "Prüfungsorte"
+        },
+        {
+          "documentIdentifier" : "BJNR057600010BJNE001000000",
+          "paragraph" : "§ 8",
+          "title" : "Zulassung zur Prüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR057600010BJNE001100000",
+          "paragraph" : "§ 9",
+          "title" : "Rücktritt und Versäumnis"
+        },
+        {
+          "documentIdentifier" : "BJNR057600010BJNE001200000",
+          "paragraph" : "§ 10",
+          "title" : "Vorbereitung der schriftlichen Prüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR057600010BJNE001300000",
+          "paragraph" : "§ 11",
+          "title" : "Anfertigung der Aufsichtsarbeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR057600010BJNE001400000",
+          "paragraph" : "§ 12",
+          "title" : "Bewertung der Aufsichtsarbeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR057600010BJNE001500000",
+          "paragraph" : "§ 13",
+          "title" : "Ladung zur mündlichen Prüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR057600010BJNE001600000",
+          "paragraph" : "§ 14",
+          "title" : "Mündliche Prüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR057600010BJNE001700000",
+          "paragraph" : "§ 15",
+          "title" : "Bewertung der mündlichen Prüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR057600010BJNE001800000",
+          "paragraph" : "§ 16",
+          "title" : "Nachteilsausgleich"
+        },
+        {
+          "documentIdentifier" : "BJNR057600010BJNE001900000",
+          "paragraph" : "§ 17",
+          "title" : "Einsicht in Prüfungsunterlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR057600010BJNE002000000",
+          "paragraph" : "§ 18",
+          "title" : "Mängel im Prüfungsverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR057600010BJNE002100000",
+          "paragraph" : "§ 19",
+          "title" : "Wiederholungsprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR057600010BJNE002200000",
+          "paragraph" : "§ 20",
+          "title" : "Widerspruchsverfahren"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Notarielle Fachprüfung"
+    },
+    {
+      "documentIdentifier" : "BJNR057600010BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR057600010BJNE002300000",
+          "paragraph" : "§ 21",
+          "title" : "Aufbewahrungsfristen"
+        },
+        {
+          "documentIdentifier" : "BJNR057600010BJNE002400000",
+          "paragraph" : "§ 22",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussvorschriften"
+    }
+  ]
+}

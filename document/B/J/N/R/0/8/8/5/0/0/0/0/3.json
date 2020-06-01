@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR088500003",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR088500003Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR088500003BJNE000201140",
+          "paragraph" : "§ 1",
+          "title" : "Höhe des Ersatzes bei Mitteilungen nach den §§ 125, 128 des Aktiengesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR088500003BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Vergütung für Vervielfältigungen"
+        },
+        {
+          "documentIdentifier" : "BJNR088500003BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Angaben bei Namensaktien"
+        },
+        {
+          "documentIdentifier" : "BJNR088500003BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Umsatzsteuer"
+        },
+        {
+          "documentIdentifier" : "BJNR088500003BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

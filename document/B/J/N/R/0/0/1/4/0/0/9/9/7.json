@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR001400997",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR001400997Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR001400997BJNE000200320",
+          "paragraph" : "§ 1",
+          "title" : "Zuständigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR001400997BJNE000300320",
+          "paragraph" : "§ 2",
+          "title" : "Einfuhr"
+        },
+        {
+          "documentIdentifier" : "BJNR001400997BJNE000401377",
+          "paragraph" : "§ 3",
+          "title" : "Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR001400997BJNE000500320",
+          "paragraph" : "§ 4",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

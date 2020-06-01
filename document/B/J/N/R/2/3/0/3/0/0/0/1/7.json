@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR230300017",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR230300017Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR230300017BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Erlass von Widerspruchsbescheiden"
+        },
+        {
+          "documentIdentifier" : "BJNR230300017BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Vertretung bei Klagen"
+        },
+        {
+          "documentIdentifier" : "BJNR230300017BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

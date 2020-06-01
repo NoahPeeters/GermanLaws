@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR310800997",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR310800997Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR310800997BJNE000200305",
+          "paragraph" : "Art 1",
+          "title" : "Personalrechtliches Begleitgesetz zum Telekommunikationsgesetz (PersBG)"
+        },
+        {
+          "documentIdentifier" : "BJNR310800997BJNE000400305",
+          "paragraph" : "Art 3",
+          "title" : "Zuständigkeitsanpassung"
+        },
+        {
+          "documentIdentifier" : "BJNR310800997BJNE000500305",
+          "paragraph" : "Art 4",
+          "title" : "Rückkehr zum einheitlichen Verordnungsrang"
+        },
+        {
+          "documentIdentifier" : "BJNR310800997BJNE000600305",
+          "paragraph" : "Art 5",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

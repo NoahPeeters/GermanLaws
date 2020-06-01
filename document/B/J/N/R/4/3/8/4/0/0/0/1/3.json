@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR438400013",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR438400013Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR438400013BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Grunddaten"
+        },
+        {
+          "documentIdentifier" : "BJNR438400013BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Stichprobenverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR438400013BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Intensivmonitoring"
+        },
+        {
+          "documentIdentifier" : "BJNR438400013BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Erhebungsstandards"
+        },
+        {
+          "documentIdentifier" : "BJNR438400013BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

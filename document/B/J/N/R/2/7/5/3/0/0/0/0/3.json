@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR275300003",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR275300003Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR275300003BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Anforderungen an maßgebliche Organisationen auf Bundesebene"
+        },
+        {
+          "documentIdentifier" : "BJNR275300003BJNE000301308",
+          "paragraph" : "§ 2",
+          "title" : "Anerkannte Organisationen"
+        },
+        {
+          "documentIdentifier" : "BJNR275300003BJNE000401308",
+          "paragraph" : "§ 3",
+          "title" : "Anerkennung weiterer Organisationen"
+        },
+        {
+          "documentIdentifier" : "BJNR275300003BJNE000501308",
+          "paragraph" : "§ 4",
+          "title" : "Verfahren der Beteiligung"
+        },
+        {
+          "documentIdentifier" : "BJNR275300003BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

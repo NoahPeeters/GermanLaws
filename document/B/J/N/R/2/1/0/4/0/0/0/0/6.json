@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR210400006",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR210400006Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR210400006BJNE000101377",
+          "paragraph" : "§ 1",
+          "title" : "Gegenstand"
+        },
+        {
+          "documentIdentifier" : "BJNR210400006BJNE000201377",
+          "paragraph" : "§ 2",
+          "title" : "Aufteilung"
+        },
+        {
+          "documentIdentifier" : "BJNR210400006BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Grundlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR210400006BJNE000401377",
+          "paragraph" : "§ 4",
+          "title" : "Rückerstattungen; Einlagen anderer Mitgliedstaaten"
+        },
+        {
+          "documentIdentifier" : "BJNR210400006BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Verordnungsermächtigung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR043200997",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR043200997Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR043200997BJNE000200310",
+          "paragraph" : "§ 1",
+          "title" : "Verbot der Verwendung von Frischzellen"
+        },
+        {
+          "documentIdentifier" : "BJNR043200997BJNE000300310",
+          "paragraph" : "§ 2",
+          "title" : "Straf- und Bußgeldvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR043200997BJNE000400310",
+          "paragraph" : "§ 3",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

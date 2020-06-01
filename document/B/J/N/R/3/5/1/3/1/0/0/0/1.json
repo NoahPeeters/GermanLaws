@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR351310001",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR351310001Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR351310001BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Gerichtliche Maßnahmen zum Schutz vor Gewalt und Nachstellungen"
+        },
+        {
+          "documentIdentifier" : "BJNR351310001BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Überlassung einer gemeinsam genutzten Wohnung"
+        },
+        {
+          "documentIdentifier" : "BJNR351310001BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Geltungsbereich, Konkurrenzen"
+        },
+        {
+          "documentIdentifier" : "BJNR351310001BJNE000401123",
+          "paragraph" : "§ 4",
+          "title" : "Strafvorschriften"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

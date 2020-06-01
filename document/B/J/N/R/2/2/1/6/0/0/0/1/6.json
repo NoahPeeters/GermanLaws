@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR221600016",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR221600016Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR221600016BJNE000201126",
+          "paragraph" : "§ 1",
+          "title" : "Übertragung der Verordnungsermächtigung"
+        },
+        {
+          "documentIdentifier" : "BJNR221600016BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

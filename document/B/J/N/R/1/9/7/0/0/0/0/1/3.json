@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR197000013",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR197000013Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR197000013BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Antrag"
+        },
+        {
+          "documentIdentifier" : "BJNR197000013BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Genehmigungsverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR197000013BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Unterrichtung der Öffentlichkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR197000013BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Verfahren für die Genehmigung eines Pflanzenschutzmittels für die Anwendung mit Luftfahrzeugen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

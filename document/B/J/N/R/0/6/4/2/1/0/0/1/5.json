@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR064210015",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR064210015Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR064210015BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Ziel des Gesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR064210015BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Geltungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR064210015BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR064210015BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Vorgaben für Aufsichtsgremien"
+        },
+        {
+          "documentIdentifier" : "BJNR064210015BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Vorgaben für wesentliche Gremien"
+        },
+        {
+          "documentIdentifier" : "BJNR064210015BJNE000600000",
+          "paragraph" : "§ 6",
+          "title" : "Statistik, Verordnungsermächtigung"
+        },
+        {
+          "documentIdentifier" : "BJNR064210015BJNE000700000",
+          "paragraph" : "§ 7",
+          "title" : "Bericht"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "documentIdentifier" : "BJNR370410004",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR370410004BJNG000101116",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR370410004BJNE000101116",
+          "paragraph" : "§ 1",
+          "title" : "Zweck des Gesetzes; Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR370410004BJNE000202116",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR370410004BJNG000201116",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR370410004BJNE000301116",
+          "paragraph" : "§ 3",
+          "title" : "Anspruch auf Zugang zu Umweltinformationen"
+        },
+        {
+          "documentIdentifier" : "BJNR370410004BJNE000401116",
+          "paragraph" : "§ 4",
+          "title" : "Antrag und Verfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR370410004BJNE000501116",
+          "paragraph" : "§ 5",
+          "title" : "Ablehnung des Antrags"
+        },
+        {
+          "documentIdentifier" : "BJNR370410004BJNE000601116",
+          "paragraph" : "§ 6",
+          "title" : "Rechtsschutz"
+        },
+        {
+          "documentIdentifier" : "BJNR370410004BJNE000701116",
+          "paragraph" : "§ 7",
+          "title" : "Unterstützung des Zugangs zu Umweltinformationen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Informationszugang auf Antrag"
+    },
+    {
+      "documentIdentifier" : "BJNR370410004BJNG000301116",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR370410004BJNE000801116",
+          "paragraph" : "§ 8",
+          "title" : "Schutz öffentlicher Belange"
+        },
+        {
+          "documentIdentifier" : "BJNR370410004BJNE000901116",
+          "paragraph" : "§ 9",
+          "title" : "Schutz sonstiger Belange"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Ablehnungsgründe"
+    },
+    {
+      "documentIdentifier" : "BJNR370410004BJNG000401116",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR370410004BJNE001003116",
+          "paragraph" : "§ 10",
+          "title" : "Unterrichtung der Öffentlichkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR370410004BJNE001101116",
+          "paragraph" : "§ 11",
+          "title" : "Umweltzustandsbericht"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Verbreitung von Umweltinformationen"
+    },
+    {
+      "documentIdentifier" : "BJNR370410004BJNG000501116",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR370410004BJNE001202116",
+          "paragraph" : "§ 12",
+          "title" : "Gebühren und Auslagen"
+        },
+        {
+          "documentIdentifier" : "BJNR370410004BJNE001301116",
+          "paragraph" : "§ 13",
+          "title" : "Überwachung"
+        },
+        {
+          "documentIdentifier" : "BJNR370410004BJNE001401116",
+          "paragraph" : "§ 14",
+          "title" : "Ordnungswidrigkeiten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussvorschriften"
+    }
+  ]
+}

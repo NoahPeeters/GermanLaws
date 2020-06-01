@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR265800016",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR265800016Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR265800016BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Stellenobergrenzen"
+        },
+        {
+          "documentIdentifier" : "BJNR265800016BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR240110014",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR240110014Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR240110014BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Unmittelbare Bundesverwaltung"
+        },
+        {
+          "documentIdentifier" : "BJNR240110014BJNE000202116",
+          "paragraph" : "§ 2",
+          "title" : "Mittelbare Bundesverwaltung"
+        },
+        {
+          "documentIdentifier" : "BJNR240110014BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Bundesgerichte"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

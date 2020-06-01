@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR009990992",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR009990992Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR009990992BJNE000204119",
+          "paragraph" : "§ 1",
+          "title" : "Erstattungsfähige Aufwendungen"
+        },
+        {
+          "documentIdentifier" : "BJNR009990992BJNE000304119",
+          "paragraph" : "§ 2",
+          "title" : "Berechnung der Erstattungsbeträge bei Renten und sonstigen Leistungen"
+        },
+        {
+          "documentIdentifier" : "BJNR009990992BJNE000404119",
+          "paragraph" : "§ 3",
+          "title" : "Erstattung der Verwaltungskosten"
+        },
+        {
+          "documentIdentifier" : "BJNR009990992BJNE000503126",
+          "paragraph" : "§ 4",
+          "title" : "Erfassung der Aufwendungen"
+        },
+        {
+          "documentIdentifier" : "BJNR009990992BJNE000603126",
+          "paragraph" : "§ 5",
+          "title" : "Vorschüsse"
+        },
+        {
+          "documentIdentifier" : "BJNR009990992BJNE000701126",
+          "paragraph" : "§ 6",
+          "title" : "Durchführung des Erstattungsverfahrens und der Abrechnung"
+        },
+        {
+          "documentIdentifier" : "BJNR009990992BJNE000800314",
+          "paragraph" : "§ 7",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

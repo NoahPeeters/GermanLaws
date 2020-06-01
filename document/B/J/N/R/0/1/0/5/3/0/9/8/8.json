@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR010530988",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR010530988Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR010530988BJNE000600328",
+          "paragraph" : "Art 5",
+          "title" : "Rechtliche Behandlung stillgelegter Flächen"
+        },
+        {
+          "documentIdentifier" : "BJNR010530988BJNE000800328",
+          "paragraph" : "Art 7",
+          "title" : "Berlin-Klausel"
+        },
+        {
+          "documentIdentifier" : "BJNR010530988BJNE000900328",
+          "paragraph" : "Art 8",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

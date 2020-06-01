@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR138010015",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR138010015Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR138010015BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Ermittlung der bundesweiten Kennzahlen"
+        },
+        {
+          "documentIdentifier" : "BJNR138010015BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Auskunftserteilung"
+        },
+        {
+          "documentIdentifier" : "BJNR138010015BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Schriftlicher Plan"
+        },
+        {
+          "documentIdentifier" : "BJNR138010015BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Löschung der Daten"
+        },
+        {
+          "documentIdentifier" : "BJNR138010015BJNE000500000",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 1)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR185800013",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR185800013Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR185800013BJNE000100000",
+          "paragraph" : "Art 1",
+          "title" : "Zustimmung zum Finanzvermögen-Staatsvertrag"
+        },
+        {
+          "documentIdentifier" : "BJNR185800013BJNE000200000",
+          "paragraph" : "Art 2",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

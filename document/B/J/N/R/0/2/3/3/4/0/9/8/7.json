@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR023340987",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR023340987Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR023340987BJNE000201308",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR023340987BJNE000501308",
+          "paragraph" : "§ 4",
+          "title" : "Abschreibungen auf der Lizenz"
+        },
+        {
+          "documentIdentifier" : "BJNR023340987BJNE000602377",
+          "paragraph" : "§ 5",
+          "title" : "Freigabe der Sicherheit"
+        },
+        {
+          "documentIdentifier" : "BJNR023340987BJNE000802308",
+          "paragraph" : "§ 6",
+          "title" : "Inkrafttreten, Übergangsregelung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR701570949",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR701570949Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR701570949BJNE000102309",
+          "paragraph" : "§ 1",
+          "title" : "Arbeitnehmer, Arbeitgeber"
+        },
+        {
+          "documentIdentifier" : "BJNR701570949BJNE000204301",
+          "paragraph" : "§ 2",
+          "title" : "Arbeitslohn"
+        },
+        {
+          "documentIdentifier" : "BJNR701570949BJNE000719360",
+          "paragraph" : "§ 4",
+          "title" : "Lohnkonto"
+        },
+        {
+          "documentIdentifier" : "BJNR701570949BJNE001303123",
+          "paragraph" : "§ 5",
+          "title" : "Besondere Aufzeichnungs- und Mitteilungspflichten im Rahmen der betrieblichen Altersversorgung"
+        },
+        {
+          "documentIdentifier" : "BJNR701570949BJNE000813377",
+          "paragraph" : "§ 8",
+          "title" : "Anwendungszeitraum"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

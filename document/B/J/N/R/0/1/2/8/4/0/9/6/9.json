@@ -1,0 +1,741 @@
+{
+  "documentIdentifier" : "BJNR012840969",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR012840969BJNG000100319",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR012840969BJNE001000319",
+          "paragraph" : "§ 1",
+          "title" : "Feststellung des Haushaltsplans"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE001100319",
+          "paragraph" : "§ 2",
+          "title" : "Bedeutung des Haushaltsplans"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE001200319",
+          "paragraph" : "§ 3",
+          "title" : "Wirkungen des Haushaltsplans"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE001301301",
+          "paragraph" : "§ 4",
+          "title" : "Haushaltsjahr"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE001402301",
+          "paragraph" : "§ 5",
+          "title" : "Allgemeine Verwaltungsvorschriften, vorläufige und endgültige\nHaushalts- und Wirtschaftsführung"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE001500319",
+          "paragraph" : "§ 6",
+          "title" : "Notwendigkeit der Ausgaben und Verpflichtungsermächtigungen"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE001603308",
+          "paragraph" : "§ 7",
+          "title" : "Wirtschaftlichkeit und Sparsamkeit, Kosten- und Leistungsrechnung"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE001701301",
+          "paragraph" : "§ 8",
+          "title" : "Grundsatz der Gesamtdeckung"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE001800319",
+          "paragraph" : "§ 9",
+          "title" : "Beauftragter für den Haushalt"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE001900319",
+          "paragraph" : "§ 10",
+          "title" : "Unterrichtung des Bundestages und des Bundesrates"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE013005160",
+          "paragraph" : "§ 10a",
+          "title" : "Geheimhaltungsbedürftige Angelegenheiten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften zum Haushaltsplan"
+    },
+    {
+      "documentIdentifier" : "BJNR012840969BJNG000200319",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR012840969BJNE002000319",
+          "paragraph" : "§ 11",
+          "title" : "Vollständigkeit und Einheit, Fälligkeitsprinzip"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE002100319",
+          "paragraph" : "§ 12",
+          "title" : "Geltungsdauer der Haushaltspläne"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE002202160",
+          "paragraph" : "§ 13",
+          "title" : "Einzelpläne, Gesamtplan, Gruppierungsplan"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE002301301",
+          "paragraph" : "§ 14",
+          "title" : "Übersichten zum Haushaltsplan, Funktionenplan"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE002400319",
+          "paragraph" : "§ 15",
+          "title" : "Bruttoveranschlagung, Selbstbewirtschaftungsmittel"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE002500319",
+          "paragraph" : "§ 16",
+          "title" : "Verpflichtungsermächtigungen"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE002600319",
+          "paragraph" : "§ 17",
+          "title" : "Einzelveranschlagung, Erläuterungen, Planstellen"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE013300123",
+          "paragraph" : "§ 17a",
+          "title" : "Obergrenzen für Beförderungsämter"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE002703160",
+          "paragraph" : "§ 18",
+          "title" : "Kreditermächtigungen"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE002801301",
+          "paragraph" : "§ 19",
+          "title" : "Übertragbarkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE002901301",
+          "paragraph" : "§ 20",
+          "title" : "Deckungsfähigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE003000319",
+          "paragraph" : "§ 21",
+          "title" : "Wegfall- und Umwandlungsvermerke"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE003100319",
+          "paragraph" : "§ 22",
+          "title" : "Sperrvermerk"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE003200319",
+          "paragraph" : "§ 23",
+          "title" : "Zuwendungen"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE003302301",
+          "paragraph" : "§ 24",
+          "title" : "Baumaßnahmen, größere Beschaffungen, größere\nEntwicklungsvorhaben"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE003400319",
+          "paragraph" : "§ 25",
+          "title" : "Überschuß, Fehlbetrag"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE003501301",
+          "paragraph" : "§ 26",
+          "title" : "Bundesbetriebe, Sondervermögen, Zuwendungsempfänger"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE003601301",
+          "paragraph" : "§ 27",
+          "title" : "Voranschläge"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE003702360",
+          "paragraph" : "§ 28",
+          "title" : "Aufstellung des Entwurfs des Haushaltsplans"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE003802360",
+          "paragraph" : "§ 29",
+          "title" : "Beschluß über den Entwurf des Haushaltsplans"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE003900319",
+          "paragraph" : "§ 30",
+          "title" : "Vorlagefrist"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE004001301",
+          "paragraph" : "§ 31",
+          "title" : "Finanzbericht"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE004100319",
+          "paragraph" : "§ 32",
+          "title" : "Ergänzungen zum Entwurf des Haushaltsplans"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE004200319",
+          "paragraph" : "§ 33",
+          "title" : "Nachtragshaushaltsgesetze"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Aufstellung des Haushaltsplans"
+    },
+    {
+      "documentIdentifier" : "BJNR012840969BJNG000300319",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR012840969BJNE004300319",
+          "paragraph" : "§ 34",
+          "title" : "Erhebung der Einnahmen, Bewirtschaftung der Ausgaben"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE004400319",
+          "paragraph" : "§ 35",
+          "title" : "Bruttonachweis, Einzelnachweis"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE004501301",
+          "paragraph" : "§ 36",
+          "title" : "Aufhebung der Sperre"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE004602301",
+          "paragraph" : "§ 37",
+          "title" : "Über- und außerplanmäßige Ausgaben"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE004703301",
+          "paragraph" : "§ 38",
+          "title" : "Verpflichtungsermächtigungen"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE004801301",
+          "paragraph" : "§ 39",
+          "title" : "Gewährleistungen, Kreditzusagen"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE004901301",
+          "paragraph" : "§ 40",
+          "title" : "Andere Maßnahmen von finanzieller Bedeutung"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE005001301",
+          "paragraph" : "§ 41",
+          "title" : "Haushaltswirtschaftliche Sperre"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE005100319",
+          "paragraph" : "§ 42",
+          "title" : "Konjunkturpolitisch bedingte zusätzliche Ausgaben"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE005201301",
+          "paragraph" : "§ 43",
+          "title" : "Kassenmittel, Betriebsmittel"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE005302360",
+          "paragraph" : "§ 44",
+          "title" : "Zuwendungen, Verwaltung von Mitteln oder Vermögensgegenständen"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE005501301",
+          "paragraph" : "§ 45",
+          "title" : "Sachliche und zeitliche Bindung"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE005600319",
+          "paragraph" : "§ 46",
+          "title" : "Deckungsfähigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE005700319",
+          "paragraph" : "§ 47",
+          "title" : "Wegfall- und Umwandlungsvermerke"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE005802360",
+          "paragraph" : "§ 48",
+          "title" : "Höchstaltersgrenze bei der Berufung in ein Beamten- oder Soldatenverhältnis oder Versetzung von Beamtinnen und Beamten in den Bundesdienst"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE005900319",
+          "paragraph" : "§ 49",
+          "title" : "Einweisung in eine Planstelle"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE006001301",
+          "paragraph" : "§ 50",
+          "title" : "Umsetzung von Mitteln und Planstellen"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE006100319",
+          "paragraph" : "§ 51",
+          "title" : "Besondere Personalausgaben"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE006201301",
+          "paragraph" : "§ 52",
+          "title" : "Nutzungen und Sachbezüge"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE006300319",
+          "paragraph" : "§ 53",
+          "title" : "Billigkeitsleistungen"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE006401301",
+          "paragraph" : "§ 54",
+          "title" : "Baumaßnahmen, größere Beschaffungen, größere Entwicklungsvorhaben"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE006501360",
+          "paragraph" : "§ 55",
+          "title" : "Öffentliche Ausschreibung"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE006601301",
+          "paragraph" : "§ 56",
+          "title" : "Vorleistungen"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE006701301",
+          "paragraph" : "§ 57",
+          "title" : "Verträge mit Angehörigen des öffentlichen Dienstes"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE006801301",
+          "paragraph" : "§ 58",
+          "title" : "Änderung von Verträgen, Vergleiche"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE006901301",
+          "paragraph" : "§ 59",
+          "title" : "Veränderung von Ansprüchen"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE007001301",
+          "paragraph" : "§ 60",
+          "title" : "Vorschüsse, Verwahrungen"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE007101301",
+          "paragraph" : "§ 61",
+          "title" : "Interne Verrechnungen"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE007200319",
+          "paragraph" : "§ 62",
+          "title" : "Kassenverstärkungsrücklage"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE007302308",
+          "paragraph" : "§ 63",
+          "title" : "Erwerb und Veräußerung von Vermögensgegenständen"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE007401301",
+          "paragraph" : "§ 64",
+          "title" : "Grundstücke"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE007503301",
+          "paragraph" : "§ 65",
+          "title" : "Beteiligung an privatrechtlichen Unternehmen"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE007601301",
+          "paragraph" : "§ 66",
+          "title" : "Unterrichtung des Bundesrechnungshofes"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE007701301",
+          "paragraph" : "§ 67",
+          "title" : "Prüfungsrecht durch Vereinbarung"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE007801301",
+          "paragraph" : "§ 68",
+          "title" : "Zuständigkeitsregelungen"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE007901301",
+          "paragraph" : "§ 69",
+          "title" : "Unterrichtung des Bundesrechnungshofes"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE013100160",
+          "paragraph" : "§ 69a",
+          "title" : "Parlamentarische Kontrolle von Bundesbeteiligungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Ausführung des Haushaltsplans"
+    },
+    {
+      "documentIdentifier" : "BJNR012840969BJNG000400319",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR012840969BJNE008002301",
+          "paragraph" : "§ 70",
+          "title" : "Zahlungen"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE008102301",
+          "paragraph" : "§ 71",
+          "title" : "Buchführung"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE008202301",
+          "paragraph" : "§ 72",
+          "title" : "Buchung nach Haushaltsjahren"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE008301301",
+          "paragraph" : "§ 73",
+          "title" : "Vermögensbuchführung, integrierte Buchführung"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE008401301",
+          "paragraph" : "§ 74",
+          "title" : "Buchführung bei Bundesbetrieben"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE008500319",
+          "paragraph" : "§ 75",
+          "title" : "Belegpflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE008601301",
+          "paragraph" : "§ 76",
+          "title" : "Abschluß der Bücher"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE008702301",
+          "paragraph" : "§ 77",
+          "title" : "Kassensicherheit"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE008801301",
+          "paragraph" : "§ 78",
+          "title" : "Unvermutete Prüfungen"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE008905377",
+          "paragraph" : "§ 79",
+          "title" : "Bundeskassen, Verwaltungsvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE009002301",
+          "paragraph" : "§ 80",
+          "title" : "Rechnungslegung"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE009100319",
+          "paragraph" : "§ 81",
+          "title" : "Gliederung der Haushaltsrechnung"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE009200319",
+          "paragraph" : "§ 82",
+          "title" : "Kassenmäßiger Abschluß"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE009300319",
+          "paragraph" : "§ 83",
+          "title" : "Haushaltsabschluß"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE009400319",
+          "paragraph" : "§ 84",
+          "title" : "Abschlußbericht"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE009500319",
+          "paragraph" : "§ 85",
+          "title" : "Übersichten zur Haushaltsrechnung"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE009600319",
+          "paragraph" : "§ 86",
+          "title" : "Vermögensrechnung"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE009702301",
+          "paragraph" : "§ 87",
+          "title" : "Rechnungslegung der Bundesbetriebe"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Zahlungen, Buchführung und Rechnungslegung"
+    },
+    {
+      "documentIdentifier" : "BJNR012840969BJNG000500319",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR012840969BJNE009801301",
+          "paragraph" : "§ 88",
+          "title" : "Aufgaben des Bundesrechnungshofes"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE009900319",
+          "paragraph" : "§ 89",
+          "title" : "Prüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE010000319",
+          "paragraph" : "§ 90",
+          "title" : "Inhalt der Prüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE010103360",
+          "paragraph" : "§ 91",
+          "title" : "Prüfung bei Stellen außerhalb der Bundesverwaltung"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE010201301",
+          "paragraph" : "§ 92",
+          "title" : "Prüfung staatlicher Betätigung bei privatrechtlichen Unternehmen"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE010302360",
+          "paragraph" : "§ 93",
+          "title" : "Gemeinsame Prüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE010401309",
+          "paragraph" : "§ 94",
+          "title" : "Zeit und Art der Prüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE010501123",
+          "paragraph" : "§ 95",
+          "title" : "Auskunftspflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE013200360",
+          "paragraph" : "§ 95a",
+          "title" : "Prüfungsanordnung und Entfall der aufschiebenden Wirkung"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE010602140",
+          "paragraph" : "§ 96",
+          "title" : "Prüfungsergebnis"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE010702140",
+          "paragraph" : "§ 97",
+          "title" : "Bemerkungen"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE010800319",
+          "paragraph" : "§ 98",
+          "title" : "Aufforderung zum Schadenausgleich"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE010901140",
+          "paragraph" : "§ 99",
+          "title" : "Angelegenheiten von besonderer Bedeutung"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE011003301",
+          "paragraph" : "§ 100",
+          "title" : "Prüfungsämter"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE011100319",
+          "paragraph" : "§ 101",
+          "title" : "Rechnung des Bundesrechnungshofes"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE011200319",
+          "paragraph" : "§ 102",
+          "title" : "Unterrichtung des Bundesrechnungshofes"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE011301301",
+          "paragraph" : "§ 103",
+          "title" : "Anhörung des Bundesrechnungshofes"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE011400319",
+          "paragraph" : "§ 104",
+          "title" : "Prüfung der juristischen Personen des privaten Rechts"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Rechnungsprüfung"
+    },
+    {
+      "documentIdentifier" : "BJNR012840969BJNG000600319",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR012840969BJNE011501301",
+          "paragraph" : "§ 105",
+          "title" : "Grundsatz"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE011600319",
+          "paragraph" : "§ 106",
+          "title" : "Haushaltsplan"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE011700319",
+          "paragraph" : "§ 107",
+          "title" : "Umlagen, Beiträge"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE011801301",
+          "paragraph" : "§ 108",
+          "title" : "Genehmigung des Haushaltsplans"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE011902301",
+          "paragraph" : "§ 109",
+          "title" : "Rechnungslegung, Prüfung, Entlastung"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE012001309",
+          "paragraph" : "§ 110",
+          "title" : "Wirtschaftsplan"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE012102301",
+          "paragraph" : "§ 111",
+          "title" : "Prüfung durch den Bundesrechnungshof"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE012204123",
+          "paragraph" : "§ 112",
+          "title" : "Sonderregelungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Bundesunmittelbare juristische Personen des öffentlichen Rechts"
+    },
+    {
+      "documentIdentifier" : "BJNR012840969BJNG000700319",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR012840969BJNE012300319",
+          "paragraph" : "§ 113",
+          "title" : "Grundsatz"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Sondervermögen"
+    },
+    {
+      "documentIdentifier" : "BJNR012840969BJNG000800319",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR012840969BJNE012401301",
+          "paragraph" : "§ 114",
+          "title" : "Entlastung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          8
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Entlastung"
+    },
+    {
+      "documentIdentifier" : "BJNR012840969BJNG000900319",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR012840969BJNE012500319",
+          "paragraph" : "§ 115",
+          "title" : "Öffentlich-rechtliche Dienst- oder Amtsverhältnisse"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE012601301",
+          "paragraph" : "§ 116",
+          "title" : "Endgültige Entscheidung"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE012700319",
+          "paragraph" : "§ 117",
+          "title" : "Berlin-Klausel"
+        },
+        {
+          "documentIdentifier" : "BJNR012840969BJNE012901309",
+          "paragraph" : "§ 119",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          9
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übergangs- und Schlußbestimmungen"
+    }
+  ]
+}

@@ -1,0 +1,592 @@
+{
+  "documentIdentifier" : "BJNR261810005",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR261810005BJNG000104116",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR261810005BJNE000210116",
+          "paragraph" : "§ 1",
+          "title" : "Zweck des Gesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR261810005BJNE000312116",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR261810005BJNE000411116",
+          "paragraph" : "§ 3",
+          "title" : "Weitere Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR261810005BJNE000508116",
+          "paragraph" : "§ 4",
+          "title" : "Vorschriften zum Geltungsbereich"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Bestimmungen"
+    },
+    {
+      "documentIdentifier" : "BJNR261810005BJNG000204116",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR261810005BJNE000605116",
+          "paragraph" : "§ 5",
+          "title" : "Verbote zum Schutz der Gesundheit"
+        },
+        {
+          "documentIdentifier" : "BJNR261810005BJNE000707360",
+          "paragraph" : "§ 6",
+          "title" : "Verbote für Lebensmittelzusatzstoffe"
+        },
+        {
+          "documentIdentifier" : "BJNR261810005BJNE000808116",
+          "paragraph" : "§ 7",
+          "title" : "Ermächtigungen für Lebensmittelzusatzstoffe"
+        },
+        {
+          "documentIdentifier" : "BJNR261810005BJNE000907116",
+          "paragraph" : "§ 8",
+          "title" : "Bestrahlungsverbot und Zulassungsermächtigung"
+        },
+        {
+          "documentIdentifier" : "BJNR261810005BJNE001013116",
+          "paragraph" : "§ 9",
+          "title" : "Pflanzenschutz- oder sonstige Mittel"
+        },
+        {
+          "documentIdentifier" : "BJNR261810005BJNE001110116",
+          "paragraph" : "§ 10",
+          "title" : "Stoffe mit pharmakologischer Wirkung"
+        },
+        {
+          "documentIdentifier" : "BJNR261810005BJNE001207116",
+          "paragraph" : "§ 11",
+          "title" : "Vorschriften zum Schutz vor Täuschung"
+        },
+        {
+          "documentIdentifier" : "BJNR261810005BJNE001309116",
+          "paragraph" : "§ 12",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR261810005BJNE001408116",
+          "paragraph" : "§ 13",
+          "title" : "Ermächtigungen zum Schutz der Gesundheit und vor Täuschung"
+        },
+        {
+          "documentIdentifier" : "BJNR261810005BJNE008201116",
+          "paragraph" : "§ 14",
+          "title" : "Weitere Ermächtigungen"
+        },
+        {
+          "documentIdentifier" : "BJNR261810005BJNE001607116",
+          "paragraph" : "§ 15",
+          "title" : "Deutsches Lebensmittelbuch"
+        },
+        {
+          "documentIdentifier" : "BJNR261810005BJNE001706116",
+          "paragraph" : "§ 16",
+          "title" : "Deutsche Lebensmittelbuch-Kommission"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Verkehr mit Lebensmitteln"
+    },
+    {
+      "documentIdentifier" : "BJNR261810005BJNG000304116",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR261810005BJNE001805116",
+          "paragraph" : "§ 17",
+          "title" : "Verbote"
+        },
+        {
+          "documentIdentifier" : "BJNR261810005BJNE008001116",
+          "paragraph" : "§ 17a",
+          "title" : "Versicherung"
+        },
+        {
+          "documentIdentifier" : "BJNR261810005BJNE001907116",
+          "paragraph" : "§ 18",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR261810005BJNE002006116",
+          "paragraph" : "§ 19",
+          "title" : "Verbote zum Schutz vor Täuschung"
+        },
+        {
+          "documentIdentifier" : "BJNR261810005BJNE002105116",
+          "paragraph" : "§ 20",
+          "title" : "Verbot der krankheitsbezogenen Werbung"
+        },
+        {
+          "documentIdentifier" : "BJNR261810005BJNE002208116",
+          "paragraph" : "§ 21",
+          "title" : "Weitere Verbote sowie Beschränkungen"
+        },
+        {
+          "documentIdentifier" : "BJNR261810005BJNE002305116",
+          "paragraph" : "§ 22",
+          "title" : "Ermächtigungen zum Schutz der Gesundheit"
+        },
+        {
+          "documentIdentifier" : "BJNR261810005BJNE002407116",
+          "paragraph" : "§ 23",
+          "title" : "Weitere Ermächtigungen zum Schutz der Gesundheit"
+        },
+        {
+          "documentIdentifier" : "BJNR261810005BJNE007903116",
+          "paragraph" : "§ 23a",
+          "title" : "Ermächtigungen zum Schutz der tierischen Gesundheit und zur Förderung der tierischen Erzeugung"
+        },
+        {
+          "documentIdentifier" : "BJNR261810005BJNE002505116",
+          "paragraph" : "§ 24",
+          "title" : "Gewähr für bestimmte Anforderungen"
+        },
+        {
+          "documentIdentifier" : "BJNR261810005BJNE002607116",
+          "paragraph" : "§ 25",
+          "title" : "Mitwirkung bestimmter Behörden"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Verkehr mit Futtermitteln"
+    },
+    {
+      "documentIdentifier" : "BJNR261810005BJNG000404116",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR261810005BJNE002705116",
+          "paragraph" : "§ 26",
+          "title" : "Verbote zum Schutz der Gesundheit"
+        },
+        {
+          "documentIdentifier" : "BJNR261810005BJNE002805116",
+          "paragraph" : "§ 27",
+          "title" : "Vorschriften zum Schutz vor Täuschung"
+        },
+        {
+          "documentIdentifier" : "BJNR261810005BJNE002908116",
+          "paragraph" : "§ 28",
+          "title" : "Ermächtigungen zum Schutz der Gesundheit"
+        },
+        {
+          "documentIdentifier" : "BJNR261810005BJNE003008116",
+          "paragraph" : "§ 29",
+          "title" : "Weitere Ermächtigungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Verkehr mit kosmetischen Mitteln"
+    },
+    {
+      "documentIdentifier" : "BJNR261810005BJNG000504116",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR261810005BJNE003105116",
+          "paragraph" : "§ 30",
+          "title" : "Verbote zum Schutz der Gesundheit"
+        },
+        {
+          "documentIdentifier" : "BJNR261810005BJNE003207116",
+          "paragraph" : "§ 31",
+          "title" : "Übergang von Stoffen auf Lebensmittel"
+        },
+        {
+          "documentIdentifier" : "BJNR261810005BJNE003308116",
+          "paragraph" : "§ 32",
+          "title" : "Ermächtigungen zum Schutz der Gesundheit"
+        },
+        {
+          "documentIdentifier" : "BJNR261810005BJNE003408116",
+          "paragraph" : "§ 33",
+          "title" : "Vorschriften zum Schutz vor Täuschung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Verkehr mit sonstigen Bedarfsgegenständen"
+    },
+    {
+      "documentIdentifier" : "BJNR261810005BJNG000604116",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR261810005BJNE003508116",
+          "paragraph" : "§ 34",
+          "title" : "Ermächtigungen zum Schutz der Gesundheit"
+        },
+        {
+          "documentIdentifier" : "BJNR261810005BJNE003608116",
+          "paragraph" : "§ 35",
+          "title" : "Ermächtigungen zum Schutz vor Täuschung und zur Unterrichtung"
+        },
+        {
+          "documentIdentifier" : "BJNR261810005BJNE003708116",
+          "paragraph" : "§ 36",
+          "title" : "Ermächtigungen für betriebseigene Kontrollen und Maßnahmen"
+        },
+        {
+          "documentIdentifier" : "BJNR261810005BJNE003808116",
+          "paragraph" : "§ 37",
+          "title" : "Weitere Ermächtigungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gemeinsame Vorschriften für alle Erzeugnisse"
+    },
+    {
+      "documentIdentifier" : "BJNR261810005BJNG000704116",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR261810005BJNE003906116",
+          "paragraph" : "§ 38",
+          "title" : "Zuständigkeit, gegenseitige Information"
+        },
+        {
+          "documentIdentifier" : "BJNR261810005BJNE007602116",
+          "paragraph" : "§ 38a",
+          "title" : "Übermittlung von Daten über den Internethandel"
+        },
+        {
+          "documentIdentifier" : "BJNR261810005BJNE004014116",
+          "paragraph" : "§ 39",
+          "title" : "Aufgabe und Maßnahmen der zuständigen Behörden"
+        },
+        {
+          "documentIdentifier" : "BJNR261810005BJNE004110116",
+          "paragraph" : "§ 40",
+          "title" : "Information der Öffentlichkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR261810005BJNE004206116",
+          "paragraph" : "§ 41",
+          "title" : "Maßnahmen im Erzeugerbetrieb, Viehhandelsunternehmen und Transportunternehmen"
+        },
+        {
+          "documentIdentifier" : "BJNR261810005BJNE004311116",
+          "paragraph" : "§ 42",
+          "title" : "Durchführung der Überwachung"
+        },
+        {
+          "documentIdentifier" : "BJNR261810005BJNE004406116",
+          "paragraph" : "§ 43",
+          "title" : "Probenahme"
+        },
+        {
+          "documentIdentifier" : "BJNR261810005BJNE004507116",
+          "paragraph" : "§ 44",
+          "title" : "Duldungs-, Mitwirkungs- und Übermittlungspflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR261810005BJNE007703116",
+          "paragraph" : "§ 44a",
+          "title" : "Mitteilungs- und Übermittlungspflichten über Untersuchungsergebnisse zu gesundheitlich nicht erwünschten Stoffen"
+        },
+        {
+          "documentIdentifier" : "BJNR261810005BJNE004604116",
+          "paragraph" : "§ 45",
+          "title" : "Schiedsverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR261810005BJNE004708116",
+          "paragraph" : "§ 46",
+          "title" : "Ermächtigungen"
+        },
+        {
+          "documentIdentifier" : "BJNR261810005BJNE004809116",
+          "paragraph" : "§ 47",
+          "title" : "Weitere Ermächtigungen"
+        },
+        {
+          "documentIdentifier" : "BJNR261810005BJNE004904116",
+          "paragraph" : "§ 48",
+          "title" : "Landesrechtliche Bestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR261810005BJNE005008116",
+          "paragraph" : "§ 49",
+          "title" : "Erstellung eines Lagebildes, Verwendung bestimmter Daten"
+        },
+        {
+          "documentIdentifier" : "BJNR261810005BJNE008101116",
+          "paragraph" : "§ 49a",
+          "title" : "Zusammenarbeit von Bund und Ländern"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Überwachung"
+    },
+    {
+      "documentIdentifier" : "BJNR261810005BJNG000804116",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR261810005BJNE005104116",
+          "paragraph" : "§ 50",
+          "title" : "Monitoring"
+        },
+        {
+          "documentIdentifier" : "BJNR261810005BJNE005206116",
+          "paragraph" : "§ 51",
+          "title" : "Durchführung des Monitorings"
+        },
+        {
+          "documentIdentifier" : "BJNR261810005BJNE005304116",
+          "paragraph" : "§ 52",
+          "title" : "Erlass von Verwaltungsvorschriften"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          8
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Monitoring"
+    },
+    {
+      "documentIdentifier" : "BJNR261810005BJNG000904116",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR261810005BJNE005405116",
+          "paragraph" : "§ 53",
+          "title" : "Verbringungsverbote"
+        },
+        {
+          "documentIdentifier" : "BJNR261810005BJNE005507116",
+          "paragraph" : "§ 54",
+          "title" : "Bestimmte Erzeugnisse aus anderen Mitgliedstaaten oder anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum"
+        },
+        {
+          "documentIdentifier" : "BJNR261810005BJNE005606116",
+          "paragraph" : "§ 55",
+          "title" : "Mitwirkung von Zollstellen"
+        },
+        {
+          "documentIdentifier" : "BJNR261810005BJNE005711116",
+          "paragraph" : "§ 56",
+          "title" : "Ermächtigungen"
+        },
+        {
+          "documentIdentifier" : "BJNR261810005BJNE005808116",
+          "paragraph" : "§ 57",
+          "title" : "Ausfuhr; sonstiges Verbringen aus dem Inland"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          9
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR261810005BJNG001200116",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR261810005BJNE008300116",
+              "paragraph" : "§ 57a",
+              "title" : "Ermächtigungen zum Schutz der Gesundheit vor ionisierender Strahlung"
+            },
+            {
+              "documentIdentifier" : "BJNR261810005BJNE008400116",
+              "paragraph" : "§ 57b",
+              "title" : "Weitere Ermächtigungen in radiologischen Notfällen"
+            },
+            {
+              "documentIdentifier" : "BJNR261810005BJNE008500116",
+              "paragraph" : "§ 57c",
+              "title" : "Überwachung"
+            },
+            {
+              "documentIdentifier" : "BJNR261810005BJNE008600116",
+              "paragraph" : "§ 57d",
+              "title" : "Ausführung durch die Länder im Auftrag des Bundes"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              9
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Besondere Regelungen zum Schutz vor ionisierender Strahlung"
+        }
+      ],
+      "title" : "Verbringen in das und aus dem Inland"
+    },
+    {
+      "documentIdentifier" : "BJNR261810005BJNG001004116",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR261810005BJNE005916116",
+          "paragraph" : "§ 58",
+          "title" : "Strafvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR261810005BJNE006016116",
+          "paragraph" : "§ 59",
+          "title" : "Strafvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR261810005BJNE006111116",
+          "paragraph" : "§ 60",
+          "title" : "Bußgeldvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR261810005BJNE006204116",
+          "paragraph" : "§ 61",
+          "title" : "Einziehung"
+        },
+        {
+          "documentIdentifier" : "BJNR261810005BJNE006307116",
+          "paragraph" : "§ 62",
+          "title" : "Ermächtigungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          10
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Straf- und Bußgeldvorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR261810005BJNG001104116",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR261810005BJNE006410301",
+          "paragraph" : "§ 63",
+          "title" : "Gebühren und Auslagen"
+        },
+        {
+          "documentIdentifier" : "BJNR261810005BJNE006505116",
+          "paragraph" : "§ 64",
+          "title" : "Amtliche Sammlung von Untersuchungsverfahren; Bekanntmachungen"
+        },
+        {
+          "documentIdentifier" : "BJNR261810005BJNE006607116",
+          "paragraph" : "§ 65",
+          "title" : "Aufgabendurchführung"
+        },
+        {
+          "documentIdentifier" : "BJNR261810005BJNE006704116",
+          "paragraph" : "§ 66",
+          "title" : "Statistik"
+        },
+        {
+          "documentIdentifier" : "BJNR261810005BJNE006806116",
+          "paragraph" : "§ 67",
+          "title" : "Ausnahmeermächtigungen für Krisenzeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR261810005BJNE006909116",
+          "paragraph" : "§ 68",
+          "title" : "Zulassung von Ausnahmen"
+        },
+        {
+          "documentIdentifier" : "BJNR261810005BJNE007005116",
+          "paragraph" : "§ 69",
+          "title" : "Zulassung weiterer Ausnahmen"
+        },
+        {
+          "documentIdentifier" : "BJNR261810005BJNE007108116",
+          "paragraph" : "§ 70",
+          "title" : "Rechtsverordnungen in bestimmten Fällen"
+        },
+        {
+          "documentIdentifier" : "BJNR261810005BJNE007205116",
+          "paragraph" : "§ 71",
+          "title" : "Beteiligung der Öffentlichkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR261810005BJNE007306116",
+          "paragraph" : "§ 72",
+          "title" : "Außenverkehr"
+        },
+        {
+          "documentIdentifier" : "BJNR261810005BJNE007406116",
+          "paragraph" : "§ 73",
+          "title" : "Verkündung von Rechtsverordnungen"
+        },
+        {
+          "documentIdentifier" : "BJNR261810005BJNE007503116",
+          "paragraph" : "§ 74",
+          "title" : "Geltungsbereich bestimmter Vorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR261810005BJNE007804116",
+          "paragraph" : "§ 75",
+          "title" : "Übergangsregelungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          11
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussbestimmungen"
+    }
+  ]
+}

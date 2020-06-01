@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR098100001",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR098100001Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR098100001BJNE000202123",
+          "paragraph" : "§ 1",
+          "title" : "Zulässige Abschlagszahlungsvereinbarungen"
+        },
+        {
+          "documentIdentifier" : "BJNR098100001BJNE000300310",
+          "paragraph" : "§ 2",
+          "title" : "Betroffene Verträge"
+        },
+        {
+          "documentIdentifier" : "BJNR098100001BJNE000500140",
+          "paragraph" : "§ 2a",
+          "title" : "Übergangsregelung"
+        },
+        {
+          "documentIdentifier" : "BJNR098100001BJNE000400310",
+          "paragraph" : "§ 3",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "documentIdentifier" : "BJNR100100013",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR100100013BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR100100013BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR100100013BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR100100013BJNG000200000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR100100013BJNG000300000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR100100013BJNE000400000",
+              "paragraph" : "§ 3",
+              "title" : "Organisationsform von Stellen"
+            },
+            {
+              "documentIdentifier" : "BJNR100100013BJNE000500000",
+              "paragraph" : "§ 4",
+              "title" : "Fachkunde und gerätetechnische Ausstattung von Stellen"
+            },
+            {
+              "documentIdentifier" : "BJNR100100013BJNE000600000",
+              "paragraph" : "§ 5",
+              "title" : "Unabhängigkeit von Stellen"
+            },
+            {
+              "documentIdentifier" : "BJNR100100013BJNE000700000",
+              "paragraph" : "§ 6",
+              "title" : "Zuverlässigkeit von Stellen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Stellen im Sinne von § 29b Absatz 1 des Bundes-Immissionsschutzgesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR100100013BJNG000400000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR100100013BJNE000800000",
+              "paragraph" : "§ 7",
+              "title" : "Fachkunde von Sachverständigen"
+            },
+            {
+              "documentIdentifier" : "BJNR100100013BJNE000900000",
+              "paragraph" : "§ 8",
+              "title" : "Unabhängigkeit von Sachverständigen"
+            },
+            {
+              "documentIdentifier" : "BJNR100100013BJNE001000000",
+              "paragraph" : "§ 9",
+              "title" : "Zuverlässigkeit von Sachverständigen"
+            },
+            {
+              "documentIdentifier" : "BJNR100100013BJNE001100000",
+              "paragraph" : "§ 10",
+              "title" : "Gerätetechnische Ausstattung von Sachverständigen"
+            },
+            {
+              "documentIdentifier" : "BJNR100100013BJNE001200000",
+              "paragraph" : "§ 11",
+              "title" : "Hilfspersonal; Haftpflichtversicherung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Sachverständige im Sinne von § 29b Absatz 1 des Bundes-Immissionsschutzgesetzes"
+        }
+      ],
+      "title" : "Bekanntgabevoraussetzungen"
+    },
+    {
+      "documentIdentifier" : "BJNR100100013BJNG000500000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR100100013BJNE001300000",
+          "paragraph" : "§ 12",
+          "title" : "Antrag; behördliches Verfahren; Bekanntgabeentscheidung"
+        },
+        {
+          "documentIdentifier" : "BJNR100100013BJNE001401116",
+          "paragraph" : "§ 13",
+          "title" : "Nachweise der Fachkunde und gerätetechnischen Ausstattung"
+        },
+        {
+          "documentIdentifier" : "BJNR100100013BJNE001500000",
+          "paragraph" : "§ 14",
+          "title" : "Gleichwertigkeit von Befähigungsnachweisen aus anderen Mitgliedstaaten der Europäischen Union"
+        },
+        {
+          "documentIdentifier" : "BJNR100100013BJNE001601116",
+          "paragraph" : "§ 15",
+          "title" : "Nebenbestimmungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Bekanntgabeverfahren; Nebenbestimmungen"
+    },
+    {
+      "documentIdentifier" : "BJNR100100013BJNG000600000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR100100013BJNE001700000",
+          "paragraph" : "§ 16",
+          "title" : "Pflichten bekannt gegebener Stellen"
+        },
+        {
+          "documentIdentifier" : "BJNR100100013BJNE001801116",
+          "paragraph" : "§ 17",
+          "title" : "Pflichten bekannt gegebener Sachverständiger"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Pflichten bekannt gegebener Stellen und Sachverständiger"
+    },
+    {
+      "documentIdentifier" : "BJNR100100013BJNG000700000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR100100013BJNE001900000",
+          "paragraph" : "§ 18",
+          "title" : "Widerruf der Bekanntgabe"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Widerruf"
+    },
+    {
+      "documentIdentifier" : "BJNR100100013BJNG000800000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR100100013BJNE002000000",
+          "paragraph" : "§ 19",
+          "title" : "Gleichwertigkeit von Anerkennungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Pflichten von Anlagenbetreibern"
+    },
+    {
+      "documentIdentifier" : "BJNR100100013BJNG000900000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR100100013BJNE002100000",
+          "paragraph" : "§ 20",
+          "title" : "Zugänglichkeit der Normen"
+        },
+        {
+          "documentIdentifier" : "BJNR100100013BJNE002200000",
+          "paragraph" : "§ 21",
+          "title" : "Übergangsvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR100100013BJNE002300000",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 2 Nummer 1, § 4 Absatz 1, § 12 Absatz 2, § 13 Absatz 1 und § 16 Absatz 3 und 5)"
+        },
+        {
+          "documentIdentifier" : "BJNR100100013BJNE002400000",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 2 Nummer 5, § 7 Nummer 2, § 12 Absatz 2 und § 13 Absatz 2)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussvorschriften"
+    }
+  ]
+}

@@ -1,0 +1,427 @@
+{
+  "documentIdentifier" : "BJNR018210000",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR018210000BJNG000200310",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR018210000BJNE000302308",
+          "paragraph" : "§ 1",
+          "title" : "Persönlicher Anwendungsbereich"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR018210000BJNG000400310",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR018210000BJNG000500310",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR018210000BJNE000600310",
+              "paragraph" : "§ 2",
+              "title" : "Niederlassung"
+            },
+            {
+              "documentIdentifier" : "BJNR018210000BJNE000704308",
+              "paragraph" : "§ 3",
+              "title" : "Antrag"
+            },
+            {
+              "documentIdentifier" : "BJNR018210000BJNE000803311",
+              "paragraph" : "§ 4",
+              "title" : "Verfahren"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Allgemeine Voraussetzungen"
+        },
+        {
+          "documentIdentifier" : "BJNR018210000BJNG000900310",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR018210000BJNE001002311",
+              "paragraph" : "§ 5",
+              "title" : "Berufsbezeichnung"
+            },
+            {
+              "documentIdentifier" : "BJNR018210000BJNE001103311",
+              "paragraph" : "§ 6",
+              "title" : "Berufliche Stellung"
+            },
+            {
+              "documentIdentifier" : "BJNR018210000BJNE001204311",
+              "paragraph" : "§ 7",
+              "title" : "Berufshaftpflichtversicherung"
+            },
+            {
+              "documentIdentifier" : "BJNR018210000BJNE001301301",
+              "paragraph" : "§ 8",
+              "title" : "Sozietät im Herkunftsstaat"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Berufliche Rechte und Pflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR018210000BJNG001400310",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR018210000BJNE001501160",
+              "paragraph" : "§ 9",
+              "title" : "Mitteilungspflichten, rechtliches Gehör"
+            },
+            {
+              "documentIdentifier" : "BJNR018210000BJNE001600310",
+              "paragraph" : "§ 10",
+              "title" : "Zustellungen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Anwaltsgerichtliches Verfahren, Zustellungen"
+        }
+      ],
+      "title" : "Berufsausübung als niedergelassener europäischer Rechtsanwalt"
+    },
+    {
+      "documentIdentifier" : "BJNR018210000BJNG001700310",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR018210000BJNG001800310",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR018210000BJNE001904311",
+              "paragraph" : "§ 11",
+              "title" : "Voraussetzungen"
+            },
+            {
+              "documentIdentifier" : "BJNR018210000BJNE002003311",
+              "paragraph" : "§ 12",
+              "title" : "Nachweis der Tätigkeit"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Zulassung zur Rechtsanwaltschaft nach dreijähriger Tätigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR018210000BJNG002100310",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR018210000BJNE002204311",
+              "paragraph" : "§ 13",
+              "title" : "Voraussetzungen"
+            },
+            {
+              "documentIdentifier" : "BJNR018210000BJNE002302160",
+              "paragraph" : "§ 14",
+              "title" : "Nachweise"
+            },
+            {
+              "documentIdentifier" : "BJNR018210000BJNE002401301",
+              "paragraph" : "§ 15",
+              "title" : "Gespräch"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Zulassung bei kürzerer Tätigkeit im deutschen Recht"
+        }
+      ],
+      "title" : "Eingliederung"
+    },
+    {
+      "documentIdentifier" : "BJNR018210000BJNG002501311",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR018210000BJNE002603311",
+          "paragraph" : "§ 16",
+          "title" : "Antrag auf Feststellung einer gleichwertigen Berufsqualifikation"
+        },
+        {
+          "documentIdentifier" : "BJNR018210000BJNE006200311",
+          "paragraph" : "§ 16a",
+          "title" : "Entscheidung über den Antrag"
+        },
+        {
+          "documentIdentifier" : "BJNR018210000BJNE002702311",
+          "paragraph" : "§ 17",
+          "title" : "Zweck der Eignungsprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR018210000BJNE002801311",
+          "paragraph" : "§ 18",
+          "title" : "Prüfungsamt"
+        },
+        {
+          "documentIdentifier" : "BJNR018210000BJNE002901311",
+          "paragraph" : "§ 19",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR018210000BJNE003000310",
+          "paragraph" : "§ 20",
+          "title" : "Prüfungsfächer"
+        },
+        {
+          "documentIdentifier" : "BJNR018210000BJNE003101311",
+          "paragraph" : "§ 21",
+          "title" : "Prüfungsleistungen"
+        },
+        {
+          "documentIdentifier" : "BJNR018210000BJNE003200310",
+          "paragraph" : "§ 22",
+          "title" : "Prüfungsentscheidung"
+        },
+        {
+          "documentIdentifier" : "BJNR018210000BJNE003301311",
+          "paragraph" : "§ 23",
+          "title" : "Einwendungen"
+        },
+        {
+          "documentIdentifier" : "BJNR018210000BJNE003400310",
+          "paragraph" : "§ 24",
+          "title" : "Wiederholung der Prüfung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Feststellung einer gleichwertigen Berufsqualifikation"
+    },
+    {
+      "documentIdentifier" : "BJNR018210000BJNG003500310",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR018210000BJNE003602311",
+          "paragraph" : "§ 25",
+          "title" : "Vorübergehende Tätigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR018210000BJNE003701311",
+          "paragraph" : "§ 26",
+          "title" : "Berufsbezeichnung, Nachweis der Rechtsanwaltseigenschaft"
+        },
+        {
+          "documentIdentifier" : "BJNR018210000BJNE003804311",
+          "paragraph" : "§ 27",
+          "title" : "Rechte und Pflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR018210000BJNE006100311",
+          "paragraph" : "§ 27a",
+          "title" : "Besonderes elektronisches Anwaltspostfach"
+        },
+        {
+          "documentIdentifier" : "BJNR018210000BJNE003901301",
+          "paragraph" : "§ 28",
+          "title" : "Vertretung und Verteidigung im Bereich der Rechtspflege"
+        },
+        {
+          "documentIdentifier" : "BJNR018210000BJNE004000310",
+          "paragraph" : "§ 29",
+          "title" : "Nachweis des Einvernehmens, Widerruf"
+        },
+        {
+          "documentIdentifier" : "BJNR018210000BJNE004100310",
+          "paragraph" : "§ 30",
+          "title" : "Besonderheiten bei Verteidigung"
+        },
+        {
+          "documentIdentifier" : "BJNR018210000BJNE004202311",
+          "paragraph" : "§ 31",
+          "title" : "Zustellungen in behördlichen und gerichtlichen Verfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR018210000BJNE004305311",
+          "paragraph" : "§ 32",
+          "title" : "Aufsicht, zuständige Rechtsanwaltskammer"
+        },
+        {
+          "documentIdentifier" : "BJNR018210000BJNE004401160",
+          "paragraph" : "§ 33",
+          "title" : "Anwaltsgerichtsbarkeit, Zustellungen"
+        },
+        {
+          "documentIdentifier" : "BJNR018210000BJNE004503311",
+          "paragraph" : "§ 34",
+          "title" : "Anwaltsgerichtliche Ahndung von Pflichtverletzungen, vorläufige anwaltsgerichtliche Maßnahmen"
+        },
+        {
+          "documentIdentifier" : "BJNR018210000BJNE005802311",
+          "paragraph" : "§ 34a",
+          "title" : "Mitteilungspflichten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Vorübergehende Dienstleistung"
+    },
+    {
+      "documentIdentifier" : "BJNR018210000BJNG004701160",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR018210000BJNE004601160",
+          "paragraph" : "§ 35",
+          "title" : "Rechtsweg in verwaltungsrechtlichen Anwaltssachen"
+        },
+        {
+          "documentIdentifier" : "BJNR018210000BJNE004802311",
+          "paragraph" : "§ 36",
+          "title" : "Bescheinigungen des Heimat- oder Herkunftsstaates"
+        },
+        {
+          "documentIdentifier" : "BJNR018210000BJNE004902311",
+          "paragraph" : "§ 37",
+          "title" : "Europäische Verwaltungszusammenarbeit; Bescheinigungen"
+        },
+        {
+          "documentIdentifier" : "BJNR018210000BJNE005003311",
+          "paragraph" : "§ 38",
+          "title" : "Mitteilungspflichten gegenüber anderen Staaten"
+        },
+        {
+          "documentIdentifier" : "BJNR018210000BJNE006000308",
+          "paragraph" : "§ 38a",
+          "title" : "Statistik"
+        },
+        {
+          "documentIdentifier" : "BJNR018210000BJNE005103160",
+          "paragraph" : "§ 39",
+          "title" : "Gebühren und Auslagen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Rechtsweg in verwaltungsrechtlichen Anwaltssachen und allgemeine Vorschriften für das Verwaltungsverfahren"
+    },
+    {
+      "documentIdentifier" : "BJNR018210000BJNG005200310",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR018210000BJNE005302311",
+          "paragraph" : "§ 40",
+          "title" : "Ermächtigungen"
+        },
+        {
+          "documentIdentifier" : "BJNR018210000BJNE005404311",
+          "paragraph" : "§ 41",
+          "title" : "Übertragung von Befugnissen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Ermächtigungen, Übertragung von Befugnissen"
+    },
+    {
+      "documentIdentifier" : "BJNR018210000BJNG005501160",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR018210000BJNE005601311",
+          "paragraph" : "§ 42",
+          "title" : "Anwendung von Vorschriften des Strafgesetzbuches"
+        },
+        {
+          "documentIdentifier" : "BJNR018210000BJNE005705311",
+          "paragraph" : "Anlage",
+          "title" : "zu § 1"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          8
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übergangs- und Schlussbestimmungen"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR014240990",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR014240990Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR014240990BJNE000205360",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR014240990BJNE000307360",
+          "paragraph" : "§ 2",
+          "title" : "Mitteilungspflicht beim Inverkehrbringen von Gemischen und Biozid-Produkten"
+        },
+        {
+          "documentIdentifier" : "BJNR014240990BJNE000404360",
+          "paragraph" : "§ 3",
+          "title" : "Ärztliche Mitteilungspflicht bei Vergiftungen (§ 16e Abs. 2 des Chemikaliengesetzes)"
+        },
+        {
+          "documentIdentifier" : "BJNR014240990BJNE000502360",
+          "paragraph" : "§ 4",
+          "title" : "Vertraulichkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR014240990BJNE001107360",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 3 Absatz 1)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR001100014",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR001100014Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR001100014BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Entscheidung über Widersprüche"
+        },
+        {
+          "documentIdentifier" : "BJNR001100014BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Vertretungsbefugnis"
+        },
+        {
+          "documentIdentifier" : "BJNR001100014BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Ausnahmen"
+        },
+        {
+          "documentIdentifier" : "BJNR001100014BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Vorbehaltsklausel"
+        },
+        {
+          "documentIdentifier" : "BJNR001100014BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Übergangsregelung"
+        },
+        {
+          "documentIdentifier" : "BJNR001100014BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

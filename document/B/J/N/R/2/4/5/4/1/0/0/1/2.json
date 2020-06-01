@@ -1,0 +1,64 @@
+{
+  "documentIdentifier" : "BJNR245410012",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR245410012Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR245410012BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR245410012BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Aufgaben des Bundes"
+        },
+        {
+          "documentIdentifier" : "BJNR245410012BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Zuständige Behörde"
+        },
+        {
+          "documentIdentifier" : "BJNR245410012BJNE000401126",
+          "paragraph" : "§ 4",
+          "title" : "Befugnisse"
+        },
+        {
+          "documentIdentifier" : "BJNR245410012BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Duldungs- und Mitwirkungspflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR245410012BJNE000602124",
+          "paragraph" : "§ 6",
+          "title" : "Schlichtungsstelle"
+        },
+        {
+          "documentIdentifier" : "BJNR245410012BJNE000701305",
+          "paragraph" : "§ 7",
+          "title" : "Gebühren und Auslagen"
+        },
+        {
+          "documentIdentifier" : "BJNR245410012BJNE000802305",
+          "paragraph" : "§ 8",
+          "title" : "Verordnungsermächtigung"
+        },
+        {
+          "documentIdentifier" : "BJNR245410012BJNE000901305",
+          "paragraph" : "§ 9",
+          "title" : "Bußgeldvorschriften"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

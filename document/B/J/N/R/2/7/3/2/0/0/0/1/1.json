@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR273200011",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR273200011Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR273200011BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Steuersätze 2012"
+        },
+        {
+          "documentIdentifier" : "BJNR273200011BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

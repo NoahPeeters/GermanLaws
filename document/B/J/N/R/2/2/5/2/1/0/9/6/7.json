@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR225210967",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR225210967Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR225210967BJNE000101308",
+          "paragraph" : "§ 1",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR225210967BJNE000201308",
+          "paragraph" : "§ 2",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR225210967BJNE000300326",
+          "paragraph" : "§ 3",
+          "title" : "Durchleiten von Wasser"
+        },
+        {
+          "documentIdentifier" : "BJNR225210967BJNE000400326",
+          "paragraph" : "§ 4",
+          "title" : "Eigentumsverhältnisse"
+        },
+        {
+          "documentIdentifier" : "BJNR225210967BJNE000500326",
+          "paragraph" : "§ 5",
+          "title" : "Sperrtor bei Bug"
+        },
+        {
+          "documentIdentifier" : "BJNR225210967BJNE000601308",
+          "paragraph" : "§ 6",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR225210967BJNE000700326",
+          "paragraph" : "§ 7",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

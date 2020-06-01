@@ -1,0 +1,64 @@
+{
+  "documentIdentifier" : "BJNR008310010",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR008310010Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR008310010BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Elektronische Aktenführung"
+        },
+        {
+          "documentIdentifier" : "BJNR008310010BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Verfahrensrecht für das Patentamt"
+        },
+        {
+          "documentIdentifier" : "BJNR008310010BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Vernichtung von Schriftstücken"
+        },
+        {
+          "documentIdentifier" : "BJNR008310010BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Überblick über Aktenbestandteile"
+        },
+        {
+          "documentIdentifier" : "BJNR008310010BJNE000503123",
+          "paragraph" : "§ 5",
+          "title" : "Herkunftsnachweis"
+        },
+        {
+          "documentIdentifier" : "BJNR008310010BJNE000602123",
+          "paragraph" : "§ 6",
+          "title" : "Form der Ausfertigungen und Abschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR008310010BJNE000701360",
+          "paragraph" : "§ 7",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR008310010BJNE000800000",
+          "paragraph" : "§ 8",
+          "title" : "Vorlegen von Akten"
+        },
+        {
+          "documentIdentifier" : "BJNR008310010BJNE000900000",
+          "paragraph" : "§ 9",
+          "title" : "Aufbewahrung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

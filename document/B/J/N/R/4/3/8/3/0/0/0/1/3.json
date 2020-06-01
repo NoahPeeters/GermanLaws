@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR438300013",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR438300013Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR438300013BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Steuersätze 2014"
+        },
+        {
+          "documentIdentifier" : "BJNR438300013BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

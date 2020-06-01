@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR353400009",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR353400009Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR353400009BJNE000202301",
+          "paragraph" : "§ 1",
+          "title" : "Erhebung von Gebühren"
+        },
+        {
+          "documentIdentifier" : "BJNR353400009BJNE000302301",
+          "paragraph" : "§ 2",
+          "title" : "Übergangsregelung"
+        },
+        {
+          "documentIdentifier" : "BJNR353400009BJNE000401301",
+          "paragraph" : "§ 3",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR353400009BJNE000501301",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 1 Absatz 2)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

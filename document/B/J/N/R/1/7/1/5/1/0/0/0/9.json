@@ -1,0 +1,106 @@
+{
+  "documentIdentifier" : "BJNR171510009",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR171510009BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR171510009BJNE000102123",
+          "paragraph" : "§ 1",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR171510009BJNE000202123",
+          "paragraph" : "§ 2",
+          "title" : "Aufzeichnungspflichten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Begriffsbestimmungen, Nachweise zur Rückverfolgbarkeit"
+    },
+    {
+      "documentIdentifier" : "BJNR171510009BJNG000201123",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR171510009BJNE000302123",
+          "paragraph" : "(XXXX) §§ 3 bis 9",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "(weggefallen)"
+    },
+    {
+      "documentIdentifier" : "BJNR171510009BJNG000401123",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR171510009BJNE001401123",
+          "paragraph" : "§ 9a",
+          "title" : "Etikettierung von Schlachtkörpern von weniger als zwölf Monate alten Rindern"
+        },
+        {
+          "documentIdentifier" : "BJNR171510009BJNE001501123",
+          "paragraph" : "§ 9b",
+          "title" : "Etikettierung von nicht vorverpacktem Fleisch von weniger als zwölf Monate alten Rindern im Einzelhandel"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Etikettierung von Fleisch von weniger als zwölf Monate alten Rindern"
+    },
+    {
+      "documentIdentifier" : "BJNR171510009BJNG000301377",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR171510009BJNE001002123",
+          "paragraph" : "§ 10",
+          "title" : "Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR171510009BJNE001101123",
+          "paragraph" : "§ 11",
+          "title" : "Zuständige Verwaltungsbehörde"
+        },
+        {
+          "documentIdentifier" : "BJNR171510009BJNE001201123",
+          "paragraph" : "§ 12",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR171510009BJNE001303123",
+          "paragraph" : "Anlage",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Ordnungswidrigkeiten, Schlussbestimmungen"
+    }
+  ]
+}

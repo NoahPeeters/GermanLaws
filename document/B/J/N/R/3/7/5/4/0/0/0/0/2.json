@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR375400002",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR375400002Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR375400002BJNE000300308",
+          "paragraph" : "Anlage 1",
+          "title" : "Emblem der Europäischen Investitionsbank"
+        },
+        {
+          "documentIdentifier" : "BJNR375400002BJNE000400308",
+          "paragraph" : "Anlage 2",
+          "title" : "Namen, Abkürzungen und Emblem des Welternährungsprogramms"
+        },
+        {
+          "documentIdentifier" : "BJNR375400002BJNE000500308",
+          "paragraph" : "Anlage 3",
+          "title" : "Name, Abkürzung und Emblem der Nordischen Investitionsbank"
+        },
+        {
+          "documentIdentifier" : "BJNR375400002BJNE000600308",
+          "paragraph" : "Anlage 4",
+          "title" : "Name, Abkürzung und Emblem des Rahmenübereinkommens der\nVereinten Nationen über Klimaänderungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

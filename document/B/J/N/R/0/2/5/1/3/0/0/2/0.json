@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR025130020",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR025130020Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR025130020BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Versorgungsrechtliche Regelungen"
+        },
+        {
+          "documentIdentifier" : "BJNR025130020BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Verordnungsermächtigungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

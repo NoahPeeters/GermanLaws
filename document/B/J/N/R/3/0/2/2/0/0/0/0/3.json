@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR302200003",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR302200003Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR302200003BJNE000300310",
+          "paragraph" : "Art 67",
+          "title" : "Weitergeltung von Rechtsverordnungen"
+        },
+        {
+          "documentIdentifier" : "BJNR302200003BJNE000500310",
+          "paragraph" : "Art 69",
+          "title" : "Rückkehr zum einheitlichen Verordnungsrang"
+        },
+        {
+          "documentIdentifier" : "BJNR302200003BJNE000600310",
+          "paragraph" : "Art 70",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

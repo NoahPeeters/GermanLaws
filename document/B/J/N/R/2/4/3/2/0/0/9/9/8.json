@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR243200998",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR243200998Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR243200998BJNE000300305",
+          "paragraph" : "Art 9",
+          "title" : "Übergangsregelung"
+        },
+        {
+          "documentIdentifier" : "BJNR243200998BJNE000400305",
+          "paragraph" : "Art 10",
+          "title" : "Bekanntmachungsbefugnis"
+        },
+        {
+          "documentIdentifier" : "BJNR243200998BJNE000600305",
+          "paragraph" : "Art 11",
+          "title" : "Rückkehr zum einheitlichen Verordnungsrang"
+        },
+        {
+          "documentIdentifier" : "BJNR243200998BJNE000700305",
+          "paragraph" : "Art 12",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

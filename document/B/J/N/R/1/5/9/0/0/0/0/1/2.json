@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR159000012",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR159000012Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR159000012BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Bundesamt für das Personalmanagement der Bundeswehr"
+        },
+        {
+          "documentIdentifier" : "BJNR159000012BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Karrierecenter der Bundeswehr"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

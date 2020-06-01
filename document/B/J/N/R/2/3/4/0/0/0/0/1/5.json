@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR234000015",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR234000015Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR234000015BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Geltungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR234000015BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Medizinprodukte mit hoher Risikoklasse"
+        },
+        {
+          "documentIdentifier" : "BJNR234000015BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Neues theoretisch-wissenschaftliches Konzept"
+        },
+        {
+          "documentIdentifier" : "BJNR234000015BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

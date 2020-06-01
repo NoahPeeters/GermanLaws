@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR197800015",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR197800015Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR197800015BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Steuersätze 2016"
+        },
+        {
+          "documentIdentifier" : "BJNR197800015BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

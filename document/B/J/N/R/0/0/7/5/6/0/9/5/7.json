@@ -1,0 +1,392 @@
+{
+  "documentIdentifier" : "BJNR007560957",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR007560957BJNG000100306",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR007560957BJNE001200306",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR007560957BJNE001300306",
+          "paragraph" : "§ 2",
+          "title" : "Erfindungen"
+        },
+        {
+          "documentIdentifier" : "BJNR007560957BJNE001400306",
+          "paragraph" : "§ 3",
+          "title" : "Technische Verbesserungsvorschläge"
+        },
+        {
+          "documentIdentifier" : "BJNR007560957BJNE001500306",
+          "paragraph" : "§ 4",
+          "title" : "Diensterfindungen und freie Erfindungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Anwendungsbereich und Begriffsbestimmungen"
+    },
+    {
+      "documentIdentifier" : "BJNR007560957BJNG000200306",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR007560957BJNG000300306",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR007560957BJNE001601140",
+              "paragraph" : "§ 5",
+              "title" : "Meldepflicht"
+            },
+            {
+              "documentIdentifier" : "BJNR007560957BJNE001701140",
+              "paragraph" : "§ 6",
+              "title" : "Inanspruchnahme"
+            },
+            {
+              "documentIdentifier" : "BJNR007560957BJNE001801140",
+              "paragraph" : "§ 7",
+              "title" : "Wirkung der Inanspruchnahme"
+            },
+            {
+              "documentIdentifier" : "BJNR007560957BJNE001901140",
+              "paragraph" : "§ 8",
+              "title" : "Frei gewordene Diensterfindungen"
+            },
+            {
+              "documentIdentifier" : "BJNR007560957BJNE002001140",
+              "paragraph" : "§ 9",
+              "title" : "Vergütung bei Inanspruchnahme"
+            },
+            {
+              "documentIdentifier" : "BJNR007560957BJNE002101140",
+              "paragraph" : "§ 10",
+              "title" : "(weggefallen)"
+            },
+            {
+              "documentIdentifier" : "BJNR007560957BJNE002201140",
+              "paragraph" : "§ 11",
+              "title" : "Vergütungsrichtlinien"
+            },
+            {
+              "documentIdentifier" : "BJNR007560957BJNE002301140",
+              "paragraph" : "§ 12",
+              "title" : "Feststellung oder Festsetzung der Vergütung"
+            },
+            {
+              "documentIdentifier" : "BJNR007560957BJNE002401140",
+              "paragraph" : "§ 13",
+              "title" : "Schutzrechtsanmeldung im Inland"
+            },
+            {
+              "documentIdentifier" : "BJNR007560957BJNE002501140",
+              "paragraph" : "§ 14",
+              "title" : "Schutzrechtsanmeldung im Ausland"
+            },
+            {
+              "documentIdentifier" : "BJNR007560957BJNE002600306",
+              "paragraph" : "§ 15",
+              "title" : "Gegenseitige Rechte und Pflichten beim Erwerb von Schutzrechten"
+            },
+            {
+              "documentIdentifier" : "BJNR007560957BJNE002700306",
+              "paragraph" : "§ 16",
+              "title" : "Aufgabe der Schutzrechtsanmeldung oder des Schutzrechts"
+            },
+            {
+              "documentIdentifier" : "BJNR007560957BJNE002800306",
+              "paragraph" : "§ 17",
+              "title" : "Betriebsgeheimnisse"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Diensterfindungen"
+        },
+        {
+          "documentIdentifier" : "BJNR007560957BJNG000400306",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR007560957BJNE002901140",
+              "paragraph" : "§ 18",
+              "title" : "Mitteilungspflicht"
+            },
+            {
+              "documentIdentifier" : "BJNR007560957BJNE003000306",
+              "paragraph" : "§ 19",
+              "title" : "Anbietungspflicht"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Freie Erfindungen"
+        },
+        {
+          "documentIdentifier" : "BJNR007560957BJNG000500306",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Technische Verbesserungsvorschläge"
+        },
+        {
+          "documentIdentifier" : "BJNR007560957BJNG000600306",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR007560957BJNE003201140",
+              "paragraph" : "§ 21",
+              "title" : "(weggefallen)"
+            },
+            {
+              "documentIdentifier" : "BJNR007560957BJNE003300306",
+              "paragraph" : "§ 22",
+              "title" : "Unabdingbarkeit"
+            },
+            {
+              "documentIdentifier" : "BJNR007560957BJNE003401140",
+              "paragraph" : "§ 23",
+              "title" : "Unbilligkeit"
+            },
+            {
+              "documentIdentifier" : "BJNR007560957BJNE003501140",
+              "paragraph" : "§ 24",
+              "title" : "Geheimhaltungspflicht"
+            },
+            {
+              "documentIdentifier" : "BJNR007560957BJNE003601140",
+              "paragraph" : "§ 25",
+              "title" : "Verpflichtungen aus dem Arbeitsverhältnis"
+            },
+            {
+              "documentIdentifier" : "BJNR007560957BJNE003700306",
+              "paragraph" : "§ 26",
+              "title" : "Auflösung des Arbeitsverhältnisses"
+            },
+            {
+              "documentIdentifier" : "BJNR007560957BJNE003802140",
+              "paragraph" : "§ 27",
+              "title" : "Insolvenzverfahren"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Gemeinsame Bestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR007560957BJNG000700306",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR007560957BJNE003900306",
+              "paragraph" : "§ 28",
+              "title" : "Gütliche Einigung"
+            },
+            {
+              "documentIdentifier" : "BJNR007560957BJNE004000306",
+              "paragraph" : "§ 29",
+              "title" : "Errichtung der Schiedsstelle"
+            },
+            {
+              "documentIdentifier" : "BJNR007560957BJNE004101140",
+              "paragraph" : "§ 30",
+              "title" : "Besetzung der Schiedsstelle"
+            },
+            {
+              "documentIdentifier" : "BJNR007560957BJNE004200306",
+              "paragraph" : "§ 31",
+              "title" : "Anrufung der Schiedsstelle"
+            },
+            {
+              "documentIdentifier" : "BJNR007560957BJNE004300306",
+              "paragraph" : "§ 32",
+              "title" : "Antrag auf Erweiterung der Schiedsstelle"
+            },
+            {
+              "documentIdentifier" : "BJNR007560957BJNE004401307",
+              "paragraph" : "§ 33",
+              "title" : "Verfahren vor der Schiedsstelle"
+            },
+            {
+              "documentIdentifier" : "BJNR007560957BJNE004500306",
+              "paragraph" : "§ 34",
+              "title" : "Einigungsvorschlag der Schiedsstelle"
+            },
+            {
+              "documentIdentifier" : "BJNR007560957BJNE004600306",
+              "paragraph" : "§ 35",
+              "title" : "Erfolglose Beendigung des Schiedsverfahrens"
+            },
+            {
+              "documentIdentifier" : "BJNR007560957BJNE004700306",
+              "paragraph" : "§ 36",
+              "title" : "Kosten des Schiedsverfahrens"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              5
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Schiedsverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR007560957BJNG000800306",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR007560957BJNE004800306",
+              "paragraph" : "§ 37",
+              "title" : "Voraussetzungen für die Erhebung der Klage"
+            },
+            {
+              "documentIdentifier" : "BJNR007560957BJNE004900306",
+              "paragraph" : "§ 38",
+              "title" : "Klage auf angemessene Vergütung"
+            },
+            {
+              "documentIdentifier" : "BJNR007560957BJNE005002307",
+              "paragraph" : "§ 39",
+              "title" : "Zuständigkeit"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              6
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Gerichtliches Verfahren"
+        }
+      ],
+      "title" : "Erfindungen und technische Verbesserungsvorschläge von Arbeitnehmern im privaten Dienst"
+    },
+    {
+      "documentIdentifier" : "BJNR007560957BJNG000900306",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR007560957BJNE005100306",
+          "paragraph" : "§ 40",
+          "title" : "Arbeitnehmer im öffentlichen Dienst"
+        },
+        {
+          "documentIdentifier" : "BJNR007560957BJNE005200306",
+          "paragraph" : "§ 41",
+          "title" : "Beamte, Soldaten"
+        },
+        {
+          "documentIdentifier" : "BJNR007560957BJNE005301377",
+          "paragraph" : "§ 42",
+          "title" : "Besondere Bestimmungen für Erfindungen an Hochschulen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Erfindungen und technische Verbesserungsvorschläge von Arbeitnehmern im öffentlichen Dienst, von Beamten und Soldaten"
+    },
+    {
+      "documentIdentifier" : "BJNR007560957BJNG001000306",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR007560957BJNE005402140",
+          "paragraph" : "§ 43",
+          "title" : "Übergangsvorschrift"
+        },
+        {
+          "documentIdentifier" : "BJNR007560957BJNE005501377",
+          "paragraph" : "§ 44",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR007560957BJNE005600306",
+          "paragraph" : "§ 45",
+          "title" : "Durchführungsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR007560957BJNE005700306",
+          "paragraph" : "§ 46",
+          "title" : "Außerkrafttreten von Vorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR007560957BJNE005801307",
+          "paragraph" : "§ 47",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR007560957BJNE005901140",
+          "paragraph" : "§ 48",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR007560957BJNE006000306",
+          "paragraph" : "§ 49",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übergangs- und Schlußbestimmungen"
+    }
+  ]
+}

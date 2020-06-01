@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR159510007",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR159510007Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR159510007BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Rauchverbot"
+        },
+        {
+          "documentIdentifier" : "BJNR159510007BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR159510007BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Hinweispflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR159510007BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Verantwortlichkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR159510007BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Bußgeldvorschrift"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

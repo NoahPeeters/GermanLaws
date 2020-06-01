@@ -1,0 +1,59 @@
+{
+  "documentIdentifier" : "BJNR003050908",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR003050908Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR003050908BJNE000101377",
+          "paragraph" : "Art 1",
+          "title" : "Altverträge, Allgemeine Versicherungsbedingungen"
+        },
+        {
+          "documentIdentifier" : "BJNR003050908BJNE000201377",
+          "paragraph" : "Art 2",
+          "title" : "Vollmacht des Versicherungsvertreters, Krankenversicherung"
+        },
+        {
+          "documentIdentifier" : "BJNR003050908BJNE000301377",
+          "paragraph" : "Art 3",
+          "title" : "Verjährung"
+        },
+        {
+          "documentIdentifier" : "BJNR003050908BJNE000401377",
+          "paragraph" : "Art 4",
+          "title" : "Lebensversicherung, Berufsunfähigkeitsversicherung"
+        },
+        {
+          "documentIdentifier" : "BJNR003050908BJNE000501377",
+          "paragraph" : "Art 5",
+          "title" : "Rechte der Gläubiger von Grundpfandrechten"
+        },
+        {
+          "documentIdentifier" : "BJNR003050908BJNE000601377",
+          "paragraph" : "Art 6",
+          "title" : "Versicherungsverhältnisse nach § 190 des Gesetzes über den Versicherungsvertrag"
+        },
+        {
+          "documentIdentifier" : "BJNR003050908BJNE001601118",
+          "paragraph" : "Art 7",
+          "title" : "Krankenversicherung, Versicherungsverhältnisse nach § 193 Absatz 6 des Versicherungsvertragsgesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR003050908BJNE000704360",
+          "paragraph" : "(XXXX) Art 8 bis 15",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

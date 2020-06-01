@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR026500012",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR026500012Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR026500012BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Erhebung von Gebühren"
+        },
+        {
+          "documentIdentifier" : "BJNR026500012BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR026500012BJNE000400000",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 1 Absatz 4)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

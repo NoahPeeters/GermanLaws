@@ -1,0 +1,156 @@
+{
+  "documentIdentifier" : "BJNR059710016",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR059710016BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR059710016BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR059710016BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR059710016BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Bereitstellung auf dem Markt"
+        },
+        {
+          "documentIdentifier" : "BJNR059710016BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Konformitätsvermutung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR059710016BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR059710016BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Allgemeine Pflichten des Herstellers"
+        },
+        {
+          "documentIdentifier" : "BJNR059710016BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Besondere Kennzeichnungs- und Informationspflichten des Herstellers"
+        },
+        {
+          "documentIdentifier" : "BJNR059710016BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Bevollmächtigter des Herstellers"
+        },
+        {
+          "documentIdentifier" : "BJNR059710016BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Pflichten des Einführers"
+        },
+        {
+          "documentIdentifier" : "BJNR059710016BJNE001000000",
+          "paragraph" : "§ 9",
+          "title" : "Pflichten des Händlers"
+        },
+        {
+          "documentIdentifier" : "BJNR059710016BJNE001100000",
+          "paragraph" : "§ 10",
+          "title" : "Einführer oder Händler als Hersteller"
+        },
+        {
+          "documentIdentifier" : "BJNR059710016BJNE001200000",
+          "paragraph" : "§ 11",
+          "title" : "Angabe der Wirtschaftsakteure"
+        },
+        {
+          "documentIdentifier" : "BJNR059710016BJNE001300000",
+          "paragraph" : "§ 12",
+          "title" : "Konformitätsbewertungsverfahren"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Pflichten der Wirtschaftsakteure, Konformitätsbewertungsverfahren"
+    },
+    {
+      "documentIdentifier" : "BJNR059710016BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR059710016BJNE001400000",
+          "paragraph" : "§ 13",
+          "title" : "Korrekturmaßnahmen der Wirtschaftsakteure"
+        },
+        {
+          "documentIdentifier" : "BJNR059710016BJNE001500000",
+          "paragraph" : "§ 14",
+          "title" : "Vorläufige Maßnahmen der Marktüberwachungsbehörde"
+        },
+        {
+          "documentIdentifier" : "BJNR059710016BJNE001600000",
+          "paragraph" : "§ 15",
+          "title" : "Konforme einfache Druckbehälter, die ein Risiko darstellen"
+        },
+        {
+          "documentIdentifier" : "BJNR059710016BJNE001700000",
+          "paragraph" : "§ 16",
+          "title" : "Formale Nichtkonformität"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Marktüberwachung"
+    },
+    {
+      "documentIdentifier" : "BJNR059710016BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR059710016BJNE001800000",
+          "paragraph" : "§ 17",
+          "title" : "Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR059710016BJNE001900000",
+          "paragraph" : "§ 18",
+          "title" : "Straftaten"
+        },
+        {
+          "documentIdentifier" : "BJNR059710016BJNE002000000",
+          "paragraph" : "§ 19",
+          "title" : "Übergangsvorschriften"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Ordnungswidrigkeiten, Straftaten und Schlussbestimmungen"
+    }
+  ]
+}

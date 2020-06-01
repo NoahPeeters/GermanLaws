@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR003240986",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR003240986Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR003240986BJNE000200327",
+          "paragraph" : "Art 4",
+          "title" : "Berlin-Klausel"
+        },
+        {
+          "documentIdentifier" : "BJNR003240986BJNE000300327",
+          "paragraph" : "Art 5",
+          "title" : "Inkrafttreten und Übergangsvorschrift"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

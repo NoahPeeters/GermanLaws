@@ -1,0 +1,84 @@
+{
+  "documentIdentifier" : "BJNR001000000",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR001000000Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR001000000BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Ziel der Prüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR001000000BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Zulassungsvoraussetzungen"
+        },
+        {
+          "documentIdentifier" : "BJNR001000000BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Gliederung der Prüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR001000000BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Prüfungsanforderungen"
+        },
+        {
+          "documentIdentifier" : "BJNR001000000BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Prüfung in zwei Fremdsprachen"
+        },
+        {
+          "documentIdentifier" : "BJNR001000000BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Deutsch als Fremdsprache"
+        },
+        {
+          "documentIdentifier" : "BJNR001000000BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Anrechnung anderer Prüfungsleistungen"
+        },
+        {
+          "documentIdentifier" : "BJNR001000000BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Bestehen der Prüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR001000000BJNE001000000",
+          "paragraph" : "§ 9",
+          "title" : "Wiederholung der Prüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR001000000BJNE001100000",
+          "paragraph" : "§ 10",
+          "title" : "Übergangsvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR001000000BJNE001200000",
+          "paragraph" : "§ 11",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR001000000BJNE001400000",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 8 Abs. 2)"
+        },
+        {
+          "documentIdentifier" : "BJNR001000000BJNE001300000",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 8 Abs. 2)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

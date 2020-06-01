@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR004700016",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR004700016Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR004700016BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Anforderungen an einzureichende Unterlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR004700016BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Besondere Vorschriften bei Arzneimitteln, die nach einem homöopathischen Zubereitungsverfahren hergestellt sind"
+        },
+        {
+          "documentIdentifier" : "BJNR004700016BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

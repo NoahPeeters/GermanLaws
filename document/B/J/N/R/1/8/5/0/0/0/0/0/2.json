@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR185000002",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR185000002Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR185000002BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Geltungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR185000002BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Pflichten des Arbeitgebers"
+        },
+        {
+          "documentIdentifier" : "BJNR185000002BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Tätigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR185000002BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Voraussetzungen für ein Abweichen von Vorschriften des\nArbeitsschutzgesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR185000002BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Gewährleistung der Sicherheit und des Gesundheitsschutzes"
+        },
+        {
+          "documentIdentifier" : "BJNR185000002BJNE000600000",
+          "paragraph" : "§ 6",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

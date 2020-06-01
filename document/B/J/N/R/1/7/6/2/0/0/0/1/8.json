@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR176200018",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR176200018Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR176200018BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Ermittlung des Arbeitseinkommens"
+        },
+        {
+          "documentIdentifier" : "BJNR176200018BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR176200018BJNE000500000",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 1 Absatz 2 Satz 1 Nummer 1)"
+        },
+        {
+          "documentIdentifier" : "BJNR176200018BJNE000600000",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 1 Absatz 2 Satz 1 Nummer 2)"
+        },
+        {
+          "documentIdentifier" : "BJNR176200018BJNE000700000",
+          "paragraph" : "Anlage 3",
+          "title" : "(zu § 1 Absatz 3 Satz 1 Nummer 1)"
+        },
+        {
+          "documentIdentifier" : "BJNR176200018BJNE000800000",
+          "paragraph" : "Anlage 4",
+          "title" : "(zu § 1 Absatz 3 Satz 1 Nummer 2)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

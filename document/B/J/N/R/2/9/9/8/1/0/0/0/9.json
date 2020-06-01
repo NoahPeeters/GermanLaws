@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR299810009",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR299810009Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR299810009BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Bestimmung der nationalen Kontaktstelle"
+        },
+        {
+          "documentIdentifier" : "BJNR299810009BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Datenschutzrechtliche Verantwortung für den automatisierten Datenabruf"
+        },
+        {
+          "documentIdentifier" : "BJNR299810009BJNE000401311",
+          "paragraph" : "§ 3",
+          "title" : "Zustimmung zur zweckändernden Verwendung und zur Weitergabe von Daten an Dritte"
+        },
+        {
+          "documentIdentifier" : "BJNR299810009BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Automatisierter Abruf von DNA-Identifizierungsmustern"
+        },
+        {
+          "documentIdentifier" : "BJNR299810009BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Rechte des Betroffenen auf Geltendmachung von Auskunfts-, Berichtigungs-, Sperrungs- und Löschungsansprüchen gegenüber den Vereinigten Staaten von Amerika durch das Bundeskriminalamt"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "documentIdentifier" : "BJNR089400004",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR089400004BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR089400004BJNE000300000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeines"
+    },
+    {
+      "documentIdentifier" : "BJNR089400004BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR089400004BJNE000401360",
+          "paragraph" : "§ 2",
+          "title" : "Form der Einreichung"
+        },
+        {
+          "documentIdentifier" : "BJNR089400004BJNE000502360",
+          "paragraph" : "§ 3",
+          "title" : "Anmeldung der Topografie"
+        },
+        {
+          "documentIdentifier" : "BJNR089400004BJNE000600000",
+          "paragraph" : "§ 4",
+          "title" : "Unterlagen zur Identifizierung oder Veranschaulichung"
+        },
+        {
+          "documentIdentifier" : "BJNR089400004BJNE000700000",
+          "paragraph" : "§ 5",
+          "title" : "Betriebs- oder Geschäftsgeheimnisse"
+        },
+        {
+          "documentIdentifier" : "BJNR089400004BJNE000801360",
+          "paragraph" : "§ 6",
+          "title" : "Fremdsprachige Dokumente"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Anmeldung einer Topografie"
+    },
+    {
+      "documentIdentifier" : "BJNR089400004BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR089400004BJNE000900000",
+          "paragraph" : "§ 7",
+          "title" : "Übergangsregelung aus Anlass des Inkrafttretens dieser Verordnung"
+        },
+        {
+          "documentIdentifier" : "BJNR089400004BJNE001000000",
+          "paragraph" : "§ 8",
+          "title" : "Übergangsregelung für künftige Änderungen"
+        },
+        {
+          "documentIdentifier" : "BJNR089400004BJNE001100000",
+          "paragraph" : "§ 9",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussvorschriften"
+    }
+  ]
+}

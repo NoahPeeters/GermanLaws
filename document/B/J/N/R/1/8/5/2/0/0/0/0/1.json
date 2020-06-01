@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR185200001",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR185200001Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR185200001BJNE000100306",
+          "paragraph" : "(XXXX) Art 1 bis 12",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR185200001BJNE000200306",
+          "paragraph" : "Art 13",
+          "title" : "Neufassung des Betriebsverfassungsgesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR185200001BJNE000300306",
+          "paragraph" : "Art 14",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

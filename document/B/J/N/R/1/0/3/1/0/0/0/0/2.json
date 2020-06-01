@@ -1,0 +1,242 @@
+{
+  "documentIdentifier" : "BJNR103100002",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR103100002BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR103100002BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Laufbahnämter"
+        },
+        {
+          "documentIdentifier" : "BJNR103100002BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Ziel der Ausbildung"
+        },
+        {
+          "documentIdentifier" : "BJNR103100002BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Einstellungsbehörden"
+        },
+        {
+          "documentIdentifier" : "BJNR103100002BJNE000501310",
+          "paragraph" : "§ 4",
+          "title" : "Einstellungsvoraussetzungen"
+        },
+        {
+          "documentIdentifier" : "BJNR103100002BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Ausschreibung, Bewerbung"
+        },
+        {
+          "documentIdentifier" : "BJNR103100002BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Auswahlverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR103100002BJNE000802310",
+          "paragraph" : "§ 7",
+          "title" : "Einstellung in den Vorbereitungsdienst"
+        },
+        {
+          "documentIdentifier" : "BJNR103100002BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Rechtsstellung während des Vorbereitungsdienstes"
+        },
+        {
+          "documentIdentifier" : "BJNR103100002BJNE001002310",
+          "paragraph" : "§ 9",
+          "title" : "Dauer, Verkürzung und Verlängerung des Vorbereitungsdienstes"
+        },
+        {
+          "documentIdentifier" : "BJNR103100002BJNE001100000",
+          "paragraph" : "§ 10",
+          "title" : "Urlaub während des Vorbereitungsdienstes"
+        },
+        {
+          "documentIdentifier" : "BJNR103100002BJNE001200000",
+          "paragraph" : "§ 11",
+          "title" : "Ausbildungsakte"
+        },
+        {
+          "documentIdentifier" : "BJNR103100002BJNE001301377",
+          "paragraph" : "§ 12",
+          "title" : "Gliederung des Vorbereitungsdienstes"
+        },
+        {
+          "documentIdentifier" : "BJNR103100002BJNE001401377",
+          "paragraph" : "§ 13",
+          "title" : "Dienstführerschein der Bundeswehr, Einweisungs- und Überprüfungsfahrt,\nStandortverwaltung"
+        },
+        {
+          "documentIdentifier" : "BJNR103100002BJNE001500000",
+          "paragraph" : "§ 14",
+          "title" : "Feuerwehrtechnischer Grundlehrgang"
+        },
+        {
+          "documentIdentifier" : "BJNR103100002BJNE001600000",
+          "paragraph" : "§ 15",
+          "title" : "Praktische Ausbildung"
+        },
+        {
+          "documentIdentifier" : "BJNR103100002BJNE001700000",
+          "paragraph" : "§ 16",
+          "title" : "Verwaltungslehrgang"
+        },
+        {
+          "documentIdentifier" : "BJNR103100002BJNE001801377",
+          "paragraph" : "§ 17",
+          "title" : "Abschlusslehrgang"
+        },
+        {
+          "documentIdentifier" : "BJNR103100002BJNE001900000",
+          "paragraph" : "§ 18",
+          "title" : "Ausbildungsleitung, Ausbildungsbeauftragte, Ausbilderinnen und\nAusbilder"
+        },
+        {
+          "documentIdentifier" : "BJNR103100002BJNE002002116",
+          "paragraph" : "§ 19",
+          "title" : "Leistungsnachweise während der fachtheoretischen Ausbildung"
+        },
+        {
+          "documentIdentifier" : "BJNR103100002BJNE002101116",
+          "paragraph" : "§ 20",
+          "title" : "Bewertungen während der praktischen Ausbildung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Laufbahn und Ausbildung"
+    },
+    {
+      "documentIdentifier" : "BJNR103100002BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR103100002BJNE002200000",
+          "paragraph" : "§ 21",
+          "title" : "Prüfungsamt"
+        },
+        {
+          "documentIdentifier" : "BJNR103100002BJNE002300000",
+          "paragraph" : "§ 22",
+          "title" : "Prüfungskommission"
+        },
+        {
+          "documentIdentifier" : "BJNR103100002BJNE002400000",
+          "paragraph" : "§ 23",
+          "title" : "Laufbahnprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR103100002BJNE002500000",
+          "paragraph" : "§ 24",
+          "title" : "Prüfungsort, Prüfungstermin"
+        },
+        {
+          "documentIdentifier" : "BJNR103100002BJNE002602116",
+          "paragraph" : "§ 25",
+          "title" : "Praktische Prüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR103100002BJNE002700000",
+          "paragraph" : "§ 26",
+          "title" : "Zulassung zur schriftlichen Prüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR103100002BJNE002801116",
+          "paragraph" : "§ 27",
+          "title" : "Schriftliche Prüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR103100002BJNE002900000",
+          "paragraph" : "§ 28",
+          "title" : "Zulassung zur mündlichen Prüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR103100002BJNE003002116",
+          "paragraph" : "§ 29",
+          "title" : "Mündliche Prüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR103100002BJNE003100000",
+          "paragraph" : "§ 30",
+          "title" : "Verhinderung, Rücktritt, Säumnis"
+        },
+        {
+          "documentIdentifier" : "BJNR103100002BJNE003200000",
+          "paragraph" : "§ 31",
+          "title" : "Täuschung, Ordnungsverstoß"
+        },
+        {
+          "documentIdentifier" : "BJNR103100002BJNE003300000",
+          "paragraph" : "§ 32",
+          "title" : "Bewertung von Prüfungsleistungen"
+        },
+        {
+          "documentIdentifier" : "BJNR103100002BJNE003402116",
+          "paragraph" : "§ 33",
+          "title" : "Gesamtergebnis"
+        },
+        {
+          "documentIdentifier" : "BJNR103100002BJNE003500000",
+          "paragraph" : "§ 34",
+          "title" : "Zeugnis"
+        },
+        {
+          "documentIdentifier" : "BJNR103100002BJNE003600000",
+          "paragraph" : "§ 35",
+          "title" : "Prüfungsakten, Einsichtnahme"
+        },
+        {
+          "documentIdentifier" : "BJNR103100002BJNE003700000",
+          "paragraph" : "§ 36",
+          "title" : "Wiederholung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Prüfung"
+    },
+    {
+      "documentIdentifier" : "BJNR103100002BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR103100002BJNE003801310",
+          "paragraph" : "§ 37",
+          "title" : "Anderweitige Zuerkennung der Laufbahnbefähigung"
+        },
+        {
+          "documentIdentifier" : "BJNR103100002BJNE003900000",
+          "paragraph" : "§ 38",
+          "title" : "Übergangsregelung"
+        },
+        {
+          "documentIdentifier" : "BJNR103100002BJNE004000000",
+          "paragraph" : "§ 39",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Sonstige Vorschriften"
+    }
+  ]
+}

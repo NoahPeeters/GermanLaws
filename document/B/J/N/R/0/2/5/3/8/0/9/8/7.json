@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR025380987",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR025380987Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR025380987BJNE001302305",
+          "paragraph" : "§ 6a",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR025380987BJNE001203377",
+          "paragraph" : "Anlage",
+          "title" : "Lagepläne 1 bis 20"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

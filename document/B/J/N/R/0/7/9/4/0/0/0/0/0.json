@@ -1,0 +1,392 @@
+{
+  "documentIdentifier" : "BJNR079400000",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR079400000BJNG000800140",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR079400000BJNE002900140",
+          "paragraph" : "§ 1",
+          "title" : "Zuständiges Hauptzollamt"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR079400000BJNG000101140",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR079400000BJNE000806360",
+              "paragraph" : "§ 1a",
+              "title" : "Versorger"
+            },
+            {
+              "documentIdentifier" : "BJNR079400000BJNE003002123",
+              "paragraph" : "§ 1b",
+              "title" : "Strom aus erneuerbaren Energieträgern"
+            },
+            {
+              "documentIdentifier" : "BJNR079400000BJNE004000360",
+              "paragraph" : "§ 1c",
+              "title" : "Elektromobilität"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR079400000BJNG001300360",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR079400000BJNE004101123",
+                  "paragraph" : "§ 1d",
+                  "title" : "Verfahren bei offenen Rückforderungsanordnungen"
+                },
+                {
+                  "documentIdentifier" : "BJNR079400000BJNE004201123",
+                  "paragraph" : "§ 1e",
+                  "title" : "Verfahren bei Unternehmen in Schwierigkeiten"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Zu § 2a des Gesetzes"
+            }
+          ],
+          "title" : "zu § 2 des Gesetzes"
+        }
+      ],
+      "title" : "Allgemeines"
+    },
+    {
+      "documentIdentifier" : "BJNR079400000BJNG000200310",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR079400000BJNE000904123",
+          "paragraph" : "§ 2",
+          "title" : "Antrag auf Erlaubnis"
+        },
+        {
+          "documentIdentifier" : "BJNR079400000BJNE001003123",
+          "paragraph" : "§ 3",
+          "title" : "Erteilung und Erlöschen der Erlaubnis"
+        },
+        {
+          "documentIdentifier" : "BJNR079400000BJNE001104123",
+          "paragraph" : "§ 4",
+          "title" : "Pflichten des Versorgers, Eigenerzeugers oder erlaubnispflichtigen Letztverbrauchers"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "zu § 4 des Gesetzes"
+    },
+    {
+      "documentIdentifier" : "BJNR079400000BJNG000300310",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR079400000BJNE001200310",
+          "paragraph" : "§ 5",
+          "title" : "Anmeldung der Steuer"
+        },
+        {
+          "documentIdentifier" : "BJNR079400000BJNE001304140",
+          "paragraph" : "§ 6",
+          "title" : "Vorauszahlungen"
+        },
+        {
+          "documentIdentifier" : "BJNR079400000BJNE001401301",
+          "paragraph" : "§ 7",
+          "title" : "Mengenermittlung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "zu § 8 des Gesetzes"
+    },
+    {
+      "documentIdentifier" : "BJNR079400000BJNG000402140",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR079400000BJNE001504123",
+          "paragraph" : "§ 8",
+          "title" : "Antrag auf Erteilung einer Erlaubnis zur steuerbegünstigten Entnahme"
+        },
+        {
+          "documentIdentifier" : "BJNR079400000BJNE001605123",
+          "paragraph" : "§ 9",
+          "title" : "Erteilung und Erlöschen der Erlaubnis"
+        },
+        {
+          "documentIdentifier" : "BJNR079400000BJNE001704123",
+          "paragraph" : "§ 10",
+          "title" : "Allgemeine Erlaubnis"
+        },
+        {
+          "documentIdentifier" : "BJNR079400000BJNE001803123",
+          "paragraph" : "§ 11",
+          "title" : "Pflichten des Erlaubnisinhabers"
+        },
+        {
+          "documentIdentifier" : "BJNR079400000BJNE004800123",
+          "paragraph" : "§ 11a",
+          "title" : "Strom aus erneuerbaren Energieträgern und aus hocheffizienten KWK-Anlagen, Zeitgleichheit"
+        },
+        {
+          "documentIdentifier" : "BJNR079400000BJNE001901360",
+          "paragraph" : "§ 12",
+          "title" : "Strom zur Stromerzeugung"
+        },
+        {
+          "documentIdentifier" : "BJNR079400000BJNE003102123",
+          "paragraph" : "§ 12a",
+          "title" : "Steuerentlastung für Strom zur Stromerzeugung"
+        },
+        {
+          "documentIdentifier" : "BJNR079400000BJNE002704123",
+          "paragraph" : "§ 12b",
+          "title" : "Steuerbefreiung für Anlagen mit einer elektrischen Nennleistung von bis zu zwei Megawatt"
+        },
+        {
+          "documentIdentifier" : "BJNR079400000BJNE004900123",
+          "paragraph" : "§ 12c",
+          "title" : "Steuerentlastung für Strom aus erneuerbaren Energieträgern"
+        },
+        {
+          "documentIdentifier" : "BJNR079400000BJNE005000123",
+          "paragraph" : "§ 12d",
+          "title" : "Steuerentlastung für Strom aus hocheffizienten KWK-Anlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR079400000BJNE002101140",
+          "paragraph" : "§ 13",
+          "title" : "Verkehr mit Oberleitungsomnibussen oder Schienenbahnen"
+        },
+        {
+          "documentIdentifier" : "BJNR079400000BJNE003201360",
+          "paragraph" : "§ 13a",
+          "title" : "Differenzversteuerung"
+        },
+        {
+          "documentIdentifier" : "BJNR079400000BJNE003301140",
+          "paragraph" : "§ 14",
+          "title" : "Wasserfahrzeuge und Schifffahrt"
+        },
+        {
+          "documentIdentifier" : "BJNR079400000BJNE003401360",
+          "paragraph" : "§ 14a",
+          "title" : "Steuerentlastung für die Landstromversorgung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          8
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Zu § 9 des Gesetzes"
+    },
+    {
+      "documentIdentifier" : "BJNR079400000BJNG000900140",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR079400000BJNE002205123",
+          "paragraph" : "§ 15",
+          "title" : "Zuordnung von Unternehmen"
+        },
+        {
+          "documentIdentifier" : "BJNR079400000BJNE002303140",
+          "paragraph" : "§ 16",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR079400000BJNE002402140",
+          "paragraph" : "§ 17",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          15
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Zu § 2 Nummer 3 bis 6 und den §§ 9a bis 10 des Gesetzes"
+    },
+    {
+      "documentIdentifier" : "BJNR079400000BJNG000700301",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR079400000BJNE002803360",
+          "paragraph" : "§ 17a",
+          "title" : "Erlass, Erstattung oder Vergütung der Steuer für bestimmte Prozesse und Verfahren"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          17
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR079400000BJNG001000140",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR079400000BJNE003502360",
+              "paragraph" : "§ 17b",
+              "title" : "Steuerentlastung für Unternehmen"
+            },
+            {
+              "documentIdentifier" : "BJNR079400000BJNE003601116",
+              "paragraph" : "§ 17c",
+              "title" : "Verwendung von Nutzenergie durch andere Unternehmen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              17
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR079400000BJNG001600360",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR079400000BJNE004600360",
+                  "paragraph" : "§ 17d",
+                  "title" : "Steuerentlastung für den Öffentlichen Personennahverkehr, Allgemeines"
+                },
+                {
+                  "documentIdentifier" : "BJNR079400000BJNE004700360",
+                  "paragraph" : "§ 17e",
+                  "title" : "Steuerentlastung für den Öffentlichen Personennahverkehr, Nachweise"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  17
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Zu § 9c des Gesetzes"
+            }
+          ],
+          "title" : "Zu § 9b des Gesetzes"
+        }
+      ],
+      "title" : "Zu § 9a des Gesetzes"
+    },
+    {
+      "documentIdentifier" : "BJNR079400000BJNG000500310",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR079400000BJNE003800140",
+          "paragraph" : "§ 18",
+          "title" : "Begriffsbestimmungen zu § 10 des Gesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR079400000BJNE002506123",
+          "paragraph" : "§ 19",
+          "title" : "Erlass, Erstattung oder Vergütung der Steuer in Sonderfällen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          18
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "zu § 10 des Gesetzes"
+    },
+    {
+      "documentIdentifier" : "BJNR079400000BJNG001500360",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR079400000BJNE004500360",
+          "paragraph" : "§ 19a",
+          "title" : "Kleinbetragsregelung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          19
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Zu § 156 Absatz 1 der Abgabenordnung"
+    },
+    {
+      "documentIdentifier" : "BJNR079400000BJNG000602140",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR079400000BJNE002604360",
+          "paragraph" : "§ 20",
+          "title" : "Ordnungswidrigkeiten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          20
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Zu § 381 Absatz 1 der Abgabenordnung"
+    },
+    {
+      "documentIdentifier" : "BJNR079400000BJNG001200140",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR079400000BJNE003901360",
+          "paragraph" : "§ 21",
+          "title" : "Übergangsregelung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          21
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussbestimmungen"
+    }
+  ]
+}

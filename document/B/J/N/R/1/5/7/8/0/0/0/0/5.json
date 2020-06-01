@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR157800005",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR157800005Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR157800005BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Festsetzung des aktuellen Rentenwerts und des aktuellen Rentenwerts (Ost)"
+        },
+        {
+          "documentIdentifier" : "BJNR157800005BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Festsetzung des allgemeinen Rentenwerts und des allgemeinen Rentenwerts\n(Ost) in der Alterssicherung der Landwirte"
+        },
+        {
+          "documentIdentifier" : "BJNR157800005BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

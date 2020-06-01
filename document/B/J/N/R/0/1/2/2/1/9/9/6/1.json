@@ -1,0 +1,150 @@
+{
+  "documentIdentifier" : "BJNR012219961",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR012219961BJNE001200305",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          0
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "-"
+    },
+    {
+      "documentIdentifier" : "BJNR012219961BJNG000100305",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Art 1 bis 6"
+    },
+    {
+      "documentIdentifier" : "BJNR012219961BJNG000801140",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR012219961BJNE001305140",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              7
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Art 7"
+        }
+      ],
+      "title" : "(weggefallen)"
+    },
+    {
+      "documentIdentifier" : "BJNR012219961BJNG000900305",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          8
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Art 8"
+    },
+    {
+      "documentIdentifier" : "BJNR012219961BJNG001000305",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          9
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR012219961BJNE001500305",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              9
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR012219961BJNE001602140",
+              "laws" : [
+
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  9
+                ]
+              },
+              "subsections" : [
+                {
+                  "documentIdentifier" : "BJNR012219961BJNE001701377",
+                  "laws" : [
+
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      9
+                    ]
+                  },
+                  "subsections" : [
+                    {
+                      "documentIdentifier" : "BJNR012219961BJNE001800305",
+                      "laws" : [
+
+                      ],
+                      "sectionNumber" : {
+                        "numbers" : [
+                          9
+                        ]
+                      },
+                      "subsections" : [
+
+                      ],
+                      "title" : "Art 9"
+                    }
+                  ],
+                  "title" : "Art 9"
+                }
+              ],
+              "title" : "Art 9"
+            }
+          ],
+          "title" : "Art 9"
+        }
+      ],
+      "title" : "Schlußvorschriften"
+    }
+  ]
+}

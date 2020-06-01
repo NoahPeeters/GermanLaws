@@ -1,0 +1,156 @@
+{
+  "documentIdentifier" : "BJNR138300010",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR138300010BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR138300010BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Züchtungs- und Haltungsverbot"
+        },
+        {
+          "documentIdentifier" : "BJNR138300010BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Anzeigepflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR138300010BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Ausnahmen zu Versuchs- und Züchtungszwecken"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Bestimmungen"
+    },
+    {
+      "documentIdentifier" : "BJNR138300010BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR138300010BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Abgrenzung und Aufhebung der Sicherheitszone"
+        },
+        {
+          "documentIdentifier" : "BJNR138300010BJNE000601377",
+          "paragraph" : "§ 5",
+          "title" : "Schutzmaßnahmen in der Sicherheitszone"
+        },
+        {
+          "documentIdentifier" : "BJNR138300010BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Verwendung und Behandlung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Maßnahmen zur Bekämpfung des Kartoffelkrebses"
+    },
+    {
+      "documentIdentifier" : "BJNR138300010BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR138300010BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Anforderungen an Felder für die Erzeugung von Pflanzen zum Anpflanzen"
+        },
+        {
+          "documentIdentifier" : "BJNR138300010BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Untersuchung von Anbauflächen"
+        },
+        {
+          "documentIdentifier" : "BJNR138300010BJNE001000000",
+          "paragraph" : "§ 9",
+          "title" : "Erhebungen zur Feststellung der Verbreitung von Kartoffelzystennematoden"
+        },
+        {
+          "documentIdentifier" : "BJNR138300010BJNE001100000",
+          "paragraph" : "§ 10",
+          "title" : "Amtliches Verzeichnis"
+        },
+        {
+          "documentIdentifier" : "BJNR138300010BJNE001201377",
+          "paragraph" : "§ 11",
+          "title" : "Maßnahmen bei Befall mit Kartoffelzystennematoden"
+        },
+        {
+          "documentIdentifier" : "BJNR138300010BJNE001300000",
+          "paragraph" : "§ 12",
+          "title" : "Amtliches Bekämpfungsprogramm"
+        },
+        {
+          "documentIdentifier" : "BJNR138300010BJNE001400000",
+          "paragraph" : "§ 13",
+          "title" : "Verwendung und Behandlung von kontaminierten Pflanzen"
+        },
+        {
+          "documentIdentifier" : "BJNR138300010BJNE001500000",
+          "paragraph" : "§ 14",
+          "title" : "Anforderung an Verarbeitungsbetriebe für Kartoffeln"
+        },
+        {
+          "documentIdentifier" : "BJNR138300010BJNE001600000",
+          "paragraph" : "§ 15",
+          "title" : "Ausnahmen für Nachbau"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Maßnahmen zur Bekämpfung von Kartoffelzystennematoden"
+    },
+    {
+      "documentIdentifier" : "BJNR138300010BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR138300010BJNE001701377",
+          "paragraph" : "§ 16",
+          "title" : "Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR138300010BJNE001800000",
+          "paragraph" : "§ 17",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR138300010BJNE002000000",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 12)"
+        },
+        {
+          "documentIdentifier" : "BJNR138300010BJNE002100000",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 14)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussbestimmungen"
+    }
+  ]
+}

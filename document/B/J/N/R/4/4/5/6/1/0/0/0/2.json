@@ -1,0 +1,94 @@
+{
+  "documentIdentifier" : "BJNR445610002",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR445610002Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR445610002BJNE000102118",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR445610002BJNE000204360",
+          "paragraph" : "§ 2",
+          "title" : "Elektronische Anzeigen, Anträge und Unterrichtungen"
+        },
+        {
+          "documentIdentifier" : "BJNR445610002BJNE000301377",
+          "paragraph" : "§ 3",
+          "title" : "Zentrales Erfassungssystem zur Entgegennahme von Anzeigen nach dem Medizinproduktegesetz"
+        },
+        {
+          "documentIdentifier" : "BJNR445610002BJNE001700377",
+          "paragraph" : "§ 3a",
+          "title" : "Zentrales Erfassungssystem für Anzeigen und Anträge bei klinischen Prüfungen und Leistungsbewertungsprüfungen"
+        },
+        {
+          "documentIdentifier" : "BJNR445610002BJNE000403360",
+          "paragraph" : "§ 4",
+          "title" : "Medizinprodukte-Datenbanken"
+        },
+        {
+          "documentIdentifier" : "BJNR445610002BJNE000505116",
+          "paragraph" : "§ 5",
+          "title" : "Nutzung der Datenbanken"
+        },
+        {
+          "documentIdentifier" : "BJNR445610002BJNE000600000",
+          "paragraph" : "§ 6",
+          "title" : "Datenschutz und Datensicherheit"
+        },
+        {
+          "documentIdentifier" : "BJNR445610002BJNE000701360",
+          "paragraph" : "§ 7",
+          "title" : "Speicherungsfrist"
+        },
+        {
+          "documentIdentifier" : "BJNR445610002BJNE000802118",
+          "paragraph" : "§ 8",
+          "title" : "Auskunftsrecht"
+        },
+        {
+          "documentIdentifier" : "BJNR445610002BJNE000901310",
+          "paragraph" : "(XXXX) §§ 9 und 10",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR445610002BJNE001102360",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 4 Absatz 1 Nummer 1)"
+        },
+        {
+          "documentIdentifier" : "BJNR445610002BJNE001202360",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 4 Absatz 1 Nummer 1)"
+        },
+        {
+          "documentIdentifier" : "BJNR445610002BJNE001302360",
+          "paragraph" : "Anlage 3",
+          "title" : "(zu § 4 Absatz 1 Nummer 2)"
+        },
+        {
+          "documentIdentifier" : "BJNR445610002BJNE001403360",
+          "paragraph" : "Anlage 4",
+          "title" : "(zu § 4 Absatz 1 Nummer 3)"
+        },
+        {
+          "documentIdentifier" : "BJNR445610002BJNE001503360",
+          "paragraph" : "Anlage 5",
+          "title" : "(zu § 4 Absatz 1 Nummer 4)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

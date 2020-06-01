@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR167500009",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR167500009Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR167500009BJNE000202116",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR167500009BJNE000302116",
+          "paragraph" : "§ 2",
+          "title" : "Gebühren in besonderen Fällen"
+        },
+        {
+          "documentIdentifier" : "BJNR167500009BJNE000402116",
+          "paragraph" : "§ 3",
+          "title" : "Gebühren in Widerspruchsverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR167500009BJNE000502116",
+          "paragraph" : "§ 4",
+          "title" : "Ermäßigungen"
+        },
+        {
+          "documentIdentifier" : "BJNR167500009BJNE000603116",
+          "paragraph" : "§ 5",
+          "title" : "Übergangsvorschrift"
+        },
+        {
+          "documentIdentifier" : "BJNR167500009BJNE000903116",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 1)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

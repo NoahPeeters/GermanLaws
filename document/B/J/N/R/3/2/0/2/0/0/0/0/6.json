@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR320200006",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR320200006Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR320200006BJNE000201360",
+          "paragraph" : "§ 1",
+          "title" : "Übertragung der Führung des Unternehmensregisters"
+        },
+        {
+          "documentIdentifier" : "BJNR320200006BJNE000301360",
+          "paragraph" : "§ 2",
+          "title" : "Führung eines Dienstsiegels"
+        },
+        {
+          "documentIdentifier" : "BJNR320200006BJNE000401360",
+          "paragraph" : "§ 3",
+          "title" : "Kündigungsrechte"
+        },
+        {
+          "documentIdentifier" : "BJNR320200006BJNE000502360",
+          "paragraph" : "§ 4",
+          "title" : "Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR380500002",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR380500002Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR380500002BJNE000102308",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR380500002BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmung"
+        },
+        {
+          "documentIdentifier" : "BJNR380500002BJNE000301308",
+          "paragraph" : "§ 3",
+          "title" : "Sicherheitsanforderungen"
+        },
+        {
+          "documentIdentifier" : "BJNR380500002BJNE000401308",
+          "paragraph" : "§ 4",
+          "title" : "Voraussetzungen für die Bereitstellung auf dem Markt"
+        },
+        {
+          "documentIdentifier" : "BJNR380500002BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Kennzeichnungen"
+        },
+        {
+          "documentIdentifier" : "BJNR380500002BJNE000602308",
+          "paragraph" : "§ 6",
+          "title" : "Ordnungswidrigkeiten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

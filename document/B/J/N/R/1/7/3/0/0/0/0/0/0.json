@@ -1,0 +1,64 @@
+{
+  "documentIdentifier" : "BJNR173000000",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR173000000Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR173000000BJNE000201118",
+          "paragraph" : "§ 1",
+          "title" : "Zulassungen"
+        },
+        {
+          "documentIdentifier" : "BJNR173000000BJNE000302118",
+          "paragraph" : "§ 2",
+          "title" : "Lebensmittel aus Drittländern"
+        },
+        {
+          "documentIdentifier" : "BJNR173000000BJNE000404118",
+          "paragraph" : "§ 3",
+          "title" : "Kenntlichmachung"
+        },
+        {
+          "documentIdentifier" : "BJNR173000000BJNE000501118",
+          "paragraph" : "§ 4",
+          "title" : "Zulassung von Einrichtungen zur Bestrahlung"
+        },
+        {
+          "documentIdentifier" : "BJNR173000000BJNE000601118",
+          "paragraph" : "§ 5",
+          "title" : "Aufzeichnungspflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR173000000BJNE000701118",
+          "paragraph" : "§ 6",
+          "title" : "Analysenmethoden"
+        },
+        {
+          "documentIdentifier" : "BJNR173000000BJNE000805118",
+          "paragraph" : "§ 7",
+          "title" : "Mitteilungen, Berichte"
+        },
+        {
+          "documentIdentifier" : "BJNR173000000BJNE000902118",
+          "paragraph" : "§ 8",
+          "title" : "Straftaten, Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR173000000BJNE001301118",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 1)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

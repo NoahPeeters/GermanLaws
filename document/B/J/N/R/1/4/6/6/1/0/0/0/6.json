@@ -1,0 +1,133 @@
+{
+  "documentIdentifier" : "BJNR146610006",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR146610006BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR146610006BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Ermächtigung zur Übertragung von Aufgaben des Schuldenwesens"
+        },
+        {
+          "documentIdentifier" : "BJNR146610006BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Aufsicht über die Bundesrepublik Deutschland - Finanzagentur GmbH"
+        },
+        {
+          "documentIdentifier" : "BJNR146610006BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Parlamentarisches Gremium"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Wahrnehmung von Aufgaben des Schuldenwesens des Bundes und parlamentarische Kontrolle"
+    },
+    {
+      "documentIdentifier" : "BJNR146610006BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR146610006BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Kreditaufnahme des Bundes"
+        },
+        {
+          "documentIdentifier" : "BJNR146610006BJNE001000140",
+          "paragraph" : "§ 4a",
+          "title" : "Einführung von Umschuldungsklauseln"
+        },
+        {
+          "documentIdentifier" : "BJNR146610006BJNE001100140",
+          "paragraph" : "§ 4b",
+          "title" : "Mehrheitsbeschlüsse der Gläubiger"
+        },
+        {
+          "documentIdentifier" : "BJNR146610006BJNE001200140",
+          "paragraph" : "§ 4c",
+          "title" : "Stimmrecht"
+        },
+        {
+          "documentIdentifier" : "BJNR146610006BJNE001300140",
+          "paragraph" : "§ 4d",
+          "title" : "Berechnungsstelle; Bescheinigung"
+        },
+        {
+          "documentIdentifier" : "BJNR146610006BJNE001400140",
+          "paragraph" : "§ 4e",
+          "title" : "Einberufung der Gläubigerversammlung"
+        },
+        {
+          "documentIdentifier" : "BJNR146610006BJNE001500140",
+          "paragraph" : "§ 4f",
+          "title" : "Vorsitz; Beschlussfähigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR146610006BJNE001600140",
+          "paragraph" : "§ 4g",
+          "title" : "Vertretung"
+        },
+        {
+          "documentIdentifier" : "BJNR146610006BJNE001700140",
+          "paragraph" : "§ 4h",
+          "title" : "Schriftliche Abstimmung"
+        },
+        {
+          "documentIdentifier" : "BJNR146610006BJNE001800140",
+          "paragraph" : "§ 4i",
+          "title" : "Anfechtung von Beschlüssen"
+        },
+        {
+          "documentIdentifier" : "BJNR146610006BJNE001900140",
+          "paragraph" : "§ 4j",
+          "title" : "Wirksamkeit und Vollziehung von Beschlüssen"
+        },
+        {
+          "documentIdentifier" : "BJNR146610006BJNE002000140",
+          "paragraph" : "§ 4k",
+          "title" : "Bekanntmachungen"
+        },
+        {
+          "documentIdentifier" : "BJNR146610006BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Bundesschuldbuch"
+        },
+        {
+          "documentIdentifier" : "BJNR146610006BJNE000600000",
+          "paragraph" : "§ 6",
+          "title" : "Sammelschuldbuchforderungen"
+        },
+        {
+          "documentIdentifier" : "BJNR146610006BJNE000700000",
+          "paragraph" : "§ 7",
+          "title" : "Einzelschuldbuchforderungen"
+        },
+        {
+          "documentIdentifier" : "BJNR146610006BJNE000800000",
+          "paragraph" : "§ 8",
+          "title" : "Öffentlicher Glaube des Bundesschuldbuchs"
+        },
+        {
+          "documentIdentifier" : "BJNR146610006BJNE000901140",
+          "paragraph" : "§ 9",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Kreditaufnahme des Bundes und Bundesschuldbuch"
+    }
+  ]
+}

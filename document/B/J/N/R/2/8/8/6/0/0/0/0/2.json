@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR288600002",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR288600002Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR288600002BJNE000410311",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 1 Absatz 1)"
+        },
+        {
+          "documentIdentifier" : "BJNR288600002BJNE000502311",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 1 Abs. 2)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

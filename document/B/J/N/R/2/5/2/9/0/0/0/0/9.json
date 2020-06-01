@@ -1,0 +1,252 @@
+{
+  "documentIdentifier" : "BJNR252900009",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR252900009BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR252900009BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Zweck des Gesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR252900009BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR252900009BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR252900009BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Benachteiligungsverbot"
+        },
+        {
+          "documentIdentifier" : "BJNR252900009BJNE000601000",
+          "paragraph" : "§ 5",
+          "title" : "Qualitätssicherung genetischer Analysen"
+        },
+        {
+          "documentIdentifier" : "BJNR252900009BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Abgabe genetischer Untersuchungsmittel"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR252900009BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR252900009BJNE000801000",
+          "paragraph" : "§ 7",
+          "title" : "Arztvorbehalt"
+        },
+        {
+          "documentIdentifier" : "BJNR252900009BJNE000901116",
+          "paragraph" : "§ 8",
+          "title" : "Einwilligung"
+        },
+        {
+          "documentIdentifier" : "BJNR252900009BJNE001000000",
+          "paragraph" : "§ 9",
+          "title" : "Aufklärung"
+        },
+        {
+          "documentIdentifier" : "BJNR252900009BJNE001100000",
+          "paragraph" : "§ 10",
+          "title" : "Genetische Beratung"
+        },
+        {
+          "documentIdentifier" : "BJNR252900009BJNE001201116",
+          "paragraph" : "§ 11",
+          "title" : "Mitteilung der Ergebnisse genetischer Untersuchungen und Analysen"
+        },
+        {
+          "documentIdentifier" : "BJNR252900009BJNE001301116",
+          "paragraph" : "§ 12",
+          "title" : "Aufbewahrung und Vernichtung der Ergebnisse genetischer Untersuchungen und Analysen"
+        },
+        {
+          "documentIdentifier" : "BJNR252900009BJNE001400000",
+          "paragraph" : "§ 13",
+          "title" : "Verwendung und Vernichtung genetischer Proben"
+        },
+        {
+          "documentIdentifier" : "BJNR252900009BJNE001500000",
+          "paragraph" : "§ 14",
+          "title" : "Genetische Untersuchungen bei nicht einwilligungsfähigen Personen"
+        },
+        {
+          "documentIdentifier" : "BJNR252900009BJNE001600000",
+          "paragraph" : "§ 15",
+          "title" : "Vorgeburtliche genetische Untersuchungen"
+        },
+        {
+          "documentIdentifier" : "BJNR252900009BJNE001700000",
+          "paragraph" : "§ 16",
+          "title" : "Genetische Reihenuntersuchungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Genetische Untersuchungen zu medizinischen Zwecken"
+    },
+    {
+      "documentIdentifier" : "BJNR252900009BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR252900009BJNE001801116",
+          "paragraph" : "§ 17",
+          "title" : "Genetische Untersuchungen zur Klärung der Abstammung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Genetische Untersuchungen zur Klärung der Abstammung"
+    },
+    {
+      "documentIdentifier" : "BJNR252900009BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR252900009BJNE001900000",
+          "paragraph" : "§ 18",
+          "title" : "Genetische Untersuchungen und Analysen im Zusammenhang mit dem Abschluss eines Versicherungsvertrages"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Genetische Untersuchungen im Versicherungsbereich"
+    },
+    {
+      "documentIdentifier" : "BJNR252900009BJNG000500000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR252900009BJNE002000000",
+          "paragraph" : "§ 19",
+          "title" : "Genetische Untersuchungen und Analysen vor und nach Begründung des Beschäftigungsverhältnisses"
+        },
+        {
+          "documentIdentifier" : "BJNR252900009BJNE002101000",
+          "paragraph" : "§ 20",
+          "title" : "Genetische Untersuchungen und Analysen zum Arbeitsschutz"
+        },
+        {
+          "documentIdentifier" : "BJNR252900009BJNE002200000",
+          "paragraph" : "§ 21",
+          "title" : "Arbeitsrechtliches Benachteiligungsverbot"
+        },
+        {
+          "documentIdentifier" : "BJNR252900009BJNE002300000",
+          "paragraph" : "§ 22",
+          "title" : "Öffentlich-rechtliche Dienstverhältnisse"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Genetische Untersuchungen im Arbeitsleben"
+    },
+    {
+      "documentIdentifier" : "BJNR252900009BJNG000600000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR252900009BJNE002400000",
+          "paragraph" : "§ 23",
+          "title" : "Richtlinien"
+        },
+        {
+          "documentIdentifier" : "BJNR252900009BJNE002504301",
+          "paragraph" : "§ 24",
+          "title" : "Gebühren und Auslagen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemein anerkannter Stand der Wissenschaft und Technik"
+    },
+    {
+      "documentIdentifier" : "BJNR252900009BJNG000700000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR252900009BJNE002600000",
+          "paragraph" : "§ 25",
+          "title" : "Strafvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR252900009BJNE002701116",
+          "paragraph" : "§ 26",
+          "title" : "Bußgeldvorschriften"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Straf- und Bußgeldvorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR252900009BJNG000800000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR252900009BJNE002800000",
+          "paragraph" : "§ 27",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          8
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussvorschriften"
+    }
+  ]
+}

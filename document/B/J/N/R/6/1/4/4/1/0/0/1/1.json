@@ -1,0 +1,89 @@
+{
+  "documentIdentifier" : "BJNR614410011",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR614410011Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR614410011BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR614410011BJNE000304124",
+          "paragraph" : "§ 2",
+          "title" : "Streckennetz"
+        },
+        {
+          "documentIdentifier" : "BJNR614410011BJNE000401123",
+          "paragraph" : "§ 3",
+          "title" : "Fahrzeuge"
+        },
+        {
+          "documentIdentifier" : "BJNR614410011BJNE000502124",
+          "paragraph" : "§ 4",
+          "title" : "Abmessungen"
+        },
+        {
+          "documentIdentifier" : "BJNR614410011BJNE000603124",
+          "paragraph" : "§ 5",
+          "title" : "Technische Anforderungen an die eingesetzten Fahrzeuge"
+        },
+        {
+          "documentIdentifier" : "BJNR614410011BJNE000701124",
+          "paragraph" : "§ 6",
+          "title" : "Kombinierter Verkehr"
+        },
+        {
+          "documentIdentifier" : "BJNR614410011BJNE000801124",
+          "paragraph" : "§ 7",
+          "title" : "Übereinstimmungsnachweis"
+        },
+        {
+          "documentIdentifier" : "BJNR614410011BJNE000901308",
+          "paragraph" : "§ 8",
+          "title" : "Ladung"
+        },
+        {
+          "documentIdentifier" : "BJNR614410011BJNE001001124",
+          "paragraph" : "§ 9",
+          "title" : "Überholen"
+        },
+        {
+          "documentIdentifier" : "BJNR614410011BJNE001101123",
+          "paragraph" : "§ 10",
+          "title" : "Transportweg"
+        },
+        {
+          "documentIdentifier" : "BJNR614410011BJNE001201124",
+          "paragraph" : "§ 11",
+          "title" : "Persönliche Anforderungen an die Fahrer"
+        },
+        {
+          "documentIdentifier" : "BJNR614410011BJNE001301123",
+          "paragraph" : "§ 12",
+          "title" : "Anzeigepflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR614410011BJNE001403124",
+          "paragraph" : "§ 13",
+          "title" : "Übergangs- und Anwendungsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR614410011BJNE001508124",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 2 Absatz 1)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

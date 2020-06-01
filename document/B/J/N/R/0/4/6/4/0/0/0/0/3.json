@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR046400003",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR046400003Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR046400003BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Anforderungen an die Sachkunde"
+        },
+        {
+          "documentIdentifier" : "BJNR046400003BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Nachweis der Sachkunde"
+        },
+        {
+          "documentIdentifier" : "BJNR046400003BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Lehrgang"
+        },
+        {
+          "documentIdentifier" : "BJNR046400003BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Fortbildung"
+        },
+        {
+          "documentIdentifier" : "BJNR046400003BJNE000501377",
+          "paragraph" : "§ 5",
+          "title" : "Ergänzende Regelungen der Landesregierungen"
+        },
+        {
+          "documentIdentifier" : "BJNR046400003BJNE000600000",
+          "paragraph" : "§ 6",
+          "title" : "Übergangsvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR046400003BJNE000700000",
+          "paragraph" : "§ 7",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

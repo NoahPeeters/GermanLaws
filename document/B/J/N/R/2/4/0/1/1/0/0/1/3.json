@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR240110013",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR240110013Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR240110013BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Errichtung des Fonds"
+        },
+        {
+          "documentIdentifier" : "BJNR240110013BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Zweck und Mittelverwendung; Verordnungsermächtigung"
+        },
+        {
+          "documentIdentifier" : "BJNR240110013BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Stellung im Rechtsverkehr"
+        },
+        {
+          "documentIdentifier" : "BJNR240110013BJNE000403360",
+          "paragraph" : "§ 4",
+          "title" : "Finanzierung des Fonds"
+        },
+        {
+          "documentIdentifier" : "BJNR240110013BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Wirtschaftsplan und Haushaltsrecht"
+        },
+        {
+          "documentIdentifier" : "BJNR240110013BJNE000600000",
+          "paragraph" : "§ 6",
+          "title" : "Rechnungslegung"
+        },
+        {
+          "documentIdentifier" : "BJNR240110013BJNE000700000",
+          "paragraph" : "§ 7",
+          "title" : "Verwaltungskosten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

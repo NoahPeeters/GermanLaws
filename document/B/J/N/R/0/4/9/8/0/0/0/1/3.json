@@ -1,0 +1,69 @@
+{
+  "documentIdentifier" : "BJNR049800013",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR049800013Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR049800013BJNE000201305",
+          "paragraph" : "§ 1",
+          "title" : "Bußgeldkatalog"
+        },
+        {
+          "documentIdentifier" : "BJNR049800013BJNE000301305",
+          "paragraph" : "§ 2",
+          "title" : "Verwarnung"
+        },
+        {
+          "documentIdentifier" : "BJNR049800013BJNE000402305",
+          "paragraph" : "§ 3",
+          "title" : "Bußgeldregelsätze"
+        },
+        {
+          "documentIdentifier" : "BJNR049800013BJNE000504124",
+          "paragraph" : "§ 4",
+          "title" : "Regelfahrverbot"
+        },
+        {
+          "documentIdentifier" : "BJNR049800013BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR049800013BJNE000816124",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 1 Absatz 1)"
+        },
+        {
+          "documentIdentifier" : "BJNR049800013BJNE000902124",
+          "paragraph" : "Anhang",
+          "title" : "(zu Nummer 11 der Anlage)"
+        },
+        {
+          "documentIdentifier" : "BJNR049800013BJNE001001305",
+          "paragraph" : "Anhang",
+          "title" : "(zu Nummer 12 der Anlage)"
+        },
+        {
+          "documentIdentifier" : "BJNR049800013BJNE001100000",
+          "paragraph" : "Anhang",
+          "title" : "(zu den Nummern 198 und 199 der Anlage)"
+        },
+        {
+          "documentIdentifier" : "BJNR049800013BJNE001201305",
+          "paragraph" : "Anhang",
+          "title" : "(zu § 3 Absatz 3)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

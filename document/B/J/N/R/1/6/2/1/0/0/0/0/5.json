@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR162100005",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR162100005Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR162100005BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Fahrtkosten, Wegstreckenentschädigung"
+        },
+        {
+          "documentIdentifier" : "BJNR162100005BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Tagegeld, Übernachtungsgeld"
+        },
+        {
+          "documentIdentifier" : "BJNR162100005BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Sonstige notwendige Auslagen"
+        },
+        {
+          "documentIdentifier" : "BJNR162100005BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Verdienstausfall, Vertretungskosten"
+        },
+        {
+          "documentIdentifier" : "BJNR162100005BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

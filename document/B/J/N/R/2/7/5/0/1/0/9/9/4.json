@@ -1,0 +1,165 @@
+{
+  "documentIdentifier" : "BJNR275010994",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR275010994BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR275010994BJNE000304116",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR275010994BJNE000407116",
+          "paragraph" : "§ 2",
+          "title" : "Krankenhausleistungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR275010994BJNG000501360",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR275010994BJNE000611116",
+          "paragraph" : "§ 3",
+          "title" : "Vereinbarung eines Gesamtbetrags"
+        },
+        {
+          "documentIdentifier" : "BJNR275010994BJNE000709116",
+          "paragraph" : "§ 4",
+          "title" : "Leistungsbezogener Vergleich"
+        },
+        {
+          "documentIdentifier" : "BJNR275010994BJNE000806116",
+          "paragraph" : "§ 5",
+          "title" : "Vereinbarung von Zu- und Abschlägen"
+        },
+        {
+          "documentIdentifier" : "BJNR275010994BJNE000921116",
+          "paragraph" : "§ 6",
+          "title" : "Vereinbarung sonstiger Entgelte"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Vergütung der Krankenhausleistungen"
+    },
+    {
+      "documentIdentifier" : "BJNR275010994BJNG003200360",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR275010994BJNE001009116",
+          "paragraph" : "§ 7",
+          "title" : "Entgelte für allgemeine Krankenhausleistungen"
+        },
+        {
+          "documentIdentifier" : "BJNR275010994BJNE001108116",
+          "paragraph" : "§ 8",
+          "title" : "Berechnung der Entgelte"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Entgeltarten und Abrechnung"
+    },
+    {
+      "documentIdentifier" : "BJNR275010994BJNG003300360",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR275010994BJNE001205116",
+          "paragraph" : "§ 9",
+          "title" : "Vereinbarung auf Bundesebene"
+        },
+        {
+          "documentIdentifier" : "BJNR275010994BJNE001411116",
+          "paragraph" : "§ 10",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR275010994BJNE001514116",
+          "paragraph" : "§ 11",
+          "title" : "Vereinbarung für das einzelne Krankenhaus"
+        },
+        {
+          "documentIdentifier" : "BJNR275010994BJNE001612360",
+          "paragraph" : "§ 12",
+          "title" : "Vorläufige Vereinbarung"
+        },
+        {
+          "documentIdentifier" : "BJNR275010994BJNE002406116",
+          "paragraph" : "§ 13",
+          "title" : "Schiedsstelle"
+        },
+        {
+          "documentIdentifier" : "BJNR275010994BJNE002504116",
+          "paragraph" : "§ 14",
+          "title" : "Genehmigung"
+        },
+        {
+          "documentIdentifier" : "BJNR275010994BJNE002607116",
+          "paragraph" : "§ 15",
+          "title" : "Laufzeit"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Vereinbarungsverfahren"
+    },
+    {
+      "documentIdentifier" : "BJNR275010994BJNG002002360",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR275010994BJNE002805116",
+          "paragraph" : "§ 16",
+          "title" : "Gesondert berechenbare ärztliche und andere Leistungen"
+        },
+        {
+          "documentIdentifier" : "BJNR275010994BJNE004403360",
+          "paragraph" : "§ 17",
+          "title" : "Zuständigkeit der Krankenkassen auf Landesebene"
+        },
+        {
+          "documentIdentifier" : "BJNR275010994BJNE004311116",
+          "paragraph" : "§ 18",
+          "title" : "Übergangsvorschriften"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Sonstige Vorschriften"
+    }
+  ]
+}

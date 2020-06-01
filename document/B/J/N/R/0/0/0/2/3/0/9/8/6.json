@@ -1,0 +1,162 @@
+{
+  "documentIdentifier" : "BJNR000230986",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR000230986BJNG000101377",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR000230986BJNE000601377",
+          "paragraph" : "§ 1",
+          "title" : "Antrag"
+        },
+        {
+          "documentIdentifier" : "BJNR000230986BJNE002600377",
+          "paragraph" : "§ 1a",
+          "title" : "Zulassung der elektronischen Form"
+        },
+        {
+          "documentIdentifier" : "BJNR000230986BJNE002704301",
+          "paragraph" : "§ 1b",
+          "title" : "Art und Weise der Einreichung der Anträge in elektronischer Form"
+        },
+        {
+          "documentIdentifier" : "BJNR000230986BJNE000705360",
+          "paragraph" : "§ 2",
+          "title" : "Registerprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR000230986BJNE000801377",
+          "paragraph" : "§ 3",
+          "title" : "Wertprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR000230986BJNE000901377",
+          "paragraph" : "§ 4",
+          "title" : "Prüfung der physiologischen Merkmale bei Rebe"
+        },
+        {
+          "documentIdentifier" : "BJNR000230986BJNE001001377",
+          "paragraph" : "§ 5",
+          "title" : "Vermehrungsmaterial, Saatgut"
+        },
+        {
+          "documentIdentifier" : "BJNR000230986BJNE001104377",
+          "paragraph" : "§ 6",
+          "title" : "Durchführung der Prüfungen"
+        },
+        {
+          "documentIdentifier" : "BJNR000230986BJNE001201377",
+          "paragraph" : "§ 7",
+          "title" : "Prüfungsberichte"
+        },
+        {
+          "documentIdentifier" : "BJNR000230986BJNE001301377",
+          "paragraph" : "§ 8",
+          "title" : "Nachprüfung des Fortbestehens der Sorte,\nÜberwachung der Sortenerhaltung"
+        },
+        {
+          "documentIdentifier" : "BJNR000230986BJNE001401377",
+          "paragraph" : "§ 9",
+          "title" : "Anbau- und Marktbedeutung"
+        },
+        {
+          "documentIdentifier" : "BJNR000230986BJNE001501377",
+          "paragraph" : "§ 10",
+          "title" : "Bekanntmachungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Verfahren"
+    },
+    {
+      "documentIdentifier" : "BJNR000230986BJNG000201377",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Anerkennung von Saatgut nicht zugelassener Sorten"
+    },
+    {
+      "documentIdentifier" : "BJNR000230986BJNG000308301",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR000230986BJNE001705360",
+          "paragraph" : "§ 12",
+          "title" : "Grundvorschrift"
+        },
+        {
+          "documentIdentifier" : "BJNR000230986BJNE001805360",
+          "paragraph" : "§ 13",
+          "title" : "Prüfungsgebühren"
+        },
+        {
+          "documentIdentifier" : "BJNR000230986BJNE001904308",
+          "paragraph" : "§ 14",
+          "title" : "Jahresgebühren, Überwachungsgebühren"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gebühren und Auslagen"
+    },
+    {
+      "documentIdentifier" : "BJNR000230986BJNG000401377",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR000230986BJNE002002377",
+          "paragraph" : "§ 15",
+          "title" : "Verkehr mit anderen Stellen"
+        },
+        {
+          "documentIdentifier" : "BJNR000230986BJNE002506119",
+          "paragraph" : "§ 16",
+          "title" : "Übergangsregelung"
+        },
+        {
+          "documentIdentifier" : "BJNR000230986BJNE002800377",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 1b Abs. 1)"
+        },
+        {
+          "documentIdentifier" : "BJNR000230986BJNE002415119",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu §§ 12 bis 14)"
+        },
+        {
+          "documentIdentifier" : "BJNR000230986BJNE002906119",
+          "paragraph" : "Anlage 3",
+          "title" : "(zu § 12 Absatz 1 und § 13 Absatz 6)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussvorschriften"
+    }
+  ]
+}

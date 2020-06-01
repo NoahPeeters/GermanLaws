@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR046300993",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR046300993Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR046300993BJNE000200307",
+          "paragraph" : "§ 1",
+          "title" : "Grundsätze der Finanzbereinigung"
+        },
+        {
+          "documentIdentifier" : "BJNR046300993BJNE000300307",
+          "paragraph" : "§ 2",
+          "title" : "Vorschriften im Sinne des § 1"
+        },
+        {
+          "documentIdentifier" : "BJNR046300993BJNE000400307",
+          "paragraph" : "§ 3",
+          "title" : "Bilanzrechtliche Folgen"
+        },
+        {
+          "documentIdentifier" : "BJNR046300993BJNE000500307",
+          "paragraph" : "§ 4",
+          "title" : "Verfahrensvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR046300993BJNE000600307",
+          "paragraph" : "§ 5",
+          "title" : "Kosten"
+        },
+        {
+          "documentIdentifier" : "BJNR046300993BJNE000700307",
+          "paragraph" : "§ 6",
+          "title" : "Von der Anwendung des Gesetzes ausgeschlossene\nUnternehmen"
+        },
+        {
+          "documentIdentifier" : "BJNR046300993BJNE000800307",
+          "paragraph" : "§ 7",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

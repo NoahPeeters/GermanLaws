@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR270300012",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR270300012Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR270300012BJNE000202118",
+          "paragraph" : "§ 1",
+          "title" : "Gebühren und Auslagen"
+        },
+        {
+          "documentIdentifier" : "BJNR270300012BJNE000301118",
+          "paragraph" : "§ 2",
+          "title" : "Schuldner"
+        },
+        {
+          "documentIdentifier" : "BJNR270300012BJNE000500118",
+          "paragraph" : "§ 3",
+          "title" : "Reduzierung der Jahresgebühren, Abrundung"
+        },
+        {
+          "documentIdentifier" : "BJNR270300012BJNE000401118",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 1 Absatz 1)"
+        },
+        {
+          "documentIdentifier" : "BJNR270300012BJNE000600118",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 1 Absatz 2)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

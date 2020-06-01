@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR122100001",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR122100001Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR122100001BJNE000200305",
+          "paragraph" : "(XXXX) Art 1 bis 3",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR122100001BJNE000300305",
+          "paragraph" : "Art 4",
+          "title" : "Inkrafttreten, Übergangsbestimmung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

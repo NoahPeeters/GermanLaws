@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR000200014",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR000200014Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR000200014BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Formulare"
+        },
+        {
+          "documentIdentifier" : "BJNR000200014BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Vereinfachter Antrag"
+        },
+        {
+          "documentIdentifier" : "BJNR000200014BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Zulässige Abweichungen"
+        },
+        {
+          "documentIdentifier" : "BJNR000200014BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

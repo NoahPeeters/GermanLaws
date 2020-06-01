@@ -1,0 +1,64 @@
+{
+  "documentIdentifier" : "BJNR215200008",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR215200008Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR215200008BJNE000201124",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR215200008BJNE000301124",
+          "paragraph" : "§ 2",
+          "title" : "Abgaben"
+        },
+        {
+          "documentIdentifier" : "BJNR215200008BJNE000401124",
+          "paragraph" : "§ 3",
+          "title" : "Berechnungsgrundlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR215200008BJNE000502124",
+          "paragraph" : "§ 4",
+          "title" : "Abgabenerhebung und Fälligkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR215200008BJNE000602124",
+          "paragraph" : "§ 5",
+          "title" : "Befreiungen und Ermäßigungen"
+        },
+        {
+          "documentIdentifier" : "BJNR215200008BJNE000701124",
+          "paragraph" : "§ 6",
+          "title" : "Pauschalen"
+        },
+        {
+          "documentIdentifier" : "BJNR215200008BJNE000802124",
+          "paragraph" : "§ 7",
+          "title" : "Anmeldung"
+        },
+        {
+          "documentIdentifier" : "BJNR215200008BJNE000901124",
+          "paragraph" : "§ 8",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR215200008BJNE001101124",
+          "paragraph" : "Anlage",
+          "title" : "(zu den §§ 2 und 6)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

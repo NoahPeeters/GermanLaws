@@ -1,0 +1,636 @@
+{
+  "documentIdentifier" : "BJNR039010004",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR039010004BJNG000101360",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR039010004BJNE000202360",
+          "paragraph" : "§ 1",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR039010004BJNE000302360",
+          "paragraph" : "§ 2",
+          "title" : "Designschutz"
+        },
+        {
+          "documentIdentifier" : "BJNR039010004BJNE000402360",
+          "paragraph" : "§ 3",
+          "title" : "Ausschluss vom Designschutz"
+        },
+        {
+          "documentIdentifier" : "BJNR039010004BJNE000502360",
+          "paragraph" : "§ 4",
+          "title" : "Bauelemente komplexer Erzeugnisse"
+        },
+        {
+          "documentIdentifier" : "BJNR039010004BJNE000602360",
+          "paragraph" : "§ 5",
+          "title" : "Offenbarung"
+        },
+        {
+          "documentIdentifier" : "BJNR039010004BJNE000702360",
+          "paragraph" : "§ 6",
+          "title" : "Neuheitsschonfrist"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schutzvoraussetzungen"
+    },
+    {
+      "documentIdentifier" : "BJNR039010004BJNG000201360",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR039010004BJNE000802360",
+          "paragraph" : "§ 7",
+          "title" : "Recht auf das eingetragene Design"
+        },
+        {
+          "documentIdentifier" : "BJNR039010004BJNE000902360",
+          "paragraph" : "§ 8",
+          "title" : "Formelle Berechtigung"
+        },
+        {
+          "documentIdentifier" : "BJNR039010004BJNE001002360",
+          "paragraph" : "§ 9",
+          "title" : "Ansprüche gegenüber Nichtberechtigten"
+        },
+        {
+          "documentIdentifier" : "BJNR039010004BJNE001102360",
+          "paragraph" : "§ 10",
+          "title" : "Entwerferbenennung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Berechtigte"
+    },
+    {
+      "documentIdentifier" : "BJNR039010004BJNG000301360",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR039010004BJNE001202360",
+          "paragraph" : "§ 11",
+          "title" : "Anmeldung"
+        },
+        {
+          "documentIdentifier" : "BJNR039010004BJNE001302360",
+          "paragraph" : "§ 12",
+          "title" : "Sammelanmeldung"
+        },
+        {
+          "documentIdentifier" : "BJNR039010004BJNE001403123",
+          "paragraph" : "§ 13",
+          "title" : "Anmeldetag"
+        },
+        {
+          "documentIdentifier" : "BJNR039010004BJNE001502360",
+          "paragraph" : "§ 14",
+          "title" : "Ausländische Priorität"
+        },
+        {
+          "documentIdentifier" : "BJNR039010004BJNE001603123",
+          "paragraph" : "§ 15",
+          "title" : "Ausstellungspriorität"
+        },
+        {
+          "documentIdentifier" : "BJNR039010004BJNE001705123",
+          "paragraph" : "§ 16",
+          "title" : "Prüfung der Anmeldung"
+        },
+        {
+          "documentIdentifier" : "BJNR039010004BJNE001803360",
+          "paragraph" : "§ 17",
+          "title" : "Weiterbehandlung der Anmeldung"
+        },
+        {
+          "documentIdentifier" : "BJNR039010004BJNE001902360",
+          "paragraph" : "§ 18",
+          "title" : "Eintragungshindernisse"
+        },
+        {
+          "documentIdentifier" : "BJNR039010004BJNE002003123",
+          "paragraph" : "§ 19",
+          "title" : "Führung des Registers, Eintragung und Designinformation"
+        },
+        {
+          "documentIdentifier" : "BJNR039010004BJNE002105123",
+          "paragraph" : "§ 20",
+          "title" : "Bekanntmachung"
+        },
+        {
+          "documentIdentifier" : "BJNR039010004BJNE002203123",
+          "paragraph" : "§ 21",
+          "title" : "Aufschiebung der Bekanntmachung"
+        },
+        {
+          "documentIdentifier" : "BJNR039010004BJNE002305123",
+          "paragraph" : "§ 22",
+          "title" : "Einsichtnahme in das Register"
+        },
+        {
+          "documentIdentifier" : "BJNR039010004BJNE008900123",
+          "paragraph" : "§ 22a",
+          "title" : "Datenschutz"
+        },
+        {
+          "documentIdentifier" : "BJNR039010004BJNE002405123",
+          "paragraph" : "§ 23",
+          "title" : "Verfahrensvorschriften, Beschwerde und Rechtsbeschwerde"
+        },
+        {
+          "documentIdentifier" : "BJNR039010004BJNE002506123",
+          "paragraph" : "§ 24",
+          "title" : "Verfahrenskostenhilfe"
+        },
+        {
+          "documentIdentifier" : "BJNR039010004BJNE008800123",
+          "paragraph" : "§ 25",
+          "title" : "Elektronische Verfahrensführung, Verordnungsermächtigung"
+        },
+        {
+          "documentIdentifier" : "BJNR039010004BJNE002707123",
+          "paragraph" : "§ 26",
+          "title" : "Verordnungsermächtigungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Eintragungsverfahren"
+    },
+    {
+      "documentIdentifier" : "BJNR039010004BJNG000401360",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR039010004BJNE002802360",
+          "paragraph" : "§ 27",
+          "title" : "Entstehung und Dauer des Schutzes"
+        },
+        {
+          "documentIdentifier" : "BJNR039010004BJNE002902360",
+          "paragraph" : "§ 28",
+          "title" : "Aufrechterhaltung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Entstehung und Dauer des Schutzes"
+    },
+    {
+      "documentIdentifier" : "BJNR039010004BJNG000502360",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR039010004BJNE003002360",
+          "paragraph" : "§ 29",
+          "title" : "Rechtsnachfolge"
+        },
+        {
+          "documentIdentifier" : "BJNR039010004BJNE003102360",
+          "paragraph" : "§ 30",
+          "title" : "Dingliche Rechte, Zwangsvollstreckung, Insolvenzverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR039010004BJNE003202360",
+          "paragraph" : "§ 31",
+          "title" : "Lizenz"
+        },
+        {
+          "documentIdentifier" : "BJNR039010004BJNE003302360",
+          "paragraph" : "§ 32",
+          "title" : "Angemeldete Designs"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Eingetragenes Design als Gegenstand des Vermögens"
+    },
+    {
+      "documentIdentifier" : "BJNR039010004BJNG000601360",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR039010004BJNE003403123",
+          "paragraph" : "§ 33",
+          "title" : "Nichtigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR039010004BJNE003502360",
+          "paragraph" : "§ 34",
+          "title" : "Antragsbefugnis"
+        },
+        {
+          "documentIdentifier" : "BJNR039010004BJNE007802123",
+          "paragraph" : "§ 34a",
+          "title" : "Nichtigkeitsverfahren vor dem Deutschen Patent- und Markenamt"
+        },
+        {
+          "documentIdentifier" : "BJNR039010004BJNE007901360",
+          "paragraph" : "§ 34b",
+          "title" : "Aussetzung"
+        },
+        {
+          "documentIdentifier" : "BJNR039010004BJNE008001360",
+          "paragraph" : "§ 34c",
+          "title" : "Beitritt zum Nichtigkeitsverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR039010004BJNE003603123",
+          "paragraph" : "§ 35",
+          "title" : "Teilweise Aufrechterhaltung"
+        },
+        {
+          "documentIdentifier" : "BJNR039010004BJNE003703123",
+          "paragraph" : "§ 36",
+          "title" : "Löschung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Nichtigkeit und Löschung"
+    },
+    {
+      "documentIdentifier" : "BJNR039010004BJNG000701360",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR039010004BJNE003802360",
+          "paragraph" : "§ 37",
+          "title" : "Gegenstand des Schutzes"
+        },
+        {
+          "documentIdentifier" : "BJNR039010004BJNE003902360",
+          "paragraph" : "§ 38",
+          "title" : "Rechte aus dem eingetragenen Design und Schutzumfang"
+        },
+        {
+          "documentIdentifier" : "BJNR039010004BJNE004002360",
+          "paragraph" : "§ 39",
+          "title" : "Vermutung der Rechtsgültigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR039010004BJNE004102360",
+          "paragraph" : "§ 40",
+          "title" : "Beschränkungen der Rechte aus dem eingetragenen Design"
+        },
+        {
+          "documentIdentifier" : "BJNR039010004BJNE004202360",
+          "paragraph" : "§ 41",
+          "title" : "Vorbenutzungsrecht"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schutzwirkungen und Schutzbeschränkungen"
+    },
+    {
+      "documentIdentifier" : "BJNR039010004BJNG000801360",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR039010004BJNE004303360",
+          "paragraph" : "§ 42",
+          "title" : "Beseitigung, Unterlassung und Schadenersatz"
+        },
+        {
+          "documentIdentifier" : "BJNR039010004BJNE004402360",
+          "paragraph" : "§ 43",
+          "title" : "Vernichtung, Rückruf und Überlassung"
+        },
+        {
+          "documentIdentifier" : "BJNR039010004BJNE004503360",
+          "paragraph" : "§ 44",
+          "title" : "Haftung des Inhabers eines Unternehmens"
+        },
+        {
+          "documentIdentifier" : "BJNR039010004BJNE004601360",
+          "paragraph" : "§ 45",
+          "title" : "Entschädigung"
+        },
+        {
+          "documentIdentifier" : "BJNR039010004BJNE004703360",
+          "paragraph" : "§ 46",
+          "title" : "Auskunft"
+        },
+        {
+          "documentIdentifier" : "BJNR039010004BJNE006901360",
+          "paragraph" : "§ 46a",
+          "title" : "Vorlage und Besichtigung"
+        },
+        {
+          "documentIdentifier" : "BJNR039010004BJNE007001360",
+          "paragraph" : "§ 46b",
+          "title" : "Sicherung von Schadensersatzansprüchen"
+        },
+        {
+          "documentIdentifier" : "BJNR039010004BJNE004802360",
+          "paragraph" : "§ 47",
+          "title" : "Urteilsbekanntmachung"
+        },
+        {
+          "documentIdentifier" : "BJNR039010004BJNE004902360",
+          "paragraph" : "§ 48",
+          "title" : "Erschöpfung"
+        },
+        {
+          "documentIdentifier" : "BJNR039010004BJNE005001360",
+          "paragraph" : "§ 49",
+          "title" : "Verjährung"
+        },
+        {
+          "documentIdentifier" : "BJNR039010004BJNE005101360",
+          "paragraph" : "§ 50",
+          "title" : "Ansprüche aus anderen gesetzlichen Vorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR039010004BJNE005203123",
+          "paragraph" : "§ 51",
+          "title" : "Strafvorschriften"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          8
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Rechtsverletzungen"
+    },
+    {
+      "documentIdentifier" : "BJNR039010004BJNG000902360",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR039010004BJNE005305360",
+          "paragraph" : "§ 52",
+          "title" : "Designstreitsachen"
+        },
+        {
+          "documentIdentifier" : "BJNR039010004BJNE008102123",
+          "paragraph" : "§ 52a",
+          "title" : "Geltendmachung der Nichtigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR039010004BJNE008202123",
+          "paragraph" : "§ 52b",
+          "title" : "Widerklage auf Feststellung oder Erklärung der Nichtigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR039010004BJNE005403360",
+          "paragraph" : "§ 53",
+          "title" : "Gerichtsstand bei Ansprüchen nach diesem Gesetz und dem Gesetz gegen den unlauteren Wettbewerb"
+        },
+        {
+          "documentIdentifier" : "BJNR039010004BJNE005501360",
+          "paragraph" : "§ 54",
+          "title" : "Streitwertbegünstigung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          9
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Verfahren in Designstreitsachen"
+    },
+    {
+      "documentIdentifier" : "BJNR039010004BJNG001001360",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR039010004BJNE005603123",
+          "paragraph" : "§ 55",
+          "title" : "Beschlagnahme bei der Ein- und Ausfuhr"
+        },
+        {
+          "documentIdentifier" : "BJNR039010004BJNE005701360",
+          "paragraph" : "§ 56",
+          "title" : "Einziehung, Widerspruch"
+        },
+        {
+          "documentIdentifier" : "BJNR039010004BJNE005804123",
+          "paragraph" : "§ 57",
+          "title" : "Zuständigkeiten, Rechtsmittel"
+        },
+        {
+          "documentIdentifier" : "BJNR039010004BJNE007102123",
+          "paragraph" : "§ 57a",
+          "title" : "Verfahren nach der Verordnung (EU) Nr. 608\/2013"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          10
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Vorschriften über Maßnahmen der Zollbehörde"
+    },
+    {
+      "documentIdentifier" : "BJNR039010004BJNG001101360",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR039010004BJNE005904123",
+          "paragraph" : "§ 58",
+          "title" : "Inlandsvertreter"
+        },
+        {
+          "documentIdentifier" : "BJNR039010004BJNE006002360",
+          "paragraph" : "§ 59",
+          "title" : "Berühmung eines eingetragenen Designs"
+        },
+        {
+          "documentIdentifier" : "BJNR039010004BJNE006103123",
+          "paragraph" : "§ 60",
+          "title" : "Eingetragene Designs nach dem Erstreckungsgesetz"
+        },
+        {
+          "documentIdentifier" : "BJNR039010004BJNE006202360",
+          "paragraph" : "§ 61",
+          "title" : "Typografische Schriftzeichen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          11
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Besondere Bestimmungen"
+    },
+    {
+      "documentIdentifier" : "BJNR039010004BJNG001201360",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR039010004BJNE006301360",
+          "paragraph" : "§ 62",
+          "title" : "Weiterleitung der Anmeldung"
+        },
+        {
+          "documentIdentifier" : "BJNR039010004BJNE008302123",
+          "paragraph" : "§ 62a",
+          "title" : "Anwendung der Vorschriften dieses Gesetzes auf Gemeinschaftsgeschmacksmuster"
+        },
+        {
+          "documentIdentifier" : "BJNR039010004BJNE006403360",
+          "paragraph" : "§ 63",
+          "title" : "Gemeinschaftsgeschmacksmusterstreitsachen"
+        },
+        {
+          "documentIdentifier" : "BJNR039010004BJNE008401360",
+          "paragraph" : "§ 63a",
+          "title" : "Unterrichtung der Kommission"
+        },
+        {
+          "documentIdentifier" : "BJNR039010004BJNE008501360",
+          "paragraph" : "§ 63b",
+          "title" : "Örtliche Zuständigkeit der Gemeinschaftsgeschmacksmustergerichte"
+        },
+        {
+          "documentIdentifier" : "BJNR039010004BJNE008601360",
+          "paragraph" : "§ 63c",
+          "title" : "Insolvenzverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR039010004BJNE006501360",
+          "paragraph" : "§ 64",
+          "title" : "Erteilung der Vollstreckungsklausel"
+        },
+        {
+          "documentIdentifier" : "BJNR039010004BJNE006601360",
+          "paragraph" : "§ 65",
+          "title" : "Strafbare Verletzung eines Gemeinschaftsgeschmacksmusters"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          12
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gemeinschaftsgeschmacksmuster"
+    },
+    {
+      "documentIdentifier" : "BJNR039010004BJNG001402123",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR039010004BJNE007202123",
+          "paragraph" : "§ 66",
+          "title" : "Anwendung dieses Gesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR039010004BJNE007302123",
+          "paragraph" : "§ 67",
+          "title" : "Einreichung der internationalen Anmeldung"
+        },
+        {
+          "documentIdentifier" : "BJNR039010004BJNE007402123",
+          "paragraph" : "§ 68",
+          "title" : "Weiterleitung der internationalen Anmeldung"
+        },
+        {
+          "documentIdentifier" : "BJNR039010004BJNE007503123",
+          "paragraph" : "§ 69",
+          "title" : "Prüfung auf Eintragungshindernisse"
+        },
+        {
+          "documentIdentifier" : "BJNR039010004BJNE007602360",
+          "paragraph" : "§ 70",
+          "title" : "Nachträgliche Schutzentziehung"
+        },
+        {
+          "documentIdentifier" : "BJNR039010004BJNE007702360",
+          "paragraph" : "§ 71",
+          "title" : "Wirkung der internationalen Eintragung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          13
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schutz eingetragener Designs nach dem Haager Abkommen"
+    },
+    {
+      "documentIdentifier" : "BJNR039010004BJNG001302360",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR039010004BJNE006703360",
+          "paragraph" : "§ 72",
+          "title" : "Anzuwendendes Recht"
+        },
+        {
+          "documentIdentifier" : "BJNR039010004BJNE006803360",
+          "paragraph" : "§ 73",
+          "title" : "Rechtsbeschränkungen"
+        },
+        {
+          "documentIdentifier" : "BJNR039010004BJNE008702123",
+          "paragraph" : "§ 74",
+          "title" : "Übergangsvorschriften zum Gesetz zur Modernisierung des Geschmacksmustergesetzes sowie zur Änderung der Regelungen über die Bekanntmachungen zum Ausstellungsschutz"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          14
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übergangsvorschriften"
+    }
+  ]
+}

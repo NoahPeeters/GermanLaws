@@ -1,0 +1,4 @@
+{
+  "documentIdentifier" : "BJNR067910012BJNE002000000",
+  "text" : "{\\rtf1\\ansi{\\fonttbl\\f0\\fswiss Helvetica;}\\f0\n\\pard\\sb100\nDer Hubraum ist wie folgt zu berechnen: \\\n\\pard\\tx100\\tx600\\li600\\fi-600\n\\tab 1.\\tab F{\\u0252}r pi wird der Wert von 3,1416 eingesetzt.\\\n\\tab 2.\\tab Die Werte f{\\u0252}r Bohrung und Hub werden in Millimeter eingesetzt, wobei auf die erste Dezimalstelle hinter dem Komma auf- oder abzurunden ist.\\\n\\tab 3.\\tab Der Hubraum ist auf volle Kubikzentimeter auf- oder abzurunden.\\\n\\tab 4.\\tab Folgt der zu rundenden Stelle eine der Ziffern 0 bis 4, so ist abzurunden, folgt eine der Ziffern 5 bis 9, so ist aufzurunden.\\\n\\pard\n}"
+}

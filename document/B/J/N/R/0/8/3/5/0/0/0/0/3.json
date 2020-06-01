@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR083500003",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR083500003Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR083500003BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Mauthöhe"
+        },
+        {
+          "documentIdentifier" : "BJNR083500003BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Beginn der Mauterhebung"
+        },
+        {
+          "documentIdentifier" : "BJNR083500003BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR083500003BJNE000500000",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 1)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

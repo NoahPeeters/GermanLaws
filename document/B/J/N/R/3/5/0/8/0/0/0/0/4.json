@@ -1,0 +1,74 @@
+{
+  "documentIdentifier" : "BJNR350800004",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR350800004Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR350800004BJNE000201308",
+          "paragraph" : "§ 1",
+          "title" : "Zweck und Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR350800004BJNE000302308",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR350800004BJNE000402308",
+          "paragraph" : "§ 3",
+          "title" : "Verbote"
+        },
+        {
+          "documentIdentifier" : "BJNR350800004BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Kennzeichnung"
+        },
+        {
+          "documentIdentifier" : "BJNR350800004BJNE000601119",
+          "paragraph" : "§ 5",
+          "title" : "Überprüfung der Einhaltung der Verordnung"
+        },
+        {
+          "documentIdentifier" : "BJNR350800004BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR350800004BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Straftaten"
+        },
+        {
+          "documentIdentifier" : "BJNR350800004BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR350800004BJNE001101308",
+          "paragraph" : "Anhang I",
+          "title" : "Geregelte gebrauchsfertige Produkte"
+        },
+        {
+          "documentIdentifier" : "BJNR350800004BJNE001201308",
+          "paragraph" : "Anhang II",
+          "title" : "Grenzwerte für den VOC-Höchstgehalt"
+        },
+        {
+          "documentIdentifier" : "BJNR350800004BJNE001301308",
+          "paragraph" : "Anhang III",
+          "title" : "Methoden gemäß § 3 Absatz 2"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

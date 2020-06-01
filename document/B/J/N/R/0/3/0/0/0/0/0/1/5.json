@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR030000015",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR030000015Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR030000015BJNE000201118",
+          "paragraph" : "§ 1",
+          "title" : "Geltungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR030000015BJNE000301118",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR030000015BJNE000401118",
+          "paragraph" : "§ 3",
+          "title" : "Kollektiver Teil der Rückstellung für Beitragsrückerstattung"
+        },
+        {
+          "documentIdentifier" : "BJNR030000015BJNE000501118",
+          "paragraph" : "§ 4",
+          "title" : "Sonderregelungen"
+        },
+        {
+          "documentIdentifier" : "BJNR030000015BJNE000601118",
+          "paragraph" : "§ 5",
+          "title" : "Übergangsvorschrift"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

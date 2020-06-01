@@ -1,0 +1,98 @@
+{
+  "documentIdentifier" : "BJNR013400010",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR013400010BJNG000100124",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR013400010BJNE000205123",
+          "paragraph" : "§ 1",
+          "title" : "Vermarktung an Spotmärkten"
+        },
+        {
+          "documentIdentifier" : "BJNR013400010BJNE000304118",
+          "paragraph" : "§ 2",
+          "title" : "Transparenz der Vermarktungstätigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR013400010BJNE000405123",
+          "paragraph" : "§ 3",
+          "title" : "Transparenz der Einnahmen und Ausgaben"
+        },
+        {
+          "documentIdentifier" : "BJNR013400010BJNE000504123",
+          "paragraph" : "§ 4",
+          "title" : "Mitteilungspflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR013400010BJNE000603123",
+          "paragraph" : "§ 5",
+          "title" : "Gesonderte Buchführung und Rechnungslegung sowie Führung gesonderter Bankkonten"
+        },
+        {
+          "documentIdentifier" : "BJNR013400010BJNE000707123",
+          "paragraph" : "§ 6",
+          "title" : "Einnahmen und Ausgaben im Sinne der EEG-Umlage"
+        },
+        {
+          "documentIdentifier" : "BJNR013400010BJNE000805123",
+          "paragraph" : "§ 7",
+          "title" : "Anreize zur bestmöglichen Vermarktung"
+        },
+        {
+          "documentIdentifier" : "BJNR013400010BJNE000908124",
+          "paragraph" : "§ 8",
+          "title" : "Preislimitierung in Ausnahmefällen"
+        },
+        {
+          "documentIdentifier" : "BJNR013400010BJNE001003118",
+          "paragraph" : "§ 9",
+          "title" : "Übergangsregelung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Ausführung des EEG-Ausgleichsmechanismus"
+    },
+    {
+      "documentIdentifier" : "BJNR013400010BJNG000200124",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR013400010BJNE001200124",
+          "paragraph" : "§ 10",
+          "title" : "Geografische Festlegung"
+        },
+        {
+          "documentIdentifier" : "BJNR013400010BJNE001300124",
+          "paragraph" : "§ 11",
+          "title" : "Obergrenze der installierten Leistung von Windenergieanlagen an Land"
+        },
+        {
+          "documentIdentifier" : "BJNR013400010BJNE001400124",
+          "paragraph" : "§ 12",
+          "title" : "Verteilung auf Ausschreibungen"
+        },
+        {
+          "documentIdentifier" : "BJNR013400010BJNE001500124",
+          "paragraph" : "§ 13",
+          "title" : "Zeitliche Geltung; Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Einrichtung und Ausgestaltung eines Netzausbaugebiets"
+    }
+  ]
+}

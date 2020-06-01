@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR305700017",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR305700017Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR305700017BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Widerspruchsbescheid"
+        },
+        {
+          "documentIdentifier" : "BJNR305700017BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Vertretung bei Klagen"
+        },
+        {
+          "documentIdentifier" : "BJNR305700017BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Vorbehaltsklausel"
+        },
+        {
+          "documentIdentifier" : "BJNR305700017BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

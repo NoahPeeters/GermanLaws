@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR068200015",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR068200015Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR068200015BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Übertragung von Befugnissen"
+        },
+        {
+          "documentIdentifier" : "BJNR068200015BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Übergangsvorschrift"
+        },
+        {
+          "documentIdentifier" : "BJNR068200015BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

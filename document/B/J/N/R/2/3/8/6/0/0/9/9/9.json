@@ -1,0 +1,110 @@
+{
+  "documentIdentifier" : "BJNR238600999",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR238600999Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR238600999BJNE000500310",
+          "paragraph" : "§ 1",
+          "title" : "Arten und Verfahren der Entgeltgenehmigung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR238600999BJNG000100310",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR238600999BJNE000600310",
+              "paragraph" : "§ 2",
+              "title" : "Umfang der Kostennachweise"
+            },
+            {
+              "documentIdentifier" : "BJNR238600999BJNE000702124",
+              "paragraph" : "§ 3",
+              "title" : "Maßstäbe zur Ermittlung genehmigungsfähiger Entgelte"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Genehmigung auf der Grundlage des § 21 Abs. 1 Nr. 1 des Gesetzes"
+        }
+      ],
+      "title" : "Inhalt"
+    },
+    {
+      "documentIdentifier" : "BJNR238600999BJNG000200310",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR238600999BJNE000800310",
+          "paragraph" : "§ 4",
+          "title" : "Bildung von Maßgrößen"
+        },
+        {
+          "documentIdentifier" : "BJNR238600999BJNE000900310",
+          "paragraph" : "§ 5",
+          "title" : "Genehmigungsvoraussetzungen für Entgelte"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Genehmigungen auf der Grundlage des § 21 Abs. 1 Nr. 2 des Gesetzes"
+    },
+    {
+      "documentIdentifier" : "BJNR238600999BJNG000300310",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR238600999BJNE001000310",
+          "paragraph" : "§ 6",
+          "title" : "Nachträgliche Überprüfung von Entgelten"
+        },
+        {
+          "documentIdentifier" : "BJNR238600999BJNE001100310",
+          "paragraph" : "§ 7",
+          "title" : "Entgelte für das Angebot von Teilleistungen und Leistungen\nnach § 29 des Gesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR238600999BJNE001201124",
+          "paragraph" : "§ 8",
+          "title" : "Beteiligungsrechte"
+        },
+        {
+          "documentIdentifier" : "BJNR238600999BJNE001300310",
+          "paragraph" : "§ 9",
+          "title" : "Veröffentlichung"
+        },
+        {
+          "documentIdentifier" : "BJNR238600999BJNE001400310",
+          "paragraph" : "§ 10",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Sonstige Bestimmungen"
+    }
+  ]
+}

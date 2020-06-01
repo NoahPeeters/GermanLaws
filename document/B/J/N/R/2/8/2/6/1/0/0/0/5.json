@@ -1,0 +1,186 @@
+{
+  "documentIdentifier" : "BJNR282610005",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR282610005BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR282610005BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR282610005BJNE000302310",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR282610005BJNG000200000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR282610005BJNG000300000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR282610005BJNE000404116",
+              "paragraph" : "§ 3",
+              "title" : "Zustimmung"
+            },
+            {
+              "documentIdentifier" : "BJNR282610005BJNE000501310",
+              "paragraph" : "§ 4",
+              "title" : "Überprüfung der Verifizierung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Projekttätigkeiten außerhalb des Bundesgebiets"
+        },
+        {
+          "documentIdentifier" : "BJNR282610005BJNG000400000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR282610005BJNE000607116",
+              "paragraph" : "§ 5",
+              "title" : "Zustimmung und Registrierung"
+            },
+            {
+              "documentIdentifier" : "BJNR282610005BJNE000702116",
+              "paragraph" : "§ 6",
+              "title" : "Bestätigung des Verifizierungsberichts"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Projekttätigkeiten im Bundesgebiet"
+        },
+        {
+          "documentIdentifier" : "BJNR282610005BJNG000500000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR282610005BJNE000804116",
+              "paragraph" : "§ 7",
+              "title" : "Sachverständige Stellen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Sachverständige Stellen"
+        }
+      ],
+      "title" : "Gemeinsame Projektumsetzung"
+    },
+    {
+      "documentIdentifier" : "BJNR282610005BJNG000600000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR282610005BJNE000903116",
+          "paragraph" : "§ 8",
+          "title" : "Zustimmung"
+        },
+        {
+          "documentIdentifier" : "BJNR282610005BJNE001000000",
+          "paragraph" : "§ 9",
+          "title" : "Überprüfungsgesuch"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Mechanismus für umweltverträgliche Entwicklung"
+    },
+    {
+      "documentIdentifier" : "BJNR282610005BJNG000700000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR282610005BJNE001100000",
+          "paragraph" : "§ 10",
+          "title" : "Zuständige Behörde; Aufgabenübertragung"
+        },
+        {
+          "documentIdentifier" : "BJNR282610005BJNE001201310",
+          "paragraph" : "§ 11",
+          "title" : "Benennung eines Bevollmächtigten"
+        },
+        {
+          "documentIdentifier" : "BJNR282610005BJNE001302116",
+          "paragraph" : "§ 12",
+          "title" : "Mengenbeobachtung"
+        },
+        {
+          "documentIdentifier" : "BJNR282610005BJNE001402116",
+          "paragraph" : "§ 13",
+          "title" : "Rechtsverordnung zu Zustimmungsvoraussetzungen"
+        },
+        {
+          "documentIdentifier" : "BJNR282610005BJNE001506301",
+          "paragraph" : "§ 14",
+          "title" : "Gebühren und Auslagen"
+        },
+        {
+          "documentIdentifier" : "BJNR282610005BJNE001600000",
+          "paragraph" : "§ 15",
+          "title" : "Bußgeldvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR282610005BJNE001700000",
+          "paragraph" : "Anhang",
+          "title" : "Bericht der Konferenz der Vertragsparteien über ihre siebte Tagung in\nMarrakesch vom 29. Oktober bis 10. November 2001\n"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gemeinsame Vorschriften"
+    }
+  ]
+}

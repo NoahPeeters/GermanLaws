@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR002240979",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR002240979Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR002240979BJNE000201308",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR002240979BJNE000301308",
+          "paragraph" : "§ 2",
+          "title" : "Zuständigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR002240979BJNE000400328",
+          "paragraph" : "§ 3",
+          "title" : "Form der Verträge"
+        },
+        {
+          "documentIdentifier" : "BJNR002240979BJNE000501308",
+          "paragraph" : "§ 4",
+          "title" : "Gewährung der Beihilfe"
+        },
+        {
+          "documentIdentifier" : "BJNR002240979BJNE000701308",
+          "paragraph" : "§ 6",
+          "title" : "Aufzeichnungs-, Anzeige- und Aufbewahrungspflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR002240979BJNE000801308",
+          "paragraph" : "§ 7",
+          "title" : "Duldungs- und Mitwirkungspflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR002240979BJNE001101308",
+          "paragraph" : "§ 9",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

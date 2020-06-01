@@ -1,0 +1,64 @@
+{
+  "documentIdentifier" : "BJNR089600008",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR089600008Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR089600008BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Ziel des Gesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR089600008BJNE000201119",
+          "paragraph" : "§ 2",
+          "title" : "Kurzzeitige Arbeitsverhinderung"
+        },
+        {
+          "documentIdentifier" : "BJNR089600008BJNE000301119",
+          "paragraph" : "§ 3",
+          "title" : "Pflegezeit und sonstige Freistellungen"
+        },
+        {
+          "documentIdentifier" : "BJNR089600008BJNE000401119",
+          "paragraph" : "§ 4",
+          "title" : "Dauer der Inanspruchnahme"
+        },
+        {
+          "documentIdentifier" : "BJNR089600008BJNE000501119",
+          "paragraph" : "§ 5",
+          "title" : "Kündigungsschutz"
+        },
+        {
+          "documentIdentifier" : "BJNR089600008BJNE000601119",
+          "paragraph" : "§ 6",
+          "title" : "Befristete Verträge"
+        },
+        {
+          "documentIdentifier" : "BJNR089600008BJNE000702301",
+          "paragraph" : "§ 7",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR089600008BJNE000800000",
+          "paragraph" : "§ 8",
+          "title" : "Unabdingbarkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR089600008BJNE000900360",
+          "paragraph" : "§ 9",
+          "title" : "Sonderregelungen aus Anlass der COVID-19-Pandemie"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

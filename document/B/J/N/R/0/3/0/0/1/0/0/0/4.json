@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR030010004",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR030010004Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR030010004BJNE000102305",
+          "paragraph" : "§ 1",
+          "title" : "Geltungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR030010004BJNE000201305",
+          "paragraph" : "§ 2",
+          "title" : "Folgen von Verstößen"
+        },
+        {
+          "documentIdentifier" : "BJNR030010004BJNE000504305",
+          "paragraph" : "§ 3",
+          "title" : "Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR030010004BJNE000314305",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 1 Abs. 1)"
+        },
+        {
+          "documentIdentifier" : "BJNR030010004BJNE000401308",
+          "paragraph" : "Anhang",
+          "title" : "(zu § 1 Abs. 1 Nr. 1.17)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

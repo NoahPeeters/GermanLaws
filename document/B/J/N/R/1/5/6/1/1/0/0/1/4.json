@@ -1,0 +1,180 @@
+{
+  "documentIdentifier" : "BJNR156110014",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR156110014BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR156110014BJNE000101124",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich, Zuständigkeit"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeines"
+    },
+    {
+      "documentIdentifier" : "BJNR156110014BJNG000201125",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR156110014BJNE000201125",
+          "paragraph" : "§ 2",
+          "title" : "Rechtsform"
+        },
+        {
+          "documentIdentifier" : "BJNR156110014BJNE000301124",
+          "paragraph" : "§ 3",
+          "title" : "Mindestgröße"
+        },
+        {
+          "documentIdentifier" : "BJNR156110014BJNE000401125",
+          "paragraph" : "§ 4",
+          "title" : "Mitgliedschaft von Nichterzeugern"
+        },
+        {
+          "documentIdentifier" : "BJNR156110014BJNE000502125",
+          "paragraph" : "§ 5",
+          "title" : "Stimmrechte und Geschäftsanteile"
+        },
+        {
+          "documentIdentifier" : "BJNR156110014BJNE000601125",
+          "paragraph" : "§ 6",
+          "title" : "Kündigung der Mitgliedschaft"
+        },
+        {
+          "documentIdentifier" : "BJNR156110014BJNE000701124",
+          "paragraph" : "§ 7",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR156110014BJNE000801125",
+          "paragraph" : "§ 8",
+          "title" : "Auslagerung"
+        },
+        {
+          "documentIdentifier" : "BJNR156110014BJNE000900000",
+          "paragraph" : "§ 9",
+          "title" : "Anwendung von Vorschriften der Agrarmarktstrukturverordnung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Anerkennung von Erzeugerorganisationen und deren Vereinigungen"
+    },
+    {
+      "documentIdentifier" : "BJNR156110014BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR156110014BJNE001002125",
+          "paragraph" : "§ 10",
+          "title" : "Wert der vermarkteten Erzeugung"
+        },
+        {
+          "documentIdentifier" : "BJNR156110014BJNE001100000",
+          "paragraph" : "§ 11",
+          "title" : "Betriebsfonds"
+        },
+        {
+          "documentIdentifier" : "BJNR156110014BJNE001201124",
+          "paragraph" : "§ 12",
+          "title" : "Operationelle Programme"
+        },
+        {
+          "documentIdentifier" : "BJNR156110014BJNE001303119",
+          "paragraph" : "§ 13",
+          "title" : "Beihilfe"
+        },
+        {
+          "documentIdentifier" : "BJNR156110014BJNE001401124",
+          "paragraph" : "§ 14",
+          "title" : "Vorschusszahlungen und Teilzahlungen"
+        },
+        {
+          "documentIdentifier" : "BJNR156110014BJNE001501125",
+          "paragraph" : "§ 15",
+          "title" : "Krisenprävention und Krisenmanagement"
+        },
+        {
+          "documentIdentifier" : "BJNR156110014BJNE001601119",
+          "paragraph" : "§ 16",
+          "title" : "Berücksichtigungsfähigkeit von Rechnungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Betriebsfonds und operationelle Programme"
+    },
+    {
+      "documentIdentifier" : "BJNR156110014BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR156110014BJNE001700000",
+          "paragraph" : "§ 17",
+          "title" : "Duldungs- und Mitwirkungspflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR156110014BJNE001801124",
+          "paragraph" : "§ 18",
+          "title" : "Mitteilungspflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR156110014BJNE002100124",
+          "paragraph" : "§ 18a",
+          "title" : "Regelwidrige Doppelfinanzierung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Duldung-, Mitwirkungs- und Mitteilungspflichten"
+    },
+    {
+      "documentIdentifier" : "BJNR156110014BJNG000500000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR156110014BJNE001900000",
+          "paragraph" : "§ 19",
+          "title" : "Muster und Formulare"
+        },
+        {
+          "documentIdentifier" : "BJNR156110014BJNE002001124",
+          "paragraph" : "§ 20",
+          "title" : "Übergangsbestimmungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussbestimmungen"
+    }
+  ]
+}

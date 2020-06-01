@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR079000010",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR079000010Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR079000010BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Gegenstand der Verordnung"
+        },
+        {
+          "documentIdentifier" : "BJNR079000010BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Ermittlung der Konjunkturkomponente bei der Haushaltsaufstellung"
+        },
+        {
+          "documentIdentifier" : "BJNR079000010BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Ermittlung der Konjunkturkomponente nach Haushaltsabschluss"
+        },
+        {
+          "documentIdentifier" : "BJNR079000010BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Ermittlung der Konjunkturkomponente bei Nachträgen zum Haushaltsgesetz"
+        },
+        {
+          "documentIdentifier" : "BJNR079000010BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

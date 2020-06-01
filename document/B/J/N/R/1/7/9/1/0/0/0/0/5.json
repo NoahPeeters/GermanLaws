@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR179100005",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR179100005Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR179100005BJNE000201305",
+          "paragraph" : "§ 1",
+          "title" : "Geltungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR179100005BJNE000301305",
+          "paragraph" : "§ 2",
+          "title" : "Jubiläumszuwendung"
+        },
+        {
+          "documentIdentifier" : "BJNR179100005BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

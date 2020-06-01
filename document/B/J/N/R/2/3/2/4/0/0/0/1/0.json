@@ -1,0 +1,74 @@
+{
+  "documentIdentifier" : "BJNR232400010",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR232400010Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR232400010BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Geltungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR232400010BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR232400010BJNE000402119",
+          "paragraph" : "§ 3",
+          "title" : "Anwendungsbereich der Nutzenbewertung nach § 35a SGB V"
+        },
+        {
+          "documentIdentifier" : "BJNR232400010BJNE000504126",
+          "paragraph" : "§ 4",
+          "title" : "Dossier des pharmazeutischen Unternehmers"
+        },
+        {
+          "documentIdentifier" : "BJNR232400010BJNE000602126",
+          "paragraph" : "§ 5",
+          "title" : "Zusatznutzen"
+        },
+        {
+          "documentIdentifier" : "BJNR232400010BJNE000702377",
+          "paragraph" : "§ 6",
+          "title" : "Zweckmäßige Vergleichstherapie"
+        },
+        {
+          "documentIdentifier" : "BJNR232400010BJNE000801126",
+          "paragraph" : "§ 7",
+          "title" : "Nutzenbewertung"
+        },
+        {
+          "documentIdentifier" : "BJNR232400010BJNE000902119",
+          "paragraph" : "§ 8",
+          "title" : "Beratung"
+        },
+        {
+          "documentIdentifier" : "BJNR232400010BJNE001000000",
+          "paragraph" : "§ 9",
+          "title" : "Offenlegung"
+        },
+        {
+          "documentIdentifier" : "BJNR232400010BJNE001100000",
+          "paragraph" : "§ 10",
+          "title" : "Übergangsregelungen"
+        },
+        {
+          "documentIdentifier" : "BJNR232400010BJNE001200000",
+          "paragraph" : "§ 11",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

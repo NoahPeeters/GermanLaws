@@ -1,0 +1,58 @@
+{
+  "documentIdentifier" : "BJNR234610008",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR234610008BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR234610008BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Rechtsstellung"
+        },
+        {
+          "documentIdentifier" : "BJNR234610008BJNE000202116",
+          "paragraph" : "§ 2",
+          "title" : "Aufgaben"
+        },
+        {
+          "documentIdentifier" : "BJNR234610008BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Schutz des Zeichens und der Bezeichnungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Deutsches Rotes Kreuz"
+    },
+    {
+      "documentIdentifier" : "BJNR234610008BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR234610008BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Rechtsstellung"
+        },
+        {
+          "documentIdentifier" : "BJNR234610008BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Aufgaben"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Andere freiwillige Hilfsgesellschaften"
+    }
+  ]
+}

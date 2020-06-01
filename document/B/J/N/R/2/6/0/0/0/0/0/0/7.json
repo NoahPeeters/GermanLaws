@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR260000007",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR260000007Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR260000007BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Zweck der Verordnung"
+        },
+        {
+          "documentIdentifier" : "BJNR260000007BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Gleichstellung von Prüfungszeugnissen"
+        },
+        {
+          "documentIdentifier" : "BJNR260000007BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR260000007BJNE000600000",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 2)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

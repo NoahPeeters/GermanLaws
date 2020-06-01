@@ -1,0 +1,79 @@
+{
+  "documentIdentifier" : "BJNR050610011",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR050610011Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR050610011BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR050610011BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Postsicherstellungspflicht; Postbevorrechtigte"
+        },
+        {
+          "documentIdentifier" : "BJNR050610011BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Umsetzung der Postbevorrechtigung"
+        },
+        {
+          "documentIdentifier" : "BJNR050610011BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Unterstützung der Feldpost"
+        },
+        {
+          "documentIdentifier" : "BJNR050610011BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Telekommunikationssicherstellungspflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR050610011BJNE000600000",
+          "paragraph" : "§ 6",
+          "title" : "Telekommunikationsbevorrechtigung"
+        },
+        {
+          "documentIdentifier" : "BJNR050610011BJNE000700000",
+          "paragraph" : "§ 7",
+          "title" : "Umsetzung der Telekommunikationsbevorrechtigung"
+        },
+        {
+          "documentIdentifier" : "BJNR050610011BJNE000801123",
+          "paragraph" : "§ 8",
+          "title" : "Auskunfts- und Mitwirkungspflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR050610011BJNE000900000",
+          "paragraph" : "§ 9",
+          "title" : "Entgelte; Entschädigung"
+        },
+        {
+          "documentIdentifier" : "BJNR050610011BJNE001000000",
+          "paragraph" : "§ 10",
+          "title" : "Kontrolle und Durchsetzung von Verpflichtungen"
+        },
+        {
+          "documentIdentifier" : "BJNR050610011BJNE001100000",
+          "paragraph" : "§ 11",
+          "title" : "Bußgeldvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR050610011BJNE001200000",
+          "paragraph" : "§ 12",
+          "title" : "Übergangsvorschriften"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

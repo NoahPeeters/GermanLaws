@@ -1,0 +1,1168 @@
+{
+  "documentIdentifier" : "BJNR000130972",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR000130972BJNG000102308",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR000130972BJNE003303308",
+          "paragraph" : "§ 1",
+          "title" : "Errichtung von Betriebsräten"
+        },
+        {
+          "documentIdentifier" : "BJNR000130972BJNE003402308",
+          "paragraph" : "§ 2",
+          "title" : "Stellung der Gewerkschaften und Vereinigungen der\nArbeitgeber"
+        },
+        {
+          "documentIdentifier" : "BJNR000130972BJNE003503308",
+          "paragraph" : "§ 3",
+          "title" : "Abweichende Regelungen"
+        },
+        {
+          "documentIdentifier" : "BJNR000130972BJNE003603308",
+          "paragraph" : "§ 4",
+          "title" : "Betriebsteile, Kleinstbetriebe"
+        },
+        {
+          "documentIdentifier" : "BJNR000130972BJNE003707308",
+          "paragraph" : "§ 5",
+          "title" : "Arbeitnehmer"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR000130972BJNG000202308",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR000130972BJNG000302308",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR000130972BJNE003903308",
+              "paragraph" : "§ 7",
+              "title" : "Wahlberechtigung"
+            },
+            {
+              "documentIdentifier" : "BJNR000130972BJNE004002308",
+              "paragraph" : "§ 8",
+              "title" : "Wählbarkeit"
+            },
+            {
+              "documentIdentifier" : "BJNR000130972BJNE004104308",
+              "paragraph" : "§ 9",
+              "title" : "Zahl der Betriebsratsmitglieder *)"
+            },
+            {
+              "documentIdentifier" : "BJNR000130972BJNE004302308",
+              "paragraph" : "§ 11",
+              "title" : "Ermäßigte Zahl der Betriebsratsmitglieder"
+            },
+            {
+              "documentIdentifier" : "BJNR000130972BJNE004503308",
+              "paragraph" : "§ 13",
+              "title" : "Zeitpunkt der Betriebsratswahlen"
+            },
+            {
+              "documentIdentifier" : "BJNR000130972BJNE004604308",
+              "paragraph" : "§ 14",
+              "title" : "Wahlvorschriften"
+            },
+            {
+              "documentIdentifier" : "BJNR000130972BJNE017101308",
+              "paragraph" : "§ 14a",
+              "title" : "Vereinfachtes Wahlverfahren für Kleinbetriebe"
+            },
+            {
+              "documentIdentifier" : "BJNR000130972BJNE004703308",
+              "paragraph" : "§ 15",
+              "title" : "Zusammensetzung nach Beschäftigungsarten und Geschlechter *)"
+            },
+            {
+              "documentIdentifier" : "BJNR000130972BJNE004805308",
+              "paragraph" : "§ 16",
+              "title" : "Bestellung des Wahlvorstands"
+            },
+            {
+              "documentIdentifier" : "BJNR000130972BJNE004903308",
+              "paragraph" : "§ 17",
+              "title" : "Bestellung des Wahlvorstands in Betrieben ohne Betriebsrat"
+            },
+            {
+              "documentIdentifier" : "BJNR000130972BJNE017201308",
+              "paragraph" : "§ 17a",
+              "title" : "Bestellung des Wahlvorstands im vereinfachten Wahlverfahren"
+            },
+            {
+              "documentIdentifier" : "BJNR000130972BJNE005003308",
+              "paragraph" : "§ 18",
+              "title" : "Vorbereitung und Durchführung der Wahl"
+            },
+            {
+              "documentIdentifier" : "BJNR000130972BJNE016602308",
+              "paragraph" : "§ 18a",
+              "title" : "Zuordnung der leitenden Angestellten bei Wahlen"
+            },
+            {
+              "documentIdentifier" : "BJNR000130972BJNE005102308",
+              "paragraph" : "§ 19",
+              "title" : "Wahlanfechtung"
+            },
+            {
+              "documentIdentifier" : "BJNR000130972BJNE005203308",
+              "paragraph" : "§ 20",
+              "title" : "Wahlschutz und Wahlkosten"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Zusammensetzung und Wahl des Betriebsrats"
+        },
+        {
+          "documentIdentifier" : "BJNR000130972BJNG000402308",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR000130972BJNE005303308",
+              "paragraph" : "§ 21",
+              "title" : "Amtszeit"
+            },
+            {
+              "documentIdentifier" : "BJNR000130972BJNE017301308",
+              "paragraph" : "§ 21a",
+              "title" : "Übergangsmandat *)"
+            },
+            {
+              "documentIdentifier" : "BJNR000130972BJNE017401308",
+              "paragraph" : "§ 21b",
+              "title" : "Restmandat"
+            },
+            {
+              "documentIdentifier" : "BJNR000130972BJNE005402308",
+              "paragraph" : "§ 22",
+              "title" : "Weiterführung der Geschäfte des Betriebsrats"
+            },
+            {
+              "documentIdentifier" : "BJNR000130972BJNE005504308",
+              "paragraph" : "§ 23",
+              "title" : "Verletzung gesetzlicher Pflichten"
+            },
+            {
+              "documentIdentifier" : "BJNR000130972BJNE005603308",
+              "paragraph" : "§ 24",
+              "title" : "Erlöschen der Mitgliedschaft"
+            },
+            {
+              "documentIdentifier" : "BJNR000130972BJNE005804308",
+              "paragraph" : "§ 25",
+              "title" : "Ersatzmitglieder"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Amtszeit des Betriebsrats"
+        },
+        {
+          "documentIdentifier" : "BJNR000130972BJNG000502308",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR000130972BJNE005904308",
+              "paragraph" : "§ 26",
+              "title" : "Vorsitzender"
+            },
+            {
+              "documentIdentifier" : "BJNR000130972BJNE006004308",
+              "paragraph" : "§ 27",
+              "title" : "Betriebsausschuss"
+            },
+            {
+              "documentIdentifier" : "BJNR000130972BJNE006104308",
+              "paragraph" : "§ 28",
+              "title" : "Übertragung von Aufgaben auf Ausschüsse"
+            },
+            {
+              "documentIdentifier" : "BJNR000130972BJNE017501308",
+              "paragraph" : "§ 28a",
+              "title" : "Übertragung von Aufgaben auf Arbeitsgruppen"
+            },
+            {
+              "documentIdentifier" : "BJNR000130972BJNE006205308",
+              "paragraph" : "§ 29",
+              "title" : "Einberufung der Sitzungen"
+            },
+            {
+              "documentIdentifier" : "BJNR000130972BJNE006302308",
+              "paragraph" : "§ 30",
+              "title" : "Betriebsratssitzungen"
+            },
+            {
+              "documentIdentifier" : "BJNR000130972BJNE006403308",
+              "paragraph" : "§ 31",
+              "title" : "Teilnahme der Gewerkschaften"
+            },
+            {
+              "documentIdentifier" : "BJNR000130972BJNE006506119",
+              "paragraph" : "§ 32",
+              "title" : "Teilnahme der Schwerbehindertenvertretung"
+            },
+            {
+              "documentIdentifier" : "BJNR000130972BJNE006603308",
+              "paragraph" : "§ 33",
+              "title" : "Beschlüsse des Betriebsrats"
+            },
+            {
+              "documentIdentifier" : "BJNR000130972BJNE006702308",
+              "paragraph" : "§ 34",
+              "title" : "Sitzungsniederschrift"
+            },
+            {
+              "documentIdentifier" : "BJNR000130972BJNE006805308",
+              "paragraph" : "§ 35",
+              "title" : "Aussetzung von Beschlüssen"
+            },
+            {
+              "documentIdentifier" : "BJNR000130972BJNE006902308",
+              "paragraph" : "§ 36",
+              "title" : "Geschäftsordnung"
+            },
+            {
+              "documentIdentifier" : "BJNR000130972BJNE007004308",
+              "paragraph" : "§ 37",
+              "title" : "Ehrenamtliche Tätigkeit, Arbeitsversäumnis"
+            },
+            {
+              "documentIdentifier" : "BJNR000130972BJNE007104308",
+              "paragraph" : "§ 38",
+              "title" : "Freistellungen"
+            },
+            {
+              "documentIdentifier" : "BJNR000130972BJNE007203308",
+              "paragraph" : "§ 39",
+              "title" : "Sprechstunden"
+            },
+            {
+              "documentIdentifier" : "BJNR000130972BJNE007303308",
+              "paragraph" : "§ 40",
+              "title" : "Kosten und Sachaufwand des Betriebsrats"
+            },
+            {
+              "documentIdentifier" : "BJNR000130972BJNE007402308",
+              "paragraph" : "§ 41",
+              "title" : "Umlageverbot"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Geschäftsführung des Betriebsrats"
+        },
+        {
+          "documentIdentifier" : "BJNR000130972BJNG000602308",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR000130972BJNE007502308",
+              "paragraph" : "§ 42",
+              "title" : "Zusammensetzung, Teilversammlung, Abteilungsversammlung"
+            },
+            {
+              "documentIdentifier" : "BJNR000130972BJNE007603308",
+              "paragraph" : "§ 43",
+              "title" : "Regelmäßige Betriebs- und Abteilungsversammlungen"
+            },
+            {
+              "documentIdentifier" : "BJNR000130972BJNE007703308",
+              "paragraph" : "§ 44",
+              "title" : "Zeitpunkt und Verdienstausfall"
+            },
+            {
+              "documentIdentifier" : "BJNR000130972BJNE007804308",
+              "paragraph" : "§ 45",
+              "title" : "Themen der Betriebs- und Abteilungsversammlungen"
+            },
+            {
+              "documentIdentifier" : "BJNR000130972BJNE007902308",
+              "paragraph" : "§ 46",
+              "title" : "Beauftragte der Verbände"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Betriebsversammlung"
+        },
+        {
+          "documentIdentifier" : "BJNR000130972BJNG000702308",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR000130972BJNE008004308",
+              "paragraph" : "§ 47",
+              "title" : "Voraussetzungen der Errichtung, Mitgliederzahl, Stimmengewicht *)"
+            },
+            {
+              "documentIdentifier" : "BJNR000130972BJNE008102308",
+              "paragraph" : "§ 48",
+              "title" : "Ausschluss von Gesamtbetriebsratsmitgliedern"
+            },
+            {
+              "documentIdentifier" : "BJNR000130972BJNE008202308",
+              "paragraph" : "§ 49",
+              "title" : "Erlöschen der Mitgliedschaft"
+            },
+            {
+              "documentIdentifier" : "BJNR000130972BJNE008303308",
+              "paragraph" : "§ 50",
+              "title" : "Zuständigkeit"
+            },
+            {
+              "documentIdentifier" : "BJNR000130972BJNE008404308",
+              "paragraph" : "§ 51",
+              "title" : "Geschäftsführung"
+            },
+            {
+              "documentIdentifier" : "BJNR000130972BJNE008506119",
+              "paragraph" : "§ 52",
+              "title" : "Teilnahme der Gesamtschwerbehindertenvertretung"
+            },
+            {
+              "documentIdentifier" : "BJNR000130972BJNE008604308",
+              "paragraph" : "§ 53",
+              "title" : "Betriebsräteversammlung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              5
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Gesamtbetriebsrat"
+        },
+        {
+          "documentIdentifier" : "BJNR000130972BJNG000802308",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR000130972BJNE008703308",
+              "paragraph" : "§ 54",
+              "title" : "Errichtung des Konzernbetriebsrats"
+            },
+            {
+              "documentIdentifier" : "BJNR000130972BJNE008804308",
+              "paragraph" : "§ 55",
+              "title" : "Zusammensetzung des Konzernbetriebsrats, Stimmengewicht"
+            },
+            {
+              "documentIdentifier" : "BJNR000130972BJNE008902308",
+              "paragraph" : "§ 56",
+              "title" : "Ausschluss von Konzernbetriebsratsmitgliedern"
+            },
+            {
+              "documentIdentifier" : "BJNR000130972BJNE009002308",
+              "paragraph" : "§ 57",
+              "title" : "Erlöschen der Mitgliedschaft"
+            },
+            {
+              "documentIdentifier" : "BJNR000130972BJNE009103308",
+              "paragraph" : "§ 58",
+              "title" : "Zuständigkeit"
+            },
+            {
+              "documentIdentifier" : "BJNR000130972BJNE009204308",
+              "paragraph" : "§ 59",
+              "title" : "Geschäftsführung"
+            },
+            {
+              "documentIdentifier" : "BJNR000130972BJNE017602119",
+              "paragraph" : "§ 59a",
+              "title" : "Teilnahme der Konzernschwerbehindertenvertretung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              6
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Konzernbetriebsrat"
+        }
+      ],
+      "title" : "Betriebsrat, Betriebsversammlung, Gesamt- und Konzernbetriebsrat"
+    },
+    {
+      "documentIdentifier" : "BJNR000130972BJNG000903308",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR000130972BJNG001003308",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR000130972BJNE009303308",
+              "paragraph" : "§ 60",
+              "title" : "Errichtung und Aufgabe"
+            },
+            {
+              "documentIdentifier" : "BJNR000130972BJNE009403308",
+              "paragraph" : "§ 61",
+              "title" : "Wahlberechtigung und Wählbarkeit"
+            },
+            {
+              "documentIdentifier" : "BJNR000130972BJNE009504308",
+              "paragraph" : "§ 62",
+              "title" : "Zahl der Jugend- und Auszubildendenvertreter, Zusammensetzung der\nJugend- und Auszubildendenvertretung"
+            },
+            {
+              "documentIdentifier" : "BJNR000130972BJNE009606308",
+              "paragraph" : "§ 63",
+              "title" : "Wahlvorschriften"
+            },
+            {
+              "documentIdentifier" : "BJNR000130972BJNE009703308",
+              "paragraph" : "§ 64",
+              "title" : "Zeitpunkt der Wahlen und Amtszeit"
+            },
+            {
+              "documentIdentifier" : "BJNR000130972BJNE009804308",
+              "paragraph" : "§ 65",
+              "title" : "Geschäftsführung"
+            },
+            {
+              "documentIdentifier" : "BJNR000130972BJNE009903308",
+              "paragraph" : "§ 66",
+              "title" : "Aussetzung von Beschlüssen des Betriebsrats"
+            },
+            {
+              "documentIdentifier" : "BJNR000130972BJNE010003308",
+              "paragraph" : "§ 67",
+              "title" : "Teilnahme an Betriebsratssitzungen"
+            },
+            {
+              "documentIdentifier" : "BJNR000130972BJNE010103308",
+              "paragraph" : "§ 68",
+              "title" : "Teilnahme an gemeinsamen Besprechungen"
+            },
+            {
+              "documentIdentifier" : "BJNR000130972BJNE010203308",
+              "paragraph" : "§ 69",
+              "title" : "Sprechstunden"
+            },
+            {
+              "documentIdentifier" : "BJNR000130972BJNE010304308",
+              "paragraph" : "§ 70",
+              "title" : "Allgemeine Aufgaben"
+            },
+            {
+              "documentIdentifier" : "BJNR000130972BJNE010403308",
+              "paragraph" : "§ 71",
+              "title" : "Jugend- und Auszubildendenversammlung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Betriebliche Jugend- und Auszubildendenvertretung"
+        },
+        {
+          "documentIdentifier" : "BJNR000130972BJNG001103308",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR000130972BJNE010504308",
+              "paragraph" : "§ 72",
+              "title" : "Voraussetzungen der Errichtung, Mitgliederzahl, Stimmengewicht"
+            },
+            {
+              "documentIdentifier" : "BJNR000130972BJNE010604308",
+              "paragraph" : "§ 73",
+              "title" : "Geschäftsführung und Geltung sonstiger Vorschriften"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Gesamt-Jugend- und Auszubildendenvertretung"
+        },
+        {
+          "documentIdentifier" : "BJNR000130972BJNG003101308",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR000130972BJNE017701308",
+              "paragraph" : "§ 73a",
+              "title" : "Voraussetzung der Errichtung, Mitgliederzahl, Stimmengewicht"
+            },
+            {
+              "documentIdentifier" : "BJNR000130972BJNE017801308",
+              "paragraph" : "§ 73b",
+              "title" : "Geschäftsführung und Geltung sonstiger Vorschriften"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Konzern-Jugend- und Auszubildendenvertretung"
+        }
+      ],
+      "title" : "Jugend- und Auszubildendenvertretung"
+    },
+    {
+      "documentIdentifier" : "BJNR000130972BJNG001202308",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR000130972BJNG001302308",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR000130972BJNE010703308",
+              "paragraph" : "§ 74",
+              "title" : "Grundsätze für die Zusammenarbeit"
+            },
+            {
+              "documentIdentifier" : "BJNR000130972BJNE010804308",
+              "paragraph" : "§ 75",
+              "title" : "Grundsätze für die Behandlung der Betriebsangehörigen"
+            },
+            {
+              "documentIdentifier" : "BJNR000130972BJNE010903308",
+              "paragraph" : "§ 76",
+              "title" : "Einigungsstelle"
+            },
+            {
+              "documentIdentifier" : "BJNR000130972BJNE016704308",
+              "paragraph" : "§ 76a",
+              "title" : "Kosten der Einigungsstelle"
+            },
+            {
+              "documentIdentifier" : "BJNR000130972BJNE011002308",
+              "paragraph" : "§ 77",
+              "title" : "Durchführung gemeinsamer Beschlüsse, Betriebsvereinbarungen"
+            },
+            {
+              "documentIdentifier" : "BJNR000130972BJNE011105119",
+              "paragraph" : "§ 78",
+              "title" : "Schutzbestimmungen"
+            },
+            {
+              "documentIdentifier" : "BJNR000130972BJNE011203308",
+              "paragraph" : "§ 78a",
+              "title" : "Schutz Auszubildender in besonderen Fällen"
+            },
+            {
+              "documentIdentifier" : "BJNR000130972BJNE011304308",
+              "paragraph" : "§ 79",
+              "title" : "Geheimhaltungspflicht"
+            },
+            {
+              "documentIdentifier" : "BJNR000130972BJNE011408360",
+              "paragraph" : "§ 80",
+              "title" : "Allgemeine Aufgaben"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Allgemeines"
+        },
+        {
+          "documentIdentifier" : "BJNR000130972BJNG001402308",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR000130972BJNE011504308",
+              "paragraph" : "§ 81",
+              "title" : "Unterrichtungs- und Erörterungspflicht des Arbeitgebers"
+            },
+            {
+              "documentIdentifier" : "BJNR000130972BJNE011602308",
+              "paragraph" : "§ 82",
+              "title" : "Anhörungs- und Erörterungsrecht des Arbeitnehmers"
+            },
+            {
+              "documentIdentifier" : "BJNR000130972BJNE011702308",
+              "paragraph" : "§ 83",
+              "title" : "Einsicht in die Personalakten"
+            },
+            {
+              "documentIdentifier" : "BJNR000130972BJNE011802308",
+              "paragraph" : "§ 84",
+              "title" : "Beschwerderecht"
+            },
+            {
+              "documentIdentifier" : "BJNR000130972BJNE011902308",
+              "paragraph" : "§ 85",
+              "title" : "Behandlung von Beschwerden durch den Betriebsrat"
+            },
+            {
+              "documentIdentifier" : "BJNR000130972BJNE012002308",
+              "paragraph" : "§ 86",
+              "title" : "Ergänzende Vereinbarungen"
+            },
+            {
+              "documentIdentifier" : "BJNR000130972BJNE017901308",
+              "paragraph" : "§ 86a",
+              "title" : "Vorschlagsrecht der Arbeitnehmer"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Mitwirkungs- und Beschwerderecht des Arbeitnehmers"
+        },
+        {
+          "documentIdentifier" : "BJNR000130972BJNG001502308",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR000130972BJNE012103308",
+              "paragraph" : "§ 87",
+              "title" : "Mitbestimmungsrechte"
+            },
+            {
+              "documentIdentifier" : "BJNR000130972BJNE012204119",
+              "paragraph" : "§ 88",
+              "title" : "Freiwillige Betriebsvereinbarungen"
+            },
+            {
+              "documentIdentifier" : "BJNR000130972BJNE012304308",
+              "paragraph" : "§ 89",
+              "title" : "Arbeits- und betrieblicher Umweltschutz"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Soziale Angelegenheiten"
+        },
+        {
+          "documentIdentifier" : "BJNR000130972BJNG001602308",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR000130972BJNE012403308",
+              "paragraph" : "§ 90",
+              "title" : "Unterrichtungs- und Beratungsrechte"
+            },
+            {
+              "documentIdentifier" : "BJNR000130972BJNE012502308",
+              "paragraph" : "§ 91",
+              "title" : "Mitbestimmungsrecht"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Gestaltung von Arbeitsplatz, Arbeitsablauf und Arbeitsumgebung"
+        },
+        {
+          "documentIdentifier" : "BJNR000130972BJNG001702308",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4,
+              5
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR000130972BJNG001802308",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR000130972BJNE012606119",
+                  "paragraph" : "§ 92",
+                  "title" : "Personalplanung"
+                },
+                {
+                  "documentIdentifier" : "BJNR000130972BJNE018002308",
+                  "paragraph" : "§ 92a",
+                  "title" : "Beschäftigungssicherung"
+                },
+                {
+                  "documentIdentifier" : "BJNR000130972BJNE012704308",
+                  "paragraph" : "§ 93",
+                  "title" : "Ausschreibung von Arbeitsplätzen"
+                },
+                {
+                  "documentIdentifier" : "BJNR000130972BJNE012802308",
+                  "paragraph" : "§ 94",
+                  "title" : "Personalfragebogen, Beurteilungsgrundsätze"
+                },
+                {
+                  "documentIdentifier" : "BJNR000130972BJNE012903308",
+                  "paragraph" : "§ 95",
+                  "title" : "Auswahlrichtlinien"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  4,
+                  5,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Allgemeine personelle Angelegenheiten"
+            },
+            {
+              "documentIdentifier" : "BJNR000130972BJNG001902308",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR000130972BJNE013004308",
+                  "paragraph" : "§ 96",
+                  "title" : "Förderung der Berufsbildung"
+                },
+                {
+                  "documentIdentifier" : "BJNR000130972BJNE013103308",
+                  "paragraph" : "§ 97",
+                  "title" : "Einrichtungen und Maßnahmen der Berufsbildung"
+                },
+                {
+                  "documentIdentifier" : "BJNR000130972BJNE013204308",
+                  "paragraph" : "§ 98",
+                  "title" : "Durchführung betrieblicher Bildungsmaßnahmen"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  4,
+                  5,
+                  2
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Berufsbildung"
+            },
+            {
+              "documentIdentifier" : "BJNR000130972BJNG002002308",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR000130972BJNE013303308",
+                  "paragraph" : "§ 99",
+                  "title" : "Mitbestimmung bei personellen Einzelmaßnahmen"
+                },
+                {
+                  "documentIdentifier" : "BJNR000130972BJNE013402308",
+                  "paragraph" : "§ 100",
+                  "title" : "Vorläufige personelle Maßnahmen"
+                },
+                {
+                  "documentIdentifier" : "BJNR000130972BJNE013504308",
+                  "paragraph" : "§ 101",
+                  "title" : "Zwangsgeld"
+                },
+                {
+                  "documentIdentifier" : "BJNR000130972BJNE013603308",
+                  "paragraph" : "§ 102",
+                  "title" : "Mitbestimmung bei Kündigungen"
+                },
+                {
+                  "documentIdentifier" : "BJNR000130972BJNE013704308",
+                  "paragraph" : "§ 103",
+                  "title" : "Außerordentliche Kündigung und Versetzung in besonderen Fällen"
+                },
+                {
+                  "documentIdentifier" : "BJNR000130972BJNE013806308",
+                  "paragraph" : "§ 104",
+                  "title" : "Entfernung betriebsstörender Arbeitnehmer"
+                },
+                {
+                  "documentIdentifier" : "BJNR000130972BJNE013902308",
+                  "paragraph" : "§ 105",
+                  "title" : "Leitende Angestellte"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  4,
+                  5,
+                  3
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Personelle Einzelmaßnahmen"
+            }
+          ],
+          "title" : "Personelle Angelegenheiten"
+        },
+        {
+          "documentIdentifier" : "BJNR000130972BJNG002102308",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4,
+              6
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR000130972BJNG002202308",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR000130972BJNE014005308",
+                  "paragraph" : "§ 106",
+                  "title" : "Wirtschaftsausschuss"
+                },
+                {
+                  "documentIdentifier" : "BJNR000130972BJNE014102308",
+                  "paragraph" : "§ 107",
+                  "title" : "Bestellung und Zusammensetzung des Wirtschaftsausschusses"
+                },
+                {
+                  "documentIdentifier" : "BJNR000130972BJNE014203308",
+                  "paragraph" : "§ 108",
+                  "title" : "Sitzungen"
+                },
+                {
+                  "documentIdentifier" : "BJNR000130972BJNE014303308",
+                  "paragraph" : "§ 109",
+                  "title" : "Beilegung von Meinungsverschiedenheiten"
+                },
+                {
+                  "documentIdentifier" : "BJNR000130972BJNE018100308",
+                  "paragraph" : "§ 109a",
+                  "title" : "Unternehmensübernahme"
+                },
+                {
+                  "documentIdentifier" : "BJNR000130972BJNE014402308",
+                  "paragraph" : "§ 110",
+                  "title" : "Unterrichtung der Arbeitnehmer"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  4,
+                  6,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Unterrichtung in wirtschaftlichen Angelegenheiten"
+            },
+            {
+              "documentIdentifier" : "BJNR000130972BJNG002302308",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR000130972BJNE014504308",
+                  "paragraph" : "§ 111",
+                  "title" : "Betriebsänderungen"
+                },
+                {
+                  "documentIdentifier" : "BJNR000130972BJNE014605308",
+                  "paragraph" : "§ 112",
+                  "title" : "Interessenausgleich über die Betriebsänderung, Sozialplan"
+                },
+                {
+                  "documentIdentifier" : "BJNR000130972BJNE016503308",
+                  "paragraph" : "§ 112a",
+                  "title" : "Erzwingbarer Sozialplan bei Personalabbau, Neugründungen"
+                },
+                {
+                  "documentIdentifier" : "BJNR000130972BJNE014704308",
+                  "paragraph" : "§ 113",
+                  "title" : "Nachteilsausgleich"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  4,
+                  6,
+                  2
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Betriebsänderungen"
+            }
+          ],
+          "title" : "Wirtschaftliche Angelegenheiten"
+        }
+      ],
+      "title" : "Mitwirkung und Mitbestimmung der Arbeitnehmer"
+    },
+    {
+      "documentIdentifier" : "BJNR000130972BJNG002402308",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR000130972BJNG002502308",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR000130972BJNE014805377",
+              "paragraph" : "§ 114",
+              "title" : "Grundsätze"
+            },
+            {
+              "documentIdentifier" : "BJNR000130972BJNE014904308",
+              "paragraph" : "§ 115",
+              "title" : "Bordvertretung"
+            },
+            {
+              "documentIdentifier" : "BJNR000130972BJNE015004308",
+              "paragraph" : "§ 116",
+              "title" : "Seebetriebsrat"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              5,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Seeschifffahrt"
+        },
+        {
+          "documentIdentifier" : "BJNR000130972BJNG002602308",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR000130972BJNE015104126",
+              "paragraph" : "§ 117",
+              "title" : "Geltung für die Luftfahrt"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              5,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Luftfahrt"
+        },
+        {
+          "documentIdentifier" : "BJNR000130972BJNG002702308",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR000130972BJNE015202308",
+              "paragraph" : "§ 118",
+              "title" : "Geltung für Tendenzbetriebe und Religionsgemeinschaften"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              5,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Tendenzbetriebe und Religionsgemeinschaften"
+        }
+      ],
+      "title" : "Besondere Vorschriften für einzelne Betriebsarten"
+    },
+    {
+      "documentIdentifier" : "BJNR000130972BJNG002802308",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR000130972BJNE015306119",
+          "paragraph" : "§ 119",
+          "title" : "Straftaten gegen Betriebsverfassungsorgane und ihre Mitglieder"
+        },
+        {
+          "documentIdentifier" : "BJNR000130972BJNE015404119",
+          "paragraph" : "§ 120",
+          "title" : "Verletzung von Geheimnissen"
+        },
+        {
+          "documentIdentifier" : "BJNR000130972BJNE015507308",
+          "paragraph" : "§ 121",
+          "title" : "Bußgeldvorschriften"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Straf- und Bußgeldvorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR000130972BJNG002902308",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Änderung von Gesetzen"
+    },
+    {
+      "documentIdentifier" : "BJNR000130972BJNG003002308",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR000130972BJNE015705308",
+          "paragraph" : "§ 125",
+          "title" : "Erstmalige Wahlen nach diesem Gesetz"
+        },
+        {
+          "documentIdentifier" : "BJNR000130972BJNE015805308",
+          "paragraph" : "§ 126",
+          "title" : "Ermächtigung zum Erlass von Wahlordnungen"
+        },
+        {
+          "documentIdentifier" : "BJNR000130972BJNE015902308",
+          "paragraph" : "§ 127",
+          "title" : "Verweisungen"
+        },
+        {
+          "documentIdentifier" : "BJNR000130972BJNE016002308",
+          "paragraph" : "§ 128",
+          "title" : "Bestehende abweichende Tarifverträge"
+        },
+        {
+          "documentIdentifier" : "BJNR000130972BJNE016104119",
+          "paragraph" : "§ 129",
+          "title" : "Sonderregelungen aus Anlass der COVID-19-Pandemie"
+        },
+        {
+          "documentIdentifier" : "BJNR000130972BJNE016202308",
+          "paragraph" : "§ 130",
+          "title" : "Öffentlicher Dienst"
+        },
+        {
+          "documentIdentifier" : "BJNR000130972BJNE016302308",
+          "paragraph" : "§ 131",
+          "title" : "(Berlin-Klausel)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          8
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übergangs- und Schlussvorschriften"
+    }
+  ]
+}

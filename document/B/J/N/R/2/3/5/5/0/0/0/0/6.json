@@ -1,0 +1,377 @@
+{
+  "documentIdentifier" : "BJNR235500006",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR235500006BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR235500006BJNE000301360",
+          "paragraph" : "§ 1",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR235500006BJNE000403360",
+          "paragraph" : "§ 2",
+          "title" : "Zuständige Behörden"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeines"
+    },
+    {
+      "documentIdentifier" : "BJNR235500006BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR235500006BJNE000501301",
+          "paragraph" : "§ 3",
+          "title" : "Herstellungserlaubnis"
+        },
+        {
+          "documentIdentifier" : "BJNR235500006BJNE000601301",
+          "paragraph" : "§ 4",
+          "title" : "Inhalt der Herstellungserlaubnis"
+        },
+        {
+          "documentIdentifier" : "BJNR235500006BJNE000701360",
+          "paragraph" : "§ 5",
+          "title" : "Sachkundige Personen"
+        },
+        {
+          "documentIdentifier" : "BJNR235500006BJNE000800000",
+          "paragraph" : "§ 6",
+          "title" : "Anzeigepflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR235500006BJNE000901301",
+          "paragraph" : "§ 7",
+          "title" : "Ruhen der Erlaubnis"
+        },
+        {
+          "documentIdentifier" : "BJNR235500006BJNE001000000",
+          "paragraph" : "§ 8",
+          "title" : "Anforderungen an die Herstellung oder das Lagern von Mitteln"
+        },
+        {
+          "documentIdentifier" : "BJNR235500006BJNE001100000",
+          "paragraph" : "§ 9",
+          "title" : "Besondere Anforderungen an Betriebe, die Mittel unter Verwendung\nexotischer Tierseuchenerreger herstellen"
+        },
+        {
+          "documentIdentifier" : "BJNR235500006BJNE001200000",
+          "paragraph" : "§ 10",
+          "title" : "Besondere Vorschriften für die Tierhaltung"
+        },
+        {
+          "documentIdentifier" : "BJNR235500006BJNE001300000",
+          "paragraph" : "§ 11",
+          "title" : "Verwendung von Tieren zur Herstellung oder Prüfung von Mitteln"
+        },
+        {
+          "documentIdentifier" : "BJNR235500006BJNE001401360",
+          "paragraph" : "§ 12",
+          "title" : "Wartezeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR235500006BJNE001501360",
+          "paragraph" : "§ 13",
+          "title" : "Farbstoffe"
+        },
+        {
+          "documentIdentifier" : "BJNR235500006BJNE001600000",
+          "paragraph" : "§ 14",
+          "title" : "Abfüllen der Charge"
+        },
+        {
+          "documentIdentifier" : "BJNR235500006BJNE001700000",
+          "paragraph" : "§ 15",
+          "title" : "Aufbewahrung von Proben abgefüllter Chargen"
+        },
+        {
+          "documentIdentifier" : "BJNR235500006BJNE001800000",
+          "paragraph" : "§ 16",
+          "title" : "Arzneibuch"
+        },
+        {
+          "documentIdentifier" : "BJNR235500006BJNE001900000",
+          "paragraph" : "§ 17",
+          "title" : "Reinigung und Desinfektion, Beseitigung von Abfällen"
+        },
+        {
+          "documentIdentifier" : "BJNR235500006BJNE002001301",
+          "paragraph" : "§ 18",
+          "title" : "Bescheinigung der Guten Herstellungspraxis"
+        },
+        {
+          "documentIdentifier" : "BJNR235500006BJNE002100000",
+          "paragraph" : "§ 19",
+          "title" : "Prüfung des Betriebs"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Herstellung von Mitteln"
+    },
+    {
+      "documentIdentifier" : "BJNR235500006BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR235500006BJNE002203124",
+          "paragraph" : "§ 20",
+          "title" : "Zulassungsantrag"
+        },
+        {
+          "documentIdentifier" : "BJNR235500006BJNE002300000",
+          "paragraph" : "§ 21",
+          "title" : "Zusammenfassung der Merkmale des Mittels"
+        },
+        {
+          "documentIdentifier" : "BJNR235500006BJNE002400000",
+          "paragraph" : "§ 22",
+          "title" : "Zulassungsverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR235500006BJNE002501360",
+          "paragraph" : "§ 23",
+          "title" : "Zulassung"
+        },
+        {
+          "documentIdentifier" : "BJNR235500006BJNE002602301",
+          "paragraph" : "§ 24",
+          "title" : "Zulassung in sonstigen Fällen"
+        },
+        {
+          "documentIdentifier" : "BJNR235500006BJNE002701124",
+          "paragraph" : "§ 25",
+          "title" : "Erlöschen der Zulassung"
+        },
+        {
+          "documentIdentifier" : "BJNR235500006BJNE002800000",
+          "paragraph" : "§ 26",
+          "title" : "Verlängern der Zulassung"
+        },
+        {
+          "documentIdentifier" : "BJNR235500006BJNE002900000",
+          "paragraph" : "§ 27",
+          "title" : "Rücknahme, Widerruf oder Ruhen der Zulassung"
+        },
+        {
+          "documentIdentifier" : "BJNR235500006BJNE003000000",
+          "paragraph" : "§ 28",
+          "title" : "Pflichten des Zulassungsinhabers"
+        },
+        {
+          "documentIdentifier" : "BJNR235500006BJNE003101360",
+          "paragraph" : "§ 29",
+          "title" : "Änderung der Zulassung eines Mittels, das zur Anwendung am Tier bestimmt ist"
+        },
+        {
+          "documentIdentifier" : "BJNR235500006BJNE005500360",
+          "paragraph" : "§ 29a",
+          "title" : "Änderung der Zulassung eines Mittels, das nicht zur Anwendung am Tier bestimmt ist"
+        },
+        {
+          "documentIdentifier" : "BJNR235500006BJNE003201360",
+          "paragraph" : "§ 30",
+          "title" : "Erfassen und Auswerten von Risiken"
+        },
+        {
+          "documentIdentifier" : "BJNR235500006BJNE003300000",
+          "paragraph" : "§ 31",
+          "title" : "Bekanntmachung, Veröffentlichung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Zulassung von Mitteln"
+    },
+    {
+      "documentIdentifier" : "BJNR235500006BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR235500006BJNE003401124",
+          "paragraph" : "§ 32",
+          "title" : "Durchführung der staatlichen Chargenprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR235500006BJNE003502124",
+          "paragraph" : "§ 33",
+          "title" : "Umfang der staatlichen Chargenprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR235500006BJNE003600000",
+          "paragraph" : "§ 34",
+          "title" : "Rücknahme der Freigabe"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Staatliche Chargenprüfung"
+    },
+    {
+      "documentIdentifier" : "BJNR235500006BJNG000500000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR235500006BJNE003700000",
+          "paragraph" : "§ 35",
+          "title" : "Kennzeichnung"
+        },
+        {
+          "documentIdentifier" : "BJNR235500006BJNE003800000",
+          "paragraph" : "§ 36",
+          "title" : "Packungsbeilage"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Kennzeichnung"
+    },
+    {
+      "documentIdentifier" : "BJNR235500006BJNG000600000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR235500006BJNE003901360",
+          "paragraph" : "§ 37",
+          "title" : "Pflichten des Großhändlers"
+        },
+        {
+          "documentIdentifier" : "BJNR235500006BJNE004001301",
+          "paragraph" : "§ 38",
+          "title" : "Einfuhrerlaubnis"
+        },
+        {
+          "documentIdentifier" : "BJNR235500006BJNE004101360",
+          "paragraph" : "§ 39",
+          "title" : "Bescheinigung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Großhandel und Einfuhr"
+    },
+    {
+      "documentIdentifier" : "BJNR235500006BJNG000700000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR235500006BJNE004201124",
+          "paragraph" : "§ 40",
+          "title" : "Vertriebsweg, Nachweispflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR235500006BJNE004301377",
+          "paragraph" : "§ 41",
+          "title" : "Abgabe durch Apotheken und zentrale Beschaffungsstellen, Verschreibungspflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR235500006BJNE004401301",
+          "paragraph" : "§ 42",
+          "title" : "Abgabeverbote"
+        },
+        {
+          "documentIdentifier" : "BJNR235500006BJNE004500000",
+          "paragraph" : "§ 43",
+          "title" : "Anwendung von Mitteln"
+        },
+        {
+          "documentIdentifier" : "BJNR235500006BJNE004603119",
+          "paragraph" : "§ 44",
+          "title" : "Anwendung durch den Tierhalter"
+        },
+        {
+          "documentIdentifier" : "BJNR235500006BJNE004700000",
+          "paragraph" : "§ 45",
+          "title" : "Vorrätighalten von Mitteln"
+        },
+        {
+          "documentIdentifier" : "BJNR235500006BJNE004800000",
+          "paragraph" : "§ 46",
+          "title" : "Befugnisse tierärztlicher Bildungsstätten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Abgabe und Anwendung von Mitteln"
+    },
+    {
+      "documentIdentifier" : "BJNR235500006BJNG000800000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR235500006BJNE004901301",
+          "paragraph" : "§ 47",
+          "title" : "Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR235500006BJNE005000000",
+          "paragraph" : "§ 48",
+          "title" : "Übergangsvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR235500006BJNE005100000",
+          "paragraph" : "§ 49",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR235500006BJNE005301360",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 20 Absatz 4 und § 29a Absatz 4)"
+        },
+        {
+          "documentIdentifier" : "BJNR235500006BJNE005400000",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 21 Abs. 2)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          8
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussbestimmungen"
+    }
+  ]
+}

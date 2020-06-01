@@ -1,0 +1,87 @@
+{
+  "documentIdentifier" : "DDNR003000990",
+  "sections" : [
+    {
+      "documentIdentifier" : "DDNR003000990Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "DDNR003000990BJNE000300307",
+          "paragraph" : "§ 1",
+          "title" : "Vermögensübertragung"
+        },
+        {
+          "documentIdentifier" : "DDNR003000990BJNE000408377",
+          "paragraph" : "§ 2",
+          "title" : "Stellung und Aufgaben der Treuhandanstalt"
+        },
+        {
+          "documentIdentifier" : "DDNR003000990BJNE002806377",
+          "paragraph" : "§ 2a",
+          "title" : "Wirtschaftsplan"
+        },
+        {
+          "documentIdentifier" : "DDNR003000990BJNE000503377",
+          "paragraph" : "§ 3",
+          "title" : "Abwickler der Anstalt"
+        },
+        {
+          "documentIdentifier" : "DDNR003000990BJNE000901301",
+          "paragraph" : "§ 7",
+          "title" : "Treuhand-Aktiengesellschaften"
+        },
+        {
+          "documentIdentifier" : "DDNR003000990BJNE001000307",
+          "paragraph" : "§ 8",
+          "title" : "Aufgaben der Treuhand-Aktiengesellschaften"
+        },
+        {
+          "documentIdentifier" : "DDNR003000990BJNE001200307",
+          "paragraph" : "§ 10",
+          "title" : "Organe der Treuhand-Aktiengesellschaften"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "DDNR003000990BJNG000100307",
+          "laws" : [
+            {
+              "documentIdentifier" : "DDNR003000990BJNE002901377",
+              "paragraph" : "§ 23a",
+              "title" : "Übertragung von Vermögenswerten, Auflösung"
+            },
+            {
+              "documentIdentifier" : "DDNR003000990BJNE003101377",
+              "paragraph" : "§ 23c",
+              "title" : "(weggefallen)"
+            },
+            {
+              "documentIdentifier" : "DDNR003000990BJNE002601307",
+              "paragraph" : "§ 24",
+              "title" : "Übergangs- und Schlußbestimmungen"
+            },
+            {
+              "documentIdentifier" : "DDNR003000990BJNE000000301",
+              "paragraph" : "Anhang EV",
+              "title" : "- Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Umwandlung der Wirtschaftseinheiten in Kapitalgesellschaften"
+        }
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

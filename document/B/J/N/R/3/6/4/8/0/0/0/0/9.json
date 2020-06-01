@@ -1,0 +1,382 @@
+{
+  "documentIdentifier" : "BJNR364800009",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR364800009BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR364800009BJNE000301118",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR364800009BJNE000401118",
+          "paragraph" : "§ 2",
+          "title" : "Risikoorientierung und Wesentlichkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR364800009BJNE000501118",
+          "paragraph" : "§ 3",
+          "title" : "Art und Umfang der Berichterstattung"
+        },
+        {
+          "documentIdentifier" : "BJNR364800009BJNE000600000",
+          "paragraph" : "§ 4",
+          "title" : "Anlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR364800009BJNE000701118",
+          "paragraph" : "§ 5",
+          "title" : "Berichtszeitraum"
+        },
+        {
+          "documentIdentifier" : "BJNR364800009BJNE000801118",
+          "paragraph" : "§ 6",
+          "title" : "Zusammenfassende Schlussbemerkung"
+        },
+        {
+          "documentIdentifier" : "BJNR364800009BJNE000901118",
+          "paragraph" : "§ 7",
+          "title" : "Berichtsturnus; Unterzeichnung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR364800009BJNG000201118",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR364800009BJNE001002118",
+          "paragraph" : "§ 8",
+          "title" : "Darstellung der rechtlichen, wirtschaftlichen und organisatorischen Grundlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR364800009BJNE001100000",
+          "paragraph" : "§ 9",
+          "title" : "Zweigniederlassungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Angaben zum Institut"
+    },
+    {
+      "documentIdentifier" : "BJNR364800009BJNG000300000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR364800009BJNG000400000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR364800009BJNE001201118",
+              "paragraph" : "§ 10",
+              "title" : "Ordnungsmäßigkeit der Geschäftsorganisation"
+            },
+            {
+              "documentIdentifier" : "BJNR364800009BJNE003300118",
+              "paragraph" : "§ 10a",
+              "title" : "IT-Systeme"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Risikomanagement und Geschäftsorganisation"
+        },
+        {
+          "documentIdentifier" : "BJNR364800009BJNG000501118",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR364800009BJNE001302118",
+              "paragraph" : "§ 11",
+              "title" : "Ermittlung der Eigenmittel"
+            },
+            {
+              "documentIdentifier" : "BJNR364800009BJNE001402118",
+              "paragraph" : "§ 12",
+              "title" : "Eigenmittel"
+            },
+            {
+              "documentIdentifier" : "BJNR364800009BJNE001501118",
+              "paragraph" : "§ 13",
+              "title" : "Solvabilitätskennzahl"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              2
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR364800009BJNG001400118",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR364800009BJNE003400118",
+                  "paragraph" : "§ 13a",
+                  "title" : "Absicherung für den Haftungsfall bei Zahlungsauslösediensten"
+                },
+                {
+                  "documentIdentifier" : "BJNR364800009BJNE003500118",
+                  "paragraph" : "§ 13b",
+                  "title" : "Absicherung für den Haftungsfall bei Kontoinformationsdiensten"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  3,
+                  2
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Absicherung für den Haftungsfall bei Zahlungsauslöse- und Kontoinformationsdiensten"
+            }
+          ],
+          "title" : "Eigenmittel und Solvenzanforderungen"
+        },
+        {
+          "documentIdentifier" : "BJNR364800009BJNG000600000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR364800009BJNE001600000",
+              "paragraph" : "§ 14",
+              "title" : "Anzeigewesen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Anzeigewesen"
+        },
+        {
+          "documentIdentifier" : "BJNR364800009BJNG000702118",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR364800009BJNE001701118",
+              "paragraph" : "§ 15",
+              "title" : "Zeitpunkt der Prüfung und Berichtszeitraum"
+            },
+            {
+              "documentIdentifier" : "BJNR364800009BJNE001803118",
+              "paragraph" : "§ 16",
+              "title" : "Darstellung und Beurteilung der getroffenen Vorkehrungen zur Verhinderung von Geldwäsche und Terrorismusfinanzierung"
+            },
+            {
+              "documentIdentifier" : "BJNR364800009BJNE002901118",
+              "paragraph" : "§ 16a",
+              "title" : "Darstellung und Beurteilung der getroffenen Vorkehrungen zur Einhaltung der Pflichten nach der Verordnung (EG) Nr. 924\/2009"
+            },
+            {
+              "documentIdentifier" : "BJNR364800009BJNE003001118",
+              "paragraph" : "§ 16b",
+              "title" : "Darstellung und Beurteilung der getroffenen Vorkehrungen zur Einhaltung der Pflichten nach der Verordnung (EU) Nr. 260\/2012"
+            },
+            {
+              "documentIdentifier" : "BJNR364800009BJNE003100118",
+              "paragraph" : "§ 16c",
+              "title" : "Darstellung und Beurteilung der getroffenen Vorkehrungen zur Einhaltung der Pflichten nach der Verordnung (EU) 2015\/751"
+            },
+            {
+              "documentIdentifier" : "BJNR364800009BJNE003201118",
+              "paragraph" : "§ 16d",
+              "title" : "Darstellung und Beurteilung der getroffenen Vorkehrungen zur Einhaltung der Pflichten nach dem Zahlungskontengesetz"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Bargeldloser Zahlungsverkehr; Vorkehrungen zur Verhinderung von Geldwäsche und Terrorismusfinanzierung"
+        }
+      ],
+      "title" : "Aufsichtliche Vorgaben"
+    },
+    {
+      "documentIdentifier" : "BJNR364800009BJNG000801118",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR364800009BJNE001901118",
+          "paragraph" : "§ 17",
+          "title" : "Berichterstattung über Zahlungsdienste und das E-Geld-Geschäft"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Besondere Angaben zu Zahlungsdiensten und dem E-Geld-Geschäft"
+    },
+    {
+      "documentIdentifier" : "BJNR364800009BJNG000900000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR364800009BJNG001001118",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR364800009BJNE002000000",
+              "paragraph" : "§ 18",
+              "title" : "Geschäftliche Entwicklung im Berichtsjahr"
+            },
+            {
+              "documentIdentifier" : "BJNR364800009BJNE002100000",
+              "paragraph" : "§ 19",
+              "title" : "Beurteilung der Vermögenslage"
+            },
+            {
+              "documentIdentifier" : "BJNR364800009BJNE002201118",
+              "paragraph" : "§ 20",
+              "title" : "Beurteilung der Ertragslage"
+            },
+            {
+              "documentIdentifier" : "BJNR364800009BJNE002301118",
+              "paragraph" : "§ 21",
+              "title" : "Risikolage und Risikovorsorge"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              5,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Lage des Instituts (einschließlich geschäftliche Entwicklung sowie Ergebnisentwicklung)"
+        },
+        {
+          "documentIdentifier" : "BJNR364800009BJNG001100000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR364800009BJNE002400000",
+              "paragraph" : "§ 22",
+              "title" : "Erläuterungen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              5,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Feststellungen, Erläuterungen zur Rechnungslegung"
+        }
+      ],
+      "title" : "Abschlussorientierte Berichterstattung"
+    },
+    {
+      "documentIdentifier" : "BJNR364800009BJNG001200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR364800009BJNE002501118",
+          "paragraph" : "§ 23",
+          "title" : "Datenübersicht  "
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Datenübersichten  "
+    },
+    {
+      "documentIdentifier" : "BJNR364800009BJNG001300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR364800009BJNE002603118",
+          "paragraph" : "§ 24",
+          "title" : "Erstmalige Anwendung"
+        },
+        {
+          "documentIdentifier" : "BJNR364800009BJNE002700000",
+          "paragraph" : "§ 25",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR364800009BJNE003600118",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 8 Absatz 3)"
+        },
+        {
+          "documentIdentifier" : "BJNR364800009BJNE003700118",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 16 Absatz 9)"
+        },
+        {
+          "documentIdentifier" : "BJNR364800009BJNE002803118",
+          "paragraph" : "Anlage 3",
+          "title" : "(zu § 23)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussvorschriften"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR005050988",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR005050988Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR005050988BJNE000215360",
+          "paragraph" : "§ 1",
+          "title" : "Leistungen der sozialen Sicherung"
+        },
+        {
+          "documentIdentifier" : "BJNR005050988BJNE000304310",
+          "paragraph" : "§ 2",
+          "title" : "Weitere Einnahmen"
+        },
+        {
+          "documentIdentifier" : "BJNR005050988BJNE000401308",
+          "paragraph" : "§ 3",
+          "title" : "Einnahmen bei Auslandstätigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR005050988BJNE000700320",
+          "paragraph" : "§ 3a",
+          "title" : "Übergangsvorschrift"
+        },
+        {
+          "documentIdentifier" : "BJNR005050988BJNE000601308",
+          "paragraph" : "§ 4",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

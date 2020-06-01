@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR120210011",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR120210011Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR120210011BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR120210011BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Zuständige Behörde"
+        },
+        {
+          "documentIdentifier" : "BJNR120210011BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Verbindungsstelle für die berufsständischen Versorgungseinrichtungen"
+        },
+        {
+          "documentIdentifier" : "BJNR120210011BJNE000401308",
+          "paragraph" : "§ 4",
+          "title" : "Verbindungsstelle für Familienleistungen"
+        },
+        {
+          "documentIdentifier" : "BJNR120210011BJNE000501119",
+          "paragraph" : "§ 5",
+          "title" : "Koordinierungsstelle für die Systeme der Beamtenversorgung"
+        },
+        {
+          "documentIdentifier" : "BJNR120210011BJNE000602124",
+          "paragraph" : "§ 6",
+          "title" : "Zugangsstellen"
+        },
+        {
+          "documentIdentifier" : "BJNR120210011BJNE000700000",
+          "paragraph" : "§ 7",
+          "title" : "Verordnungsermächtigungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

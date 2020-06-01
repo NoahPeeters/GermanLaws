@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR224600993",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR224600993Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR224600993BJNE000300303",
+          "paragraph" : "Art 1",
+          "title" : "Zustimmung zum Hörfunk-Überleitungsstaatsvertrag"
+        },
+        {
+          "documentIdentifier" : "BJNR224600993BJNE000400303",
+          "paragraph" : "Art 2",
+          "title" : "Änderung des Gesetzes über die Errichtung von\nRundfunkanstalten des Bundesrechts"
+        },
+        {
+          "documentIdentifier" : "BJNR224600993BJNE000500303",
+          "paragraph" : "Art 3",
+          "title" : "Aufhebung des RIAS Berlin Statuts"
+        },
+        {
+          "documentIdentifier" : "BJNR224600993BJNE000700303",
+          "paragraph" : "Art 5",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

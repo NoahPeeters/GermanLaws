@@ -1,0 +1,59 @@
+{
+  "documentIdentifier" : "BJNR050800008",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR050800008Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR050800008BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Daten mit besonders hohem Informationsgehalt"
+        },
+        {
+          "documentIdentifier" : "BJNR050800008BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Sensitive Anfragen"
+        },
+        {
+          "documentIdentifier" : "BJNR050800008BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR050800008BJNE000600000",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 2 Abs. 2 Nr. 1)"
+        },
+        {
+          "documentIdentifier" : "BJNR050800008BJNE000700000",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 2 Abs. 2 Nr. 2)"
+        },
+        {
+          "documentIdentifier" : "BJNR050800008BJNE000801360",
+          "paragraph" : "Anlage 3",
+          "title" : "(zu § 2 Absatz 2 Nummer 2 Buchstabe a)"
+        },
+        {
+          "documentIdentifier" : "BJNR050800008BJNE000900000",
+          "paragraph" : "Anlage 4",
+          "title" : "(zu § 2 Abs. 2 Nr. 2 Buchstabe b)"
+        },
+        {
+          "documentIdentifier" : "BJNR050800008BJNE001000000",
+          "paragraph" : "Anlage 5",
+          "title" : "(zu § 2 Abs. 1 und 2)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

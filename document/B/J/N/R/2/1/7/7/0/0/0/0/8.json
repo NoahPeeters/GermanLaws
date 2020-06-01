@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR217700008",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR217700008Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR217700008BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Zulassungspflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR217700008BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Staatliche Chargenprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR217700008BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Übergangsvorschrift"
+        },
+        {
+          "documentIdentifier" : "BJNR217700008BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR217700008BJNE000700000",
+          "paragraph" : "Anhang",
+          "title" : "Liste der Therapieallergene "
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

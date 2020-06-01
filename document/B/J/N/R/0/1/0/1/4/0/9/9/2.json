@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR010140992",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR010140992Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR010140992BJNE000201314",
+          "paragraph" : "§ 1",
+          "title" : "Verkehrswege der Eisenbahnen des Bundes"
+        },
+        {
+          "documentIdentifier" : "BJNR010140992BJNE000302308",
+          "paragraph" : "§ 2",
+          "title" : "Bundesfernstraßen"
+        },
+        {
+          "documentIdentifier" : "BJNR010140992BJNE000400314",
+          "paragraph" : "§ 3",
+          "title" : "Bundeswasserstraßen"
+        },
+        {
+          "documentIdentifier" : "BJNR010140992BJNE000500314",
+          "paragraph" : "§ 4",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR046610013",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR046610013Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR046610013BJNE000106124",
+          "paragraph" : "§ 1",
+          "title" : "Kosten"
+        },
+        {
+          "documentIdentifier" : "BJNR046610013BJNE000201124",
+          "paragraph" : "§ 2",
+          "title" : "Gebührenfestsetzung"
+        },
+        {
+          "documentIdentifier" : "BJNR046610013BJNE000307124",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 1 Absatz 1)"
+        },
+        {
+          "documentIdentifier" : "BJNR046610013BJNE000405124",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 1 Absatz 2)"
+        },
+        {
+          "documentIdentifier" : "BJNR046610013BJNE000504124",
+          "paragraph" : "Anlage 3",
+          "title" : "(zu § 1 Absatz 3)"
+        },
+        {
+          "documentIdentifier" : "BJNR046610013BJNE000601124",
+          "paragraph" : "Anlage 4",
+          "title" : "(zu § 1 Absatz 4)"
+        },
+        {
+          "documentIdentifier" : "BJNR046610013BJNE000702124",
+          "paragraph" : "Anlage 5",
+          "title" : "(zu § 1 Absatz 5)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR007830978",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR007830978Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR007830978BJNE000201301",
+          "paragraph" : "§ 1",
+          "title" : "Anzeige"
+        },
+        {
+          "documentIdentifier" : "BJNR007830978BJNE000301301",
+          "paragraph" : "§ 2",
+          "title" : "Änderungsanzeige"
+        },
+        {
+          "documentIdentifier" : "BJNR007830978BJNE000400326",
+          "paragraph" : "§ 3",
+          "title" : "Ausnahmen von der Anzeigepflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR007830978BJNE000500326",
+          "paragraph" : "§ 4",
+          "title" : "Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR007830978BJNE000700326",
+          "paragraph" : "§ 6",
+          "title" : "Berlin-Klausel"
+        },
+        {
+          "documentIdentifier" : "BJNR007830978BJNE000800326",
+          "paragraph" : "§ 7",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

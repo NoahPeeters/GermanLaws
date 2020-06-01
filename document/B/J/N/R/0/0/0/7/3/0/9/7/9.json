@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR000730979",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR000730979Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR000730979BJNE000208301",
+          "paragraph" : "§ 1",
+          "title" : "Kleinsendungen nichtkommerzieller Art"
+        },
+        {
+          "documentIdentifier" : "BJNR000730979BJNE000301301",
+          "paragraph" : "§ 2",
+          "title" : "Steuergebiet"
+        },
+        {
+          "documentIdentifier" : "BJNR000730979BJNE000800311",
+          "paragraph" : "§ 7",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

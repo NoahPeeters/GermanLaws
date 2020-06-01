@@ -1,0 +1,69 @@
+{
+  "documentIdentifier" : "BJNR003400016",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR003400016Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR003400016BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Allgemeines"
+        },
+        {
+          "documentIdentifier" : "BJNR003400016BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Kostenermittlung und Rechnungslegung"
+        },
+        {
+          "documentIdentifier" : "BJNR003400016BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Kostenerstattung für die übertragenen Aufgaben"
+        },
+        {
+          "documentIdentifier" : "BJNR003400016BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Laufende Finanzierung der übertragenen Aufgaben"
+        },
+        {
+          "documentIdentifier" : "BJNR003400016BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Betriebsmittel"
+        },
+        {
+          "documentIdentifier" : "BJNR003400016BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Rücklage"
+        },
+        {
+          "documentIdentifier" : "BJNR003400016BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Säumniszuschläge"
+        },
+        {
+          "documentIdentifier" : "BJNR003400016BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Anzeige von Unfällen"
+        },
+        {
+          "documentIdentifier" : "BJNR003400016BJNE001000000",
+          "paragraph" : "§ 9",
+          "title" : "Unterstützung durch die Mitgliedsunternehmen"
+        },
+        {
+          "documentIdentifier" : "BJNR003400016BJNE001100000",
+          "paragraph" : "§ 10",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

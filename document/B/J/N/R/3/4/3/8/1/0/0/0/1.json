@@ -1,0 +1,79 @@
+{
+  "documentIdentifier" : "BJNR343810001",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR343810001Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR343810001BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Anordnung, Zweck"
+        },
+        {
+          "documentIdentifier" : "BJNR343810001BJNE000201377",
+          "paragraph" : "§ 2",
+          "title" : "Erhebungsbereiche"
+        },
+        {
+          "documentIdentifier" : "BJNR343810001BJNE000301377",
+          "paragraph" : "§ 3",
+          "title" : "Periodizität, Berichtszeitraum"
+        },
+        {
+          "documentIdentifier" : "BJNR343810001BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Erhebungseinheiten"
+        },
+        {
+          "documentIdentifier" : "BJNR343810001BJNE000502360",
+          "paragraph" : "§ 5",
+          "title" : "Art und Umfang der Erhebungen"
+        },
+        {
+          "documentIdentifier" : "BJNR343810001BJNE000602360",
+          "paragraph" : "§ 6",
+          "title" : "Erhebungsmerkmale"
+        },
+        {
+          "documentIdentifier" : "BJNR343810001BJNE000702360",
+          "paragraph" : "§ 7",
+          "title" : "Hilfsmerkmale"
+        },
+        {
+          "documentIdentifier" : "BJNR343810001BJNE000802118",
+          "paragraph" : "§ 8",
+          "title" : "Auskunftspflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR343810001BJNE000900000",
+          "paragraph" : "§ 9",
+          "title" : "Übermittlungsregelung"
+        },
+        {
+          "documentIdentifier" : "BJNR343810001BJNE001001377",
+          "paragraph" : "§ 10",
+          "title" : "Durchführung"
+        },
+        {
+          "documentIdentifier" : "BJNR343810001BJNE001105118",
+          "paragraph" : "§ 11",
+          "title" : "Verordnungsermächtigung"
+        },
+        {
+          "documentIdentifier" : "BJNR343810001BJNE001200360",
+          "paragraph" : "§ 12",
+          "title" : "Übergangsregelung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

@@ -1,0 +1,908 @@
+{
+  "documentIdentifier" : "BJNR012380980",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR012380980BJNG000100311",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR012380980BJNE001301377",
+          "paragraph" : "§ 1",
+          "title" : "Konstituierung"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE001402377",
+          "paragraph" : "§ 2",
+          "title" : "Wahl des Präsidenten und der Stellvertreter"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE001500311",
+          "paragraph" : "§ 3",
+          "title" : "Wahl der Schriftführer"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Wahl des Präsidenten, der Stellvertreter und Schriftführer"
+    },
+    {
+      "documentIdentifier" : "BJNR012380980BJNG000200311",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR012380980BJNE001600311",
+          "paragraph" : "§ 4",
+          "title" : "Wahl des Bundeskanzlers"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Wahl des Bundeskanzlers"
+    },
+    {
+      "documentIdentifier" : "BJNR012380980BJNG000300311",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR012380980BJNE001700311",
+          "paragraph" : "§ 5",
+          "title" : "Präsidium"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE001801305",
+          "paragraph" : "§ 6",
+          "title" : "Ältestenrat"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE001901306",
+          "paragraph" : "§ 7",
+          "title" : "Aufgaben des Präsidenten"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE002000311",
+          "paragraph" : "§ 8",
+          "title" : "Sitzungsvorstand"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE002100311",
+          "paragraph" : "§ 9",
+          "title" : "Aufgaben der Schriftführer"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Präsident, Präsidium und Ältestenrat"
+    },
+    {
+      "documentIdentifier" : "BJNR012380980BJNG000400311",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR012380980BJNE002200311",
+          "paragraph" : "§ 10",
+          "title" : "Bildung der Fraktionen"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE002300311",
+          "paragraph" : "§ 11",
+          "title" : "Reihenfolge der Fraktionen"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE002400311",
+          "paragraph" : "§ 12",
+          "title" : "Stellenanteile der Fraktionen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Fraktionen"
+    },
+    {
+      "documentIdentifier" : "BJNR012380980BJNG000501307",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR012380980BJNE002502305",
+          "paragraph" : "§ 13",
+          "title" : "Rechte und Pflichten der Mitglieder des Bundestages"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE002600311",
+          "paragraph" : "§ 14",
+          "title" : "Urlaub"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE002700311",
+          "paragraph" : "§ 15",
+          "title" : "Anfechtung und Verlust der Mitgliedschaft"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE002800311",
+          "paragraph" : "§ 16",
+          "title" : "Akteneinsicht und -abgabe"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE002900311",
+          "paragraph" : "§ 17",
+          "title" : "Geheimschutzordnung"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE003001377",
+          "paragraph" : "§ 18",
+          "title" : "Verhaltensregeln"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Die Mitglieder des Bundestages"
+    },
+    {
+      "documentIdentifier" : "BJNR012380980BJNG000600311",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR012380980BJNE003100311",
+          "paragraph" : "§ 19",
+          "title" : "Sitzungen"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE003201307",
+          "paragraph" : "§ 20",
+          "title" : "Tagesordnung"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE003300311",
+          "paragraph" : "§ 21",
+          "title" : "Einberufung durch den Präsidenten"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE003400311",
+          "paragraph" : "§ 22",
+          "title" : "Leitung der Sitzungen"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE003500311",
+          "paragraph" : "§ 23",
+          "title" : "Eröffnung der Aussprache"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE003600311",
+          "paragraph" : "§ 24",
+          "title" : "Verbindung der Beratung"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE003700311",
+          "paragraph" : "§ 25",
+          "title" : "Vertagung der Beratung oder Schluß der Aussprache"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE003800311",
+          "paragraph" : "§ 26",
+          "title" : "Vertagung der Sitzung"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE003902307",
+          "paragraph" : "§ 27",
+          "title" : "Worterteilung und Wortmeldung"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE004000311",
+          "paragraph" : "§ 28",
+          "title" : "Reihenfolge der Redner"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE004100311",
+          "paragraph" : "§ 29",
+          "title" : "Zur Geschäftsordnung"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE004200311",
+          "paragraph" : "§ 30",
+          "title" : "Erklärung zur Aussprache"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE004301305",
+          "paragraph" : "§ 31",
+          "title" : "Erklärung zur Abstimmung"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE004401305",
+          "paragraph" : "§ 32",
+          "title" : "Erklärung außerhalb der Tagesordnung"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE004500311",
+          "paragraph" : "§ 33",
+          "title" : "Die Rede"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE004600311",
+          "paragraph" : "§ 34",
+          "title" : "Platz des Redners"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE004700311",
+          "paragraph" : "§ 35",
+          "title" : "Rededauer"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE004801377",
+          "paragraph" : "§ 36",
+          "title" : "Sach- und Ordnungsruf, Wortentziehung"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE004901377",
+          "paragraph" : "§ 37",
+          "title" : "Ordnungsgeld"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE005002377",
+          "paragraph" : "§ 38",
+          "title" : "Ausschluss von Mitgliedern des Bundestages"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE005101377",
+          "paragraph" : "§ 39",
+          "title" : "Einspruch gegen Ordnungsmaßnahmen"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE005200311",
+          "paragraph" : "§ 40",
+          "title" : "Unterbrechung der Sitzung"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE005300311",
+          "paragraph" : "§ 41",
+          "title" : "Weitere Ordnungsmaßnahmen"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE005400311",
+          "paragraph" : "§ 42",
+          "title" : "Herbeirufung eines Mitgliedes der Bundesregierung"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE005500311",
+          "paragraph" : "§ 43",
+          "title" : "Recht auf jederzeitiges Gehör"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE005600311",
+          "paragraph" : "§ 44",
+          "title" : "Wiedereröffnung der Aussprache"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE005701307",
+          "paragraph" : "§ 45",
+          "title" : "Feststellung der Beschlußfähigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE005800311",
+          "paragraph" : "§ 46",
+          "title" : "Fragestellung"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE005900311",
+          "paragraph" : "§ 47",
+          "title" : "Teilung der Frage"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE006000311",
+          "paragraph" : "§ 48",
+          "title" : "Abstimmungsregeln"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE006100311",
+          "paragraph" : "§ 49",
+          "title" : "Wahlen mit verdeckten Stimmzetteln"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE006200311",
+          "paragraph" : "§ 50",
+          "title" : "Verfahren bei der Auswahl des Sitzes einer Bundesbehörde"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE006300311",
+          "paragraph" : "§ 51",
+          "title" : "Zählung der Stimmen"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE006400311",
+          "paragraph" : "§ 52",
+          "title" : "Namentliche Abstimmung"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE006500311",
+          "paragraph" : "§ 53",
+          "title" : "Unzulässigkeit der namentlichen Abstimmung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Tagesordnung, Einberufung, Leitung der Sitzung und Ordnungsmaßnahmen"
+    },
+    {
+      "documentIdentifier" : "BJNR012380980BJNG000700311",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR012380980BJNE006600311",
+          "paragraph" : "§ 54",
+          "title" : "Ständige Ausschüsse und Sonderausschüsse"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE006700311",
+          "paragraph" : "§ 55",
+          "title" : "Einsetzung von Unterausschüssen"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE006801305",
+          "paragraph" : "§ 56",
+          "title" : "Enquete-Kommission"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE014100305",
+          "paragraph" : "§ 56a",
+          "title" : "Technikfolgenanalysen"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE006901305",
+          "paragraph" : "§ 57",
+          "title" : "Mitgliederzahl der Ausschüsse"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE007000311",
+          "paragraph" : "§ 58",
+          "title" : "Bestimmung des Vorsitzenden und seines Stellvertreters"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE007100311",
+          "paragraph" : "§ 59",
+          "title" : "Rechte und Pflichten des Vorsitzenden"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE007200311",
+          "paragraph" : "§ 60",
+          "title" : "Einberufung der Ausschußsitzungen"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE007301305",
+          "paragraph" : "§ 61",
+          "title" : "Tagesordnung der Ausschüsse"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE007401160",
+          "paragraph" : "§ 62",
+          "title" : "Aufgaben der Ausschüsse"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE007500311",
+          "paragraph" : "§ 63",
+          "title" : "Federführender Ausschuß"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE007600311",
+          "paragraph" : "§ 64",
+          "title" : "Verhandlungsgegenstände"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE007700311",
+          "paragraph" : "§ 65",
+          "title" : "Berichterstatterbenennung"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE007800311",
+          "paragraph" : "§ 66",
+          "title" : "Berichterstattung"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE007900311",
+          "paragraph" : "§ 67",
+          "title" : "Beschlußfähigkeit im Ausschuß"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE008000311",
+          "paragraph" : "§ 68",
+          "title" : "Herbeirufung eines Mitgliedes der Bundesregierung zu den Ausschußsitzungen"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE008102140",
+          "paragraph" : "§ 69",
+          "title" : "Nichtöffentliche Ausschußsitzungen"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE014300307",
+          "paragraph" : "§ 69a",
+          "title" : "Erweiterte öffentliche Ausschußberatungen"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE008201140",
+          "paragraph" : "§ 70",
+          "title" : "Öffentliche Anhörungssitzungen"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE008302307",
+          "paragraph" : "§ 71",
+          "title" : "Antragstellung im Ausschuß, Schluß der Aussprache"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE008400311",
+          "paragraph" : "§ 72",
+          "title" : "Abstimmung außerhalb einer Sitzung"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE008500311",
+          "paragraph" : "§ 73",
+          "title" : "Ausschußprotokolle"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE008600311",
+          "paragraph" : "§ 74",
+          "title" : "Anwendbarkeit der Bestimmungen der Geschäftsordnung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Ausschüsse"
+    },
+    {
+      "documentIdentifier" : "BJNR012380980BJNG000800311",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR012380980BJNE008701140",
+          "paragraph" : "§ 75",
+          "title" : "Vorlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE008800311",
+          "paragraph" : "§ 76",
+          "title" : "Vorlagen von Mitgliedern des Bundestages"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE008901377",
+          "paragraph" : "§ 77",
+          "title" : "Behandlung der Vorlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE009001160",
+          "paragraph" : "§ 78",
+          "title" : "Beratungen"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE009101305",
+          "paragraph" : "§ 79",
+          "title" : "Erste Beratung von Gesetzentwürfen"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE009203320",
+          "paragraph" : "§ 80",
+          "title" : "Überweisung an einen Ausschuß"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE015500160",
+          "paragraph" : "§ 80a",
+          "title" : "Überprüfung von Gesetzentwürfen auf sprachliche Richtigkeit und Verständlichkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE009300311",
+          "paragraph" : "§ 81",
+          "title" : "Zweite Beratung von Gesetzentwürfen"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE009400311",
+          "paragraph" : "§ 82",
+          "title" : "Änderungsanträge und Zurückverweisung in zweiter Beratung"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE009500311",
+          "paragraph" : "§ 83",
+          "title" : "Zusammenstellung der Änderungen"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE009600311",
+          "paragraph" : "§ 84",
+          "title" : "Dritte Beratung von Gesetzentwürfen"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE009700311",
+          "paragraph" : "§ 85",
+          "title" : "Änderungsanträge und Zurückverweisung in dritter Beratung"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE009800311",
+          "paragraph" : "§ 86",
+          "title" : "Schlußabstimmung"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE009900311",
+          "paragraph" : "§ 87",
+          "title" : "Verfahren zu Artikel 113 des Grundgesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE010000311",
+          "paragraph" : "§ 88",
+          "title" : "Behandlung von Entschließungsanträgen"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE010100311",
+          "paragraph" : "§ 89",
+          "title" : "Einberufung des Vermittlungsausschusses"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE010201160",
+          "paragraph" : "§ 90",
+          "title" : "Beratung von Beschlußempfehlungen des Vermittlungsausschusses"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE010300311",
+          "paragraph" : "§ 91",
+          "title" : "Einspruch des Bundesrates"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE010400311",
+          "paragraph" : "§ 92",
+          "title" : "Rechtsverordnungen"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE010504377",
+          "paragraph" : "§ 93",
+          "title" : "Zuleitung und Überweisung von Unionsdokumenten"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE014203377",
+          "paragraph" : "§ 93a",
+          "title" : "Ausschussberatung von Unionsdokumenten"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE014602377",
+          "paragraph" : "§ 93b",
+          "title" : "Ausschuss für die Angelegenheiten der Europäischen Union"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE015600140",
+          "paragraph" : "§ 93c",
+          "title" : "Subsidiaritätsrüge"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE015700140",
+          "paragraph" : "§ 93d",
+          "title" : "Subsidiaritätsklage"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE010600311",
+          "paragraph" : "§ 94",
+          "title" : "Stabilitätsvorlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE010700311",
+          "paragraph" : "§ 95",
+          "title" : "Haushaltsvorlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE010800311",
+          "paragraph" : "§ 96",
+          "title" : "Finanzvorlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE014500377",
+          "paragraph" : "§ 96a",
+          "title" : "Verfahren nach dem Parlamentsbeteiligungsgesetz"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE010900311",
+          "paragraph" : "§ 97",
+          "title" : "Mißtrauensantrag gegen den Bundeskanzler"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE011000311",
+          "paragraph" : "§ 98",
+          "title" : "Vertrauensantrag des Bundeskanzlers"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE011100311",
+          "paragraph" : "§ 99",
+          "title" : "Dringliche Gesetzentwürfe der Bundesregierung nach Artikel 81 des Grundgesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE011200311",
+          "paragraph" : "§ 100",
+          "title" : "Große Anfragen"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE011300311",
+          "paragraph" : "§ 101",
+          "title" : "Beantwortung und Beratung von Großen Anfragen"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE011400311",
+          "paragraph" : "§ 102",
+          "title" : "Ablehnung der Beantwortung der Großen Anfragen"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE011500311",
+          "paragraph" : "§ 103",
+          "title" : "Beschränkung der Beratung über Große Anfragen"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE011600311",
+          "paragraph" : "§ 104",
+          "title" : "Kleine Anfragen"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE011700311",
+          "paragraph" : "§ 105",
+          "title" : "Fragen einzelner Mitglieder des Bundestages"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE011802377",
+          "paragraph" : "§ 106",
+          "title" : "Aktuelle Stunde und Befragung der Bundesregierung"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE011901305",
+          "paragraph" : "§ 107",
+          "title" : "Immunitätsangelegenheiten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          8
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Vorlagen und ihre Behandlung"
+    },
+    {
+      "documentIdentifier" : "BJNR012380980BJNG000900311",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR012380980BJNE012000311",
+          "paragraph" : "§ 108",
+          "title" : "Zuständigkeit des Petitionsausschusses"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE012100311",
+          "paragraph" : "§ 109",
+          "title" : "Überweisung der Petitionen"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE012200311",
+          "paragraph" : "§ 110",
+          "title" : "Rechte des Petitionsausschusses"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE012300311",
+          "paragraph" : "§ 111",
+          "title" : "Übertragung von Befugnissen auf einzelne Mitglieder des Petitionsausschusses"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE012401377",
+          "paragraph" : "§ 112",
+          "title" : "Beschlußempfehlung und Bericht des Petitionsausschusses"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          9
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Behandlung von Petitionen"
+    },
+    {
+      "documentIdentifier" : "BJNR012380980BJNG001000311",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR012380980BJNE012500311",
+          "paragraph" : "§ 113",
+          "title" : "Wahl des Wehrbeauftragten"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE012600311",
+          "paragraph" : "§ 114",
+          "title" : "Berichte des Wehrbeauftragten"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE012700311",
+          "paragraph" : "§ 115",
+          "title" : "Beratung der Berichte des Wehrbeauftragten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          10
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Der Wehrbeauftragte des Bundestages"
+    },
+    {
+      "documentIdentifier" : "BJNR012380980BJNG001100311",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR012380980BJNE012800311",
+          "paragraph" : "§ 116",
+          "title" : "Plenarprotokolle"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE012900311",
+          "paragraph" : "§ 117",
+          "title" : "Prüfung der Niederschrift durch den Redner"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE013000311",
+          "paragraph" : "§ 118",
+          "title" : "Korrektur der Niederschrift"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE013100311",
+          "paragraph" : "§ 119",
+          "title" : "Niederschrift von Zwischenrufen"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE013200311",
+          "paragraph" : "§ 120",
+          "title" : "Beurkundung der Beschlüsse"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE013300311",
+          "paragraph" : "§ 121",
+          "title" : "Einspruch gegen das Amtliche Protokoll"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE013400311",
+          "paragraph" : "§ 122",
+          "title" : "Übersendung beschlossener Gesetze"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE014400377",
+          "paragraph" : "§ 122a",
+          "title" : "Elektronische Dokumente"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE013501377",
+          "paragraph" : "§ 123",
+          "title" : "Fristberechnung"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE013600311",
+          "paragraph" : "§ 124",
+          "title" : "Wahrung der Frist"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE013700311",
+          "paragraph" : "§ 125",
+          "title" : "Unerledigte Gegenstände"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          11
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Beurkundung und Vollzug der Beschlüsse des Bundestages"
+    },
+    {
+      "documentIdentifier" : "BJNR012380980BJNG001200311",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR012380980BJNE013800311",
+          "paragraph" : "§ 126",
+          "title" : "Abweichungen von dieser Geschäftsordnung"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE015802377",
+          "paragraph" : "§ 126a",
+          "title" : "Besondere Anwendung der Geschäftsordnung aufgrund der allgemeinen Beeinträchtigung durch COVID-19"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE013900311",
+          "paragraph" : "§ 127",
+          "title" : "Auslegung dieser Geschäftsordnung"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE014000311",
+          "paragraph" : "§ 128",
+          "title" : "Rechte des Ausschusses für Wahlprüfung, Immunität und Geschäftsordnung"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE014705377",
+          "paragraph" : "Anlage 1",
+          "title" : "Verhaltensregeln für Mitglieder des Deutschen Bundestages"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE014800160",
+          "paragraph" : "Anlage 2",
+          "title" : "Registrierung von Verbänden und deren Vertreter"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE014902377",
+          "paragraph" : "Anlage 3",
+          "title" : "Geheimschutzordnung des Deutschen Bundestages"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE015001377",
+          "paragraph" : "Anlage 4",
+          "title" : "Richtlinien für die Fragestunde und für die schriftlichen Einzelfragen"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE015100160",
+          "paragraph" : "Anlage 5",
+          "title" : "Richtlinien für Aussprachen zu Themen von allgemeinem aktuellen Interesse"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE015201377",
+          "paragraph" : "Anlage 6",
+          "title" : "Grundsätze in Immunitätsangelegenheiten und in Fällen der Genehmigung gemäß § 50 Abs. 3 StPO und § 382 Abs. 3 ZPO sowie bei Ermächtigungen gemäß § 90b Abs. 2, § 194 Abs. 4 StGB"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE015905377",
+          "paragraph" : "Anlage 6",
+          "title" : "Beschluß des Deutschen Bundestages betr. Aufhebung der Immunität von Mitgliedern des Bundestages"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE015301377",
+          "paragraph" : "Anlage 7",
+          "title" : "Richtlinien für die Befragung der Bundesregierung"
+        },
+        {
+          "documentIdentifier" : "BJNR012380980BJNE015401140",
+          "paragraph" : "Anlage 8",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          12
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Abweichungen und Auslegung dieser Geschäftsordnung"
+    }
+  ]
+}

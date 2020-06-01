@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR279700012",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR279700012Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR279700012BJNE000202124",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR279700012BJNE000301124",
+          "paragraph" : "§ 2",
+          "title" : "Gebühren"
+        },
+        {
+          "documentIdentifier" : "BJNR279700012BJNE000401124",
+          "paragraph" : "§ 3",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR279700012BJNE000502124",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 2 Absatz 1)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

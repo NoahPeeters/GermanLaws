@@ -1,0 +1,658 @@
+{
+  "documentIdentifier" : "BJNR217400009",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR217400009BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR217400009BJNE000301123",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR217400009BJNE000401118",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Bestimmungen"
+    },
+    {
+      "documentIdentifier" : "BJNR217400009BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR217400009BJNE000502123",
+          "paragraph" : "§ 3",
+          "title" : "Anforderungen für die Vergütung"
+        },
+        {
+          "documentIdentifier" : "BJNR217400009BJNE000601118",
+          "paragraph" : "§ 4",
+          "title" : "Schutz von Flächen mit hohem Naturschutzwert"
+        },
+        {
+          "documentIdentifier" : "BJNR217400009BJNE000700000",
+          "paragraph" : "§ 5",
+          "title" : "Schutz von Flächen mit hohem Kohlenstoffbestand"
+        },
+        {
+          "documentIdentifier" : "BJNR217400009BJNE000800000",
+          "paragraph" : "§ 6",
+          "title" : "Schutz von Torfmoor"
+        },
+        {
+          "documentIdentifier" : "BJNR217400009BJNE000900000",
+          "paragraph" : "§ 7",
+          "title" : "Nachhaltige landwirtschaftliche Bewirtschaftung"
+        },
+        {
+          "documentIdentifier" : "BJNR217400009BJNE001002118",
+          "paragraph" : "§ 8",
+          "title" : "Treibhausgasminderung"
+        },
+        {
+          "documentIdentifier" : "BJNR217400009BJNE001202118",
+          "paragraph" : "§ 10",
+          "title" : "Bonus für nachwachsende Rohstoffe"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Nachhaltigkeitsanforderungen"
+    },
+    {
+      "documentIdentifier" : "BJNR217400009BJNG000300000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR217400009BJNG000400000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR217400009BJNE001302118",
+              "paragraph" : "§ 11",
+              "title" : "Nachweis über die Erfüllung der Anforderungen für die Vergütung"
+            },
+            {
+              "documentIdentifier" : "BJNR217400009BJNE001403118",
+              "paragraph" : "§ 12",
+              "title" : "Weitere Nachweise"
+            },
+            {
+              "documentIdentifier" : "BJNR217400009BJNE001502118",
+              "paragraph" : "§ 13",
+              "title" : "Übermittlung der Nachweise an die zuständige Behörde"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Allgemeine Bestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR217400009BJNG000500000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR217400009BJNE001601118",
+              "paragraph" : "§ 14",
+              "title" : "Anerkannte Nachweise"
+            },
+            {
+              "documentIdentifier" : "BJNR217400009BJNE001701118",
+              "paragraph" : "§ 15",
+              "title" : "Ausstellung von Nachhaltigkeitsnachweisen"
+            },
+            {
+              "documentIdentifier" : "BJNR217400009BJNE001803118",
+              "paragraph" : "§ 16",
+              "title" : "Ausstellung auf Grund von Massenbilanzsystemen"
+            },
+            {
+              "documentIdentifier" : "BJNR217400009BJNE001902118",
+              "paragraph" : "§ 17",
+              "title" : "Lieferung auf Grund von Massenbilanzsystemen"
+            },
+            {
+              "documentIdentifier" : "BJNR217400009BJNE002002118",
+              "paragraph" : "§ 18",
+              "title" : "Inhalt und Form der Nachhaltigkeitsnachweise"
+            },
+            {
+              "documentIdentifier" : "BJNR217400009BJNE002100000",
+              "paragraph" : "§ 19",
+              "title" : "Nachtrag fehlender Angaben"
+            },
+            {
+              "documentIdentifier" : "BJNR217400009BJNE002205118",
+              "paragraph" : "§ 20",
+              "title" : "Unwirksamkeit von Nachhaltigkeitsnachweisen"
+            },
+            {
+              "documentIdentifier" : "BJNR217400009BJNE002302118",
+              "paragraph" : "§ 21",
+              "title" : "Weitere Folgen fehlender oder nicht ausreichender Angaben"
+            },
+            {
+              "documentIdentifier" : "BJNR217400009BJNE002401118",
+              "paragraph" : "§ 22",
+              "title" : "Anerkannte Nachhaltigkeitsnachweise auf Grund der Biokraftstoff-Nachhaltigkeitsverordnung"
+            },
+            {
+              "documentIdentifier" : "BJNR217400009BJNE002501118",
+              "paragraph" : "§ 23",
+              "title" : "Weitere anerkannte Nachhaltigkeitsnachweise"
+            },
+            {
+              "documentIdentifier" : "BJNR217400009BJNE002602118",
+              "paragraph" : "§ 24",
+              "title" : "Nachhaltigkeits-Teilnachweise"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Nachhaltigkeitsnachweise"
+        },
+        {
+          "documentIdentifier" : "BJNR217400009BJNG000600000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR217400009BJNE002700000",
+              "paragraph" : "§ 25",
+              "title" : "Anerkannte Zertifikate"
+            },
+            {
+              "documentIdentifier" : "BJNR217400009BJNE002801118",
+              "paragraph" : "§ 26",
+              "title" : "Ausstellung von Zertifikaten"
+            },
+            {
+              "documentIdentifier" : "BJNR217400009BJNE002900000",
+              "paragraph" : "§ 27",
+              "title" : "Inhalt der Zertifikate"
+            },
+            {
+              "documentIdentifier" : "BJNR217400009BJNE003000000",
+              "paragraph" : "§ 28",
+              "title" : "Folgen fehlender Angaben"
+            },
+            {
+              "documentIdentifier" : "BJNR217400009BJNE003100000",
+              "paragraph" : "§ 29",
+              "title" : "Gültigkeit der Zertifikate"
+            },
+            {
+              "documentIdentifier" : "BJNR217400009BJNE003201118",
+              "paragraph" : "§ 30",
+              "title" : "Anerkannte Zertifikate auf Grund der Biokraftstoff-Nachhaltigkeitsverordnung"
+            },
+            {
+              "documentIdentifier" : "BJNR217400009BJNE003300000",
+              "paragraph" : "§ 31",
+              "title" : "Weitere anerkannte Zertifikate"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Zertifikate für Schnittstellen"
+        },
+        {
+          "documentIdentifier" : "BJNR217400009BJNG000700000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR217400009BJNE003400000",
+              "paragraph" : "§ 32",
+              "title" : "Anerkannte Zertifizierungssysteme"
+            },
+            {
+              "documentIdentifier" : "BJNR217400009BJNE003501118",
+              "paragraph" : "§ 33",
+              "title" : "Anerkennung von Zertifizierungssystemen"
+            },
+            {
+              "documentIdentifier" : "BJNR217400009BJNE003602360",
+              "paragraph" : "§ 34",
+              "title" : "Verfahren zur Anerkennung"
+            },
+            {
+              "documentIdentifier" : "BJNR217400009BJNE003700000",
+              "paragraph" : "§ 35",
+              "title" : "Inhalt der Anerkennung"
+            },
+            {
+              "documentIdentifier" : "BJNR217400009BJNE003800000",
+              "paragraph" : "§ 36",
+              "title" : "Nachträgliche Änderungen der Anerkennung"
+            },
+            {
+              "documentIdentifier" : "BJNR217400009BJNE003901360",
+              "paragraph" : "§ 37",
+              "title" : "Erlöschen der Anerkennung"
+            },
+            {
+              "documentIdentifier" : "BJNR217400009BJNE004000000",
+              "paragraph" : "§ 38",
+              "title" : "Widerruf der Anerkennung"
+            },
+            {
+              "documentIdentifier" : "BJNR217400009BJNE004100000",
+              "paragraph" : "§ 39",
+              "title" : "Berichte und Mitteilungen"
+            },
+            {
+              "documentIdentifier" : "BJNR217400009BJNE004201118",
+              "paragraph" : "§ 40",
+              "title" : "Anerkannte Zertifizierungssysteme auf Grund der Biokraftstoff-Nachhaltigkeitsverordnung"
+            },
+            {
+              "documentIdentifier" : "BJNR217400009BJNE004301118",
+              "paragraph" : "§ 41",
+              "title" : "Weitere anerkannte Zertifizierungssysteme"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Zertifizierungssysteme"
+        },
+        {
+          "documentIdentifier" : "BJNR217400009BJNG000800000",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              5
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR217400009BJNG000900000",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR217400009BJNE004400000",
+                  "paragraph" : "§ 42",
+                  "title" : "Anerkannte Zertifizierungsstellen"
+                },
+                {
+                  "documentIdentifier" : "BJNR217400009BJNE004501118",
+                  "paragraph" : "§ 43",
+                  "title" : "Anerkennung von Zertifizierungsstellen"
+                },
+                {
+                  "documentIdentifier" : "BJNR217400009BJNE004601360",
+                  "paragraph" : "§ 44",
+                  "title" : "Verfahren zur Anerkennung"
+                },
+                {
+                  "documentIdentifier" : "BJNR217400009BJNE004700000",
+                  "paragraph" : "§ 45",
+                  "title" : "Inhalt der Anerkennung"
+                },
+                {
+                  "documentIdentifier" : "BJNR217400009BJNE004801360",
+                  "paragraph" : "§ 46",
+                  "title" : "Erlöschen der Anerkennung"
+                },
+                {
+                  "documentIdentifier" : "BJNR217400009BJNE004900000",
+                  "paragraph" : "§ 47",
+                  "title" : "Widerruf der Anerkennung"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  3,
+                  5,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Anerkennung von Zertifizierungsstellen"
+            },
+            {
+              "documentIdentifier" : "BJNR217400009BJNG001000000",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR217400009BJNE005000000",
+                  "paragraph" : "§ 48",
+                  "title" : "Führen von Schnittstellenverzeichnissen"
+                },
+                {
+                  "documentIdentifier" : "BJNR217400009BJNE005101360",
+                  "paragraph" : "§ 49",
+                  "title" : "Kontrolle der Schnittstellen"
+                },
+                {
+                  "documentIdentifier" : "BJNR217400009BJNE005201360",
+                  "paragraph" : "§ 50",
+                  "title" : "Kontrolle des Anbaus"
+                },
+                {
+                  "documentIdentifier" : "BJNR217400009BJNE005300000",
+                  "paragraph" : "§ 51",
+                  "title" : "Kontrolle des Anbaus bei nachhaltiger landwirtschaftlicher Bewirtschaftung"
+                },
+                {
+                  "documentIdentifier" : "BJNR217400009BJNE005401118",
+                  "paragraph" : "§ 52",
+                  "title" : "Mitteilungen und Berichte über Kontrollen"
+                },
+                {
+                  "documentIdentifier" : "BJNR217400009BJNE005501118",
+                  "paragraph" : "§ 53",
+                  "title" : "Weitere Berichte und Mitteilungen"
+                },
+                {
+                  "documentIdentifier" : "BJNR217400009BJNE005600000",
+                  "paragraph" : "§ 54",
+                  "title" : "Aufbewahrung, Umgang mit Informationen"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  3,
+                  5,
+                  2
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Aufgaben von Zertifizierungsstellen"
+            },
+            {
+              "documentIdentifier" : "BJNR217400009BJNG001100000",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR217400009BJNE005702118",
+                  "paragraph" : "§ 55",
+                  "title" : "Kontrollen und Maßnahmen"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  3,
+                  5,
+                  3
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Überwachung von Zertifizierungsstellen"
+            },
+            {
+              "documentIdentifier" : "BJNR217400009BJNG001200000",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR217400009BJNE005801118",
+                  "paragraph" : "§ 56",
+                  "title" : "Anerkannte Zertifizierungsstellen auf Grund der Biokraftstoff-Nachhaltigkeitsverordnung"
+                },
+                {
+                  "documentIdentifier" : "BJNR217400009BJNE005901118",
+                  "paragraph" : "§ 57",
+                  "title" : "Weitere anerkannte Zertifizierungsstellen"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  3,
+                  5,
+                  4
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Weitere anerkannte Zertifizierungsstellen"
+            }
+          ],
+          "title" : "Zertifizierungsstellen"
+        },
+        {
+          "documentIdentifier" : "BJNR217400009BJNG001300000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR217400009BJNE006001118",
+              "paragraph" : "§ 58",
+              "title" : "(weggefallen)"
+            },
+            {
+              "documentIdentifier" : "BJNR217400009BJNE006101118",
+              "paragraph" : "§ 59",
+              "title" : "(weggefallen)"
+            },
+            {
+              "documentIdentifier" : "BJNR217400009BJNE006200000",
+              "paragraph" : "§ 60",
+              "title" : "Nachweis durch vorläufige Anerkennungen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              6
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Besondere und Übergangsbestimmungen zum Nachweis"
+        }
+      ],
+      "title" : "Nachweis"
+    },
+    {
+      "documentIdentifier" : "BJNR217400009BJNG001401116",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR217400009BJNE006301116",
+          "paragraph" : "§ 61",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR217400009BJNE006401116",
+          "paragraph" : "§ 62",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR217400009BJNE006501116",
+          "paragraph" : "§ 63",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR217400009BJNE006602116",
+          "paragraph" : "§ 64",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR217400009BJNE006702116",
+          "paragraph" : "§ 65",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR217400009BJNE006801116",
+          "paragraph" : "§ 66",
+          "title" : "Informationsregister"
+        },
+        {
+          "documentIdentifier" : "BJNR217400009BJNE006903118",
+          "paragraph" : "§ 67",
+          "title" : "Datenabgleich"
+        },
+        {
+          "documentIdentifier" : "BJNR217400009BJNE007001116",
+          "paragraph" : "§ 68",
+          "title" : "Maßnahmen der zuständigen Behörde"
+        },
+        {
+          "documentIdentifier" : "BJNR217400009BJNE007102116",
+          "paragraph" : "§ 69",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Zentrales Informationsregister"
+    },
+    {
+      "documentIdentifier" : "BJNR217400009BJNG001500000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR217400009BJNE007201118",
+          "paragraph" : "§ 70",
+          "title" : "Auskunftsrecht der zuständigen Behörde"
+        },
+        {
+          "documentIdentifier" : "BJNR217400009BJNE007300000",
+          "paragraph" : "§ 71",
+          "title" : "Berichtspflicht der zuständigen Behörde"
+        },
+        {
+          "documentIdentifier" : "BJNR217400009BJNE007401116",
+          "paragraph" : "§ 72",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR217400009BJNE007504118",
+          "paragraph" : "§ 73",
+          "title" : "Datenübermittlung"
+        },
+        {
+          "documentIdentifier" : "BJNR217400009BJNE007604118",
+          "paragraph" : "§ 74",
+          "title" : "Zuständigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR217400009BJNE007700000",
+          "paragraph" : "§ 75",
+          "title" : "Verfahren vor der zuständigen Behörde"
+        },
+        {
+          "documentIdentifier" : "BJNR217400009BJNE007802118",
+          "paragraph" : "§ 76",
+          "title" : "Muster und Vordrucke"
+        },
+        {
+          "documentIdentifier" : "BJNR217400009BJNE007901116",
+          "paragraph" : "§ 77",
+          "title" : "Außenverkehr"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Datenerhebung und -verarbeitung, Berichtspflichten, behördliches Verfahren"
+    },
+    {
+      "documentIdentifier" : "BJNR217400009BJNG001600000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR217400009BJNE008001377",
+          "paragraph" : "§ 78",
+          "title" : "Übergangsbestimmung"
+        },
+        {
+          "documentIdentifier" : "BJNR217400009BJNE008100000",
+          "paragraph" : "§ 79",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR217400009BJNE008203118",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 8 Absatz 2)"
+        },
+        {
+          "documentIdentifier" : "BJNR217400009BJNE008302118",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 8 Absatz 3)"
+        },
+        {
+          "documentIdentifier" : "BJNR217400009BJNE008401118",
+          "paragraph" : "Anlage 3",
+          "title" : "(zu § 18 Absatz 1 Nummer 8 Buchstabe f) Vorläufige geschätzte Emissionen infolge von indirekten Landnutzungsänderungen durch flüssige Biobrennstoffe (in g CO"
+        },
+        {
+          "documentIdentifier" : "BJNR217400009BJNE008605118",
+          "paragraph" : "Anlage 4",
+          "title" : "(zu § 33 Absatz 1, § 43 Absatz 1)"
+        },
+        {
+          "documentIdentifier" : "BJNR217400009BJNE008604118",
+          "paragraph" : "Anlage 5",
+          "title" : "(jetzt Anlage 4)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übergangs- und Schlussbestimmungen"
+    }
+  ]
+}

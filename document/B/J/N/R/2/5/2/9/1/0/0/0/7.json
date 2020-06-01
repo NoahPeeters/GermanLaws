@@ -1,0 +1,405 @@
+{
+  "documentIdentifier" : "BJNR252910007",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR252910007BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR252910007BJNE000201310",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR252910007BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Beginn des Verfahrens"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR252910007BJNG000200000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR252910007BJNG000300000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR252910007BJNE000400000",
+              "paragraph" : "§ 3",
+              "title" : "Beginn und Dauer der Regulierungsperioden"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Regulierungsperioden"
+        },
+        {
+          "documentIdentifier" : "BJNR252910007BJNG000400000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR252910007BJNE000510118",
+              "paragraph" : "§ 4",
+              "title" : "Erlösobergrenzen"
+            },
+            {
+              "documentIdentifier" : "BJNR252910007BJNE000609118",
+              "paragraph" : "§ 5",
+              "title" : "Regulierungskonto"
+            },
+            {
+              "documentIdentifier" : "BJNR252910007BJNE000703310",
+              "paragraph" : "§ 6",
+              "title" : "Bestimmung des Ausgangsniveaus der Erlösobergrenze und des Kapitalkostenabzugs"
+            },
+            {
+              "documentIdentifier" : "BJNR252910007BJNE000802310",
+              "paragraph" : "§ 7",
+              "title" : "Regulierungsformel"
+            },
+            {
+              "documentIdentifier" : "BJNR252910007BJNE000900000",
+              "paragraph" : "§ 8",
+              "title" : "Allgemeine Geldwertentwicklung"
+            },
+            {
+              "documentIdentifier" : "BJNR252910007BJNE001002310",
+              "paragraph" : "§ 9",
+              "title" : "Genereller sektoraler Produktivitätsfaktor"
+            },
+            {
+              "documentIdentifier" : "BJNR252910007BJNE001102301",
+              "paragraph" : "§ 10",
+              "title" : "Erweiterungsfaktor"
+            },
+            {
+              "documentIdentifier" : "BJNR252910007BJNE004001118",
+              "paragraph" : "§ 10a",
+              "title" : "Kapitalkostenaufschlag"
+            },
+            {
+              "documentIdentifier" : "BJNR252910007BJNE001218118",
+              "paragraph" : "§ 11",
+              "title" : "Beeinflussbare und nicht beeinflussbare Kostenanteile"
+            },
+            {
+              "documentIdentifier" : "BJNR252910007BJNE001301310",
+              "paragraph" : "§ 12",
+              "title" : "Effizienzvergleich"
+            },
+            {
+              "documentIdentifier" : "BJNR252910007BJNE004100310",
+              "paragraph" : "§ 12a",
+              "title" : "Effizienzbonus"
+            },
+            {
+              "documentIdentifier" : "BJNR252910007BJNE001401310",
+              "paragraph" : "§ 13",
+              "title" : "Parameter für den Effizienzvergleich"
+            },
+            {
+              "documentIdentifier" : "BJNR252910007BJNE001501310",
+              "paragraph" : "§ 14",
+              "title" : "Bestimmung der Kosten zur Durchführung des Effizienzvergleichs"
+            },
+            {
+              "documentIdentifier" : "BJNR252910007BJNE001601301",
+              "paragraph" : "§ 15",
+              "title" : "Ermittlung der Ineffizienzen"
+            },
+            {
+              "documentIdentifier" : "BJNR252910007BJNE001701310",
+              "paragraph" : "§ 16",
+              "title" : "Effizienzvorgaben"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Allgemeine Vorgaben zur Bestimmung der Erlösobergrenzen"
+        },
+        {
+          "documentIdentifier" : "BJNR252910007BJNG000501377",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR252910007BJNE001802377",
+              "paragraph" : "§ 17",
+              "title" : "(weggefallen)"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR252910007BJNG000600000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR252910007BJNE001900000",
+              "paragraph" : "§ 18",
+              "title" : "Qualitätsvorgaben"
+            },
+            {
+              "documentIdentifier" : "BJNR252910007BJNE002001310",
+              "paragraph" : "§ 19",
+              "title" : "Qualitätselement in der Regulierungsformel"
+            },
+            {
+              "documentIdentifier" : "BJNR252910007BJNE002100000",
+              "paragraph" : "§ 20",
+              "title" : "Bestimmung des Qualitätselements"
+            },
+            {
+              "documentIdentifier" : "BJNR252910007BJNE002200000",
+              "paragraph" : "§ 21",
+              "title" : "Bericht zum Investitionsverhalten"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Qualitätsvorgaben"
+        }
+      ],
+      "title" : "Allgemeine Vorschriften zur Anreizregulierung"
+    },
+    {
+      "documentIdentifier" : "BJNR252910007BJNG000700000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR252910007BJNG000800000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR252910007BJNE002301310",
+              "paragraph" : "§ 22",
+              "title" : "Sondervorschriften für den Effizienzvergleich"
+            },
+            {
+              "documentIdentifier" : "BJNR252910007BJNE002411377",
+              "paragraph" : "§ 23",
+              "title" : "Investitionsmaßnahmen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Betreiber von Übertragungs- und Fernleitungsnetzen"
+        },
+        {
+          "documentIdentifier" : "BJNR252910007BJNG000900000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR252910007BJNE002503310",
+              "paragraph" : "§ 24",
+              "title" : "Vereinfachtes Verfahren"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Besondere Vorschriften für kleine Netzbetreiber"
+        },
+        {
+          "documentIdentifier" : "BJNR252910007BJNG001002310",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR252910007BJNE002601310",
+              "paragraph" : "§ 25",
+              "title" : "(weggefallen)"
+            },
+            {
+              "documentIdentifier" : "BJNR252910007BJNE003902310",
+              "paragraph" : "§ 25a",
+              "title" : "Forschungs- und Entwicklungskosten"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Forschungs- und Entwicklungskosten"
+        },
+        {
+          "documentIdentifier" : "BJNR252910007BJNG001100000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR252910007BJNE002701310",
+              "paragraph" : "§ 26",
+              "title" : "Übergang von Netzen, Netzzusammenschlüsse und -aufspaltungen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Übergang von Netzen, Netzzusammenschlüsse und -aufspaltungen"
+        }
+      ],
+      "title" : "Besondere Vorschriften zur Anreizregulierung"
+    },
+    {
+      "documentIdentifier" : "BJNR252910007BJNG001200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR252910007BJNE002803310",
+          "paragraph" : "§ 27",
+          "title" : "Datenerhebung"
+        },
+        {
+          "documentIdentifier" : "BJNR252910007BJNE002904377",
+          "paragraph" : "§ 28",
+          "title" : "Mitteilungspflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR252910007BJNE003002310",
+          "paragraph" : "§ 29",
+          "title" : "Übermittlung von Daten"
+        },
+        {
+          "documentIdentifier" : "BJNR252910007BJNE003100000",
+          "paragraph" : "§ 30",
+          "title" : "Fehlende oder unzureichende Daten"
+        },
+        {
+          "documentIdentifier" : "BJNR252910007BJNE003203118",
+          "paragraph" : "§ 31",
+          "title" : "Veröffentlichung von Daten"
+        },
+        {
+          "documentIdentifier" : "BJNR252910007BJNE003307118",
+          "paragraph" : "§ 32",
+          "title" : "Festlegungen oder Genehmigungen der Regulierungsbehörde"
+        },
+        {
+          "documentIdentifier" : "BJNR252910007BJNE003404118",
+          "paragraph" : "§ 33",
+          "title" : "Evaluierung und Berichte der Bundesnetzagentur"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Sonstige Bestimmungen"
+    },
+    {
+      "documentIdentifier" : "BJNR252910007BJNG001300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR252910007BJNE003507118",
+          "paragraph" : "§ 34",
+          "title" : "Übergangsregelungen"
+        },
+        {
+          "documentIdentifier" : "BJNR252910007BJNE003604310",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 7)"
+        },
+        {
+          "documentIdentifier" : "BJNR252910007BJNE003701301",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 10)"
+        },
+        {
+          "documentIdentifier" : "BJNR252910007BJNE004201118",
+          "paragraph" : "Anlage 2a",
+          "title" : "(zu § 6)"
+        },
+        {
+          "documentIdentifier" : "BJNR252910007BJNE003801310",
+          "paragraph" : "Anlage 3",
+          "title" : "(zu § 12)"
+        },
+        {
+          "documentIdentifier" : "BJNR252910007BJNE004300310",
+          "paragraph" : "Anlage 4",
+          "title" : "(zu § 26)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussvorschriften"
+    }
+  ]
+}

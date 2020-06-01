@@ -1,0 +1,109 @@
+{
+  "documentIdentifier" : "BJNR140200993",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR140200993BJNG000100307",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Erlaubnis"
+    },
+    {
+      "documentIdentifier" : "BJNR140200993BJNG000200307",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Ausbildung"
+    },
+    {
+      "documentIdentifier" : "BJNR140200993BJNG000300307",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR140200993BJNG000700310",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Erbringen von Dienstleistungen"
+        }
+      ],
+      "title" : "Vorbehaltene Tätigkeiten"
+    },
+    {
+      "documentIdentifier" : "BJNR140200993BJNG000400307",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Zuständigkeiten"
+    },
+    {
+      "documentIdentifier" : "BJNR140200993BJNG000500307",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Bußgeldvorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR140200993BJNG000600307",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übergangs- und Schlußvorschriften"
+    }
+  ]
+}

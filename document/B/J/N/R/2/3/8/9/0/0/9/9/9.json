@@ -1,0 +1,87 @@
+{
+  "documentIdentifier" : "BJNR238900999",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR238900999BJNG000101140",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR238900999BJNE000501140",
+          "paragraph" : "§ 1",
+          "title" : "Beginn der Ladezeit"
+        },
+        {
+          "documentIdentifier" : "BJNR238900999BJNE000601140",
+          "paragraph" : "§ 2",
+          "title" : "Dauer der Ladezeit"
+        },
+        {
+          "documentIdentifier" : "BJNR238900999BJNE000701140",
+          "paragraph" : "§ 3",
+          "title" : "Löschzeit"
+        },
+        {
+          "documentIdentifier" : "BJNR238900999BJNE000801140",
+          "paragraph" : "§ 4",
+          "title" : "Liegegeld"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Trockenschifffahrt"
+    },
+    {
+      "documentIdentifier" : "BJNR238900999BJNG000201140",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR238900999BJNE000901140",
+          "paragraph" : "§ 5",
+          "title" : "Beginn der Lade- und Löschzeit"
+        },
+        {
+          "documentIdentifier" : "BJNR238900999BJNE001002140",
+          "paragraph" : "§ 6",
+          "title" : "Dauer der Lade- und Löschzeit"
+        },
+        {
+          "documentIdentifier" : "BJNR238900999BJNE001102140",
+          "paragraph" : "§ 7",
+          "title" : "Liegegeld"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Tankschifffahrt"
+    },
+    {
+      "documentIdentifier" : "BJNR238900999BJNG000301140",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR238900999BJNE001201140",
+          "paragraph" : "§ 8",
+          "title" : "(Inkrafttreten)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inkrafttreten"
+    }
+  ]
+}

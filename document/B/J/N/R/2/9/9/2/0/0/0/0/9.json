@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR299200009",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR299200009Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR299200009BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR299200009BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Aufenthaltsräume"
+        },
+        {
+          "documentIdentifier" : "BJNR299200009BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Schallschutzanforderungen"
+        },
+        {
+          "documentIdentifier" : "BJNR299200009BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Einhaltung der Anforderungen"
+        },
+        {
+          "documentIdentifier" : "BJNR299200009BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Erstattung von Aufwendungen für bauliche Schallschutzmaßnahmen"
+        },
+        {
+          "documentIdentifier" : "BJNR299200009BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Zugänglichkeit der Normblätter"
+        },
+        {
+          "documentIdentifier" : "BJNR299200009BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR251000003",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR251000003Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR251000003BJNE000205116",
+          "paragraph" : "§ 1",
+          "title" : "Grundsatz"
+        },
+        {
+          "documentIdentifier" : "BJNR251000003BJNE000303116",
+          "paragraph" : "§ 2",
+          "title" : "Gebühren bei Ablehnung oder Rücknahme eines Antrags"
+        },
+        {
+          "documentIdentifier" : "BJNR251000003BJNE000405116",
+          "paragraph" : "§ 3",
+          "title" : "Ermäßigungen"
+        },
+        {
+          "documentIdentifier" : "BJNR251000003BJNE000504116",
+          "paragraph" : "§ 4",
+          "title" : "Anrechnung von Kosten für Sachverständige"
+        },
+        {
+          "documentIdentifier" : "BJNR251000003BJNE000605116",
+          "paragraph" : "§ 5",
+          "title" : "Übergangsvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR251000003BJNE000701116",
+          "paragraph" : "§ 6",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR251000003BJNE000805116",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 1)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

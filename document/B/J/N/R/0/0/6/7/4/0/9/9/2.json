@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR006740992",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR006740992Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR006740992BJNE000201308",
+          "paragraph" : "Art 1",
+          "title" : "Aufhebung des Strukturhilfegesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR006740992BJNE000400314",
+          "paragraph" : "Art 4",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

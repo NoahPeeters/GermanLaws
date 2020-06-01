@@ -1,0 +1,73 @@
+{
+  "documentIdentifier" : "BJNR007770965",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR007770965BJNG000100328",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR007770965BJNE000500328",
+          "paragraph" : "§ 1",
+          "title" : "Steuerfreie Rücklage für neue Kraftwerke"
+        },
+        {
+          "documentIdentifier" : "BJNR007770965BJNE000600328",
+          "paragraph" : "§ 2",
+          "title" : "Sondervorschriften beim Betrieb mehrerer\nKraftwerke"
+        },
+        {
+          "documentIdentifier" : "BJNR007770965BJNE000701301",
+          "paragraph" : "§ 3",
+          "title" : "Auflösung der steuerfreien Rücklage"
+        },
+        {
+          "documentIdentifier" : "BJNR007770965BJNE000800328",
+          "paragraph" : "§ 4",
+          "title" : "Erweiterung, Kesselerneuerung und Umstellung\nbestehender Kraftwerke"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Steuern vom Einkommen"
+    },
+    {
+      "documentIdentifier" : "BJNR007770965BJNG000200328",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Vermögensteuer und Gewerbesteuer"
+    },
+    {
+      "documentIdentifier" : "BJNR007770965BJNG000300328",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR007770965BJNE001100328",
+          "paragraph" : "§ 7",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlußvorschriften"
+    }
+  ]
+}

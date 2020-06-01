@@ -1,0 +1,135 @@
+{
+  "documentIdentifier" : "BJNR380300017",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR380300017BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR380300017BJNE000201311",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschrift"
+    },
+    {
+      "documentIdentifier" : "BJNR380300017BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR380300017BJNE000301000",
+          "paragraph" : "§ 2",
+          "title" : "Anforderungen an elektronische Dokumente"
+        },
+        {
+          "documentIdentifier" : "BJNR380300017BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Überschreitung der Höchstgrenzen"
+        },
+        {
+          "documentIdentifier" : "BJNR380300017BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Übermittlung elektronischer Dokumente mit qualifizierter elektronischer Signatur"
+        },
+        {
+          "documentIdentifier" : "BJNR380300017BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Bekanntmachung technischer Anforderungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Technische Rahmenbedingungen des elektronischen Rechtsverkehrs"
+    },
+    {
+      "documentIdentifier" : "BJNR380300017BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR380300017BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Besonderes elektronisches Behördenpostfach; Anforderungen"
+        },
+        {
+          "documentIdentifier" : "BJNR380300017BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Identifizierungsverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR380300017BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Zugang und Zugangsberechtigung; Verwaltung"
+        },
+        {
+          "documentIdentifier" : "BJNR380300017BJNE001000000",
+          "paragraph" : "§ 9",
+          "title" : "Änderung und Löschung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Besonderes elektronisches Behördenpostfach"
+    },
+    {
+      "documentIdentifier" : "BJNR380300017BJNG000500311",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR380300017BJNE001300311",
+          "paragraph" : "§ 10",
+          "title" : "Schriftlich abzufassende, zu unterschreibende oder zu unterzeichnende Dokumente"
+        },
+        {
+          "documentIdentifier" : "BJNR380300017BJNE001400311",
+          "paragraph" : "§ 11",
+          "title" : "Sonstige verfahrensbezogene elektronische Dokumente"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Elektronischer Rechtsverkehr mit Strafverfolgungsbehörden und Strafgerichten"
+    },
+    {
+      "documentIdentifier" : "BJNR380300017BJNG000401311",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR380300017BJNE001101311",
+          "paragraph" : "§ 12",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussvorschrift"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "documentIdentifier" : "BJNR000120938",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR000120938BJNG000100303",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Art I"
+    },
+    {
+      "documentIdentifier" : "BJNR000120938BJNG000200303",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Art II"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "documentIdentifier" : "BJNR152000005",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR152000005BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR152000005BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Besondere Eignung von Masterstudiengängen"
+        },
+        {
+          "documentIdentifier" : "BJNR152000005BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Anerkennungsgrundlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR152000005BJNE000401360",
+          "paragraph" : "§ 3",
+          "title" : "Anforderungen an den Zugang zum Masterstudiengang und dessen Ausgestaltung"
+        },
+        {
+          "documentIdentifier" : "BJNR152000005BJNE000503118",
+          "paragraph" : "§ 4",
+          "title" : "Referenzrahmen"
+        },
+        {
+          "documentIdentifier" : "BJNR152000005BJNE000602118",
+          "paragraph" : "§ 5",
+          "title" : "Akkreditierung"
+        },
+        {
+          "documentIdentifier" : "BJNR152000005BJNE000701118",
+          "paragraph" : "§ 6",
+          "title" : "Anrechnung von Leistungen aus dem Masterstudiengang auf das Wirtschaftsprüfungsexamen und Anrechnungsverfahren"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Anerkennung von Studiengängen (§ 8a der Wirtschaftsprüferordnung)"
+    },
+    {
+      "documentIdentifier" : "BJNR152000005BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR152000005BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Voraussetzungen der Anrechnung"
+        },
+        {
+          "documentIdentifier" : "BJNR152000005BJNE000901118",
+          "paragraph" : "§ 8",
+          "title" : "Bestätigung der Gleichwertigkeit an die Hochschule"
+        },
+        {
+          "documentIdentifier" : "BJNR152000005BJNE001003118",
+          "paragraph" : "§ 9",
+          "title" : "Anrechnung auf das Wirtschaftsprüfungsexamen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Verkürzte Prüfung nach Anrechnung gleichwertiger Prüfungsleistungen (§ 13b der Wirtschaftsprüferordnung)"
+    },
+    {
+      "documentIdentifier" : "BJNR152000005BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR152000005BJNE001101377",
+          "paragraph" : "§ 10",
+          "title" : "Übergangsvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR152000005BJNE001200000",
+          "paragraph" : "§ 11",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussbestimmungen"
+    }
+  ]
+}

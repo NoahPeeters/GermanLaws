@@ -1,0 +1,74 @@
+{
+  "documentIdentifier" : "BJNR010110977",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR010110977Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR010110977BJNE000200311",
+          "paragraph" : "§ 1",
+          "title" : "Flugdienst"
+        },
+        {
+          "documentIdentifier" : "BJNR010110977BJNE000300311",
+          "paragraph" : "§ 2",
+          "title" : "Besonders gefährdetes fliegendes Personal"
+        },
+        {
+          "documentIdentifier" : "BJNR010110977BJNE000400311",
+          "paragraph" : "§ 3",
+          "title" : "Besonders gefährlicher Auftrag, Flug- oder Betriebszustand"
+        },
+        {
+          "documentIdentifier" : "BJNR010110977BJNE000500311",
+          "paragraph" : "§ 4",
+          "title" : "Helm- und Schwimmtaucher"
+        },
+        {
+          "documentIdentifier" : "BJNR010110977BJNE000600311",
+          "paragraph" : "§ 5",
+          "title" : "Beamte im Bergrettungsdienst"
+        },
+        {
+          "documentIdentifier" : "BJNR010110977BJNE000700311",
+          "paragraph" : "§ 6",
+          "title" : "Munitionsuntersuchungspersonal"
+        },
+        {
+          "documentIdentifier" : "BJNR010110977BJNE000801310",
+          "paragraph" : "§ 7",
+          "title" : "Angehörige von Verbänden für besondere polizeiliche\nEinsätze"
+        },
+        {
+          "documentIdentifier" : "BJNR010110977BJNE001200306",
+          "paragraph" : "§ 8",
+          "title" : "Einsatz beim Ein- oder Aushängen von Außenlasten bei einem\nDrehflügelflugzeug"
+        },
+        {
+          "documentIdentifier" : "BJNR010110977BJNE000901306",
+          "paragraph" : "§ 9",
+          "title" : "Andere Angehörige des öffentlichen Dienstes"
+        },
+        {
+          "documentIdentifier" : "BJNR010110977BJNE001001306",
+          "paragraph" : "§ 10",
+          "title" : "Berlin-Klausel"
+        },
+        {
+          "documentIdentifier" : "BJNR010110977BJNE001101306",
+          "paragraph" : "§ 11",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

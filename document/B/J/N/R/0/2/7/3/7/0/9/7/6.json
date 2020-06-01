@@ -1,0 +1,625 @@
+{
+  "documentIdentifier" : "BJNR027370976",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR027370976BJNG000101377",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR027370976BJNE001108118",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR027370976BJNE008500118",
+          "paragraph" : "§ 1a",
+          "title" : "Ausnahmen für Behörden und sonstige Einrichtungen des Bundes und der Länder und für deren Bedienstete sowie für Bedienstete anderer Staaten; Verordnungsermächtigungen"
+        },
+        {
+          "documentIdentifier" : "BJNR027370976BJNE008600118",
+          "paragraph" : "§ 1b",
+          "title" : "Ausnahmen für den Umgang und den Verkehr mit sowie für die Einfuhr, für die Durchfuhr und für die Beförderung von explosionsgefährlichen Stoffen"
+        },
+        {
+          "documentIdentifier" : "BJNR027370976BJNE001206118",
+          "paragraph" : "§ 2",
+          "title" : "Anwendung auf neue sonstige explosionsgefährliche Stoffe"
+        },
+        {
+          "documentIdentifier" : "BJNR027370976BJNE001305118",
+          "paragraph" : "§ 3",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR027370976BJNE011000118",
+          "paragraph" : "§ 3a",
+          "title" : "Kategorien von pyrotechnischen Gegenständen und pyrotechnischen Sätzen; Klassen von Wettersprengstoffen und Wettersprengschnüren"
+        },
+        {
+          "documentIdentifier" : "BJNR027370976BJNE001404118",
+          "paragraph" : "§ 4",
+          "title" : "Verordnungsermächtigung, Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR027370976BJNE001505118",
+          "paragraph" : "§ 5",
+          "title" : "Konformitätsnachweis und CE-Kennzeichnung für Explosivstoffe und pyrotechnische Gegenstände"
+        },
+        {
+          "documentIdentifier" : "BJNR027370976BJNE006605118",
+          "paragraph" : "§ 5a",
+          "title" : "Ausnahmen vom Erfordernis des Konformitätsnachweises und der CE-Kennzeichnung"
+        },
+        {
+          "documentIdentifier" : "BJNR027370976BJNE008700118",
+          "paragraph" : "§ 5b",
+          "title" : "Konformitätsbewertung für Explosivstoffe und pyrotechnische Gegenstände vor dem Inverkehrbringen; Baumusterprüfung; Einzelprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR027370976BJNE008800118",
+          "paragraph" : "§ 5c",
+          "title" : "Konformitätsbewertung für Explosivstoffe und pyrotechnische Gegenstände in der Serienfertigung; Qualitätssicherungsverfahren; CE-Kennzeichnung"
+        },
+        {
+          "documentIdentifier" : "BJNR027370976BJNE008900118",
+          "paragraph" : "§ 5d",
+          "title" : "Aufbewahrungspflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR027370976BJNE009000118",
+          "paragraph" : "§ 5e",
+          "title" : "Benannte Stellen"
+        },
+        {
+          "documentIdentifier" : "BJNR027370976BJNE009100118",
+          "paragraph" : "§ 5f",
+          "title" : "Zulassung von sonstigen explosionsgefährlichen Stoffen und Sprengzubehör"
+        },
+        {
+          "documentIdentifier" : "BJNR027370976BJNE009200118",
+          "paragraph" : "§ 5g",
+          "title" : "Ausnahmen vom Zulassungserfordernis für sonstige explosionsgefährliche Stoffe und Sprengzubehör"
+        },
+        {
+          "documentIdentifier" : "BJNR027370976BJNE001608118",
+          "paragraph" : "§ 6",
+          "title" : "Ermächtigungen, Sachverständigenausschuss"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR027370976BJNG000202377",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR027370976BJNE001702377",
+          "paragraph" : "§ 7",
+          "title" : "Erlaubnis"
+        },
+        {
+          "documentIdentifier" : "BJNR027370976BJNE001804377",
+          "paragraph" : "§ 8",
+          "title" : "Versagung der Erlaubnis"
+        },
+        {
+          "documentIdentifier" : "BJNR027370976BJNE007702360",
+          "paragraph" : "§ 8a",
+          "title" : "Zuverlässigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR027370976BJNE007800377",
+          "paragraph" : "§ 8b",
+          "title" : "Persönliche Eignung, Begutachtung"
+        },
+        {
+          "documentIdentifier" : "BJNR027370976BJNE007900377",
+          "paragraph" : "§ 8c",
+          "title" : "Pflichten des Gutachters"
+        },
+        {
+          "documentIdentifier" : "BJNR027370976BJNE001903118",
+          "paragraph" : "§ 9",
+          "title" : "Fachkunde"
+        },
+        {
+          "documentIdentifier" : "BJNR027370976BJNE002002377",
+          "paragraph" : "§ 10",
+          "title" : "Inhalt der Erlaubnis"
+        },
+        {
+          "documentIdentifier" : "BJNR027370976BJNE002101377",
+          "paragraph" : "§ 11",
+          "title" : "Erlöschen der Erlaubnis"
+        },
+        {
+          "documentIdentifier" : "BJNR027370976BJNE002205118",
+          "paragraph" : "§ 12",
+          "title" : "Fortführung des Betriebs"
+        },
+        {
+          "documentIdentifier" : "BJNR027370976BJNE002303377",
+          "paragraph" : "§ 13",
+          "title" : "Befreiung von der Erlaubnispflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR027370976BJNE002402377",
+          "paragraph" : "§ 14",
+          "title" : "Anzeigepflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR027370976BJNE002509118",
+          "paragraph" : "§ 15",
+          "title" : "Einfuhr, Durchfuhr und Verbringen"
+        },
+        {
+          "documentIdentifier" : "BJNR027370976BJNE010500118",
+          "paragraph" : "§ 15a",
+          "title" : "Verfahren der Genehmigung des Verbringens von Explosivstoffen"
+        },
+        {
+          "documentIdentifier" : "BJNR027370976BJNE002603118",
+          "paragraph" : "§ 16",
+          "title" : "Aufzeichnungspflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR027370976BJNE009300118",
+          "paragraph" : "§ 16a",
+          "title" : "Kennzeichnung von Explosivstoffen"
+        },
+        {
+          "documentIdentifier" : "BJNR027370976BJNE009400118",
+          "paragraph" : "§ 16b",
+          "title" : "Pflichten des Herstellers von Explosivstoffen und pyrotechnischen Gegenständen"
+        },
+        {
+          "documentIdentifier" : "BJNR027370976BJNE009500118",
+          "paragraph" : "§ 16c",
+          "title" : "Kennzeichnungspflicht des Herstellers von Explosivstoffen und pyrotechnischen Gegenständen; Gebrauchsanleitung; Registrierungsnummer"
+        },
+        {
+          "documentIdentifier" : "BJNR027370976BJNE009600118",
+          "paragraph" : "§ 16d",
+          "title" : "Bevollmächtigung durch den Hersteller von Explosivstoffen"
+        },
+        {
+          "documentIdentifier" : "BJNR027370976BJNE009700118",
+          "paragraph" : "§ 16e",
+          "title" : "Maßnahmen des Herstellers von Explosivstoffen und pyrotechnischen Gegenständen bei Nichtkonformität"
+        },
+        {
+          "documentIdentifier" : "BJNR027370976BJNE009800118",
+          "paragraph" : "§ 16f",
+          "title" : "Pflichten des Einführers von Explosivstoffen und pyrotechnischen Gegenständen"
+        },
+        {
+          "documentIdentifier" : "BJNR027370976BJNE009900118",
+          "paragraph" : "§ 16g",
+          "title" : "Kennzeichnungspflicht des Einführers; Registrierungsnummer; Aufbewahrungspflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR027370976BJNE010000118",
+          "paragraph" : "§ 16h",
+          "title" : "Weitere Pflichten des Einführers"
+        },
+        {
+          "documentIdentifier" : "BJNR027370976BJNE010100118",
+          "paragraph" : "§ 16i",
+          "title" : "Pflichten des Händlers"
+        },
+        {
+          "documentIdentifier" : "BJNR027370976BJNE010200118",
+          "paragraph" : "§ 16j",
+          "title" : "Herstellerpflichten der Einführer und Händler"
+        },
+        {
+          "documentIdentifier" : "BJNR027370976BJNE010300118",
+          "paragraph" : "§ 16k",
+          "title" : "Pflichten der Wirtschaftsakteure gegenüber der zuständigen Behörde"
+        },
+        {
+          "documentIdentifier" : "BJNR027370976BJNE010400118",
+          "paragraph" : "§ 16l",
+          "title" : "Identifizierung und Angaben der Wirtschaftsakteure"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Umgang und Verkehr im gewerblichen Bereich; Einfuhr, Durchfuhr und Aufzeichnungspflicht"
+    },
+    {
+      "documentIdentifier" : "BJNR027370976BJNG000301377",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR027370976BJNE002702377",
+          "paragraph" : "§ 17",
+          "title" : "Lagergenehmigung"
+        },
+        {
+          "documentIdentifier" : "BJNR027370976BJNE002801377",
+          "paragraph" : "§ 18",
+          "title" : "Ermächtigungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Aufbewahrung"
+    },
+    {
+      "documentIdentifier" : "BJNR027370976BJNG000401377",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR027370976BJNE002904377",
+          "paragraph" : "§ 19",
+          "title" : "Verantwortliche Personen"
+        },
+        {
+          "documentIdentifier" : "BJNR027370976BJNE003001377",
+          "paragraph" : "§ 20",
+          "title" : "Befähigungsschein"
+        },
+        {
+          "documentIdentifier" : "BJNR027370976BJNE003104377",
+          "paragraph" : "§ 21",
+          "title" : "Bestellung verantwortlicher Personen"
+        },
+        {
+          "documentIdentifier" : "BJNR027370976BJNE003204118",
+          "paragraph" : "§ 22",
+          "title" : "Vertrieb und Überlassen"
+        },
+        {
+          "documentIdentifier" : "BJNR027370976BJNE003302377",
+          "paragraph" : "§ 23",
+          "title" : "Mitführen von Urkunden"
+        },
+        {
+          "documentIdentifier" : "BJNR027370976BJNE003405118",
+          "paragraph" : "§ 24",
+          "title" : "Schutzvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR027370976BJNE003504377",
+          "paragraph" : "§ 25",
+          "title" : "Ermächtigung zum Erlass von Schutzvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR027370976BJNE003602377",
+          "paragraph" : "§ 26",
+          "title" : "Anzeigepflicht"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Verantwortliche Personen und ihre Pflichten"
+    },
+    {
+      "documentIdentifier" : "BJNR027370976BJNG000502377",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR027370976BJNE003703377",
+          "paragraph" : "§ 27",
+          "title" : "Erlaubnis zum Erwerb und zum Umgang"
+        },
+        {
+          "documentIdentifier" : "BJNR027370976BJNE003803118",
+          "paragraph" : "§ 28",
+          "title" : "Anwendbare Vorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR027370976BJNE003902377",
+          "paragraph" : "§ 29",
+          "title" : "Ermächtigungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Umgang und Verkehr im nicht gewerblichen Bereich"
+    },
+    {
+      "documentIdentifier" : "BJNR027370976BJNG000602377",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR027370976BJNG001100118",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR027370976BJNE004002377",
+              "paragraph" : "§ 30",
+              "title" : "Allgemeine Überwachung"
+            },
+            {
+              "documentIdentifier" : "BJNR027370976BJNE004102377",
+              "paragraph" : "§ 31",
+              "title" : "Auskunft, Nachschau"
+            },
+            {
+              "documentIdentifier" : "BJNR027370976BJNE004205377",
+              "paragraph" : "§ 32",
+              "title" : "Anordnungen der zuständigen Behörden"
+            },
+            {
+              "documentIdentifier" : "BJNR027370976BJNE007605118",
+              "paragraph" : "§ 32a",
+              "title" : "(weggefallen)"
+            },
+            {
+              "documentIdentifier" : "BJNR027370976BJNE004303377",
+              "paragraph" : "§ 33",
+              "title" : "Beschäftigungsverbot"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              6,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Allgemeine Bestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR027370976BJNG001200118",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR027370976BJNE010600118",
+              "paragraph" : "§ 33a",
+              "title" : "Bestimmungen des Europäischen Rechts über die Marktüberwachung; Unterrichtungen"
+            },
+            {
+              "documentIdentifier" : "BJNR027370976BJNE010700118",
+              "paragraph" : "§ 33b",
+              "title" : "Maßnahmen bei mangelhaften explosionsgefährlichen Stoffen und mangelhaftem Sprengzubehör"
+            },
+            {
+              "documentIdentifier" : "BJNR027370976BJNE010800118",
+              "paragraph" : "§ 33c",
+              "title" : "Maßnahmen bei Information durch andere Mitgliedstaaten der Europäischen Union über Explosivstoffe oder pyrotechnische Gegenstände; Aufhebung oder Änderung getroffener Maßnahmen"
+            },
+            {
+              "documentIdentifier" : "BJNR027370976BJNE010900118",
+              "paragraph" : "§ 33d",
+              "title" : "Weitere Maßnahmen im Rahmen der Marktüberwachung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              6,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Marktüberwachung"
+        }
+      ],
+      "title" : "Überwachung des Umgangs und des Verkehrs"
+    },
+    {
+      "documentIdentifier" : "BJNR027370976BJNG000701377",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR027370976BJNE004404377",
+          "paragraph" : "§ 34",
+          "title" : "Rücknahme und Widerruf"
+        },
+        {
+          "documentIdentifier" : "BJNR027370976BJNE004502118",
+          "paragraph" : "§ 35",
+          "title" : "Abhandenkommen des Erlaubnisbescheides und des Befähigungsscheines"
+        },
+        {
+          "documentIdentifier" : "BJNR027370976BJNE004605118",
+          "paragraph" : "§ 36",
+          "title" : "Zuständige Behörden"
+        },
+        {
+          "documentIdentifier" : "BJNR027370976BJNE004708301",
+          "paragraph" : "§ 37",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR027370976BJNE004806377",
+          "paragraph" : "§ 38",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR027370976BJNE004909118",
+          "paragraph" : "§ 39",
+          "title" : "Beteiligung beim Erlass von Rechtsverordnungen"
+        },
+        {
+          "documentIdentifier" : "BJNR027370976BJNE008000377",
+          "paragraph" : "§ 39a",
+          "title" : "Datenübermittlung an und von Meldebehörden"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Sonstige Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR027370976BJNG000801377",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR027370976BJNE005006118",
+          "paragraph" : "§ 40",
+          "title" : "Strafbarer Umgang und Verkehr sowie strafbare Einfuhr"
+        },
+        {
+          "documentIdentifier" : "BJNR027370976BJNE005107118",
+          "paragraph" : "§ 41",
+          "title" : "Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR027370976BJNE005205118",
+          "paragraph" : "§ 42",
+          "title" : "Strafbare Verletzung von Schutzvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR027370976BJNE005301377",
+          "paragraph" : "§ 43",
+          "title" : "Einziehung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          8
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Straf- und Bußgeldvorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR027370976BJNG000901377",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR027370976BJNE005411301",
+          "paragraph" : "§ 44",
+          "title" : "Rechtsstellung der Bundesanstalt"
+        },
+        {
+          "documentIdentifier" : "BJNR027370976BJNE005503377",
+          "paragraph" : "§ 45",
+          "title" : "Aufgaben der Bundesanstalt"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          9
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Bundesanstalt für Materialforschung und -prüfung"
+    },
+    {
+      "documentIdentifier" : "BJNR027370976BJNG001001377",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR027370976BJNE005601377",
+          "paragraph" : "§ 46",
+          "title" : "Fortgeltung erteilter Erlaubnisse"
+        },
+        {
+          "documentIdentifier" : "BJNR027370976BJNE005705377",
+          "paragraph" : "§ 47",
+          "title" : "Übergangsvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR027370976BJNE008100377",
+          "paragraph" : "§ 47a",
+          "title" : "Übergangsvorschrift zu den §§ 8 bis 8b und 34"
+        },
+        {
+          "documentIdentifier" : "BJNR027370976BJNE008305301",
+          "paragraph" : "§ 47b",
+          "title" : "Übergangsvorschrift zur Kostenordnung zum Sprengstoffrecht"
+        },
+        {
+          "documentIdentifier" : "BJNR027370976BJNE005801377",
+          "paragraph" : "§ 48",
+          "title" : "Bereits errichtete Sprengstofflager"
+        },
+        {
+          "documentIdentifier" : "BJNR027370976BJNE005903377",
+          "paragraph" : "§ 49",
+          "title" : "Anwendbarkeit anderer Vorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR027370976BJNE006001377",
+          "paragraph" : "§ 50",
+          "title" : "(Änderung anderer Vorschriften)"
+        },
+        {
+          "documentIdentifier" : "BJNR027370976BJNE006101377",
+          "paragraph" : "§ 51",
+          "title" : "Nicht mehr anwendbare Vorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR027370976BJNE006202377",
+          "paragraph" : "§ 52",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR027370976BJNE006301377",
+          "paragraph" : "§ 53",
+          "title" : "(Inkrafttreten)"
+        },
+        {
+          "documentIdentifier" : "BJNR027370976BJNE006403118",
+          "paragraph" : "Anlage I",
+          "title" : "(zu § 15a Absatz 1 und 3) "
+        },
+        {
+          "documentIdentifier" : "BJNR027370976BJNE006804118",
+          "paragraph" : "Anlage III",
+          "title" : "(zu § 3 Absatz 1 Nummer 2 Buchstabe b)"
+        },
+        {
+          "documentIdentifier" : "BJNR027370976BJNE008202377",
+          "paragraph" : "Anlage IV",
+          "title" : "Gegenstände, die durch Entscheidung einer benannten Stelle den Explosivstoffen zugeordnet werden können (§ 3 Abs. 1 Satz 2, Anhang II der Richtlinie 2004\/57\/EG)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          10
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übergangs- und Schlussvorschriften"
+    }
+  ]
+}

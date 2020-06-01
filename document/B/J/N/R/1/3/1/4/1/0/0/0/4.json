@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR131410004",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR131410004Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR131410004BJNE000102360",
+          "paragraph" : "§ 1",
+          "title" : "Beginn des Verfahrens"
+        },
+        {
+          "documentIdentifier" : "BJNR131410004BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Verfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR131410004BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Verhandlung der Schlichtungskommission"
+        },
+        {
+          "documentIdentifier" : "BJNR131410004BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Beschlüsse der Schlichtungskommission"
+        },
+        {
+          "documentIdentifier" : "BJNR131410004BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Entscheidung der Schlichtungskommission"
+        },
+        {
+          "documentIdentifier" : "BJNR131410004BJNE000600000",
+          "paragraph" : "§ 6",
+          "title" : "Geschäftsstelle"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

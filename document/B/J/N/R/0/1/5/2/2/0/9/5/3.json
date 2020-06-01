@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR015220953",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR015220953Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR015220953BJNE000200306",
+          "paragraph" : "§ 1",
+          "title" : "Festsetzung eines späteren Stichtags"
+        },
+        {
+          "documentIdentifier" : "BJNR015220953BJNE000300306",
+          "paragraph" : "§ 2",
+          "title" : "Land Berlin"
+        },
+        {
+          "documentIdentifier" : "BJNR015220953BJNE000400306",
+          "paragraph" : "§ 3",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

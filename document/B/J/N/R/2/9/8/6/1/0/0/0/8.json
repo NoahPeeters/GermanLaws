@@ -1,0 +1,206 @@
+{
+  "documentIdentifier" : "BJNR298610008",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR298610008BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR298610008BJNE000201360",
+          "paragraph" : "§ 1",
+          "title" : "Aufgabe und Leitvorstellung der Raumordnung"
+        },
+        {
+          "documentIdentifier" : "BJNR298610008BJNE000301360",
+          "paragraph" : "§ 2",
+          "title" : "Grundsätze der Raumordnung"
+        },
+        {
+          "documentIdentifier" : "BJNR298610008BJNE000401360",
+          "paragraph" : "§ 3",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR298610008BJNE000501360",
+          "paragraph" : "§ 4",
+          "title" : "Bindungswirkung der Erfordernisse der Raumordnung"
+        },
+        {
+          "documentIdentifier" : "BJNR298610008BJNE000601360",
+          "paragraph" : "§ 5",
+          "title" : "Beschränkung der Bindungswirkung nach § 4"
+        },
+        {
+          "documentIdentifier" : "BJNR298610008BJNE000701360",
+          "paragraph" : "§ 6",
+          "title" : "Ausnahmen und Zielabweichung"
+        },
+        {
+          "documentIdentifier" : "BJNR298610008BJNE000801360",
+          "paragraph" : "§ 7",
+          "title" : "Allgemeine Vorschriften über Raumordnungspläne"
+        },
+        {
+          "documentIdentifier" : "BJNR298610008BJNE001001360",
+          "paragraph" : "§ 8",
+          "title" : "Umweltprüfung bei der Aufstellung von Raumordnungsplänen"
+        },
+        {
+          "documentIdentifier" : "BJNR298610008BJNE001102116",
+          "paragraph" : "§ 9",
+          "title" : "Beteiligung bei der Aufstellung von Raumordnungsplänen"
+        },
+        {
+          "documentIdentifier" : "BJNR298610008BJNE001201360",
+          "paragraph" : "§ 10",
+          "title" : "Bekanntmachung von Raumordnungsplänen; Bereithaltung von Raumordnungsplänen und von Unterlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR298610008BJNE001301360",
+          "paragraph" : "§ 11",
+          "title" : "Planerhaltung"
+        },
+        {
+          "documentIdentifier" : "BJNR298610008BJNE003300360",
+          "paragraph" : "§ 12",
+          "title" : "Untersagung raumbedeutsamer Planungen und Maßnahmen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR298610008BJNG000500360",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR298610008BJNE003400360",
+          "paragraph" : "§ 13",
+          "title" : "Landesweite Raumordnungspläne, Regionalpläne und regionale Flächennutzungspläne"
+        },
+        {
+          "documentIdentifier" : "BJNR298610008BJNE001401360",
+          "paragraph" : "§ 14",
+          "title" : "Raumordnerische Zusammenarbeit"
+        },
+        {
+          "documentIdentifier" : "BJNR298610008BJNE001601360",
+          "paragraph" : "§ 15",
+          "title" : "Raumordnungsverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR298610008BJNE001701360",
+          "paragraph" : "§ 16",
+          "title" : "Beschleunigtes Raumordnungsverfahren; Absehen von Raumordnungsverfahren"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Raumordnung in den Ländern"
+    },
+    {
+      "documentIdentifier" : "BJNR298610008BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR298610008BJNE001802360",
+          "paragraph" : "§ 17",
+          "title" : "Raumordnungspläne für die deutsche ausschließliche Wirtschaftszone und für den Gesamtraum"
+        },
+        {
+          "documentIdentifier" : "BJNR298610008BJNE001901360",
+          "paragraph" : "§ 18",
+          "title" : "Beteiligung bei der Aufstellung von Raumordnungsplänen des Bundes"
+        },
+        {
+          "documentIdentifier" : "BJNR298610008BJNE002202360",
+          "paragraph" : "§ 19",
+          "title" : "Zielabweichung bei Raumordnungsplänen des Bundes"
+        },
+        {
+          "documentIdentifier" : "BJNR298610008BJNE002302360",
+          "paragraph" : "§ 20",
+          "title" : "Untersagung raumbedeutsamer Planungen und Maßnahmen bei Raumordnungsplänen des Bundes"
+        },
+        {
+          "documentIdentifier" : "BJNR298610008BJNE002402360",
+          "paragraph" : "§ 21",
+          "title" : "Ermächtigung zum Erlass von Rechtsverordnungen"
+        },
+        {
+          "documentIdentifier" : "BJNR298610008BJNE003500360",
+          "paragraph" : "§ 22",
+          "title" : "Zuständigkeiten des Bundesamtes für Bauwesen und Raumordnung"
+        },
+        {
+          "documentIdentifier" : "BJNR298610008BJNE002502360",
+          "paragraph" : "§ 23",
+          "title" : "Beirat für Raumentwicklung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Raumordnung im Bund"
+    },
+    {
+      "documentIdentifier" : "BJNR298610008BJNG000401360",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR298610008BJNE002702360",
+          "paragraph" : "§ 24",
+          "title" : "Zusammenarbeit von Bund und Ländern"
+        },
+        {
+          "documentIdentifier" : "BJNR298610008BJNE003600360",
+          "paragraph" : "§ 25",
+          "title" : "Beteiligung bei der Aufstellung von Raumordnungsplänen der Nachbarstaaten"
+        },
+        {
+          "documentIdentifier" : "BJNR298610008BJNE002802360",
+          "paragraph" : "§ 26",
+          "title" : "Gebühren und Auslagen"
+        },
+        {
+          "documentIdentifier" : "BJNR298610008BJNE002901360",
+          "paragraph" : "§ 27",
+          "title" : "Anwendungsvorschrift für die Raumordnung in den Ländern"
+        },
+        {
+          "documentIdentifier" : "BJNR298610008BJNE003101360",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 8 Abs. 1)"
+        },
+        {
+          "documentIdentifier" : "BJNR298610008BJNE003204116",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 8 Abs. 2)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Ergänzende Vorschriften und Schlussvorschriften"
+    }
+  ]
+}

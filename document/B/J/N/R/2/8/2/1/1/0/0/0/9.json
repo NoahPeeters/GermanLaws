@@ -1,0 +1,164 @@
+{
+  "documentIdentifier" : "BJNR282110009",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR282110009Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR282110009BJNE000101116",
+          "paragraph" : "§ 1",
+          "title" : "Bundesamt für Sicherheit in der Informationstechnik"
+        },
+        {
+          "documentIdentifier" : "BJNR282110009BJNE000203116",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR282110009BJNE000303116",
+          "paragraph" : "§ 3",
+          "title" : "Aufgaben des Bundesamtes"
+        },
+        {
+          "documentIdentifier" : "BJNR282110009BJNE002300116",
+          "paragraph" : "§ 3a",
+          "title" : "Verarbeitung personenbezogener Daten"
+        },
+        {
+          "documentIdentifier" : "BJNR282110009BJNE000401116",
+          "paragraph" : "§ 4",
+          "title" : "Zentrale Meldestelle für die Sicherheit in der Informationstechnik des Bundes"
+        },
+        {
+          "documentIdentifier" : "BJNR282110009BJNE000503116",
+          "paragraph" : "§ 5",
+          "title" : "Abwehr von Schadprogrammen und Gefahren für die Kommunikationstechnik des Bundes"
+        },
+        {
+          "documentIdentifier" : "BJNR282110009BJNE002001116",
+          "paragraph" : "§ 5a",
+          "title" : "Wiederherstellung der Sicherheit oder Funktionsfähigkeit informationstechnischer Systeme in herausgehobenen Fällen"
+        },
+        {
+          "documentIdentifier" : "BJNR282110009BJNE000601116",
+          "paragraph" : "§ 6",
+          "title" : "Beschränkungen der Rechte der betroffenen Person"
+        },
+        {
+          "documentIdentifier" : "BJNR282110009BJNE002400116",
+          "paragraph" : "§ 6a",
+          "title" : "Informationspflicht bei Erhebung von personenbezogenen Daten"
+        },
+        {
+          "documentIdentifier" : "BJNR282110009BJNE002500116",
+          "paragraph" : "§ 6b",
+          "title" : "Auskunftsrecht der betroffenen Person"
+        },
+        {
+          "documentIdentifier" : "BJNR282110009BJNE002600116",
+          "paragraph" : "§ 6c",
+          "title" : "Recht auf Berichtigung"
+        },
+        {
+          "documentIdentifier" : "BJNR282110009BJNE002700116",
+          "paragraph" : "§ 6d",
+          "title" : "Recht auf Löschung"
+        },
+        {
+          "documentIdentifier" : "BJNR282110009BJNE002800116",
+          "paragraph" : "§ 6e",
+          "title" : "Recht auf Einschränkung der Verarbeitung"
+        },
+        {
+          "documentIdentifier" : "BJNR282110009BJNE002900116",
+          "paragraph" : "§ 6f",
+          "title" : "Widerspruchsrecht"
+        },
+        {
+          "documentIdentifier" : "BJNR282110009BJNE000701116",
+          "paragraph" : "§ 7",
+          "title" : "Warnungen"
+        },
+        {
+          "documentIdentifier" : "BJNR282110009BJNE001301116",
+          "paragraph" : "§ 7a",
+          "title" : "Untersuchung der Sicherheit in der Informationstechnik"
+        },
+        {
+          "documentIdentifier" : "BJNR282110009BJNE000801116",
+          "paragraph" : "§ 8",
+          "title" : "Vorgaben des Bundesamtes"
+        },
+        {
+          "documentIdentifier" : "BJNR282110009BJNE001401116",
+          "paragraph" : "§ 8a",
+          "title" : "Sicherheit in der Informationstechnik Kritischer Infrastrukturen"
+        },
+        {
+          "documentIdentifier" : "BJNR282110009BJNE001502116",
+          "paragraph" : "§ 8b",
+          "title" : "Zentrale Stelle für die Sicherheit in der Informationstechnik Kritischer Infrastrukturen"
+        },
+        {
+          "documentIdentifier" : "BJNR282110009BJNE002100116",
+          "paragraph" : "§ 8c",
+          "title" : "Besondere Anforderungen an Anbieter digitaler Dienste"
+        },
+        {
+          "documentIdentifier" : "BJNR282110009BJNE001602116",
+          "paragraph" : "§ 8d",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR282110009BJNE001701116",
+          "paragraph" : "§ 8e",
+          "title" : "Auskunftsverlangen"
+        },
+        {
+          "documentIdentifier" : "BJNR282110009BJNE000900000",
+          "paragraph" : "§ 9",
+          "title" : "Zertifizierung"
+        },
+        {
+          "documentIdentifier" : "BJNR282110009BJNE001009116",
+          "paragraph" : "§ 10",
+          "title" : "Ermächtigung zum Erlass von Rechtsverordnungen"
+        },
+        {
+          "documentIdentifier" : "BJNR282110009BJNE001101116",
+          "paragraph" : "§ 11",
+          "title" : "Einschränkung von Grundrechten"
+        },
+        {
+          "documentIdentifier" : "BJNR282110009BJNE001200000",
+          "paragraph" : "§ 12",
+          "title" : "Rat der IT-Beauftragten der Bundesregierung"
+        },
+        {
+          "documentIdentifier" : "BJNR282110009BJNE001801116",
+          "paragraph" : "§ 13",
+          "title" : "Berichtspflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR282110009BJNE001901116",
+          "paragraph" : "§ 14",
+          "title" : "Bußgeldvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR282110009BJNE002200116",
+          "paragraph" : "§ 15",
+          "title" : "Anwendbarkeit der Vorschriften für Anbieter digitaler Dienste"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

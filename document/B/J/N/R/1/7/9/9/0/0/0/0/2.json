@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR179900002",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR179900002Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR179900002BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Anpassung des aktuellen Rentenwerts und des aktuellen Rentenwerts (Ost)"
+        },
+        {
+          "documentIdentifier" : "BJNR179900002BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Anpassungsfaktor in der Unfallversicherung"
+        },
+        {
+          "documentIdentifier" : "BJNR179900002BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Pflegegeld in der Unfallversicherung"
+        },
+        {
+          "documentIdentifier" : "BJNR179900002BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Anpassung des allgemeinen Rentenwerts und des allgemeinen Rentenwerts\n(Ost) in der Alterssicherung der Landwirte"
+        },
+        {
+          "documentIdentifier" : "BJNR179900002BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

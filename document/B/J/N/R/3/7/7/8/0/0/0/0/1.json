@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR377800001",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR377800001Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR377800001BJNE000200305",
+          "paragraph" : "§ 1",
+          "title" : "Grenze des Freihafens"
+        },
+        {
+          "documentIdentifier" : "BJNR377800001BJNE000300305",
+          "paragraph" : "§ 2",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR377800001BJNE000401140",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 1)"
+        },
+        {
+          "documentIdentifier" : "BJNR377800001BJNE000501140",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 1)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

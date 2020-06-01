@@ -1,0 +1,107 @@
+{
+  "documentIdentifier" : "BJNR018769976",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR018769976BJNE000300325",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          0
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "-"
+    },
+    {
+      "documentIdentifier" : "BJNR018769976BJNG000100325",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Änderung des Gesetzes über die Errichtung einer Stiftung \"Hilfswerk für behinderte Kinder\""
+    },
+    {
+      "documentIdentifier" : "BJNR018769976BJNG000200325",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR018769976BJNE000400325",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR018769976BJNE000500325",
+              "laws" : [
+
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2
+                ]
+              },
+              "subsections" : [
+                {
+                  "documentIdentifier" : "BJNR018769976BJNE000600325",
+                  "laws" : [
+
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      2
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Art 2"
+                }
+              ],
+              "title" : "Art 2"
+            }
+          ],
+          "title" : "Art 2"
+        }
+      ],
+      "title" : "Übergangs- und Schlußbestimmungen"
+    },
+    {
+      "documentIdentifier" : "BJNR018769976BJNE000700325",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "-"
+    }
+  ]
+}

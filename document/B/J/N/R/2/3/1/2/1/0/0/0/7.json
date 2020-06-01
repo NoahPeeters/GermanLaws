@@ -1,0 +1,59 @@
+{
+  "documentIdentifier" : "BJNR231210007",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR231210007Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR231210007BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR231210007BJNE000202310",
+          "paragraph" : "§ 2",
+          "title" : "Erfassung von Lichtbild und Fingerabdrücken; dezentrale Qualitätssicherung"
+        },
+        {
+          "documentIdentifier" : "BJNR231210007BJNE000304310",
+          "paragraph" : "§ 3",
+          "title" : "Übermittlung der Daten an den Passhersteller"
+        },
+        {
+          "documentIdentifier" : "BJNR231210007BJNE000402310",
+          "paragraph" : "§ 4",
+          "title" : "Zertifizierung"
+        },
+        {
+          "documentIdentifier" : "BJNR231210007BJNE000501310",
+          "paragraph" : "§ 5",
+          "title" : "Qualitätsstatistik"
+        },
+        {
+          "documentIdentifier" : "BJNR231210007BJNE000703310",
+          "paragraph" : "§ 6",
+          "title" : "Übergangsregelungen"
+        },
+        {
+          "documentIdentifier" : "BJNR231210007BJNE000801310",
+          "paragraph" : "Anlage 1",
+          "title" : "Übersicht über die Technischen Richtlinien des Bundesamtes für Sicherheit in der Informationstechnik"
+        },
+        {
+          "documentIdentifier" : "BJNR231210007BJNE000900310",
+          "paragraph" : "Anlage 2",
+          "title" : "Übersicht über die zu zertifizierenden Systemkomponenten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

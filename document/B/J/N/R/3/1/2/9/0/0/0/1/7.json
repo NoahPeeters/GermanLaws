@@ -1,0 +1,265 @@
+{
+  "documentIdentifier" : "BJNR312900017",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR312900017BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR312900017BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR312900017BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeines"
+    },
+    {
+      "documentIdentifier" : "BJNR312900017BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR312900017BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Allgemeine Festlegungen"
+        },
+        {
+          "documentIdentifier" : "BJNR312900017BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Entwicklung von IT-Verfahren und Software"
+        },
+        {
+          "documentIdentifier" : "BJNR312900017BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Einsatz der IT-Verfahren und der Software"
+        },
+        {
+          "documentIdentifier" : "BJNR312900017BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Pflege und Wartung der IT-Verfahren und der Software"
+        },
+        {
+          "documentIdentifier" : "BJNR312900017BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Produktiver Betrieb der IT-Verfahren und der Software"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Grundsätze des Zusammenwirkens"
+    },
+    {
+      "documentIdentifier" : "BJNR312900017BJNG000300000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR312900017BJNG000400000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR312900017BJNE000900000",
+              "paragraph" : "§ 8",
+              "title" : "Auftraggeber-Gremium"
+            },
+            {
+              "documentIdentifier" : "BJNR312900017BJNE001000000",
+              "paragraph" : "§ 9",
+              "title" : "Steuerungsgruppe Informationstechnik"
+            },
+            {
+              "documentIdentifier" : "BJNR312900017BJNE001100000",
+              "paragraph" : "§ 10",
+              "title" : "Geschäftsstelle Informationstechnik"
+            },
+            {
+              "documentIdentifier" : "BJNR312900017BJNE001200000",
+              "paragraph" : "§ 11",
+              "title" : "Auftrag nehmendes Land"
+            },
+            {
+              "documentIdentifier" : "BJNR312900017BJNE001300000",
+              "paragraph" : "§ 12",
+              "title" : "Übernehmendes Land"
+            },
+            {
+              "documentIdentifier" : "BJNR312900017BJNE001400000",
+              "paragraph" : "§ 13",
+              "title" : "Gesamtleitung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Verantwortung und Kompetenzen"
+        },
+        {
+          "documentIdentifier" : "BJNR312900017BJNG000500000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR312900017BJNE001500000",
+              "paragraph" : "§ 14",
+              "title" : "Zentrale Organisationseinheiten"
+            },
+            {
+              "documentIdentifier" : "BJNR312900017BJNE001600000",
+              "paragraph" : "§ 15",
+              "title" : "Vorhabensmanagement"
+            },
+            {
+              "documentIdentifier" : "BJNR312900017BJNE001700000",
+              "paragraph" : "§ 16",
+              "title" : "Architekturmanagement"
+            },
+            {
+              "documentIdentifier" : "BJNR312900017BJNE001800000",
+              "paragraph" : "§ 17",
+              "title" : "Release- und Einsatzmanagement"
+            },
+            {
+              "documentIdentifier" : "BJNR312900017BJNE001900000",
+              "paragraph" : "§ 18",
+              "title" : "Qualitätsmanagement"
+            },
+            {
+              "documentIdentifier" : "BJNR312900017BJNE002000000",
+              "paragraph" : "§ 19",
+              "title" : "Anforderungsmanagement"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Zentrale Organisationseinheiten"
+        },
+        {
+          "documentIdentifier" : "BJNR312900017BJNG000600000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR312900017BJNE002100000",
+              "paragraph" : "§ 20",
+              "title" : "Allgemeine Festlegungen zum Projektmanagement"
+            },
+            {
+              "documentIdentifier" : "BJNR312900017BJNE002200000",
+              "paragraph" : "§ 21",
+              "title" : "Multiprojektmanagement"
+            },
+            {
+              "documentIdentifier" : "BJNR312900017BJNE002300000",
+              "paragraph" : "§ 22",
+              "title" : "Entwicklungsprogramme und -projekte"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Projektstrukturen"
+        }
+      ],
+      "title" : "Organisationsstruktur des Gesamtvorhabens KONSENS"
+    },
+    {
+      "documentIdentifier" : "BJNR312900017BJNG000700000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR312900017BJNE002400000",
+          "paragraph" : "§ 23",
+          "title" : "Umlagefähige Aufwendungen"
+        },
+        {
+          "documentIdentifier" : "BJNR312900017BJNE002500000",
+          "paragraph" : "§ 24",
+          "title" : "Verteilung der umlagefähigen Aufwendungen, Bundeszuschuss"
+        },
+        {
+          "documentIdentifier" : "BJNR312900017BJNE002600000",
+          "paragraph" : "§ 25",
+          "title" : "Budget"
+        },
+        {
+          "documentIdentifier" : "BJNR312900017BJNE002700000",
+          "paragraph" : "§ 26",
+          "title" : "Zahlungsverfahren"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Budget und Kostentragung"
+    },
+    {
+      "documentIdentifier" : "BJNR312900017BJNG000800000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR312900017BJNE002800000",
+          "paragraph" : "§ 27",
+          "title" : "Nutzungsrecht"
+        },
+        {
+          "documentIdentifier" : "BJNR312900017BJNE002900000",
+          "paragraph" : "§ 28",
+          "title" : "Haftung"
+        },
+        {
+          "documentIdentifier" : "BJNR312900017BJNE003000000",
+          "paragraph" : "§ 29",
+          "title" : "Anwendungs- und Übergangsregelung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übergangs- und Schlussvorschriften"
+    }
+  ]
+}

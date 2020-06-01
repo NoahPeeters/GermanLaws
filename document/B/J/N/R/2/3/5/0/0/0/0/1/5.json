@@ -1,0 +1,123 @@
+{
+  "documentIdentifier" : "BJNR235000015",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR235000015BJNG000100116",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR235000015BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Förderungsfähige Vorhaben"
+        },
+        {
+          "documentIdentifier" : "BJNR235000015BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Förderungsfähige Kosten"
+        },
+        {
+          "documentIdentifier" : "BJNR235000015BJNE000401116",
+          "paragraph" : "§ 3",
+          "title" : "Verwaltungsaufgaben des Bundesamtes für Soziale Sicherung"
+        },
+        {
+          "documentIdentifier" : "BJNR235000015BJNE000501116",
+          "paragraph" : "§ 4",
+          "title" : "Antragstellung"
+        },
+        {
+          "documentIdentifier" : "BJNR235000015BJNE000601116",
+          "paragraph" : "§ 5",
+          "title" : "Nachverteilung"
+        },
+        {
+          "documentIdentifier" : "BJNR235000015BJNE000701116",
+          "paragraph" : "§ 6",
+          "title" : "Auszahlungsbescheide des Bundesamtes für Soziale Sicherung"
+        },
+        {
+          "documentIdentifier" : "BJNR235000015BJNE000801116",
+          "paragraph" : "§ 7",
+          "title" : "Rückforderung und Verzinsung von Fördermitteln"
+        },
+        {
+          "documentIdentifier" : "BJNR235000015BJNE000902116",
+          "paragraph" : "§ 8",
+          "title" : "Auswertung der Wirkungen der Förderung"
+        },
+        {
+          "documentIdentifier" : "BJNR235000015BJNE001001116",
+          "paragraph" : "§ 9",
+          "title" : "Bewirtschaftung der Fördermittel"
+        },
+        {
+          "documentIdentifier" : "BJNR235000015BJNE001101116",
+          "paragraph" : "§ 10",
+          "title" : "Beteiligung der privaten Krankenversicherung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Förderung nach § 12 des Krankenhausfinanzierungsgesetzes"
+    },
+    {
+      "documentIdentifier" : "BJNR235000015BJNG000200116",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR235000015BJNE001201116",
+          "paragraph" : "§ 11",
+          "title" : "Förderungsfähige Vorhaben"
+        },
+        {
+          "documentIdentifier" : "BJNR235000015BJNE001400116",
+          "paragraph" : "§ 12",
+          "title" : "Förderungsfähige Kosten"
+        },
+        {
+          "documentIdentifier" : "BJNR235000015BJNE001500116",
+          "paragraph" : "§ 13",
+          "title" : "Verwaltungsaufgaben des Bundesversicherungsamts"
+        },
+        {
+          "documentIdentifier" : "BJNR235000015BJNE001600116",
+          "paragraph" : "§ 14",
+          "title" : "Antragstellung"
+        },
+        {
+          "documentIdentifier" : "BJNR235000015BJNE001700116",
+          "paragraph" : "§ 15",
+          "title" : "Auszahlungsbescheide des Bundesversicherungsamts"
+        },
+        {
+          "documentIdentifier" : "BJNR235000015BJNE001800116",
+          "paragraph" : "§ 16",
+          "title" : "Rückforderung, Verzinsung und Bewirtschaftung von Fördermitteln"
+        },
+        {
+          "documentIdentifier" : "BJNR235000015BJNE001900116",
+          "paragraph" : "§ 17",
+          "title" : "Auswertung der Wirkungen der Förderung"
+        },
+        {
+          "documentIdentifier" : "BJNR235000015BJNE002000116",
+          "paragraph" : "§ 18",
+          "title" : "Beteiligung der privaten Krankenversicherung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Förderung nach § 12a des Krankenhausfinanzierungsgesetzes"
+    }
+  ]
+}

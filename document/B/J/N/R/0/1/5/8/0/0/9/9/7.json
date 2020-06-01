@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR015800997",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR015800997Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR015800997BJNE000300305",
+          "paragraph" : "Art 2",
+          "title" : "Neufassung des Heimgesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR015800997BJNE000400305",
+          "paragraph" : "Art 3",
+          "title" : "Übergangsvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR015800997BJNE000600305",
+          "paragraph" : "Art 5",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

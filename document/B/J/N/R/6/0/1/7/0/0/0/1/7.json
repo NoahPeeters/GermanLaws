@@ -1,0 +1,412 @@
+{
+  "documentIdentifier" : "BJNR601700017",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR601700017BJNG000100000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR601700017BJNG000200000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR601700017BJNE000200000",
+              "paragraph" : "§ 1",
+              "title" : "Geltungsbereich"
+            },
+            {
+              "documentIdentifier" : "BJNR601700017BJNE000300000",
+              "paragraph" : "§ 2",
+              "title" : "Verantwortung der Fahrzeugführer"
+            },
+            {
+              "documentIdentifier" : "BJNR601700017BJNE000400000",
+              "paragraph" : "§ 3",
+              "title" : "Anweisungen und Anordnungen"
+            },
+            {
+              "documentIdentifier" : "BJNR601700017BJNE000500000",
+              "paragraph" : "§ 4",
+              "title" : "Betreten der Fahrzeuge durch Personen in dienstlichem Auftrag"
+            },
+            {
+              "documentIdentifier" : "BJNR601700017BJNE000600000",
+              "paragraph" : "§ 5",
+              "title" : "Verhalten im Hafengebiet"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Allgemeine Vorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR601700017BJNG000300000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR601700017BJNE000700000",
+              "paragraph" : "§ 6",
+              "title" : "Erlaubnis zum Einlaufen"
+            },
+            {
+              "documentIdentifier" : "BJNR601700017BJNE000800000",
+              "paragraph" : "§ 7",
+              "title" : "An- und Abmeldung der Fahrzeuge"
+            },
+            {
+              "documentIdentifier" : "BJNR601700017BJNE000900000",
+              "paragraph" : "§ 8",
+              "title" : "Loswerfen bei Gefahr im Verzuge"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Einlaufen, An- und Abmeldepflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR601700017BJNG000400000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR601700017BJNE001000000",
+              "paragraph" : "§ 9",
+              "title" : "Anweisung der Liegeplätze"
+            },
+            {
+              "documentIdentifier" : "BJNR601700017BJNE001100000",
+              "paragraph" : "§ 10",
+              "title" : "Ankern"
+            },
+            {
+              "documentIdentifier" : "BJNR601700017BJNE001200000",
+              "paragraph" : "§ 11",
+              "title" : "Auflegen von Fahrzeugen"
+            },
+            {
+              "documentIdentifier" : "BJNR601700017BJNE001300000",
+              "paragraph" : "§ 12",
+              "title" : "Festmachen von Fahrzeugen"
+            },
+            {
+              "documentIdentifier" : "BJNR601700017BJNE001400000",
+              "paragraph" : "§ 13",
+              "title" : "Maschinenprobe"
+            },
+            {
+              "documentIdentifier" : "BJNR601700017BJNE001500000",
+              "paragraph" : "§ 14",
+              "title" : "Vorsichtsmaßnahmen auf Fahrzeugen"
+            },
+            {
+              "documentIdentifier" : "BJNR601700017BJNE001600000",
+              "paragraph" : "§ 15",
+              "title" : "Reinhaltung des Hafens"
+            },
+            {
+              "documentIdentifier" : "BJNR601700017BJNE001700000",
+              "paragraph" : "§ 16",
+              "title" : "Verkehrsstörende Einrichtungen"
+            },
+            {
+              "documentIdentifier" : "BJNR601700017BJNE001800000",
+              "paragraph" : "§ 17",
+              "title" : "Landgänge"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Benutzung der Liegeplätze"
+        },
+        {
+          "documentIdentifier" : "BJNR601700017BJNG000500000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR601700017BJNE001900000",
+              "paragraph" : "§ 18",
+              "title" : "Laden und Löschen"
+            },
+            {
+              "documentIdentifier" : "BJNR601700017BJNE002000000",
+              "paragraph" : "§ 19",
+              "title" : "Benutzung von Anlegebrücken"
+            },
+            {
+              "documentIdentifier" : "BJNR601700017BJNE002100000",
+              "paragraph" : "§ 20",
+              "title" : "Verhalten von Landfahrzeugen im Hafen"
+            },
+            {
+              "documentIdentifier" : "BJNR601700017BJNE002200000",
+              "paragraph" : "§ 21",
+              "title" : "Benutzung der Rettungsgeräte"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Benutzung von Hafenanlage"
+        },
+        {
+          "documentIdentifier" : "BJNR601700017BJNG000600000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR601700017BJNE002300000",
+              "paragraph" : "§ 22",
+              "title" : "Bemannung und Bewachung der Fahrzeuge"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              5
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Schiffsverkehr im Hafen"
+        },
+        {
+          "documentIdentifier" : "BJNR601700017BJNG000700000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR601700017BJNE002400000",
+              "paragraph" : "§ 23",
+              "title" : "Sicherheitsvorschriften"
+            },
+            {
+              "documentIdentifier" : "BJNR601700017BJNE002500000",
+              "paragraph" : "§ 24",
+              "title" : "Sondervorschriften für Fahrzeuge mit feuergefährlicher Ladung"
+            },
+            {
+              "documentIdentifier" : "BJNR601700017BJNE002600000",
+              "paragraph" : "§ 25",
+              "title" : "Übernahme flüssiger Treibstoffe"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              6
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Sicherheitsvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR601700017BJNG000800000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR601700017BJNE002701124",
+              "paragraph" : "§ 26",
+              "title" : "(weggefallen)"
+            },
+            {
+              "documentIdentifier" : "BJNR601700017BJNE002801124",
+              "paragraph" : "§ 27",
+              "title" : "(weggefallen)"
+            },
+            {
+              "documentIdentifier" : "BJNR601700017BJNE002901124",
+              "paragraph" : "§ 28",
+              "title" : "(weggefallen)"
+            },
+            {
+              "documentIdentifier" : "BJNR601700017BJNE003001124",
+              "paragraph" : "§ 29",
+              "title" : "(weggefallen)"
+            },
+            {
+              "documentIdentifier" : "BJNR601700017BJNE003101124",
+              "paragraph" : "§ 30",
+              "title" : "(weggefallen)"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              7
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Besondere Vorschriften für die einzelnen Häfen"
+        }
+      ],
+      "title" : "Schutz- und Sicherheitshäfen"
+    },
+    {
+      "documentIdentifier" : "BJNR601700017BJNG000900000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR601700017BJNG001000000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR601700017BJNE003200000",
+              "paragraph" : "§ 31",
+              "title" : "Geltungsbereich"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Allgemeine Vorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR601700017BJNG001100000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR601700017BJNE003300000",
+              "paragraph" : "§ 32",
+              "title" : "Häfen Eckernförde, Kiel, Flensburg-Mürwik, Neustadt, Warnemünde, Parow, Bremerhaven"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Vorschriften für einzelne Häfen"
+        },
+        {
+          "documentIdentifier" : "BJNR601700017BJNG001200000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR601700017BJNE003400000",
+              "paragraph" : "§ 33",
+              "title" : "Allgemeines"
+            },
+            {
+              "documentIdentifier" : "BJNR601700017BJNE003500000",
+              "paragraph" : "§ 34",
+              "title" : "Benutzungsbestimmungen für den Neuen Vorhafen"
+            },
+            {
+              "documentIdentifier" : "BJNR601700017BJNE003600000",
+              "paragraph" : "§ 35",
+              "title" : "Benutzerbestimmungen für die Seeschleuse"
+            },
+            {
+              "documentIdentifier" : "BJNR601700017BJNE003700000",
+              "paragraph" : "§ 36",
+              "title" : "Signale"
+            },
+            {
+              "documentIdentifier" : "BJNR601700017BJNE003800000",
+              "paragraph" : "§ 37",
+              "title" : "Verbote im Hafenbereich"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Besondere Vorschriften für den Hafen Wilhelmshaven"
+        }
+      ],
+      "title" : "Häfen der Deutschen Marine und der Bundespolizei"
+    },
+    {
+      "documentIdentifier" : "BJNR601700017BJNG001300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR601700017BJNE003900000",
+          "paragraph" : "§ 38",
+          "title" : "Gültigkeit anderer Vorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR601700017BJNE004000000",
+          "paragraph" : "§ 39",
+          "title" : "Ausnahmen für den öffentlichen Dienst"
+        },
+        {
+          "documentIdentifier" : "BJNR601700017BJNE004100000",
+          "paragraph" : "§ 40",
+          "title" : "Ausnahmen für die „Deutsche Gesellschaft zur Rettung Schiffbrüchiger“"
+        },
+        {
+          "documentIdentifier" : "BJNR601700017BJNE004200000",
+          "paragraph" : "§ 41",
+          "title" : "Ausnahmen in besonderen Fällen"
+        },
+        {
+          "documentIdentifier" : "BJNR601700017BJNE004300000",
+          "paragraph" : "§ 42",
+          "title" : "Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR601700017BJNE004400000",
+          "paragraph" : "§ 43",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussvorschriften"
+    }
+  ]
+}

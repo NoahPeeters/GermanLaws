@@ -1,0 +1,64 @@
+{
+  "documentIdentifier" : "BJNR224700007",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR224700007Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR224700007BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Preisklauselverbot"
+        },
+        {
+          "documentIdentifier" : "BJNR224700007BJNE000201377",
+          "paragraph" : "§ 2",
+          "title" : "Ausnahmen vom Verbot"
+        },
+        {
+          "documentIdentifier" : "BJNR224700007BJNE000301377",
+          "paragraph" : "§ 3",
+          "title" : "Langfristige Verträge"
+        },
+        {
+          "documentIdentifier" : "BJNR224700007BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Erbbaurechtsverträge"
+        },
+        {
+          "documentIdentifier" : "BJNR224700007BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Geld- und Kapitalverkehr"
+        },
+        {
+          "documentIdentifier" : "BJNR224700007BJNE000600000",
+          "paragraph" : "§ 6",
+          "title" : "Verträge mit Gebietsfremden"
+        },
+        {
+          "documentIdentifier" : "BJNR224700007BJNE000700000",
+          "paragraph" : "§ 7",
+          "title" : "Verträge zur Deckung des Bedarfs der Streitkräfte"
+        },
+        {
+          "documentIdentifier" : "BJNR224700007BJNE000800000",
+          "paragraph" : "§ 8",
+          "title" : "Unwirksamkeit der Preisklausel"
+        },
+        {
+          "documentIdentifier" : "BJNR224700007BJNE000900000",
+          "paragraph" : "§ 9",
+          "title" : "Übergangsvorschrift"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

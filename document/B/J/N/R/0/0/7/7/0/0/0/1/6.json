@@ -1,0 +1,156 @@
+{
+  "documentIdentifier" : "BJNR007700016",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR007700016BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR007700016BJNE000300000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR007700016BJNE000400000",
+          "paragraph" : "§ 2",
+          "title" : "Zuständige Behörde"
+        },
+        {
+          "documentIdentifier" : "BJNR007700016BJNE000501123",
+          "paragraph" : "§ 3",
+          "title" : "Antrag"
+        },
+        {
+          "documentIdentifier" : "BJNR007700016BJNE000601123",
+          "paragraph" : "§ 4",
+          "title" : "Anerkennung als notifizierte Stelle"
+        },
+        {
+          "documentIdentifier" : "BJNR007700016BJNE000700000",
+          "paragraph" : "§ 5",
+          "title" : "Allgemeine Anforderungen an die notifizierte Stelle"
+        },
+        {
+          "documentIdentifier" : "BJNR007700016BJNE000801123",
+          "paragraph" : "§ 6",
+          "title" : "Konformitätsvermutung bei notifizierten Stellen"
+        },
+        {
+          "documentIdentifier" : "BJNR007700016BJNE000900000",
+          "paragraph" : "§ 7",
+          "title" : "Verpflichtungen der notifizierten Stelle"
+        },
+        {
+          "documentIdentifier" : "BJNR007700016BJNE001000000",
+          "paragraph" : "§ 8",
+          "title" : "Meldepflichten der notifizierten Stelle"
+        },
+        {
+          "documentIdentifier" : "BJNR007700016BJNE001101123",
+          "paragraph" : "§ 9",
+          "title" : "Zweigunternehmen einer notifizierten Stelle und Vergabe von Unteraufträgen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR007700016BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR007700016BJNE001201123",
+          "paragraph" : "§ 10",
+          "title" : "Befugnis der notifizierten Stelle"
+        },
+        {
+          "documentIdentifier" : "BJNR007700016BJNE001300000",
+          "paragraph" : "§ 11",
+          "title" : "Befugnis der Konformitätsbewertungsstelle für Drittstaaten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Funkanlagen"
+    },
+    {
+      "documentIdentifier" : "BJNR007700016BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR007700016BJNE001401123",
+          "paragraph" : "§ 12",
+          "title" : "Befugnis der notifizierten Stelle"
+        },
+        {
+          "documentIdentifier" : "BJNR007700016BJNE001500000",
+          "paragraph" : "§ 13",
+          "title" : "Befugnis der Konformitätsbewertungsstelle für Drittstaaten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Elektromagnetische Verträglichkeit"
+    },
+    {
+      "documentIdentifier" : "BJNR007700016BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR007700016BJNE001601123",
+          "paragraph" : "§ 14",
+          "title" : "Widerruf der erteilten Befugnis"
+        },
+        {
+          "documentIdentifier" : "BJNR007700016BJNE001701123",
+          "paragraph" : "§ 15",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR007700016BJNE001802123",
+          "paragraph" : "§ 16",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR007700016BJNE001900000",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 11)"
+        },
+        {
+          "documentIdentifier" : "BJNR007700016BJNE002000000",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 13)"
+        },
+        {
+          "documentIdentifier" : "BJNR007700016BJNE002101123",
+          "paragraph" : "Anlage 3",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussvorschriften"
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "documentIdentifier" : "BJNR122200014",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR122200014BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR122200014BJNE000300000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR122200014BJNE000400000",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR122200014BJNE000500000",
+          "paragraph" : "§ 3",
+          "title" : "Inanspruchnahme von Fremddienstleistern"
+        },
+        {
+          "documentIdentifier" : "BJNR122200014BJNE000600000",
+          "paragraph" : "§ 4",
+          "title" : "Verhinderung der Umgehung der Meldepflicht"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Bestimmungen"
+    },
+    {
+      "documentIdentifier" : "BJNR122200014BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR122200014BJNE000700000",
+          "paragraph" : "§ 5",
+          "title" : "Identifizierungs- und Sorgfaltspflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR122200014BJNE000800000",
+          "paragraph" : "§ 6",
+          "title" : "Kleine Finanzinstitute mit lokalem Kundenstamm"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Identifizierungs- und Sorgfaltspflichten"
+    },
+    {
+      "documentIdentifier" : "BJNR122200014BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR122200014BJNE000900000",
+          "paragraph" : "§ 7",
+          "title" : "Registrierungspflicht"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Registrierung von Finanzinstituten"
+    },
+    {
+      "documentIdentifier" : "BJNR122200014BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR122200014BJNE001600377",
+          "paragraph" : "§ 8",
+          "title" : "Erhebungs- und Übermittlungspflichten in Bezug auf US-amerikanische meldepflichtige Konten"
+        },
+        {
+          "documentIdentifier" : "BJNR122200014BJNE001101377",
+          "paragraph" : "§ 9",
+          "title" : "Weiterleitung von Daten an die Bundessteuerbehörde der Vereinigten Staaten von Amerika und Entgegennahme von Meldungen"
+        },
+        {
+          "documentIdentifier" : "BJNR122200014BJNE001201377",
+          "paragraph" : "§ 10",
+          "title" : "Erhebungs- und Übermittlungspflichten in Bezug auf Zahlungen an nicht teilnehmende Finanzinstitute in den Kalenderjahren 2015 und 2016"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Datenerhebung und Datenübermittlung"
+    },
+    {
+      "documentIdentifier" : "BJNR122200014BJNG000500000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR122200014BJNE001300000",
+          "paragraph" : "§ 11",
+          "title" : "Ordnungswidrigkeiten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Ordnungswidrigkeiten"
+    },
+    {
+      "documentIdentifier" : "BJNR122200014BJNG000600000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR122200014BJNE001400000",
+          "paragraph" : "§ 12",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussbestimmung"
+    }
+  ]
+}

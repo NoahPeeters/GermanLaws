@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR051200993",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR051200993Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR051200993BJNE000202307",
+          "paragraph" : "(XXXX) Art 1 bis 113",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR051200993BJNE000300308",
+          "paragraph" : "Art 114",
+          "title" : "Rückkehr zum einheitlichen Verordnungsrang"
+        },
+        {
+          "documentIdentifier" : "BJNR051200993BJNE000403377",
+          "paragraph" : "Art 115",
+          "title" : "Übergangsvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR051200993BJNE000500308",
+          "paragraph" : "Art 116",
+          "title" : "Neufassung geänderter Gesetze und Verordnungen"
+        },
+        {
+          "documentIdentifier" : "BJNR051200993BJNE000600308",
+          "paragraph" : "Art 117",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

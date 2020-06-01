@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR015600982",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR015600982Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR015600982BJNE000101377",
+          "paragraph" : "§ 1",
+          "title" : "Anwendung von Vorschriften des Bundesberggesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR015600982BJNE000200328",
+          "paragraph" : "§ 2",
+          "title" : "Übergangsregelung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR163900995",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR163900995Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR163900995BJNE000102377",
+          "paragraph" : "§ 1",
+          "title" : "Zweck, Finanzplafonds"
+        },
+        {
+          "documentIdentifier" : "BJNR163900995BJNE000207118",
+          "paragraph" : "§ 2",
+          "title" : "Zuschüsse an Bergbauunternehmen"
+        },
+        {
+          "documentIdentifier" : "BJNR163900995BJNE000307118",
+          "paragraph" : "§ 3",
+          "title" : "Melde-, Aufbewahrungs- und Auskunftspflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR163900995BJNE000402377",
+          "paragraph" : "§ 4",
+          "title" : "Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR163900995BJNE000500310",
+          "paragraph" : "§ 5",
+          "title" : "Begriffsbestimmungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

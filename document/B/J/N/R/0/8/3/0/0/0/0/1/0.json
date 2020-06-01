@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR083000010",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR083000010Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR083000010BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Zweck"
+        },
+        {
+          "documentIdentifier" : "BJNR083000010BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Stichprobenverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR083000010BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Stichprobenumfang"
+        },
+        {
+          "documentIdentifier" : "BJNR083000010BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Fragebogen"
+        },
+        {
+          "documentIdentifier" : "BJNR083000010BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Zusammenarbeit der statistischen Ämter"
+        },
+        {
+          "documentIdentifier" : "BJNR083000010BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

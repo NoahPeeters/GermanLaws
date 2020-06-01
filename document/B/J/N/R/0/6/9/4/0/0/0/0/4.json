@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR069400004",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR069400004Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR069400004BJNE000204116",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR069400004BJNE000302310",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR069400004BJNE000404116",
+          "paragraph" : "§ 3",
+          "title" : "Inhalt, Umfang und Form der Emissionserklärung"
+        },
+        {
+          "documentIdentifier" : "BJNR069400004BJNE000502310",
+          "paragraph" : "§ 4",
+          "title" : "Erklärungszeitraum, Zeitpunkt der Erklärung, Erklärungspflichtiger"
+        },
+        {
+          "documentIdentifier" : "BJNR069400004BJNE000601310",
+          "paragraph" : "§ 5",
+          "title" : "Ermittlung der Emissionen"
+        },
+        {
+          "documentIdentifier" : "BJNR069400004BJNE000701310",
+          "paragraph" : "§ 6",
+          "title" : "Ausnahmen"
+        },
+        {
+          "documentIdentifier" : "BJNR069400004BJNE000801310",
+          "paragraph" : "§ 7",
+          "title" : "(Inkrafttreten, Außerkrafttreten)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

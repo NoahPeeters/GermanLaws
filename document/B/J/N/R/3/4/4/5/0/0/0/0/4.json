@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR344500004",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR344500004Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR344500004BJNE000100000",
+          "paragraph" : "(XXXX) Art 1 bis 3",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR344500004BJNE000200000",
+          "paragraph" : "Art 3a",
+          "title" : "Sonderkündigungsrecht"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "documentIdentifier" : "BJNR158600012",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR158600012BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR158600012BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR158600012BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Verwendung bei anderen Dienstherren"
+        },
+        {
+          "documentIdentifier" : "BJNR158600012BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Beurlaubung"
+        },
+        {
+          "documentIdentifier" : "BJNR158600012BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Versetzung in den Ruhestand"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Dienstrecht"
+    },
+    {
+      "documentIdentifier" : "BJNR158600012BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR158600012BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Einmalzahlung"
+        },
+        {
+          "documentIdentifier" : "BJNR158600012BJNE000600000",
+          "paragraph" : "§ 6",
+          "title" : "Erstattung der Personalausgaben bei Abordnung zur Erprobung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Finanzieller Ausgleich"
+    },
+    {
+      "documentIdentifier" : "BJNR158600012BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR158600012BJNE000700000",
+          "paragraph" : "§ 7",
+          "title" : "Anwendung des Beamtenversorgungsgesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR158600012BJNE000800000",
+          "paragraph" : "§ 8",
+          "title" : "Evaluation"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Versorgung"
+    }
+  ]
+}

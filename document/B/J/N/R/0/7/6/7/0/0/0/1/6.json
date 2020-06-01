@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR076700016",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR076700016Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR076700016BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Geltungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR076700016BJNE000301118",
+          "paragraph" : "§ 2",
+          "title" : "Höchstzinssatz"
+        },
+        {
+          "documentIdentifier" : "BJNR076700016BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Ausnahmen"
+        },
+        {
+          "documentIdentifier" : "BJNR076700016BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Höchstzillmersätze und versicherungsmathematische Berechnungsmethode"
+        },
+        {
+          "documentIdentifier" : "BJNR076700016BJNE000601118",
+          "paragraph" : "§ 5",
+          "title" : "Versicherungsmathematische Rechnungsgrundlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR076700016BJNE000800118",
+          "paragraph" : "§ 5a",
+          "title" : "Übergangsregelung"
+        },
+        {
+          "documentIdentifier" : "BJNR076700016BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

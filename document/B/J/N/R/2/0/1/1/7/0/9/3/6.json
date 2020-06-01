@@ -1,0 +1,303 @@
+{
+  "documentIdentifier" : "BJNR201170936",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR201170936BJNG000100311",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR201170936BJNE003601377",
+          "paragraph" : "(XXXX) §§ 18 und 19",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Das Patent"
+    },
+    {
+      "documentIdentifier" : "BJNR201170936BJNG000200311",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR201170936BJNE018900123",
+          "paragraph" : "§ 31a",
+          "title" : "Datenschutz"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Patentamt"
+    },
+    {
+      "documentIdentifier" : "BJNR201170936BJNG000301307",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Verfahren vor dem Patentamt"
+    },
+    {
+      "documentIdentifier" : "BJNR201170936BJNG000400311",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Patentgericht"
+    },
+    {
+      "documentIdentifier" : "BJNR201170936BJNG000500311",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR201170936BJNG000600311",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              5,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Beschwerdeverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR201170936BJNG000701307",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              5,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Nichtigkeits- und Zwangslizenzverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR201170936BJNG000800311",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              5,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Gemeinsame Verfahrensvorschriften"
+        }
+      ],
+      "title" : "Verfahren vor dem Patentgericht"
+    },
+    {
+      "documentIdentifier" : "BJNR201170936BJNG000900311",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR201170936BJNG001000311",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              6,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Rechtsbeschwerdeverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR201170936BJNG001100311",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              6,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Berufungsverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR201170936BJNG001200311",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              6,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Beschwerdeverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR201170936BJNG001900301",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              6,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Gemeinsame Verfahrensvorschriften"
+        }
+      ],
+      "title" : "Verfahren vor dem Bundesgerichtshof"
+    },
+    {
+      "documentIdentifier" : "BJNR201170936BJNG001300311",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gemeinsame Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR201170936BJNG001400311",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          8
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Verfahrenskostenhilfe"
+    },
+    {
+      "documentIdentifier" : "BJNR201170936BJNG001500311",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          9
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Rechtsverletzungen"
+    },
+    {
+      "documentIdentifier" : "BJNR201170936BJNG001600311",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          10
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Verfahren in Patentstreitsachen"
+    },
+    {
+      "documentIdentifier" : "BJNR201170936BJNG001700311",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          11
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Patentberühmung"
+    },
+    {
+      "documentIdentifier" : "BJNR201170936BJNG001800377",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          12
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übergangsvorschriften"
+    }
+  ]
+}

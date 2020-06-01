@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR002250951",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR002250951Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR002250951BJNE000704305",
+          "paragraph" : "§ 6a",
+          "title" : "Ausgleichspflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR002250951BJNE000900325",
+          "paragraph" : "§ 6c",
+          "title" : "Ausgleichspflichtiger"
+        },
+        {
+          "documentIdentifier" : "BJNR002250951BJNE001103308",
+          "paragraph" : "§ 6e",
+          "title" : "Ermittlung des Ausgleichs, Verfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR002250951BJNE001200325",
+          "paragraph" : "§ 6f",
+          "title" : "Prüfungsbefugnisse"
+        },
+        {
+          "documentIdentifier" : "BJNR002250951BJNE001300325",
+          "paragraph" : "§ 6g",
+          "title" : "Sonderregelung"
+        },
+        {
+          "documentIdentifier" : "BJNR002250951BJNE004900308",
+          "paragraph" : "§ 6h",
+          "title" : "Ersetzung bundesrechtlicher Vorschriften durch Landesrecht"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

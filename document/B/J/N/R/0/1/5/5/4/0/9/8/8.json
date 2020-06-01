@@ -1,0 +1,219 @@
+{
+  "documentIdentifier" : "BJNR015540988",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR015540988BJNG000100325",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR015540988BJNE000900325",
+          "paragraph" : "§ 1",
+          "title" : "Errichtung"
+        },
+        {
+          "documentIdentifier" : "BJNR015540988BJNE001001308",
+          "paragraph" : "§ 2",
+          "title" : "Zusammensetzung und Berufung"
+        },
+        {
+          "documentIdentifier" : "BJNR015540988BJNE001100325",
+          "paragraph" : "§ 3",
+          "title" : "Ausschluß und Befangenheit"
+        },
+        {
+          "documentIdentifier" : "BJNR015540988BJNE001201308",
+          "paragraph" : "§ 4",
+          "title" : "Beschlußfähigkeit und Abstimmung"
+        },
+        {
+          "documentIdentifier" : "BJNR015540988BJNE001300325",
+          "paragraph" : "§ 5",
+          "title" : "Geschäftsführung"
+        },
+        {
+          "documentIdentifier" : "BJNR015540988BJNE001400325",
+          "paragraph" : "§ 6",
+          "title" : "Verschwiegenheit"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Prüfungsausschüsse"
+    },
+    {
+      "documentIdentifier" : "BJNR015540988BJNG000200325",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR015540988BJNE001501308",
+          "paragraph" : "§ 7",
+          "title" : "Zulassungsvoraussetzungen"
+        },
+        {
+          "documentIdentifier" : "BJNR015540988BJNE001600325",
+          "paragraph" : "§ 8",
+          "title" : "Anmeldung zur Prüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR015540988BJNE001700325",
+          "paragraph" : "§ 9",
+          "title" : "Entscheidung über die Zulassung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Zulassung zur Prüfung"
+    },
+    {
+      "documentIdentifier" : "BJNR015540988BJNG000300325",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR015540988BJNE001800325",
+          "paragraph" : "§ 10",
+          "title" : "Prüfungstermine"
+        },
+        {
+          "documentIdentifier" : "BJNR015540988BJNE001900325",
+          "paragraph" : "§ 11",
+          "title" : "Prüfungsgegenstand"
+        },
+        {
+          "documentIdentifier" : "BJNR015540988BJNE002000325",
+          "paragraph" : "§ 12",
+          "title" : "Gliederung der Prüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR015540988BJNE002100325",
+          "paragraph" : "§ 13",
+          "title" : "Schriftlicher Teil der Prüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR015540988BJNE002200325",
+          "paragraph" : "§ 14",
+          "title" : "Mündlicher Teil der Prüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR015540988BJNE002300325",
+          "paragraph" : "§ 15",
+          "title" : "Nichtöffentlichkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR015540988BJNE002400325",
+          "paragraph" : "§ 16",
+          "title" : "Ausweispflicht und Belehrung"
+        },
+        {
+          "documentIdentifier" : "BJNR015540988BJNE002500325",
+          "paragraph" : "§ 17",
+          "title" : "Täuschungshandlungen und Ordnungsverstöße"
+        },
+        {
+          "documentIdentifier" : "BJNR015540988BJNE002600325",
+          "paragraph" : "§ 18",
+          "title" : "Rücktritt und Nichtteilnahme"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Durchführung der Prüfung"
+    },
+    {
+      "documentIdentifier" : "BJNR015540988BJNG000400325",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR015540988BJNE002700325",
+          "paragraph" : "§ 19",
+          "title" : "Bewertung der Prüfungsleistungen"
+        },
+        {
+          "documentIdentifier" : "BJNR015540988BJNE002801308",
+          "paragraph" : "§ 20",
+          "title" : "Feststellung und Bekanntgabe des Prüfungsergebnisses"
+        },
+        {
+          "documentIdentifier" : "BJNR015540988BJNE002900325",
+          "paragraph" : "§ 21",
+          "title" : "Prüfungszeugnis"
+        },
+        {
+          "documentIdentifier" : "BJNR015540988BJNE003001305",
+          "paragraph" : "§ 22",
+          "title" : "Nichtbestandene Prüfung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Bewertung und Feststellung der Prüfungsergebnisse sowie Prüfungszeugnisse"
+    },
+    {
+      "documentIdentifier" : "BJNR015540988BJNG000500325",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR015540988BJNE003100325",
+          "paragraph" : "§ 23",
+          "title" : "Wiederholungsprüfung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Wiederholungsprüfung"
+    },
+    {
+      "documentIdentifier" : "BJNR015540988BJNG000600325",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR015540988BJNE003200325",
+          "paragraph" : "§ 24",
+          "title" : "Prüfungsunterlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR015540988BJNE003301308",
+          "paragraph" : "§ 25",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR015540988BJNE003400325",
+          "paragraph" : "§ 26",
+          "title" : "Inkrafttreten und Übergangsvorschriften"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schluß- und Übergangsvorschriften"
+    }
+  ]
+}

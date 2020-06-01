@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR297510011",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR297510011Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR297510011BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Kinderschutz und staatliche Mitverantwortung"
+        },
+        {
+          "documentIdentifier" : "BJNR297510011BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Information der Eltern über Unterstützungsangebote in Fragen der Kindesentwicklung"
+        },
+        {
+          "documentIdentifier" : "BJNR297510011BJNE000302119",
+          "paragraph" : "§ 3",
+          "title" : "Rahmenbedingungen für verbindliche Netzwerkstrukturen im Kinderschutz"
+        },
+        {
+          "documentIdentifier" : "BJNR297510011BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Beratung und Übermittlung von Informationen durch Geheimnisträger bei Kindeswohlgefährdung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

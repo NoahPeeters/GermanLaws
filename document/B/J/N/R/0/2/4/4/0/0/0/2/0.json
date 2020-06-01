@@ -1,0 +1,59 @@
+{
+  "documentIdentifier" : "BJNR024400020",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR024400020Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR024400020BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR024400020BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Erstellung elektronischer Dokumente"
+        },
+        {
+          "documentIdentifier" : "BJNR024400020BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Übermittlung elektronischer Dokumente"
+        },
+        {
+          "documentIdentifier" : "BJNR024400020BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Übermittlung von Ermittlungsvorgängen"
+        },
+        {
+          "documentIdentifier" : "BJNR024400020BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Übermittlungswege"
+        },
+        {
+          "documentIdentifier" : "BJNR024400020BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Ersatzmaßnahmen"
+        },
+        {
+          "documentIdentifier" : "BJNR024400020BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Bekanntmachung technischer Anforderungen"
+        },
+        {
+          "documentIdentifier" : "BJNR024400020BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

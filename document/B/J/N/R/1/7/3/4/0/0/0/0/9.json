@@ -1,0 +1,106 @@
+{
+  "documentIdentifier" : "BJNR173400009",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR173400009BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR173400009BJNE000202116",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR173400009BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR173400009BJNE000306123",
+          "paragraph" : "§ 2",
+          "title" : "Anschluss an das Mittelspannungsnetz"
+        },
+        {
+          "documentIdentifier" : "BJNR173400009BJNE000404123",
+          "paragraph" : "§ 3",
+          "title" : "Anschluss an das Hoch- und Höchstspannungsnetz"
+        },
+        {
+          "documentIdentifier" : "BJNR173400009BJNE000503116",
+          "paragraph" : "§ 4",
+          "title" : "Anschluss verschiedener Anlagen an einem Netzverknüpfungspunkt"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Neue Windenergieanlagen"
+    },
+    {
+      "documentIdentifier" : "BJNR173400009BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR173400009BJNE000602116",
+          "paragraph" : "§ 5",
+          "title" : "Voraussetzungen für den Systemdienstleistungs-Bonus"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Alte Windenergieanlagen"
+    },
+    {
+      "documentIdentifier" : "BJNR173400009BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR173400009BJNE000704123",
+          "paragraph" : "§ 6",
+          "title" : "Zertifikate, Sachverständigengutachten und Prototypen"
+        },
+        {
+          "documentIdentifier" : "BJNR173400009BJNE000802123",
+          "paragraph" : "§ 7",
+          "title" : "Mehrere Windenergieanlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR173400009BJNE000904118",
+          "paragraph" : "§ 8",
+          "title" : "Übergangsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR173400009BJNE001000000",
+          "paragraph" : "§ 9",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Nachweis und Schlussbestimmungen"
+    }
+  ]
+}

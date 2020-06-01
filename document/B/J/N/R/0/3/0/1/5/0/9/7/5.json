@@ -1,0 +1,536 @@
+{
+  "documentIdentifier" : "BJNR030150975",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR030150975BJNG000300314",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR030150975BJNE001700314",
+          "paragraph" : "§ 1",
+          "title" : "Aufgaben des Sozialgesetzbuchs"
+        },
+        {
+          "documentIdentifier" : "BJNR030150975BJNE001800314",
+          "paragraph" : "§ 2",
+          "title" : "Soziale Rechte"
+        },
+        {
+          "documentIdentifier" : "BJNR030150975BJNE001901308",
+          "paragraph" : "§ 3",
+          "title" : "Bildungs- und Arbeitsförderung"
+        },
+        {
+          "documentIdentifier" : "BJNR030150975BJNE002002308",
+          "paragraph" : "§ 4",
+          "title" : "Sozialversicherung"
+        },
+        {
+          "documentIdentifier" : "BJNR030150975BJNE002100314",
+          "paragraph" : "§ 5",
+          "title" : "Soziale Entschädigung bei Gesundheitsschäden"
+        },
+        {
+          "documentIdentifier" : "BJNR030150975BJNE002200314",
+          "paragraph" : "§ 6",
+          "title" : "Minderung des Familienaufwands"
+        },
+        {
+          "documentIdentifier" : "BJNR030150975BJNE002300314",
+          "paragraph" : "§ 7",
+          "title" : "Zuschuß für eine angemessene Wohnung"
+        },
+        {
+          "documentIdentifier" : "BJNR030150975BJNE002401308",
+          "paragraph" : "§ 8",
+          "title" : "Kinder- und Jugendhilfe"
+        },
+        {
+          "documentIdentifier" : "BJNR030150975BJNE002501308",
+          "paragraph" : "§ 9",
+          "title" : "Sozialhilfe"
+        },
+        {
+          "documentIdentifier" : "BJNR030150975BJNE002602308",
+          "paragraph" : "§ 10",
+          "title" : "Teilhabe behinderter Menschen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Aufgaben des Sozialgesetzbuchs und soziale Rechte"
+    },
+    {
+      "documentIdentifier" : "BJNR030150975BJNG000400314",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR030150975BJNG000500314",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR030150975BJNE002700314",
+              "paragraph" : "§ 11",
+              "title" : "Leistungsarten"
+            },
+            {
+              "documentIdentifier" : "BJNR030150975BJNE002800314",
+              "paragraph" : "§ 12",
+              "title" : "Leistungsträger"
+            },
+            {
+              "documentIdentifier" : "BJNR030150975BJNE002900314",
+              "paragraph" : "§ 13",
+              "title" : "Aufklärung"
+            },
+            {
+              "documentIdentifier" : "BJNR030150975BJNE003000314",
+              "paragraph" : "§ 14",
+              "title" : "Beratung"
+            },
+            {
+              "documentIdentifier" : "BJNR030150975BJNE003103360",
+              "paragraph" : "§ 15",
+              "title" : "Auskunft"
+            },
+            {
+              "documentIdentifier" : "BJNR030150975BJNE003200314",
+              "paragraph" : "§ 16",
+              "title" : "Antragstellung"
+            },
+            {
+              "documentIdentifier" : "BJNR030150975BJNE003307119",
+              "paragraph" : "§ 17",
+              "title" : "Ausführung der Sozialleistungen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Allgemeines über Sozialleistungen und Leistungsträger"
+        },
+        {
+          "documentIdentifier" : "BJNR030150975BJNG000600314",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR030150975BJNE003401306",
+              "paragraph" : "§ 18",
+              "title" : "Leistungen der Ausbildungsförderung"
+            },
+            {
+              "documentIdentifier" : "BJNR030150975BJNE003514140",
+              "paragraph" : "§ 19",
+              "title" : "Leistungen der Arbeitsförderung"
+            },
+            {
+              "documentIdentifier" : "BJNR030150975BJNE010601308",
+              "paragraph" : "§ 19a",
+              "title" : "Leistungen der Grundsicherung für Arbeitsuchende"
+            },
+            {
+              "documentIdentifier" : "BJNR030150975BJNE009502308",
+              "paragraph" : "§ 19b",
+              "title" : "Leistungen bei gleitendem Übergang älterer Arbeitnehmer in den Ruhestand"
+            },
+            {
+              "documentIdentifier" : "BJNR030150975BJNE003707308",
+              "paragraph" : "§ 21",
+              "title" : "Leistungen der gesetzlichen Krankenversicherung"
+            },
+            {
+              "documentIdentifier" : "BJNR030150975BJNE009600308",
+              "paragraph" : "§ 21a",
+              "title" : "Leistungen der sozialen Pflegeversicherung"
+            },
+            {
+              "documentIdentifier" : "BJNR030150975BJNE009704308",
+              "paragraph" : "§ 21b",
+              "title" : "Leistungen bei Schwangerschaftsabbrüchen"
+            },
+            {
+              "documentIdentifier" : "BJNR030150975BJNE003808377",
+              "paragraph" : "§ 22",
+              "title" : "Leistungen der gesetzlichen Unfallversicherung"
+            },
+            {
+              "documentIdentifier" : "BJNR030150975BJNE003916119",
+              "paragraph" : "§ 23",
+              "title" : "Leistungen der gesetzlichen Rentenversicherung einschließlich der Alterssicherung der Landwirte"
+            },
+            {
+              "documentIdentifier" : "BJNR030150975BJNE004005377",
+              "paragraph" : "§ 24",
+              "title" : "Versorgungsleistungen bei Gesundheitsschäden"
+            },
+            {
+              "documentIdentifier" : "BJNR030150975BJNE004108360",
+              "paragraph" : "§ 25",
+              "title" : "Kindergeld, Kinderzuschlag, Leistungen für Bildung und Teilhabe, Elterngeld und Betreuungsgeld"
+            },
+            {
+              "documentIdentifier" : "BJNR030150975BJNE004201306",
+              "paragraph" : "§ 26",
+              "title" : "Wohngeld"
+            },
+            {
+              "documentIdentifier" : "BJNR030150975BJNE004303308",
+              "paragraph" : "§ 27",
+              "title" : "Leistungen der Kinder- und Jugendhilfe"
+            },
+            {
+              "documentIdentifier" : "BJNR030150975BJNE004407119",
+              "paragraph" : "§ 28",
+              "title" : "Leistungen der Sozialhilfe"
+            },
+            {
+              "documentIdentifier" : "BJNR030150975BJNE010303119",
+              "paragraph" : "§ 28a",
+              "title" : "Leistungen der Eingliederungshilfe"
+            },
+            {
+              "documentIdentifier" : "BJNR030150975BJNE004507119",
+              "paragraph" : "§ 29",
+              "title" : "Leistungen zur Rehabilitation und Teilhabe behinderter Menschen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Einzelne Sozialleistungen und zuständige Leistungsträger"
+        }
+      ],
+      "title" : "Einweisungsvorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR030150975BJNG000700314",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR030150975BJNG000800314",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR030150975BJNE004601306",
+              "paragraph" : "§ 30",
+              "title" : "Geltungsbereich"
+            },
+            {
+              "documentIdentifier" : "BJNR030150975BJNE004700314",
+              "paragraph" : "§ 31",
+              "title" : "Vorbehalt des Gesetzes"
+            },
+            {
+              "documentIdentifier" : "BJNR030150975BJNE004800314",
+              "paragraph" : "§ 32",
+              "title" : "Verbot nachteiliger Vereinbarungen"
+            },
+            {
+              "documentIdentifier" : "BJNR030150975BJNE004900314",
+              "paragraph" : "§ 33",
+              "title" : "Ausgestaltung von Rechten und Pflichten"
+            },
+            {
+              "documentIdentifier" : "BJNR030150975BJNE009800308",
+              "paragraph" : "§ 33a",
+              "title" : "Altersabhängige Rechte und Pflichten"
+            },
+            {
+              "documentIdentifier" : "BJNR030150975BJNE010200301",
+              "paragraph" : "§ 33b",
+              "title" : "Lebenspartnerschaften"
+            },
+            {
+              "documentIdentifier" : "BJNR030150975BJNE010800308",
+              "paragraph" : "§ 33c",
+              "title" : "Benachteiligungsverbot"
+            },
+            {
+              "documentIdentifier" : "BJNR030150975BJNE005002308",
+              "paragraph" : "§ 34",
+              "title" : "Begrenzung von Rechten und Pflichten"
+            },
+            {
+              "documentIdentifier" : "BJNR030150975BJNE005119126",
+              "paragraph" : "§ 35",
+              "title" : "Sozialgeheimnis"
+            },
+            {
+              "documentIdentifier" : "BJNR030150975BJNE005200314",
+              "paragraph" : "§ 36",
+              "title" : "Handlungsfähigkeit"
+            },
+            {
+              "documentIdentifier" : "BJNR030150975BJNE010506124",
+              "paragraph" : "§ 36a",
+              "title" : "Elektronische Kommunikation"
+            },
+            {
+              "documentIdentifier" : "BJNR030150975BJNE005305308",
+              "paragraph" : "§ 37",
+              "title" : "Vorbehalt abweichender Regelungen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Allgemeine Grundsätze"
+        },
+        {
+          "documentIdentifier" : "BJNR030150975BJNG000900314",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR030150975BJNE005400314",
+              "paragraph" : "§ 38",
+              "title" : "Rechtsanspruch"
+            },
+            {
+              "documentIdentifier" : "BJNR030150975BJNE005500314",
+              "paragraph" : "§ 39",
+              "title" : "Ermessensleistungen"
+            },
+            {
+              "documentIdentifier" : "BJNR030150975BJNE005600314",
+              "paragraph" : "§ 40",
+              "title" : "Entstehen der Ansprüche"
+            },
+            {
+              "documentIdentifier" : "BJNR030150975BJNE005700314",
+              "paragraph" : "§ 41",
+              "title" : "Fälligkeit"
+            },
+            {
+              "documentIdentifier" : "BJNR030150975BJNE005802308",
+              "paragraph" : "§ 42",
+              "title" : "Vorschüsse"
+            },
+            {
+              "documentIdentifier" : "BJNR030150975BJNE005901306",
+              "paragraph" : "§ 43",
+              "title" : "Vorläufige Leistungen"
+            },
+            {
+              "documentIdentifier" : "BJNR030150975BJNE006001308",
+              "paragraph" : "§ 44",
+              "title" : "Verzinsung"
+            },
+            {
+              "documentIdentifier" : "BJNR030150975BJNE006102308",
+              "paragraph" : "§ 45",
+              "title" : "Verjährung"
+            },
+            {
+              "documentIdentifier" : "BJNR030150975BJNE006200314",
+              "paragraph" : "§ 46",
+              "title" : "Verzicht"
+            },
+            {
+              "documentIdentifier" : "BJNR030150975BJNE006301377",
+              "paragraph" : "§ 47",
+              "title" : "Auszahlung von Geldleistungen"
+            },
+            {
+              "documentIdentifier" : "BJNR030150975BJNE006404119",
+              "paragraph" : "§ 48",
+              "title" : "Auszahlung bei Verletzung der Unterhaltspflicht"
+            },
+            {
+              "documentIdentifier" : "BJNR030150975BJNE006502308",
+              "paragraph" : "§ 49",
+              "title" : "Auszahlung bei Unterbringung"
+            },
+            {
+              "documentIdentifier" : "BJNR030150975BJNE006601314",
+              "paragraph" : "§ 50",
+              "title" : "Überleitung bei Unterbringung"
+            },
+            {
+              "documentIdentifier" : "BJNR030150975BJNE006705308",
+              "paragraph" : "§ 51",
+              "title" : "Aufrechnung"
+            },
+            {
+              "documentIdentifier" : "BJNR030150975BJNE006800314",
+              "paragraph" : "§ 52",
+              "title" : "Verrechnung"
+            },
+            {
+              "documentIdentifier" : "BJNR030150975BJNE006902308",
+              "paragraph" : "§ 53",
+              "title" : "Übertragung und Verpfändung"
+            },
+            {
+              "documentIdentifier" : "BJNR030150975BJNE007011360",
+              "paragraph" : "§ 54",
+              "title" : "Pfändung"
+            },
+            {
+              "documentIdentifier" : "BJNR030150975BJNE007102308",
+              "paragraph" : "§ 55",
+              "title" : "(weggefallen)"
+            },
+            {
+              "documentIdentifier" : "BJNR030150975BJNE007204308",
+              "paragraph" : "§ 56",
+              "title" : "Sonderrechtsnachfolge"
+            },
+            {
+              "documentIdentifier" : "BJNR030150975BJNE007300314",
+              "paragraph" : "§ 57",
+              "title" : "Verzicht und Haftung des Sonderrechtsnachfolgers"
+            },
+            {
+              "documentIdentifier" : "BJNR030150975BJNE007400314",
+              "paragraph" : "§ 58",
+              "title" : "Vererbung"
+            },
+            {
+              "documentIdentifier" : "BJNR030150975BJNE007500314",
+              "paragraph" : "§ 59",
+              "title" : "Ausschluß der Rechtsnachfolge"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Grundsätze des Leistungsrechts"
+        },
+        {
+          "documentIdentifier" : "BJNR030150975BJNG001000314",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR030150975BJNE007602308",
+              "paragraph" : "§ 60",
+              "title" : "Angabe von Tatsachen"
+            },
+            {
+              "documentIdentifier" : "BJNR030150975BJNE007700314",
+              "paragraph" : "§ 61",
+              "title" : "Persönliches Erscheinen"
+            },
+            {
+              "documentIdentifier" : "BJNR030150975BJNE007800314",
+              "paragraph" : "§ 62",
+              "title" : "Untersuchungen"
+            },
+            {
+              "documentIdentifier" : "BJNR030150975BJNE007900314",
+              "paragraph" : "§ 63",
+              "title" : "Heilbehandlung"
+            },
+            {
+              "documentIdentifier" : "BJNR030150975BJNE008002308",
+              "paragraph" : "§ 64",
+              "title" : "Leistungen zur Teilhabe am Arbeitsleben"
+            },
+            {
+              "documentIdentifier" : "BJNR030150975BJNE008102304",
+              "paragraph" : "§ 65",
+              "title" : "Grenzen der Mitwirkung"
+            },
+            {
+              "documentIdentifier" : "BJNR030150975BJNE008200314",
+              "paragraph" : "§ 65a",
+              "title" : "Aufwendungsersatz"
+            },
+            {
+              "documentIdentifier" : "BJNR030150975BJNE008302308",
+              "paragraph" : "§ 66",
+              "title" : "Folgen fehlender Mitwirkung"
+            },
+            {
+              "documentIdentifier" : "BJNR030150975BJNE008400314",
+              "paragraph" : "§ 67",
+              "title" : "Nachholung der Mitwirkung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Mitwirkung des Leistungsberechtigten"
+        }
+      ],
+      "title" : "Gemeinsame Vorschriften für alle Sozialleistungsbereiche dieses Gesetzbuchs"
+    },
+    {
+      "documentIdentifier" : "BJNR030150975BJNG001100308",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR030150975BJNE010010377",
+          "paragraph" : "§ 68",
+          "title" : "Besondere Teile dieses Gesetzbuches"
+        },
+        {
+          "documentIdentifier" : "BJNR030150975BJNE010100308",
+          "paragraph" : "§ 69",
+          "title" : "Stadtstaaten-Klausel"
+        },
+        {
+          "documentIdentifier" : "BJNR030150975BJNE010400308",
+          "paragraph" : "§ 70",
+          "title" : "Überleitungsvorschrift zum Verjährungsrecht"
+        },
+        {
+          "documentIdentifier" : "BJNR030150975BJNE010700308",
+          "paragraph" : "§ 71",
+          "title" : "Überleitungsvorschrift zur Übertragung, Verpfändung und Pfändung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übergangs- und Schlussvorschriften"
+    }
+  ]
+}

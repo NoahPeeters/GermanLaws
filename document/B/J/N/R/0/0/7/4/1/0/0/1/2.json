@@ -1,0 +1,321 @@
+{
+  "documentIdentifier" : "BJNR007410012",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR007410012Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR007410012BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Bevorratung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR007410012BJNG000100000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR007410012BJNE000301118",
+              "paragraph" : "§ 2",
+              "title" : "Allgemeines"
+            },
+            {
+              "documentIdentifier" : "BJNR007410012BJNE000402128",
+              "paragraph" : "§ 3",
+              "title" : "Bevorratungspflicht"
+            },
+            {
+              "documentIdentifier" : "BJNR007410012BJNE000501118",
+              "paragraph" : "§ 4",
+              "title" : "Erfüllung der Bevorratungspflicht"
+            },
+            {
+              "documentIdentifier" : "BJNR007410012BJNE000603128",
+              "paragraph" : "§ 5",
+              "title" : "Spezifische Vorräte"
+            },
+            {
+              "documentIdentifier" : "BJNR007410012BJNE000701118",
+              "paragraph" : "§ 6",
+              "title" : "Vorratshaltung"
+            },
+            {
+              "documentIdentifier" : "BJNR007410012BJNE000802124",
+              "paragraph" : "§ 7",
+              "title" : "Delegationen"
+            },
+            {
+              "documentIdentifier" : "BJNR007410012BJNE000901118",
+              "paragraph" : "§ 8",
+              "title" : "Übertragung von Aufgaben"
+            },
+            {
+              "documentIdentifier" : "BJNR007410012BJNE001001124",
+              "paragraph" : "§ 9",
+              "title" : "Vorratshaltung für sonstige Vorratspflichtige"
+            },
+            {
+              "documentIdentifier" : "BJNR007410012BJNE001101124",
+              "paragraph" : "§ 10",
+              "title" : "Vorratshaltung durch Unternehmen für sonstige Vorratspflichtige"
+            },
+            {
+              "documentIdentifier" : "BJNR007410012BJNE001203128",
+              "paragraph" : "§ 11",
+              "title" : "Anpassung an die Bevorratungspflicht"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Aufgaben des Erdölbevorratungsverbandes"
+        }
+      ],
+      "title" : "Inhalt"
+    },
+    {
+      "documentIdentifier" : "BJNR007410012BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR007410012BJNE001303128",
+          "paragraph" : "§ 12",
+          "title" : "Freigabe von Vorräten, Verordnungsermächtigungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Freigabe von Vorräten"
+    },
+    {
+      "documentIdentifier" : "BJNR007410012BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR007410012BJNE001402128",
+          "paragraph" : "§ 13",
+          "title" : "Mitgliedschaft"
+        },
+        {
+          "documentIdentifier" : "BJNR007410012BJNE001500000",
+          "paragraph" : "§ 14",
+          "title" : "Organe"
+        },
+        {
+          "documentIdentifier" : "BJNR007410012BJNE001602124",
+          "paragraph" : "§ 15",
+          "title" : "Satzung"
+        },
+        {
+          "documentIdentifier" : "BJNR007410012BJNE001703118",
+          "paragraph" : "§ 16",
+          "title" : "Mitgliederversammlung"
+        },
+        {
+          "documentIdentifier" : "BJNR007410012BJNE001801118",
+          "paragraph" : "§ 17",
+          "title" : "Stimmrecht, Verordnungsermächtigung"
+        },
+        {
+          "documentIdentifier" : "BJNR007410012BJNE001902124",
+          "paragraph" : "§ 18",
+          "title" : "Beirat"
+        },
+        {
+          "documentIdentifier" : "BJNR007410012BJNE002001124",
+          "paragraph" : "§ 19",
+          "title" : "Aufgaben des Beirats"
+        },
+        {
+          "documentIdentifier" : "BJNR007410012BJNE002100000",
+          "paragraph" : "§ 20",
+          "title" : "Ausschüsse des Beirats"
+        },
+        {
+          "documentIdentifier" : "BJNR007410012BJNE002200000",
+          "paragraph" : "§ 21",
+          "title" : "Vorstand"
+        },
+        {
+          "documentIdentifier" : "BJNR007410012BJNE002300000",
+          "paragraph" : "§ 22",
+          "title" : "Aufgaben des Vorstandes"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Mitglieder, Organe und Satzung des Erdölbevorratungsverbandes"
+    },
+    {
+      "documentIdentifier" : "BJNR007410012BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR007410012BJNE002402124",
+          "paragraph" : "§ 23",
+          "title" : "Beiträge"
+        },
+        {
+          "documentIdentifier" : "BJNR007410012BJNE002501124",
+          "paragraph" : "§ 24",
+          "title" : "Fälligkeit, Verzinsung und Beitreibung der Beiträge"
+        },
+        {
+          "documentIdentifier" : "BJNR007410012BJNE002602124",
+          "paragraph" : "§ 25",
+          "title" : "Grundsätze der Wirtschaftsführung"
+        },
+        {
+          "documentIdentifier" : "BJNR007410012BJNE002703124",
+          "paragraph" : "§ 26",
+          "title" : "Abschluss von Verträgen, Veränderung von Ansprüchen"
+        },
+        {
+          "documentIdentifier" : "BJNR007410012BJNE002801118",
+          "paragraph" : "§ 27",
+          "title" : "Aufstellung des Wirtschaftsplans"
+        },
+        {
+          "documentIdentifier" : "BJNR007410012BJNE002900000",
+          "paragraph" : "§ 28",
+          "title" : "Ausführung des Wirtschaftsplans"
+        },
+        {
+          "documentIdentifier" : "BJNR007410012BJNE003001118",
+          "paragraph" : "§ 29",
+          "title" : "Jahresabschluss"
+        },
+        {
+          "documentIdentifier" : "BJNR007410012BJNE003101124",
+          "paragraph" : "§ 30",
+          "title" : "Verwendung von Veräußerungserlösen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Beiträge, Wirtschaftsführung"
+    },
+    {
+      "documentIdentifier" : "BJNR007410012BJNG000500000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR007410012BJNE003201118",
+          "paragraph" : "§ 31",
+          "title" : "Aufsicht"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Aufsicht"
+    },
+    {
+      "documentIdentifier" : "BJNR007410012BJNG000600000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR007410012BJNE003300000",
+          "paragraph" : "§ 32",
+          "title" : "Auflösung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Auflösung"
+    },
+    {
+      "documentIdentifier" : "BJNR007410012BJNG000700000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR007410012BJNE003402128",
+          "paragraph" : "§ 33",
+          "title" : "Meldepflichten der Mitglieder des Erdölbevorratungsverbandes und von Lagerhaltern"
+        },
+        {
+          "documentIdentifier" : "BJNR007410012BJNE003501124",
+          "paragraph" : "§ 34",
+          "title" : "Verzeichnis der Vorräte, Meldepflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR007410012BJNE003601128",
+          "paragraph" : "§ 35",
+          "title" : "Monatliche Meldungen der Vorräte"
+        },
+        {
+          "documentIdentifier" : "BJNR007410012BJNE003701118",
+          "paragraph" : "§ 36",
+          "title" : "Meldungen der spezifischen Vorräte"
+        },
+        {
+          "documentIdentifier" : "BJNR007410012BJNE003801128",
+          "paragraph" : "§ 37",
+          "title" : "Übrige Meldepflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR007410012BJNE003902124",
+          "paragraph" : "§ 38",
+          "title" : "Auskunftspflichten, Prüfungspflichten und -rechte"
+        },
+        {
+          "documentIdentifier" : "BJNR007410012BJNE004001128",
+          "paragraph" : "§ 39",
+          "title" : "Mitwirkung der Finanzverwaltung"
+        },
+        {
+          "documentIdentifier" : "BJNR007410012BJNE004101124",
+          "paragraph" : "§ 40",
+          "title" : "Bußgeldvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR007410012BJNE004202128",
+          "paragraph" : "§ 41",
+          "title" : "Übergangsregelung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Melde- und Auskunftspflichten; Ordnungswidrigkeiten"
+    }
+  ]
+}

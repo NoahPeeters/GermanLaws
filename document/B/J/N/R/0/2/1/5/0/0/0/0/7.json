@@ -1,0 +1,64 @@
+{
+  "documentIdentifier" : "BJNR021500007",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR021500007Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR021500007BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR021500007BJNE000301311",
+          "paragraph" : "§ 2",
+          "title" : "Gegenstand der Zugänglichmachung"
+        },
+        {
+          "documentIdentifier" : "BJNR021500007BJNE000401311",
+          "paragraph" : "§ 3",
+          "title" : "Formen der Zugänglichmachung"
+        },
+        {
+          "documentIdentifier" : "BJNR021500007BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Umfang des Anspruchs"
+        },
+        {
+          "documentIdentifier" : "BJNR021500007BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Mitwirkung der berechtigten Person"
+        },
+        {
+          "documentIdentifier" : "BJNR021500007BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Ausführung der Zugänglichmachung"
+        },
+        {
+          "documentIdentifier" : "BJNR021500007BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Zeitpunkt der Zugänglichmachung"
+        },
+        {
+          "documentIdentifier" : "BJNR021500007BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Organisation"
+        },
+        {
+          "documentIdentifier" : "BJNR021500007BJNE001000000",
+          "paragraph" : "§ 9",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

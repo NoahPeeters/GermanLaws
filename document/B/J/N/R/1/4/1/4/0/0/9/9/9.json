@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR141400999",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR141400999Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR141400999BJNE000202140",
+          "paragraph" : "§ 1",
+          "title" : "Steuerbefreiungen"
+        },
+        {
+          "documentIdentifier" : "BJNR141400999BJNE000502140",
+          "paragraph" : "§ 2",
+          "title" : "Warenmuster oder -proben von geringem Wert"
+        },
+        {
+          "documentIdentifier" : "BJNR141400999BJNE000601140",
+          "paragraph" : "§ 3",
+          "title" : "Waren zu Prüfungs- und Analyse- oder Versuchszwecken"
+        },
+        {
+          "documentIdentifier" : "BJNR141400999BJNE000701140",
+          "paragraph" : "§ 4",
+          "title" : "Rückwaren"
+        },
+        {
+          "documentIdentifier" : "BJNR141400999BJNE000801140",
+          "paragraph" : "§ 5",
+          "title" : "Andere Steuerbefreiungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

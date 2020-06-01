@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR317110006",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR317110006Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR317110006BJNE000101116",
+          "paragraph" : "§ 1",
+          "title" : "Errichtung, Zweck und Sitz des Bundesamts"
+        },
+        {
+          "documentIdentifier" : "BJNR317110006BJNE000201116",
+          "paragraph" : "§ 2",
+          "title" : "Aufgaben des Bundesamts"
+        },
+        {
+          "documentIdentifier" : "BJNR317110006BJNE000301116",
+          "paragraph" : "§ 3",
+          "title" : "Fachaufsicht"
+        },
+        {
+          "documentIdentifier" : "BJNR317110006BJNE000401116",
+          "paragraph" : "§ 4",
+          "title" : "Übergangsbestimmungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

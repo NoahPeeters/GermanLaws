@@ -1,0 +1,59 @@
+{
+  "documentIdentifier" : "BJNR204800009",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR204800009Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR204800009BJNE000201310",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR204800009BJNE000302116",
+          "paragraph" : "§ 2",
+          "title" : "Versteigerungsmenge, Versteigerungstermine"
+        },
+        {
+          "documentIdentifier" : "BJNR204800009BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Versteigerungsverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR204800009BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Abwicklung"
+        },
+        {
+          "documentIdentifier" : "BJNR204800009BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Berichtspflichten, Überwachung"
+        },
+        {
+          "documentIdentifier" : "BJNR204800009BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Versteigerungen im Auftrag anderer Mitgliedstaaten"
+        },
+        {
+          "documentIdentifier" : "BJNR204800009BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Zuständige Stelle"
+        },
+        {
+          "documentIdentifier" : "BJNR204800009BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR234200009",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR234200009Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR234200009BJNE000201308",
+          "paragraph" : "§ 1",
+          "title" : "Einzelfallbezogene Bemessung des Einstiegsgeldes"
+        },
+        {
+          "documentIdentifier" : "BJNR234200009BJNE000301308",
+          "paragraph" : "§ 2",
+          "title" : "Pauschale Bemessung des Einstiegsgeldes bei besonders zu fördernden Personengruppen"
+        },
+        {
+          "documentIdentifier" : "BJNR234200009BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

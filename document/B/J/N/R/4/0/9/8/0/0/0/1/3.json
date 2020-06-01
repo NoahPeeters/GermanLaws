@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR409800013",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR409800013Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR409800013BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Berichterstattung"
+        },
+        {
+          "documentIdentifier" : "BJNR409800013BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR409800013BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

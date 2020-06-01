@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR021050965",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR021050965Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR021050965BJNE000201377",
+          "paragraph" : "§ 1",
+          "title" : "Form des Antrags"
+        },
+        {
+          "documentIdentifier" : "BJNR021050965BJNE000301377",
+          "paragraph" : "§ 2",
+          "title" : "Inhalt der Eintragung"
+        },
+        {
+          "documentIdentifier" : "BJNR021050965BJNE000401377",
+          "paragraph" : "§ 3",
+          "title" : "Alphabetisches Register"
+        },
+        {
+          "documentIdentifier" : "BJNR021050965BJNE000501377",
+          "paragraph" : "§ 4",
+          "title" : "Eintragungsschein"
+        },
+        {
+          "documentIdentifier" : "BJNR021050965BJNE000602377",
+          "paragraph" : "§ 5",
+          "title" : "Kosten"
+        },
+        {
+          "documentIdentifier" : "BJNR021050965BJNE000801377",
+          "paragraph" : "§ 7",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

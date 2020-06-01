@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR208130990",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR208130990Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR208130990BJNE000100308",
+          "paragraph" : "Art 1",
+          "title" : "Zustimmung zu den Verträgen"
+        },
+        {
+          "documentIdentifier" : "BJNR208130990BJNE000200308",
+          "paragraph" : "Art 2",
+          "title" : "Änderung des Bundeswahlgesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR208130990BJNE000300308",
+          "paragraph" : "Art 3",
+          "title" : "Besondere Maßgaben für die Anwendung des\nBundeswahlgesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR208130990BJNE000400308",
+          "paragraph" : "Art 4",
+          "title" : "Neubekanntmachung des Bundeswahlgesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR208130990BJNE000500308",
+          "paragraph" : "Art 5",
+          "title" : "Berlin-Klausel"
+        },
+        {
+          "documentIdentifier" : "BJNR208130990BJNE000600308",
+          "paragraph" : "Art 6",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR208130990BJNE000700308",
+          "paragraph" : "Anlage",
+          "title" : "(zu Artikel 2 Nr. 3)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

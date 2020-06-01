@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR002850957",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR002850957BJNG000100328",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Abschnitt I u. II"
+    },
+    {
+      "documentIdentifier" : "BJNR002850957BJNG000200328",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR002850957BJNE000500328",
+          "paragraph" : "(XXXX) §§ 23 und 24",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inanspruchnahme von Berliner Altbanken und verlagerten Geldinstituten durch Gläubiger aus dem Saarland"
+    },
+    {
+      "documentIdentifier" : "BJNR002850957BJNG000300328",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlußvorschriften"
+    }
+  ]
+}

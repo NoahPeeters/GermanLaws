@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR008230990",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR008230990Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR008230990BJNE000300308",
+          "paragraph" : "Art 2",
+          "title" : "Neubildung der Rundfunkräte"
+        },
+        {
+          "documentIdentifier" : "BJNR008230990BJNE000400308",
+          "paragraph" : "Art 3",
+          "title" : "Neubildung der Verwaltungsräte"
+        },
+        {
+          "documentIdentifier" : "BJNR008230990BJNE000500308",
+          "paragraph" : "Art 4",
+          "title" : "Berlin-Klausel"
+        },
+        {
+          "documentIdentifier" : "BJNR008230990BJNE000600308",
+          "paragraph" : "Art 5",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

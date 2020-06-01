@@ -1,0 +1,142 @@
+{
+  "documentIdentifier" : "BJNR014699980",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR014699980BJNG000100319",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Zehntes Buch (X) "
+    },
+    {
+      "documentIdentifier" : "BJNR014699980BJNG001800319",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR014699980BJNG001901308",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              1
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR014699980BJNE010801308",
+              "laws" : [
+
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Art II"
+            }
+          ],
+          "title" : "Erster Abschnitt"
+        },
+        {
+          "documentIdentifier" : "BJNR014699980BJNG002001308",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              2
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR014699980BJNE010901308",
+              "laws" : [
+
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  2
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Art II"
+            }
+          ],
+          "title" : "Überleitungsvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR014699980BJNG002100319",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              3
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR014699980BJNE011101308",
+              "laws" : [
+
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  3
+                ]
+              },
+              "subsections" : [
+                {
+                  "documentIdentifier" : "BJNR014699980BJNE011200319",
+                  "laws" : [
+
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      2,
+                      3
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Art II"
+                }
+              ],
+              "title" : "Art II"
+            }
+          ],
+          "title" : "Schlußvorschriften"
+        }
+      ],
+      "title" : "Übergangs- und Schlußvorschriften zum Zehnten Buch Sozialgesetzbuch sowie weitere Änderungen von Gesetzen"
+    }
+  ]
+}

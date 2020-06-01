@@ -1,0 +1,187 @@
+{
+  "documentIdentifier" : "BJNR155400999",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR155400999BJNG000100305",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR155400999BJNE001100305",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR155400999BJNE001200305",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR155400999BJNG000200305",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR155400999BJNE001300305",
+          "paragraph" : "§ 3",
+          "title" : "Untersuchung"
+        },
+        {
+          "documentIdentifier" : "BJNR155400999BJNE001400305",
+          "paragraph" : "§ 4",
+          "title" : "Bewertung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Anforderungen an die Untersuchung und Bewertung von Verdachtsflächen und altlastverdächtigen Flächen"
+    },
+    {
+      "documentIdentifier" : "BJNR155400999BJNG000300305",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR155400999BJNE001500305",
+          "paragraph" : "§ 5",
+          "title" : "Sanierungsmaßnahmen, Schutz- und Beschränkungsmaßnahmen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Anforderungen an die Sanierung von schädlichen Bodenveränderungen und Altlasten"
+    },
+    {
+      "documentIdentifier" : "BJNR155400999BJNG000400305",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR155400999BJNE001600305",
+          "paragraph" : "§ 6",
+          "title" : "Sanierungsuntersuchung und Sanierungsplanung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Ergänzende Vorschriften für Altlasten"
+    },
+    {
+      "documentIdentifier" : "BJNR155400999BJNG000500305",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR155400999BJNE001700305",
+          "paragraph" : "§ 7",
+          "title" : "Ausnahmen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Ausnahmen"
+    },
+    {
+      "documentIdentifier" : "BJNR155400999BJNG000600305",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR155400999BJNE001800305",
+          "paragraph" : "§ 8",
+          "title" : "Gefahrenabwehr von schädlichen Bodenveränderungen\nauf Grund von Bodenerosion durch Wasser"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Ergänzende Vorschriften für die Gefahrenabwehr von schädlichen Bodenveränderungen auf Grund von Bodenerosion durch Wasser"
+    },
+    {
+      "documentIdentifier" : "BJNR155400999BJNG000700305",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR155400999BJNE001900305",
+          "paragraph" : "§ 9",
+          "title" : "Besorgnis schädlicher Bodenveränderungen"
+        },
+        {
+          "documentIdentifier" : "BJNR155400999BJNE002001310",
+          "paragraph" : "§ 10",
+          "title" : "Vorsorgeanforderungen"
+        },
+        {
+          "documentIdentifier" : "BJNR155400999BJNE002100305",
+          "paragraph" : "§ 11",
+          "title" : "Zulässige Zusatzbelastung"
+        },
+        {
+          "documentIdentifier" : "BJNR155400999BJNE002204116",
+          "paragraph" : "§ 12",
+          "title" : "Anforderungen an das Aufbringen und Einbringen von Materialien auf oder in den Boden"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Vorsorge gegen das Entstehen schädlicher Bodenveränderungen"
+    },
+    {
+      "documentIdentifier" : "BJNR155400999BJNG000800305",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR155400999BJNE002300305",
+          "paragraph" : "§ 13",
+          "title" : "Zugänglichkeit von technischen Regeln und\nNormblättern"
+        },
+        {
+          "documentIdentifier" : "BJNR155400999BJNE002400305",
+          "paragraph" : "§ 14",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          8
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlußbestimmungen"
+    }
+  ]
+}

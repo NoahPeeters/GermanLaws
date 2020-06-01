@@ -1,0 +1,107 @@
+{
+  "documentIdentifier" : "BJNR157200006",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR157200006BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR157200006BJNE000201310",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich und Zweck"
+        },
+        {
+          "documentIdentifier" : "BJNR157200006BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR157200006BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR157200006BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Angabe von Emissionsdaten"
+        },
+        {
+          "documentIdentifier" : "BJNR157200006BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Zusätzliche Angaben bei Weiterleitungen von Kuppelgasen"
+        },
+        {
+          "documentIdentifier" : "BJNR157200006BJNE000601116",
+          "paragraph" : "§ 5",
+          "title" : "Zusätzliche Angaben für Anlagen mit Kraft-Wärme-Kopplung"
+        },
+        {
+          "documentIdentifier" : "BJNR157200006BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Zusätzliche Angaben bei Kondensationskraftwerken auf Steinkohle- oder\nBraunkohlebasis"
+        },
+        {
+          "documentIdentifier" : "BJNR157200006BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Allgemeine Anforderungen an die Ermittlung und Angabe von Daten"
+        },
+        {
+          "documentIdentifier" : "BJNR157200006BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Allgemeine Regeln zur Bestimmung der Kohlendioxid-Emissionen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Berichtspflichten"
+    },
+    {
+      "documentIdentifier" : "BJNR157200006BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR157200006BJNE001001310",
+          "paragraph" : "§ 9",
+          "title" : "Elektronische Formularvorlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR157200006BJNE001102310",
+          "paragraph" : "§ 10",
+          "title" : "Verifizierung der Datenmitteilung"
+        },
+        {
+          "documentIdentifier" : "BJNR157200006BJNE001200000",
+          "paragraph" : "§ 11",
+          "title" : "Übermittlungsfrist"
+        },
+        {
+          "documentIdentifier" : "BJNR157200006BJNE001300000",
+          "paragraph" : "§ 12",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Verfahren der Datenerhebung"
+    }
+  ]
+}

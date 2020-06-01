@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR023900993",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR023900993Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR023900993BJNE000300333",
+          "paragraph" : "Art 5",
+          "title" : "Überleitungsvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR023900993BJNE000400333",
+          "paragraph" : "Art 6",
+          "title" : "Schlußvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR023900993BJNE000500333",
+          "paragraph" : "Art 7",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

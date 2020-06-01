@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR113100019",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR113100019Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR113100019BJNE000200000",
+          "paragraph" : "(XXXX) Art 1 bis 10",
+          "title" : "Änderungsvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR113100019BJNE000100000",
+          "paragraph" : "Art 11",
+          "title" : "Evaluierung"
+        },
+        {
+          "documentIdentifier" : "BJNR113100019BJNE000300000",
+          "paragraph" : "Art 12",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

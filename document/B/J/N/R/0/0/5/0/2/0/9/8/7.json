@@ -1,0 +1,64 @@
+{
+  "documentIdentifier" : "BJNR005020987",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR005020987Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR005020987BJNE000205116",
+          "paragraph" : "§ 1",
+          "title" : "Verkehrsfähigkeit von Arzneimitteln, die mit ionisierenden Strahlen behandelt worden sind"
+        },
+        {
+          "documentIdentifier" : "BJNR005020987BJNE000302310",
+          "paragraph" : "§ 2",
+          "title" : "Verkehrsfähigkeit radioaktiver Arzneimittel"
+        },
+        {
+          "documentIdentifier" : "BJNR005020987BJNE000405116",
+          "paragraph" : "§ 3",
+          "title" : "Kennzeichnung, Packungsbeilage, Fachinformation"
+        },
+        {
+          "documentIdentifier" : "BJNR005020987BJNE000502116",
+          "paragraph" : "§ 4",
+          "title" : "Verhältnis zum Strahlenschutzgesetz"
+        },
+        {
+          "documentIdentifier" : "BJNR005020987BJNE000602310",
+          "paragraph" : "§ 5",
+          "title" : "Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR005020987BJNE000702310",
+          "paragraph" : "§ 6",
+          "title" : "Übergangsregelung"
+        },
+        {
+          "documentIdentifier" : "BJNR005020987BJNE001102310",
+          "paragraph" : "§ 6a",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR005020987BJNE000802310",
+          "paragraph" : "§ 7",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR005020987BJNE000901310",
+          "paragraph" : "§ 8",
+          "title" : "(Inkrafttreten)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

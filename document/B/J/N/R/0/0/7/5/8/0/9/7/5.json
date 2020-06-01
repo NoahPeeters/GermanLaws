@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR007580975",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR007580975Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR007580975BJNE000201360",
+          "paragraph" : "§ 1",
+          "title" : "Mindestanforderungen an die Einrichtung und den Bewirtschaftungszustand"
+        },
+        {
+          "documentIdentifier" : "BJNR007580975BJNE000300319",
+          "paragraph" : "§ 2",
+          "title" : "Mindestanforderungen an die Größe"
+        },
+        {
+          "documentIdentifier" : "BJNR007580975BJNE000400319",
+          "paragraph" : "§ 3",
+          "title" : "Ausnahmeregelungen"
+        },
+        {
+          "documentIdentifier" : "BJNR007580975BJNE000500319",
+          "paragraph" : "§ 4",
+          "title" : "Berlin-Klausel"
+        },
+        {
+          "documentIdentifier" : "BJNR007580975BJNE000600319",
+          "paragraph" : "§ 5",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

@@ -1,0 +1,283 @@
+{
+  "documentIdentifier" : "BJNR095910001",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR095910001BJNG000203116",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR095910001BJNE000103116",
+          "paragraph" : "§ 1",
+          "title" : "Zweck der Verordnung"
+        },
+        {
+          "documentIdentifier" : "BJNR095910001BJNE000205116",
+          "paragraph" : "§ 2",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR095910001BJNE000307116",
+          "paragraph" : "§ 3",
+          "title" : "Begriffsbestimmungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR095910001BJNG000304116",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR095910001BJNE000407116",
+          "paragraph" : "§ 4",
+          "title" : "Allgemeine Anforderungen"
+        },
+        {
+          "documentIdentifier" : "BJNR095910001BJNE000504116",
+          "paragraph" : "§ 5",
+          "title" : "Mikrobiologische Anforderungen"
+        },
+        {
+          "documentIdentifier" : "BJNR095910001BJNE000605116",
+          "paragraph" : "§ 6",
+          "title" : "Chemische Anforderungen"
+        },
+        {
+          "documentIdentifier" : "BJNR095910001BJNE000705116",
+          "paragraph" : "§ 7",
+          "title" : "Indikatorparameter"
+        },
+        {
+          "documentIdentifier" : "BJNR095910001BJNE003301116",
+          "paragraph" : "§ 7a",
+          "title" : "Radiologische Anforderungen"
+        },
+        {
+          "documentIdentifier" : "BJNR095910001BJNE000806116",
+          "paragraph" : "§ 8",
+          "title" : "Stelle der Einhaltung"
+        },
+        {
+          "documentIdentifier" : "BJNR095910001BJNE000909116",
+          "paragraph" : "§ 9",
+          "title" : "Maßnahmen im Falle der Nichteinhaltung von Grenzwerten, der Nichterfüllung von Anforderungen, der Überschreitung von technischen Maßnahmenwerten sowie der Überschreitung von Parameterwerten für radioaktive Stoffe"
+        },
+        {
+          "documentIdentifier" : "BJNR095910001BJNE001005116",
+          "paragraph" : "§ 10",
+          "title" : "Zulassung der Abweichung von Grenzwerten für chemische Parameter"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Beschaffenheit des Trinkwassers"
+    },
+    {
+      "documentIdentifier" : "BJNR095910001BJNG000404116",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR095910001BJNE001110116",
+          "paragraph" : "§ 11",
+          "title" : "Aufbereitungsstoffe und Desinfektionsverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR095910001BJNE001205116",
+          "paragraph" : "§ 12",
+          "title" : "Ausnahmegenehmigungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Aufbereitung und Desinfektion"
+    },
+    {
+      "documentIdentifier" : "BJNR095910001BJNG000503116",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR095910001BJNE001306116",
+          "paragraph" : "§ 13",
+          "title" : "Anzeigepflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR095910001BJNE001406116",
+          "paragraph" : "§ 14",
+          "title" : "Untersuchungspflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR095910001BJNE003402116",
+          "paragraph" : "§ 14a",
+          "title" : "Untersuchungspflichten in Bezug auf radioaktive Stoffe"
+        },
+        {
+          "documentIdentifier" : "BJNR095910001BJNE003700116",
+          "paragraph" : "§ 14b",
+          "title" : "Untersuchungspflichten in Bezug auf Legionella spec."
+        },
+        {
+          "documentIdentifier" : "BJNR095910001BJNE001507116",
+          "paragraph" : "§ 15",
+          "title" : "Untersuchungsverfahren und Untersuchungsstellen"
+        },
+        {
+          "documentIdentifier" : "BJNR095910001BJNE003800116",
+          "paragraph" : "§ 15a",
+          "title" : "Anzeigepflicht für Untersuchungsstellen"
+        },
+        {
+          "documentIdentifier" : "BJNR095910001BJNE001607116",
+          "paragraph" : "§ 16",
+          "title" : "Besondere Anzeige- und Handlungspflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR095910001BJNE001707116",
+          "paragraph" : "§ 17",
+          "title" : "Anforderungen an Anlagen für die Gewinnung, Aufbereitung oder Verteilung von Trinkwasser"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Pflichten des Unternehmers und des sonstigen Inhabers einer Wasserversorgungsanlage"
+    },
+    {
+      "documentIdentifier" : "BJNR095910001BJNG000603116",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR095910001BJNE001806116",
+          "paragraph" : "§ 18",
+          "title" : "Überwachung durch das Gesundheitsamt"
+        },
+        {
+          "documentIdentifier" : "BJNR095910001BJNE001913116",
+          "paragraph" : "§ 19",
+          "title" : "Umfang der Überwachung"
+        },
+        {
+          "documentIdentifier" : "BJNR095910001BJNE002007116",
+          "paragraph" : "§ 20",
+          "title" : "Anordnungen des Gesundheitsamtes"
+        },
+        {
+          "documentIdentifier" : "BJNR095910001BJNE003501116",
+          "paragraph" : "§ 20a",
+          "title" : "Überwachung durch die zuständige Behörde im Hinblick auf radioaktive Stoffe"
+        },
+        {
+          "documentIdentifier" : "BJNR095910001BJNE002108116",
+          "paragraph" : "§ 21",
+          "title" : "Information der Verbraucher und Berichtspflichten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Überwachung"
+    },
+    {
+      "documentIdentifier" : "BJNR095910001BJNG000703116",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR095910001BJNE002205116",
+          "paragraph" : "§ 22",
+          "title" : "Vollzug im Bereich der Bundeswehr"
+        },
+        {
+          "documentIdentifier" : "BJNR095910001BJNE002305116",
+          "paragraph" : "§ 23",
+          "title" : "Vollzug im Bereich der Eisenbahnen des Bundes"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Sondervorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR095910001BJNG000803116",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR095910001BJNE002405116",
+          "paragraph" : "§ 24",
+          "title" : "Straftaten"
+        },
+        {
+          "documentIdentifier" : "BJNR095910001BJNE002508116",
+          "paragraph" : "§ 25",
+          "title" : "Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR095910001BJNE002705116",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 5 Absatz 2 und 3)"
+        },
+        {
+          "documentIdentifier" : "BJNR095910001BJNE002806116",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 6 Absatz 2)"
+        },
+        {
+          "documentIdentifier" : "BJNR095910001BJNE002909116",
+          "paragraph" : "Anlage 3",
+          "title" : "(zu § 7 und § 14 Absatz 3)"
+        },
+        {
+          "documentIdentifier" : "BJNR095910001BJNE003601116",
+          "paragraph" : "Anlage 3a",
+          "title" : "(zu den §§ 7a, 9 und 14a)"
+        },
+        {
+          "documentIdentifier" : "BJNR095910001BJNE003008116",
+          "paragraph" : "Anlage 4",
+          "title" : "(zu § 14 Absatz 2 Satz 1 und § 19 Absatz 2b Nummer 1)"
+        },
+        {
+          "documentIdentifier" : "BJNR095910001BJNE003106116",
+          "paragraph" : "Anlage 5",
+          "title" : "(zu § 15 Absatz 1 und 2)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Straftaten und Ordnungswidrigkeiten"
+    }
+  ]
+}

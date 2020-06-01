@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR187600018",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR187600018Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR187600018BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Höhe des Mindestlohns"
+        },
+        {
+          "documentIdentifier" : "BJNR187600018BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

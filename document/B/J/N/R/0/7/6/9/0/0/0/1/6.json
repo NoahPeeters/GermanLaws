@@ -1,0 +1,59 @@
+{
+  "documentIdentifier" : "BJNR076900016",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR076900016Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR076900016BJNE000201118",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich, Anlagegrundsätze und Anlagemanagement"
+        },
+        {
+          "documentIdentifier" : "BJNR076900016BJNE000301118",
+          "paragraph" : "§ 2",
+          "title" : "Anlageformen"
+        },
+        {
+          "documentIdentifier" : "BJNR076900016BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Mischung"
+        },
+        {
+          "documentIdentifier" : "BJNR076900016BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Streuung"
+        },
+        {
+          "documentIdentifier" : "BJNR076900016BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Kongruenz"
+        },
+        {
+          "documentIdentifier" : "BJNR076900016BJNE000701128",
+          "paragraph" : "§ 6",
+          "title" : "Übergangsvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR076900016BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR076900016BJNE000900000",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 5 Satz 1)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

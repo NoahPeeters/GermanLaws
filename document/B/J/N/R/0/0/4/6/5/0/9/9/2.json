@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR004650992",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR004650992Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR004650992BJNE001000305",
+          "paragraph" : "Eingangsformel",
+          "title" : "-"
+        },
+        {
+          "documentIdentifier" : "BJNR004650992BJNE002000305",
+          "paragraph" : "Anlage 1",
+          "title" : "(Anlage IV des BBesG)"
+        },
+        {
+          "documentIdentifier" : "BJNR004650992BJNE003000305",
+          "paragraph" : "Anlage 2",
+          "title" : "(Anlage V des BBesG)\n"
+        },
+        {
+          "documentIdentifier" : "BJNR004650992BJNE004000305",
+          "paragraph" : "Anlage 3",
+          "title" : "(Anlage VIII des BBesG)\n"
+        },
+        {
+          "documentIdentifier" : "BJNR004650992BJNE005000305",
+          "paragraph" : "Anlage 4",
+          "title" : "(Anlage IX des BBesG)\n"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "documentIdentifier" : "BJNR103900009",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR103900009Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR103900009BJNE000201377",
+          "paragraph" : "§ 1",
+          "title" : "Für die Zuchtarbeit verantwortliche Person"
+        },
+        {
+          "documentIdentifier" : "BJNR103900009BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Zuchtbuchordnung"
+        },
+        {
+          "documentIdentifier" : "BJNR103900009BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Inhalt, Gestaltung und Führung des Zuchtbuches"
+        },
+        {
+          "documentIdentifier" : "BJNR103900009BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Zuchtregisterordnung"
+        },
+        {
+          "documentIdentifier" : "BJNR103900009BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Inhalt, Gestaltung und Führung des Zuchtregisters"
+        },
+        {
+          "documentIdentifier" : "BJNR103900009BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Kennzeichnung"
+        },
+        {
+          "documentIdentifier" : "BJNR103900009BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Zuchtbescheinigung und Herkunftsbescheinigung"
+        },
+        {
+          "documentIdentifier" : "BJNR103900009BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Verfahren und Merkmale zur Prüfung der Identität und Abstammung"
+        },
+        {
+          "documentIdentifier" : "BJNR103900009BJNE001000000",
+          "paragraph" : "§ 9",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

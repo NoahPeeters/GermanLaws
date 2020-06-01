@@ -1,0 +1,96 @@
+{
+  "documentIdentifier" : "BJNR304600009",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR304600009BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR304600009BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Versagung des Abzugs von Betriebsausgaben und Werbungskosten"
+        },
+        {
+          "documentIdentifier" : "BJNR304600009BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Versagung der Entlastung vom Steuerabzug"
+        },
+        {
+          "documentIdentifier" : "BJNR304600009BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Versagung des gesonderten Steuertarifs für Einkünfte aus Kapitalvermögen und Versagung des Teileinkünfteverfahrens"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Vorschriften zu § 51 Absatz 1 Nummer 1 Buchstabe f des Einkommensteuergesetzes"
+    },
+    {
+      "documentIdentifier" : "BJNR304600009BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR304600009BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Versagung der Steuerbefreiung nach § 8b Absatz 1 Satz 1 und Absatz 2 Satz 1 des Körperschaftsteuergesetzes"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Vorschriften zu § 33 Absatz 1 Nummer 2 Buchstabe e des Körperschaftsteuergesetzes"
+    },
+    {
+      "documentIdentifier" : "BJNR304600009BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR304600009BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Erstmalige Anwendung des § 90 Absatz 2 Satz 3, des § 147a, des § 162 Absatz 2 Satz 3 und des § 193 Absatz 1 und 2 Nummer 3 der Abgabenordnung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Vorschriften zu Artikel 97 § 22 Absatz 2 des Einführungsgesetzes zur Abgabenordnung"
+    },
+    {
+      "documentIdentifier" : "BJNR304600009BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR304600009BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Anwendungsvorschrift"
+        },
+        {
+          "documentIdentifier" : "BJNR304600009BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussvorschriften"
+    }
+  ]
+}

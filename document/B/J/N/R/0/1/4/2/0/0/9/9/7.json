@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR014200997",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR014200997Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR014200997BJNE000200320",
+          "paragraph" : "§ 1",
+          "title" : "Gleichstellung von Meisterprüfungszeugnissen im\nHandwerk"
+        },
+        {
+          "documentIdentifier" : "BJNR014200997BJNE000300320",
+          "paragraph" : "§ 2",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR014200997BJNE000500320",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 1)\n"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

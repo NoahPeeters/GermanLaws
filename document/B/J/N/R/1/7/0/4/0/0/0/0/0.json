@@ -1,0 +1,74 @@
+{
+  "documentIdentifier" : "BJNR170400000",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR170400000Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR170400000BJNE000200305",
+          "paragraph" : "§ 1",
+          "title" : "Beitragspflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR170400000BJNE000300305",
+          "paragraph" : "§ 2",
+          "title" : "Beitragsbefreiungen"
+        },
+        {
+          "documentIdentifier" : "BJNR170400000BJNE000401308",
+          "paragraph" : "§ 3",
+          "title" : "Ermittlung des Aufwands und Festlegung von Jahresbeiträgen"
+        },
+        {
+          "documentIdentifier" : "BJNR170400000BJNE001300308",
+          "paragraph" : "§ 3a",
+          "title" : "Selbstbehalt"
+        },
+        {
+          "documentIdentifier" : "BJNR170400000BJNE000500305",
+          "paragraph" : "§ 4",
+          "title" : "Ermittlung des Aufwands und Festlegung von Jahresbeiträgen für\nneue Nutzergruppen"
+        },
+        {
+          "documentIdentifier" : "BJNR170400000BJNE000600305",
+          "paragraph" : "§ 5",
+          "title" : "Fälligkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR170400000BJNE000700305",
+          "paragraph" : "§ 6",
+          "title" : "Säumniszuschlag"
+        },
+        {
+          "documentIdentifier" : "BJNR170400000BJNE000800305",
+          "paragraph" : "§ 7",
+          "title" : "Verjährung"
+        },
+        {
+          "documentIdentifier" : "BJNR170400000BJNE000900305",
+          "paragraph" : "§ 8",
+          "title" : "Erstattung von Beitragsanteilen"
+        },
+        {
+          "documentIdentifier" : "BJNR170400000BJNE001001308",
+          "paragraph" : "§ 9",
+          "title" : "Übergangsvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR170400000BJNE001100305",
+          "paragraph" : "§ 10",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

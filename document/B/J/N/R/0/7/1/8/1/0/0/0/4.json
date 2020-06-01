@@ -1,0 +1,601 @@
+{
+  "documentIdentifier" : "BJNR071810004",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR071810004BJNG000101311",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR071810004BJNE000228311",
+          "paragraph" : "§ 1",
+          "title" : "Geltungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR071810004BJNE000302311",
+          "paragraph" : "§ 2",
+          "title" : "Kostenfreiheit"
+        },
+        {
+          "documentIdentifier" : "BJNR071810004BJNE000401311",
+          "paragraph" : "§ 3",
+          "title" : "Höhe der Kosten"
+        },
+        {
+          "documentIdentifier" : "BJNR071810004BJNE000501311",
+          "paragraph" : "§ 4",
+          "title" : "Verweisungen"
+        },
+        {
+          "documentIdentifier" : "BJNR071810004BJNE000606311",
+          "paragraph" : "§ 5",
+          "title" : "Verjährung, Verzinsung"
+        },
+        {
+          "documentIdentifier" : "BJNR071810004BJNE007702311",
+          "paragraph" : "§ 5a",
+          "title" : "Elektronische Akte, elektronisches Dokument"
+        },
+        {
+          "documentIdentifier" : "BJNR071810004BJNE009101311",
+          "paragraph" : "§ 5b",
+          "title" : "Rechtsbehelfsbelehrung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR071810004BJNG000201311",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR071810004BJNE000705311",
+          "paragraph" : "§ 6",
+          "title" : "Fälligkeit der Gebühren im Allgemeinen"
+        },
+        {
+          "documentIdentifier" : "BJNR071810004BJNE000802311",
+          "paragraph" : "§ 7",
+          "title" : "Zwangsversteigerung und Zwangsverwaltung"
+        },
+        {
+          "documentIdentifier" : "BJNR071810004BJNE000901311",
+          "paragraph" : "§ 8",
+          "title" : "Strafsachen, Bußgeldsachen"
+        },
+        {
+          "documentIdentifier" : "BJNR071810004BJNE001007311",
+          "paragraph" : "§ 9",
+          "title" : "Fälligkeit der Gebühren in sonstigen Fällen, Fälligkeit der Auslagen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Fälligkeit"
+    },
+    {
+      "documentIdentifier" : "BJNR071810004BJNG000301311",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR071810004BJNE001102311",
+          "paragraph" : "§ 10",
+          "title" : "Grundsatz für die Abhängigmachung"
+        },
+        {
+          "documentIdentifier" : "BJNR071810004BJNE001202311",
+          "paragraph" : "§ 11",
+          "title" : "Verfahren nach dem Arbeitsgerichtsgesetz"
+        },
+        {
+          "documentIdentifier" : "BJNR071810004BJNE001309311",
+          "paragraph" : "§ 12",
+          "title" : "Verfahren nach der Zivilprozessordnung"
+        },
+        {
+          "documentIdentifier" : "BJNR071810004BJNE008902311",
+          "paragraph" : "§ 12a",
+          "title" : "Verfahren wegen überlanger Gerichtsverfahren und strafrechtlicher Ermittlungsverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR071810004BJNE001401311",
+          "paragraph" : "§ 13",
+          "title" : "Verteilungsverfahren nach der Schifffahrtsrechtlichen Verteilungsordnung"
+        },
+        {
+          "documentIdentifier" : "BJNR071810004BJNE001502311",
+          "paragraph" : "§ 14",
+          "title" : "Ausnahmen von der Abhängigmachung"
+        },
+        {
+          "documentIdentifier" : "BJNR071810004BJNE001601311",
+          "paragraph" : "§ 15",
+          "title" : "Zwangsversteigerungs- und Zwangsverwaltungsverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR071810004BJNE001702311",
+          "paragraph" : "§ 16",
+          "title" : "Privatklage, Nebenklage"
+        },
+        {
+          "documentIdentifier" : "BJNR071810004BJNE001806311",
+          "paragraph" : "§ 17",
+          "title" : "Auslagen"
+        },
+        {
+          "documentIdentifier" : "BJNR071810004BJNE001901311",
+          "paragraph" : "§ 18",
+          "title" : "Fortdauer der Vorschusspflicht"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Vorschuss und Vorauszahlung"
+    },
+    {
+      "documentIdentifier" : "BJNR071810004BJNG000401311",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR071810004BJNE002003311",
+          "paragraph" : "§ 19",
+          "title" : "Kostenansatz"
+        },
+        {
+          "documentIdentifier" : "BJNR071810004BJNE002103311",
+          "paragraph" : "§ 20",
+          "title" : "Nachforderung"
+        },
+        {
+          "documentIdentifier" : "BJNR071810004BJNE002202311",
+          "paragraph" : "§ 21",
+          "title" : "Nichterhebung von Kosten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Kostenansatz"
+    },
+    {
+      "documentIdentifier" : "BJNR071810004BJNG000501311",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR071810004BJNE002317311",
+          "paragraph" : "§ 22",
+          "title" : "Streitverfahren, Bestätigungen und Bescheinigungen zu inländischen Titeln"
+        },
+        {
+          "documentIdentifier" : "BJNR071810004BJNE008408311",
+          "paragraph" : "§ 23",
+          "title" : "Insolvenzverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR071810004BJNE008101311",
+          "paragraph" : "§ 23a",
+          "title" : "Sanierungs- und Reorganisationsverfahren nach dem Kreditinstitute-Reorganisationsgesetz"
+        },
+        {
+          "documentIdentifier" : "BJNR071810004BJNE002501311",
+          "paragraph" : "§ 24",
+          "title" : "Öffentliche Bekanntmachung in ausländischen Insolvenzverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR071810004BJNE002601311",
+          "paragraph" : "§ 25",
+          "title" : "Verteilungsverfahren nach der Schifffahrtsrechtlichen Verteilungsordnung"
+        },
+        {
+          "documentIdentifier" : "BJNR071810004BJNE002701311",
+          "paragraph" : "§ 26",
+          "title" : "Zwangsversteigerungs- und Zwangsverwaltungsverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR071810004BJNE002801311",
+          "paragraph" : "§ 27",
+          "title" : "Bußgeldsachen"
+        },
+        {
+          "documentIdentifier" : "BJNR071810004BJNE002904311",
+          "paragraph" : "§ 28",
+          "title" : "Auslagen in weiteren Fällen"
+        },
+        {
+          "documentIdentifier" : "BJNR071810004BJNE003001311",
+          "paragraph" : "§ 29",
+          "title" : "Weitere Fälle der Kostenhaftung"
+        },
+        {
+          "documentIdentifier" : "BJNR071810004BJNE003101311",
+          "paragraph" : "§ 30",
+          "title" : "Erlöschen der Zahlungspflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR071810004BJNE003203311",
+          "paragraph" : "§ 31",
+          "title" : "Mehrere Kostenschuldner"
+        },
+        {
+          "documentIdentifier" : "BJNR071810004BJNE003301311",
+          "paragraph" : "§ 32",
+          "title" : "Haftung von Streitgenossen und Beigeladenen"
+        },
+        {
+          "documentIdentifier" : "BJNR071810004BJNE003401311",
+          "paragraph" : "§ 33",
+          "title" : "Verpflichtung zur Zahlung von Kosten in besonderen Fällen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Kostenhaftung"
+    },
+    {
+      "documentIdentifier" : "BJNR071810004BJNG000601311",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR071810004BJNE003502311",
+          "paragraph" : "§ 34",
+          "title" : "Wertgebühren"
+        },
+        {
+          "documentIdentifier" : "BJNR071810004BJNE003601311",
+          "paragraph" : "§ 35",
+          "title" : "Einmalige Erhebung der Gebühren"
+        },
+        {
+          "documentIdentifier" : "BJNR071810004BJNE003701311",
+          "paragraph" : "§ 36",
+          "title" : "Teile des Streitgegenstands"
+        },
+        {
+          "documentIdentifier" : "BJNR071810004BJNE003801311",
+          "paragraph" : "§ 37",
+          "title" : "Zurückverweisung"
+        },
+        {
+          "documentIdentifier" : "BJNR071810004BJNE003902311",
+          "paragraph" : "§ 38",
+          "title" : "Verzögerung des Rechtsstreits"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gebührenvorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR071810004BJNG000701311",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR071810004BJNG000801311",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR071810004BJNE004002311",
+              "paragraph" : "§ 39",
+              "title" : "Grundsatz"
+            },
+            {
+              "documentIdentifier" : "BJNR071810004BJNE004101311",
+              "paragraph" : "§ 40",
+              "title" : "Zeitpunkt der Wertberechnung"
+            },
+            {
+              "documentIdentifier" : "BJNR071810004BJNE004201311",
+              "paragraph" : "§ 41",
+              "title" : "Miet-, Pacht- und ähnliche Nutzungsverhältnisse"
+            },
+            {
+              "documentIdentifier" : "BJNR071810004BJNE004304311",
+              "paragraph" : "§ 42",
+              "title" : "Wiederkehrende Leistungen"
+            },
+            {
+              "documentIdentifier" : "BJNR071810004BJNE004401311",
+              "paragraph" : "§ 43",
+              "title" : "Nebenforderungen"
+            },
+            {
+              "documentIdentifier" : "BJNR071810004BJNE004501311",
+              "paragraph" : "§ 44",
+              "title" : "Stufenklage"
+            },
+            {
+              "documentIdentifier" : "BJNR071810004BJNE004601311",
+              "paragraph" : "§ 45",
+              "title" : "Klage und Widerklage, Hilfsanspruch, wechselseitige Rechtsmittel, Aufrechnung"
+            },
+            {
+              "documentIdentifier" : "BJNR071810004BJNE004702311",
+              "paragraph" : "§ 46",
+              "title" : "(weggefallen)"
+            },
+            {
+              "documentIdentifier" : "BJNR071810004BJNE004801311",
+              "paragraph" : "§ 47",
+              "title" : "Rechtsmittelverfahren"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              7,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Allgemeine Wertvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR071810004BJNG000901311",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR071810004BJNE004905311",
+              "paragraph" : "§ 48",
+              "title" : "Bürgerliche Rechtsstreitigkeiten"
+            },
+            {
+              "documentIdentifier" : "BJNR071810004BJNE005002311",
+              "paragraph" : "§ 49",
+              "title" : "(weggefallen)"
+            },
+            {
+              "documentIdentifier" : "BJNR071810004BJNE007901311",
+              "paragraph" : "§ 49a",
+              "title" : "Wohnungseigentumssachen"
+            },
+            {
+              "documentIdentifier" : "BJNR071810004BJNE005110311",
+              "paragraph" : "§ 50",
+              "title" : "Bestimmte Beschwerdeverfahren"
+            },
+            {
+              "documentIdentifier" : "BJNR071810004BJNE005205125",
+              "paragraph" : "§ 51",
+              "title" : "Gewerblicher Rechtsschutz"
+            },
+            {
+              "documentIdentifier" : "BJNR071810004BJNE007804311",
+              "paragraph" : "§ 51a",
+              "title" : "Verfahren nach dem Kapitalanleger-Musterverfahrensgesetz"
+            },
+            {
+              "documentIdentifier" : "BJNR071810004BJNE005306125",
+              "paragraph" : "§ 52",
+              "title" : "Verfahren vor Gerichten der Verwaltungs-, Finanz- und Sozialgerichtsbarkeit"
+            },
+            {
+              "documentIdentifier" : "BJNR071810004BJNE005408377",
+              "paragraph" : "§ 53",
+              "title" : "Einstweiliger Rechtsschutz und Verfahren nach § 148 Absatz 1 und 2 des Aktiengesetzes"
+            },
+            {
+              "documentIdentifier" : "BJNR071810004BJNE008201311",
+              "paragraph" : "§ 53a",
+              "title" : "Sanierungs- und Reorganisationsverfahren nach dem Kreditinstitute-Reorganisationsgesetz"
+            },
+            {
+              "documentIdentifier" : "BJNR071810004BJNE005501311",
+              "paragraph" : "§ 54",
+              "title" : "Zwangsversteigerung"
+            },
+            {
+              "documentIdentifier" : "BJNR071810004BJNE005601311",
+              "paragraph" : "§ 55",
+              "title" : "Zwangsverwaltung"
+            },
+            {
+              "documentIdentifier" : "BJNR071810004BJNE005701311",
+              "paragraph" : "§ 56",
+              "title" : "Zwangsversteigerung von Schiffen, Schiffsbauwerken, Luftfahrzeugen und grundstücksgleichen Rechten"
+            },
+            {
+              "documentIdentifier" : "BJNR071810004BJNE005801311",
+              "paragraph" : "§ 57",
+              "title" : "Zwangsliquidation einer Bahneinheit"
+            },
+            {
+              "documentIdentifier" : "BJNR071810004BJNE005902311",
+              "paragraph" : "§ 58",
+              "title" : "Insolvenzverfahren"
+            },
+            {
+              "documentIdentifier" : "BJNR071810004BJNE006001311",
+              "paragraph" : "§ 59",
+              "title" : "Verteilungsverfahren nach der Schifffahrtsrechtlichen Verteilungsordnung"
+            },
+            {
+              "documentIdentifier" : "BJNR071810004BJNE006102311",
+              "paragraph" : "§ 60",
+              "title" : "Gerichtliche Verfahren nach dem Strafvollzugsgesetz, auch in Verbindung mit § 92 des Jugendgerichtsgesetzes"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              7,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Besondere Wertvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR071810004BJNG001001311",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR071810004BJNE006202311",
+              "paragraph" : "§ 61",
+              "title" : "Angabe des Werts"
+            },
+            {
+              "documentIdentifier" : "BJNR071810004BJNE006301311",
+              "paragraph" : "§ 62",
+              "title" : "Wertfestsetzung für die Zuständigkeit des Prozessgerichts oder die Zulässigkeit des Rechtsmittels"
+            },
+            {
+              "documentIdentifier" : "BJNR071810004BJNE006404311",
+              "paragraph" : "§ 63",
+              "title" : "Wertfestsetzung für die Gerichtsgebühren"
+            },
+            {
+              "documentIdentifier" : "BJNR071810004BJNE006501311",
+              "paragraph" : "§ 64",
+              "title" : "Schätzung des Werts"
+            },
+            {
+              "documentIdentifier" : "BJNR071810004BJNE006602311",
+              "paragraph" : "§ 65",
+              "title" : "Wertfestsetzung in gerichtlichen Verfahren nach dem Strafvollzugsgesetz, auch in Verbindung mit § 92 des Jugendgerichtsgesetzes"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              7,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Wertfestsetzung"
+        }
+      ],
+      "title" : "Wertvorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR071810004BJNG001101311",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR071810004BJNE006709311",
+          "paragraph" : "§ 66",
+          "title" : "Erinnerung gegen den Kostenansatz, Beschwerde"
+        },
+        {
+          "documentIdentifier" : "BJNR071810004BJNE006803311",
+          "paragraph" : "§ 67",
+          "title" : "Beschwerde gegen die Anordnung einer Vorauszahlung"
+        },
+        {
+          "documentIdentifier" : "BJNR071810004BJNE006904311",
+          "paragraph" : "§ 68",
+          "title" : "Beschwerde gegen die Festsetzung des Streitwerts"
+        },
+        {
+          "documentIdentifier" : "BJNR071810004BJNE007002311",
+          "paragraph" : "§ 69",
+          "title" : "Beschwerde gegen die Auferlegung einer Verzögerungsgebühr"
+        },
+        {
+          "documentIdentifier" : "BJNR071810004BJNE007602311",
+          "paragraph" : "§ 69a",
+          "title" : "Abhilfe bei Verletzung des Anspruchs auf rechtliches Gehör"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          8
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Erinnerung und Beschwerde"
+    },
+    {
+      "documentIdentifier" : "BJNR071810004BJNG001202311",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR071810004BJNE009001311",
+          "paragraph" : "§ 69b",
+          "title" : "Verordnungsermächtigung"
+        },
+        {
+          "documentIdentifier" : "BJNR071810004BJNE007104311",
+          "paragraph" : "§ 70",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR071810004BJNE008701311",
+          "paragraph" : "§ 70a",
+          "title" : "Bekanntmachung von Neufassungen"
+        },
+        {
+          "documentIdentifier" : "BJNR071810004BJNE007202311",
+          "paragraph" : "§ 71",
+          "title" : "Übergangsvorschrift"
+        },
+        {
+          "documentIdentifier" : "BJNR071810004BJNE007301311",
+          "paragraph" : "§ 72",
+          "title" : "Übergangsvorschrift aus Anlass des Inkrafttretens dieses Gesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR071810004BJNE008801311",
+          "paragraph" : "§ 73",
+          "title" : "Übergangsvorschrift für die Erhebung von Haftkosten"
+        },
+        {
+          "documentIdentifier" : "BJNR071810004BJNE008656125",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 3 Abs. 2)"
+        },
+        {
+          "documentIdentifier" : "BJNR071810004BJNE007502311",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 34 Absatz 1 Satz 3)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          9
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schluss- und Übergangsvorschriften"
+    }
+  ]
+}

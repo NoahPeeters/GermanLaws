@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR139600011",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR139600011Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR139600011BJNE000201308",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR139600011BJNE000301126",
+          "paragraph" : "§ 2",
+          "title" : "Abgrenzung der Altersversorgungsverpflichtungen"
+        },
+        {
+          "documentIdentifier" : "BJNR139600011BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Versicherungsmathematische Vorgaben"
+        },
+        {
+          "documentIdentifier" : "BJNR139600011BJNE000501126",
+          "paragraph" : "§ 4",
+          "title" : "Höhe, Überprüfung und Anpassung der Zuweisungsbeträge"
+        },
+        {
+          "documentIdentifier" : "BJNR139600011BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Zahlverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR139600011BJNE000701119",
+          "paragraph" : "§ 6",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR139600011BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

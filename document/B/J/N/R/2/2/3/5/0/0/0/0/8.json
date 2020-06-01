@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR223500008",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR223500008Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR223500008BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Gegenstand, Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR223500008BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Höchstmengen und Wertgrenzen"
+        },
+        {
+          "documentIdentifier" : "BJNR223500008BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Sonderfälle"
+        },
+        {
+          "documentIdentifier" : "BJNR223500008BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

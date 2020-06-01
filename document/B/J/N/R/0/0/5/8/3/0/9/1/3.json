@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR005830913",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR005830913Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR005830913BJNE002301315",
+          "paragraph" : "(XXXX) §§ 20 und 21",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR005830913BJNE003505377",
+          "paragraph" : "(XXXX) §§ 39 und 40",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

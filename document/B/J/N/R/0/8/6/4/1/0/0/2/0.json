@@ -1,0 +1,69 @@
+{
+  "documentIdentifier" : "BJNR086410020",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR086410020Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR086410020BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Zweck"
+        },
+        {
+          "documentIdentifier" : "BJNR086410020BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Zuständige Behörde"
+        },
+        {
+          "documentIdentifier" : "BJNR086410020BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Aufgaben, Eingriffsbefugnisse"
+        },
+        {
+          "documentIdentifier" : "BJNR086410020BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Datenübermittlung durch die Zollbehörden an die Bundesanstalt"
+        },
+        {
+          "documentIdentifier" : "BJNR086410020BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Datenübermittlung durch die Bundesanstalt"
+        },
+        {
+          "documentIdentifier" : "BJNR086410020BJNE000600000",
+          "paragraph" : "§ 6",
+          "title" : "Auskunftspflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR086410020BJNE000700000",
+          "paragraph" : "§ 7",
+          "title" : "Betretensrechte, Mitwirkungs- und Duldungspflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR086410020BJNE000800000",
+          "paragraph" : "§ 8",
+          "title" : "Verordnungsermächtigungen"
+        },
+        {
+          "documentIdentifier" : "BJNR086410020BJNE000900000",
+          "paragraph" : "§ 9",
+          "title" : "Zwangsgeld"
+        },
+        {
+          "documentIdentifier" : "BJNR086410020BJNE001000000",
+          "paragraph" : "§ 10",
+          "title" : "Zeitliche Geltung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

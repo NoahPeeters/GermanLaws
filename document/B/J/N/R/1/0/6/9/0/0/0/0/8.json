@@ -1,0 +1,69 @@
+{
+  "documentIdentifier" : "BJNR106900008",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR106900008Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR106900008BJNE000201311",
+          "paragraph" : "§ 1",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR106900008BJNE000301311",
+          "paragraph" : "§ 2",
+          "title" : "Nachweis der theoretischen Sachkunde"
+        },
+        {
+          "documentIdentifier" : "BJNR106900008BJNE000401311",
+          "paragraph" : "§ 3",
+          "title" : "Nachweis der praktischen Sachkunde"
+        },
+        {
+          "documentIdentifier" : "BJNR106900008BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Sachkundelehrgang"
+        },
+        {
+          "documentIdentifier" : "BJNR106900008BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Berufshaftpflichtversicherung"
+        },
+        {
+          "documentIdentifier" : "BJNR106900008BJNE000701311",
+          "paragraph" : "§ 6",
+          "title" : "Registrierungsverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR106900008BJNE000801311",
+          "paragraph" : "§ 7",
+          "title" : "Aufbewahrungsfristen"
+        },
+        {
+          "documentIdentifier" : "BJNR106900008BJNE000902125",
+          "paragraph" : "§ 8",
+          "title" : "Öffentliche Bekanntmachungen im Rechtsdienstleistungsregister"
+        },
+        {
+          "documentIdentifier" : "BJNR106900008BJNE001001125",
+          "paragraph" : "§ 9",
+          "title" : "Löschung von Veröffentlichungen"
+        },
+        {
+          "documentIdentifier" : "BJNR106900008BJNE001100000",
+          "paragraph" : "§ 10",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

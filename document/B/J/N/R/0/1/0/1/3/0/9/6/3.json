@@ -1,0 +1,98 @@
+{
+  "documentIdentifier" : "BJNR010130963",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR010130963BJNG000100306",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR010130963BJNE000402301",
+          "paragraph" : "§ 1",
+          "title" : "Steuerfreie Rücklage für Kapitalanlagen in Entwicklungsländern"
+        },
+        {
+          "documentIdentifier" : "BJNR010130963BJNE000500306",
+          "paragraph" : "§ 2",
+          "title" : "Steuerfreie Rücklage für Beteiligungen an Kapitalgesellschaften\nin Entwicklungsländern, die von der Entwicklungsgesellschaft\nerworben werden"
+        },
+        {
+          "documentIdentifier" : "BJNR010130963BJNE000600306",
+          "paragraph" : "§ 3",
+          "title" : "Sondervorschriften für Kapitalanlagen durch Sacheinlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR010130963BJNE000700306",
+          "paragraph" : "§ 4",
+          "title" : "Sondervorschriften für bestimmte Umwandlungen oder\nVeräußerungen"
+        },
+        {
+          "documentIdentifier" : "BJNR010130963BJNE000800306",
+          "paragraph" : "§ 5",
+          "title" : "Wegfall der Steuervergünstigungen"
+        },
+        {
+          "documentIdentifier" : "BJNR010130963BJNE000900306",
+          "paragraph" : "§ 6",
+          "title" : "Entwicklungsländer"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Steuern vom Einkommen"
+    },
+    {
+      "documentIdentifier" : "BJNR010130963BJNG000200306",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gewerbesteuer und Vermögensteuer"
+    },
+    {
+      "documentIdentifier" : "BJNR010130963BJNG000300306",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR010130963BJNE001101301",
+          "paragraph" : "§ 8",
+          "title" : "Ermächtigung"
+        },
+        {
+          "documentIdentifier" : "BJNR010130963BJNE001201306",
+          "paragraph" : "§ 9",
+          "title" : "Statistik"
+        },
+        {
+          "documentIdentifier" : "BJNR010130963BJNE001300306",
+          "paragraph" : "§ 10",
+          "title" : "Berlin-Klausel"
+        },
+        {
+          "documentIdentifier" : "BJNR010130963BJNE001401306",
+          "paragraph" : "§ 11",
+          "title" : "Anwendungsbereich"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlußvorschriften"
+    }
+  ]
+}

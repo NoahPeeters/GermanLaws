@@ -1,0 +1,1062 @@
+{
+  "documentIdentifier" : "BJNR016010009",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR016010009BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR016010009BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Geltungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR016010009BJNE000301116",
+          "paragraph" : "§ 2",
+          "title" : "Dienstherrnfähigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR016010009BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Begriffsbestimmungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR016010009BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR016010009BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Beamtenverhältnis"
+        },
+        {
+          "documentIdentifier" : "BJNR016010009BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Zulässigkeit des Beamtenverhältnisses"
+        },
+        {
+          "documentIdentifier" : "BJNR016010009BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Arten des Beamtenverhältnisses"
+        },
+        {
+          "documentIdentifier" : "BJNR016010009BJNE000802311",
+          "paragraph" : "§ 7",
+          "title" : "Voraussetzungen des Beamtenverhältnisses"
+        },
+        {
+          "documentIdentifier" : "BJNR016010009BJNE000901116",
+          "paragraph" : "§ 8",
+          "title" : "Stellenausschreibung"
+        },
+        {
+          "documentIdentifier" : "BJNR016010009BJNE001000000",
+          "paragraph" : "§ 9",
+          "title" : "Auswahlkriterien"
+        },
+        {
+          "documentIdentifier" : "BJNR016010009BJNE001100000",
+          "paragraph" : "§ 10",
+          "title" : "Ernennung"
+        },
+        {
+          "documentIdentifier" : "BJNR016010009BJNE001200000",
+          "paragraph" : "§ 11",
+          "title" : "Voraussetzungen der Ernennung auf Lebenszeit"
+        },
+        {
+          "documentIdentifier" : "BJNR016010009BJNE015300116",
+          "paragraph" : "§ 11a",
+          "title" : "Ableisten eines Vorbereitungsdienstes durch Beamtinnen auf Lebenszeit und Beamte auf Lebenszeit"
+        },
+        {
+          "documentIdentifier" : "BJNR016010009BJNE001300000",
+          "paragraph" : "§ 12",
+          "title" : "Zuständigkeit und Wirksamwerden der Ernennung"
+        },
+        {
+          "documentIdentifier" : "BJNR016010009BJNE001401310",
+          "paragraph" : "§ 13",
+          "title" : "Nichtigkeit der Ernennung"
+        },
+        {
+          "documentIdentifier" : "BJNR016010009BJNE001501310",
+          "paragraph" : "§ 14",
+          "title" : "Rücknahme der Ernennung"
+        },
+        {
+          "documentIdentifier" : "BJNR016010009BJNE001600000",
+          "paragraph" : "§ 15",
+          "title" : "Rechtsfolgen nichtiger oder zurückgenommener Ernennungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Beamtenverhältnis"
+    },
+    {
+      "documentIdentifier" : "BJNR016010009BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR016010009BJNE001700000",
+          "paragraph" : "§ 16",
+          "title" : "Laufbahn"
+        },
+        {
+          "documentIdentifier" : "BJNR016010009BJNE001802116",
+          "paragraph" : "§ 17",
+          "title" : "Zulassung zu den Laufbahnen"
+        },
+        {
+          "documentIdentifier" : "BJNR016010009BJNE001910311",
+          "paragraph" : "§ 18",
+          "title" : "Anerkennung der Laufbahnbefähigung aufgrund der Richtlinie 2005\/36\/EG und aufgrund in Drittstaaten erworbener Berufsqualifikationen"
+        },
+        {
+          "documentIdentifier" : "BJNR016010009BJNE002000000",
+          "paragraph" : "§ 19",
+          "title" : "Andere Bewerberinnen und andere Bewerber"
+        },
+        {
+          "documentIdentifier" : "BJNR016010009BJNE002101116",
+          "paragraph" : "§ 20",
+          "title" : "Einstellung"
+        },
+        {
+          "documentIdentifier" : "BJNR016010009BJNE002200000",
+          "paragraph" : "§ 21",
+          "title" : "Dienstliche Beurteilung"
+        },
+        {
+          "documentIdentifier" : "BJNR016010009BJNE002301310",
+          "paragraph" : "§ 22",
+          "title" : "Beförderungen"
+        },
+        {
+          "documentIdentifier" : "BJNR016010009BJNE002401116",
+          "paragraph" : "§ 23",
+          "title" : "Beförderungssperre zwischen zwei Mandaten"
+        },
+        {
+          "documentIdentifier" : "BJNR016010009BJNE002502116",
+          "paragraph" : "§ 24",
+          "title" : "Führungsämter auf Probe"
+        },
+        {
+          "documentIdentifier" : "BJNR016010009BJNE002600000",
+          "paragraph" : "§ 25",
+          "title" : "Benachteiligungsverbote"
+        },
+        {
+          "documentIdentifier" : "BJNR016010009BJNE002701116",
+          "paragraph" : "§ 26",
+          "title" : "Rechtsverordnung über Laufbahnen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Laufbahnen"
+    },
+    {
+      "documentIdentifier" : "BJNR016010009BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR016010009BJNE002802116",
+          "paragraph" : "§ 27",
+          "title" : "Abordnung"
+        },
+        {
+          "documentIdentifier" : "BJNR016010009BJNE002901116",
+          "paragraph" : "§ 28",
+          "title" : "Versetzung"
+        },
+        {
+          "documentIdentifier" : "BJNR016010009BJNE003000000",
+          "paragraph" : "§ 29",
+          "title" : "Zuweisung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Abordnung, Versetzung und Zuweisung"
+    },
+    {
+      "documentIdentifier" : "BJNR016010009BJNG000500000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR016010009BJNG000600000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR016010009BJNE003100000",
+              "paragraph" : "§ 30",
+              "title" : "Beendigungsgründe"
+            },
+            {
+              "documentIdentifier" : "BJNR016010009BJNE003202116",
+              "paragraph" : "§ 31",
+              "title" : "Entlassung kraft Gesetzes"
+            },
+            {
+              "documentIdentifier" : "BJNR016010009BJNE003301116",
+              "paragraph" : "§ 32",
+              "title" : "Entlassung aus zwingenden Gründen"
+            },
+            {
+              "documentIdentifier" : "BJNR016010009BJNE003400000",
+              "paragraph" : "§ 33",
+              "title" : "Entlassung auf Verlangen"
+            },
+            {
+              "documentIdentifier" : "BJNR016010009BJNE003500000",
+              "paragraph" : "§ 34",
+              "title" : "Entlassung von Beamtinnen auf Probe und Beamten auf Probe"
+            },
+            {
+              "documentIdentifier" : "BJNR016010009BJNE003600000",
+              "paragraph" : "§ 35",
+              "title" : "Entlassung von Beamtinnen und Beamten in Führungsämtern auf Probe"
+            },
+            {
+              "documentIdentifier" : "BJNR016010009BJNE003700000",
+              "paragraph" : "§ 36",
+              "title" : "Entlassung von politischen Beamtinnen auf Probe und politischen Beamten auf Probe"
+            },
+            {
+              "documentIdentifier" : "BJNR016010009BJNE003800000",
+              "paragraph" : "§ 37",
+              "title" : "Entlassung von Beamtinnen auf Widerruf und Beamten auf Widerruf"
+            },
+            {
+              "documentIdentifier" : "BJNR016010009BJNE003900000",
+              "paragraph" : "§ 38",
+              "title" : "Verfahren der Entlassung"
+            },
+            {
+              "documentIdentifier" : "BJNR016010009BJNE004001116",
+              "paragraph" : "§ 39",
+              "title" : "Folgen der Entlassung"
+            },
+            {
+              "documentIdentifier" : "BJNR016010009BJNE004101116",
+              "paragraph" : "§ 40",
+              "title" : "Ausscheiden bei Wahlen oder Übernahme politischer Ämter"
+            },
+            {
+              "documentIdentifier" : "BJNR016010009BJNE004200000",
+              "paragraph" : "§ 41",
+              "title" : "Verlust der Beamtenrechte"
+            },
+            {
+              "documentIdentifier" : "BJNR016010009BJNE004300000",
+              "paragraph" : "§ 42",
+              "title" : "Wirkung eines Wiederaufnahmeverfahrens"
+            },
+            {
+              "documentIdentifier" : "BJNR016010009BJNE004400000",
+              "paragraph" : "§ 43",
+              "title" : "Gnadenrecht"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              5,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Entlassung"
+        },
+        {
+          "documentIdentifier" : "BJNR016010009BJNG000700000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR016010009BJNE004501116",
+              "paragraph" : "§ 44",
+              "title" : "Dienstunfähigkeit"
+            },
+            {
+              "documentIdentifier" : "BJNR016010009BJNE004600000",
+              "paragraph" : "§ 45",
+              "title" : "Begrenzte Dienstfähigkeit"
+            },
+            {
+              "documentIdentifier" : "BJNR016010009BJNE004701116",
+              "paragraph" : "§ 46",
+              "title" : "Wiederherstellung der Dienstfähigkeit"
+            },
+            {
+              "documentIdentifier" : "BJNR016010009BJNE004801116",
+              "paragraph" : "§ 47",
+              "title" : "Verfahren bei Dienstunfähigkeit"
+            },
+            {
+              "documentIdentifier" : "BJNR016010009BJNE004901311",
+              "paragraph" : "§ 48",
+              "title" : "Ärztliche Untersuchung"
+            },
+            {
+              "documentIdentifier" : "BJNR016010009BJNE005000000",
+              "paragraph" : "§ 49",
+              "title" : "Ruhestand beim Beamtenverhältnis auf Probe wegen Dienstunfähigkeit"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              5,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Dienstunfähigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR016010009BJNG000800000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR016010009BJNE005100000",
+              "paragraph" : "§ 50",
+              "title" : "Wartezeit"
+            },
+            {
+              "documentIdentifier" : "BJNR016010009BJNE005200000",
+              "paragraph" : "§ 51",
+              "title" : "Ruhestand wegen Erreichens der Altersgrenze"
+            },
+            {
+              "documentIdentifier" : "BJNR016010009BJNE005300000",
+              "paragraph" : "§ 52",
+              "title" : "Ruhestand auf Antrag"
+            },
+            {
+              "documentIdentifier" : "BJNR016010009BJNE005407311",
+              "paragraph" : "§ 53",
+              "title" : "Hinausschieben des Eintritts in den Ruhestand"
+            },
+            {
+              "documentIdentifier" : "BJNR016010009BJNE005504116",
+              "paragraph" : "§ 54",
+              "title" : "Einstweiliger Ruhestand"
+            },
+            {
+              "documentIdentifier" : "BJNR016010009BJNE005600000",
+              "paragraph" : "§ 55",
+              "title" : "Einstweiliger Ruhestand bei organisatorischen Veränderungen"
+            },
+            {
+              "documentIdentifier" : "BJNR016010009BJNE005700000",
+              "paragraph" : "§ 56",
+              "title" : "Beginn des einstweiligen Ruhestands"
+            },
+            {
+              "documentIdentifier" : "BJNR016010009BJNE005800000",
+              "paragraph" : "§ 57",
+              "title" : "Erneute Berufung"
+            },
+            {
+              "documentIdentifier" : "BJNR016010009BJNE005900000",
+              "paragraph" : "§ 58",
+              "title" : "Ende des einstweiligen Ruhestands"
+            },
+            {
+              "documentIdentifier" : "BJNR016010009BJNE006000000",
+              "paragraph" : "§ 59",
+              "title" : "Zuständigkeit bei Versetzung in den Ruhestand"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              5,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Ruhestand"
+        }
+      ],
+      "title" : "Beendigung des Beamtenverhältnisses"
+    },
+    {
+      "documentIdentifier" : "BJNR016010009BJNG000900000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR016010009BJNG001000000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR016010009BJNE006101311",
+              "paragraph" : "§ 60",
+              "title" : "Grundpflichten"
+            },
+            {
+              "documentIdentifier" : "BJNR016010009BJNE006201116",
+              "paragraph" : "§ 61",
+              "title" : "Wahrnehmung der Aufgaben, Verhalten"
+            },
+            {
+              "documentIdentifier" : "BJNR016010009BJNE006300000",
+              "paragraph" : "§ 62",
+              "title" : "Folgepflicht"
+            },
+            {
+              "documentIdentifier" : "BJNR016010009BJNE006401311",
+              "paragraph" : "§ 63",
+              "title" : "Verantwortung für die Rechtmäßigkeit"
+            },
+            {
+              "documentIdentifier" : "BJNR016010009BJNE006500000",
+              "paragraph" : "§ 64",
+              "title" : "Eidespflicht, Eidesformel"
+            },
+            {
+              "documentIdentifier" : "BJNR016010009BJNE006600000",
+              "paragraph" : "§ 65",
+              "title" : "Befreiung von Amtshandlungen"
+            },
+            {
+              "documentIdentifier" : "BJNR016010009BJNE006700000",
+              "paragraph" : "§ 66",
+              "title" : "Verbot der Führung der Dienstgeschäfte"
+            },
+            {
+              "documentIdentifier" : "BJNR016010009BJNE006800000",
+              "paragraph" : "§ 67",
+              "title" : "Verschwiegenheitspflicht"
+            },
+            {
+              "documentIdentifier" : "BJNR016010009BJNE006900000",
+              "paragraph" : "§ 68",
+              "title" : "Versagung der Aussagegenehmigung"
+            },
+            {
+              "documentIdentifier" : "BJNR016010009BJNE007000000",
+              "paragraph" : "§ 69",
+              "title" : "Gutachtenerstattung"
+            },
+            {
+              "documentIdentifier" : "BJNR016010009BJNE007100000",
+              "paragraph" : "§ 70",
+              "title" : "Auskünfte an die Medien"
+            },
+            {
+              "documentIdentifier" : "BJNR016010009BJNE007201116",
+              "paragraph" : "§ 71",
+              "title" : "Verbot der Annahme von Belohnungen, Geschenken und sonstigen Vorteilen"
+            },
+            {
+              "documentIdentifier" : "BJNR016010009BJNE007300000",
+              "paragraph" : "§ 72",
+              "title" : "Wahl der Wohnung"
+            },
+            {
+              "documentIdentifier" : "BJNR016010009BJNE007400000",
+              "paragraph" : "§ 73",
+              "title" : "Aufenthaltspflicht"
+            },
+            {
+              "documentIdentifier" : "BJNR016010009BJNE007500000",
+              "paragraph" : "§ 74",
+              "title" : "Dienstkleidung"
+            },
+            {
+              "documentIdentifier" : "BJNR016010009BJNE007600000",
+              "paragraph" : "§ 75",
+              "title" : "Pflicht zum Schadensersatz"
+            },
+            {
+              "documentIdentifier" : "BJNR016010009BJNE007700000",
+              "paragraph" : "§ 76",
+              "title" : "Übergang eines Schadensersatzanspruchs gegen Dritte"
+            },
+            {
+              "documentIdentifier" : "BJNR016010009BJNE007802311",
+              "paragraph" : "§ 77",
+              "title" : "Nichterfüllung von Pflichten"
+            },
+            {
+              "documentIdentifier" : "BJNR016010009BJNE007900000",
+              "paragraph" : "§ 78",
+              "title" : "Fürsorgepflicht des Dienstherrn"
+            },
+            {
+              "documentIdentifier" : "BJNR016010009BJNE015400116",
+              "paragraph" : "§ 78a",
+              "title" : "Zahlung durch den Dienstherrn bei Schmerzensgeldansprüchen"
+            },
+            {
+              "documentIdentifier" : "BJNR016010009BJNE008002311",
+              "paragraph" : "§ 79",
+              "title" : "Mutterschutz, Elternzeit und Jugendarbeitsschutz"
+            },
+            {
+              "documentIdentifier" : "BJNR016010009BJNE008103311",
+              "paragraph" : "§ 80",
+              "title" : "Beihilfe in Krankheits-, Pflege- und Geburtsfällen"
+            },
+            {
+              "documentIdentifier" : "BJNR016010009BJNE008201311",
+              "paragraph" : "§ 81",
+              "title" : "Reisekosten"
+            },
+            {
+              "documentIdentifier" : "BJNR016010009BJNE008301311",
+              "paragraph" : "§ 82",
+              "title" : "Umzugskosten"
+            },
+            {
+              "documentIdentifier" : "BJNR016010009BJNE008401311",
+              "paragraph" : "§ 83",
+              "title" : "Trennungsgeld"
+            },
+            {
+              "documentIdentifier" : "BJNR016010009BJNE008500000",
+              "paragraph" : "§ 84",
+              "title" : "Jubiläumszuwendung"
+            },
+            {
+              "documentIdentifier" : "BJNR016010009BJNE015100116",
+              "paragraph" : "§ 84a",
+              "title" : "Rückforderung zu viel gezahlter Geldleistungen"
+            },
+            {
+              "documentIdentifier" : "BJNR016010009BJNE008600000",
+              "paragraph" : "§ 85",
+              "title" : "Dienstzeugnis"
+            },
+            {
+              "documentIdentifier" : "BJNR016010009BJNE008700000",
+              "paragraph" : "§ 86",
+              "title" : "Amtsbezeichnungen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              6,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Allgemeine Pflichten und Rechte"
+        },
+        {
+          "documentIdentifier" : "BJNR016010009BJNG001100000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR016010009BJNE008800000",
+              "paragraph" : "§ 87",
+              "title" : "Arbeitszeit"
+            },
+            {
+              "documentIdentifier" : "BJNR016010009BJNE008900000",
+              "paragraph" : "§ 88",
+              "title" : "Mehrarbeit"
+            },
+            {
+              "documentIdentifier" : "BJNR016010009BJNE009001116",
+              "paragraph" : "§ 89",
+              "title" : "Erholungsurlaub"
+            },
+            {
+              "documentIdentifier" : "BJNR016010009BJNE009102116",
+              "paragraph" : "§ 90",
+              "title" : "Urlaub aus anderen Anlässen, Mandatsträgerinnen und Mandatsträger"
+            },
+            {
+              "documentIdentifier" : "BJNR016010009BJNE009200000",
+              "paragraph" : "§ 91",
+              "title" : "Teilzeit"
+            },
+            {
+              "documentIdentifier" : "BJNR016010009BJNE009303116",
+              "paragraph" : "§ 92",
+              "title" : "Familienbedingte Teilzeit, familienbedingte Beurlaubung"
+            },
+            {
+              "documentIdentifier" : "BJNR016010009BJNE014901116",
+              "paragraph" : "§ 92a",
+              "title" : "Familienpflegezeit mit Vorschuss"
+            },
+            {
+              "documentIdentifier" : "BJNR016010009BJNE015500116",
+              "paragraph" : "§ 92b",
+              "title" : "Pflegezeit mit Vorschuss"
+            },
+            {
+              "documentIdentifier" : "BJNR016010009BJNE009408311",
+              "paragraph" : "§ 93",
+              "title" : "Altersteilzeit"
+            },
+            {
+              "documentIdentifier" : "BJNR016010009BJNE009500000",
+              "paragraph" : "§ 94",
+              "title" : "Hinweispflicht"
+            },
+            {
+              "documentIdentifier" : "BJNR016010009BJNE009601310",
+              "paragraph" : "§ 95",
+              "title" : "Beurlaubung ohne Besoldung"
+            },
+            {
+              "documentIdentifier" : "BJNR016010009BJNE009700000",
+              "paragraph" : "§ 96",
+              "title" : "Fernbleiben vom Dienst"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              6,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Arbeitszeit"
+        },
+        {
+          "documentIdentifier" : "BJNR016010009BJNG001200000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR016010009BJNE009800000",
+              "paragraph" : "§ 97",
+              "title" : "Begriffsbestimmungen"
+            },
+            {
+              "documentIdentifier" : "BJNR016010009BJNE009900000",
+              "paragraph" : "§ 98",
+              "title" : "Nebentätigkeit im öffentlichen Dienst"
+            },
+            {
+              "documentIdentifier" : "BJNR016010009BJNE010001116",
+              "paragraph" : "§ 99",
+              "title" : "Genehmigungspflichtige Nebentätigkeiten"
+            },
+            {
+              "documentIdentifier" : "BJNR016010009BJNE010101116",
+              "paragraph" : "§ 100",
+              "title" : "Nicht genehmigungspflichtige Nebentätigkeiten"
+            },
+            {
+              "documentIdentifier" : "BJNR016010009BJNE010201116",
+              "paragraph" : "§ 101",
+              "title" : "Ausübung von Nebentätigkeiten"
+            },
+            {
+              "documentIdentifier" : "BJNR016010009BJNE010300000",
+              "paragraph" : "§ 102",
+              "title" : "Regressanspruch für die Haftung aus angeordneter Nebentätigkeit"
+            },
+            {
+              "documentIdentifier" : "BJNR016010009BJNE010400000",
+              "paragraph" : "§ 103",
+              "title" : "Erlöschen der mit dem Hauptamt verbundenen Nebentätigkeit"
+            },
+            {
+              "documentIdentifier" : "BJNR016010009BJNE010500000",
+              "paragraph" : "§ 104",
+              "title" : "Erlass ausführender Rechtsverordnungen"
+            },
+            {
+              "documentIdentifier" : "BJNR016010009BJNE010602116",
+              "paragraph" : "§ 105",
+              "title" : "Anzeigepflicht nach Beendigung des Beamtenverhältnisses"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              6,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Nebentätigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR016010009BJNG001300000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR016010009BJNE010702311",
+              "paragraph" : "§ 106",
+              "title" : "Personalakte"
+            },
+            {
+              "documentIdentifier" : "BJNR016010009BJNE010802311",
+              "paragraph" : "§ 107",
+              "title" : "Zugang zur Personalakte"
+            },
+            {
+              "documentIdentifier" : "BJNR016010009BJNE010903311",
+              "paragraph" : "§ 108",
+              "title" : "Beihilfeakte"
+            },
+            {
+              "documentIdentifier" : "BJNR016010009BJNE011001311",
+              "paragraph" : "§ 109",
+              "title" : "Anhörung"
+            },
+            {
+              "documentIdentifier" : "BJNR016010009BJNE011101311",
+              "paragraph" : "§ 110",
+              "title" : "Auskunft"
+            },
+            {
+              "documentIdentifier" : "BJNR016010009BJNE011202311",
+              "paragraph" : "§ 111",
+              "title" : "Übermittlung von Personalaktendaten und Auskünfte an Dritte"
+            },
+            {
+              "documentIdentifier" : "BJNR016010009BJNE015201311",
+              "paragraph" : "§ 111a",
+              "title" : "Verarbeitung von Personalaktendaten im Auftrag"
+            },
+            {
+              "documentIdentifier" : "BJNR016010009BJNE015600311",
+              "paragraph" : "§ 111b",
+              "title" : "Aufgabenübertragung"
+            },
+            {
+              "documentIdentifier" : "BJNR016010009BJNE011300000",
+              "paragraph" : "§ 112",
+              "title" : "Entfernung von Unterlagen"
+            },
+            {
+              "documentIdentifier" : "BJNR016010009BJNE011403116",
+              "paragraph" : "§ 113",
+              "title" : "Aufbewahrungsfrist"
+            },
+            {
+              "documentIdentifier" : "BJNR016010009BJNE011500000",
+              "paragraph" : "§ 114",
+              "title" : "Automatisierte Verarbeitung von Personalaktendaten"
+            },
+            {
+              "documentIdentifier" : "BJNR016010009BJNE011600000",
+              "paragraph" : "§ 115",
+              "title" : "Übermittlungen in Strafverfahren"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              6,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Personalaktenrecht"
+        }
+      ],
+      "title" : "Rechtliche Stellung im Beamtenverhältnis"
+    },
+    {
+      "documentIdentifier" : "BJNR016010009BJNG001400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR016010009BJNE011700000",
+          "paragraph" : "§ 116",
+          "title" : "Mitgliedschaft in Gewerkschaften und Berufsverbänden"
+        },
+        {
+          "documentIdentifier" : "BJNR016010009BJNE011800000",
+          "paragraph" : "§ 117",
+          "title" : "Personalvertretung"
+        },
+        {
+          "documentIdentifier" : "BJNR016010009BJNE011900000",
+          "paragraph" : "§ 118",
+          "title" : "Beteiligung der Spitzenorganisationen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Beamtenvertretung"
+    },
+    {
+      "documentIdentifier" : "BJNR016010009BJNG001500000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR016010009BJNE012000000",
+          "paragraph" : "§ 119",
+          "title" : "Aufgaben"
+        },
+        {
+          "documentIdentifier" : "BJNR016010009BJNE012101311",
+          "paragraph" : "§ 120",
+          "title" : "Mitglieder"
+        },
+        {
+          "documentIdentifier" : "BJNR016010009BJNE012201311",
+          "paragraph" : "§ 121",
+          "title" : "Rechtsstellung der Mitglieder"
+        },
+        {
+          "documentIdentifier" : "BJNR016010009BJNE012300000",
+          "paragraph" : "§ 122",
+          "title" : "Geschäftsordnung"
+        },
+        {
+          "documentIdentifier" : "BJNR016010009BJNE012400000",
+          "paragraph" : "§ 123",
+          "title" : "Sitzungen und Beschlüsse"
+        },
+        {
+          "documentIdentifier" : "BJNR016010009BJNE012500000",
+          "paragraph" : "§ 124",
+          "title" : "Beweiserhebung, Auskünfte und Amtshilfe"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          8
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Bundespersonalausschuss"
+    },
+    {
+      "documentIdentifier" : "BJNR016010009BJNG001600000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR016010009BJNE012600000",
+          "paragraph" : "§ 125",
+          "title" : "Dienstweg bei Anträgen und Beschwerden"
+        },
+        {
+          "documentIdentifier" : "BJNR016010009BJNE012700000",
+          "paragraph" : "§ 126",
+          "title" : "Verwaltungsrechtsweg"
+        },
+        {
+          "documentIdentifier" : "BJNR016010009BJNE012801311",
+          "paragraph" : "§ 127",
+          "title" : "Vertretung des Dienstherrn"
+        },
+        {
+          "documentIdentifier" : "BJNR016010009BJNE012900000",
+          "paragraph" : "§ 128",
+          "title" : "Zustellung von Verfügungen und Entscheidungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          9
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Beschwerdeweg und Rechtsschutz"
+    },
+    {
+      "documentIdentifier" : "BJNR016010009BJNG001700000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR016010009BJNE013001116",
+          "paragraph" : "§ 129",
+          "title" : "Beamtinnen und Beamte oberster Bundesorgane"
+        },
+        {
+          "documentIdentifier" : "BJNR016010009BJNE013100000",
+          "paragraph" : "§ 130",
+          "title" : "Wissenschaftliches und leitendes Personal der Hochschulen des Bundes"
+        },
+        {
+          "documentIdentifier" : "BJNR016010009BJNE013200000",
+          "paragraph" : "§ 131",
+          "title" : "Einstellungsvoraussetzungen für Hochschullehrerinnen und Hochschullehrer sowie wissenschaftliche Mitarbeiterinnen und wissenschaftliche Mitarbeiter"
+        },
+        {
+          "documentIdentifier" : "BJNR016010009BJNE013302116",
+          "paragraph" : "§ 132",
+          "title" : "Dienstrechtliche Stellung des hauptberuflichen wissenschaftlichen und leitenden Personals der Hochschulen"
+        },
+        {
+          "documentIdentifier" : "BJNR016010009BJNE013400000",
+          "paragraph" : "§ 133",
+          "title" : "Ehrenbeamtinnen und Ehrenbeamte"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          10
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Besondere Rechtsverhältnisse"
+    },
+    {
+      "documentIdentifier" : "BJNR016010009BJNG001800000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR016010009BJNE013500000",
+          "paragraph" : "§ 134",
+          "title" : "Umbildung einer Körperschaft"
+        },
+        {
+          "documentIdentifier" : "BJNR016010009BJNE013600000",
+          "paragraph" : "§ 135",
+          "title" : "Rechtsfolgen der Umbildung"
+        },
+        {
+          "documentIdentifier" : "BJNR016010009BJNE013701116",
+          "paragraph" : "§ 136",
+          "title" : "Rechtsstellung der Beamtinnen und Beamten"
+        },
+        {
+          "documentIdentifier" : "BJNR016010009BJNE013800000",
+          "paragraph" : "§ 137",
+          "title" : "Rechtsstellung der Versorgungsempfängerinnen und Versorgungsempfänger"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          11
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Umbildung von Körperschaften"
+    },
+    {
+      "documentIdentifier" : "BJNR016010009BJNG001900000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR016010009BJNE013900000",
+          "paragraph" : "§ 138",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR016010009BJNE014000000",
+          "paragraph" : "§ 139",
+          "title" : "Dienstleistung im Verteidigungsfall"
+        },
+        {
+          "documentIdentifier" : "BJNR016010009BJNE014100000",
+          "paragraph" : "§ 140",
+          "title" : "Aufschub der Entlassung und des Ruhestands"
+        },
+        {
+          "documentIdentifier" : "BJNR016010009BJNE014200000",
+          "paragraph" : "§ 141",
+          "title" : "Erneute Berufung von Ruhestandsbeamtinnen und Ruhestandsbeamten"
+        },
+        {
+          "documentIdentifier" : "BJNR016010009BJNE014300000",
+          "paragraph" : "§ 142",
+          "title" : "Verpflichtung zur Gemeinschaftsunterkunft und Mehrarbeit"
+        },
+        {
+          "documentIdentifier" : "BJNR016010009BJNE014400000",
+          "paragraph" : "§ 143",
+          "title" : "Verwendungen im Ausland"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          12
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Spannungs- und Verteidigungsfall, Verwendungen im Ausland"
+    },
+    {
+      "documentIdentifier" : "BJNR016010009BJNG002000000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR016010009BJNE014500000",
+          "paragraph" : "§ 144",
+          "title" : "Entscheidungsrecht oberster Bundesbehörden"
+        },
+        {
+          "documentIdentifier" : "BJNR016010009BJNE014602311",
+          "paragraph" : "§ 145",
+          "title" : "Rechtsverordnungen, Durchführungsvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR016010009BJNE014700000",
+          "paragraph" : "§ 146",
+          "title" : "Öffentlich-rechtliche Religionsgesellschaften"
+        },
+        {
+          "documentIdentifier" : "BJNR016010009BJNE014802116",
+          "paragraph" : "§ 147",
+          "title" : "Übergangsregelungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          13
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übergangs- und Schlussvorschriften"
+    }
+  ]
+}

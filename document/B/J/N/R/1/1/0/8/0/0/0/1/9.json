@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR110800019",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR110800019Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR110800019BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Gebühren und Auslagen"
+        },
+        {
+          "documentIdentifier" : "BJNR110800019BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Geltung des Bundesgebührengesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR110800019BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

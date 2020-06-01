@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR009300020",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR009300020Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR009300020BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Gebührenerhebung"
+        },
+        {
+          "documentIdentifier" : "BJNR009300020BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Gebührenerhebung bei Rechtsgestaltungen"
+        },
+        {
+          "documentIdentifier" : "BJNR009300020BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Tragung der Gebühren durch Dachverbände"
+        },
+        {
+          "documentIdentifier" : "BJNR009300020BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Verfahren für eine Gebührenbefreiung bei steuerbegünstigten Zwecken"
+        },
+        {
+          "documentIdentifier" : "BJNR009300020BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR009300020BJNE000700000",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 1)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

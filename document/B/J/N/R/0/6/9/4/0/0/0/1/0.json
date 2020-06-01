@@ -1,0 +1,156 @@
+{
+  "documentIdentifier" : "BJNR069400010",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR069400010BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR069400010BJNE000300000",
+          "paragraph" : "§ 1",
+          "title" : "Staatliche Anerkennung der Ausbildungsberufe"
+        },
+        {
+          "documentIdentifier" : "BJNR069400010BJNE000400000",
+          "paragraph" : "§ 2",
+          "title" : "Dauer der Berufsausbildung"
+        },
+        {
+          "documentIdentifier" : "BJNR069400010BJNE000500000",
+          "paragraph" : "§ 3",
+          "title" : "Struktur der Berufsausbildung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gemeinsame Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR069400010BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR069400010BJNE000600000",
+          "paragraph" : "§ 4",
+          "title" : "Ausbildungsrahmenplan, Ausbildungsberufsbild"
+        },
+        {
+          "documentIdentifier" : "BJNR069400010BJNE000700000",
+          "paragraph" : "§ 5",
+          "title" : "Durchführung der Berufsausbildung"
+        },
+        {
+          "documentIdentifier" : "BJNR069400010BJNE000800000",
+          "paragraph" : "§ 6",
+          "title" : "Zwischenprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR069400010BJNE000900000",
+          "paragraph" : "§ 7",
+          "title" : "Abschlussprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR069400010BJNE001000000",
+          "paragraph" : "§ 8",
+          "title" : "Gewichtungs- und Bestehensregelungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Vorschriften für den Ausbildungsberuf zum Geomatiker\/zur Geomatikerin"
+    },
+    {
+      "documentIdentifier" : "BJNR069400010BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR069400010BJNE001100000",
+          "paragraph" : "§ 9",
+          "title" : "Ausbildungsrahmenplan, Ausbildungsberufsbild"
+        },
+        {
+          "documentIdentifier" : "BJNR069400010BJNE001200000",
+          "paragraph" : "§ 10",
+          "title" : "Durchführung der Berufsausbildung"
+        },
+        {
+          "documentIdentifier" : "BJNR069400010BJNE001300000",
+          "paragraph" : "§ 11",
+          "title" : "Zwischenprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR069400010BJNE001400000",
+          "paragraph" : "§ 12",
+          "title" : "Abschlussprüfung in der Fachrichtung Vermessung"
+        },
+        {
+          "documentIdentifier" : "BJNR069400010BJNE001500000",
+          "paragraph" : "§ 13",
+          "title" : "Gewichtungs- und Bestehensregelungen in der Fachrichtung Vermessung"
+        },
+        {
+          "documentIdentifier" : "BJNR069400010BJNE001600000",
+          "paragraph" : "§ 14",
+          "title" : "Abschlussprüfung in der Fachrichtung Bergvermessung"
+        },
+        {
+          "documentIdentifier" : "BJNR069400010BJNE001700000",
+          "paragraph" : "§ 15",
+          "title" : "Gewichtungs- und Bestehensregelungen in der Fachrichtung Bergvermessung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Vorschriften für den Ausbildungsberuf zum Vermessungstechniker\/ zur Vermessungstechnikerin"
+    },
+    {
+      "documentIdentifier" : "BJNR069400010BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR069400010BJNE001800000",
+          "paragraph" : "§ 16",
+          "title" : "Bestehende Berufsausbildungsverhältnisse"
+        },
+        {
+          "documentIdentifier" : "BJNR069400010BJNE001900000",
+          "paragraph" : "§ 17",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR069400010BJNE002000000",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 4 Absatz 1 Satz 1)"
+        },
+        {
+          "documentIdentifier" : "BJNR069400010BJNE002100000",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 9 Absatz 1 Satz 1)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussvorschriften"
+    }
+  ]
+}

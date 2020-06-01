@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR030300015",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR030300015Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR030300015BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Weitere Polizeivollzugsbehörden des Landes Bayern"
+        },
+        {
+          "documentIdentifier" : "BJNR030300015BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Weitere Polizeivollzugsbehörde des Landes Brandenburg"
+        },
+        {
+          "documentIdentifier" : "BJNR030300015BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Weitere Polizeivollzugsbehörden des Landes Rheinland-Pfalz"
+        },
+        {
+          "documentIdentifier" : "BJNR030300015BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Weitere Polizeivollzugsbehörden des Landes Sachsen"
+        },
+        {
+          "documentIdentifier" : "BJNR030300015BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Weitere Polizeivollzugsbehörden des Landes Sachsen-Anhalt"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

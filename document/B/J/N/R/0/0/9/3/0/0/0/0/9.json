@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR009300009",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR009300009Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR009300009BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Aufhebung der Anerkennung des Ausbildungsberufes Schiffszimmerer\/Schiffszimmerin"
+        },
+        {
+          "documentIdentifier" : "BJNR009300009BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Besitzstandswahrung"
+        },
+        {
+          "documentIdentifier" : "BJNR009300009BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

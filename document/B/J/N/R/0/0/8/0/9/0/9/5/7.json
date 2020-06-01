@@ -1,0 +1,74 @@
+{
+  "documentIdentifier" : "BJNR008090957",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR008090957BJNG000100326",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Änderung von Gesetzen"
+    },
+    {
+      "documentIdentifier" : "BJNR008090957BJNG000200326",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Vergünstigungen für Staatsangehörige der Vereinten Nationen in Berlin (West)"
+    },
+    {
+      "documentIdentifier" : "BJNR008090957BJNG000300326",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR008090957BJNE000600326",
+          "paragraph" : "§ 12",
+          "title" : "Übergangsregelung bei der Kriegsschadenrente"
+        },
+        {
+          "documentIdentifier" : "BJNR008090957BJNE000700326",
+          "paragraph" : "§ 13",
+          "title" : "Kosten im verwaltungsgerichtlichen Verfahren bei\nKlaglosstellung"
+        },
+        {
+          "documentIdentifier" : "BJNR008090957BJNE000900326",
+          "paragraph" : "§ 15",
+          "title" : "Anwendung in Berlin"
+        },
+        {
+          "documentIdentifier" : "BJNR008090957BJNE001000326",
+          "paragraph" : "§ 16",
+          "title" : "Nichtanwendung im Saarland"
+        },
+        {
+          "documentIdentifier" : "BJNR008090957BJNE001100326",
+          "paragraph" : "§ 17",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Überleitungs- und Schlußvorschriften"
+    }
+  ]
+}

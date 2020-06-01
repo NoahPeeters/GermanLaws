@@ -1,0 +1,150 @@
+{
+  "documentIdentifier" : "BJNR015429981",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR015429981BJNE000600319",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          0
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "-"
+    },
+    {
+      "documentIdentifier" : "BJNR015429981BJNG000200319",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Unterartikel 2"
+    },
+    {
+      "documentIdentifier" : "BJNR015429981BJNG000300319",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Unterartikel 3"
+    },
+    {
+      "documentIdentifier" : "BJNR015429981BJNG000400319",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Änderung des Wohnungsbaugesetzes für das Saarland"
+    },
+    {
+      "documentIdentifier" : "BJNR015429981BJNG000500319",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR015429981BJNE002000319",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              5
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR015429981BJNE002100319",
+              "laws" : [
+
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  5
+                ]
+              },
+              "subsections" : [
+                {
+                  "documentIdentifier" : "BJNR015429981BJNE002200319",
+                  "laws" : [
+
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      5
+                    ]
+                  },
+                  "subsections" : [
+                    {
+                      "documentIdentifier" : "BJNR015429981BJNE002300319",
+                      "laws" : [
+
+                      ],
+                      "sectionNumber" : {
+                        "numbers" : [
+                          5
+                        ]
+                      },
+                      "subsections" : [
+                        {
+                          "documentIdentifier" : "BJNR015429981BJNE002401307",
+                          "laws" : [
+
+                          ],
+                          "sectionNumber" : {
+                            "numbers" : [
+                              5
+                            ]
+                          },
+                          "subsections" : [
+
+                          ],
+                          "title" : "Unterartikel 5"
+                        }
+                      ],
+                      "title" : "Unterartikel 5"
+                    }
+                  ],
+                  "title" : "Unterartikel 5"
+                }
+              ],
+              "title" : "Unterartikel 5"
+            }
+          ],
+          "title" : "Unterartikel 5"
+        }
+      ],
+      "title" : "Schlußvorschriften"
+    }
+  ]
+}

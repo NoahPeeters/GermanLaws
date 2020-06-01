@@ -1,0 +1,79 @@
+{
+  "documentIdentifier" : "BJNR016200016",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR016200016Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR016200016BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Technische Richtlinien des Bundesamtes für Sicherheit in der Informationstechnik"
+        },
+        {
+          "documentIdentifier" : "BJNR016200016BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Dokumentationspflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR016200016BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Qualitätssicherung des Lichtbildes und der Fingerabdruckdaten"
+        },
+        {
+          "documentIdentifier" : "BJNR016200016BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Ausstellung des Ankunftsnachweises"
+        },
+        {
+          "documentIdentifier" : "BJNR016200016BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Muster für den Ankunftsnachweis"
+        },
+        {
+          "documentIdentifier" : "BJNR016200016BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Aushändigung des Ankunftsnachweises"
+        },
+        {
+          "documentIdentifier" : "BJNR016200016BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Änderung der Anschrift, Verlängerung"
+        },
+        {
+          "documentIdentifier" : "BJNR016200016BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR016200016BJNE001100000",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 1)"
+        },
+        {
+          "documentIdentifier" : "BJNR016200016BJNE001200000",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 3 Absatz 1 und § 4 Absatz 1)"
+        },
+        {
+          "documentIdentifier" : "BJNR016200016BJNE001300000",
+          "paragraph" : "Anlage 3",
+          "title" : "(zu § 3 Absatz 2)"
+        },
+        {
+          "documentIdentifier" : "BJNR016200016BJNE001400000",
+          "paragraph" : "Anlage 4",
+          "title" : "(zu § 5)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

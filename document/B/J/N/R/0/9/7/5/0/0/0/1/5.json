@@ -1,0 +1,113 @@
+{
+  "documentIdentifier" : "BJNR097500015",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR097500015BJNG000100360",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR097500015BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Förderziel und Fördervolumen"
+        },
+        {
+          "documentIdentifier" : "BJNR097500015BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Verteilung"
+        },
+        {
+          "documentIdentifier" : "BJNR097500015BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Förderbereiche"
+        },
+        {
+          "documentIdentifier" : "BJNR097500015BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Doppelförderung"
+        },
+        {
+          "documentIdentifier" : "BJNR097500015BJNE000502123",
+          "paragraph" : "§ 5",
+          "title" : "Förderzeitraum"
+        },
+        {
+          "documentIdentifier" : "BJNR097500015BJNE000600000",
+          "paragraph" : "§ 6",
+          "title" : "Förderquote und Bewirtschaftung"
+        },
+        {
+          "documentIdentifier" : "BJNR097500015BJNE000701360",
+          "paragraph" : "§ 7",
+          "title" : "Prüfung der Mittelverwendung"
+        },
+        {
+          "documentIdentifier" : "BJNR097500015BJNE000803123",
+          "paragraph" : "§ 8",
+          "title" : "Rückforderung"
+        },
+        {
+          "documentIdentifier" : "BJNR097500015BJNE000900000",
+          "paragraph" : "§ 9",
+          "title" : "Verwaltungsvereinbarung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Finanzhilfen zur Stärkung der Investitionstätigkeit finanzschwacher Kommunen nach Artikel 104b des Grundgesetzes"
+    },
+    {
+      "documentIdentifier" : "BJNR097500015BJNG000200360",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR097500015BJNE001000360",
+          "paragraph" : "§ 10",
+          "title" : "Förderziel und Fördervolumen"
+        },
+        {
+          "documentIdentifier" : "BJNR097500015BJNE001100360",
+          "paragraph" : "§ 11",
+          "title" : "Verteilung"
+        },
+        {
+          "documentIdentifier" : "BJNR097500015BJNE001200360",
+          "paragraph" : "§ 12",
+          "title" : "Förderbereich und Fördervoraussetzungen"
+        },
+        {
+          "documentIdentifier" : "BJNR097500015BJNE001301123",
+          "paragraph" : "§ 13",
+          "title" : "Förderzeitraum"
+        },
+        {
+          "documentIdentifier" : "BJNR097500015BJNE001400360",
+          "paragraph" : "§ 14",
+          "title" : "Förderquote, Bewirtschaftung und Prüfung der Mittelverwendung"
+        },
+        {
+          "documentIdentifier" : "BJNR097500015BJNE001501123",
+          "paragraph" : "§ 15",
+          "title" : "Rückforderung"
+        },
+        {
+          "documentIdentifier" : "BJNR097500015BJNE001600360",
+          "paragraph" : "§ 16",
+          "title" : "Verwaltungsvereinbarung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Finanzhilfen zur Verbesserung der Schulinfrastruktur finanzschwacher Kommunen nach Artikel 104c des Grundgesetzes"
+    }
+  ]
+}

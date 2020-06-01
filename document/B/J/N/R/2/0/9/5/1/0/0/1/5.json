@@ -1,0 +1,148 @@
+{
+  "documentIdentifier" : "BJNR209510015",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR209510015BJNG000100000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR209510015BJNG000200000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR209510015BJNE000100000",
+              "paragraph" : "§ 1",
+              "title" : "Ausgehende Ersuchen"
+            },
+            {
+              "documentIdentifier" : "BJNR209510015BJNE000200000",
+              "paragraph" : "§ 2",
+              "title" : "Eingehende Ersuchen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Internationale Zusammenarbeit zur Durchführung von Sanktionsrecht der Vereinten Nationen, Flaggenstaatszustimmung"
+        },
+        {
+          "documentIdentifier" : "BJNR209510015BJNG000300000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR209510015BJNE000300000",
+              "paragraph" : "§ 3",
+              "title" : "Befugnisse des Kapitäns nach dem Übereinkommen vom 10. März 1988 zur Bekämpfung widerrechtlicher Handlungen gegen die Sicherheit der Seeschifffahrt (SUA-Übereinkommen) und dem Protokoll vom 14. Oktober 2005 zu diesem Übereinkommen (SUA-Änderungsprotokoll)"
+            },
+            {
+              "documentIdentifier" : "BJNR209510015BJNE000400000",
+              "paragraph" : "§ 4",
+              "title" : "Rechtshilfeersuchen nach dem Internationalen Übereinkommen von 1973 zur Verhütung der Meeresverschmutzung durch Schiffe und zu dem Protokoll von 1978 zu diesem Übereinkommen"
+            },
+            {
+              "documentIdentifier" : "BJNR209510015BJNE000500000",
+              "paragraph" : "§ 5",
+              "title" : "Rechtshilfeersuchen in Strafsachen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Strafrechtliche Zusammenarbeit auf Hoher See"
+        }
+      ],
+      "title" : "Teil 1"
+    },
+    {
+      "documentIdentifier" : "BJNR209510015BJNG000400000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR209510015BJNG000500000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR209510015BJNE000601311",
+              "paragraph" : "§ 6",
+              "title" : "Entschädigung"
+            },
+            {
+              "documentIdentifier" : "BJNR209510015BJNE000701125",
+              "paragraph" : "§ 7",
+              "title" : "Datenverarbeitung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Gemeinsame Regelungen"
+        },
+        {
+          "documentIdentifier" : "BJNR209510015BJNG000600000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR209510015BJNE000800000",
+              "paragraph" : "§ 8",
+              "title" : "Verordnungsermächtigung"
+            },
+            {
+              "documentIdentifier" : "BJNR209510015BJNE000900000",
+              "paragraph" : "§ 9",
+              "title" : "Bußgeldvorschriften"
+            },
+            {
+              "documentIdentifier" : "BJNR209510015BJNE001000000",
+              "paragraph" : "§ 10",
+              "title" : "Anwendungsklausel"
+            },
+            {
+              "documentIdentifier" : "BJNR209510015BJNE001100000",
+              "paragraph" : "§ 11",
+              "title" : "Unberührtheitsklausel"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Schlussbestimmungen"
+        }
+      ],
+      "title" : "Teil 2"
+    }
+  ]
+}

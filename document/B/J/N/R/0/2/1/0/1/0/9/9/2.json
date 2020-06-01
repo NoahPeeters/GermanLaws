@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR021010992",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR021010992Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR021010992BJNE000101308",
+          "paragraph" : "§ 1",
+          "title" : "Stiftung"
+        },
+        {
+          "documentIdentifier" : "BJNR021010992BJNE000201308",
+          "paragraph" : "§ 2",
+          "title" : "Personenkreis"
+        },
+        {
+          "documentIdentifier" : "BJNR021010992BJNE000303308",
+          "paragraph" : "§ 3",
+          "title" : "Leistungen"
+        },
+        {
+          "documentIdentifier" : "BJNR021010992BJNE000401308",
+          "paragraph" : "§ 4",
+          "title" : "Finanzierung"
+        },
+        {
+          "documentIdentifier" : "BJNR021010992BJNE000501308",
+          "paragraph" : "(XXXX) §§ 5 bis 9",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR021010992BJNE001001308",
+          "paragraph" : "§ 10",
+          "title" : "Aufsicht"
+        },
+        {
+          "documentIdentifier" : "BJNR021010992BJNE001101308",
+          "paragraph" : "§ 11",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

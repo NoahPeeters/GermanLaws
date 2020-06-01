@@ -1,0 +1,63 @@
+{
+  "documentIdentifier" : "BJNR031149977",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR031149977BJNG000100315",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Art 1 und 2"
+    },
+    {
+      "documentIdentifier" : "BJNR031149977BJNG000200315",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR031149977BJNE000300315",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR031149977BJNE000400315",
+              "laws" : [
+
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  3
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Art 3"
+            }
+          ],
+          "title" : "Art 3"
+        }
+      ],
+      "title" : "Schlußvorschriften"
+    }
+  ]
+}

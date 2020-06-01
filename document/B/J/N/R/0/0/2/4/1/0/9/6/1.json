@@ -1,0 +1,596 @@
+{
+  "documentIdentifier" : "BJNR002410961",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR002410961BJNG000101305",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR002410961BJNE001604305",
+          "paragraph" : "§ 1",
+          "title" : "Sachlicher Geltungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR002410961BJNE001704305",
+          "paragraph" : "§ 2",
+          "title" : "Genehmigungspflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR002410961BJNE001802305",
+          "paragraph" : "§ 3",
+          "title" : "Unternehmer"
+        },
+        {
+          "documentIdentifier" : "BJNR002410961BJNE001903305",
+          "paragraph" : "§ 4",
+          "title" : "Straßenbahnen, Obusse, Kraftfahrzeuge"
+        },
+        {
+          "documentIdentifier" : "BJNR002410961BJNE002002308",
+          "paragraph" : "§ 5",
+          "title" : "Dokumente"
+        },
+        {
+          "documentIdentifier" : "BJNR002410961BJNE002101305",
+          "paragraph" : "§ 6",
+          "title" : "Umgehungsverbot"
+        },
+        {
+          "documentIdentifier" : "BJNR002410961BJNE002201305",
+          "paragraph" : "§ 7",
+          "title" : "Beförderung von Personen auf Lastkraftwagen und auf\nAnhängern hinter Lastkraftwagen und Zugmaschinen"
+        },
+        {
+          "documentIdentifier" : "BJNR002410961BJNE002308305",
+          "paragraph" : "§ 8",
+          "title" : "Förderung der Verkehrsbedienung und Ausgleich der Verkehrsinteressen im öffentlichen Personennahverkehr"
+        },
+        {
+          "documentIdentifier" : "BJNR002410961BJNE011101305",
+          "paragraph" : "§ 8a",
+          "title" : "Vergabe öffentlicher Dienstleistungsaufträge"
+        },
+        {
+          "documentIdentifier" : "BJNR002410961BJNE011201305",
+          "paragraph" : "§ 8b",
+          "title" : "Wettbewerbliches Vergabeverfahren"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR002410961BJNG000201305",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR002410961BJNE002404308",
+          "paragraph" : "§ 9",
+          "title" : "Umfang der Genehmigung"
+        },
+        {
+          "documentIdentifier" : "BJNR002410961BJNE002502305",
+          "paragraph" : "§ 10",
+          "title" : "Entscheidung in Zweifelsfällen"
+        },
+        {
+          "documentIdentifier" : "BJNR002410961BJNE002606305",
+          "paragraph" : "§ 11",
+          "title" : "Genehmigungsbehörden"
+        },
+        {
+          "documentIdentifier" : "BJNR002410961BJNE002703305",
+          "paragraph" : "§ 12",
+          "title" : "Antragstellung"
+        },
+        {
+          "documentIdentifier" : "BJNR002410961BJNE002808305",
+          "paragraph" : "§ 13",
+          "title" : "Voraussetzung der Genehmigung"
+        },
+        {
+          "documentIdentifier" : "BJNR002410961BJNE010503305",
+          "paragraph" : "§ 13a",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR002410961BJNE002905305",
+          "paragraph" : "§ 14",
+          "title" : "Anhörungsverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR002410961BJNE003005305",
+          "paragraph" : "§ 15",
+          "title" : "Erteilung und Versagung der Genehmigung"
+        },
+        {
+          "documentIdentifier" : "BJNR002410961BJNE003106305",
+          "paragraph" : "§ 16",
+          "title" : "Geltungsdauer der Genehmigung"
+        },
+        {
+          "documentIdentifier" : "BJNR002410961BJNE003206308",
+          "paragraph" : "§ 17",
+          "title" : "Genehmigungsurkunde"
+        },
+        {
+          "documentIdentifier" : "BJNR002410961BJNE003303305",
+          "paragraph" : "§ 18",
+          "title" : "Informationspflicht der Genehmigungsbehörde"
+        },
+        {
+          "documentIdentifier" : "BJNR002410961BJNE003402305",
+          "paragraph" : "§ 19",
+          "title" : "Tod des Unternehmers"
+        },
+        {
+          "documentIdentifier" : "BJNR002410961BJNE003503305",
+          "paragraph" : "§ 20",
+          "title" : "Einstweilige Erlaubnis"
+        },
+        {
+          "documentIdentifier" : "BJNR002410961BJNE003704305",
+          "paragraph" : "§ 21",
+          "title" : "Betriebspflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR002410961BJNE003802305",
+          "paragraph" : "§ 22",
+          "title" : "Beförderungspflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR002410961BJNE003903308",
+          "paragraph" : "§ 23",
+          "title" : "Haftung für Sachschäden"
+        },
+        {
+          "documentIdentifier" : "BJNR002410961BJNE004107305",
+          "paragraph" : "§ 25",
+          "title" : "Widerruf der Genehmigung"
+        },
+        {
+          "documentIdentifier" : "BJNR002410961BJNE010800308",
+          "paragraph" : "§ 25a",
+          "title" : "Untersagung von Personenkraftverkehrsgeschäften"
+        },
+        {
+          "documentIdentifier" : "BJNR002410961BJNE004202305",
+          "paragraph" : "§ 26",
+          "title" : "Erlöschen der Genehmigung"
+        },
+        {
+          "documentIdentifier" : "BJNR002410961BJNE004302305",
+          "paragraph" : "§ 27",
+          "title" : "Zwangsmaßnahmen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Genehmigung"
+    },
+    {
+      "documentIdentifier" : "BJNR002410961BJNG000301305",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR002410961BJNG000401305",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR002410961BJNE004407126",
+              "paragraph" : "§ 28",
+              "title" : "Planfeststellung und vorläufige Anordnung"
+            },
+            {
+              "documentIdentifier" : "BJNR002410961BJNE010300314",
+              "paragraph" : "§ 28a",
+              "title" : "Veränderungssperre, Vorkaufsrecht"
+            },
+            {
+              "documentIdentifier" : "BJNR002410961BJNE011700126",
+              "paragraph" : "§ 28b",
+              "title" : "Projektmanager"
+            },
+            {
+              "documentIdentifier" : "BJNR002410961BJNE011800126",
+              "paragraph" : "§ 28c",
+              "title" : "Veröffentlichung im Internet"
+            },
+            {
+              "documentIdentifier" : "BJNR002410961BJNE004509126",
+              "paragraph" : "§ 29",
+              "title" : "Planfeststellungsbehörde"
+            },
+            {
+              "documentIdentifier" : "BJNR002410961BJNE010400314",
+              "paragraph" : "§ 29a",
+              "title" : "Vorzeitige Besitzeinweisung"
+            },
+            {
+              "documentIdentifier" : "BJNR002410961BJNE004604314",
+              "paragraph" : "§ 30",
+              "title" : "Enteignung"
+            },
+            {
+              "documentIdentifier" : "BJNR002410961BJNE011301126",
+              "paragraph" : "§ 30a",
+              "title" : "Entschädigungsverfahren"
+            },
+            {
+              "documentIdentifier" : "BJNR002410961BJNE004703314",
+              "paragraph" : "§ 31",
+              "title" : "Benutzung öffentlicher Straßen"
+            },
+            {
+              "documentIdentifier" : "BJNR002410961BJNE004802305",
+              "paragraph" : "§ 32",
+              "title" : "Duldungspflichten Dritter"
+            },
+            {
+              "documentIdentifier" : "BJNR002410961BJNE004902305",
+              "paragraph" : "(XXXX) §§ 33 bis 35",
+              "title" : "(weggefallen)"
+            },
+            {
+              "documentIdentifier" : "BJNR002410961BJNE005202305",
+              "paragraph" : "§ 36",
+              "title" : "Bau- und Unterhaltungspflicht"
+            },
+            {
+              "documentIdentifier" : "BJNR002410961BJNE011900126",
+              "paragraph" : "§ 36a",
+              "title" : "Besondere Pflichten im Interesse der Unterhaltung"
+            },
+            {
+              "documentIdentifier" : "BJNR002410961BJNE005302305",
+              "paragraph" : "§ 37",
+              "title" : "Aufnahme des Betriebs"
+            },
+            {
+              "documentIdentifier" : "BJNR002410961BJNE005507305",
+              "paragraph" : "§ 39",
+              "title" : "Beförderungsentgelte und -bedingungen"
+            },
+            {
+              "documentIdentifier" : "BJNR002410961BJNE005604305",
+              "paragraph" : "§ 40",
+              "title" : "Fahrpläne"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Straßenbahnen"
+        },
+        {
+          "documentIdentifier" : "BJNR002410961BJNG000501305",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR002410961BJNE005703126",
+              "paragraph" : "§ 41",
+              "title" : "Entsprechend anwendbare Vorschriften"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Verkehr mit Obussen"
+        },
+        {
+          "documentIdentifier" : "BJNR002410961BJNG000601305",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR002410961BJNE005801305",
+              "paragraph" : "§ 42",
+              "title" : "Begriffsbestimmung Linienverkehr"
+            },
+            {
+              "documentIdentifier" : "BJNR002410961BJNE011500305",
+              "paragraph" : "§ 42a",
+              "title" : "Personenfernverkehr"
+            },
+            {
+              "documentIdentifier" : "BJNR002410961BJNE011400305",
+              "paragraph" : "§ 42b",
+              "title" : "Technische Anforderungen"
+            },
+            {
+              "documentIdentifier" : "BJNR002410961BJNE005901305",
+              "paragraph" : "§ 43",
+              "title" : "Sonderformen des Linienverkehrs"
+            },
+            {
+              "documentIdentifier" : "BJNR002410961BJNE006103305",
+              "paragraph" : "§ 45",
+              "title" : "Sonstige Vorschriften"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Linienverkehr mit Kraftfahrzeugen"
+        },
+        {
+          "documentIdentifier" : "BJNR002410961BJNG000701305",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR002410961BJNE006206308",
+              "paragraph" : "§ 45a",
+              "title" : "Ausgleichspflicht"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Ausgleichszahlungen"
+        },
+        {
+          "documentIdentifier" : "BJNR002410961BJNG000802308",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR002410961BJNE006303305",
+              "paragraph" : "§ 46",
+              "title" : "Formen des Gelegenheitsverkehrs"
+            },
+            {
+              "documentIdentifier" : "BJNR002410961BJNE006405305",
+              "paragraph" : "§ 47",
+              "title" : "Verkehr mit Taxen"
+            },
+            {
+              "documentIdentifier" : "BJNR002410961BJNE006504305",
+              "paragraph" : "§ 48",
+              "title" : "Ausflugsfahrten und Ferienziel-Reisen"
+            },
+            {
+              "documentIdentifier" : "BJNR002410961BJNE006602308",
+              "paragraph" : "§ 49",
+              "title" : "Verkehr mit Mietomnibussen und mit Mietwagen"
+            },
+            {
+              "documentIdentifier" : "BJNR002410961BJNE006803305",
+              "paragraph" : "§ 51",
+              "title" : "Beförderungsentgelte und -bedingungen im Taxenverkehr"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              5
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Gelegenheitsverkehr mit Kraftfahrzeugen"
+        }
+      ],
+      "title" : "Sonderbestimmungen für die einzelnen Verkehrsarten"
+    },
+    {
+      "documentIdentifier" : "BJNR002410961BJNG000901305",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR002410961BJNE006911305",
+          "paragraph" : "§ 52",
+          "title" : "Grenzüberschreitender Verkehr"
+        },
+        {
+          "documentIdentifier" : "BJNR002410961BJNE007008305",
+          "paragraph" : "§ 53",
+          "title" : "Transit-(Durchgangs-)Verkehr"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Auslandsverkehr"
+    },
+    {
+      "documentIdentifier" : "BJNR002410961BJNG001001305",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR002410961BJNE007104308",
+          "paragraph" : "§ 54",
+          "title" : "Aufsicht"
+        },
+        {
+          "documentIdentifier" : "BJNR002410961BJNE007202305",
+          "paragraph" : "§ 54a",
+          "title" : "Prüfungsbefugnisse der Genehmigungsbehörde"
+        },
+        {
+          "documentIdentifier" : "BJNR002410961BJNE010900308",
+          "paragraph" : "§ 54b",
+          "title" : "Risikoeinstufung"
+        },
+        {
+          "documentIdentifier" : "BJNR002410961BJNE011000308",
+          "paragraph" : "§ 54c",
+          "title" : "Verkehrsunternehmensdatei"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Aufsicht, Prüfungsbefugnisse"
+    },
+    {
+      "documentIdentifier" : "BJNR002410961BJNG001102305",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR002410961BJNE007307126",
+          "paragraph" : "§ 55",
+          "title" : "Vorverfahren bei der Anfechtung von Verwaltungsakten"
+        },
+        {
+          "documentIdentifier" : "BJNR002410961BJNE007404305",
+          "paragraph" : "§ 56",
+          "title" : "Gebühren"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Rechtsbehelfsverfahren und Gebühren"
+    },
+    {
+      "documentIdentifier" : "BJNR002410961BJNG001202305",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR002410961BJNE007513305",
+          "paragraph" : "§ 57",
+          "title" : "Rechtsverordnungen"
+        },
+        {
+          "documentIdentifier" : "BJNR002410961BJNE007806308",
+          "paragraph" : "§ 58",
+          "title" : "Allgemeine Verwaltungsvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR002410961BJNE007902305",
+          "paragraph" : "(XXXX) §§ 59 und 59a",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Erlaß von Rechtsverordnungen und Allgemeinen Verwaltungsvorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR002410961BJNG001301305",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR002410961BJNE008101305",
+          "paragraph" : "(XXXX) §§ 60 und 60a",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR002410961BJNE008308308",
+          "paragraph" : "§ 61",
+          "title" : "Ordnungswidrigkeiten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          8
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Bußgeldvorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR002410961BJNG001401305",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR002410961BJNE010701305",
+          "paragraph" : "§ 62",
+          "title" : "Übergangsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR002410961BJNE008404305",
+          "paragraph" : "§ 63",
+          "title" : "Ausschluss abweichenden Landesrechts"
+        },
+        {
+          "documentIdentifier" : "BJNR002410961BJNE008602305",
+          "paragraph" : "§ 64",
+          "title" : "Andere Gesetze"
+        },
+        {
+          "documentIdentifier" : "BJNR002410961BJNE010600308",
+          "paragraph" : "§ 64a",
+          "title" : "Ersetzung bundesrechtlicher Vorschriften durch Landesrecht"
+        },
+        {
+          "documentIdentifier" : "BJNR002410961BJNE011600124",
+          "paragraph" : "§ 64b",
+          "title" : "Landesrecht im Bereich des Gelegenheitsverkehrs"
+        },
+        {
+          "documentIdentifier" : "BJNR002410961BJNE008704123",
+          "paragraph" : "§ 65",
+          "title" : "Ausnahmen für Straßenbahnen"
+        },
+        {
+          "documentIdentifier" : "BJNR002410961BJNE008805305",
+          "paragraph" : "§ 66",
+          "title" : "Berichtspflicht"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          9
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übergangs- und Schlußbestimmungen"
+    }
+  ]
+}

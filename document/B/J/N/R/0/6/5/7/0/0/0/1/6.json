@@ -1,0 +1,535 @@
+{
+  "documentIdentifier" : "BJNR065700016",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR065700016BJNG000100000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR065700016BJNG000200000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR065700016BJNE000200000",
+              "paragraph" : "§ 1",
+              "title" : "Anwendungsbereich"
+            },
+            {
+              "documentIdentifier" : "BJNR065700016BJNE000300000",
+              "paragraph" : "§ 2",
+              "title" : "Schätzung des Auftragswerts"
+            },
+            {
+              "documentIdentifier" : "BJNR065700016BJNE000400000",
+              "paragraph" : "§ 3",
+              "title" : "Antragsverfahren für Tätigkeiten, die unmittelbar dem Wettbewerb ausgesetzt sind"
+            },
+            {
+              "documentIdentifier" : "BJNR065700016BJNE000500000",
+              "paragraph" : "§ 4",
+              "title" : "Gelegentliche gemeinsame Auftragsvergabe"
+            },
+            {
+              "documentIdentifier" : "BJNR065700016BJNE000600000",
+              "paragraph" : "§ 5",
+              "title" : "Wahrung der Vertraulichkeit"
+            },
+            {
+              "documentIdentifier" : "BJNR065700016BJNE000700000",
+              "paragraph" : "§ 6",
+              "title" : "Vermeidung von Interessenkonflikten"
+            },
+            {
+              "documentIdentifier" : "BJNR065700016BJNE000800000",
+              "paragraph" : "§ 7",
+              "title" : "Mitwirkung an der Vorbereitung des Vergabeverfahrens"
+            },
+            {
+              "documentIdentifier" : "BJNR065700016BJNE000900000",
+              "paragraph" : "§ 8",
+              "title" : "Dokumentation"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Allgemeine Bestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR065700016BJNG000300000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR065700016BJNE001000000",
+              "paragraph" : "§ 9",
+              "title" : "Grundsätze der Kommunikation"
+            },
+            {
+              "documentIdentifier" : "BJNR065700016BJNE001100000",
+              "paragraph" : "§ 10",
+              "title" : "Anforderungen an die verwendeten elektronischen Mittel"
+            },
+            {
+              "documentIdentifier" : "BJNR065700016BJNE001202124",
+              "paragraph" : "§ 11",
+              "title" : "Anforderungen an den Einsatz elektronischer Mittel im Vergabeverfahren"
+            },
+            {
+              "documentIdentifier" : "BJNR065700016BJNE001300000",
+              "paragraph" : "§ 12",
+              "title" : "Einsatz alternativer elektronischer Mittel bei der Kommunikation"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Kommunikation"
+        }
+      ],
+      "title" : "Allgemeine Bestimmungen und Kommunikation"
+    },
+    {
+      "documentIdentifier" : "BJNR065700016BJNG000400000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR065700016BJNG000500000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR065700016BJNE001402360",
+              "paragraph" : "§ 13",
+              "title" : "Wahl der Verfahrensart"
+            },
+            {
+              "documentIdentifier" : "BJNR065700016BJNE001500000",
+              "paragraph" : "§ 14",
+              "title" : "Offenes Verfahren; Fristen"
+            },
+            {
+              "documentIdentifier" : "BJNR065700016BJNE001600000",
+              "paragraph" : "§ 15",
+              "title" : "Nicht offenes Verfahren und Verhandlungsverfahren mit vorherigem Teilnahmewettbewerb; Fristen"
+            },
+            {
+              "documentIdentifier" : "BJNR065700016BJNE001700000",
+              "paragraph" : "§ 16",
+              "title" : "Fristsetzung; Pflicht zur Fristverlängerung"
+            },
+            {
+              "documentIdentifier" : "BJNR065700016BJNE001800000",
+              "paragraph" : "§ 17",
+              "title" : "Wettbewerblicher Dialog"
+            },
+            {
+              "documentIdentifier" : "BJNR065700016BJNE001900000",
+              "paragraph" : "§ 18",
+              "title" : "Innovationspartnerschaft"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Verfahrensarten, Fristen"
+        },
+        {
+          "documentIdentifier" : "BJNR065700016BJNG000600000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR065700016BJNE002000000",
+              "paragraph" : "§ 19",
+              "title" : "Rahmenvereinbarungen"
+            },
+            {
+              "documentIdentifier" : "BJNR065700016BJNE002100000",
+              "paragraph" : "§ 20",
+              "title" : "Grundsätze für den Betrieb dynamischer Beschaffungssysteme"
+            },
+            {
+              "documentIdentifier" : "BJNR065700016BJNE002200000",
+              "paragraph" : "§ 21",
+              "title" : "Betrieb eines dynamischen Beschaffungssystems"
+            },
+            {
+              "documentIdentifier" : "BJNR065700016BJNE002300000",
+              "paragraph" : "§ 22",
+              "title" : "Fristen beim Betrieb eines dynamischen Beschaffungssystems"
+            },
+            {
+              "documentIdentifier" : "BJNR065700016BJNE002400000",
+              "paragraph" : "§ 23",
+              "title" : "Grundsätze für die Durchführung elektronischer Auktionen"
+            },
+            {
+              "documentIdentifier" : "BJNR065700016BJNE002500000",
+              "paragraph" : "§ 24",
+              "title" : "Durchführung elektronischer Auktionen"
+            },
+            {
+              "documentIdentifier" : "BJNR065700016BJNE002601360",
+              "paragraph" : "§ 25",
+              "title" : "Elektronische Kataloge"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Besondere Methoden und Instrumente im Vergabeverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR065700016BJNG000700000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR065700016BJNE002700000",
+              "paragraph" : "§ 26",
+              "title" : "Markterkundung"
+            },
+            {
+              "documentIdentifier" : "BJNR065700016BJNE002800000",
+              "paragraph" : "§ 27",
+              "title" : "Aufteilung nach Losen"
+            },
+            {
+              "documentIdentifier" : "BJNR065700016BJNE002900000",
+              "paragraph" : "§ 28",
+              "title" : "Leistungsbeschreibung"
+            },
+            {
+              "documentIdentifier" : "BJNR065700016BJNE003000000",
+              "paragraph" : "§ 29",
+              "title" : "Technische Anforderungen"
+            },
+            {
+              "documentIdentifier" : "BJNR065700016BJNE003100000",
+              "paragraph" : "§ 30",
+              "title" : "Bekanntmachung technischer Anforderungen"
+            },
+            {
+              "documentIdentifier" : "BJNR065700016BJNE003200000",
+              "paragraph" : "§ 31",
+              "title" : "Nachweisführung durch Bescheinigungen von Konformitätsbewertungsstellen"
+            },
+            {
+              "documentIdentifier" : "BJNR065700016BJNE003300000",
+              "paragraph" : "§ 32",
+              "title" : "Nachweisführung durch Gütezeichen"
+            },
+            {
+              "documentIdentifier" : "BJNR065700016BJNE003400000",
+              "paragraph" : "§ 33",
+              "title" : "Nebenangebote"
+            },
+            {
+              "documentIdentifier" : "BJNR065700016BJNE003500000",
+              "paragraph" : "§ 34",
+              "title" : "Unteraufträge"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Vorbereitung des Vergabeverfahrens"
+        },
+        {
+          "documentIdentifier" : "BJNR065700016BJNG000800000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR065700016BJNE003600000",
+              "paragraph" : "§ 35",
+              "title" : "Auftragsbekanntmachungen, Beschafferprofil"
+            },
+            {
+              "documentIdentifier" : "BJNR065700016BJNE003700000",
+              "paragraph" : "§ 36",
+              "title" : "Regelmäßige nicht verbindliche Bekanntmachung"
+            },
+            {
+              "documentIdentifier" : "BJNR065700016BJNE003800000",
+              "paragraph" : "§ 37",
+              "title" : "Bekanntmachung über das Bestehen eines Qualifizierungssystems"
+            },
+            {
+              "documentIdentifier" : "BJNR065700016BJNE003900000",
+              "paragraph" : "§ 38",
+              "title" : "Vergabebekanntmachungen; Bekanntmachung über Auftragsänderungen"
+            },
+            {
+              "documentIdentifier" : "BJNR065700016BJNE004000000",
+              "paragraph" : "§ 39",
+              "title" : "Bekanntmachungen über die Vergabe sozialer und anderer besonderer Dienstleistungen"
+            },
+            {
+              "documentIdentifier" : "BJNR065700016BJNE004100000",
+              "paragraph" : "§ 40",
+              "title" : "Veröffentlichung von Bekanntmachungen"
+            },
+            {
+              "documentIdentifier" : "BJNR065700016BJNE004200000",
+              "paragraph" : "§ 41",
+              "title" : "Bereitstellung der Vergabeunterlagen"
+            },
+            {
+              "documentIdentifier" : "BJNR065700016BJNE004300000",
+              "paragraph" : "§ 42",
+              "title" : "Aufforderung zur Interessensbestätigung, zur Angebotsabgabe, zur Verhandlung oder zur Teilnahme am Dialog"
+            },
+            {
+              "documentIdentifier" : "BJNR065700016BJNE004400000",
+              "paragraph" : "§ 43",
+              "title" : "Form und Übermittlung der Angebote, Teilnahmeanträge, Interessensbekundungen und Interessensbestätigungen"
+            },
+            {
+              "documentIdentifier" : "BJNR065700016BJNE004501118",
+              "paragraph" : "§ 44",
+              "title" : "Erhöhte Sicherheitsanforderungen bei der Übermittlung der Angebote, Teilnahmeanträge, Interessensbekundungen und Interessensbestätigungen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Veröffentlichung, Transparenz"
+        },
+        {
+          "documentIdentifier" : "BJNR065700016BJNG000900000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR065700016BJNE004600000",
+              "paragraph" : "§ 45",
+              "title" : "Grundsätze"
+            },
+            {
+              "documentIdentifier" : "BJNR065700016BJNE004700000",
+              "paragraph" : "§ 46",
+              "title" : "Objektive und nichtdiskriminierende Kriterien"
+            },
+            {
+              "documentIdentifier" : "BJNR065700016BJNE004800000",
+              "paragraph" : "§ 47",
+              "title" : "Eignungsleihe"
+            },
+            {
+              "documentIdentifier" : "BJNR065700016BJNE004900000",
+              "paragraph" : "§ 48",
+              "title" : "Qualifizierungssysteme"
+            },
+            {
+              "documentIdentifier" : "BJNR065700016BJNE005000000",
+              "paragraph" : "§ 49",
+              "title" : "Beleg der Einhaltung von Normen der Qualitätssicherung und des Umweltmanagements"
+            },
+            {
+              "documentIdentifier" : "BJNR065700016BJNE005100000",
+              "paragraph" : "§ 50",
+              "title" : "Rechtsform von Unternehmen und Bietergemeinschaften"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              5
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Anforderungen an die Unternehmen"
+        },
+        {
+          "documentIdentifier" : "BJNR065700016BJNG001000000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR065700016BJNE005200000",
+              "paragraph" : "§ 51",
+              "title" : "Prüfung und Wertung der Angebote; Nachforderung von Unterlagen"
+            },
+            {
+              "documentIdentifier" : "BJNR065700016BJNE005300000",
+              "paragraph" : "§ 52",
+              "title" : "Zuschlag und Zuschlagskriterien"
+            },
+            {
+              "documentIdentifier" : "BJNR065700016BJNE005400000",
+              "paragraph" : "§ 53",
+              "title" : "Berechnung von Lebenszykluskosten"
+            },
+            {
+              "documentIdentifier" : "BJNR065700016BJNE005500000",
+              "paragraph" : "§ 54",
+              "title" : "Ungewöhnlich niedrige Angebote"
+            },
+            {
+              "documentIdentifier" : "BJNR065700016BJNE005600000",
+              "paragraph" : "§ 55",
+              "title" : "Angebote, die Erzeugnisse aus Drittländern umfassen"
+            },
+            {
+              "documentIdentifier" : "BJNR065700016BJNE005700000",
+              "paragraph" : "§ 56",
+              "title" : "Unterrichtung der Bewerber oder Bieter"
+            },
+            {
+              "documentIdentifier" : "BJNR065700016BJNE005800000",
+              "paragraph" : "§ 57",
+              "title" : "Aufhebung und Einstellung des Verfahrens"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              6
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Prüfung und Wertung der Angebote"
+        }
+      ],
+      "title" : "Vergabeverfahren"
+    },
+    {
+      "documentIdentifier" : "BJNR065700016BJNG001100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR065700016BJNE005900000",
+          "paragraph" : "§ 58",
+          "title" : "Beschaffung energieverbrauchsrelevanter Leistungen"
+        },
+        {
+          "documentIdentifier" : "BJNR065700016BJNE006000000",
+          "paragraph" : "§ 59",
+          "title" : "Beschaffung von Straßenfahrzeugen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Besondere Vorschriften für die Beschaffung energieverbrauchsrelevanter Leistungen und von Straßenfahrzeugen"
+    },
+    {
+      "documentIdentifier" : "BJNR065700016BJNG001200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR065700016BJNE006100000",
+          "paragraph" : "§ 60",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR065700016BJNE006200000",
+          "paragraph" : "§ 61",
+          "title" : "Veröffentlichung, Transparenz"
+        },
+        {
+          "documentIdentifier" : "BJNR065700016BJNE006300000",
+          "paragraph" : "§ 62",
+          "title" : "Ausrichtung"
+        },
+        {
+          "documentIdentifier" : "BJNR065700016BJNE006400000",
+          "paragraph" : "§ 63",
+          "title" : "Preisgericht"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Planungswettbewerbe"
+    },
+    {
+      "documentIdentifier" : "BJNR065700016BJNG001300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR065700016BJNE006500000",
+          "paragraph" : "§ 64",
+          "title" : "Übergangsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR065700016BJNE006600000",
+          "paragraph" : "§ 65",
+          "title" : "Fristenberechnung"
+        },
+        {
+          "documentIdentifier" : "BJNR065700016BJNE006700000",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 28 Absatz 2)"
+        },
+        {
+          "documentIdentifier" : "BJNR065700016BJNE006800000",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 59)"
+        },
+        {
+          "documentIdentifier" : "BJNR065700016BJNE006900000",
+          "paragraph" : "Anlage 3",
+          "title" : "(zu § 59 Absatz 2)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übergangs- und Schlussbestimmungen"
+    }
+  ]
+}

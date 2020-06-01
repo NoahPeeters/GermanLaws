@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR314300017",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR314300017Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR314300017BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Errichtung"
+        },
+        {
+          "documentIdentifier" : "BJNR314300017BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "(zukünftig in Kraft)"
+        },
+        {
+          "documentIdentifier" : "BJNR314300017BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Übergangsregelung, Antragsrecht der Länder"
+        },
+        {
+          "documentIdentifier" : "BJNR314300017BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Straßenverkehrsrechtliche Aufgaben des Fernstraßen-Bundesamtes"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

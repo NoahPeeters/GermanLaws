@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR216800001",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR216800001Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR216800001BJNE000101140",
+          "paragraph" : "§ 4",
+          "title" : "Widerspruch"
+        },
+        {
+          "documentIdentifier" : "BJNR216800001BJNE000200000",
+          "paragraph" : "§ 5",
+          "title" : "Widerruf, Rücknahme, Ablehnung und Zurücknahme von Anträgen"
+        },
+        {
+          "documentIdentifier" : "BJNR216800001BJNE000903308",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 1) "
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

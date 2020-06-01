@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR173900994",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR173900994Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR173900994BJNE000100307",
+          "paragraph" : "(XXXX) Art 1 bis 3",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR173900994BJNE000200307",
+          "paragraph" : "Art 4",
+          "title" : "Übergangsvorschrift"
+        },
+        {
+          "documentIdentifier" : "BJNR173900994BJNE000300307",
+          "paragraph" : "Art 5",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

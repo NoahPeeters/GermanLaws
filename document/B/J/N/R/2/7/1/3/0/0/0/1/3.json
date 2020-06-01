@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR271300013",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR271300013Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR271300013BJNE000204124",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR271300013BJNE000301124",
+          "paragraph" : "§ 2",
+          "title" : "Gebühren und Auslagen"
+        },
+        {
+          "documentIdentifier" : "BJNR271300013BJNE000402124",
+          "paragraph" : "§ 3",
+          "title" : "Gebührenbemessung"
+        },
+        {
+          "documentIdentifier" : "BJNR271300013BJNE000501124",
+          "paragraph" : "§ 4",
+          "title" : "Befreiung von Gebühren und Auslagen"
+        },
+        {
+          "documentIdentifier" : "BJNR271300013BJNE000601124",
+          "paragraph" : "§ 5",
+          "title" : "Übergangsregelung"
+        },
+        {
+          "documentIdentifier" : "BJNR271300013BJNE000702124",
+          "paragraph" : "§ 6",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR271300013BJNE000902124",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 2 Absatz 1)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

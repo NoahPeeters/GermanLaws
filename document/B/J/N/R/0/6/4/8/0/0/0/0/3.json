@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR064800003",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR064800003Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR064800003BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR064800003BJNE000303305",
+          "paragraph" : "§ 2",
+          "title" : "Voraussetzungen"
+        },
+        {
+          "documentIdentifier" : "BJNR064800003BJNE000402305",
+          "paragraph" : "§ 3",
+          "title" : "Verfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR064800003BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Gebührenhöhe"
+        },
+        {
+          "documentIdentifier" : "BJNR064800003BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

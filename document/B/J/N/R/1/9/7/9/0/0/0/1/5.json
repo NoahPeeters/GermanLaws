@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR197900015",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR197900015Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR197900015BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Baumschulerhebung"
+        },
+        {
+          "documentIdentifier" : "BJNR197900015BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Aquakulturstatistik"
+        },
+        {
+          "documentIdentifier" : "BJNR197900015BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

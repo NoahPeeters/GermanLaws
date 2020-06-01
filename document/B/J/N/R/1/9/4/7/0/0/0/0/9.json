@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR194700009",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR194700009Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR194700009BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Aufgabe"
+        },
+        {
+          "documentIdentifier" : "BJNR194700009BJNE000201119",
+          "paragraph" : "§ 2",
+          "title" : "Rechtsform, anzuwendendes Recht"
+        },
+        {
+          "documentIdentifier" : "BJNR194700009BJNE000303119",
+          "paragraph" : "§ 3",
+          "title" : "Besondere Bestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR194700009BJNE000401119",
+          "paragraph" : "§ 4",
+          "title" : "Leistungsumfang"
+        },
+        {
+          "documentIdentifier" : "BJNR194700009BJNE000501308",
+          "paragraph" : "§ 5",
+          "title" : "Beschränkung des Anrechts"
+        },
+        {
+          "documentIdentifier" : "BJNR194700009BJNE000600000",
+          "paragraph" : "§ 6",
+          "title" : "Bilanzierung von Rückdeckungsversicherungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

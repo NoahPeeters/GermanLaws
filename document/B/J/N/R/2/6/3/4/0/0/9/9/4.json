@@ -1,0 +1,64 @@
+{
+  "documentIdentifier" : "BJNR263400994",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR263400994Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR263400994BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Geltungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR263400994BJNE000202307",
+          "paragraph" : "§ 2",
+          "title" : "Schuldbuchforderungen mit besonderen Vermerken"
+        },
+        {
+          "documentIdentifier" : "BJNR263400994BJNE000301307",
+          "paragraph" : "§ 3",
+          "title" : "Schuldbuchforderungen ohne besondere Vermerke"
+        },
+        {
+          "documentIdentifier" : "BJNR263400994BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Hinterlegungen aus Schuldbuchforderungen"
+        },
+        {
+          "documentIdentifier" : "BJNR263400994BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Restitution"
+        },
+        {
+          "documentIdentifier" : "BJNR263400994BJNE000600000",
+          "paragraph" : "§ 6",
+          "title" : "Schließung der Schuldbücher"
+        },
+        {
+          "documentIdentifier" : "BJNR263400994BJNE000700000",
+          "paragraph" : "§ 7",
+          "title" : "Finanzielle Aufwendungen"
+        },
+        {
+          "documentIdentifier" : "BJNR263400994BJNE000800000",
+          "paragraph" : "§ 8",
+          "title" : "Aktenaufbewahrung"
+        },
+        {
+          "documentIdentifier" : "BJNR263400994BJNE000900000",
+          "paragraph" : "§ 9",
+          "title" : "Ausschlußfrist sonstiger Ansprüche aus Schuldbuchforderungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

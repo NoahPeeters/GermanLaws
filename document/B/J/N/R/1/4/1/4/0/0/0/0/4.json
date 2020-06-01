@@ -1,0 +1,171 @@
+{
+  "documentIdentifier" : "BJNR141400004",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR141400004BJNG000101140",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR141400004BJNE000102140",
+          "paragraph" : "§ 1",
+          "title" : "Zweck des Gesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR141400004BJNE000203123",
+          "paragraph" : "§ 2",
+          "title" : "Definitionen"
+        },
+        {
+          "documentIdentifier" : "BJNR141400004BJNE000303123",
+          "paragraph" : "§ 3",
+          "title" : "Verbot unlauterer geschäftlicher Handlungen"
+        },
+        {
+          "documentIdentifier" : "BJNR141400004BJNE002500123",
+          "paragraph" : "§ 3a",
+          "title" : "Rechtsbruch"
+        },
+        {
+          "documentIdentifier" : "BJNR141400004BJNE000403123",
+          "paragraph" : "§ 4",
+          "title" : "Mitbewerberschutz"
+        },
+        {
+          "documentIdentifier" : "BJNR141400004BJNE002600123",
+          "paragraph" : "§ 4a",
+          "title" : "Aggressive geschäftliche Handlungen"
+        },
+        {
+          "documentIdentifier" : "BJNR141400004BJNE000503123",
+          "paragraph" : "§ 5",
+          "title" : "Irreführende geschäftliche Handlungen"
+        },
+        {
+          "documentIdentifier" : "BJNR141400004BJNE002303123",
+          "paragraph" : "§ 5a",
+          "title" : "Irreführung durch Unterlassen"
+        },
+        {
+          "documentIdentifier" : "BJNR141400004BJNE000602140",
+          "paragraph" : "§ 6",
+          "title" : "Vergleichende Werbung"
+        },
+        {
+          "documentIdentifier" : "BJNR141400004BJNE000704360",
+          "paragraph" : "§ 7",
+          "title" : "Unzumutbare Belästigungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Bestimmungen"
+    },
+    {
+      "documentIdentifier" : "BJNR141400004BJNG000201140",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR141400004BJNE000807123",
+          "paragraph" : "§ 8",
+          "title" : "Beseitigung und Unterlassung"
+        },
+        {
+          "documentIdentifier" : "BJNR141400004BJNE000902140",
+          "paragraph" : "§ 9",
+          "title" : "Schadensersatz"
+        },
+        {
+          "documentIdentifier" : "BJNR141400004BJNE001003140",
+          "paragraph" : "§ 10",
+          "title" : "Gewinnabschöpfung"
+        },
+        {
+          "documentIdentifier" : "BJNR141400004BJNE001101140",
+          "paragraph" : "§ 11",
+          "title" : "Verjährung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Rechtsfolgen"
+    },
+    {
+      "documentIdentifier" : "BJNR141400004BJNG000301140",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR141400004BJNE001202360",
+          "paragraph" : "§ 12",
+          "title" : "Anspruchsdurchsetzung, Veröffentlichungsbefugnis, Streitwertminderung"
+        },
+        {
+          "documentIdentifier" : "BJNR141400004BJNE001301140",
+          "paragraph" : "§ 13",
+          "title" : "Sachliche Zuständigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR141400004BJNE001401140",
+          "paragraph" : "§ 14",
+          "title" : "Örtliche Zuständigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR141400004BJNE001502140",
+          "paragraph" : "§ 15",
+          "title" : "Einigungsstellen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Verfahrensvorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR141400004BJNG000402140",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR141400004BJNE001601140",
+          "paragraph" : "§ 16",
+          "title" : "Strafbare Werbung"
+        },
+        {
+          "documentIdentifier" : "BJNR141400004BJNE001702360",
+          "paragraph" : "(XXXX) §§ 17 bis 19",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR141400004BJNE002003360",
+          "paragraph" : "§ 20",
+          "title" : "Bußgeldvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR141400004BJNE002403123",
+          "paragraph" : "Anhang",
+          "title" : "(zu § 3 Absatz 3)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Straf- und Bußgeldvorschriften"
+    }
+  ]
+}

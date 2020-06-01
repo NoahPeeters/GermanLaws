@@ -1,0 +1,286 @@
+{
+  "documentIdentifier" : "BJNR188210005",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR188210005BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR188210005BJNE000105360",
+          "paragraph" : "§ 1",
+          "title" : "Lenk- und Ruhezeiten im Straßenverkehr"
+        },
+        {
+          "documentIdentifier" : "BJNR188210005BJNE000204360",
+          "paragraph" : "§ 2",
+          "title" : "Digitaler Fahrtenschreiber"
+        },
+        {
+          "documentIdentifier" : "BJNR188210005BJNE003200301",
+          "paragraph" : "§ 2a",
+          "title" : "Aufbewahrung von Kontrollunterlagen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Lenk- und Ruhezeiten im nationalen Bereich"
+    },
+    {
+      "documentIdentifier" : "BJNR188210005BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR188210005BJNE000303360",
+          "paragraph" : "§ 3",
+          "title" : "Zertifizierungsinfrastruktur"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Organisation"
+    },
+    {
+      "documentIdentifier" : "BJNR188210005BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR188210005BJNE000402360",
+          "paragraph" : "§ 4",
+          "title" : "Allgemeines"
+        },
+        {
+          "documentIdentifier" : "BJNR188210005BJNE000502360",
+          "paragraph" : "§ 5",
+          "title" : "Fahrerkarte"
+        },
+        {
+          "documentIdentifier" : "BJNR188210005BJNE000602360",
+          "paragraph" : "§ 6",
+          "title" : "Mitführen der abgelaufenen Fahrerkarte"
+        },
+        {
+          "documentIdentifier" : "BJNR188210005BJNE000702360",
+          "paragraph" : "§ 7",
+          "title" : "Werkstattkarte"
+        },
+        {
+          "documentIdentifier" : "BJNR188210005BJNE000802360",
+          "paragraph" : "§ 8",
+          "title" : "Wegfall von Erteilungsvoraussetzungen"
+        },
+        {
+          "documentIdentifier" : "BJNR188210005BJNE000902360",
+          "paragraph" : "§ 9",
+          "title" : "Unternehmenskarte"
+        },
+        {
+          "documentIdentifier" : "BJNR188210005BJNE001001360",
+          "paragraph" : "§ 10",
+          "title" : "Kontrollkarte"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Kontrollsystem nach EG-Verordnungen"
+    },
+    {
+      "documentIdentifier" : "BJNR188210005BJNG000401360",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR188210005BJNE001101360",
+          "paragraph" : "§ 11",
+          "title" : "Führung und Zweckbestimmung des Registers"
+        },
+        {
+          "documentIdentifier" : "BJNR188210005BJNE001202360",
+          "paragraph" : "§ 12",
+          "title" : "Inhalt des Registers"
+        },
+        {
+          "documentIdentifier" : "BJNR188210005BJNE001302360",
+          "paragraph" : "§ 13",
+          "title" : "Löschung von Eintragungen im Zentralen Fahrtenschreiberkartenregister"
+        },
+        {
+          "documentIdentifier" : "BJNR188210005BJNE001401360",
+          "paragraph" : "§ 14",
+          "title" : "Mitteilung an das Zentrale Fahrtenschreiberkartenregister im automatisierten Dialogverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR188210005BJNE001501360",
+          "paragraph" : "§ 15",
+          "title" : "Übermittlung von Daten an inländische Behörden und Stellen durch Abruf im automatisierten Verfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR188210005BJNE001601360",
+          "paragraph" : "§ 16",
+          "title" : "Übermittlung von Daten an ausländische Behörden und Stellen durch Abruf im automatisierten Verfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR188210005BJNE001700000",
+          "paragraph" : "§ 17",
+          "title" : "Einrichtung und Betrieb der automatisierten Abrufverfahren"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Zentrales Fahrtenschreiberkartenregister"
+    },
+    {
+      "documentIdentifier" : "BJNR188210005BJNG000500000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR188210005BJNE001805360",
+          "paragraph" : "§ 18",
+          "title" : "Ausnahmen nach den Verordnungen (EG) Nr. 561\/2006 und (EU) Nr. 165\/2014"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Ausnahmen"
+    },
+    {
+      "documentIdentifier" : "BJNR188210005BJNG000600000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR188210005BJNE001903360",
+          "paragraph" : "§ 19",
+          "title" : "Fahrtenschreiber nach dem Europäischen Übereinkommen über die Arbeit des im internationalen Straßenverkehr beschäftigten Fahrpersonals (AETR)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Europäisches Übereinkommen über die Arbeit des im internationalen Straßenverkehr beschäftigten Fahrpersonals (AETR)"
+    },
+    {
+      "documentIdentifier" : "BJNR188210005BJNG000700000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR188210005BJNE002004360",
+          "paragraph" : "§ 20",
+          "title" : "Nachweis über berücksichtigungsfreie Tage"
+        },
+        {
+          "documentIdentifier" : "BJNR188210005BJNE003301305",
+          "paragraph" : "§ 20a",
+          "title" : "Verantwortlichkeiten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Sonstige Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR188210005BJNG000800000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR188210005BJNE002104360",
+          "paragraph" : "§ 21",
+          "title" : "Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR188210005BJNE002204123",
+          "paragraph" : "§ 22",
+          "title" : "Zuwiderhandlungen gegen das AETR"
+        },
+        {
+          "documentIdentifier" : "BJNR188210005BJNE002304123",
+          "paragraph" : "§ 23",
+          "title" : "Zuwiderhandlungen gegen die Verordnung (EU) Nr. 165\/2014"
+        },
+        {
+          "documentIdentifier" : "BJNR188210005BJNE002401360",
+          "paragraph" : "§ 24",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR188210005BJNE003401123",
+          "paragraph" : "§ 24a",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          8
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Ordnungswidrigkeiten"
+    },
+    {
+      "documentIdentifier" : "BJNR188210005BJNG000900000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR188210005BJNE002603360",
+          "paragraph" : "§ 26",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR188210005BJNE002702360",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 1 Abs. 6)"
+        },
+        {
+          "documentIdentifier" : "BJNR188210005BJNE002803360",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 3)"
+        },
+        {
+          "documentIdentifier" : "BJNR188210005BJNE003100000",
+          "paragraph" : "Anlage 3",
+          "title" : "(zu § 4)\n"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          9
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übergangsvorschriften"
+    }
+  ]
+}

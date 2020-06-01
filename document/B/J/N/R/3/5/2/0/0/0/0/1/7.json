@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR352000017",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR352000017Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR352000017BJNE000201116",
+          "paragraph" : "§ 1",
+          "title" : "Aufgaben und Befugnisse"
+        },
+        {
+          "documentIdentifier" : "BJNR352000017BJNE000500116",
+          "paragraph" : "§ 1a",
+          "title" : "Straftaten und Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR352000017BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR157400007",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR157400007Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR157400007BJNE000200000",
+          "paragraph" : "Art 7",
+          "title" : "Bekanntmachungserlaubnis"
+        },
+        {
+          "documentIdentifier" : "BJNR157400007BJNE000400000",
+          "paragraph" : "Art 8",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

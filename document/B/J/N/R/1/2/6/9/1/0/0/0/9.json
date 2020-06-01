@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR126910009",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR126910009Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR126910009BJNE000101377",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR126910009BJNE000201377",
+          "paragraph" : "§ 2",
+          "title" : "Befreiungen"
+        },
+        {
+          "documentIdentifier" : "BJNR126910009BJNE000301360",
+          "paragraph" : "§ 3",
+          "title" : "Überwachung durch die Bundesanstalt für Landwirtschaft und Ernährung"
+        },
+        {
+          "documentIdentifier" : "BJNR126910009BJNE000402360",
+          "paragraph" : "§ 4",
+          "title" : "Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR126910009BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Verwaltungsbehörde"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

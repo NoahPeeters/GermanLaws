@@ -1,0 +1,165 @@
+{
+  "documentIdentifier" : "BJNR123130991",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR123130991BJNG000100307",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Regelungsgegenstand"
+    },
+    {
+      "documentIdentifier" : "BJNR123130991BJNG000200307",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR123130991BJNE000900307",
+          "paragraph" : "§ 2",
+          "title" : "Eigentumsaufteilung"
+        },
+        {
+          "documentIdentifier" : "BJNR123130991BJNE001000307",
+          "paragraph" : "§ 3",
+          "title" : "Klärung der Eigentumsverhältnisse, Mitwirkungspflichten\nder Überleitungsanstalt Sozialversicherung"
+        },
+        {
+          "documentIdentifier" : "BJNR123130991BJNE001101305",
+          "paragraph" : "§ 4",
+          "title" : "Rechte früherer Eigentümer"
+        },
+        {
+          "documentIdentifier" : "BJNR123130991BJNE001200307",
+          "paragraph" : "§ 5",
+          "title" : "Verwaltung und Nutzung"
+        },
+        {
+          "documentIdentifier" : "BJNR123130991BJNE001300307",
+          "paragraph" : "§ 6",
+          "title" : "Erwerbspreis"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Unbewegliches Vermögen"
+    },
+    {
+      "documentIdentifier" : "BJNR123130991BJNG000300307",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR123130991BJNE001404377",
+          "paragraph" : "§ 7",
+          "title" : "Eigentumsübergang an beweglichen Sachen und datenschutzrechtliche Vorschriften zur Nutzung der Archive des Gesundheitswesens Wismut"
+        },
+        {
+          "documentIdentifier" : "BJNR123130991BJNE001600307",
+          "paragraph" : "§ 8",
+          "title" : "Forderungen und sonstige Rechte"
+        },
+        {
+          "documentIdentifier" : "BJNR123130991BJNE001700307",
+          "paragraph" : "§ 9",
+          "title" : "Verbindlichkeiten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Bewegliche Sachen, Forderungen, Verbindlichkeiten"
+    },
+    {
+      "documentIdentifier" : "BJNR123130991BJNG000400307",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Anteile am Gesamthandsvermögen"
+    },
+    {
+      "documentIdentifier" : "BJNR123130991BJNG000500307",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR123130991BJNE001900307",
+          "paragraph" : "§ 11",
+          "title" : "Vertretungsbefugnis"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Vollmachtsregelung"
+    },
+    {
+      "documentIdentifier" : "BJNR123130991BJNG000600307",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR123130991BJNE002000307",
+          "paragraph" : "§ 12",
+          "title" : "Feststellung des Eigentumsübergangs"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Altvermögen der Sozialversicherungsträger"
+    },
+    {
+      "documentIdentifier" : "BJNR123130991BJNG000700307",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR123130991BJNE002101307",
+          "paragraph" : "§ 13",
+          "title" : "Auflösung der Sonderkonten"
+        },
+        {
+          "documentIdentifier" : "BJNR123130991BJNE002201377",
+          "paragraph" : "§ 14",
+          "title" : "Nachfolge"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlußvorschriften"
+    }
+  ]
+}

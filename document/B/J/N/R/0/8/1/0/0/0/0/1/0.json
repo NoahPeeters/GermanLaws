@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR081000010",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR081000010Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR081000010BJNE000201116",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR081000010BJNE000301116",
+          "paragraph" : "§ 2",
+          "title" : "Gebühren"
+        },
+        {
+          "documentIdentifier" : "BJNR081000010BJNE000401116",
+          "paragraph" : "§ 3",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

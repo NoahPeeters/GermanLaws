@@ -1,0 +1,203 @@
+{
+  "documentIdentifier" : "BJNR030159975",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR030159975BJNE001600314",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          0
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "-"
+    },
+    {
+      "documentIdentifier" : "BJNR030159975BJNG000100314",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR030159975BJNG000200314",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Allgemeiner Teil"
+        }
+      ],
+      "title" : "Sozialgesetzbuch (SGB)"
+    },
+    {
+      "documentIdentifier" : "BJNR030159975BJNG001100314",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR030159975BJNG001201308",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              1
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR030159975BJNE008518308",
+              "laws" : [
+
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Art II"
+            }
+          ],
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR030159975BJNG001301308",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              2
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR030159975BJNE008601308",
+              "laws" : [
+
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  2
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Art II"
+            }
+          ],
+          "title" : "Zweiter Abschnitt"
+        },
+        {
+          "documentIdentifier" : "BJNR030159975BJNG001401308",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              3
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR030159975BJNE008701308",
+              "laws" : [
+
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  3
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Art II"
+            }
+          ],
+          "title" : "Überleitungsvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR030159975BJNG001500314",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              4
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR030159975BJNE009101308",
+              "laws" : [
+
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  4
+                ]
+              },
+              "subsections" : [
+                {
+                  "documentIdentifier" : "BJNR030159975BJNE009300314",
+                  "laws" : [
+
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      2,
+                      4
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Art II"
+                }
+              ],
+              "title" : "Art II"
+            }
+          ],
+          "title" : "Schlußvorschriften"
+        }
+      ],
+      "title" : "Übergangs- und Schlußvorschriften"
+    }
+  ]
+}

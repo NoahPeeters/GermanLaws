@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR353610017",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR353610017Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR353610017BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Aufgaben des Bundesamtes für Strahlenschutz"
+        },
+        {
+          "documentIdentifier" : "BJNR353610017BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Aufgaben des Deutschen Wetterdienstes"
+        },
+        {
+          "documentIdentifier" : "BJNR353610017BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Aufgaben der Physikalisch-Technischen Bundesanstalt"
+        },
+        {
+          "documentIdentifier" : "BJNR353610017BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Aufgaben des Johann Heinrich von Thünen-Instituts"
+        },
+        {
+          "documentIdentifier" : "BJNR353610017BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Aufgaben der Bundesanstalt für Gewässerkunde"
+        },
+        {
+          "documentIdentifier" : "BJNR353610017BJNE000600000",
+          "paragraph" : "§ 6",
+          "title" : "Aufgaben des Bundesamtes für Seeschifffahrt und Hydrographie"
+        },
+        {
+          "documentIdentifier" : "BJNR353610017BJNE000700000",
+          "paragraph" : "§ 7",
+          "title" : "Aufgaben des Max Rubner-Instituts"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

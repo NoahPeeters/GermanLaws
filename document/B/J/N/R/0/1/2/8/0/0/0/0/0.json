@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR012800000",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR012800000Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR012800000BJNE000800310",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 2 der Verordnung über die Festsetzung des\nLärmschutzbereichs für den militärischen Flugplatz Spangdahlem\nvom 16. Februar 2000)"
+        },
+        {
+          "documentIdentifier" : "BJNR012800000BJNE000900310",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 4 der Verordnung über die Festsetzung des\nLärmschutzbereichs für den militärischen Flugplatz Spangdahlem\nvom 16. Februar 2000)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

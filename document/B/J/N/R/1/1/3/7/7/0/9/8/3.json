@@ -1,0 +1,59 @@
+{
+  "documentIdentifier" : "BJNR113770983",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR113770983Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR113770983BJNE000202308",
+          "paragraph" : "§ 1",
+          "title" : "Anspruchsberechtigte"
+        },
+        {
+          "documentIdentifier" : "BJNR113770983BJNE000300317",
+          "paragraph" : "§ 2",
+          "title" : "Höhe der Rückkehrhilfe"
+        },
+        {
+          "documentIdentifier" : "BJNR113770983BJNE000403308",
+          "paragraph" : "§ 3",
+          "title" : "Beauftragung der Bundesagentur für Arbeit"
+        },
+        {
+          "documentIdentifier" : "BJNR113770983BJNE000501308",
+          "paragraph" : "§ 4",
+          "title" : "Aufbringung der Mittel durch den Bund"
+        },
+        {
+          "documentIdentifier" : "BJNR113770983BJNE000601308",
+          "paragraph" : "§ 5",
+          "title" : "Verfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR113770983BJNE000701308",
+          "paragraph" : "§ 6",
+          "title" : "Bescheinigung des Arbeitgebers"
+        },
+        {
+          "documentIdentifier" : "BJNR113770983BJNE000803308",
+          "paragraph" : "§ 7",
+          "title" : "Beratung"
+        },
+        {
+          "documentIdentifier" : "BJNR113770983BJNE000900317",
+          "paragraph" : "§ 8",
+          "title" : "Berlin-Klausel"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

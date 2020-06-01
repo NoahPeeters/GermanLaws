@@ -1,0 +1,74 @@
+{
+  "documentIdentifier" : "BJNR235410005",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR235410005Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR235410005BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR235410005BJNE000202310",
+          "paragraph" : "§ 2",
+          "title" : "Allgemeines"
+        },
+        {
+          "documentIdentifier" : "BJNR235410005BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Zustellung durch die Post mit Zustellungsurkunde"
+        },
+        {
+          "documentIdentifier" : "BJNR235410005BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Zustellung durch die Post mittels Einschreiben"
+        },
+        {
+          "documentIdentifier" : "BJNR235410005BJNE000503116",
+          "paragraph" : "§ 5",
+          "title" : "Zustellung durch die Behörde gegen Empfangsbekenntnis; elektronische Zustellung"
+        },
+        {
+          "documentIdentifier" : "BJNR235410005BJNE001101116",
+          "paragraph" : "§ 5a",
+          "title" : "Elektronische Zustellung gegen Abholbestätigung über De-Mail-Dienste"
+        },
+        {
+          "documentIdentifier" : "BJNR235410005BJNE000600000",
+          "paragraph" : "§ 6",
+          "title" : "Zustellung an gesetzliche Vertreter"
+        },
+        {
+          "documentIdentifier" : "BJNR235410005BJNE000700000",
+          "paragraph" : "§ 7",
+          "title" : "Zustellung an Bevollmächtigte"
+        },
+        {
+          "documentIdentifier" : "BJNR235410005BJNE000800000",
+          "paragraph" : "§ 8",
+          "title" : "Heilung von Zustellungsmängeln"
+        },
+        {
+          "documentIdentifier" : "BJNR235410005BJNE000902310",
+          "paragraph" : "§ 9",
+          "title" : "Zustellung im Ausland"
+        },
+        {
+          "documentIdentifier" : "BJNR235410005BJNE001002310",
+          "paragraph" : "§ 10",
+          "title" : "Öffentliche Zustellung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

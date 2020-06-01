@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR184900008",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR184900008Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR184900008BJNE000201377",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR184900008BJNE000301377",
+          "paragraph" : "§ 2",
+          "title" : "Zuständige Stellen"
+        },
+        {
+          "documentIdentifier" : "BJNR184900008BJNE000401377",
+          "paragraph" : "§ 3",
+          "title" : "Verfahren, Ermittlungen zur Festsetzung der Höhe der Prämie"
+        },
+        {
+          "documentIdentifier" : "BJNR184900008BJNE000501377",
+          "paragraph" : "§ 4",
+          "title" : "Ausschluss von Rebflächen"
+        },
+        {
+          "documentIdentifier" : "BJNR184900008BJNE000601377",
+          "paragraph" : "§ 5",
+          "title" : "Duldungs- und Mitwirkungspflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR184900008BJNE000701377",
+          "paragraph" : "§ 6",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

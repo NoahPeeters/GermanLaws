@@ -1,0 +1,59 @@
+{
+  "documentIdentifier" : "BJNR219010017",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR219010017Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR219010017BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Geltungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR219010017BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR219010017BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Zweck des Meldeportals"
+        },
+        {
+          "documentIdentifier" : "BJNR219010017BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Zuständigkeit, Erreichbarkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR219010017BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Berechtigung zur Datenverarbeitung"
+        },
+        {
+          "documentIdentifier" : "BJNR219010017BJNE000600000",
+          "paragraph" : "§ 6",
+          "title" : "Abgeben von Meldungen über das Meldeportal"
+        },
+        {
+          "documentIdentifier" : "BJNR219010017BJNE000700000",
+          "paragraph" : "§ 7",
+          "title" : "Entgegennahme, Zuordnung und Abruf der Meldungen"
+        },
+        {
+          "documentIdentifier" : "BJNR219010017BJNE000800000",
+          "paragraph" : "§ 8",
+          "title" : "Nutzung des Meldeportals durch andere Behörden"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

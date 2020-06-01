@@ -1,0 +1,107 @@
+{
+  "documentIdentifier" : "BJNR009939972",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR009939972BJNG000100314",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR009939972BJNE000400314",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR009939972BJNE000500314",
+              "laws" : [
+
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  1
+                ]
+              },
+              "subsections" : [
+                {
+                  "documentIdentifier" : "BJNR009939972BJNE000600314",
+                  "laws" : [
+
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      1
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Art I"
+                }
+              ],
+              "title" : "Art I"
+            }
+          ],
+          "title" : "Art I"
+        }
+      ],
+      "title" : "Art I"
+    },
+    {
+      "documentIdentifier" : "BJNR009939972BJNG000200314",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Art II"
+    },
+    {
+      "documentIdentifier" : "BJNR009939972BJNG000300314",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Art III"
+    },
+    {
+      "documentIdentifier" : "BJNR009939972BJNE000700314",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "-"
+    }
+  ]
+}

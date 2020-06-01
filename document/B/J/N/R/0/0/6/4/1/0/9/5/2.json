@@ -1,0 +1,65 @@
+{
+  "documentIdentifier" : "BJNR006410952",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR006410952BJNG000100311",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Verfahrensvorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR006410952BJNG000200311",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Besondere Verfahrensvorschriften für Rheinschiffahrtssachen"
+    },
+    {
+      "documentIdentifier" : "BJNR006410952BJNG000300311",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Besondere Verfahrensvorschriften für Moselschiffahrtssachen"
+    },
+    {
+      "documentIdentifier" : "BJNR006410952BJNG000400311",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Zusatz-, Übergangs- und Schlußbestimmungen"
+    }
+  ]
+}

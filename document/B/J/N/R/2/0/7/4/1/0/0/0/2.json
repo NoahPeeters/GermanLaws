@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR207410002",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR207410002Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR207410002BJNE000101377",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR207410002BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Fiktion der Beitragszahlung"
+        },
+        {
+          "documentIdentifier" : "BJNR207410002BJNE000301377",
+          "paragraph" : "§ 3",
+          "title" : "Besonderheiten beim Rentenbeginn und Neufeststellung"
+        },
+        {
+          "documentIdentifier" : "BJNR207410002BJNE000400377",
+          "paragraph" : "§ 4",
+          "title" : "Auszahlung"
+        },
+        {
+          "documentIdentifier" : "BJNR207410002BJNE000500377",
+          "paragraph" : "§ 5",
+          "title" : "Verzinsung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

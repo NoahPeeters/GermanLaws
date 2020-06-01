@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR209310012",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR209310012Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR209310012BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Gegenstand der Verordnung"
+        },
+        {
+          "documentIdentifier" : "BJNR209310012BJNE000201125",
+          "paragraph" : "§ 2",
+          "title" : "Eurojust-Anlaufstellen"
+        },
+        {
+          "documentIdentifier" : "BJNR209310012BJNE000301125",
+          "paragraph" : "§ 3",
+          "title" : "Eurojust-Kontaktstellen"
+        },
+        {
+          "documentIdentifier" : "BJNR209310012BJNE000401125",
+          "paragraph" : "§ 4",
+          "title" : "Nationales Eurojust-Koordinierungssystem"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

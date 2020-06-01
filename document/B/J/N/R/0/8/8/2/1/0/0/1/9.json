@@ -1,0 +1,89 @@
+{
+  "documentIdentifier" : "BJNR088210019",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR088210019Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR088210019BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Datensatz"
+        },
+        {
+          "documentIdentifier" : "BJNR088210019BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Übermittlung und Verarbeitung von Daten"
+        },
+        {
+          "documentIdentifier" : "BJNR088210019BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Portalanwendung"
+        },
+        {
+          "documentIdentifier" : "BJNR088210019BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Verfahren der Datenübermittlung an die Registerbehörde durch die für den Vollzug des § 34a der Gewerbeordnung zuständigen Behörden"
+        },
+        {
+          "documentIdentifier" : "BJNR088210019BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Verfahren der Datenübermittlung an die Registerbehörde durch die Gewerbetreibenden"
+        },
+        {
+          "documentIdentifier" : "BJNR088210019BJNE000600000",
+          "paragraph" : "§ 6",
+          "title" : "Meldungen durch die Registerbehörde"
+        },
+        {
+          "documentIdentifier" : "BJNR088210019BJNE000700000",
+          "paragraph" : "§ 7",
+          "title" : "Verwendung von Schnittstellen"
+        },
+        {
+          "documentIdentifier" : "BJNR088210019BJNE000800000",
+          "paragraph" : "§ 8",
+          "title" : "Verantwortung für die Datenübermittlung und die Datenrichtigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR088210019BJNE000900000",
+          "paragraph" : "§ 9",
+          "title" : "Automatisiertes Abrufverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR088210019BJNE001000000",
+          "paragraph" : "§ 10",
+          "title" : "Umfang des Datenabrufs"
+        },
+        {
+          "documentIdentifier" : "BJNR088210019BJNE001100000",
+          "paragraph" : "§ 11",
+          "title" : "Abrufvoraussetzungen"
+        },
+        {
+          "documentIdentifier" : "BJNR088210019BJNE001200000",
+          "paragraph" : "§ 12",
+          "title" : "Datenübermittlung für statistische Zwecke"
+        },
+        {
+          "documentIdentifier" : "BJNR088210019BJNE001300000",
+          "paragraph" : "§ 13",
+          "title" : "Schutz personenbezogener Daten"
+        },
+        {
+          "documentIdentifier" : "BJNR088210019BJNE001400000",
+          "paragraph" : "§ 14",
+          "title" : "Protokollierungspflicht"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

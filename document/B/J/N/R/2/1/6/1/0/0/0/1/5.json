@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR216100015",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR216100015Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR216100015BJNE000100000",
+          "paragraph" : "(XXXX) Art 1 bis 4",
+          "title" : "Änderungsvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR216100015BJNE000200000",
+          "paragraph" : "Art 5",
+          "title" : "Evaluierung"
+        },
+        {
+          "documentIdentifier" : "BJNR216100015BJNE000300000",
+          "paragraph" : "Art 6",
+          "title" : "Einschränkung eines Grundrechts"
+        },
+        {
+          "documentIdentifier" : "BJNR216100015BJNE000400000",
+          "paragraph" : "Art 7",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

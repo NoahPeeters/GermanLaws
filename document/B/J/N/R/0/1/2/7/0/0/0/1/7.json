@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR012700017",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR012700017Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR012700017BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Nachhaftung"
+        },
+        {
+          "documentIdentifier" : "BJNR012700017BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Beherrschung eines Betreibers"
+        },
+        {
+          "documentIdentifier" : "BJNR012700017BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Nachhaftung in besonderen Fällen"
+        },
+        {
+          "documentIdentifier" : "BJNR012700017BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Zeitliche Beschränkung der Haftung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

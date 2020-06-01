@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR235800003",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR235800003Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR235800003BJNE000202301",
+          "paragraph" : "§ 1",
+          "title" : "Erhebung von Gebühren und Auslagen"
+        },
+        {
+          "documentIdentifier" : "BJNR235800003BJNE000303301",
+          "paragraph" : "§ 2",
+          "title" : "Gebühren"
+        },
+        {
+          "documentIdentifier" : "BJNR235800003BJNE000402301",
+          "paragraph" : "§ 3",
+          "title" : "Auslagen"
+        },
+        {
+          "documentIdentifier" : "BJNR235800003BJNE000502301",
+          "paragraph" : "§ 4",
+          "title" : "Rücknahme, Widerruf, Widerspruch"
+        },
+        {
+          "documentIdentifier" : "BJNR235800003BJNE000602301",
+          "paragraph" : "§ 5",
+          "title" : "Übergangsregelung"
+        },
+        {
+          "documentIdentifier" : "BJNR235800003BJNE000701301",
+          "paragraph" : "§ 6",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR235800003BJNE000803301",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 2)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

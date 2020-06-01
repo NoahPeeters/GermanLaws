@@ -1,0 +1,404 @@
+{
+  "documentIdentifier" : "BJNR215630967",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR215630967BJNG000100328",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR215630967BJNE001003308",
+          "paragraph" : "§ 1",
+          "title" : "Geltungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR215630967BJNE001104123",
+          "paragraph" : "§ 2",
+          "title" : "Allgemeine Anforderungen"
+        },
+        {
+          "documentIdentifier" : "BJNR215630967BJNE001206305",
+          "paragraph" : "§ 3",
+          "title" : "Ausnahmen, Genehmigungen"
+        },
+        {
+          "documentIdentifier" : "BJNR215630967BJNE009401305",
+          "paragraph" : "§ 3a",
+          "title" : "Grenzbetriebsstrecken und Durchgangsstrecken"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeines"
+    },
+    {
+      "documentIdentifier" : "BJNR215630967BJNG000200328",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR215630967BJNE001301308",
+          "paragraph" : "§ 4",
+          "title" : "Begriffserklärungen"
+        },
+        {
+          "documentIdentifier" : "BJNR215630967BJNE001401308",
+          "paragraph" : "§ 5",
+          "title" : "Spurweite"
+        },
+        {
+          "documentIdentifier" : "BJNR215630967BJNE001501308",
+          "paragraph" : "§ 6",
+          "title" : "Gleisbogen"
+        },
+        {
+          "documentIdentifier" : "BJNR215630967BJNE001600328",
+          "paragraph" : "§ 7",
+          "title" : "Gleisneigung"
+        },
+        {
+          "documentIdentifier" : "BJNR215630967BJNE001701308",
+          "paragraph" : "§ 8",
+          "title" : "Belastbarkeit des Oberbaus und der Bauwerke"
+        },
+        {
+          "documentIdentifier" : "BJNR215630967BJNE001801308",
+          "paragraph" : "§ 9",
+          "title" : "Regellichtraum"
+        },
+        {
+          "documentIdentifier" : "BJNR215630967BJNE001901308",
+          "paragraph" : "§ 10",
+          "title" : "Gleisabstand"
+        },
+        {
+          "documentIdentifier" : "BJNR215630967BJNE002001308",
+          "paragraph" : "§ 11",
+          "title" : "Bahnübergänge"
+        },
+        {
+          "documentIdentifier" : "BJNR215630967BJNE002101314",
+          "paragraph" : "§ 12",
+          "title" : "Höhengleiche Kreuzungen von Schienenbahnen"
+        },
+        {
+          "documentIdentifier" : "BJNR215630967BJNE002201308",
+          "paragraph" : "§ 13",
+          "title" : "Bahnsteige, Rampen"
+        },
+        {
+          "documentIdentifier" : "BJNR215630967BJNE002302308",
+          "paragraph" : "§ 14",
+          "title" : "Signale und Weichen"
+        },
+        {
+          "documentIdentifier" : "BJNR215630967BJNE002406308",
+          "paragraph" : "§ 15",
+          "title" : "Streckenblock, Zugbeeinflussung"
+        },
+        {
+          "documentIdentifier" : "BJNR215630967BJNE002501308",
+          "paragraph" : "§ 16",
+          "title" : "Fernmeldeanlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR215630967BJNE002601308",
+          "paragraph" : "§ 17",
+          "title" : "Untersuchen und Überwachen der Bahnanlagen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Bahnanlagen"
+    },
+    {
+      "documentIdentifier" : "BJNR215630967BJNG000300328",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR215630967BJNE002701308",
+          "paragraph" : "§ 18",
+          "title" : "Einteilung, Begriffserklärungen"
+        },
+        {
+          "documentIdentifier" : "BJNR215630967BJNE002800328",
+          "paragraph" : "§ 19",
+          "title" : "Radsatzlasten und Fahrzeuggewichte je Längeneinheit"
+        },
+        {
+          "documentIdentifier" : "BJNR215630967BJNE003001308",
+          "paragraph" : "§ 21",
+          "title" : "Räder und Radsätze"
+        },
+        {
+          "documentIdentifier" : "BJNR215630967BJNE003101308",
+          "paragraph" : "§ 22",
+          "title" : "Begrenzung der Fahrzeuge"
+        },
+        {
+          "documentIdentifier" : "BJNR215630967BJNE003201308",
+          "paragraph" : "§ 23",
+          "title" : "Bremsen"
+        },
+        {
+          "documentIdentifier" : "BJNR215630967BJNE003301308",
+          "paragraph" : "§ 24",
+          "title" : "Zug- und Stoßeinrichtungen"
+        },
+        {
+          "documentIdentifier" : "BJNR215630967BJNE003401308",
+          "paragraph" : "§ 25",
+          "title" : "Freie Räume und Bauteile an den Fahrzeugenden"
+        },
+        {
+          "documentIdentifier" : "BJNR215630967BJNE003501308",
+          "paragraph" : "(XXXX) §§ 26 und 27",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR215630967BJNE003703308",
+          "paragraph" : "§ 28",
+          "title" : "Ausrüstung und Anschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR215630967BJNE003801308",
+          "paragraph" : "(XXXX) §§ 29 bis 31",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR215630967BJNE004103311",
+          "paragraph" : "§ 32",
+          "title" : "Abnahme und Untersuchung der Fahrzeuge"
+        },
+        {
+          "documentIdentifier" : "BJNR215630967BJNE004202314",
+          "paragraph" : "§ 33",
+          "title" : "Überwachungsbedürftige Anlagen der Fahrzeuge"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Fahrzeuge"
+    },
+    {
+      "documentIdentifier" : "BJNR215630967BJNG000400328",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR215630967BJNE004301308",
+          "paragraph" : "§ 34",
+          "title" : "Begriff, Art und Länge der Züge"
+        },
+        {
+          "documentIdentifier" : "BJNR215630967BJNE004405305",
+          "paragraph" : "§ 35",
+          "title" : "Bremsen der Züge"
+        },
+        {
+          "documentIdentifier" : "BJNR215630967BJNE004502314",
+          "paragraph" : "§ 36",
+          "title" : "Zusammenstellen der Züge"
+        },
+        {
+          "documentIdentifier" : "BJNR215630967BJNE004601308",
+          "paragraph" : "§ 37",
+          "title" : "Ausrüsten der Züge mit Mitteln zur ersten Hilfeleistung"
+        },
+        {
+          "documentIdentifier" : "BJNR215630967BJNE004700328",
+          "paragraph" : "§ 38",
+          "title" : "Fahrordnung"
+        },
+        {
+          "documentIdentifier" : "BJNR215630967BJNE004801308",
+          "paragraph" : "§ 39",
+          "title" : "Zugfolge"
+        },
+        {
+          "documentIdentifier" : "BJNR215630967BJNE004902308",
+          "paragraph" : "§ 40",
+          "title" : "Fahrgeschwindigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR215630967BJNE005100328",
+          "paragraph" : "§ 42",
+          "title" : "Rangieren, Hemmschuhe"
+        },
+        {
+          "documentIdentifier" : "BJNR215630967BJNE005200328",
+          "paragraph" : "§ 43",
+          "title" : "Sichern stillstehender Fahrzeuge"
+        },
+        {
+          "documentIdentifier" : "BJNR215630967BJNE005402308",
+          "paragraph" : "§ 45",
+          "title" : "Besetzen der Triebfahrzeuge und Züge"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Bahnbetrieb"
+    },
+    {
+      "documentIdentifier" : "BJNR215630967BJNG000500328",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR215630967BJNE005604311",
+          "paragraph" : "§ 47",
+          "title" : "Betriebsbeamte"
+        },
+        {
+          "documentIdentifier" : "BJNR215630967BJNE005703305",
+          "paragraph" : "§ 48",
+          "title" : "Anforderungen an Betriebsbeamte"
+        },
+        {
+          "documentIdentifier" : "BJNR215630967BJNE005801308",
+          "paragraph" : "(XXXX) §§ 49 bis 53",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR215630967BJNE006302314",
+          "paragraph" : "§ 54",
+          "title" : "Ausbildung, Prüfung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Personal"
+    },
+    {
+      "documentIdentifier" : "BJNR215630967BJNG000600328",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR215630967BJNE006401308",
+          "paragraph" : "(XXXX) §§ 55 bis 61",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR215630967BJNE007101308",
+          "paragraph" : "§ 62",
+          "title" : "Betreten und Benutzen der Bahnanlagen und Fahrzeuge"
+        },
+        {
+          "documentIdentifier" : "BJNR215630967BJNE007201124",
+          "paragraph" : "§ 63",
+          "title" : "Verhalten auf dem Gebiet der Bahnanlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR215630967BJNE007300328",
+          "paragraph" : "§ 64",
+          "title" : "Beschädigen der Bahn und betriebsstörende Handlungen"
+        },
+        {
+          "documentIdentifier" : "BJNR215630967BJNE009300308",
+          "paragraph" : "§ 64a",
+          "title" : "Eisenbahnbedienstete"
+        },
+        {
+          "documentIdentifier" : "BJNR215630967BJNE007406124",
+          "paragraph" : "§ 64b",
+          "title" : "Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR215630967BJNE009500308",
+          "paragraph" : "§ 65",
+          "title" : "Übergangsregelung"
+        },
+        {
+          "documentIdentifier" : "BJNR215630967BJNE007501308",
+          "paragraph" : "§ 66",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR215630967BJNE007801308",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 9)"
+        },
+        {
+          "documentIdentifier" : "BJNR215630967BJNE007901308",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 9)\n"
+        },
+        {
+          "documentIdentifier" : "BJNR215630967BJNE008001308",
+          "paragraph" : "Anlage 3",
+          "title" : "(zu § 9)"
+        },
+        {
+          "documentIdentifier" : "BJNR215630967BJNE008101308",
+          "paragraph" : "Anlage 4",
+          "title" : "(zu § 10)"
+        },
+        {
+          "documentIdentifier" : "BJNR215630967BJNE008201308",
+          "paragraph" : "Anlage 5",
+          "title" : "(zu § 11)"
+        },
+        {
+          "documentIdentifier" : "BJNR215630967BJNE008301308",
+          "paragraph" : "Anlage 6",
+          "title" : "(zu § 21)"
+        },
+        {
+          "documentIdentifier" : "BJNR215630967BJNE008401308",
+          "paragraph" : "Anlage 7",
+          "title" : "(zu § 22)"
+        },
+        {
+          "documentIdentifier" : "BJNR215630967BJNE008501308",
+          "paragraph" : "Anlage 8",
+          "title" : "(zu § 22)"
+        },
+        {
+          "documentIdentifier" : "BJNR215630967BJNE008601308",
+          "paragraph" : "Anlage 9",
+          "title" : "(zu § 22)"
+        },
+        {
+          "documentIdentifier" : "BJNR215630967BJNE008701308",
+          "paragraph" : "Anlage 10",
+          "title" : "(zu § 24)"
+        },
+        {
+          "documentIdentifier" : "BJNR215630967BJNE008801308",
+          "paragraph" : "Anlage 11",
+          "title" : "(zu § 25)\n"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Sicherheit und Ordnung auf dem Gebiet der Bahnanlagen"
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "documentIdentifier" : "BJNR233300017",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR233300017BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR233300017BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR233300017BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR233300017BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Registrierungsantrag"
+        },
+        {
+          "documentIdentifier" : "BJNR233300017BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Registrierungsvoraussetzungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Registrierungsverfahren"
+    },
+    {
+      "documentIdentifier" : "BJNR233300017BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR233300017BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Geschäftsverteilungsplan"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Geschäftsverteilungsplan"
+    },
+    {
+      "documentIdentifier" : "BJNR233300017BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR233300017BJNE000600000",
+          "paragraph" : "(XXXX) §§ 5 bis 11",
+          "title" : "(zukünftig in Kraft)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Genehmigungsverfahren"
+    },
+    {
+      "documentIdentifier" : "BJNR233300017BJNG000500000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR233300017BJNE001300000",
+          "paragraph" : "§ 12",
+          "title" : "(bedingt zukünftig in Kraft)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gebühren"
+    },
+    {
+      "documentIdentifier" : "BJNR233300017BJNG000600000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR233300017BJNE001400000",
+          "paragraph" : "§ 13",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR233300017BJNE001600000",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 3)"
+        },
+        {
+          "documentIdentifier" : "BJNR233300017BJNE001700000",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 3)"
+        },
+        {
+          "documentIdentifier" : "BJNR233300017BJNE001800000",
+          "paragraph" : "Anlage 3",
+          "title" : "(zu § 12)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussbestimmungen"
+    }
+  ]
+}

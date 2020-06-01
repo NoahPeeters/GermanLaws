@@ -1,0 +1,112 @@
+{
+  "documentIdentifier" : "BJNR003330969",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR003330969BJNG000100306",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Armenrecht"
+    },
+    {
+      "documentIdentifier" : "BJNR003330969BJNG000200306",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Zustellungsanträge und Rechtshilfeersuchen"
+    },
+    {
+      "documentIdentifier" : "BJNR003330969BJNG000300306",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR003330969BJNG000400306",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Vollstreckbarerklärung von tunesischen gerichtlichen Entscheidungen und von anderen tunesischen Schuldtiteln"
+        },
+        {
+          "documentIdentifier" : "BJNR003330969BJNG000500306",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Aufhebung oder Änderung der Vollstreckbarerklärung"
+        },
+        {
+          "documentIdentifier" : "BJNR003330969BJNG000600306",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Besondere Vorschriften für deutsche gerichtliche Entscheidungen"
+        }
+      ],
+      "title" : "Vollstreckung gerichtlicher Entscheidungen und anderer Schuldtitel"
+    },
+    {
+      "documentIdentifier" : "BJNR003330969BJNG000700306",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlußbestimmungen"
+    }
+  ]
+}

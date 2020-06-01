@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR032600016",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR032600016Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR032600016BJNE000201125",
+          "paragraph" : "§ 1",
+          "title" : "Antrag auf Anerkennung als private Verbraucherschlichtungsstelle"
+        },
+        {
+          "documentIdentifier" : "BJNR032600016BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Angaben für die Liste der Verbraucherschlichtungsstellen"
+        },
+        {
+          "documentIdentifier" : "BJNR032600016BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Webseite der Verbraucherschlichtungsstelle"
+        },
+        {
+          "documentIdentifier" : "BJNR032600016BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Tätigkeitsbericht der Verbraucherschlichtungsstelle"
+        },
+        {
+          "documentIdentifier" : "BJNR032600016BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Evaluationsbericht der Verbraucherschlichtungsstelle"
+        },
+        {
+          "documentIdentifier" : "BJNR032600016BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Verbraucherschlichtungsbericht und Auswertung der Evaluationsberichte der Verbraucherschlichtungsstellen"
+        },
+        {
+          "documentIdentifier" : "BJNR032600016BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR053020019",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR053020019Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR053020019BJNE000200000",
+          "paragraph" : "Art 1",
+          "title" : "Zustimmung zu den Regelungen des Weltpostvereins"
+        },
+        {
+          "documentIdentifier" : "BJNR053020019BJNE000300000",
+          "paragraph" : "Art 2",
+          "title" : "Ermächtigung zum Erlass von Rechtsverordnungen"
+        },
+        {
+          "documentIdentifier" : "BJNR053020019BJNE000400000",
+          "paragraph" : "Art 3",
+          "title" : "Zulassung von Unternehmen"
+        },
+        {
+          "documentIdentifier" : "BJNR053020019BJNE000500000",
+          "paragraph" : "Art 4",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

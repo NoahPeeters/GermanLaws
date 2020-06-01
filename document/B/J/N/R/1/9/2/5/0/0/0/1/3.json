@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR192500013",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR192500013Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR192500013BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Sonderzahlung bei veränderter Wochenarbeitszeit"
+        },
+        {
+          "documentIdentifier" : "BJNR192500013BJNE000301305",
+          "paragraph" : "§ 2",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR192500013BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

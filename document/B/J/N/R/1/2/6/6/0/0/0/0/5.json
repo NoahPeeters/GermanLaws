@@ -1,0 +1,68 @@
+{
+  "documentIdentifier" : "BJNR126600005",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR126600005BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR126600005BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Anerkennung als Adoptionsvermittlungsstelle"
+        },
+        {
+          "documentIdentifier" : "BJNR126600005BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Zulassung als anerkannte Auslandsvermittlungsstelle"
+        },
+        {
+          "documentIdentifier" : "BJNR126600005BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Unterrichtung der zentralen Adoptionsstelle des Landesjugendamtes"
+        },
+        {
+          "documentIdentifier" : "BJNR126600005BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Bericht an die zentrale Adoptionsstelle des Landesjugendamtes"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Anerkennung und Überprüfung von Adoptionsvermittlungsstellen in freier Trägerschaft"
+    },
+    {
+      "documentIdentifier" : "BJNR126600005BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR126600005BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Gebühren"
+        },
+        {
+          "documentIdentifier" : "BJNR126600005BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Erstattung von Auslagen"
+        },
+        {
+          "documentIdentifier" : "BJNR126600005BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Kosten, Inkrafttreten"
+    }
+  ]
+}

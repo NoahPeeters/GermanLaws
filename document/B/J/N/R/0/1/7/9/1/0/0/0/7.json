@@ -1,0 +1,165 @@
+{
+  "documentIdentifier" : "BJNR017910007",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR017910007BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR017910007BJNE000101360",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR017910007BJNE000202123",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR017910007BJNE001801123",
+          "paragraph" : "§ 2a",
+          "title" : "Europäisches Sitzland"
+        },
+        {
+          "documentIdentifier" : "BJNR017910007BJNE000302118",
+          "paragraph" : "§ 3",
+          "title" : "Herkunftslandprinzip"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Bestimmungen"
+    },
+    {
+      "documentIdentifier" : "BJNR017910007BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR017910007BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Zulassungsfreiheit"
+        },
+        {
+          "documentIdentifier" : "BJNR017910007BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Allgemeine Informationspflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR017910007BJNE000600000",
+          "paragraph" : "§ 6",
+          "title" : "Besondere Informationspflichten bei kommerziellen Kommunikationen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Zulassungsfreiheit und Informationspflichten"
+    },
+    {
+      "documentIdentifier" : "BJNR017910007BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR017910007BJNE000701124",
+          "paragraph" : "§ 7",
+          "title" : "Allgemeine Grundsätze"
+        },
+        {
+          "documentIdentifier" : "BJNR017910007BJNE000802124",
+          "paragraph" : "§ 8",
+          "title" : "Durchleitung von Informationen"
+        },
+        {
+          "documentIdentifier" : "BJNR017910007BJNE000900000",
+          "paragraph" : "§ 9",
+          "title" : "Zwischenspeicherung zur beschleunigten Übermittlung von Informationen"
+        },
+        {
+          "documentIdentifier" : "BJNR017910007BJNE001000000",
+          "paragraph" : "§ 10",
+          "title" : "Speicherung von Informationen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Verantwortlichkeit"
+    },
+    {
+      "documentIdentifier" : "BJNR017910007BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR017910007BJNE001101377",
+          "paragraph" : "§ 11",
+          "title" : "Anbieter-Nutzer-Verhältnis"
+        },
+        {
+          "documentIdentifier" : "BJNR017910007BJNE001201377",
+          "paragraph" : "§ 12",
+          "title" : "Grundsätze"
+        },
+        {
+          "documentIdentifier" : "BJNR017910007BJNE001301118",
+          "paragraph" : "§ 13",
+          "title" : "Pflichten des Diensteanbieters"
+        },
+        {
+          "documentIdentifier" : "BJNR017910007BJNE001403119",
+          "paragraph" : "§ 14",
+          "title" : "Bestandsdaten"
+        },
+        {
+          "documentIdentifier" : "BJNR017910007BJNE001501124",
+          "paragraph" : "§ 15",
+          "title" : "Nutzungsdaten"
+        },
+        {
+          "documentIdentifier" : "BJNR017910007BJNE001700377",
+          "paragraph" : "§ 15a",
+          "title" : "Informationspflicht bei unrechtmäßiger Kenntniserlangung von Daten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Datenschutz"
+    },
+    {
+      "documentIdentifier" : "BJNR017910007BJNG000500000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR017910007BJNE001602118",
+          "paragraph" : "§ 16",
+          "title" : "Bußgeldvorschriften"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Bußgeldvorschriften"
+    }
+  ]
+}

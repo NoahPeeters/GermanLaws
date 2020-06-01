@@ -1,0 +1,799 @@
+{
+  "documentIdentifier" : "BJNR017690985",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR017690985BJNG000103377",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR017690985BJNE001606377",
+          "paragraph" : "§ 1",
+          "title" : "Bundeswahlleiter"
+        },
+        {
+          "documentIdentifier" : "BJNR017690985BJNE001705377",
+          "paragraph" : "§ 2",
+          "title" : "Landeswahlleiter"
+        },
+        {
+          "documentIdentifier" : "BJNR017690985BJNE001806377",
+          "paragraph" : "§ 3",
+          "title" : "Kreiswahlleiter"
+        },
+        {
+          "documentIdentifier" : "BJNR017690985BJNE001905377",
+          "paragraph" : "§ 4",
+          "title" : "Bildung der Wahlausschüsse"
+        },
+        {
+          "documentIdentifier" : "BJNR017690985BJNE002005377",
+          "paragraph" : "§ 5",
+          "title" : "Tätigkeit der Wahlausschüsse"
+        },
+        {
+          "documentIdentifier" : "BJNR017690985BJNE002106377",
+          "paragraph" : "§ 6",
+          "title" : "Wahlvorsteher und Wahlvorstand"
+        },
+        {
+          "documentIdentifier" : "BJNR017690985BJNE002207160",
+          "paragraph" : "§ 7",
+          "title" : "Briefwahlvorsteher und Briefwahlvorstand"
+        },
+        {
+          "documentIdentifier" : "BJNR017690985BJNE002304377",
+          "paragraph" : "§ 8",
+          "title" : "Beweglicher Wahlvorstand"
+        },
+        {
+          "documentIdentifier" : "BJNR017690985BJNE002404160",
+          "paragraph" : "§ 9",
+          "title" : "Ehrenämter"
+        },
+        {
+          "documentIdentifier" : "BJNR017690985BJNE002510377",
+          "paragraph" : "§ 10",
+          "title" : "Auslagenersatz für Inhaber von Wahlämtern, Erfrischungsgeld"
+        },
+        {
+          "documentIdentifier" : "BJNR017690985BJNE002604160",
+          "paragraph" : "§ 11",
+          "title" : "Geldbußen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Wahlorgane"
+    },
+    {
+      "documentIdentifier" : "BJNR017690985BJNG000203377",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR017690985BJNG000303377",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR017690985BJNE002708377",
+              "paragraph" : "§ 12",
+              "title" : "Allgemeine Wahlbezirke"
+            },
+            {
+              "documentIdentifier" : "BJNR017690985BJNE002803377",
+              "paragraph" : "§ 13",
+              "title" : "Sonderwahlbezirke"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Wahlbezirke"
+        },
+        {
+          "documentIdentifier" : "BJNR017690985BJNG000403377",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR017690985BJNE002905160",
+              "paragraph" : "§ 14",
+              "title" : "Führung des Wählerverzeichnisses"
+            },
+            {
+              "documentIdentifier" : "BJNR017690985BJNE003112305",
+              "paragraph" : "§ 16",
+              "title" : "Eintragung der Wahlberechtigten in das Wählerverzeichnis"
+            },
+            {
+              "documentIdentifier" : "BJNR017690985BJNE003209377",
+              "paragraph" : "§ 17",
+              "title" : "Zuständigkeiten für die Eintragung in das Wählerverzeichnis"
+            },
+            {
+              "documentIdentifier" : "BJNR017690985BJNE003312377",
+              "paragraph" : "§ 18",
+              "title" : "Verfahren für die Eintragung in das Wählerverzeichnis auf Antrag"
+            },
+            {
+              "documentIdentifier" : "BJNR017690985BJNE003409305",
+              "paragraph" : "§ 19",
+              "title" : "Benachrichtigung der Wahlberechtigten"
+            },
+            {
+              "documentIdentifier" : "BJNR017690985BJNE003506305",
+              "paragraph" : "§ 20",
+              "title" : "Bekanntmachung über das Recht auf Einsicht in das Wählerverzeichnis und die Erteilung von Wahlscheinen"
+            },
+            {
+              "documentIdentifier" : "BJNR017690985BJNE003605377",
+              "paragraph" : "§ 21",
+              "title" : "Einsicht in das Wählerverzeichnis"
+            },
+            {
+              "documentIdentifier" : "BJNR017690985BJNE003707377",
+              "paragraph" : "§ 22",
+              "title" : "Einspruch gegen das Wählerverzeichnis und Beschwerde"
+            },
+            {
+              "documentIdentifier" : "BJNR017690985BJNE003807377",
+              "paragraph" : "§ 23",
+              "title" : "Berichtigung des Wählerverzeichnisses"
+            },
+            {
+              "documentIdentifier" : "BJNR017690985BJNE003904377",
+              "paragraph" : "§ 24",
+              "title" : "Abschluss des Wählerverzeichnisses"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Wählerverzeichnis"
+        },
+        {
+          "documentIdentifier" : "BJNR017690985BJNG000503377",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR017690985BJNE004005160",
+              "paragraph" : "§ 25",
+              "title" : "Voraussetzungen für die Erteilung von Wahlscheinen"
+            },
+            {
+              "documentIdentifier" : "BJNR017690985BJNE004104377",
+              "paragraph" : "§ 26",
+              "title" : "Zuständige Behörde, Form des Wahlscheines"
+            },
+            {
+              "documentIdentifier" : "BJNR017690985BJNE004209305",
+              "paragraph" : "§ 27",
+              "title" : "Wahlscheinanträge"
+            },
+            {
+              "documentIdentifier" : "BJNR017690985BJNE004308377",
+              "paragraph" : "§ 28",
+              "title" : "Erteilung von Wahlscheinen"
+            },
+            {
+              "documentIdentifier" : "BJNR017690985BJNE004405160",
+              "paragraph" : "§ 29",
+              "title" : "Erteilung von Wahlscheinen an bestimmte Personengruppen"
+            },
+            {
+              "documentIdentifier" : "BJNR017690985BJNE004503377",
+              "paragraph" : "§ 30",
+              "title" : "Vermerk im Wählerverzeichnis"
+            },
+            {
+              "documentIdentifier" : "BJNR017690985BJNE004604377",
+              "paragraph" : "§ 31",
+              "title" : "Einspruch gegen die Versagung des Wahlscheines und\nBeschwerde"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Wahlscheine"
+        },
+        {
+          "documentIdentifier" : "BJNR017690985BJNG000603377",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR017690985BJNE004705377",
+              "paragraph" : "§ 32",
+              "title" : "Aufforderung zur Einreichung von Wahlvorschlägen"
+            },
+            {
+              "documentIdentifier" : "BJNR017690985BJNE004806377",
+              "paragraph" : "§ 33",
+              "title" : "Beteiligungsanzeige der in § 18 Abs. 2 des Bundeswahlgesetzes genannten Parteien, Beseitigung von Mängeln"
+            },
+            {
+              "documentIdentifier" : "BJNR017690985BJNE004913377",
+              "paragraph" : "§ 34",
+              "title" : "Inhalt und Form der Kreiswahlvorschläge"
+            },
+            {
+              "documentIdentifier" : "BJNR017690985BJNE005005160",
+              "paragraph" : "§ 35",
+              "title" : "Vorprüfung der Kreiswahlvorschläge durch den Kreiswahlleiter"
+            },
+            {
+              "documentIdentifier" : "BJNR017690985BJNE005105160",
+              "paragraph" : "§ 36",
+              "title" : "Zulassung der Kreiswahlvorschläge"
+            },
+            {
+              "documentIdentifier" : "BJNR017690985BJNE005205160",
+              "paragraph" : "§ 37",
+              "title" : "Beschwerde gegen Entscheidungen des Kreiswahlausschusses"
+            },
+            {
+              "documentIdentifier" : "BJNR017690985BJNE005310377",
+              "paragraph" : "§ 38",
+              "title" : "Bekanntmachung der Kreiswahlvorschläge"
+            },
+            {
+              "documentIdentifier" : "BJNR017690985BJNE005408377",
+              "paragraph" : "§ 39",
+              "title" : "Inhalt und Form der Landeslisten"
+            },
+            {
+              "documentIdentifier" : "BJNR017690985BJNE005504160",
+              "paragraph" : "§ 40",
+              "title" : "Vorprüfung der Landeslisten durch den Landeswahlleiter"
+            },
+            {
+              "documentIdentifier" : "BJNR017690985BJNE005603377",
+              "paragraph" : "§ 41",
+              "title" : "Zulassung der Landeslisten"
+            },
+            {
+              "documentIdentifier" : "BJNR017690985BJNE005705160",
+              "paragraph" : "§ 42",
+              "title" : "Beschwerde gegen Entscheidungen des Landeswahlausschusses"
+            },
+            {
+              "documentIdentifier" : "BJNR017690985BJNE005811377",
+              "paragraph" : "§ 43",
+              "title" : "Bekanntmachung der Landeslisten"
+            },
+            {
+              "documentIdentifier" : "BJNR017690985BJNE005906377",
+              "paragraph" : "§ 44",
+              "title" : "(weggefallen)"
+            },
+            {
+              "documentIdentifier" : "BJNR017690985BJNE006011305",
+              "paragraph" : "§ 45",
+              "title" : "Stimmzettel, Umschläge für die Briefwahl"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Wahlvorschläge, Stimmzettel"
+        },
+        {
+          "documentIdentifier" : "BJNR017690985BJNG000703377",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR017690985BJNE006105305",
+              "paragraph" : "§ 46",
+              "title" : "Wahlräume"
+            },
+            {
+              "documentIdentifier" : "BJNR017690985BJNE006203377",
+              "paragraph" : "§ 47",
+              "title" : "Wahlzeit"
+            },
+            {
+              "documentIdentifier" : "BJNR017690985BJNE006306377",
+              "paragraph" : "§ 48",
+              "title" : "Wahlbekanntmachung der Gemeindebehörde"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              5
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Wahlräume, Wahlzeit"
+        }
+      ],
+      "title" : "Vorbereitung der Wahl"
+    },
+    {
+      "documentIdentifier" : "BJNR017690985BJNG000803377",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR017690985BJNG000903377",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR017690985BJNE006405377",
+              "paragraph" : "§ 49",
+              "title" : "Ausstattung des Wahlvorstandes"
+            },
+            {
+              "documentIdentifier" : "BJNR017690985BJNE006505377",
+              "paragraph" : "§ 50",
+              "title" : "Wahlkabinen"
+            },
+            {
+              "documentIdentifier" : "BJNR017690985BJNE006604377",
+              "paragraph" : "§ 51",
+              "title" : "Wahlurnen"
+            },
+            {
+              "documentIdentifier" : "BJNR017690985BJNE006703377",
+              "paragraph" : "§ 52",
+              "title" : "Wahltisch"
+            },
+            {
+              "documentIdentifier" : "BJNR017690985BJNE006806160",
+              "paragraph" : "§ 53",
+              "title" : "Eröffnung der Wahlhandlung"
+            },
+            {
+              "documentIdentifier" : "BJNR017690985BJNE006903377",
+              "paragraph" : "§ 54",
+              "title" : "Öffentlichkeit"
+            },
+            {
+              "documentIdentifier" : "BJNR017690985BJNE007003377",
+              "paragraph" : "§ 55",
+              "title" : "Ordnung im Wahlraum"
+            },
+            {
+              "documentIdentifier" : "BJNR017690985BJNE007109377",
+              "paragraph" : "§ 56",
+              "title" : "Stimmabgabe"
+            },
+            {
+              "documentIdentifier" : "BJNR017690985BJNE007209377",
+              "paragraph" : "§ 57",
+              "title" : "Stimmabgabe von Wählern mit Behinderungen"
+            },
+            {
+              "documentIdentifier" : "BJNR017690985BJNE007305160",
+              "paragraph" : "§ 58",
+              "title" : "(weggefallen)"
+            },
+            {
+              "documentIdentifier" : "BJNR017690985BJNE007403377",
+              "paragraph" : "§ 59",
+              "title" : "Stimmabgabe von Inhabern eines Wahlscheines"
+            },
+            {
+              "documentIdentifier" : "BJNR017690985BJNE007504377",
+              "paragraph" : "§ 60",
+              "title" : "Schluss der Wahlhandlung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Allgemeine Bestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR017690985BJNG001003377",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR017690985BJNE007606160",
+              "paragraph" : "§ 61",
+              "title" : "Wahl in Sonderwahlbezirken"
+            },
+            {
+              "documentIdentifier" : "BJNR017690985BJNE007705377",
+              "paragraph" : "§ 62",
+              "title" : "Stimmabgabe in kleineren Krankenhäusern und kleineren\nAlten- oder Pflegeheimen"
+            },
+            {
+              "documentIdentifier" : "BJNR017690985BJNE007803377",
+              "paragraph" : "§ 63",
+              "title" : "Stimmabgabe in Klöstern"
+            },
+            {
+              "documentIdentifier" : "BJNR017690985BJNE007903377",
+              "paragraph" : "§ 64",
+              "title" : "Stimmabgabe in sozialtherapeutischen Anstalten\nund Justizvollzugsanstalten"
+            },
+            {
+              "documentIdentifier" : "BJNR017690985BJNE008108305",
+              "paragraph" : "§ 66",
+              "title" : "Briefwahl"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Besondere Regelungen"
+        }
+      ],
+      "title" : "Wahlhandlung"
+    },
+    {
+      "documentIdentifier" : "BJNR017690985BJNG001103377",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR017690985BJNE008204377",
+          "paragraph" : "§ 67",
+          "title" : "Ermittlung und Feststellung des Wahlergebnisses im Wahlbezirk"
+        },
+        {
+          "documentIdentifier" : "BJNR017690985BJNE008305377",
+          "paragraph" : "§ 68",
+          "title" : "Zählung der Wähler"
+        },
+        {
+          "documentIdentifier" : "BJNR017690985BJNE008404377",
+          "paragraph" : "§ 69",
+          "title" : "Zählung der Stimmen"
+        },
+        {
+          "documentIdentifier" : "BJNR017690985BJNE008503377",
+          "paragraph" : "§ 70",
+          "title" : "Bekanntgabe des Wahlergebnisses"
+        },
+        {
+          "documentIdentifier" : "BJNR017690985BJNE008606377",
+          "paragraph" : "§ 71",
+          "title" : "Schnellmeldungen, vorläufige Wahlergebnisse"
+        },
+        {
+          "documentIdentifier" : "BJNR017690985BJNE008705377",
+          "paragraph" : "§ 72",
+          "title" : "Wahlniederschrift"
+        },
+        {
+          "documentIdentifier" : "BJNR017690985BJNE008804377",
+          "paragraph" : "§ 73",
+          "title" : "Übergabe und Verwahrung der Wahlunterlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR017690985BJNE008906377",
+          "paragraph" : "§ 74",
+          "title" : "Behandlung der Wahlbriefe, Vorbereitung der Ermittlung und Feststellung\ndes Briefwahlergebnisses"
+        },
+        {
+          "documentIdentifier" : "BJNR017690985BJNE009006160",
+          "paragraph" : "§ 75",
+          "title" : "Zulassung der Wahlbriefe, Ermittlung und Feststellung des Briefwahlergebnisses"
+        },
+        {
+          "documentIdentifier" : "BJNR017690985BJNE009107377",
+          "paragraph" : "§ 76",
+          "title" : "Ermittlung und Feststellung des Wahlergebnisses im Wahlkreis"
+        },
+        {
+          "documentIdentifier" : "BJNR017690985BJNE009204160",
+          "paragraph" : "§ 77",
+          "title" : "Ermittlung und Feststellung des Zweitstimmenergebnisses im Land"
+        },
+        {
+          "documentIdentifier" : "BJNR017690985BJNE009306305",
+          "paragraph" : "§ 78",
+          "title" : "Abschließende Ermittlung und Feststellung des Ergebnisses der Landeslistenwahl"
+        },
+        {
+          "documentIdentifier" : "BJNR017690985BJNE009404377",
+          "paragraph" : "§ 79",
+          "title" : "Bekanntmachung der endgültigen Wahlergebnisse"
+        },
+        {
+          "documentIdentifier" : "BJNR017690985BJNE009504160",
+          "paragraph" : "§ 80",
+          "title" : "Benachrichtigung der gewählten Landeslistenbewerber"
+        },
+        {
+          "documentIdentifier" : "BJNR017690985BJNE009603377",
+          "paragraph" : "§ 81",
+          "title" : "Überprüfung der Wahl durch die Landeswahlleiter und\nden Bundeswahlleiter"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Ermittlung und Feststellung der Wahlergebnisse"
+    },
+    {
+      "documentIdentifier" : "BJNR017690985BJNG001203377",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR017690985BJNE009704160",
+          "paragraph" : "§ 82",
+          "title" : "Nachwahl"
+        },
+        {
+          "documentIdentifier" : "BJNR017690985BJNE009804377",
+          "paragraph" : "§ 83",
+          "title" : "Wiederholungswahl"
+        },
+        {
+          "documentIdentifier" : "BJNR017690985BJNE009908377",
+          "paragraph" : "§ 84",
+          "title" : "Berufung von Listennachfolgern"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Nachwahl, Wiederholungswahl, Berufung von Listennachfolgern"
+    },
+    {
+      "documentIdentifier" : "BJNR017690985BJNG001303377",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR017690985BJNE010005377",
+          "paragraph" : "§ 85",
+          "title" : "Datenschutzrechtliche Spezialregelungen"
+        },
+        {
+          "documentIdentifier" : "BJNR017690985BJNE010106377",
+          "paragraph" : "§ 86",
+          "title" : "Öffentliche Bekanntmachungen"
+        },
+        {
+          "documentIdentifier" : "BJNR017690985BJNE010205305",
+          "paragraph" : "§ 87",
+          "title" : "Zustellungen, Versicherungen an Eides statt"
+        },
+        {
+          "documentIdentifier" : "BJNR017690985BJNE010310305",
+          "paragraph" : "§ 88",
+          "title" : "Beschaffung von Stimmzetteln und Vordrucken"
+        },
+        {
+          "documentIdentifier" : "BJNR017690985BJNE010404377",
+          "paragraph" : "§ 89",
+          "title" : "Sicherung der Wahlunterlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR017690985BJNE010504377",
+          "paragraph" : "§ 90",
+          "title" : "Vernichtung von Wahlunterlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR017690985BJNE010603377",
+          "paragraph" : "§ 91",
+          "title" : "Stadtstaatklausel"
+        },
+        {
+          "documentIdentifier" : "BJNR017690985BJNE011108377",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 18 Absatz 6)"
+        },
+        {
+          "documentIdentifier" : "BJNR017690985BJNE011215377",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 18 Abs. 5)"
+        },
+        {
+          "documentIdentifier" : "BJNR017690985BJNE011312377",
+          "paragraph" : "Anlage 3",
+          "title" : "(zu § 19 Absatz 1)"
+        },
+        {
+          "documentIdentifier" : "BJNR017690985BJNE011410305",
+          "paragraph" : "Anlage 4",
+          "title" : "(zu § 19 Absatz 2)"
+        },
+        {
+          "documentIdentifier" : "BJNR017690985BJNE011513377",
+          "paragraph" : "Anlage 5",
+          "title" : "(zu § 20 Abs. 1)"
+        },
+        {
+          "documentIdentifier" : "BJNR017690985BJNE011612377",
+          "paragraph" : "Anlage 6",
+          "title" : "(zu § 20 Abs. 2)"
+        },
+        {
+          "documentIdentifier" : "BJNR017690985BJNE011805377",
+          "paragraph" : "Anlage 8",
+          "title" : "(zu § 24 Abs. 1)"
+        },
+        {
+          "documentIdentifier" : "BJNR017690985BJNE011910377",
+          "paragraph" : "Anlage 9",
+          "title" : "(zu § 26)"
+        },
+        {
+          "documentIdentifier" : "BJNR017690985BJNE012004160",
+          "paragraph" : "Anlage 10",
+          "title" : "(zu § 28 Abs. 3 und § 45 Abs. 3)"
+        },
+        {
+          "documentIdentifier" : "BJNR017690985BJNE012109305",
+          "paragraph" : "Anlage 11",
+          "title" : "(zu § 28 Abs. 3 und § 45 Abs. 4)"
+        },
+        {
+          "documentIdentifier" : "BJNR017690985BJNE012210377",
+          "paragraph" : "Anlage 12",
+          "title" : "(zu § 28 Abs. 3)"
+        },
+        {
+          "documentIdentifier" : "BJNR017690985BJNE012307160",
+          "paragraph" : "Anlage 13",
+          "title" : "(zu § 34 Abs. 1)"
+        },
+        {
+          "documentIdentifier" : "BJNR017690985BJNE012411377",
+          "paragraph" : "Anlage 14",
+          "title" : "(zu § 34 Abs. 4)"
+        },
+        {
+          "documentIdentifier" : "BJNR017690985BJNE012505377",
+          "paragraph" : "Anlage 15",
+          "title" : "(zu § 34 Abs. 5 Nr. 1 und 3 Buchstabe b)"
+        },
+        {
+          "documentIdentifier" : "BJNR017690985BJNE012608377",
+          "paragraph" : "Anlage 16",
+          "title" : "(zu § 34 Abs. 5 Nr. 2 und § 39 Abs. 4 Nr. 2)"
+        },
+        {
+          "documentIdentifier" : "BJNR017690985BJNE012706160",
+          "paragraph" : "Anlage 17",
+          "title" : "(zu § 34 Abs. 5 Nr. 3 Buchstabe a)"
+        },
+        {
+          "documentIdentifier" : "BJNR017690985BJNE012806160",
+          "paragraph" : "Anlage 18",
+          "title" : "(zu § 34 Abs. 5 Nr. 3 Buchstabe a)"
+        },
+        {
+          "documentIdentifier" : "BJNR017690985BJNE012907160",
+          "paragraph" : "Anlage 19",
+          "title" : "(zu § 36 Abs. 6)"
+        },
+        {
+          "documentIdentifier" : "BJNR017690985BJNE013007377",
+          "paragraph" : "Anlage 20",
+          "title" : "(zu § 39 Abs. 1)"
+        },
+        {
+          "documentIdentifier" : "BJNR017690985BJNE013108377",
+          "paragraph" : "Anlage 21",
+          "title" : "(zu § 39 Abs. 3)"
+        },
+        {
+          "documentIdentifier" : "BJNR017690985BJNE013205377",
+          "paragraph" : "Anlage 22",
+          "title" : "(zu § 39 Abs. 4 Nr. 1)"
+        },
+        {
+          "documentIdentifier" : "BJNR017690985BJNE013306160",
+          "paragraph" : "Anlage 23",
+          "title" : "(zu § 39 Abs. 4 Nr. 3)"
+        },
+        {
+          "documentIdentifier" : "BJNR017690985BJNE013405377",
+          "paragraph" : "Anlage 24",
+          "title" : "(zu § 39 Abs. 4 Nr. 3)"
+        },
+        {
+          "documentIdentifier" : "BJNR017690985BJNE013506377",
+          "paragraph" : "Anlage 25",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR017690985BJNE013607377",
+          "paragraph" : "Anlage 26",
+          "title" : "(zu § 28 Abs. 3 und § 45 Abs. 1)"
+        },
+        {
+          "documentIdentifier" : "BJNR017690985BJNE013709377",
+          "paragraph" : "Anlage 27",
+          "title" : "(zu § 48 Abs. 1)"
+        },
+        {
+          "documentIdentifier" : "BJNR017690985BJNE013805377",
+          "paragraph" : "Anlage 28",
+          "title" : "(zu § 71 Abs. 7 und § 75 Abs. 4)"
+        },
+        {
+          "documentIdentifier" : "BJNR017690985BJNE013910377",
+          "paragraph" : "Anlage 29",
+          "title" : "(zu § 72 Absatz 1)"
+        },
+        {
+          "documentIdentifier" : "BJNR017690985BJNE014003377",
+          "paragraph" : "Anlage 30",
+          "title" : "(zu §§ 72 Abs. 3, 75 Abs. 6, 76 Abs. 1 und 6, § 77 Abs. 1,\n§ 78 Abs. 4)"
+        },
+        {
+          "documentIdentifier" : "BJNR017690985BJNE014111377",
+          "paragraph" : "Anlage 31",
+          "title" : "(zu § 75 Absatz 5)"
+        },
+        {
+          "documentIdentifier" : "BJNR017690985BJNE014205377",
+          "paragraph" : "Anlage 32",
+          "title" : "(zu § 76 Abs. 6)"
+        },
+        {
+          "documentIdentifier" : "BJNR017690985BJNE014306377",
+          "paragraph" : "Anlage 33",
+          "title" : "(zu § 77 Abs. 4)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übergangs- und Schlussbestimmungen"
+    }
+  ]
+}

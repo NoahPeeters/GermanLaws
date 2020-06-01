@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR220410015",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR220410015Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR220410015BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Bewilligung von Altersteilzeit"
+        },
+        {
+          "documentIdentifier" : "BJNR220410015BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Post-Altersteilzeitzuschlag"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

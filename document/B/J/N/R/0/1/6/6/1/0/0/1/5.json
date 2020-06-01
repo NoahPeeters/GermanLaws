@@ -1,0 +1,385 @@
+{
+  "documentIdentifier" : "BJNR016610015",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR016610015BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR016610015BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR016610015BJNE000201124",
+          "paragraph" : "§ 2",
+          "title" : "Zuständigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR016610015BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Referenzflächensysteme"
+        },
+        {
+          "documentIdentifier" : "BJNR016610015BJNE000401124",
+          "paragraph" : "§ 4",
+          "title" : "Begriff der landwirtschaftlichen Parzelle"
+        },
+        {
+          "documentIdentifier" : "BJNR016610015BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Muster, Vordrucke und Formulare"
+        },
+        {
+          "documentIdentifier" : "BJNR016610015BJNE000601124",
+          "paragraph" : "§ 6",
+          "title" : "Elektronische Kommunikation"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Anwendungsbereich, Zuständigkeiten, Begriffsbestimmungen und Kommunikation"
+    },
+    {
+      "documentIdentifier" : "BJNR016610015BJNG000200000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR016610015BJNG000300000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR016610015BJNE000703124",
+              "paragraph" : "§ 7",
+              "title" : "Form und Frist"
+            },
+            {
+              "documentIdentifier" : "BJNR016610015BJNE000801118",
+              "paragraph" : "§ 8",
+              "title" : "Betriebsbezogene Angaben"
+            },
+            {
+              "documentIdentifier" : "BJNR016610015BJNE000903124",
+              "paragraph" : "§ 9",
+              "title" : "(weggefallen)"
+            },
+            {
+              "documentIdentifier" : "BJNR016610015BJNE003903124",
+              "paragraph" : "§ 10",
+              "title" : "Flächenbezogene Angaben"
+            },
+            {
+              "documentIdentifier" : "BJNR016610015BJNE004200124",
+              "paragraph" : "§ 10a",
+              "title" : "Zusätzliche Angaben für bestimmte Flächen im Antragsjahr 2018"
+            },
+            {
+              "documentIdentifier" : "BJNR016610015BJNE001105119",
+              "paragraph" : "§ 11",
+              "title" : "Besondere Angaben für die Zwecke der Überprüfung der Zahlung für dem Klima- und Umweltschutz förderliche Landbewirtschaftungsmethoden"
+            },
+            {
+              "documentIdentifier" : "BJNR016610015BJNE003702124",
+              "paragraph" : "§ 11a",
+              "title" : "Änderung bei Flächennutzungen im Umweltinteresse"
+            },
+            {
+              "documentIdentifier" : "BJNR016610015BJNE001201124",
+              "paragraph" : "§ 12",
+              "title" : "Angaben bei Anbau von Nutzhanf"
+            },
+            {
+              "documentIdentifier" : "BJNR016610015BJNE001300000",
+              "paragraph" : "§ 13",
+              "title" : "Angaben beim Anbau von Hopfen"
+            },
+            {
+              "documentIdentifier" : "BJNR016610015BJNE003800118",
+              "paragraph" : "§ 13a",
+              "title" : "Angaben bei Niederwald mit Kurzumtrieb"
+            },
+            {
+              "documentIdentifier" : "BJNR016610015BJNE001400000",
+              "paragraph" : "§ 14",
+              "title" : "Erklärung bei Beantragung der Umverteilungsprämie"
+            },
+            {
+              "documentIdentifier" : "BJNR016610015BJNE001501118",
+              "paragraph" : "§ 15",
+              "title" : "Angaben bei Beantragung der Zahlung für Junglandwirte"
+            },
+            {
+              "documentIdentifier" : "BJNR016610015BJNE001601118",
+              "paragraph" : "§ 16",
+              "title" : "Angaben hinsichtlich der Einhaltung grundlegender Anforderungen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Sammelantrag"
+        },
+        {
+          "documentIdentifier" : "BJNR016610015BJNG000400000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR016610015BJNE001701118",
+              "paragraph" : "§ 17",
+              "title" : "Betriebsnummer"
+            },
+            {
+              "documentIdentifier" : "BJNR016610015BJNE001800000",
+              "paragraph" : "§ 18",
+              "title" : "Mindestgröße einer landwirtschaftlichen Parzelle"
+            },
+            {
+              "documentIdentifier" : "BJNR016610015BJNE001901118",
+              "paragraph" : "§ 19",
+              "title" : "Landschaftselemente"
+            },
+            {
+              "documentIdentifier" : "BJNR016610015BJNE002000000",
+              "paragraph" : "§ 20",
+              "title" : "Gewährung von Zahlungen bei Übertragung des Betriebes"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Sonstige gemeinsame Vorschriften"
+        }
+      ],
+      "title" : "Gemeinsame Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR016610015BJNG000500000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR016610015BJNE002102124",
+          "paragraph" : "§ 21",
+          "title" : "Antrag auf Zuweisung der Zahlungsansprüche"
+        },
+        {
+          "documentIdentifier" : "BJNR016610015BJNE002200000",
+          "paragraph" : "§ 22",
+          "title" : "Höhere Gewalt und außergewöhnliche Umstände"
+        },
+        {
+          "documentIdentifier" : "BJNR016610015BJNE002302124",
+          "paragraph" : "§ 23",
+          "title" : "Übertragung von Zahlungsansprüchen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Verfahren bei Zahlungsansprüchen"
+    },
+    {
+      "documentIdentifier" : "BJNR016610015BJNG000600000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR016610015BJNE002400000",
+          "paragraph" : "§ 24",
+          "title" : "Teilnahme an der Kleinerzeugerregelung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Verfahren bei der Kleinerzeugerregelung"
+    },
+    {
+      "documentIdentifier" : "BJNR016610015BJNG000700000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR016610015BJNE002502124",
+          "paragraph" : "§ 25",
+          "title" : "Antrag auf Genehmigung der Umwandlung von Dauergrünland"
+        },
+        {
+          "documentIdentifier" : "BJNR016610015BJNE004001124",
+          "paragraph" : "§ 25a",
+          "title" : "Antrag auf Aufhebung der Bestimmung von Dauergrünland als umweltsensibel"
+        },
+        {
+          "documentIdentifier" : "BJNR016610015BJNE004100124",
+          "paragraph" : "§ 25b",
+          "title" : "Mitteilungspflichten nach § 15 Absatz 2b Satz 2 und § 16 Absatz 6 Satz 2 des Direktzahlungen-Durchführungsgesetzes"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Verfahren bei der Genehmigung der Umwandlung von Dauergrünland im Rahmen der Zahlung für dem Klima- und Umweltschutz förderliche Landbewirtschaftungsmethoden"
+    },
+    {
+      "documentIdentifier" : "BJNR016610015BJNG000800000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR016610015BJNE002600000",
+          "paragraph" : "§ 26",
+          "title" : "Antrag"
+        },
+        {
+          "documentIdentifier" : "BJNR016610015BJNE002700000",
+          "paragraph" : "§ 27",
+          "title" : "Meldung über Hopfenflächen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Zahlungen an anerkannte Erzeugerorganisationen im Hopfensektor"
+    },
+    {
+      "documentIdentifier" : "BJNR016610015BJNG000900000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR016610015BJNE002801124",
+          "paragraph" : "§ 28",
+          "title" : "Erntetermin, Kontrollen"
+        },
+        {
+          "documentIdentifier" : "BJNR016610015BJNE002901124",
+          "paragraph" : "§ 29",
+          "title" : "Nicht beihilfefähige Hanfsorten, Bekanntmachung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Hanf"
+    },
+    {
+      "documentIdentifier" : "BJNR016610015BJNG001000000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR016610015BJNE003002124",
+          "paragraph" : "§ 30",
+          "title" : "Nachweis- und Meldepflichten des Betriebsinhabers"
+        },
+        {
+          "documentIdentifier" : "BJNR016610015BJNE004300124",
+          "paragraph" : "§ 30a",
+          "title" : "Anzeige des Umpflügens von bestimmten Flächen mit Gras oder anderen Grünfutterpflanzen"
+        },
+        {
+          "documentIdentifier" : "BJNR016610015BJNE003100000",
+          "paragraph" : "§ 31",
+          "title" : "Duldungs- und Mitwirkungspflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR016610015BJNE003201124",
+          "paragraph" : "§ 32",
+          "title" : "Mitteilungspflichten der Länder und der Bundesstellen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          8
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Duldungs-, Mitwirkungs-, Nachweis- und Meldepflichten"
+    },
+    {
+      "documentIdentifier" : "BJNR016610015BJNG001100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR016610015BJNE003300000",
+          "paragraph" : "§ 33",
+          "title" : "Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR016610015BJNE003400000",
+          "paragraph" : "§ 34",
+          "title" : "Zuständige Verwaltungsbehörde"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          9
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Ordnungswidrigkeiten"
+    },
+    {
+      "documentIdentifier" : "BJNR016610015BJNG001200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR016610015BJNE003503124",
+          "paragraph" : "§ 35",
+          "title" : "Übergangsvorschrift"
+        },
+        {
+          "documentIdentifier" : "BJNR016610015BJNE003600000",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 3 Absatz 3 Satz 2)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          10
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussbestimmungen"
+    }
+  ]
+}

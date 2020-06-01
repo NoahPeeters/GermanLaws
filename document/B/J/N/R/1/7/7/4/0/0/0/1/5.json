@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR177400015",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR177400015Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR177400015BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich; Begriffe"
+        },
+        {
+          "documentIdentifier" : "BJNR177400015BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Aufgaben"
+        },
+        {
+          "documentIdentifier" : "BJNR177400015BJNE000401125",
+          "paragraph" : "§ 3",
+          "title" : "Protokollierungspflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR177400015BJNE000501125",
+          "paragraph" : "§ 4",
+          "title" : "Datenschutz und Datensicherheit"
+        },
+        {
+          "documentIdentifier" : "BJNR177400015BJNE000601116",
+          "paragraph" : "§ 5",
+          "title" : "Zulassungsverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR177400015BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Vorläufige Zulassung"
+        },
+        {
+          "documentIdentifier" : "BJNR177400015BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "documentIdentifier" : "BJNR015450953",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR015450953BJNG000100314",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Amtswohnungen"
+    },
+    {
+      "documentIdentifier" : "BJNR015450953BJNG000200314",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR015450953BJNE001300314",
+          "paragraph" : "(XXXX) §§ 8 und 9",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Umzugskostenentschädigung"
+    },
+    {
+      "documentIdentifier" : "BJNR015450953BJNG000300314",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Tagegelder und Entschädigung für Reisekosten"
+    },
+    {
+      "documentIdentifier" : "BJNR015450953BJNG000400314",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeines"
+    }
+  ]
+}

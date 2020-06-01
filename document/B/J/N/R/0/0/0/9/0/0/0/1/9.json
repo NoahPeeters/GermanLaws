@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR000900019",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR000900019Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR000900019BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Inhalt, Begriffsbestimmung"
+        },
+        {
+          "documentIdentifier" : "BJNR000900019BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Leistungsberechtigte Sozialeinrichtung"
+        },
+        {
+          "documentIdentifier" : "BJNR000900019BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Antragstellung, Ausschlussfrist"
+        },
+        {
+          "documentIdentifier" : "BJNR000900019BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Gewährung"
+        },
+        {
+          "documentIdentifier" : "BJNR000900019BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

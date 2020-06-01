@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR258600008",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR258600008Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR258600008BJNE011801160",
+          "paragraph" : "Art 111",
+          "title" : "Übergangsvorschrift"
+        },
+        {
+          "documentIdentifier" : "BJNR258600008BJNE011900000",
+          "paragraph" : "Art 112",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

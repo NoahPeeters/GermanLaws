@@ -1,0 +1,262 @@
+{
+  "documentIdentifier" : "BJNR001340957",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR001340957BJNG000100311",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften und Grundsätze über den freihändigen Erwerb"
+    },
+    {
+      "documentIdentifier" : "BJNR001340957BJNG000200311",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR001340957BJNG000300311",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Allgemeine Bestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR001340957BJNG000400311",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Gegenstand der Enteignung"
+        },
+        {
+          "documentIdentifier" : "BJNR001340957BJNG000500311",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              3
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR001340957BJNG000600311",
+              "laws" : [
+
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  3,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Entschädigung für die Enteignung"
+            },
+            {
+              "documentIdentifier" : "BJNR001340957BJNG000700311",
+              "laws" : [
+
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  3,
+                  2
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Entschädigung und Kosten für Folgen der Enteignung"
+            }
+          ],
+          "title" : "Enteignungsentschädigung"
+        },
+        {
+          "documentIdentifier" : "BJNR001340957BJNG000800311",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              4
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR001340957BJNG000900311",
+              "laws" : [
+
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  4,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Enteignungsbehörde und Beteiligte"
+            },
+            {
+              "documentIdentifier" : "BJNR001340957BJNG001000311",
+              "laws" : [
+
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  4,
+                  2
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Planprüfung"
+            },
+            {
+              "documentIdentifier" : "BJNR001340957BJNG001100311",
+              "laws" : [
+
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  4,
+                  3
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Vorzeitige Besitzeinweisung"
+            },
+            {
+              "documentIdentifier" : "BJNR001340957BJNG001200311",
+              "laws" : [
+
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  4,
+                  4
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Festsetzung der Entschädigung"
+            },
+            {
+              "documentIdentifier" : "BJNR001340957BJNG001300311",
+              "laws" : [
+
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  4,
+                  5
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Enteignungsbeschluß"
+            },
+            {
+              "documentIdentifier" : "BJNR001340957BJNG001400311",
+              "laws" : [
+
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  4,
+                  6
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Ausführung der Enteignung"
+            }
+          ],
+          "title" : "Enteignungs- und Entschädigungsverfahren"
+        }
+      ],
+      "title" : "Enteignung"
+    },
+    {
+      "documentIdentifier" : "BJNR001340957BJNG001500311",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Rechtsbehelfe"
+    },
+    {
+      "documentIdentifier" : "BJNR001340957BJNG001600311",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übergangs- und Schlußvorschriften"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "documentIdentifier" : "BJNR315910016",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR315910016Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR315910016BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Grundsatz"
+        },
+        {
+          "documentIdentifier" : "BJNR315910016BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Zugrundeliegende Haushaltstypen"
+        },
+        {
+          "documentIdentifier" : "BJNR315910016BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Auszuschließende Haushalte"
+        },
+        {
+          "documentIdentifier" : "BJNR315910016BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Abgrenzung der Referenzgruppen"
+        },
+        {
+          "documentIdentifier" : "BJNR315910016BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Regelbedarfsrelevante Verbrauchsausgaben der Einpersonenhaushalte"
+        },
+        {
+          "documentIdentifier" : "BJNR315910016BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Regelbedarfsrelevante Verbrauchsausgaben der Familienhaushalte"
+        },
+        {
+          "documentIdentifier" : "BJNR315910016BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Fortschreibung der regelbedarfsrelevanten Verbrauchsausgaben"
+        },
+        {
+          "documentIdentifier" : "BJNR315910016BJNE000901119",
+          "paragraph" : "§ 8",
+          "title" : "Regelbedarfsstufen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

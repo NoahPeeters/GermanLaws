@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR344100001",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR344100001Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR344100001BJNE000102377",
+          "paragraph" : "§ 1",
+          "title" : "Öko-Kennzeichen"
+        },
+        {
+          "documentIdentifier" : "BJNR344100001BJNE000205301",
+          "paragraph" : "§ 2",
+          "title" : "Ermächtigungen"
+        },
+        {
+          "documentIdentifier" : "BJNR344100001BJNE000302377",
+          "paragraph" : "§ 3",
+          "title" : "Strafvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR344100001BJNE000402377",
+          "paragraph" : "§ 4",
+          "title" : "Bußgeldvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR344100001BJNE000501377",
+          "paragraph" : "§ 5",
+          "title" : "Einziehung"
+        },
+        {
+          "documentIdentifier" : "BJNR344100001BJNE000601377",
+          "paragraph" : "§ 6",
+          "title" : "(Inkrafttreten)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

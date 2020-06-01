@@ -1,0 +1,59 @@
+{
+  "documentIdentifier" : "BJNR246110008",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR246110008Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR246110008BJNE000203118",
+          "paragraph" : "§ 1",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR246110008BJNE000303118",
+          "paragraph" : "§ 2",
+          "title" : "Impfungen"
+        },
+        {
+          "documentIdentifier" : "BJNR246110008BJNE000406118",
+          "paragraph" : "§ 3",
+          "title" : "Untersuchungen"
+        },
+        {
+          "documentIdentifier" : "BJNR246110008BJNE000512118",
+          "paragraph" : "§ 4",
+          "title" : "Verbringen von Rindern"
+        },
+        {
+          "documentIdentifier" : "BJNR246110008BJNE000604118",
+          "paragraph" : "§ 5",
+          "title" : "Schutzmaßregeln"
+        },
+        {
+          "documentIdentifier" : "BJNR246110008BJNE000704118",
+          "paragraph" : "§ 6",
+          "title" : "Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR246110008BJNE000804118",
+          "paragraph" : "§ 7",
+          "title" : "Übergangsvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR246110008BJNE000904118",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 1)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

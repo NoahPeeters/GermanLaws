@@ -1,0 +1,84 @@
+{
+  "documentIdentifier" : "BJNR138600011",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR138600011Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR138600011BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Inhalt des Registers"
+        },
+        {
+          "documentIdentifier" : "BJNR138600011BJNE000301311",
+          "paragraph" : "§ 2",
+          "title" : "Meldung zum Register"
+        },
+        {
+          "documentIdentifier" : "BJNR138600011BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Registrierungsverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR138600011BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Verfahren bei Änderungen der Verwahrstelle oder Rücknahme aus der amtlichen Verwahrung"
+        },
+        {
+          "documentIdentifier" : "BJNR138600011BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Löschung, Berichtigung und Ergänzung"
+        },
+        {
+          "documentIdentifier" : "BJNR138600011BJNE000701311",
+          "paragraph" : "§ 6",
+          "title" : "Inhalt der Sterbefallmitteilungen"
+        },
+        {
+          "documentIdentifier" : "BJNR138600011BJNE000803311",
+          "paragraph" : "§ 7",
+          "title" : "Benachrichtigungen im Sterbefall"
+        },
+        {
+          "documentIdentifier" : "BJNR138600011BJNE000902125",
+          "paragraph" : "§ 8",
+          "title" : "Registerauskünfte"
+        },
+        {
+          "documentIdentifier" : "BJNR138600011BJNE001001311",
+          "paragraph" : "§ 9",
+          "title" : "Elektronische Kommunikation"
+        },
+        {
+          "documentIdentifier" : "BJNR138600011BJNE001101311",
+          "paragraph" : "§ 10",
+          "title" : "Elektronische Aufbewahrung und Löschung"
+        },
+        {
+          "documentIdentifier" : "BJNR138600011BJNE001200000",
+          "paragraph" : "§ 11",
+          "title" : "Nacherfassungen"
+        },
+        {
+          "documentIdentifier" : "BJNR138600011BJNE001301125",
+          "paragraph" : "§ 12",
+          "title" : "Datenschutz und Datensicherheit"
+        },
+        {
+          "documentIdentifier" : "BJNR138600011BJNE001400000",
+          "paragraph" : "§ 13",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

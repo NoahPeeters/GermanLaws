@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR300400007",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR300400007Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR300400007BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Informationspflichten bei allen Versicherungszweigen"
+        },
+        {
+          "documentIdentifier" : "BJNR300400007BJNE000303360",
+          "paragraph" : "§ 2",
+          "title" : "Informationspflichten bei der Lebensversicherung, der Berufsunfähigkeitsversicherung und der Unfallversicherung mit Prämienrückgewähr"
+        },
+        {
+          "documentIdentifier" : "BJNR300400007BJNE000403118",
+          "paragraph" : "§ 3",
+          "title" : "Informationspflichten bei der Krankenversicherung"
+        },
+        {
+          "documentIdentifier" : "BJNR300400007BJNE000503118",
+          "paragraph" : "§ 4",
+          "title" : "Produktinformationsblatt"
+        },
+        {
+          "documentIdentifier" : "BJNR300400007BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Informationspflichten bei Telefongesprächen"
+        },
+        {
+          "documentIdentifier" : "BJNR300400007BJNE000701118",
+          "paragraph" : "§ 6",
+          "title" : "Informationspflichten während der Laufzeit des Vertrages"
+        },
+        {
+          "documentIdentifier" : "BJNR300400007BJNE000801118",
+          "paragraph" : "§ 7",
+          "title" : "Übergangsvorschrift"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

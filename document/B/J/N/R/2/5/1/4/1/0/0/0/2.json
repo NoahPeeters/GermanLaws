@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR251410002",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR251410002Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR251410002BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich, Zweck"
+        },
+        {
+          "documentIdentifier" : "BJNR251410002BJNE000201308",
+          "paragraph" : "§ 2",
+          "title" : "Allgemeine Vorschriften zur Vorlage von Unterlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR251410002BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Vorlage von Prüfnachweisen, Prüfmethoden"
+        },
+        {
+          "documentIdentifier" : "BJNR251410002BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Beschränkungen der Zulassungsfähigkeit bei bestimmten Biozid-Produkten"
+        },
+        {
+          "documentIdentifier" : "BJNR251410002BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Feststellung zum Entfallen der Zulassungsbedürftigkeit nach § 12a\nSatz 2 Nr. 4 des Chemikaliengesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR251410002BJNE000600000",
+          "paragraph" : "§ 6",
+          "title" : "Proben"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

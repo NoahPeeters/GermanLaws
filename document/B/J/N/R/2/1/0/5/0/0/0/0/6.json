@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR210500006",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR210500006Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR210500006BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Grundsätze der Lastentragung"
+        },
+        {
+          "documentIdentifier" : "BJNR210500006BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Länderübergreifende Finanzkorrekturen der Europäischen Gemeinschaften"
+        },
+        {
+          "documentIdentifier" : "BJNR210500006BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Sanktionen auf Grund von Artikel 228 des Vertrags zur Gründung der\nEuropäischen Gemeinschaft"
+        },
+        {
+          "documentIdentifier" : "BJNR210500006BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Verletzungen von Verpflichtungen durch die Gerichte"
+        },
+        {
+          "documentIdentifier" : "BJNR210500006BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Erstattung durch die Länder"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

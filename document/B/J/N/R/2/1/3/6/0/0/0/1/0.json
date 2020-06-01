@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR213600010",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR213600010Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR213600010BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Abkommen"
+        },
+        {
+          "documentIdentifier" : "BJNR213600010BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Besteuerung des Gehalts bestimmter Ortskräfte konsularischer Vertretungen"
+        },
+        {
+          "documentIdentifier" : "BJNR213600010BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Anwendungsregelung"
+        },
+        {
+          "documentIdentifier" : "BJNR213600010BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

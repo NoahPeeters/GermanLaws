@@ -1,0 +1,150 @@
+{
+  "documentIdentifier" : "BJNR091209993",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR091209993BJNE000100307",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          0
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "-"
+    },
+    {
+      "documentIdentifier" : "BJNR091209993BJNG000200307",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Art 1"
+    },
+    {
+      "documentIdentifier" : "BJNR091209993BJNG000300307",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Art 2 bis 5"
+    },
+    {
+      "documentIdentifier" : "BJNR091209993BJNG000400307",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR091209993BJNE000501310",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              6
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR091209993BJNE000601310",
+              "laws" : [
+
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  6
+                ]
+              },
+              "subsections" : [
+                {
+                  "documentIdentifier" : "BJNR091209993BJNE000701310",
+                  "laws" : [
+
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      6
+                    ]
+                  },
+                  "subsections" : [
+                    {
+                      "documentIdentifier" : "BJNR091209993BJNE000801310",
+                      "laws" : [
+
+                      ],
+                      "sectionNumber" : {
+                        "numbers" : [
+                          6
+                        ]
+                      },
+                      "subsections" : [
+                        {
+                          "documentIdentifier" : "BJNR091209993BJNE000900307",
+                          "laws" : [
+
+                          ],
+                          "sectionNumber" : {
+                            "numbers" : [
+                              6
+                            ]
+                          },
+                          "subsections" : [
+
+                          ],
+                          "title" : "Art 6"
+                        }
+                      ],
+                      "title" : "Art 6"
+                    }
+                  ],
+                  "title" : "Art 6"
+                }
+              ],
+              "title" : "Art 6"
+            }
+          ],
+          "title" : "Art 6"
+        }
+      ],
+      "title" : "Übergangsregelungen"
+    },
+    {
+      "documentIdentifier" : "BJNR091209993BJNG001000307",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inkrafttreten"
+    }
+  ]
+}

@@ -1,0 +1,1548 @@
+{
+  "documentIdentifier" : "BJNR209110014",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR209110014BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR209110014BJNE000201116",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich; Verhältnis zur SRM-Verordnung"
+        },
+        {
+          "documentIdentifier" : "BJNR209110014BJNE000304123",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR209110014BJNE000401301",
+          "paragraph" : "§ 3",
+          "title" : "Abwicklungsbehörde; Aufsichtsbehörde"
+        },
+        {
+          "documentIdentifier" : "BJNR209110014BJNE000501123",
+          "paragraph" : "§ 4",
+          "title" : "Vertraulichkeit von Informationen; personenbezogene Daten; Informationsansprüche"
+        },
+        {
+          "documentIdentifier" : "BJNR209110014BJNE000601301",
+          "paragraph" : "§ 5",
+          "title" : "Verschwiegenheitspflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR209110014BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Zulässiger Informationsaustausch zwischen Behörden im Rahmen dieses Gesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR209110014BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Weitergabe von Informationen an sonstige Stellen"
+        },
+        {
+          "documentIdentifier" : "BJNR209110014BJNE000901123",
+          "paragraph" : "§ 8",
+          "title" : "Vertraulichkeit gegenüber Drittstaaten"
+        },
+        {
+          "documentIdentifier" : "BJNR209110014BJNE001000000",
+          "paragraph" : "§ 9",
+          "title" : "Vorabprüfung auf Vertraulichkeit bei sonstiger Weitergabe von Informationen"
+        },
+        {
+          "documentIdentifier" : "BJNR209110014BJNE001100000",
+          "paragraph" : "§ 10",
+          "title" : "Sonstige Vorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR209110014BJNE001200000",
+          "paragraph" : "§ 11",
+          "title" : "Zugang zu Informationen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR209110014BJNG000200000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR209110014BJNG000300000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR209110014BJNE001300000",
+              "paragraph" : "§ 12",
+              "title" : "Sanierungsplanung"
+            },
+            {
+              "documentIdentifier" : "BJNR209110014BJNE001400000",
+              "paragraph" : "§ 13",
+              "title" : "Ausgestaltung von Sanierungsplänen"
+            },
+            {
+              "documentIdentifier" : "BJNR209110014BJNE001501116",
+              "paragraph" : "§ 14",
+              "title" : "Besondere Anforderungen an die Ausgestaltung von Gruppensanierungsplänen; Einzelsanierungsplan"
+            },
+            {
+              "documentIdentifier" : "BJNR209110014BJNE001600000",
+              "paragraph" : "§ 15",
+              "title" : "Prüfung und Bewertung von Sanierungsplänen"
+            },
+            {
+              "documentIdentifier" : "BJNR209110014BJNE001700000",
+              "paragraph" : "§ 16",
+              "title" : "Maßnahmen bei Mängeln von Sanierungsplänen"
+            },
+            {
+              "documentIdentifier" : "BJNR209110014BJNE001800000",
+              "paragraph" : "§ 17",
+              "title" : "Verfahren bei Gruppensanierungsplänen und Mängeln von Gruppensanierungsplänen, wenn die Aufsichtsbehörde zugleich konsolidierende Aufsichtsbehörde ist"
+            },
+            {
+              "documentIdentifier" : "BJNR209110014BJNE001900000",
+              "paragraph" : "§ 18",
+              "title" : "Verfahren bei Gruppensanierungsplänen und Mängeln von Gruppensanierungsplänen, wenn die Aufsichtsbehörde nicht konsolidierende Aufsichtsbehörde ist"
+            },
+            {
+              "documentIdentifier" : "BJNR209110014BJNE002002116",
+              "paragraph" : "§ 19",
+              "title" : "Vereinfachte Anforderungen"
+            },
+            {
+              "documentIdentifier" : "BJNR209110014BJNE002101116",
+              "paragraph" : "§ 20",
+              "title" : "Befreiung von Instituten, die institutsbezogenen Sicherungssystemen angehören"
+            },
+            {
+              "documentIdentifier" : "BJNR209110014BJNE002200000",
+              "paragraph" : "§ 21",
+              "title" : "Vertraulichkeitspflicht der Institute und gruppenangehörigen Unternehmen"
+            },
+            {
+              "documentIdentifier" : "BJNR209110014BJNE017800116",
+              "paragraph" : "§ 21a",
+              "title" : "Verordnungsermächtigung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Sanierungsplanung"
+        },
+        {
+          "documentIdentifier" : "BJNR209110014BJNG000400000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR209110014BJNE002300000",
+              "paragraph" : "§ 22",
+              "title" : "Vereinbarung über gruppeninterne finanzielle Unterstützung"
+            },
+            {
+              "documentIdentifier" : "BJNR209110014BJNE002400000",
+              "paragraph" : "§ 23",
+              "title" : "Zulässigkeit und Inhalt einer Vereinbarung über gruppeninterne finanzielle Unterstützung"
+            },
+            {
+              "documentIdentifier" : "BJNR209110014BJNE002500000",
+              "paragraph" : "§ 24",
+              "title" : "Abtretungsverbot"
+            },
+            {
+              "documentIdentifier" : "BJNR209110014BJNE002600000",
+              "paragraph" : "§ 25",
+              "title" : "Genehmigungserfordernis"
+            },
+            {
+              "documentIdentifier" : "BJNR209110014BJNE002700000",
+              "paragraph" : "§ 26",
+              "title" : "Genehmigungsverfahren bei übergeordnetem Unternehmen mit Sitz im Inland"
+            },
+            {
+              "documentIdentifier" : "BJNR209110014BJNE002800000",
+              "paragraph" : "§ 27",
+              "title" : "Genehmigungsverfahren bei übergeordnetem Unternehmen mit Sitz in einem anderen Mitgliedstaat"
+            },
+            {
+              "documentIdentifier" : "BJNR209110014BJNE002900000",
+              "paragraph" : "§ 28",
+              "title" : "Weiterleitung an die Abwicklungsbehörde"
+            },
+            {
+              "documentIdentifier" : "BJNR209110014BJNE003000000",
+              "paragraph" : "§ 29",
+              "title" : "Einholung der Zustimmung der Anteilsinhaber; Berichtspflichten gegenüber den Anteilsinhabern"
+            },
+            {
+              "documentIdentifier" : "BJNR209110014BJNE003101000",
+              "paragraph" : "§ 30",
+              "title" : "Voraussetzungen für die Gewährung gruppeninterner finanzieller Unterstützung; Verordnungsermächtigung"
+            },
+            {
+              "documentIdentifier" : "BJNR209110014BJNE003200000",
+              "paragraph" : "§ 31",
+              "title" : "Beschlüsse über Gewährung und Annahme einer finanziellen Unterstützung"
+            },
+            {
+              "documentIdentifier" : "BJNR209110014BJNE003300000",
+              "paragraph" : "§ 32",
+              "title" : "Anzeige der beabsichtigten Gewährung gruppeninterner finanzieller Unterstützung"
+            },
+            {
+              "documentIdentifier" : "BJNR209110014BJNE003401301",
+              "paragraph" : "§ 33",
+              "title" : "Entscheidung der Aufsichtsbehörde über die Gewährung gruppeninterner finanzieller Unterstützung durch ein Unternehmen mit Sitz im Inland"
+            },
+            {
+              "documentIdentifier" : "BJNR209110014BJNE003501116",
+              "paragraph" : "§ 34",
+              "title" : "Beteiligung der Aufsichtsbehörde bei der Entscheidung über die Gewährung gruppeninterner finanzieller Unterstützung durch ein Unternehmen mit Sitz in einem anderen Mitgliedstaat"
+            },
+            {
+              "documentIdentifier" : "BJNR209110014BJNE003600000",
+              "paragraph" : "§ 35",
+              "title" : "Offenlegungspflichten"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Gruppeninterne finanzielle Unterstützung"
+        },
+        {
+          "documentIdentifier" : "BJNR209110014BJNG000500000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR209110014BJNE003703301",
+              "paragraph" : "§ 36",
+              "title" : "Frühinterventionsmaßnahmen; Verordnungsermächtigung"
+            },
+            {
+              "documentIdentifier" : "BJNR209110014BJNE003801301",
+              "paragraph" : "§ 37",
+              "title" : "Abberufung der Geschäftsleitung"
+            },
+            {
+              "documentIdentifier" : "BJNR209110014BJNE003901301",
+              "paragraph" : "§ 38",
+              "title" : "Vorläufiger Verwalter"
+            },
+            {
+              "documentIdentifier" : "BJNR209110014BJNE004001116",
+              "paragraph" : "§ 39",
+              "title" : "Koordinierung der Frühinterventionsmaßnahmen und Bestellung eines vorläufigen Verwalters bei Gruppen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Frühzeitiges Eingreifen"
+        }
+      ],
+      "title" : "Aufsichtsrechtliche Vorschriften und Anforderungen zur Vorbereitung der Sanierung und zur Frühintervention"
+    },
+    {
+      "documentIdentifier" : "BJNR209110014BJNG000600000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR209110014BJNG000700000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR209110014BJNE004101116",
+              "paragraph" : "§ 40",
+              "title" : "Erstellung und Aktualisierung von Abwicklungsplänen"
+            },
+            {
+              "documentIdentifier" : "BJNR209110014BJNE004202116",
+              "paragraph" : "§ 41",
+              "title" : "Vereinfachte Anforderungen; Verordnungsermächtigung"
+            },
+            {
+              "documentIdentifier" : "BJNR209110014BJNE004302116",
+              "paragraph" : "§ 42",
+              "title" : "Mitwirkung des Instituts; Verordnungsermächtigung"
+            },
+            {
+              "documentIdentifier" : "BJNR209110014BJNE004400000",
+              "paragraph" : "§ 43",
+              "title" : "Zentrale Verwahrung und Verwaltung von Finanzkontrakten"
+            },
+            {
+              "documentIdentifier" : "BJNR209110014BJNE004500000",
+              "paragraph" : "§ 44",
+              "title" : "Information der Abwicklungsbehörde über Vermögenswerte und Verbindlichkeiten"
+            },
+            {
+              "documentIdentifier" : "BJNR209110014BJNE004602116",
+              "paragraph" : "§ 45",
+              "title" : "Mitwirkung Dritter; Verordnungsermächtigung"
+            },
+            {
+              "documentIdentifier" : "BJNR209110014BJNE004701301",
+              "paragraph" : "§ 46",
+              "title" : "Gruppenabwicklungspläne; Mitwirkung der EU-Mutterunternehmen und Dritter"
+            },
+            {
+              "documentIdentifier" : "BJNR209110014BJNE004800000",
+              "paragraph" : "§ 47",
+              "title" : "Verfahren für Gruppenabwicklungspläne, wenn die Abwicklungsbehörde die für die Gruppenabwicklung zuständige Behörde ist"
+            },
+            {
+              "documentIdentifier" : "BJNR209110014BJNE004900000",
+              "paragraph" : "§ 48",
+              "title" : "Verfahren für Gruppenabwicklungspläne, wenn die Abwicklungsbehörde nicht die für die Gruppenabwicklung zuständige Behörde ist"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Abwicklungsplanung"
+        },
+        {
+          "documentIdentifier" : "BJNR209110014BJNG000800000",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              2
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR209110014BJNG000900000",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR209110014BJNE005000000",
+                  "paragraph" : "§ 49",
+                  "title" : "Institutsspezifischer Mindestbetrag berücksichtigungsfähiger Verbindlichkeiten"
+                },
+                {
+                  "documentIdentifier" : "BJNR209110014BJNE005100000",
+                  "paragraph" : "§ 50",
+                  "title" : "Mindestbetrag berücksichtigungsfähiger Verbindlichkeiten auf konsolidierter Basis"
+                },
+                {
+                  "documentIdentifier" : "BJNR209110014BJNE005201116",
+                  "paragraph" : "§ 51",
+                  "title" : "Mindestbetrag berücksichtigungsfähiger Verbindlichkeiten für Tochterunternehmen auf Einzelbasis"
+                },
+                {
+                  "documentIdentifier" : "BJNR209110014BJNE005300000",
+                  "paragraph" : "§ 52",
+                  "title" : "Absehen vom Mindestbetrag berücksichtigungsfähiger Verbindlichkeiten"
+                },
+                {
+                  "documentIdentifier" : "BJNR209110014BJNE005400000",
+                  "paragraph" : "§ 53",
+                  "title" : "Einhaltung des Mindestbetrags berücksichtigungsfähiger Verbindlichkeiten durch vertragliche Instrumente"
+                },
+                {
+                  "documentIdentifier" : "BJNR209110014BJNE005500000",
+                  "paragraph" : "§ 54",
+                  "title" : "Überprüfung des Einhaltens des Mindestbetrags berücksichtigungsfähiger Verbindlichkeiten"
+                },
+                {
+                  "documentIdentifier" : "BJNR209110014BJNE005600000",
+                  "paragraph" : "§ 55",
+                  "title" : "Vertragliche Anerkennung des Instruments der Gläubigerbeteiligung und des Instruments der Beteiligung der Inhaber relevanter Kapitalinstrumente in Drittstaaten"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  3,
+                  2,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Mindestbetrag berücksichtigungsfähiger Verbindlichkeiten"
+            },
+            {
+              "documentIdentifier" : "BJNR209110014BJNG001000000",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR209110014BJNE005700000",
+                  "paragraph" : "§ 56",
+                  "title" : "Beseitigung der verfahrenstechnischen Hindernisse für das Instrument der Gläubigerbeteiligung"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  3,
+                  2,
+                  2
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Genehmigtes Kapital und andere Instrumente harten Kernkapitals"
+            }
+          ],
+          "title" : "Anforderungen in Bezug auf berücksichtigungsfähige Verbindlichkeiten, relevante Kapitalinstrumente und genehmigtes Kapital"
+        },
+        {
+          "documentIdentifier" : "BJNR209110014BJNG001100000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR209110014BJNE005801116",
+              "paragraph" : "§ 57",
+              "title" : "Bewertung der Abwicklungsfähigkeit von Instituten"
+            },
+            {
+              "documentIdentifier" : "BJNR209110014BJNE005900000",
+              "paragraph" : "§ 58",
+              "title" : "Bewertung der Abwicklungsfähigkeit von Gruppen"
+            },
+            {
+              "documentIdentifier" : "BJNR209110014BJNE006001000",
+              "paragraph" : "§ 59",
+              "title" : "Abbau und Beseitigung von Abwicklungshindernissen bei Instituten; Verordnungsermächtigung"
+            },
+            {
+              "documentIdentifier" : "BJNR209110014BJNE006100000",
+              "paragraph" : "§ 60",
+              "title" : "Abbau und Beseitigung von Abwicklungshindernissen bei Gruppen"
+            },
+            {
+              "documentIdentifier" : "BJNR209110014BJNE017900116",
+              "paragraph" : "§ 60a",
+              "title" : "Vertragliche Anerkennung der vorübergehenden Aussetzung von Beendigungsrechten"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Abwicklungsfähigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR209110014BJNG001200000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR209110014BJNE006201116",
+              "paragraph" : "§ 61",
+              "title" : "Gründung von Brückeninstituten und Vermögensverwaltungsgesellschaften"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Gründung von Brückeninstituten und Vermögensverwaltungsgesellschaften"
+        }
+      ],
+      "title" : "Abwicklungsrechtliche Vorschriften und Anforderungen zur Vorbereitung der Restrukturierung und Abwicklung"
+    },
+    {
+      "documentIdentifier" : "BJNR209110014BJNG001300000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR209110014BJNG001400000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR209110014BJNE006301116",
+              "paragraph" : "§ 62",
+              "title" : "Abwicklungsvoraussetzungen in Bezug auf Institute"
+            },
+            {
+              "documentIdentifier" : "BJNR209110014BJNE006402116",
+              "paragraph" : "§ 63",
+              "title" : "Bestandsgefährdung; Verordnungsermächtigung"
+            },
+            {
+              "documentIdentifier" : "BJNR209110014BJNE006500000",
+              "paragraph" : "§ 64",
+              "title" : "Abwicklungsvoraussetzungen in Bezug auf Finanzinstitute und Holdinggesellschaften"
+            },
+            {
+              "documentIdentifier" : "BJNR209110014BJNE006600000",
+              "paragraph" : "§ 65",
+              "title" : "Voraussetzungen für die Anwendung des Instruments der Beteiligung der Inhaber relevanter Kapitalinstrumente"
+            },
+            {
+              "documentIdentifier" : "BJNR209110014BJNE006700000",
+              "paragraph" : "§ 66",
+              "title" : "Feststellung der Voraussetzungen für die Anwendung des Instruments der Beteiligung der Inhaber relevanter Kapitalinstrumente bei gruppenangehörigen Unternehmen"
+            },
+            {
+              "documentIdentifier" : "BJNR209110014BJNE006801116",
+              "paragraph" : "§ 67",
+              "title" : "Abwicklungsziele"
+            },
+            {
+              "documentIdentifier" : "BJNR209110014BJNE006901301",
+              "paragraph" : "§ 68",
+              "title" : "Allgemeine Grundsätze für eine Abwicklung"
+            },
+            {
+              "documentIdentifier" : "BJNR209110014BJNE007000000",
+              "paragraph" : "§ 69",
+              "title" : "Bewertung; gerichtliche Überprüfung"
+            },
+            {
+              "documentIdentifier" : "BJNR209110014BJNE007101301",
+              "paragraph" : "§ 70",
+              "title" : "Sachverständiger Prüfer"
+            },
+            {
+              "documentIdentifier" : "BJNR209110014BJNE007200000",
+              "paragraph" : "§ 71",
+              "title" : "Zwecke der Bewertung"
+            },
+            {
+              "documentIdentifier" : "BJNR209110014BJNE007302301",
+              "paragraph" : "§ 72",
+              "title" : "Grundsätze der Bewertung"
+            },
+            {
+              "documentIdentifier" : "BJNR209110014BJNE007400000",
+              "paragraph" : "§ 73",
+              "title" : "Umfang der Bewertung; Prüfungsbericht und ergänzende Bestandteile"
+            },
+            {
+              "documentIdentifier" : "BJNR209110014BJNE007500000",
+              "paragraph" : "§ 74",
+              "title" : "Vorläufige Bewertung"
+            },
+            {
+              "documentIdentifier" : "BJNR209110014BJNE007600000",
+              "paragraph" : "§ 75",
+              "title" : "Abschließende Bewertung"
+            },
+            {
+              "documentIdentifier" : "BJNR209110014BJNE007701000",
+              "paragraph" : "§ 76",
+              "title" : "Verordnungsermächtigung"
+            },
+            {
+              "documentIdentifier" : "BJNR209110014BJNE007801116",
+              "paragraph" : "§ 77",
+              "title" : "Anordnung von Abwicklungsmaßnahmen"
+            },
+            {
+              "documentIdentifier" : "BJNR209110014BJNE007902301",
+              "paragraph" : "§ 78",
+              "title" : "Allgemeine Befugnisse der Abwicklungsbehörde; Prüfungen vor Ort"
+            },
+            {
+              "documentIdentifier" : "BJNR209110014BJNE008002301",
+              "paragraph" : "§ 79",
+              "title" : "Unterstützende Maßnahmen"
+            },
+            {
+              "documentIdentifier" : "BJNR209110014BJNE008100000",
+              "paragraph" : "§ 80",
+              "title" : "Bereitstellung von Diensten und Einrichtungen"
+            },
+            {
+              "documentIdentifier" : "BJNR209110014BJNE008200000",
+              "paragraph" : "§ 81",
+              "title" : "Befugnis in Bezug auf in Drittstaaten belegene Gegenstände"
+            },
+            {
+              "documentIdentifier" : "BJNR209110014BJNE008301377",
+              "paragraph" : "§ 82",
+              "title" : "Befugnis zur Aussetzung vertraglicher Pflichten"
+            },
+            {
+              "documentIdentifier" : "BJNR209110014BJNE008400000",
+              "paragraph" : "§ 83",
+              "title" : "Befugnis zur Beschränkung von Sicherungsrechten"
+            },
+            {
+              "documentIdentifier" : "BJNR209110014BJNE008501116",
+              "paragraph" : "§ 84",
+              "title" : "Befugnis zur vorübergehenden Aussetzung von Beendigungsrechten"
+            },
+            {
+              "documentIdentifier" : "BJNR209110014BJNE008600000",
+              "paragraph" : "§ 85",
+              "title" : "Streichung des Gesamtbetrags variabler Vergütungen und zurückbehaltener variabler Vergütungen"
+            },
+            {
+              "documentIdentifier" : "BJNR209110014BJNE008701301",
+              "paragraph" : "§ 86",
+              "title" : "Kontrollbefugnisse"
+            },
+            {
+              "documentIdentifier" : "BJNR209110014BJNE008801301",
+              "paragraph" : "§ 87",
+              "title" : "Sonderverwaltung; gemeinsamer Sonderverwalter für gruppenangehörige Unternehmen"
+            },
+            {
+              "documentIdentifier" : "BJNR209110014BJNE008901301",
+              "paragraph" : "§ 88",
+              "title" : "Rechte, Aufgaben und Befugnisse des Sonderverwalters"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Abwicklungsbefugnis, Voraussetzungen und weitere Befugnisse"
+        },
+        {
+          "documentIdentifier" : "BJNR209110014BJNG001500000",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4,
+              2
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR209110014BJNG001600000",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR209110014BJNE009001116",
+                  "paragraph" : "§ 89",
+                  "title" : "Instrument der Beteiligung der Inhaber relevanter Kapitalinstrumente"
+                },
+                {
+                  "documentIdentifier" : "BJNR209110014BJNE009101116",
+                  "paragraph" : "§ 90",
+                  "title" : "Instrument der Gläubigerbeteiligung"
+                },
+                {
+                  "documentIdentifier" : "BJNR209110014BJNE009201377",
+                  "paragraph" : "§ 91",
+                  "title" : "Berücksichtigungsfähige Verbindlichkeiten"
+                },
+                {
+                  "documentIdentifier" : "BJNR209110014BJNE009300000",
+                  "paragraph" : "§ 92",
+                  "title" : "Ausschluss der Anwendung des Instruments der Gläubigerbeteiligung im Einzelfall"
+                },
+                {
+                  "documentIdentifier" : "BJNR209110014BJNE009402377",
+                  "paragraph" : "§ 93",
+                  "title" : "Anwendung des Instruments der Gläubigerbeteiligung in Bezug auf Verbindlichkeiten aus Derivaten"
+                },
+                {
+                  "documentIdentifier" : "BJNR209110014BJNE009501377",
+                  "paragraph" : "§ 94",
+                  "title" : "Ausgleichsbeiträge des Restrukturierungsfonds"
+                },
+                {
+                  "documentIdentifier" : "BJNR209110014BJNE009600000",
+                  "paragraph" : "§ 95",
+                  "title" : "Zwecke des Instruments der Gläubigerbeteiligung"
+                },
+                {
+                  "documentIdentifier" : "BJNR209110014BJNE009700000",
+                  "paragraph" : "§ 96",
+                  "title" : "Festlegung des Betrags der herabzuschreibenden oder umzuwandelnden relevanten Kapitalinstrumente und berücksichtigungsfähigen Verbindlichkeiten"
+                },
+                {
+                  "documentIdentifier" : "BJNR209110014BJNE009800000",
+                  "paragraph" : "§ 97",
+                  "title" : "Haftungskaskade"
+                },
+                {
+                  "documentIdentifier" : "BJNR209110014BJNE009901000",
+                  "paragraph" : "§ 98",
+                  "title" : "Umwandlungssatz; Verordnungsermächtigung"
+                },
+                {
+                  "documentIdentifier" : "BJNR209110014BJNE010000000",
+                  "paragraph" : "§ 99",
+                  "title" : "Weitere Wirkungen der Anwendung des Instruments der Beteiligung der Inhaber relevanter Kapitalinstrumente und des Instruments der Gläubigerbeteiligung"
+                },
+                {
+                  "documentIdentifier" : "BJNR209110014BJNE010100000",
+                  "paragraph" : "§ 100",
+                  "title" : "Behandlung der Anteilsinhaber und der Inhaber von Instrumenten des harten Kernkapitals bei der Anwendung des Instruments der Beteiligung der Inhaber relevanter Kapitalinstrumente und des Instruments der Gläubigerbeteiligung"
+                },
+                {
+                  "documentIdentifier" : "BJNR209110014BJNE010200000",
+                  "paragraph" : "§ 101",
+                  "title" : "Abwicklungsbefugnisse bei Anwendung des Instruments der Beteiligung der Inhaber relevanter Kapitalinstrumente und des Instruments der Gläubigerbeteiligung"
+                },
+                {
+                  "documentIdentifier" : "BJNR209110014BJNE010300000",
+                  "paragraph" : "§ 102",
+                  "title" : "Erfordernis der Erstellung eines Restrukturierungsplans"
+                },
+                {
+                  "documentIdentifier" : "BJNR209110014BJNE010400000",
+                  "paragraph" : "§ 103",
+                  "title" : "Anforderungen an den Restrukturierungsplan"
+                },
+                {
+                  "documentIdentifier" : "BJNR209110014BJNE010500000",
+                  "paragraph" : "§ 104",
+                  "title" : "Bewertung und Genehmigung des Restrukturierungsplans"
+                },
+                {
+                  "documentIdentifier" : "BJNR209110014BJNE010600000",
+                  "paragraph" : "§ 105",
+                  "title" : "Umsetzung des Restrukturierungsplans; spätere Überarbeitungen"
+                },
+                {
+                  "documentIdentifier" : "BJNR209110014BJNE010701123",
+                  "paragraph" : "§ 106",
+                  "title" : "Zulassung zum Handel und Einbeziehung in den Handel von neu ausgegebenen Wertpapieren"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  4,
+                  2,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Beteiligung der Anteilsinhaber und Gläubiger"
+            },
+            {
+              "documentIdentifier" : "BJNR209110014BJNG001700000",
+              "laws" : [
+
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  4,
+                  2,
+                  2
+                ]
+              },
+              "subsections" : [
+                {
+                  "documentIdentifier" : "BJNR209110014BJNG001800000",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR209110014BJNE010800000",
+                      "paragraph" : "§ 107",
+                      "title" : "Übertragung"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR209110014BJNE010900000",
+                      "paragraph" : "§ 108",
+                      "title" : "Mehrfache Anwendung"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR209110014BJNE011000000",
+                      "paragraph" : "§ 109",
+                      "title" : "Einwilligung des übernehmenden Rechtsträgers"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR209110014BJNE011100000",
+                      "paragraph" : "§ 110",
+                      "title" : "Auswahl der Übertragungsgegenstände"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR209110014BJNE011200000",
+                      "paragraph" : "§ 111",
+                      "title" : "Bewertung von Angeboten; Gegenleistung; Ausgleichsverbindlichkeit"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR209110014BJNE011300000",
+                      "paragraph" : "§ 112",
+                      "title" : "Drittvergleich"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR209110014BJNE011401116",
+                      "paragraph" : "§ 113",
+                      "title" : "Wirkungen der Abwicklungsanordnung bei Übertragung"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR209110014BJNE011500000",
+                      "paragraph" : "§ 114",
+                      "title" : "Wirksamwerden der Übertragung"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR209110014BJNE011600000",
+                      "paragraph" : "§ 115",
+                      "title" : "Eintragung der Übertragung"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR209110014BJNE011701116",
+                      "paragraph" : "§ 116",
+                      "title" : "Insolvenzantragspflicht; Haftung des übernehmenden Rechtsträgers"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR209110014BJNE011800000",
+                      "paragraph" : "§ 117",
+                      "title" : "Übertragungsgegenstände, die ausländischem Recht unterliegen"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR209110014BJNE011900000",
+                      "paragraph" : "§ 118",
+                      "title" : "Erforderliche Erlaubnisse, Zulassungen und Genehmigungen; aufsichtliche Anforderungen; Mitgliedschaft in und Zugang zu Finanzmarktinfrastrukturen"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR209110014BJNE012000000",
+                      "paragraph" : "§ 119",
+                      "title" : "Inländische Erlaubnis-, Zulassungs- und Genehmigungsverfahren"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR209110014BJNE012100000",
+                      "paragraph" : "§ 120",
+                      "title" : "Besondere Vorschriften für das Verfahren nach § 2c des Kreditwesengesetzes"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR209110014BJNE012200000",
+                      "paragraph" : "§ 121",
+                      "title" : "Erlaubnisverfahren in anderen Mitgliedstaaten und Drittstaaten"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR209110014BJNE012300000",
+                      "paragraph" : "§ 122",
+                      "title" : "Mitwirkung der Abwicklungsbehörde bei Erlaubnis-, Zulassungs- oder Genehmigungsverfahren einer ausländischen Behörde"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR209110014BJNE012400000",
+                      "paragraph" : "§ 123",
+                      "title" : "Gegenseitige Unterstützung der betroffenen Rechtsträger"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR209110014BJNE012500000",
+                      "paragraph" : "§ 124",
+                      "title" : "Maßnahmen beim übertragenden Rechtsträger"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR209110014BJNE012600000",
+                      "paragraph" : "§ 125",
+                      "title" : "Maßnahmen beim übernehmenden Rechtsträger"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      4,
+                      2,
+                      2,
+                      1
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Allgemeine Vorschriften"
+                },
+                {
+                  "documentIdentifier" : "BJNR209110014BJNG001900000",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR209110014BJNE012702116",
+                      "paragraph" : "§ 126",
+                      "title" : "Vermarktungsprozess; Verordnungsermächtigung"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR209110014BJNE012800000",
+                      "paragraph" : "§ 127",
+                      "title" : "Rückübertragungen"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      4,
+                      2,
+                      2,
+                      2
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Besondere Vorschriften für das Instrument der Unternehmensveräußerung"
+                },
+                {
+                  "documentIdentifier" : "BJNR209110014BJNG002000000",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR209110014BJNE012902301",
+                      "paragraph" : "§ 128",
+                      "title" : "Verfassung des Brückeninstituts"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR209110014BJNE013000000",
+                      "paragraph" : "§ 129",
+                      "title" : "Vermarktung oder Liquidation des Brückeninstituts"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR209110014BJNE013100000",
+                      "paragraph" : "§ 130",
+                      "title" : "Vermögenslage des Brückeninstituts"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR209110014BJNE013200000",
+                      "paragraph" : "§ 131",
+                      "title" : "Rück- und Weiterübertragungen"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      4,
+                      2,
+                      2,
+                      3
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Besondere Vorschriften für das Instrument der Übertragung auf ein Brückeninstitut"
+                },
+                {
+                  "documentIdentifier" : "BJNR209110014BJNG002100000",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR209110014BJNE013301000",
+                      "paragraph" : "§ 132",
+                      "title" : "Zusätzliche Anwendungsvoraussetzungen; Verordnungsermächtigung"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR209110014BJNE013400000",
+                      "paragraph" : "§ 133",
+                      "title" : "Verfassung der Vermögensverwaltungsgesellschaft"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR209110014BJNE013500000",
+                      "paragraph" : "§ 134",
+                      "title" : "Besondere Vorschriften für die Gegenleistung"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR209110014BJNE013600000",
+                      "paragraph" : "§ 135",
+                      "title" : "Rückübertragung"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      4,
+                      2,
+                      2,
+                      4
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Besondere Vorschriften für das Instrument der Übertragung auf eine Vermögensverwaltungsgesellschaft"
+                }
+              ],
+              "title" : "Übertragung von Anteilen, Vermögenswerten, Verbindlichkeiten und Rechtsverhältnissen"
+            },
+            {
+              "documentIdentifier" : "BJNR209110014BJNG002200000",
+              "laws" : [
+
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  4,
+                  2,
+                  3
+                ]
+              },
+              "subsections" : [
+                {
+                  "documentIdentifier" : "BJNR209110014BJNG002300000",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR209110014BJNE013700000",
+                      "paragraph" : "§ 136",
+                      "title" : "Inhalt der Abwicklungsanordnung"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR209110014BJNE013801301",
+                      "paragraph" : "§ 137",
+                      "title" : "Erlass und Bekanntgabe der Abwicklungsanordnung"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR209110014BJNE013901116",
+                      "paragraph" : "§ 138",
+                      "title" : "Mitteilungspflichten bei einer Bestandsgefährdung"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR209110014BJNE014000000",
+                      "paragraph" : "§ 139",
+                      "title" : "Entscheidung der Abwicklungsbehörde"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR209110014BJNE014102301",
+                      "paragraph" : "§ 140",
+                      "title" : "Verfahrenspflichten der Abwicklungsbehörde"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR209110014BJNE014200000",
+                      "paragraph" : "§ 141",
+                      "title" : "Insolvenzfestigkeit von Abwicklungsmaßnahmen, Anfechtbarkeit"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR209110014BJNE014302301",
+                      "paragraph" : "§ 142",
+                      "title" : "Abzugsmöglichkeit"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR209110014BJNE014400000",
+                      "paragraph" : "§ 143",
+                      "title" : "Schadensersatzansprüche gegen Organmitglieder und ehemalige Organmitglieder"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR209110014BJNE014501116",
+                      "paragraph" : "§ 144",
+                      "title" : "Ausschluss bestimmter vertraglicher Bedingungen bei frühzeitigem Eingreifen und bei der Abwicklung"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      4,
+                      2,
+                      3,
+                      1
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Bestimmungen für den Erlass einer Abwicklungsanordnung; sonstige Verfahrensvorschriften; Rechtswirkungen"
+                },
+                {
+                  "documentIdentifier" : "BJNR209110014BJNG002400000",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR209110014BJNE014601377",
+                      "paragraph" : "§ 145",
+                      "title" : "Inanspruchnahme von Einlagensicherungssystemen im Rahmen einer Abwicklung"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      4,
+                      2,
+                      3,
+                      2
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Inanspruchnahme von Einlagensicherungssystemen"
+                },
+                {
+                  "documentIdentifier" : "BJNR209110014BJNG002500000",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR209110014BJNE014700000",
+                      "paragraph" : "§ 146",
+                      "title" : "Vergleich mit dem Ausgang eines hypothetischen Insolvenzverfahrens; Verordnungsermächtigung"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR209110014BJNE014800000",
+                      "paragraph" : "§ 147",
+                      "title" : "Schutzbestimmungen für Anteilsinhaber und Gläubiger"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR209110014BJNE014900000",
+                      "paragraph" : "§ 148",
+                      "title" : "Schutzbestimmungen für Sozialpläne"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      4,
+                      2,
+                      3,
+                      3
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Ausgleichszahlung für benachteiligte Anteilsinhaber, Gläubiger und Einlagensicherungssysteme; Schutzbestimmungen"
+                },
+                {
+                  "documentIdentifier" : "BJNR209110014BJNG002600000",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR209110014BJNE015001377",
+                      "paragraph" : "§ 149",
+                      "title" : "Anordnung eines Rechtsformwechsels"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      4,
+                      2,
+                      3,
+                      4
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Rechtsformwechsel"
+                },
+                {
+                  "documentIdentifier" : "BJNR209110014BJNG002700000",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR209110014BJNE015100000",
+                      "paragraph" : "§ 150",
+                      "title" : "Rechtsschutz"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR209110014BJNE015200000",
+                      "paragraph" : "§ 151",
+                      "title" : "Unterbrechung von gerichtlichen Verfahren in Zivilsachen"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR209110014BJNE015300000",
+                      "paragraph" : "§ 152",
+                      "title" : "Haftungsbeschränkung"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      4,
+                      2,
+                      3,
+                      5
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Rechtsbehelf und Ausschluss anderer Maßnahmen"
+                }
+              ],
+              "title" : "Abwicklungsanordnung; Vorschriften für das Verfahren; Rechtsformwechsel; Inanspruchnahme von Einlagensicherungssystemen; Schutzbestimmungen"
+            }
+          ],
+          "title" : "Abwicklungsinstrumente"
+        }
+      ],
+      "title" : "Abwicklung"
+    },
+    {
+      "documentIdentifier" : "BJNR209110014BJNG003700123",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR209110014BJNE018300123",
+          "paragraph" : "§ 152a",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR209110014BJNE018400123",
+          "paragraph" : "§ 152b",
+          "title" : "Ausgestaltung von Sanierungsplänen"
+        },
+        {
+          "documentIdentifier" : "BJNR209110014BJNE018500123",
+          "paragraph" : "§ 152c",
+          "title" : "Bewertung von Sanierungsplänen"
+        },
+        {
+          "documentIdentifier" : "BJNR209110014BJNE018600123",
+          "paragraph" : "§ 152d",
+          "title" : "Maßnahmen bei Mängeln von Sanierungsplänen"
+        },
+        {
+          "documentIdentifier" : "BJNR209110014BJNE018700123",
+          "paragraph" : "§ 152e",
+          "title" : "Erstellung und Aktualisierung von Abwicklungsplänen"
+        },
+        {
+          "documentIdentifier" : "BJNR209110014BJNE018800123",
+          "paragraph" : "§ 152f",
+          "title" : "Abwicklungsfähigkeit, Abbau und Beseitigung von Abwicklungshindernissen; Verordnungsermächtigung"
+        },
+        {
+          "documentIdentifier" : "BJNR209110014BJNE018900123",
+          "paragraph" : "§ 152g",
+          "title" : "Zwecke und Umfang der Bewertung; Unterlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR209110014BJNE019000123",
+          "paragraph" : "§ 152h",
+          "title" : "Anordnung von Abwicklungsmaßnahmen"
+        },
+        {
+          "documentIdentifier" : "BJNR209110014BJNE019100123",
+          "paragraph" : "§ 152i",
+          "title" : "Zwecke der Instrumente der Vertragsbeendigung, der Minderung zu zahlender Gewinne und des zusätzlichen Barmittelabrufs"
+        },
+        {
+          "documentIdentifier" : "BJNR209110014BJNE019200123",
+          "paragraph" : "§ 152j",
+          "title" : "Instrument der Vertragsbeendigung"
+        },
+        {
+          "documentIdentifier" : "BJNR209110014BJNE019300123",
+          "paragraph" : "§ 152k",
+          "title" : "Instrument der Minderung zu zahlender Gewinne nichtausgefallener Clearingmitglieder"
+        },
+        {
+          "documentIdentifier" : "BJNR209110014BJNE019400123",
+          "paragraph" : "§ 152l",
+          "title" : "Instrument des zusätzlichen Barmittelabrufs"
+        },
+        {
+          "documentIdentifier" : "BJNR209110014BJNE019500123",
+          "paragraph" : "§ 152m",
+          "title" : "Schutzbestimmungen für Anteilsinhaber, Gläubiger und Clearingmitglieder"
+        },
+        {
+          "documentIdentifier" : "BJNR209110014BJNE019600123",
+          "paragraph" : "§ 152n",
+          "title" : "Rechtsschutz"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Sondervorschriften für zentrale Gegenparteien"
+    },
+    {
+      "documentIdentifier" : "BJNR209110014BJNG002801123",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR209110014BJNG002901123",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR209110014BJNE015400000",
+              "paragraph" : "§ 153",
+              "title" : "Wirksamkeit von Krisenmanagementmaßnahmen oder Krisenpräventionsmaßnahmen anderer Mitgliedstaaten"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              6,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Anerkennung von Maßnahmen der Behörden anderer Mitgliedstaaten"
+        },
+        {
+          "documentIdentifier" : "BJNR209110014BJNG003001123",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              6,
+              2
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR209110014BJNG003101123",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR209110014BJNE015500000",
+                  "paragraph" : "§ 154",
+                  "title" : "Allgemeine Grundsätze für Entscheidungsfindungen, an denen eine Behörde oder mehrere Behörden anderer Mitgliedstaaten beteiligt sind"
+                },
+                {
+                  "documentIdentifier" : "BJNR209110014BJNE015600000",
+                  "paragraph" : "§ 155",
+                  "title" : "Zuständigkeit der Abwicklungsbehörde"
+                },
+                {
+                  "documentIdentifier" : "BJNR209110014BJNE015700000",
+                  "paragraph" : "§ 156",
+                  "title" : "Abwicklungskollegium"
+                },
+                {
+                  "documentIdentifier" : "BJNR209110014BJNE015801301",
+                  "paragraph" : "§ 157",
+                  "title" : "Mitglieder des Abwicklungskollegiums und weitere Teilnehmer"
+                },
+                {
+                  "documentIdentifier" : "BJNR209110014BJNE015900000",
+                  "paragraph" : "§ 158",
+                  "title" : "Organisation des Abwicklungskollegiums"
+                },
+                {
+                  "documentIdentifier" : "BJNR209110014BJNE016000000",
+                  "paragraph" : "§ 159",
+                  "title" : "Europäische Abwicklungskollegien"
+                },
+                {
+                  "documentIdentifier" : "BJNR209110014BJNE016101301",
+                  "paragraph" : "§ 160",
+                  "title" : "Informationsaustausch mit Behörden und Ministerien anderer Mitgliedstaaten"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  6,
+                  2,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Grenzüberschreitende Entscheidungsfindung und Information; Abwicklungskollegien"
+            },
+            {
+              "documentIdentifier" : "BJNR209110014BJNG003201123",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR209110014BJNE016200000",
+                  "paragraph" : "§ 161",
+                  "title" : "Übermittlung von Informationen über die Abwicklungsvoraussetzungen"
+                },
+                {
+                  "documentIdentifier" : "BJNR209110014BJNE016300000",
+                  "paragraph" : "§ 162",
+                  "title" : "Vorgehen, wenn die Abwicklungsbehörde nicht die für die Gruppenabwicklung zuständige Behörde ist"
+                },
+                {
+                  "documentIdentifier" : "BJNR209110014BJNE016400000",
+                  "paragraph" : "§ 163",
+                  "title" : "Vorgehen, wenn die Abwicklungsbehörde die für die Gruppenabwicklung zuständige Behörde ist"
+                },
+                {
+                  "documentIdentifier" : "BJNR209110014BJNE016500000",
+                  "paragraph" : "§ 164",
+                  "title" : "Gruppenabwicklungskonzept"
+                },
+                {
+                  "documentIdentifier" : "BJNR209110014BJNE016600000",
+                  "paragraph" : "§ 165",
+                  "title" : "Unverzügliche Durchführung der Maßnahmen"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  6,
+                  2,
+                  2
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Gruppenabwicklung im Fall eines Tochterunternehmens, das nicht EU-Mutterunternehmen ist"
+            },
+            {
+              "documentIdentifier" : "BJNR209110014BJNG003301123",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR209110014BJNE016700000",
+                  "paragraph" : "§ 166",
+                  "title" : "Gruppenabwicklung im Fall eines EU-Mutterunternehmens"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  6,
+                  2,
+                  3
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Gruppenabwicklung im Fall eines EU-Mutterunternehmens"
+            }
+          ],
+          "title" : "Grenzüberschreitende Gruppenabwicklung"
+        },
+        {
+          "documentIdentifier" : "BJNR209110014BJNG003401123",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR209110014BJNE016800000",
+              "paragraph" : "§ 167",
+              "title" : "Vereinbarungen mit Drittstaaten"
+            },
+            {
+              "documentIdentifier" : "BJNR209110014BJNE016900000",
+              "paragraph" : "§ 168",
+              "title" : "Zusammenarbeit mit Drittstaatsbehörden"
+            },
+            {
+              "documentIdentifier" : "BJNR209110014BJNE017000000",
+              "paragraph" : "§ 169",
+              "title" : "Anerkennung und Durchsetzung von Drittstaatsabwicklungsverfahren"
+            },
+            {
+              "documentIdentifier" : "BJNR209110014BJNE017100000",
+              "paragraph" : "§ 170",
+              "title" : "Recht auf Verweigerung der Anerkennung oder Durchsetzung von Drittstaatsabwicklungsverfahren"
+            },
+            {
+              "documentIdentifier" : "BJNR209110014BJNE017200000",
+              "paragraph" : "§ 171",
+              "title" : "Abwicklung von inländischen Unionszweigstellen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              6,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Beziehungen zu Drittstaaten"
+        }
+      ],
+      "title" : "Grenzüberschreitende Gruppenabwicklung und Beziehungen zu Drittstaaten"
+    },
+    {
+      "documentIdentifier" : "BJNR209110014BJNG003501123",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR209110014BJNE017300000",
+          "paragraph" : "§ 172",
+          "title" : "Bußgeldvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR209110014BJNE017400000",
+          "paragraph" : "§ 173",
+          "title" : "Zuständige Verwaltungsbehörde"
+        },
+        {
+          "documentIdentifier" : "BJNR209110014BJNE017501301",
+          "paragraph" : "§ 174",
+          "title" : "Vorübergehendes Tätigkeitsverbot; Bekanntmachung von Maßnahmen"
+        },
+        {
+          "documentIdentifier" : "BJNR209110014BJNE017600000",
+          "paragraph" : "§ 175",
+          "title" : "Beteiligung der Abwicklungsbehörde und Mitteilungen in Strafsachen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Bußgeldvorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR209110014BJNG003602123",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR209110014BJNE017701116",
+          "paragraph" : "§ 176",
+          "title" : "Unterstützung bei Untersuchungen; Zwangsmaßnahmen"
+        },
+        {
+          "documentIdentifier" : "BJNR209110014BJNE018000116",
+          "paragraph" : "§ 177",
+          "title" : "Prüfungen vor Ort nach der SRM-Verordnung"
+        },
+        {
+          "documentIdentifier" : "BJNR209110014BJNE018100116",
+          "paragraph" : "§ 178",
+          "title" : "Vollstreckung der vom Ausschuss verhängten Geldbußen und Zwangsgelder"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          8
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Maßnahmen des Ausschusses"
+    }
+  ]
+}

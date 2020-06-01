@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "DDNR005800990",
+  "sections" : [
+    {
+      "documentIdentifier" : "DDNR005800990Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "DDNR005800990BJNE000800307",
+          "paragraph" : "(XXXX) §§ 1 bis 3, 5 bis 13, 15 bis 44, 45 bis 69",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "DDNR005800990BJNE000900307",
+          "paragraph" : "§ 70",
+          "title" : "Güterfernverkehr"
+        },
+        {
+          "documentIdentifier" : "DDNR005800990BJNE001000307",
+          "paragraph" : "§ 71",
+          "title" : "Speditioneller Abfertigungsdienst, Umzugsverkehr\nund Güternahverkehr"
+        },
+        {
+          "documentIdentifier" : "DDNR005800990BJNE001100307",
+          "paragraph" : "(XXXX) §§ 72 bis 75",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "DDNR005800990BJNE888800301",
+          "paragraph" : "Anhang EV",
+          "title" : "Auszug aus EinigVtr Anlage II Kapitel XI Sachgebiet B Abschnitt III\n"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

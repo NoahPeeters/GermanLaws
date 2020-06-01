@@ -1,0 +1,751 @@
+{
+  "documentIdentifier" : "BJNR046000014",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR046000014BJNG000100000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR046000014BJNG000200000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR046000014BJNE000300000",
+              "paragraph" : "§ 1",
+              "title" : "Anwendungsbereich"
+            },
+            {
+              "documentIdentifier" : "BJNR046000014BJNE000400000",
+              "paragraph" : "§ 2",
+              "title" : "Begriffsbestimmungen"
+            },
+            {
+              "documentIdentifier" : "BJNR046000014BJNE000500000",
+              "paragraph" : "§ 3",
+              "title" : "Zuständigkeiten"
+            },
+            {
+              "documentIdentifier" : "BJNR046000014BJNE000600000",
+              "paragraph" : "§ 4",
+              "title" : "Muster für Bescheinigungen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Anwendungsbereich, Begriffsbestimmungen, Zuständigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR046000014BJNG000300000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR046000014BJNE000700000",
+              "paragraph" : "§ 5",
+              "title" : "Allgemeine Voraussetzungen für den Erwerb von Bescheinigungen"
+            },
+            {
+              "documentIdentifier" : "BJNR046000014BJNE000800000",
+              "paragraph" : "§ 6",
+              "title" : "Mindestalter"
+            },
+            {
+              "documentIdentifier" : "BJNR046000014BJNE000900000",
+              "paragraph" : "§ 7",
+              "title" : "Persönliche Eignung"
+            },
+            {
+              "documentIdentifier" : "BJNR046000014BJNE001000000",
+              "paragraph" : "§ 8",
+              "title" : "Befristungen"
+            },
+            {
+              "documentIdentifier" : "BJNR046000014BJNE001100000",
+              "paragraph" : "§ 9",
+              "title" : "Einschränkungen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Erwerb und Erteilung von Bescheinigungen"
+        },
+        {
+          "documentIdentifier" : "BJNR046000014BJNG000400000",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              3
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR046000014BJNG000500000",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR046000014BJNE001200000",
+                  "paragraph" : "§ 10",
+                  "title" : "Berufseingangsprüfungen"
+                },
+                {
+                  "documentIdentifier" : "BJNR046000014BJNE001300000",
+                  "paragraph" : "§ 11",
+                  "title" : "Qualitätsnormen"
+                },
+                {
+                  "documentIdentifier" : "BJNR046000014BJNE001400000",
+                  "paragraph" : "§ 12",
+                  "title" : "Qualitätssicherungssystem und externe Beurteilung"
+                },
+                {
+                  "documentIdentifier" : "BJNR046000014BJNE001500000",
+                  "paragraph" : "§ 13",
+                  "title" : "Weitere Anforderungen an Berufseingangsprüfungen"
+                },
+                {
+                  "documentIdentifier" : "BJNR046000014BJNE001600000",
+                  "paragraph" : "§ 14",
+                  "title" : "Aussetzen der Anerkennung als Berufseingangsprüfungen"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  1,
+                  3,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Berufseingangsprüfungen für Kapitäne und Schiffsoffiziere"
+            },
+            {
+              "documentIdentifier" : "BJNR046000014BJNG000600000",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR046000014BJNE001700000",
+                  "paragraph" : "§ 15",
+                  "title" : "Anforderungen an Lehrgänge"
+                },
+                {
+                  "documentIdentifier" : "BJNR046000014BJNE001800000",
+                  "paragraph" : "§ 16",
+                  "title" : "Zulassung von Lehrgängen"
+                },
+                {
+                  "documentIdentifier" : "BJNR046000014BJNE001900000",
+                  "paragraph" : "§ 17",
+                  "title" : "Teilnehmerverzeichnis"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  1,
+                  3,
+                  2
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Zulassung von Lehrgängen"
+            },
+            {
+              "documentIdentifier" : "BJNR046000014BJNG000700000",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR046000014BJNE002000000",
+                  "paragraph" : "§ 18",
+                  "title" : "Seefahrtzeiten und Schiffe"
+                },
+                {
+                  "documentIdentifier" : "BJNR046000014BJNE002100000",
+                  "paragraph" : "§ 19",
+                  "title" : "Zugelassene Tätigkeiten"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  1,
+                  3,
+                  3
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Seefahrtzeiten und Tätigkeiten"
+            }
+          ],
+          "title" : "Berufseingangsprüfungen und Zulassungen"
+        },
+        {
+          "documentIdentifier" : "BJNR046000014BJNG000800000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR046000014BJNE002200000",
+              "paragraph" : "§ 20",
+              "title" : "Befähigungszeugnisse anderer Mitgliedstaaten der Europäischen Union oder anderer Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum"
+            },
+            {
+              "documentIdentifier" : "BJNR046000014BJNE002300000",
+              "paragraph" : "§ 21",
+              "title" : "Befähigungszeugnisse aus Drittstaaten"
+            },
+            {
+              "documentIdentifier" : "BJNR046000014BJNE002400000",
+              "paragraph" : "§ 22",
+              "title" : "Ausländische Befähigungsnachweise, Qualifikationsnachweise"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Ausländische Zeugnisse und Nachweise"
+        },
+        {
+          "documentIdentifier" : "BJNR046000014BJNG000900000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR046000014BJNE002500000",
+              "paragraph" : "§ 23",
+              "title" : "Täuschungen und sonstige rechtswidrige Praktiken im Zusammenhang mit Bescheinigungen"
+            },
+            {
+              "documentIdentifier" : "BJNR046000014BJNE002601305",
+              "paragraph" : "§ 24",
+              "title" : "Genehmigungen bei Abweichungen vom Ausbildungsgang und dem Erwerb von Bescheinigungen"
+            },
+            {
+              "documentIdentifier" : "BJNR046000014BJNE002700000",
+              "paragraph" : "§ 25",
+              "title" : "Ausnahmegenehmigungen"
+            },
+            {
+              "documentIdentifier" : "BJNR046000014BJNE002800000",
+              "paragraph" : "§ 26",
+              "title" : "Mitführungspflicht"
+            },
+            {
+              "documentIdentifier" : "BJNR046000014BJNE002900000",
+              "paragraph" : "§ 27",
+              "title" : "Ersatzausstellungen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              5
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Sonstige allgemeine Bestimmungen"
+        }
+      ],
+      "title" : "Allgemeine Bestimmungen"
+    },
+    {
+      "documentIdentifier" : "BJNR046000014BJNG001000000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR046000014BJNG001100000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR046000014BJNE003000000",
+              "paragraph" : "§ 28",
+              "title" : "Anforderungen an Seefahrtzeiten"
+            },
+            {
+              "documentIdentifier" : "BJNR046000014BJNE003100000",
+              "paragraph" : "§ 29",
+              "title" : "Befähigungszeugnisse und Befähigungsnachweise"
+            },
+            {
+              "documentIdentifier" : "BJNR046000014BJNE003200000",
+              "paragraph" : "§ 30",
+              "title" : "Voraussetzungen für den Erwerb der Befähigungszeugnisse"
+            },
+            {
+              "documentIdentifier" : "BJNR046000014BJNE003300000",
+              "paragraph" : "§ 31",
+              "title" : "Voraussetzungen für den Erwerb der Befähigungsnachweise"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Nautischer Schiffsdienst ausgenommen Fischereifahrzeuge"
+        },
+        {
+          "documentIdentifier" : "BJNR046000014BJNG001200000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR046000014BJNE003400000",
+              "paragraph" : "§ 32",
+              "title" : "Anforderungen an Seefahrtzeiten"
+            },
+            {
+              "documentIdentifier" : "BJNR046000014BJNE003500000",
+              "paragraph" : "§ 33",
+              "title" : "Befähigungszeugnisse"
+            },
+            {
+              "documentIdentifier" : "BJNR046000014BJNE003600000",
+              "paragraph" : "§ 34",
+              "title" : "Voraussetzungen für den Erwerb der Befähigungszeugnisse"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Nautischer Schiffsdienst auf Fischereifahrzeugen"
+        },
+        {
+          "documentIdentifier" : "BJNR046000014BJNG001300000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR046000014BJNE003700000",
+              "paragraph" : "§ 35",
+              "title" : "Befähigungszeugnisse"
+            },
+            {
+              "documentIdentifier" : "BJNR046000014BJNE003800000",
+              "paragraph" : "§ 36",
+              "title" : "Voraussetzungen für den Erwerb der Befähigungszeugnisse"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Seefunkdienst"
+        }
+      ],
+      "title" : "Befähigungen für den Decksbereich"
+    },
+    {
+      "documentIdentifier" : "BJNR046000014BJNG001400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR046000014BJNE003900000",
+          "paragraph" : "§ 37",
+          "title" : "Anforderungen an Seefahrtzeiten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR046000014BJNG001500000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR046000014BJNE004000000",
+              "paragraph" : "§ 38",
+              "title" : "Befähigungszeugnisse und Befähigungsnachweise"
+            },
+            {
+              "documentIdentifier" : "BJNR046000014BJNE004100000",
+              "paragraph" : "§ 39",
+              "title" : "Voraussetzungen für den Erwerb der Befähigungszeugnisse"
+            },
+            {
+              "documentIdentifier" : "BJNR046000014BJNE004200000",
+              "paragraph" : "§ 40",
+              "title" : "Voraussetzungen für den Erwerb der Befähigungsnachweise"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Technischer Schiffsdienst"
+        },
+        {
+          "documentIdentifier" : "BJNR046000014BJNG001600000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR046000014BJNE004300000",
+              "paragraph" : "§ 41",
+              "title" : "Befähigungszeugnis und Befähigungsnachweis"
+            },
+            {
+              "documentIdentifier" : "BJNR046000014BJNE004400000",
+              "paragraph" : "§ 42",
+              "title" : "Voraussetzungen für den Erwerb des Befähigungszeugnisses und Befähigungsnachweises"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Elektrotechnischer Schiffsdienst"
+        }
+      ],
+      "title" : "Befähigungen für den technischen Bereich"
+    },
+    {
+      "documentIdentifier" : "BJNR046000014BJNG001700000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR046000014BJNE004500000",
+          "paragraph" : "§ 43",
+          "title" : "Befähigungsnachweis im Gesamtschiffsbetrieb"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Befähigungen im Gesamtschiffsbetrieb"
+    },
+    {
+      "documentIdentifier" : "BJNR046000014BJNG001800000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR046000014BJNE004600000",
+          "paragraph" : "§ 44",
+          "title" : "Befähigungsnachweis hinsichtlich der grundlegenden Anforderungen an die Sicherheit an Bord (Sicherheitsgrundausbildung)"
+        },
+        {
+          "documentIdentifier" : "BJNR046000014BJNE004700000",
+          "paragraph" : "§ 45",
+          "title" : "Befähigungsnachweise zum Führen von Überlebensfahrzeugen und Bereitschaftsbooten sowie schnellen Bereitschaftsbooten"
+        },
+        {
+          "documentIdentifier" : "BJNR046000014BJNE004800000",
+          "paragraph" : "§ 46",
+          "title" : "Befähigungsnachweis zur Leitung von Brandbekämpfungsmaßnahmen"
+        },
+        {
+          "documentIdentifier" : "BJNR046000014BJNE004900000",
+          "paragraph" : "§ 47",
+          "title" : "Befähigungsnachweis von Beauftragten für die Gefahrenabwehr auf dem Schiff (Gefahrenabwehrbeauftragter)"
+        },
+        {
+          "documentIdentifier" : "BJNR046000014BJNE005000000",
+          "paragraph" : "§ 48",
+          "title" : "Befähigungsnachweise für Besatzungsmitglieder in der Gefahrenabwehr auf dem Schiff (Grundausbildung in der Gefahrenabwehr)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Befähigungen im Schiffssicherheitsdienst und in der Gefahrenabwehr"
+    },
+    {
+      "documentIdentifier" : "BJNR046000014BJNG001900000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR046000014BJNG002000000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR046000014BJNE005100000",
+              "paragraph" : "§ 49",
+              "title" : "Befähigungsnachweise für den Schiffsdienst auf Öltankschiffen und Chemikalientankschiffen"
+            },
+            {
+              "documentIdentifier" : "BJNR046000014BJNE005200000",
+              "paragraph" : "§ 50",
+              "title" : "Befähigungsnachweise für den Schiffsdienst auf Flüssiggastankschiffen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              6,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Befähigungen für den Schiffsdienst auf Tankschiffen"
+        },
+        {
+          "documentIdentifier" : "BJNR046000014BJNG002100000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR046000014BJNE005300000",
+              "paragraph" : "§ 51",
+              "title" : "Qualifikationsnachweise für den Schiffsdienst auf Fahrgastschiffen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              6,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Befähigungen für den Schiffsdienst auf Fahrgastschiffen"
+        }
+      ],
+      "title" : "Zusätzliche Befähigungen für den Schiffsdienst auf besonderen Schiffstypen"
+    },
+    {
+      "documentIdentifier" : "BJNR046000014BJNG002200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR046000014BJNE005400000",
+          "paragraph" : "§ 52",
+          "title" : "Allgemeine Voraussetzungen für die Gültigkeitsverlängerung von Bescheinigungen"
+        },
+        {
+          "documentIdentifier" : "BJNR046000014BJNE005500000",
+          "paragraph" : "§ 53",
+          "title" : "Gültigkeitsverlängerung von Befähigungszeugnissen"
+        },
+        {
+          "documentIdentifier" : "BJNR046000014BJNE005600000",
+          "paragraph" : "§ 54",
+          "title" : "Gültigkeitsverlängerung von Befähigungsnachweisen"
+        },
+        {
+          "documentIdentifier" : "BJNR046000014BJNE005700000",
+          "paragraph" : "§ 55",
+          "title" : "Erneuerung von Qualifikationsnachweisen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gültigkeitsverlängerung von Bescheinigungen"
+    },
+    {
+      "documentIdentifier" : "BJNR046000014BJNG002300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR046000014BJNE005800000",
+          "paragraph" : "§ 56",
+          "title" : "Entzug von Befähigungszeugnissen"
+        },
+        {
+          "documentIdentifier" : "BJNR046000014BJNE005900000",
+          "paragraph" : "§ 57",
+          "title" : "Ruhen von Befähigungszeugnissen"
+        },
+        {
+          "documentIdentifier" : "BJNR046000014BJNE006000000",
+          "paragraph" : "§ 58",
+          "title" : "Vollzug"
+        },
+        {
+          "documentIdentifier" : "BJNR046000014BJNE006100000",
+          "paragraph" : "§ 59",
+          "title" : "Vorläufige Sicherstellung von Befähigungszeugnissen"
+        },
+        {
+          "documentIdentifier" : "BJNR046000014BJNE006200000",
+          "paragraph" : "§ 60",
+          "title" : "Vollzugshilfe"
+        },
+        {
+          "documentIdentifier" : "BJNR046000014BJNE006300000",
+          "paragraph" : "§ 61",
+          "title" : "Verhältnis zu anderen Rechtsvorschriften"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          8
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Entzug, Ruhen und Sicherstellung von Befähigungszeugnissen"
+    },
+    {
+      "documentIdentifier" : "BJNR046000014BJNG002400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR046000014BJNE006400000",
+          "paragraph" : "§ 62",
+          "title" : "Nachweis einer beruflichen Tätigkeit in der Seeschifffahrt (Seeleute-Ausweis)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          9
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Nachweis einer beruflichen Tätigkeit in der Seeschifffahrt"
+    },
+    {
+      "documentIdentifier" : "BJNR046000014BJNG002500000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR046000014BJNE006500000",
+          "paragraph" : "§ 63",
+          "title" : "Umgang mit personenbezogenen Daten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          10
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Datenschutz"
+    },
+    {
+      "documentIdentifier" : "BJNR046000014BJNG002600000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR046000014BJNE006600000",
+          "paragraph" : "§ 64",
+          "title" : "Übergangsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR046000014BJNE006700000",
+          "paragraph" : "§ 65",
+          "title" : "Änderung der Gebührenverordnung für Amtshandlungen des Bundesamtes für Seeschifffahrt und Hydrographie"
+        },
+        {
+          "documentIdentifier" : "BJNR046000014BJNE006800000",
+          "paragraph" : "§ 66",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR046000014BJNE007000000",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 2)"
+        },
+        {
+          "documentIdentifier" : "BJNR046000014BJNE007100000",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 5)"
+        },
+        {
+          "documentIdentifier" : "BJNR046000014BJNE007200000",
+          "paragraph" : "Anlage 3",
+          "title" : "(zu § 30)"
+        },
+        {
+          "documentIdentifier" : "BJNR046000014BJNE007300000",
+          "paragraph" : "Anlage 4",
+          "title" : "(zu den §§ 31, 40, 53)"
+        },
+        {
+          "documentIdentifier" : "BJNR046000014BJNE007400000",
+          "paragraph" : "Anlage 5",
+          "title" : "(zu § 34)"
+        },
+        {
+          "documentIdentifier" : "BJNR046000014BJNE007500000",
+          "paragraph" : "Anlage 6",
+          "title" : "(zu den §§ 39, 40)"
+        },
+        {
+          "documentIdentifier" : "BJNR046000014BJNE007600000",
+          "paragraph" : "Anlage 7",
+          "title" : "(zu § 39)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          11
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussbestimmungen"
+    }
+  ]
+}

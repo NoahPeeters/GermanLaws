@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR023380990",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR023380990Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR023380990BJNE000203320",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR023380990BJNE000304310",
+          "paragraph" : "§ 2",
+          "title" : "Aufzeichnungen bei gentechnischen Arbeiten oder bei Freisetzungen"
+        },
+        {
+          "documentIdentifier" : "BJNR023380990BJNE000402320",
+          "paragraph" : "§ 3",
+          "title" : "Form der Aufzeichnungen"
+        },
+        {
+          "documentIdentifier" : "BJNR023380990BJNE000502320",
+          "paragraph" : "§ 4",
+          "title" : "Aufzeichnungs- und Vorlagepflichtiger,\nAufbewahrungsfrist"
+        },
+        {
+          "documentIdentifier" : "BJNR023380990BJNE000602320",
+          "paragraph" : "§ 5",
+          "title" : "Ordnungswidrigkeiten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

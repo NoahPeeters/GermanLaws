@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR283100007",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR283100007Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR283100007BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Grundsatz"
+        },
+        {
+          "documentIdentifier" : "BJNR283100007BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Heimkehrer"
+        },
+        {
+          "documentIdentifier" : "BJNR283100007BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Antrag"
+        },
+        {
+          "documentIdentifier" : "BJNR283100007BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Höhe der Entschädigung"
+        },
+        {
+          "documentIdentifier" : "BJNR283100007BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Kostentragung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

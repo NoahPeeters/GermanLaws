@@ -1,0 +1,370 @@
+{
+  "documentIdentifier" : "BJNR145300019",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR145300019BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR145300019BJNE000300000",
+          "paragraph" : "§ 1",
+          "title" : "Geltungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR145300019BJNE000400000",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR145300019BJNE000500000",
+          "paragraph" : "§ 3",
+          "title" : "Allgemeine Anforderungen an Unterkünfte und Freizeiteinrichtungen"
+        },
+        {
+          "documentIdentifier" : "BJNR145300019BJNE000600000",
+          "paragraph" : "§ 4",
+          "title" : "Bekanntmachung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR145300019BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR145300019BJNE000700000",
+          "paragraph" : "§ 5",
+          "title" : "Genehmigung vor Bau, wesentlicher Änderung oder Flaggenwechsel eines Schiffs"
+        },
+        {
+          "documentIdentifier" : "BJNR145300019BJNE000800000",
+          "paragraph" : "§ 6",
+          "title" : "Ausnahmen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Genehmigungen, Ausnahmen"
+    },
+    {
+      "documentIdentifier" : "BJNR145300019BJNG000300000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR145300019BJNG000400000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR145300019BJNE000900000",
+              "paragraph" : "§ 7",
+              "title" : "Wände, Decken, Fußböden"
+            },
+            {
+              "documentIdentifier" : "BJNR145300019BJNE001000000",
+              "paragraph" : "§ 8",
+              "title" : "Isolierung"
+            },
+            {
+              "documentIdentifier" : "BJNR145300019BJNE001100000",
+              "paragraph" : "§ 9",
+              "title" : "Schutzvorrichtungen gegen Ungeziefer"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Wände, Decken, Fußböden, Isolierung, Schutzvorrichtungen"
+        },
+        {
+          "documentIdentifier" : "BJNR145300019BJNG000500000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR145300019BJNE001200000",
+              "paragraph" : "§ 10",
+              "title" : "Beleuchtung"
+            },
+            {
+              "documentIdentifier" : "BJNR145300019BJNE001300000",
+              "paragraph" : "§ 11",
+              "title" : "Luftreinhaltung, raumlufttechnische Anlagen"
+            },
+            {
+              "documentIdentifier" : "BJNR145300019BJNE001400000",
+              "paragraph" : "§ 12",
+              "title" : "Heizungsanlage"
+            },
+            {
+              "documentIdentifier" : "BJNR145300019BJNE001500000",
+              "paragraph" : "§ 13",
+              "title" : "Leitungen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Beleuchtung, Lüftung, Klimatisierung, Heizung, Leitungen"
+        },
+        {
+          "documentIdentifier" : "BJNR145300019BJNG000600000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR145300019BJNE001600000",
+              "paragraph" : "§ 14",
+              "title" : "Verhütung von Lärm und Vibrationen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Lärm und Vibrationen"
+        },
+        {
+          "documentIdentifier" : "BJNR145300019BJNG000700000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR145300019BJNE001700000",
+              "paragraph" : "§ 15",
+              "title" : "Schlafräume"
+            },
+            {
+              "documentIdentifier" : "BJNR145300019BJNE001800000",
+              "paragraph" : "§ 16",
+              "title" : "Bodenflächen"
+            },
+            {
+              "documentIdentifier" : "BJNR145300019BJNE001900000",
+              "paragraph" : "§ 17",
+              "title" : "Kojen und sonstige Schlafraumausstattungen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Schlafräume, Bodenflächen, Kojen, Ausstattung"
+        },
+        {
+          "documentIdentifier" : "BJNR145300019BJNG000800000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR145300019BJNE002000000",
+              "paragraph" : "§ 18",
+              "title" : "Küchen, Vorratsräume und Kühlräume"
+            },
+            {
+              "documentIdentifier" : "BJNR145300019BJNE002100000",
+              "paragraph" : "§ 19",
+              "title" : "Messen, Pantries und Ausstattungen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              5
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Küchen, Vorratsräume, Kühlräume und Messen"
+        },
+        {
+          "documentIdentifier" : "BJNR145300019BJNG000900000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR145300019BJNE002200000",
+              "paragraph" : "§ 20",
+              "title" : "Anzahl und Anordnung der sanitären Einrichtungen"
+            },
+            {
+              "documentIdentifier" : "BJNR145300019BJNE002300000",
+              "paragraph" : "§ 21",
+              "title" : "Ausstattung und Gestaltung der sanitären Einrichtungen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              6
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Sanitäre Einrichtungen"
+        },
+        {
+          "documentIdentifier" : "BJNR145300019BJNG001000000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR145300019BJNE002400000",
+              "paragraph" : "§ 22",
+              "title" : "Behandlungsraum"
+            },
+            {
+              "documentIdentifier" : "BJNR145300019BJNE002500000",
+              "paragraph" : "§ 23",
+              "title" : "Krankenraum"
+            },
+            {
+              "documentIdentifier" : "BJNR145300019BJNE002600000",
+              "paragraph" : "§ 24",
+              "title" : "Eingriffsraum"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              7
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Medizinische Räumlichkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR145300019BJNG001100000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR145300019BJNE002700000",
+              "paragraph" : "§ 25",
+              "title" : "Büroräume"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              8
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Büroräume"
+        },
+        {
+          "documentIdentifier" : "BJNR145300019BJNG001200000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR145300019BJNE002800000",
+              "paragraph" : "§ 26",
+              "title" : "Einrichtungen zur Wäschepflege"
+            },
+            {
+              "documentIdentifier" : "BJNR145300019BJNE002900000",
+              "paragraph" : "§ 27",
+              "title" : "Einrichtungen zur Aufbewahrung von Kleidung und persönlichen Gegenständen, Umkleideeinrichtungen"
+            },
+            {
+              "documentIdentifier" : "BJNR145300019BJNE003000000",
+              "paragraph" : "§ 28",
+              "title" : "Freizeitbereiche und Freizeiträume"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              9
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Sonstige Einrichtungen und Freizeitbereiche"
+        }
+      ],
+      "title" : "Anforderungen an Bau, Ausrüstung und Instandhaltung der Unterkunftsräume und Freizeiteinrichtungen"
+    },
+    {
+      "documentIdentifier" : "BJNR145300019BJNG001300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR145300019BJNE003100000",
+          "paragraph" : "§ 29",
+          "title" : "Ordnungswidrigkeiten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Ordnungswidrigkeiten"
+    },
+    {
+      "documentIdentifier" : "BJNR145300019BJNG001400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR145300019BJNE003200000",
+          "paragraph" : "§ 30",
+          "title" : "Übergangsvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR145300019BJNE003300000",
+          "paragraph" : "§ 31",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR145300019BJNE003400000",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 22 Absatz 3)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übergangs- und Schlussvorschriften"
+    }
+  ]
+}

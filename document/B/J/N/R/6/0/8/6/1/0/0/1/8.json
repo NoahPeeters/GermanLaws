@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR608610018",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR608610018Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR608610018BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Prüfvereinbarung und Zulassungsvertrag"
+        },
+        {
+          "documentIdentifier" : "BJNR608610018BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR608610018BJNE000401124",
+          "paragraph" : "Anlage I",
+          "title" : "Vereinbarung über die Durchführung des Prüfverfahrens zur Erbringung mautdienstbezogener Leistungen (Prüfvereinbarung)"
+        },
+        {
+          "documentIdentifier" : "BJNR608610018BJNE000500000",
+          "paragraph" : "Anlage II",
+          "title" : "Vertrag über Die Durchführung des Europäischen elektronischen Mautdienstes auf Bundesfernstraßen im Geltungsbereich des Bundesfernstraßenmautgesetzes (EETS-Zulassungsvertrag)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

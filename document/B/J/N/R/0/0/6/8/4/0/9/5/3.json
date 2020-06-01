@@ -1,0 +1,93 @@
+{
+  "documentIdentifier" : "BJNR006840953",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR006840953BJNG000100326",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR006840953BJNE000900326",
+          "paragraph" : "§ 4",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeines"
+    },
+    {
+      "documentIdentifier" : "BJNR006840953BJNG000200326",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Öffentliche Versammlungen in geschlossenen Räumen"
+    },
+    {
+      "documentIdentifier" : "BJNR006840953BJNG000300326",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Öffentliche Versammlungen unter freiem Himmel und Aufzüge"
+    },
+    {
+      "documentIdentifier" : "BJNR006840953BJNG000400326",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Straf- und Bußgeldvorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR006840953BJNG000500326",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR006840953BJNE003800326",
+          "paragraph" : "§ 31",
+          "title" : "(Aufhebungsvorschriften)"
+        },
+        {
+          "documentIdentifier" : "BJNR006840953BJNE004300310",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 15 Abs. 2)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlußbestimmungen"
+    }
+  ]
+}

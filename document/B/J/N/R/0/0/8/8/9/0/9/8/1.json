@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR008890981",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR008890981Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR008890981BJNE000200317",
+          "paragraph" : "§ 1",
+          "title" : "Art und Höhe der Förderungshilfe"
+        },
+        {
+          "documentIdentifier" : "BJNR008890981BJNE000300317",
+          "paragraph" : "§ 2",
+          "title" : "Art und Zahl der Filmvorhaben"
+        },
+        {
+          "documentIdentifier" : "BJNR008890981BJNE000400317",
+          "paragraph" : "§ 3",
+          "title" : "Berlin-Klausel"
+        },
+        {
+          "documentIdentifier" : "BJNR008890981BJNE000500317",
+          "paragraph" : "§ 4",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

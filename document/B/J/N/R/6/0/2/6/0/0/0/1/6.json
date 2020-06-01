@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR602600016",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR602600016Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR602600016BJNE000201116",
+          "paragraph" : "§ 1",
+          "title" : "Befugnisübertragung"
+        },
+        {
+          "documentIdentifier" : "BJNR602600016BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

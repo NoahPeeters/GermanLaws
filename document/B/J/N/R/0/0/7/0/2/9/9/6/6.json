@@ -1,0 +1,181 @@
+{
+  "documentIdentifier" : "BJNR007029966",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR007029966BJNG000100319",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Art 1 bis 4"
+    },
+    {
+      "documentIdentifier" : "BJNR007029966BJNG000200319",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Art 5"
+    },
+    {
+      "documentIdentifier" : "BJNR007029966BJNG000300319",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Art 6"
+    },
+    {
+      "documentIdentifier" : "BJNR007029966BJNG000400319",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Art 7"
+    },
+    {
+      "documentIdentifier" : "BJNR007029966BJNG000500319",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          8
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR007029966BJNE000900319",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              8
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR007029966BJNE001000319",
+              "laws" : [
+
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  8
+                ]
+              },
+              "subsections" : [
+                {
+                  "documentIdentifier" : "BJNR007029966BJNE001100319",
+                  "laws" : [
+
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      8
+                    ]
+                  },
+                  "subsections" : [
+                    {
+                      "documentIdentifier" : "BJNR007029966BJNE001200319",
+                      "laws" : [
+
+                      ],
+                      "sectionNumber" : {
+                        "numbers" : [
+                          8
+                        ]
+                      },
+                      "subsections" : [
+
+                      ],
+                      "title" : "Art 8"
+                    }
+                  ],
+                  "title" : "Art 8"
+                }
+              ],
+              "title" : "Art 8"
+            }
+          ],
+          "title" : "Art 8"
+        }
+      ],
+      "title" : "Mineralölsteuergesetz"
+    },
+    {
+      "documentIdentifier" : "BJNR007029966BJNG000600319",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          9
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Art 9"
+    },
+    {
+      "documentIdentifier" : "BJNR007029966BJNG000700319",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          10
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Berlin-Klausel"
+    },
+    {
+      "documentIdentifier" : "BJNR007029966BJNG000800319",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          11
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inkrafttreten"
+    }
+  ]
+}

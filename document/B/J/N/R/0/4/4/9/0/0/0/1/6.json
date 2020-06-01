@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR044900016",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR044900016Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR044900016BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Monitoring"
+        },
+        {
+          "documentIdentifier" : "BJNR044900016BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Duldungs- und Mitwirkungspflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR044900016BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR044900016BJNE000600000",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 1 Absatz 2)"
+        },
+        {
+          "documentIdentifier" : "BJNR044900016BJNE000700000",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 1 Absatz 3)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

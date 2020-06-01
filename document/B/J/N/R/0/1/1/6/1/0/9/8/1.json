@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR011610981",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR011610981Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR011610981BJNE000206377",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR011610981BJNE000310360",
+          "paragraph" : "§ 2",
+          "title" : "Zuständige Stelle"
+        },
+        {
+          "documentIdentifier" : "BJNR011610981BJNE000407377",
+          "paragraph" : "§ 3",
+          "title" : "Festsetzung und Änderung der Quoten"
+        },
+        {
+          "documentIdentifier" : "BJNR011610981BJNE000508360",
+          "paragraph" : "§ 4",
+          "title" : "Zulassung der Unternehmen"
+        },
+        {
+          "documentIdentifier" : "BJNR011610981BJNE000803377",
+          "paragraph" : "(XXXX) §§ 5 und 6",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR011610981BJNE001002377",
+          "paragraph" : "§ 7",
+          "title" : "Mitteilungs-, Duldungs- und Mitwirkungspflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR011610981BJNE000604377",
+          "paragraph" : "§ 8",
+          "title" : "(Inkrafttreten)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

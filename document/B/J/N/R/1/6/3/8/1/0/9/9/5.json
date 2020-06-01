@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR163810995",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR163810995Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR163810995BJNE000102301",
+          "paragraph" : "§ 1",
+          "title" : "Abwicklung des Ausgleichsfonds"
+        },
+        {
+          "documentIdentifier" : "BJNR163810995BJNE000206118",
+          "paragraph" : "§ 2",
+          "title" : "Verwaltung des Ausgleichsfonds"
+        },
+        {
+          "documentIdentifier" : "BJNR163810995BJNE000300301",
+          "paragraph" : "§ 3",
+          "title" : "Auflösung des Ausgleichsfonds"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

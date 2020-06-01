@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR013010974",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR013010974Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR013010974BJNE000204301",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR013010974BJNE000309301",
+          "paragraph" : "§ 2",
+          "title" : "Allgemeine Kennzeichnungsvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR013010974BJNE000405377",
+          "paragraph" : "§ 3",
+          "title" : "Besondere Kennzeichnungsvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR013010974BJNE000504377",
+          "paragraph" : "§ 4",
+          "title" : "Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR013010974BJNE000900124",
+          "paragraph" : "§ 4a",
+          "title" : "Anpassung an die Verordnung (EU) Nr. 1169\/2011 und an die Lebensmittelinformations-Durchführungsverordnung"
+        },
+        {
+          "documentIdentifier" : "BJNR013010974BJNE000803377",
+          "paragraph" : "§ 5",
+          "title" : "Inkrafttreten, Übergangsvorschriften"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

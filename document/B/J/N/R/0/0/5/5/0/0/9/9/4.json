@@ -1,0 +1,224 @@
+{
+  "documentIdentifier" : "BJNR005500994",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR005500994BJNG000101126",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR005500994BJNE000805126",
+          "paragraph" : "§ 1",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR005500994BJNE000910126",
+          "paragraph" : "§ 2",
+          "title" : "Risikogruppen"
+        },
+        {
+          "documentIdentifier" : "BJNR005500994BJNE001027126",
+          "paragraph" : "§ 3",
+          "title" : "Versicherungszeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR005500994BJNE001118126",
+          "paragraph" : "§ 4",
+          "title" : "Berücksichtigungsfähige Leistungsausgaben"
+        },
+        {
+          "documentIdentifier" : "BJNR005500994BJNE001204126",
+          "paragraph" : "§ 5",
+          "title" : "Bekanntmachungen"
+        },
+        {
+          "documentIdentifier" : "BJNR005500994BJNE001301126",
+          "paragraph" : "§ 6",
+          "title" : "Zahlungsverkehr und Verrechnung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gemeinsame Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR005500994BJNG000201126",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR005500994BJNE001405126",
+          "paragraph" : "§ 7",
+          "title" : "Verarbeitung von Daten für die Durchführung und Weiterentwicklung des Risikostrukturausgleichs"
+        },
+        {
+          "documentIdentifier" : "BJNR005500994BJNE001510126",
+          "paragraph" : "§ 8",
+          "title" : "Auswahl und Anpassung des Versichertenklassifikationsmodells"
+        },
+        {
+          "documentIdentifier" : "BJNR005500994BJNE001604126",
+          "paragraph" : "§ 9",
+          "title" : "Datenmeldungen für den monatlichen Ausgleich"
+        },
+        {
+          "documentIdentifier" : "BJNR005500994BJNE001705126",
+          "paragraph" : "§ 10",
+          "title" : "Folgegutachten zu Zuweisungen zur Deckung der Aufwendungen für Krankengeld und Auslandsversicherte"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Datenmeldungen, Versichertenklassifikationsmodell und Gutachten"
+    },
+    {
+      "documentIdentifier" : "BJNR005500994BJNG000301126",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR005500994BJNE001805126",
+          "paragraph" : "§ 11",
+          "title" : "Zuweisungen für das Krankengeld"
+        },
+        {
+          "documentIdentifier" : "BJNR005500994BJNE001901126",
+          "paragraph" : "§ 12",
+          "title" : "Ermittlung der Höhe der Grundpauschale"
+        },
+        {
+          "documentIdentifier" : "BJNR005500994BJNE002003126",
+          "paragraph" : "§ 13",
+          "title" : "Zuweisungen für sonstige Ausgaben"
+        },
+        {
+          "documentIdentifier" : "BJNR005500994BJNE002106126",
+          "paragraph" : "§ 14",
+          "title" : "Risikopool"
+        },
+        {
+          "documentIdentifier" : "BJNR005500994BJNE002203126",
+          "paragraph" : "§ 15",
+          "title" : "Zuweisungen für Vorsorge- und Früherkennungsmaßnahmen und für strukturierte Behandlungsprogramme"
+        },
+        {
+          "documentIdentifier" : "BJNR005500994BJNE002301126",
+          "paragraph" : "§ 16",
+          "title" : "Durchführung des Zahlungsverkehrs, monatlicher Ausgleich und Kostentragung"
+        },
+        {
+          "documentIdentifier" : "BJNR005500994BJNE002411126",
+          "paragraph" : "§ 17",
+          "title" : "Mitgliederbezogene Veränderung der Zuweisungen"
+        },
+        {
+          "documentIdentifier" : "BJNR005500994BJNE002501126",
+          "paragraph" : "§ 18",
+          "title" : "Jahresausgleich"
+        },
+        {
+          "documentIdentifier" : "BJNR005500994BJNE002607126",
+          "paragraph" : "§ 19",
+          "title" : "Ausschluss auffälliger Risikogruppen"
+        },
+        {
+          "documentIdentifier" : "BJNR005500994BJNE002701126",
+          "paragraph" : "§ 20",
+          "title" : "Prüfung der Datenmeldungen"
+        },
+        {
+          "documentIdentifier" : "BJNR005500994BJNE002802126",
+          "paragraph" : "§ 21",
+          "title" : "Ermittlung des Korrekturbetrags nach § 273 Absatz 6 Satz 1 des Fünften Buches Sozialgesetzbuch"
+        },
+        {
+          "documentIdentifier" : "BJNR005500994BJNE002901126",
+          "paragraph" : "§ 22",
+          "title" : "Durchführung des Einkommensausgleichs"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Zuweisungen aus dem Gesundheitsfonds"
+    },
+    {
+      "documentIdentifier" : "BJNR005500994BJNG000401126",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR005500994BJNE003002126",
+          "paragraph" : "§ 23",
+          "title" : "Aufzubringende Mittel der Krankenkassen für den Innovationsfonds"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Aufbringung der Finanzmittel für den Innovationsfonds bei den Krankenkassen"
+    },
+    {
+      "documentIdentifier" : "BJNR005500994BJNG000501126",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR005500994BJNE003101126",
+          "paragraph" : "§ 24",
+          "title" : "Anforderungen an das Verfahren der Einschreibung der Versicherten in ein strukturiertes Behandlungsprogramm nach § 137g des Fünften Buches Sozialgesetzbuch einschließlich der Dauer der Teilnahme"
+        },
+        {
+          "documentIdentifier" : "BJNR005500994BJNE003205126",
+          "paragraph" : "§ 25",
+          "title" : "Anforderungen an das Verfahren der Verarbeitung der für die Durchführung der Programme nach § 137g des Fünften Buches Sozialgesetzbuch erforderlichen personenbezogenen Daten"
+        },
+        {
+          "documentIdentifier" : "BJNR005500994BJNE003301126",
+          "paragraph" : "§ 26",
+          "title" : "Berechnung der Kosten für die Bescheidung von Zulassungsanträgen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Anforderungen an die Zulassung strukturierter Behandlungsprogramme nach § 137g des Fünften Buches Sozialgesetzbuch"
+    },
+    {
+      "documentIdentifier" : "BJNR005500994BJNG000701126",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR005500994BJNE003401126",
+          "paragraph" : "§ 27",
+          "title" : "Übergangsregelung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übergangsregelung"
+    }
+  ]
+}

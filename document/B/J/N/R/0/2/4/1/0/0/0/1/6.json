@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR024100016",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR024100016Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR024100016BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR024100016BJNE000301124",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR024100016BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Berechnungsmethode für durchschnittliche Strompreise"
+        },
+        {
+          "documentIdentifier" : "BJNR024100016BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Anwendung der Berechnungsmethode; Bekanntmachung der Ergebnisse"
+        },
+        {
+          "documentIdentifier" : "BJNR024100016BJNE000601124",
+          "paragraph" : "§ 5",
+          "title" : "Zugrundelegung der durchschnittlichen Strompreise im Antragsverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR024100016BJNE000701124",
+          "paragraph" : "§ 6",
+          "title" : "Nachweispflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR024100016BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

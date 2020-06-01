@@ -1,0 +1,152 @@
+{
+  "documentIdentifier" : "BJNR009499974",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR009499974BJNG000100306",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Vermögensteuergesetz (VStG)"
+    },
+    {
+      "documentIdentifier" : "BJNR009499974BJNG000200306",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Art 2 bis 5"
+    },
+    {
+      "documentIdentifier" : "BJNR009499974BJNG000300306",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Grunderwerbsteuer"
+    },
+    {
+      "documentIdentifier" : "BJNR009499974BJNG000400306",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Art 7"
+    },
+    {
+      "documentIdentifier" : "BJNR009499974BJNG000500306",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          8
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Art 8"
+    },
+    {
+      "documentIdentifier" : "BJNR009499974BJNG000600306",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          9
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Art 9"
+    },
+    {
+      "documentIdentifier" : "BJNR009499974BJNG000700306",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          10
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR009499974BJNE000800306",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              10
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR009499974BJNE000900306",
+              "laws" : [
+
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  10
+                ]
+              },
+              "subsections" : [
+                {
+                  "documentIdentifier" : "BJNR009499974BJNE001000306",
+                  "laws" : [
+
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      10
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Art 10"
+                }
+              ],
+              "title" : "Art 10"
+            }
+          ],
+          "title" : "Art 10"
+        }
+      ],
+      "title" : "Schlußvorschriften"
+    }
+  ]
+}

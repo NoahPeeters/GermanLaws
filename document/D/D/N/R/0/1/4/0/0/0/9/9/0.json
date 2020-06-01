@@ -1,0 +1,221 @@
+{
+  "documentIdentifier" : "DDNR014000990",
+  "sections" : [
+    {
+      "documentIdentifier" : "DDNR014000990BJNG000100307",
+      "laws" : [
+        {
+          "documentIdentifier" : "DDNR014000990BJNE000900307",
+          "paragraph" : "§ 1",
+          "title" : "Allgemeines"
+        },
+        {
+          "documentIdentifier" : "DDNR014000990BJNE001000307",
+          "paragraph" : "§ 2",
+          "title" : "Lageplan"
+        },
+        {
+          "documentIdentifier" : "DDNR014000990BJNE001100307",
+          "paragraph" : "§ 3",
+          "title" : "Bauzeichnungen"
+        },
+        {
+          "documentIdentifier" : "DDNR014000990BJNE001200307",
+          "paragraph" : "§ 4",
+          "title" : "Baubeschreibung"
+        },
+        {
+          "documentIdentifier" : "DDNR014000990BJNE001300307",
+          "paragraph" : "§ 5",
+          "title" : "Standsicherheitsnachweis und andere bautechnische\nNachweise"
+        },
+        {
+          "documentIdentifier" : "DDNR014000990BJNE001400307",
+          "paragraph" : "§ 6",
+          "title" : "Bauvorlagen für den Abbruch baulicher Anlagen"
+        },
+        {
+          "documentIdentifier" : "DDNR014000990BJNE001500307",
+          "paragraph" : "§ 7",
+          "title" : "Bauvorlagen beim Vorbescheid"
+        },
+        {
+          "documentIdentifier" : "DDNR014000990BJNE001600307",
+          "paragraph" : "§ 8",
+          "title" : "Bauvorlagen für Typengenehmigungen"
+        },
+        {
+          "documentIdentifier" : "DDNR014000990BJNE001700307",
+          "paragraph" : "§ 9",
+          "title" : "Bauvorlagen für die Ausführungsgenehmigung\nFliegender Bauten"
+        },
+        {
+          "documentIdentifier" : "DDNR014000990BJNE001800307",
+          "paragraph" : "§ 10",
+          "title" : "Bauvorlagen für Werbeanlagen und Warenautomaten"
+        },
+        {
+          "documentIdentifier" : "DDNR014000990BJNE001900307",
+          "paragraph" : "§ 11",
+          "title" : "Antrag und Unterlagen für die Genehmigung von\nGrundstücksteilungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Bauvorlagen"
+    },
+    {
+      "documentIdentifier" : "DDNR014000990BJNG000200307",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "DDNR014000990BJNG000300307",
+          "laws" : [
+            {
+              "documentIdentifier" : "DDNR014000990BJNE002000307",
+              "paragraph" : "§ 12",
+              "title" : "Prüfämter und Prüfingenieure"
+            },
+            {
+              "documentIdentifier" : "DDNR014000990BJNE002100307",
+              "paragraph" : "§ 13",
+              "title" : "Zulassung, Niederlassung"
+            },
+            {
+              "documentIdentifier" : "DDNR014000990BJNE002200307",
+              "paragraph" : "§ 14",
+              "title" : "Voraussetzungen der Zulassung"
+            },
+            {
+              "documentIdentifier" : "DDNR014000990BJNE002300307",
+              "paragraph" : "§ 15",
+              "title" : "Zulassungsverfahren"
+            },
+            {
+              "documentIdentifier" : "DDNR014000990BJNE002400307",
+              "paragraph" : "§ 16",
+              "title" : "Gutachten, Gutachterausschuß"
+            },
+            {
+              "documentIdentifier" : "DDNR014000990BJNE002500307",
+              "paragraph" : "§ 17",
+              "title" : "Erlöschen, Rücknahme und Widerruf der Zulassung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Prüfämter und Prüfingenieure"
+        },
+        {
+          "documentIdentifier" : "DDNR014000990BJNG000400307",
+          "laws" : [
+            {
+              "documentIdentifier" : "DDNR014000990BJNE002600307",
+              "paragraph" : "§ 18",
+              "title" : "Übertragung von Prüfaufgaben"
+            },
+            {
+              "documentIdentifier" : "DDNR014000990BJNE002700307",
+              "paragraph" : "§ 19",
+              "title" : "Erteilung von Prüfaufträgen"
+            },
+            {
+              "documentIdentifier" : "DDNR014000990BJNE002800307",
+              "paragraph" : "§ 20",
+              "title" : "Ausführung von Prüfaufträgen"
+            },
+            {
+              "documentIdentifier" : "DDNR014000990BJNE002900307",
+              "paragraph" : "§ 21",
+              "title" : "Typenprüfung - Prüfung Fliegender Bauten"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Bautechnische Prüfung"
+        }
+      ],
+      "title" : "Bautechnische Prüfung von Bauvorhaben"
+    },
+    {
+      "documentIdentifier" : "DDNR014000990BJNG000500307",
+      "laws" : [
+        {
+          "documentIdentifier" : "DDNR014000990BJNE003000307",
+          "paragraph" : "§ 22",
+          "title" : "Überwachungspflicht"
+        },
+        {
+          "documentIdentifier" : "DDNR014000990BJNE003100307",
+          "paragraph" : "§ 23",
+          "title" : "Überwachungsverfahren und Überwachungsstellen"
+        },
+        {
+          "documentIdentifier" : "DDNR014000990BJNE003200307",
+          "paragraph" : "§ 24",
+          "title" : "Überwachungszeichen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Überwachung"
+    },
+    {
+      "documentIdentifier" : "DDNR014000990BJNG000600307",
+      "laws" : [
+        {
+          "documentIdentifier" : "DDNR014000990BJNE003300307",
+          "paragraph" : "§ 25",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "DDNR014000990BJNE003500307",
+          "paragraph" : "Anlage",
+          "title" : "zur BauVorl-\/BauPrüf-\/ÜbAO (zu § 2 Abs. 4, § 3 Abs. 4)\n"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlußvorschrift"
+    }
+  ]
+}

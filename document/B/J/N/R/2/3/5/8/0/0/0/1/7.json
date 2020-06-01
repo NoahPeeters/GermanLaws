@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR235800017",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR235800017Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR235800017BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Amtliches Verzeichnis bei ungetrennten Hofräumen"
+        },
+        {
+          "documentIdentifier" : "BJNR235800017BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Bezeichnung des Grundstücks"
+        },
+        {
+          "documentIdentifier" : "BJNR235800017BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

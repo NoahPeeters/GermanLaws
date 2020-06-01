@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR268300997",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR268300997Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR268300997BJNE000200311",
+          "paragraph" : "§ 1",
+          "title" : "Zulassung des Euro und ausländischer Währungen\nfür Grundpfandrechte"
+        },
+        {
+          "documentIdentifier" : "BJNR268300997BJNE000300311",
+          "paragraph" : "§ 2",
+          "title" : "Aufhebung der Zulassung ausländischer Währungen\nfür Grundpfandrechte"
+        },
+        {
+          "documentIdentifier" : "BJNR268300997BJNE000400311",
+          "paragraph" : "§ 3",
+          "title" : "Reallasten"
+        },
+        {
+          "documentIdentifier" : "BJNR268300997BJNE000500311",
+          "paragraph" : "§ 4",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "documentIdentifier" : "BJNR208470939",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR208470939BJNG000100306",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Zustellungsanträge und Rechtshilfeersuchen"
+    },
+    {
+      "documentIdentifier" : "BJNR208470939BJNG000200306",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Vollstreckbarerklärung von Kostenentscheidungen"
+    }
+  ]
+}

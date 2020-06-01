@@ -1,0 +1,4 @@
+{
+  "documentIdentifier" : "BJNR379000009BJNE000500000",
+  "text" : "{\\rtf1\\ansi{\\fonttbl\\f0\\fswiss Helvetica;}\\f0\n\\pard\\sb100\nDie Null-Kupon-Swaps{\\u0228}tze werden aus den Festzins-Swaps{\\u0228}tzen mit Hilfe der Null-Kupon-Anleihen-Entb{\\u0252}ndelung (Bootstrapping) abgeleitet, und sind dadurch charakterisiert, dass die F{\\u0228}lligkeitstermine im Jahresabstand aufeinanderfolgen und mit den Kuponterminen zusammenfallen. F{\\u0252}r den Gegenwartswert eines Festzins-Swaps mit Laufzeit {\\i t} gilt:\\\n\\pard\n\\\n\\\n\\\n Der Festzins-Swapsatz mit einer Laufzeit von einem Jahr entspricht dem Null-Kupon-Swapsatz mit einer einj{\\u0228}hrigen Laufzeit; {\\i S}1 = {\\i N}1. Die weiteren ganzj{\\u0228}hrigen Null-Kupon-Swaps{\\u0228}tze werden wie folgt schrittweise berechnet:\\\n\\\n}"
+}

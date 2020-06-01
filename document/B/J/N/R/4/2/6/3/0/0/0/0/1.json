@@ -1,0 +1,145 @@
+{
+  "documentIdentifier" : "BJNR426300001",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR426300001BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR426300001BJNE000300000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Anwendungsbereich"
+    },
+    {
+      "documentIdentifier" : "BJNR426300001BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR426300001BJNE000409360",
+          "paragraph" : "§ 2",
+          "title" : "Ergänzende Angaben der Angebotsunterlage"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt der Angebotsunterlage"
+    },
+    {
+      "documentIdentifier" : "BJNR426300001BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR426300001BJNE000500000",
+          "paragraph" : "§ 3",
+          "title" : "Grundsatz"
+        },
+        {
+          "documentIdentifier" : "BJNR426300001BJNE000601377",
+          "paragraph" : "§ 4",
+          "title" : "Berücksichtigung von Vorerwerben"
+        },
+        {
+          "documentIdentifier" : "BJNR426300001BJNE000702123",
+          "paragraph" : "§ 5",
+          "title" : "Berücksichtigung inländischer Börsenkurse"
+        },
+        {
+          "documentIdentifier" : "BJNR426300001BJNE000800000",
+          "paragraph" : "§ 6",
+          "title" : "Berücksichtigung ausländischer Börsenkurse"
+        },
+        {
+          "documentIdentifier" : "BJNR426300001BJNE000900000",
+          "paragraph" : "§ 7",
+          "title" : "Bestimmung des Wertes der Gegenleistung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gegenleistung bei Übernahmeangeboten und Pflichtangeboten"
+    },
+    {
+      "documentIdentifier" : "BJNR426300001BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR426300001BJNE001001377",
+          "paragraph" : "§ 8",
+          "title" : "Antragstellung"
+        },
+        {
+          "documentIdentifier" : "BJNR426300001BJNE001101377",
+          "paragraph" : "§ 9",
+          "title" : "Befreiungstatbestände"
+        },
+        {
+          "documentIdentifier" : "BJNR426300001BJNE001200000",
+          "paragraph" : "§ 10",
+          "title" : "Antragsinhalt"
+        },
+        {
+          "documentIdentifier" : "BJNR426300001BJNE001301377",
+          "paragraph" : "§ 11",
+          "title" : "Antragsunterlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR426300001BJNE001401377",
+          "paragraph" : "§ 12",
+          "title" : "Prüfung der Vollständigkeit des Antrags"
+        },
+        {
+          "documentIdentifier" : "BJNR426300001BJNE001600123",
+          "paragraph" : "§ 12a",
+          "title" : "Übergangsvorschriften"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Befreiung von der Verpflichtung zur Veröffentlichung und zur Abgabe eines Angebots"
+    },
+    {
+      "documentIdentifier" : "BJNR426300001BJNG000500000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR426300001BJNE001500000",
+          "paragraph" : "§ 13",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussvorschrift"
+    }
+  ]
+}

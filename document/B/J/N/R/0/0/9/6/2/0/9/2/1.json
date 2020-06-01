@@ -1,0 +1,89 @@
+{
+  "documentIdentifier" : "BJNR009620921",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR009620921BJNG000100308",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gegenstand des Vertrags"
+    },
+    {
+      "documentIdentifier" : "BJNR009620921BJNG000200308",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Finanzielle Auseinandersetzung"
+    },
+    {
+      "documentIdentifier" : "BJNR009620921BJNG000300308",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Verwaltung der Reichswasserstraßen"
+    },
+    {
+      "documentIdentifier" : "BJNR009620921BJNG000400308",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "..."
+    },
+    {
+      "documentIdentifier" : "BJNR009620921BJNG000500308",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR009620921BJNE003000308",
+          "paragraph" : "Anlage A",
+          "title" : "zum Staatsvertrag betreffend den Übergang der Wasserstraßen\nvon den Ländern auf das Reich\n"
+        },
+        {
+          "documentIdentifier" : "BJNR009620921BJNE003100308",
+          "paragraph" : "Anlage B",
+          "title" : "zum Staatsvertrag betreffend den Übergang der Wasserstraßen\nvon den Ländern auf das Reich\n"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schluß- und Übergangsbestimmungen"
+    }
+  ]
+}

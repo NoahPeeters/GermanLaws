@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR611800017",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR611800017Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR611800017BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Zwingende Arbeitsbedingungen"
+        },
+        {
+          "documentIdentifier" : "BJNR611800017BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR611800017BJNE000500000",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 1)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

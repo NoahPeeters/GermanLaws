@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR094000007",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR094000007Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR094000007BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Zuständige Behörden"
+        },
+        {
+          "documentIdentifier" : "BJNR094000007BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR094000007BJNE000400000",
+          "paragraph" : "Anhang",
+          "title" : "Zuständige Behörden für die Abfrage des Europol-Informationssystems"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

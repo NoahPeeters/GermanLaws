@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR083000996",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR083000996Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR083000996BJNE000300310",
+          "paragraph" : "Art 6",
+          "title" : "Übergangsregelung zur Bußgeldvorschrift"
+        },
+        {
+          "documentIdentifier" : "BJNR083000996BJNE000400310",
+          "paragraph" : "Art 7",
+          "title" : "Medizinische Behandlungspflege in stationären\nPflegeeinrichtungen"
+        },
+        {
+          "documentIdentifier" : "BJNR083000996BJNE000500310",
+          "paragraph" : "Art 8",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

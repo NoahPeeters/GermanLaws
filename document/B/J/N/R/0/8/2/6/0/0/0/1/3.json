@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR082600013",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR082600013Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR082600013BJNE000201311",
+          "paragraph" : "§ 1",
+          "title" : "Zweck der Erhebung"
+        },
+        {
+          "documentIdentifier" : "BJNR082600013BJNE000302311",
+          "paragraph" : "§ 2",
+          "title" : "Statistik der natürlichen Bevölkerungsbewegung"
+        },
+        {
+          "documentIdentifier" : "BJNR082600013BJNE000403311",
+          "paragraph" : "§ 3",
+          "title" : "Statistik der rechtskräftigen Beschlüsse in Ehesachen und Statistik der rechtskräftigen Aufhebungen von Lebenspartnerschaften"
+        },
+        {
+          "documentIdentifier" : "BJNR082600013BJNE000501116",
+          "paragraph" : "§ 4",
+          "title" : "Wanderungsstatistik"
+        },
+        {
+          "documentIdentifier" : "BJNR082600013BJNE000602311",
+          "paragraph" : "§ 5",
+          "title" : "Fortschreibung des Bevölkerungsstandes und Bevölkerungsvorausberechnungen"
+        },
+        {
+          "documentIdentifier" : "BJNR082600013BJNE000702311",
+          "paragraph" : "§ 6",
+          "title" : "Übergangsvorschrift"
+        },
+        {
+          "documentIdentifier" : "BJNR082600013BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

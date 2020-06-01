@@ -1,0 +1,69 @@
+{
+  "documentIdentifier" : "BJNR047500019",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR047500019Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR047500019BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Notifizierung von Konformitätsbewertungsstellen"
+        },
+        {
+          "documentIdentifier" : "BJNR047500019BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Richtwert für Stichproben bei der Marktüberwachung"
+        },
+        {
+          "documentIdentifier" : "BJNR047500019BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Unterrichtung bei Nichtkonformität einer PSA"
+        },
+        {
+          "documentIdentifier" : "BJNR047500019BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Nichtkonformität einer PSA in einem anderen Mitgliedstaat der Europäischen Union"
+        },
+        {
+          "documentIdentifier" : "BJNR047500019BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Unterrichtung bei Risiken trotz Konformität einer PSA"
+        },
+        {
+          "documentIdentifier" : "BJNR047500019BJNE000600000",
+          "paragraph" : "§ 6",
+          "title" : "Kostenerhebung"
+        },
+        {
+          "documentIdentifier" : "BJNR047500019BJNE000700000",
+          "paragraph" : "§ 7",
+          "title" : "Sprache der Anleitungen, der Informationen und der EU-Konformitätserklärungen"
+        },
+        {
+          "documentIdentifier" : "BJNR047500019BJNE000800000",
+          "paragraph" : "§ 8",
+          "title" : "Bußgeldvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR047500019BJNE000900000",
+          "paragraph" : "§ 9",
+          "title" : "Strafvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR047500019BJNE001000000",
+          "paragraph" : "§ 10",
+          "title" : "Übergangsvorschrift"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

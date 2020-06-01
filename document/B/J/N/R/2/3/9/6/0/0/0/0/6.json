@@ -1,0 +1,209 @@
+{
+  "documentIdentifier" : "BJNR239600006",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR239600006BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR239600006BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich, Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR239600006BJNE000303118",
+          "paragraph" : "§ 2",
+          "title" : "Vertragsschluss"
+        },
+        {
+          "documentIdentifier" : "BJNR239600006BJNE000401308",
+          "paragraph" : "§ 3",
+          "title" : "Ersatzversorgung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Bestimmungen"
+    },
+    {
+      "documentIdentifier" : "BJNR239600006BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR239600006BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Bedarfsdeckung"
+        },
+        {
+          "documentIdentifier" : "BJNR239600006BJNE000602311",
+          "paragraph" : "§ 5",
+          "title" : "Art der Versorgung; Änderungen der Allgemeinen Preise und ergänzenden Bedingungen"
+        },
+        {
+          "documentIdentifier" : "BJNR239600006BJNE002500311",
+          "paragraph" : "§ 5a",
+          "title" : "Kalkulatorische Neuermittlung bei Änderungen staatlich gesetzter Belastungen"
+        },
+        {
+          "documentIdentifier" : "BJNR239600006BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Umfang der Grundversorgung"
+        },
+        {
+          "documentIdentifier" : "BJNR239600006BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Erweiterung und Änderung von Anlagen und Verbrauchsgeräten;\nMitteilungspflichten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Versorgung"
+    },
+    {
+      "documentIdentifier" : "BJNR239600006BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR239600006BJNE000902118",
+          "paragraph" : "§ 8",
+          "title" : "Messeinrichtungen"
+        },
+        {
+          "documentIdentifier" : "BJNR239600006BJNE001000000",
+          "paragraph" : "§ 9",
+          "title" : "Zutrittsrecht"
+        },
+        {
+          "documentIdentifier" : "BJNR239600006BJNE001100000",
+          "paragraph" : "§ 10",
+          "title" : "Vertragsstrafe"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Aufgaben und Rechte des Grundversorgers"
+    },
+    {
+      "documentIdentifier" : "BJNR239600006BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR239600006BJNE001201308",
+          "paragraph" : "§ 11",
+          "title" : "Ablesung"
+        },
+        {
+          "documentIdentifier" : "BJNR239600006BJNE001302360",
+          "paragraph" : "§ 12",
+          "title" : "Abrechnung"
+        },
+        {
+          "documentIdentifier" : "BJNR239600006BJNE001400000",
+          "paragraph" : "§ 13",
+          "title" : "Abschlagszahlungen"
+        },
+        {
+          "documentIdentifier" : "BJNR239600006BJNE001500000",
+          "paragraph" : "§ 14",
+          "title" : "Vorauszahlungen"
+        },
+        {
+          "documentIdentifier" : "BJNR239600006BJNE001600000",
+          "paragraph" : "§ 15",
+          "title" : "Sicherheitsleistung"
+        },
+        {
+          "documentIdentifier" : "BJNR239600006BJNE001701377",
+          "paragraph" : "§ 16",
+          "title" : "Rechnungen und Abschläge"
+        },
+        {
+          "documentIdentifier" : "BJNR239600006BJNE001800000",
+          "paragraph" : "§ 17",
+          "title" : "Zahlung, Verzug"
+        },
+        {
+          "documentIdentifier" : "BJNR239600006BJNE001900000",
+          "paragraph" : "§ 18",
+          "title" : "Berechnungsfehler"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Abrechnung der Energielieferung"
+    },
+    {
+      "documentIdentifier" : "BJNR239600006BJNG000500000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR239600006BJNE002000000",
+          "paragraph" : "§ 19",
+          "title" : "Unterbrechung der Versorgung"
+        },
+        {
+          "documentIdentifier" : "BJNR239600006BJNE002101360",
+          "paragraph" : "§ 20",
+          "title" : "Kündigung"
+        },
+        {
+          "documentIdentifier" : "BJNR239600006BJNE002200000",
+          "paragraph" : "§ 21",
+          "title" : "Fristlose Kündigung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Beendigung des Grundversorgungsverhältnisses"
+    },
+    {
+      "documentIdentifier" : "BJNR239600006BJNG000600000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR239600006BJNE002300000",
+          "paragraph" : "§ 22",
+          "title" : "Gerichtsstand"
+        },
+        {
+          "documentIdentifier" : "BJNR239600006BJNE002400000",
+          "paragraph" : "§ 23",
+          "title" : "Übergangsregelung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussbestimmungen"
+    }
+  ]
+}

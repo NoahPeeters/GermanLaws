@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR163700010",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR163700010Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR163700010BJNE000204301",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR163700010BJNE000301301",
+          "paragraph" : "§ 2",
+          "title" : "Gebührenverzeichnis"
+        },
+        {
+          "documentIdentifier" : "BJNR163700010BJNE000402301",
+          "paragraph" : "§ 3",
+          "title" : "Ermäßigung und Befreiung"
+        },
+        {
+          "documentIdentifier" : "BJNR163700010BJNE000502301",
+          "paragraph" : "§ 4",
+          "title" : "Gebühren und Auslagen für individuell zurechenbare öffentliche Leistungen vor Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR163700010BJNE000601301",
+          "paragraph" : "§ 5",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR163700010BJNE000704301",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 2)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

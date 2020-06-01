@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR076200020",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR076200020Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR076200020BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Steuersätze 2020"
+        },
+        {
+          "documentIdentifier" : "BJNR076200020BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

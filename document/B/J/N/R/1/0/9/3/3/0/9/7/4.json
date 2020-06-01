@@ -1,0 +1,305 @@
+{
+  "documentIdentifier" : "BJNR109330974",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR109330974BJNG000203140",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR109330974BJNE001502301",
+          "paragraph" : "§ 1",
+          "title" : "Steuerpflichtige Vorgänge"
+        },
+        {
+          "documentIdentifier" : "BJNR109330974BJNE001607116",
+          "paragraph" : "§ 2",
+          "title" : "Persönliche Steuerpflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR109330974BJNE001706116",
+          "paragraph" : "§ 3",
+          "title" : "Erwerb von Todes wegen"
+        },
+        {
+          "documentIdentifier" : "BJNR109330974BJNE001803140",
+          "paragraph" : "§ 4",
+          "title" : "Fortgesetzte Gütergemeinschaft"
+        },
+        {
+          "documentIdentifier" : "BJNR109330974BJNE001905140",
+          "paragraph" : "§ 5",
+          "title" : "Zugewinngemeinschaft"
+        },
+        {
+          "documentIdentifier" : "BJNR109330974BJNE002003140",
+          "paragraph" : "§ 6",
+          "title" : "Vor- und Nacherbschaft"
+        },
+        {
+          "documentIdentifier" : "BJNR109330974BJNE002105140",
+          "paragraph" : "§ 7",
+          "title" : "Schenkungen unter Lebenden"
+        },
+        {
+          "documentIdentifier" : "BJNR109330974BJNE002202301",
+          "paragraph" : "§ 8",
+          "title" : "Zweckzuwendungen"
+        },
+        {
+          "documentIdentifier" : "BJNR109330974BJNE002307116",
+          "paragraph" : "§ 9",
+          "title" : "Entstehung der Steuer"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Steuerpflicht"
+    },
+    {
+      "documentIdentifier" : "BJNR109330974BJNG000303140",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR109330974BJNE002408377",
+          "paragraph" : "§ 10",
+          "title" : "Steuerpflichtiger Erwerb"
+        },
+        {
+          "documentIdentifier" : "BJNR109330974BJNE002502301",
+          "paragraph" : "§ 11",
+          "title" : "Bewertungsstichtag"
+        },
+        {
+          "documentIdentifier" : "BJNR109330974BJNE002607140",
+          "paragraph" : "§ 12",
+          "title" : "Bewertung"
+        },
+        {
+          "documentIdentifier" : "BJNR109330974BJNE002716360",
+          "paragraph" : "§ 13",
+          "title" : "Steuerbefreiungen"
+        },
+        {
+          "documentIdentifier" : "BJNR109330974BJNE005511377",
+          "paragraph" : "§ 13a",
+          "title" : "Steuerbefreiung für Betriebsvermögen, Betriebe der Land- und Forstwirtschaft und Anteile an Kapitalgesellschaften"
+        },
+        {
+          "documentIdentifier" : "BJNR109330974BJNE005804377",
+          "paragraph" : "§ 13b",
+          "title" : "Begünstigtes Vermögen"
+        },
+        {
+          "documentIdentifier" : "BJNR109330974BJNE006000377",
+          "paragraph" : "§ 13c",
+          "title" : "Verschonungsabschlag bei Großerwerben von begünstigtem Vermögen"
+        },
+        {
+          "documentIdentifier" : "BJNR109330974BJNE005901377",
+          "paragraph" : "§ 13d",
+          "title" : "Steuerbefreiung für zu Wohnzwecken vermietete Grundstücke"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Wertermittlung"
+    },
+    {
+      "documentIdentifier" : "BJNR109330974BJNG000403140",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR109330974BJNE002804140",
+          "paragraph" : "§ 14",
+          "title" : "Berücksichtigung früherer Erwerbe"
+        },
+        {
+          "documentIdentifier" : "BJNR109330974BJNE002907140",
+          "paragraph" : "§ 15",
+          "title" : "Steuerklassen"
+        },
+        {
+          "documentIdentifier" : "BJNR109330974BJNE003008116",
+          "paragraph" : "§ 16",
+          "title" : "Freibeträge"
+        },
+        {
+          "documentIdentifier" : "BJNR109330974BJNE003107116",
+          "paragraph" : "§ 17",
+          "title" : "Besonderer Versorgungsfreibetrag"
+        },
+        {
+          "documentIdentifier" : "BJNR109330974BJNE003203301",
+          "paragraph" : "§ 18",
+          "title" : "Mitgliederbeiträge"
+        },
+        {
+          "documentIdentifier" : "BJNR109330974BJNE003308116",
+          "paragraph" : "§ 19",
+          "title" : "Steuersätze"
+        },
+        {
+          "documentIdentifier" : "BJNR109330974BJNE005608123",
+          "paragraph" : "§ 19a",
+          "title" : "Tarifbegrenzung beim Erwerb von Betriebsvermögen, von Betrieben der Land- und Forstwirtschaft und von Anteilen an Kapitalgesellschaften"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Berechnung der Steuer"
+    },
+    {
+      "documentIdentifier" : "BJNR109330974BJNG000503140",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR109330974BJNE003405140",
+          "paragraph" : "§ 20",
+          "title" : "Steuerschuldner"
+        },
+        {
+          "documentIdentifier" : "BJNR109330974BJNE003504116",
+          "paragraph" : "§ 21",
+          "title" : "Anrechnung ausländischer Erbschaftsteuer"
+        },
+        {
+          "documentIdentifier" : "BJNR109330974BJNE003603301",
+          "paragraph" : "§ 22",
+          "title" : "Kleinbetragsgrenze"
+        },
+        {
+          "documentIdentifier" : "BJNR109330974BJNE003702301",
+          "paragraph" : "§ 23",
+          "title" : "Besteuerung von Renten, Nutzungen und Leistungen"
+        },
+        {
+          "documentIdentifier" : "BJNR109330974BJNE003803140",
+          "paragraph" : "§ 24",
+          "title" : "Verrentung der Steuerschuld in den Fällen des § 1 Abs. 1 Nr. 4"
+        },
+        {
+          "documentIdentifier" : "BJNR109330974BJNE003903140",
+          "paragraph" : "§ 25",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR109330974BJNE004003140",
+          "paragraph" : "§ 26",
+          "title" : "Ermäßigung der Steuer bei Aufhebung einer Familienstiftung oder Auflösung eines Vereins"
+        },
+        {
+          "documentIdentifier" : "BJNR109330974BJNE004104140",
+          "paragraph" : "§ 27",
+          "title" : "Mehrfacher Erwerb desselben Vermögens"
+        },
+        {
+          "documentIdentifier" : "BJNR109330974BJNE004207123",
+          "paragraph" : "§ 28",
+          "title" : "Stundung"
+        },
+        {
+          "documentIdentifier" : "BJNR109330974BJNE006101123",
+          "paragraph" : "§ 28a",
+          "title" : "Verschonungsbedarfsprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR109330974BJNE004308140",
+          "paragraph" : "§ 29",
+          "title" : "Erlöschen der Steuer in besonderen Fällen"
+        },
+        {
+          "documentIdentifier" : "BJNR109330974BJNE004405116",
+          "paragraph" : "§ 30",
+          "title" : "Anzeige des Erwerbs"
+        },
+        {
+          "documentIdentifier" : "BJNR109330974BJNE004503140",
+          "paragraph" : "§ 31",
+          "title" : "Steuererklärung"
+        },
+        {
+          "documentIdentifier" : "BJNR109330974BJNE004603140",
+          "paragraph" : "§ 32",
+          "title" : "Bekanntgabe des Steuerbescheides an Vertreter"
+        },
+        {
+          "documentIdentifier" : "BJNR109330974BJNE004703301",
+          "paragraph" : "§ 33",
+          "title" : "Anzeigepflicht der Vermögensverwahrer,\nVermögensverwalter und Versicherungsunternehmen"
+        },
+        {
+          "documentIdentifier" : "BJNR109330974BJNE004804116",
+          "paragraph" : "§ 34",
+          "title" : "Anzeigepflicht der Gerichte, Behörden, Beamten und Notare"
+        },
+        {
+          "documentIdentifier" : "BJNR109330974BJNE004905116",
+          "paragraph" : "§ 35",
+          "title" : "Örtliche Zuständigkeit"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Steuerfestsetzung und Erhebung"
+    },
+    {
+      "documentIdentifier" : "BJNR109330974BJNG000603140",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR109330974BJNE005004301",
+          "paragraph" : "§ 36",
+          "title" : "Ermächtigungen"
+        },
+        {
+          "documentIdentifier" : "BJNR109330974BJNE005134123",
+          "paragraph" : "§ 37",
+          "title" : "Anwendung des Gesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR109330974BJNE005404140",
+          "paragraph" : "§ 37a",
+          "title" : "Sondervorschriften aus Anlass der Herstellung der Einheit Deutschlands"
+        },
+        {
+          "documentIdentifier" : "BJNR109330974BJNE005203301",
+          "paragraph" : "§ 38",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR109330974BJNE005303301",
+          "paragraph" : "§ 39",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Ermächtigungs- und Schlussvorschriften"
+    }
+  ]
+}

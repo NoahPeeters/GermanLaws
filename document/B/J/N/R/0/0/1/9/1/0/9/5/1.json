@@ -1,0 +1,354 @@
+{
+  "documentIdentifier" : "BJNR001910951",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR001910951BJNG000100311",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR001910951BJNE001300311",
+          "paragraph" : "§ 1",
+          "title" : "Geltungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR001910951BJNE001405119",
+          "paragraph" : "§ 2",
+          "title" : "Begriffe"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR001910951BJNG000200311",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR001910951BJNE001502308",
+          "paragraph" : "§ 3",
+          "title" : "Zuständige Arbeitsbehörde"
+        },
+        {
+          "documentIdentifier" : "BJNR001910951BJNE001601119",
+          "paragraph" : "§ 4",
+          "title" : "Heimarbeitsausschüsse"
+        },
+        {
+          "documentIdentifier" : "BJNR001910951BJNE001700311",
+          "paragraph" : "§ 5",
+          "title" : "Beisitzer"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Zuständige Arbeitsbehörde, Heimarbeitsausschüsse"
+    },
+    {
+      "documentIdentifier" : "BJNR001910951BJNG000300311",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR001910951BJNE001801126",
+          "paragraph" : "§ 6",
+          "title" : "Listenführung"
+        },
+        {
+          "documentIdentifier" : "BJNR001910951BJNE001901126",
+          "paragraph" : "§ 7",
+          "title" : "Mitteilungspflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR001910951BJNE002000311",
+          "paragraph" : "§ 7a",
+          "title" : "Unterrichtungspflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR001910951BJNE002100311",
+          "paragraph" : "§ 8",
+          "title" : "Entgeltverzeichnisse"
+        },
+        {
+          "documentIdentifier" : "BJNR001910951BJNE002200311",
+          "paragraph" : "§ 9",
+          "title" : "Entgeltbelege"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Schutzvorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR001910951BJNG000400311",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR001910951BJNE002300311",
+          "paragraph" : "§ 10",
+          "title" : "Schutz vor Zeitversäumnis"
+        },
+        {
+          "documentIdentifier" : "BJNR001910951BJNE002401308",
+          "paragraph" : "§ 11",
+          "title" : "Verteilung der Heimarbeit"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Arbeitszeitschutz"
+    },
+    {
+      "documentIdentifier" : "BJNR001910951BJNG000500311",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR001910951BJNE002500311",
+          "paragraph" : "§ 12",
+          "title" : "Grundsätze des Gefahrenschutzes"
+        },
+        {
+          "documentIdentifier" : "BJNR001910951BJNE002600311",
+          "paragraph" : "§ 13",
+          "title" : "Arbeitsschutz"
+        },
+        {
+          "documentIdentifier" : "BJNR001910951BJNE002700311",
+          "paragraph" : "§ 14",
+          "title" : "Schutz der öffentlichen Gesundheit"
+        },
+        {
+          "documentIdentifier" : "BJNR001910951BJNE002800311",
+          "paragraph" : "§ 15",
+          "title" : "Anzeigepflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR001910951BJNE003000311",
+          "paragraph" : "§ 16a",
+          "title" : "Anordnungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gefahrenschutz (Arbeitsschutz und öffentlicher Gesundheitsschutz)"
+    },
+    {
+      "documentIdentifier" : "BJNR001910951BJNG000600311",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR001910951BJNE003100311",
+          "paragraph" : "§ 17",
+          "title" : "Tarifverträge, Entgeltregelungen"
+        },
+        {
+          "documentIdentifier" : "BJNR001910951BJNE003200311",
+          "paragraph" : "§ 18",
+          "title" : "Aufgaben des Heimarbeitsausschusses auf dem Gebiet der\nEntgeltregelung"
+        },
+        {
+          "documentIdentifier" : "BJNR001910951BJNE003303308",
+          "paragraph" : "§ 19",
+          "title" : "Bindende Festsetzungen"
+        },
+        {
+          "documentIdentifier" : "BJNR001910951BJNE003400311",
+          "paragraph" : "§ 20",
+          "title" : "Art der Entgelte"
+        },
+        {
+          "documentIdentifier" : "BJNR001910951BJNE003500311",
+          "paragraph" : "§ 21",
+          "title" : "Entgeltregelung für Zwischenmeister, Mithaftung des\nAuftraggebers"
+        },
+        {
+          "documentIdentifier" : "BJNR001910951BJNE003600311",
+          "paragraph" : "§ 22",
+          "title" : "Mindestarbeitsbedingungen für fremde Hilfskräfte"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Entgeltregelung"
+    },
+    {
+      "documentIdentifier" : "BJNR001910951BJNG000700311",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR001910951BJNE003700311",
+          "paragraph" : "§ 23",
+          "title" : "Entgeltprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR001910951BJNE003800311",
+          "paragraph" : "§ 24",
+          "title" : "Aufforderung zur Nachzahlung der Minderbeträge"
+        },
+        {
+          "documentIdentifier" : "BJNR001910951BJNE003900311",
+          "paragraph" : "§ 25",
+          "title" : "Klagebefugnis der Länder"
+        },
+        {
+          "documentIdentifier" : "BJNR001910951BJNE004000311",
+          "paragraph" : "§ 26",
+          "title" : "Entgeltschutz für fremde Hilfskräfte"
+        },
+        {
+          "documentIdentifier" : "BJNR001910951BJNE004100311",
+          "paragraph" : "§ 27",
+          "title" : "Pfändungsschutz"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Entgeltschutz"
+    },
+    {
+      "documentIdentifier" : "BJNR001910951BJNG000800311",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          8
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Auskunfts- und Aufklärungspflicht über Entgelte"
+    },
+    {
+      "documentIdentifier" : "BJNR001910951BJNG000900311",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR001910951BJNE004302126",
+          "paragraph" : "§ 29",
+          "title" : "Allgemeiner Kündigungsschutz"
+        },
+        {
+          "documentIdentifier" : "BJNR001910951BJNE004401308",
+          "paragraph" : "§ 29a",
+          "title" : "Kündigungsschutz im Rahmen der Betriebsverfassung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          9
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Kündigung"
+    },
+    {
+      "documentIdentifier" : "BJNR001910951BJNG001000311",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR001910951BJNE004500311",
+          "paragraph" : "§ 30",
+          "title" : "Verbot der Ausgabe von Heimarbeit"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          10
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Ausgabeverbot"
+    },
+    {
+      "documentIdentifier" : "BJNR001910951BJNG001100311",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR001910951BJNE004600311",
+          "paragraph" : "§ 31",
+          "title" : "Ausgabe verbotener Heimarbeit"
+        },
+        {
+          "documentIdentifier" : "BJNR001910951BJNE004701308",
+          "paragraph" : "§ 32",
+          "title" : "Straftaten und Ordnungswidrigkeiten im Bereich des Arbeits- und Gefahrenschutzes"
+        },
+        {
+          "documentIdentifier" : "BJNR001910951BJNE004801308",
+          "paragraph" : "§ 32a",
+          "title" : "Sonstige Ordnungswidrigkeiten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          11
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Straftaten und Ordnungswidrigkeiten"
+    },
+    {
+      "documentIdentifier" : "BJNR001910951BJNG001200311",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR001910951BJNE004902308",
+          "paragraph" : "§ 33",
+          "title" : "Durchführungsvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR001910951BJNE005000311",
+          "paragraph" : "§ 34",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          12
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlußvorschriften"
+    }
+  ]
+}

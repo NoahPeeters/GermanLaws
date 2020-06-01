@@ -1,0 +1,59 @@
+{
+  "documentIdentifier" : "BJNR168500013",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR168500013Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR168500013BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Zuständigkeit nach dem Lebensmittel- und Futtermittelgesetzbuch"
+        },
+        {
+          "documentIdentifier" : "BJNR168500013BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Zuständigkeit nach dem Tierschutzgesetz"
+        },
+        {
+          "documentIdentifier" : "BJNR168500013BJNE000401360",
+          "paragraph" : "§ 3",
+          "title" : "Zuständigkeit nach dem Tiergesundheitsgesetz"
+        },
+        {
+          "documentIdentifier" : "BJNR168500013BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Zuständigkeit nach dem Tierische Nebenprodukte-Beseitigungsgesetz"
+        },
+        {
+          "documentIdentifier" : "BJNR168500013BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Zuständigkeit nach dem Infektionsschutzgesetz"
+        },
+        {
+          "documentIdentifier" : "BJNR168500013BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Zuständigkeit nach dem Medizinproduktegesetz"
+        },
+        {
+          "documentIdentifier" : "BJNR168500013BJNE000900360",
+          "paragraph" : "§ 7",
+          "title" : "Zuständigkeit nach der Trinkwasserverordnung"
+        },
+        {
+          "documentIdentifier" : "BJNR168500013BJNE000801360",
+          "paragraph" : "§ 8",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

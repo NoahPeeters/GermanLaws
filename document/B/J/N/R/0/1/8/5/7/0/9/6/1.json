@@ -1,0 +1,138 @@
+{
+  "documentIdentifier" : "BJNR018570961",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR018570961BJNG000101307",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Der ärztliche Beruf"
+    },
+    {
+      "documentIdentifier" : "BJNR018570961BJNG000201307",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Die Approbation"
+    },
+    {
+      "documentIdentifier" : "BJNR018570961BJNG000301307",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Die Erlaubnis"
+    },
+    {
+      "documentIdentifier" : "BJNR018570961BJNG000402308",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Erbringen von Dienstleistungen"
+    },
+    {
+      "documentIdentifier" : "BJNR018570961BJNG000501307",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gebührenordnung"
+    },
+    {
+      "documentIdentifier" : "BJNR018570961BJNG000601307",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Zuständigkeiten"
+    },
+    {
+      "documentIdentifier" : "BJNR018570961BJNG000701307",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR018570961BJNE002402307",
+          "paragraph" : "§ 13",
+          "title" : "VII Straf- und Bußgeldvorschriften"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Strafvorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR018570961BJNG000801307",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR018570961BJNE002802301",
+          "paragraph" : "§ 15",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR018570961BJNE003008360",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 3 Abs. 1 Satz 2)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          8
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übergangs- und Schlußvorschriften"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR022380991",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR022380991Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR022380991BJNE000201305",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR022380991BJNE000300307",
+          "paragraph" : "§ 2",
+          "title" : "Höhe der Leistungen"
+        },
+        {
+          "documentIdentifier" : "BJNR022380991BJNE000400307",
+          "paragraph" : "§ 3",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

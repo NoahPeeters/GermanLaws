@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR024710992",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR024710992Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR024710992BJNE000203301",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR024710992BJNE000305301",
+          "paragraph" : "§ 2",
+          "title" : "Gebührenberechnung"
+        },
+        {
+          "documentIdentifier" : "BJNR024710992BJNE000402301",
+          "paragraph" : "§ 3",
+          "title" : "Gebührenerhebung in besonderen Fällen"
+        },
+        {
+          "documentIdentifier" : "BJNR024710992BJNE000504301",
+          "paragraph" : "§ 4",
+          "title" : "Auslagen"
+        },
+        {
+          "documentIdentifier" : "BJNR024710992BJNE000602301",
+          "paragraph" : "§ 5",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR024710992BJNE000903301",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 2)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

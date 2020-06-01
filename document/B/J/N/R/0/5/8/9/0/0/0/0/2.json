@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR058900002",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR058900002Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR058900002BJNE000200305",
+          "paragraph" : "§ 1",
+          "title" : "Gestaltung des Öko-Kennzeichens"
+        },
+        {
+          "documentIdentifier" : "BJNR058900002BJNE000300305",
+          "paragraph" : "§ 2",
+          "title" : "Verwendung des Öko-Kennzeichens"
+        },
+        {
+          "documentIdentifier" : "BJNR058900002BJNE000401377",
+          "paragraph" : "§ 3",
+          "title" : "Anzeigepflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR058900002BJNE000500305",
+          "paragraph" : "§ 4",
+          "title" : "Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR058900002BJNE000600305",
+          "paragraph" : "§ 5",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR058900002BJNE000800305",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 1 Abs. 1)\n"
+        },
+        {
+          "documentIdentifier" : "BJNR058900002BJNE000901377",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 3 Abs. 1)\n"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

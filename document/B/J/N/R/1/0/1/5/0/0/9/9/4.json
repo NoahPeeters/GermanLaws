@@ -1,0 +1,1832 @@
+{
+  "documentIdentifier" : "BJNR101500994",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR101500994BJNG000100307",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR101500994BJNE004304126",
+          "paragraph" : "§ 1",
+          "title" : "Soziale Pflegeversicherung"
+        },
+        {
+          "documentIdentifier" : "BJNR101500994BJNE004402301",
+          "paragraph" : "§ 2",
+          "title" : "Selbstbestimmung"
+        },
+        {
+          "documentIdentifier" : "BJNR101500994BJNE004500307",
+          "paragraph" : "§ 3",
+          "title" : "Vorrang der häuslichen Pflege"
+        },
+        {
+          "documentIdentifier" : "BJNR101500994BJNE004602301",
+          "paragraph" : "§ 4",
+          "title" : "Art und Umfang der Leistungen"
+        },
+        {
+          "documentIdentifier" : "BJNR101500994BJNE004703119",
+          "paragraph" : "§ 5",
+          "title" : "Prävention in Pflegeeinrichtungen, Vorrang von Prävention und medizinischer Rehabilitation"
+        },
+        {
+          "documentIdentifier" : "BJNR101500994BJNE004801308",
+          "paragraph" : "§ 6",
+          "title" : "Eigenverantwortung"
+        },
+        {
+          "documentIdentifier" : "BJNR101500994BJNE004909126",
+          "paragraph" : "§ 7",
+          "title" : "Aufklärung, Auskunft"
+        },
+        {
+          "documentIdentifier" : "BJNR101500994BJNE019007126",
+          "paragraph" : "§ 7a",
+          "title" : "Pflegeberatung"
+        },
+        {
+          "documentIdentifier" : "BJNR101500994BJNE020103126",
+          "paragraph" : "§ 7b",
+          "title" : "Beratungsgutscheine"
+        },
+        {
+          "documentIdentifier" : "BJNR101500994BJNE022802126",
+          "paragraph" : "§ 7c",
+          "title" : "Pflegestützpunkte, Verordnungsermächtigung"
+        },
+        {
+          "documentIdentifier" : "BJNR101500994BJNE005011126",
+          "paragraph" : "§ 8",
+          "title" : "Gemeinsame Verantwortung"
+        },
+        {
+          "documentIdentifier" : "BJNR101500994BJNE022901360",
+          "paragraph" : "§ 8a",
+          "title" : "Gemeinsame Empfehlungen zur pflegerischen Versorgung"
+        },
+        {
+          "documentIdentifier" : "BJNR101500994BJNE005101308",
+          "paragraph" : "§ 9",
+          "title" : "Aufgaben der Länder"
+        },
+        {
+          "documentIdentifier" : "BJNR101500994BJNE005210126",
+          "paragraph" : "§ 10",
+          "title" : "Berichtspflichten des Bundes und der Länder"
+        },
+        {
+          "documentIdentifier" : "BJNR101500994BJNE005301308",
+          "paragraph" : "§ 11",
+          "title" : "Rechte und Pflichten der Pflegeeinrichtungen"
+        },
+        {
+          "documentIdentifier" : "BJNR101500994BJNE005404301",
+          "paragraph" : "§ 12",
+          "title" : "Aufgaben der Pflegekassen"
+        },
+        {
+          "documentIdentifier" : "BJNR101500994BJNE005509119",
+          "paragraph" : "§ 13",
+          "title" : "Verhältnis der Leistungen der Pflegeversicherung zu anderen Sozialleistungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR101500994BJNG000200307",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR101500994BJNE005601301",
+          "paragraph" : "§ 14",
+          "title" : "Begriff der Pflegebedürftigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR101500994BJNE005705126",
+          "paragraph" : "§ 15",
+          "title" : "Ermittlung des Grades der Pflegebedürftigkeit, Begutachtungsinstrument"
+        },
+        {
+          "documentIdentifier" : "BJNR101500994BJNE005806301",
+          "paragraph" : "§ 16",
+          "title" : "Verordnungsermächtigung"
+        },
+        {
+          "documentIdentifier" : "BJNR101500994BJNE005912126",
+          "paragraph" : "§ 17",
+          "title" : "Richtlinien des Medizinischen Dienstes Bund; Richtlinien der Pflegekassen"
+        },
+        {
+          "documentIdentifier" : "BJNR101500994BJNE022702301",
+          "paragraph" : "§ 17a",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR101500994BJNE006015126",
+          "paragraph" : "§ 18",
+          "title" : "Verfahren zur Feststellung der Pflegebedürftigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR101500994BJNE020204126",
+          "paragraph" : "§ 18a",
+          "title" : "Weiterleitung der Rehabilitationsempfehlung, Berichtspflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR101500994BJNE020301126",
+          "paragraph" : "§ 18b",
+          "title" : "Dienstleistungsorientierung im Begutachtungsverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR101500994BJNE023001126",
+          "paragraph" : "§ 18c",
+          "title" : "Fachliche und wissenschaftliche Begleitung der Umstellung des Verfahrens zur Feststellung der Pflegebedürftigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR101500994BJNE006103301",
+          "paragraph" : "§ 19",
+          "title" : "Begriff der Pflegepersonen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Leistungsberechtigter Personenkreis"
+    },
+    {
+      "documentIdentifier" : "BJNR101500994BJNG000300307",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR101500994BJNE006223126",
+          "paragraph" : "§ 20",
+          "title" : "Versicherungspflicht in der sozialen Pflegeversicherung für Mitglieder der gesetzlichen Krankenversicherung"
+        },
+        {
+          "documentIdentifier" : "BJNR101500994BJNE006300307",
+          "paragraph" : "§ 21",
+          "title" : "Versicherungspflicht in der sozialen Pflegeversicherung\nfür sonstige Personen"
+        },
+        {
+          "documentIdentifier" : "BJNR101500994BJNE006401301",
+          "paragraph" : "§ 22",
+          "title" : "Befreiung von der Versicherungspflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR101500994BJNE006507301",
+          "paragraph" : "§ 23",
+          "title" : "Versicherungspflicht für Versicherte der privaten Krankenversicherungsunternehmen"
+        },
+        {
+          "documentIdentifier" : "BJNR101500994BJNE006600307",
+          "paragraph" : "§ 24",
+          "title" : "Versicherungspflicht der Abgeordneten"
+        },
+        {
+          "documentIdentifier" : "BJNR101500994BJNE006721126",
+          "paragraph" : "§ 25",
+          "title" : "Familienversicherung"
+        },
+        {
+          "documentIdentifier" : "BJNR101500994BJNE006801301",
+          "paragraph" : "§ 26",
+          "title" : "Weiterversicherung"
+        },
+        {
+          "documentIdentifier" : "BJNR101500994BJNE018001308",
+          "paragraph" : "§ 26a",
+          "title" : "Beitrittsrecht"
+        },
+        {
+          "documentIdentifier" : "BJNR101500994BJNE006903308",
+          "paragraph" : "§ 27",
+          "title" : "Kündigung eines privaten Pflegeversicherungsvertrages"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Versicherungspflichtiger Personenkreis"
+    },
+    {
+      "documentIdentifier" : "BJNR101500994BJNG000400307",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR101500994BJNG000500307",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR101500994BJNE007013126",
+              "paragraph" : "§ 28",
+              "title" : "Leistungsarten, Grundsätze"
+            },
+            {
+              "documentIdentifier" : "BJNR101500994BJNE023601360",
+              "paragraph" : "§ 28a",
+              "title" : "Leistungen bei Pflegegrad 1"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Übersicht über die Leistungen"
+        },
+        {
+          "documentIdentifier" : "BJNR101500994BJNG000600307",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR101500994BJNE007100307",
+              "paragraph" : "§ 29",
+              "title" : "Wirtschaftlichkeitsgebot"
+            },
+            {
+              "documentIdentifier" : "BJNR101500994BJNE007205126",
+              "paragraph" : "§ 30",
+              "title" : "Dynamisierung, Verordnungsermächtigung"
+            },
+            {
+              "documentIdentifier" : "BJNR101500994BJNE007303126",
+              "paragraph" : "§ 31",
+              "title" : "Vorrang der Rehabilitation vor Pflege"
+            },
+            {
+              "documentIdentifier" : "BJNR101500994BJNE007401308",
+              "paragraph" : "§ 32",
+              "title" : "Vorläufige Leistungen zur medizinischen Rehabilitation"
+            },
+            {
+              "documentIdentifier" : "BJNR101500994BJNE007506126",
+              "paragraph" : "§ 33",
+              "title" : "Leistungsvoraussetzungen"
+            },
+            {
+              "documentIdentifier" : "BJNR101500994BJNE018800308",
+              "paragraph" : "§ 33a",
+              "title" : "Leistungsausschluss"
+            },
+            {
+              "documentIdentifier" : "BJNR101500994BJNE007609360",
+              "paragraph" : "§ 34",
+              "title" : "Ruhen der Leistungsansprüche"
+            },
+            {
+              "documentIdentifier" : "BJNR101500994BJNE007701308",
+              "paragraph" : "§ 35",
+              "title" : "Erlöschen der Leistungsansprüche"
+            },
+            {
+              "documentIdentifier" : "BJNR101500994BJNE018701119",
+              "paragraph" : "§ 35a",
+              "title" : "Teilnahme an einem Persönlichen Budget nach § 29 des Neunten Buches"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Gemeinsame Vorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR101500994BJNG000700307",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4,
+              3
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR101500994BJNG000800307",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR101500994BJNE007907360",
+                  "paragraph" : "§ 36",
+                  "title" : "Pflegesachleistung"
+                },
+                {
+                  "documentIdentifier" : "BJNR101500994BJNE008013124",
+                  "paragraph" : "§ 37",
+                  "title" : "Pflegegeld für selbst beschaffte Pflegehilfen"
+                },
+                {
+                  "documentIdentifier" : "BJNR101500994BJNE008104301",
+                  "paragraph" : "§ 38",
+                  "title" : "Kombination von Geldleistung und Sachleistung (Kombinationsleistung)"
+                },
+                {
+                  "documentIdentifier" : "BJNR101500994BJNE020406126",
+                  "paragraph" : "§ 38a",
+                  "title" : "Zusätzliche Leistungen für Pflegebedürftige in ambulant betreuten Wohngruppen"
+                },
+                {
+                  "documentIdentifier" : "BJNR101500994BJNE008207301",
+                  "paragraph" : "§ 39",
+                  "title" : "Häusliche Pflege bei Verhinderung der Pflegeperson"
+                },
+                {
+                  "documentIdentifier" : "BJNR101500994BJNE008311119",
+                  "paragraph" : "§ 40",
+                  "title" : "Pflegehilfsmittel und wohnumfeldverbessernde Maßnahmen"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  4,
+                  3,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Leistungen bei häuslicher Pflege"
+            },
+            {
+              "documentIdentifier" : "BJNR101500994BJNG000900307",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR101500994BJNE008411301",
+                  "paragraph" : "§ 41",
+                  "title" : "Tagespflege und Nachtpflege"
+                },
+                {
+                  "documentIdentifier" : "BJNR101500994BJNE008512301",
+                  "paragraph" : "§ 42",
+                  "title" : "Kurzzeitpflege"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  4,
+                  3,
+                  2
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Teilstationäre Pflege und Kurzzeitpflege"
+            },
+            {
+              "documentIdentifier" : "BJNR101500994BJNG001000307",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR101500994BJNE008711360",
+                  "paragraph" : "§ 43",
+                  "title" : "Inhalt der Leistung"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  4,
+                  3,
+                  3
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Vollstationäre Pflege"
+            },
+            {
+              "documentIdentifier" : "BJNR101500994BJNG004102360",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR101500994BJNE016207360",
+                  "paragraph" : "§ 43a",
+                  "title" : "Inhalt der Leistung"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  4,
+                  3,
+                  4
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Pauschalleistung für die Pflege von Menschen mit Behinderungen"
+            },
+            {
+              "documentIdentifier" : "BJNR101500994BJNG005100301",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR101500994BJNE023700301",
+                  "paragraph" : "§ 43b",
+                  "title" : "Inhalt der Leistung"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  4,
+                  3,
+                  5
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Zusätzliche Betreuung und Aktivierung in stationären Pflegeeinrichtungen"
+            }
+          ],
+          "title" : "Leistungen"
+        },
+        {
+          "documentIdentifier" : "BJNR101500994BJNG001100307",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR101500994BJNE008915126",
+              "paragraph" : "§ 44",
+              "title" : "Leistungen zur sozialen Sicherung der Pflegepersonen"
+            },
+            {
+              "documentIdentifier" : "BJNR101500994BJNE019105119",
+              "paragraph" : "§ 44a",
+              "title" : "Zusätzliche Leistungen bei Pflegezeit und kurzzeitiger Arbeitsverhinderung"
+            },
+            {
+              "documentIdentifier" : "BJNR101500994BJNE009004301",
+              "paragraph" : "§ 45",
+              "title" : "Pflegekurse für Angehörige und ehrenamtliche Pflegepersonen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Leistungen für Pflegepersonen"
+        },
+        {
+          "documentIdentifier" : "BJNR101500994BJNG004403301",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR101500994BJNE018206126",
+              "paragraph" : "§ 45a",
+              "title" : "Angebote zur Unterstützung im Alltag, Umwandlung des ambulanten Sachleistungsbetrags (Umwandlungsanspruch), Verordnungsermächtigung"
+            },
+            {
+              "documentIdentifier" : "BJNR101500994BJNE018305126",
+              "paragraph" : "§ 45b",
+              "title" : "Entlastungsbetrag"
+            },
+            {
+              "documentIdentifier" : "BJNR101500994BJNE018408126",
+              "paragraph" : "§ 45c",
+              "title" : "Förderung der Weiterentwicklung der Versorgungsstrukturen und des Ehrenamts, Verordnungsermächtigung"
+            },
+            {
+              "documentIdentifier" : "BJNR101500994BJNE019204126",
+              "paragraph" : "§ 45d",
+              "title" : "Förderung der Selbsthilfe, Verordnungsermächtigung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4,
+              5
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Angebote zur Unterstützung im Alltag, Entlastungsbetrag, Förderung der Weiterentwicklung der Versorgungsstrukturen und des Ehrenamts sowie der Selbsthilfe"
+        },
+        {
+          "documentIdentifier" : "BJNR101500994BJNG004600308",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR101500994BJNE020502126",
+              "paragraph" : "§ 45e",
+              "title" : "Anschubfinanzierung zur Gründung von ambulant betreuten Wohngruppen"
+            },
+            {
+              "documentIdentifier" : "BJNR101500994BJNE020600308",
+              "paragraph" : "§ 45f",
+              "title" : "Weiterentwicklung neuer Wohnformen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4,
+              6
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Initiativprogramm zur Förderung neuer Wohnformen"
+        }
+      ],
+      "title" : "Leistungen der Pflegeversicherung"
+    },
+    {
+      "documentIdentifier" : "BJNR101500994BJNG001200307",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR101500994BJNG001300307",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR101500994BJNE009219126",
+              "paragraph" : "§ 46",
+              "title" : "Pflegekassen"
+            },
+            {
+              "documentIdentifier" : "BJNR101500994BJNE009303308",
+              "paragraph" : "§ 47",
+              "title" : "Satzung"
+            },
+            {
+              "documentIdentifier" : "BJNR101500994BJNE018604126",
+              "paragraph" : "§ 47a",
+              "title" : "Stellen zur Bekämpfung von Fehlverhalten im Gesundheitswesen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              5,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Träger der Pflegeversicherung"
+        },
+        {
+          "documentIdentifier" : "BJNR101500994BJNG001400307",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR101500994BJNE009500307",
+              "paragraph" : "§ 48",
+              "title" : "Zuständigkeit für Versicherte einer Krankenkasse\nund sonstige Versicherte"
+            },
+            {
+              "documentIdentifier" : "BJNR101500994BJNE009603308",
+              "paragraph" : "§ 49",
+              "title" : "Mitgliedschaft"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              5,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Zuständigkeit, Mitgliedschaft"
+        },
+        {
+          "documentIdentifier" : "BJNR101500994BJNG001500307",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR101500994BJNE009701308",
+              "paragraph" : "§ 50",
+              "title" : "Melde- und Auskunftspflichten bei Mitgliedern der\nsozialen Pflegeversicherung"
+            },
+            {
+              "documentIdentifier" : "BJNR101500994BJNE009802126",
+              "paragraph" : "§ 51",
+              "title" : "Meldungen bei Mitgliedern der privaten Pflegeversicherung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              5,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Meldungen"
+        },
+        {
+          "documentIdentifier" : "BJNR101500994BJNG001600307",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR101500994BJNE009906308",
+              "paragraph" : "§ 52",
+              "title" : "Aufgaben auf Landesebene"
+            },
+            {
+              "documentIdentifier" : "BJNR101500994BJNE010004308",
+              "paragraph" : "§ 53",
+              "title" : "Aufgaben auf Bundesebene"
+            },
+            {
+              "documentIdentifier" : "BJNR101500994BJNE020702126",
+              "paragraph" : "§ 53a",
+              "title" : "Beauftragung von anderen unabhängigen Gutachtern durch die Pflegekassen im Verfahren zur Feststellung der Pflegebedürftigkeit"
+            },
+            {
+              "documentIdentifier" : "BJNR101500994BJNE023801126",
+              "paragraph" : "§ 53b",
+              "title" : "Richtlinien zur Qualifikation und zu den Aufgaben zusätzlicher Betreuungskräfte"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              5,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Wahrnehmung der Verbandsaufgaben"
+        },
+        {
+          "documentIdentifier" : "BJNR101500994BJNG005600126",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR101500994BJNE025400126",
+              "paragraph" : "§ 53c",
+              "title" : "Medizinische Dienste, Medizinischer Dienst Bund, Übergangsregelung"
+            },
+            {
+              "documentIdentifier" : "BJNR101500994BJNE025500126",
+              "paragraph" : "§ 53d",
+              "title" : "Aufgaben des Medizinischen Dienstes Bund"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              5,
+              5
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Medizinische Dienste, Medizinischer Dienst Bund"
+        }
+      ],
+      "title" : "Organisation"
+    },
+    {
+      "documentIdentifier" : "BJNR101500994BJNG001700307",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR101500994BJNG001800307",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR101500994BJNE010200307",
+              "paragraph" : "§ 54",
+              "title" : "Grundsatz"
+            },
+            {
+              "documentIdentifier" : "BJNR101500994BJNE010311126",
+              "paragraph" : "§ 55",
+              "title" : "Beitragssatz, Beitragsbemessungsgrenze"
+            },
+            {
+              "documentIdentifier" : "BJNR101500994BJNE010407126",
+              "paragraph" : "§ 56",
+              "title" : "Beitragsfreiheit"
+            },
+            {
+              "documentIdentifier" : "BJNR101500994BJNE010529126",
+              "paragraph" : "§ 57",
+              "title" : "Beitragspflichtige Einnahmen"
+            },
+            {
+              "documentIdentifier" : "BJNR101500994BJNE010610126",
+              "paragraph" : "§ 58",
+              "title" : "Tragung der Beiträge bei versicherungspflichtig Beschäftigten"
+            },
+            {
+              "documentIdentifier" : "BJNR101500994BJNE010714126",
+              "paragraph" : "§ 59",
+              "title" : "Beitragstragung bei anderen Mitgliedern"
+            },
+            {
+              "documentIdentifier" : "BJNR101500994BJNE010816126",
+              "paragraph" : "§ 60",
+              "title" : "Beitragszahlung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              6,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Beiträge"
+        },
+        {
+          "documentIdentifier" : "BJNR101500994BJNG001900307",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR101500994BJNE010910308",
+              "paragraph" : "§ 61",
+              "title" : "Beitragszuschüsse für freiwillige Mitglieder der gesetzlichen Krankenversicherung und Privatversicherte"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              6,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Beitragszuschüsse"
+        },
+        {
+          "documentIdentifier" : "BJNR101500994BJNG002000307",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR101500994BJNE011000307",
+              "paragraph" : "§ 62",
+              "title" : "Mittel der Pflegekasse"
+            },
+            {
+              "documentIdentifier" : "BJNR101500994BJNE011100307",
+              "paragraph" : "§ 63",
+              "title" : "Betriebsmittel"
+            },
+            {
+              "documentIdentifier" : "BJNR101500994BJNE011200307",
+              "paragraph" : "§ 64",
+              "title" : "Rücklage"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              6,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Verwendung und Verwaltung der Mittel"
+        },
+        {
+          "documentIdentifier" : "BJNR101500994BJNG002100307",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR101500994BJNE011303126",
+              "paragraph" : "§ 65",
+              "title" : "Ausgleichsfonds"
+            },
+            {
+              "documentIdentifier" : "BJNR101500994BJNE011403126",
+              "paragraph" : "§ 66",
+              "title" : "Finanzausgleich"
+            },
+            {
+              "documentIdentifier" : "BJNR101500994BJNE011502126",
+              "paragraph" : "§ 67",
+              "title" : "Monatlicher Ausgleich"
+            },
+            {
+              "documentIdentifier" : "BJNR101500994BJNE011605126",
+              "paragraph" : "§ 68",
+              "title" : "Jahresausgleich"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              6,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Ausgleichsfonds, Finanzausgleich"
+        }
+      ],
+      "title" : "Finanzierung"
+    },
+    {
+      "documentIdentifier" : "BJNR101500994BJNG002200307",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR101500994BJNG002300307",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR101500994BJNE011702308",
+              "paragraph" : "§ 69",
+              "title" : "Sicherstellungsauftrag"
+            },
+            {
+              "documentIdentifier" : "BJNR101500994BJNE011800307",
+              "paragraph" : "§ 70",
+              "title" : "Beitragssatzstabilität"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              7,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Allgemeine Grundsätze"
+        },
+        {
+          "documentIdentifier" : "BJNR101500994BJNG002400307",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR101500994BJNE011912124",
+              "paragraph" : "§ 71",
+              "title" : "Pflegeeinrichtungen"
+            },
+            {
+              "documentIdentifier" : "BJNR101500994BJNE012006124",
+              "paragraph" : "§ 72",
+              "title" : "Zulassung zur Pflege durch Versorgungsvertrag"
+            },
+            {
+              "documentIdentifier" : "BJNR101500994BJNE012101308",
+              "paragraph" : "§ 73",
+              "title" : "Abschluß von Versorgungsverträgen"
+            },
+            {
+              "documentIdentifier" : "BJNR101500994BJNE012201308",
+              "paragraph" : "§ 74",
+              "title" : "Kündigung von Versorgungsverträgen"
+            },
+            {
+              "documentIdentifier" : "BJNR101500994BJNE012309126",
+              "paragraph" : "§ 75",
+              "title" : "Rahmenverträge, Bundesempfehlungen und -vereinbarungen über die pflegerische Versorgung"
+            },
+            {
+              "documentIdentifier" : "BJNR101500994BJNE012401308",
+              "paragraph" : "§ 76",
+              "title" : "Schiedsstelle"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              7,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Beziehungen zu den Pflegeeinrichtungen"
+        },
+        {
+          "documentIdentifier" : "BJNR101500994BJNG002500307",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR101500994BJNE012504301",
+              "paragraph" : "§ 77",
+              "title" : "Häusliche Pflege durch Einzelpersonen"
+            },
+            {
+              "documentIdentifier" : "BJNR101500994BJNE012609126",
+              "paragraph" : "§ 78",
+              "title" : "Verträge über Pflegehilfsmittel"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              7,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Beziehungen zu sonstigen Leistungserbringern"
+        },
+        {
+          "documentIdentifier" : "BJNR101500994BJNG002601119",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR101500994BJNE012702360",
+              "paragraph" : "§ 79",
+              "title" : "Wirtschaftlichkeits- und Abrechnungsprüfungen"
+            },
+            {
+              "documentIdentifier" : "BJNR101500994BJNE012805308",
+              "paragraph" : "§ 80",
+              "title" : "(weggefallen)"
+            },
+            {
+              "documentIdentifier" : "BJNR101500994BJNE016602308",
+              "paragraph" : "§ 80a",
+              "title" : "(weggefallen)"
+            },
+            {
+              "documentIdentifier" : "BJNR101500994BJNE012904308",
+              "paragraph" : "§ 81",
+              "title" : "Verfahrensregelungen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              7,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Wirtschaftlichkeitsprüfungen"
+        }
+      ],
+      "title" : "Beziehungen der Pflegekassen zu den Leistungserbringern"
+    },
+    {
+      "documentIdentifier" : "BJNR101500994BJNG002700307",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          8
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR101500994BJNG002800307",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR101500994BJNE013006301",
+              "paragraph" : "§ 82",
+              "title" : "Finanzierung der Pflegeeinrichtungen"
+            },
+            {
+              "documentIdentifier" : "BJNR101500994BJNE016502308",
+              "paragraph" : "§ 82a",
+              "title" : "Ausbildungsvergütung"
+            },
+            {
+              "documentIdentifier" : "BJNR101500994BJNE019601308",
+              "paragraph" : "§ 82b",
+              "title" : "Ehrenamtliche Unterstützung"
+            },
+            {
+              "documentIdentifier" : "BJNR101500994BJNE013101308",
+              "paragraph" : "§ 83",
+              "title" : "Verordnung zur Regelung der Pflegevergütung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              8,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Allgemeine Vorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR101500994BJNG002900307",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR101500994BJNE013208360",
+              "paragraph" : "§ 84",
+              "title" : "Bemessungsgrundsätze"
+            },
+            {
+              "documentIdentifier" : "BJNR101500994BJNE013306360",
+              "paragraph" : "§ 85",
+              "title" : "Pflegesatzverfahren"
+            },
+            {
+              "documentIdentifier" : "BJNR101500994BJNE013401308",
+              "paragraph" : "§ 86",
+              "title" : "Pflegesatzkommission"
+            },
+            {
+              "documentIdentifier" : "BJNR101500994BJNE013501308",
+              "paragraph" : "§ 87",
+              "title" : "Unterkunft und Verpflegung"
+            },
+            {
+              "documentIdentifier" : "BJNR101500994BJNE016705301",
+              "paragraph" : "§ 87a",
+              "title" : "Berechnung und Zahlung des Heimentgelts"
+            },
+            {
+              "documentIdentifier" : "BJNR101500994BJNE019704301",
+              "paragraph" : "§ 87b",
+              "title" : "(weggefallen)"
+            },
+            {
+              "documentIdentifier" : "BJNR101500994BJNE013600307",
+              "paragraph" : "§ 88",
+              "title" : "Zusatzleistungen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              8,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Vergütung der stationären Pflegeleistungen"
+        },
+        {
+          "documentIdentifier" : "BJNR101500994BJNG003000307",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR101500994BJNE013707126",
+              "paragraph" : "§ 89",
+              "title" : "Grundsätze für die Vergütungsregelung"
+            },
+            {
+              "documentIdentifier" : "BJNR101500994BJNE013805301",
+              "paragraph" : "§ 90",
+              "title" : "Gebührenordnung für ambulante Pflegeleistungen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              8,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Vergütung der ambulanten Pflegeleistungen"
+        },
+        {
+          "documentIdentifier" : "BJNR101500994BJNG003102301",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR101500994BJNE013900307",
+              "paragraph" : "§ 91",
+              "title" : "Kostenerstattung"
+            },
+            {
+              "documentIdentifier" : "BJNR101500994BJNE014002301",
+              "paragraph" : "§ 92",
+              "title" : "(weggefallen)"
+            },
+            {
+              "documentIdentifier" : "BJNR101500994BJNE016803126",
+              "paragraph" : "§ 92a",
+              "title" : "Pflegeheimvergleich"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              8,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Kostenerstattung, Pflegeheimvergleich"
+        },
+        {
+          "documentIdentifier" : "BJNR101500994BJNG004502301",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR101500994BJNE018901119",
+              "paragraph" : "§ 92b",
+              "title" : "Integrierte Versorgung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              8,
+              5
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Integrierte Versorgung"
+        },
+        {
+          "documentIdentifier" : "BJNR101500994BJNG005000301",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              8,
+              6
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "(weggefallen)"
+        }
+      ],
+      "title" : "Pflegevergütung"
+    },
+    {
+      "documentIdentifier" : "BJNR101500994BJNG003200307",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          9
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR101500994BJNG003300307",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              9,
+              1
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR101500994BJNG003401126",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR101500994BJNE014101126",
+                  "paragraph" : "§ 93",
+                  "title" : "Anzuwendende Vorschriften"
+                },
+                {
+                  "documentIdentifier" : "BJNR101500994BJNE014212126",
+                  "paragraph" : "§ 94",
+                  "title" : "Personenbezogene Daten bei den Pflegekassen"
+                },
+                {
+                  "documentIdentifier" : "BJNR101500994BJNE014305126",
+                  "paragraph" : "§ 95",
+                  "title" : "Personenbezogene Daten bei den Verbänden der Pflegekassen"
+                },
+                {
+                  "documentIdentifier" : "BJNR101500994BJNE014402126",
+                  "paragraph" : "§ 96",
+                  "title" : "Gemeinsame Verarbeitung personenbezogener Daten"
+                },
+                {
+                  "documentIdentifier" : "BJNR101500994BJNE014506126",
+                  "paragraph" : "§ 97",
+                  "title" : "Personenbezogene Daten beim Medizinischen Dienst"
+                },
+                {
+                  "documentIdentifier" : "BJNR101500994BJNE016903126",
+                  "paragraph" : "§ 97a",
+                  "title" : "Qualitätssicherung durch Sachverständige"
+                },
+                {
+                  "documentIdentifier" : "BJNR101500994BJNE017003126",
+                  "paragraph" : "§ 97b",
+                  "title" : "Personenbezogene Daten bei den nach heimrechtlichen Vorschriften zuständigen Aufsichtsbehörden und den Trägern der Sozialhilfe"
+                },
+                {
+                  "documentIdentifier" : "BJNR101500994BJNE019900308",
+                  "paragraph" : "§ 97c",
+                  "title" : "Qualitätssicherung durch den Prüfdienst des Verbandes der privaten Krankenversicherung e. V."
+                },
+                {
+                  "documentIdentifier" : "BJNR101500994BJNE020802126",
+                  "paragraph" : "§ 97d",
+                  "title" : "Begutachtung durch unabhängige Gutachter"
+                },
+                {
+                  "documentIdentifier" : "BJNR101500994BJNE014600307",
+                  "paragraph" : "§ 98",
+                  "title" : "Forschungsvorhaben"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  9,
+                  1,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Grundsätze der Datenverarbeitung"
+            },
+            {
+              "documentIdentifier" : "BJNR101500994BJNG003500307",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR101500994BJNE014700307",
+                  "paragraph" : "§ 99",
+                  "title" : "Versichertenverzeichnis"
+                },
+                {
+                  "documentIdentifier" : "BJNR101500994BJNE014800307",
+                  "paragraph" : "§ 100",
+                  "title" : "Nachweispflicht bei Familienversicherung"
+                },
+                {
+                  "documentIdentifier" : "BJNR101500994BJNE014900307",
+                  "paragraph" : "§ 101",
+                  "title" : "Pflegeversichertennummer"
+                },
+                {
+                  "documentIdentifier" : "BJNR101500994BJNE015001126",
+                  "paragraph" : "§ 102",
+                  "title" : "Angaben über Leistungsvoraussetzungen"
+                },
+                {
+                  "documentIdentifier" : "BJNR101500994BJNE015100307",
+                  "paragraph" : "§ 103",
+                  "title" : "Kennzeichen für Leistungsträger und Leistungserbringer"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  9,
+                  1,
+                  2
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Informationsgrundlagen der Pflegekassen"
+            }
+          ],
+          "title" : "Informationsgrundlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR101500994BJNG003600307",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR101500994BJNE015204126",
+              "paragraph" : "§ 104",
+              "title" : "Pflichten der Leistungserbringer"
+            },
+            {
+              "documentIdentifier" : "BJNR101500994BJNE015303119",
+              "paragraph" : "§ 105",
+              "title" : "Abrechnung pflegerischer Leistungen"
+            },
+            {
+              "documentIdentifier" : "BJNR101500994BJNE015400307",
+              "paragraph" : "§ 106",
+              "title" : "Abweichende Vereinbarungen"
+            },
+            {
+              "documentIdentifier" : "BJNR101500994BJNE016407126",
+              "paragraph" : "§ 106a",
+              "title" : "Mitteilungspflichten"
+            },
+            {
+              "documentIdentifier" : "BJNR101500994BJNE025300126",
+              "paragraph" : "§ 106b",
+              "title" : "Finanzierung der Einbindung der Pflegeeinrichtungen in die Telematikinfrastruktur"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              9,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Übermittlung von Leistungsdaten"
+        },
+        {
+          "documentIdentifier" : "BJNR101500994BJNG003700307",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR101500994BJNE015503126",
+              "paragraph" : "§ 107",
+              "title" : "Löschen von Daten"
+            },
+            {
+              "documentIdentifier" : "BJNR101500994BJNE015602126",
+              "paragraph" : "§ 108",
+              "title" : "Auskünfte an Versicherte"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              9,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Datenlöschung, Auskunftspflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR101500994BJNG003800307",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR101500994BJNE015805360",
+              "paragraph" : "§ 109",
+              "title" : "Pflegestatistiken"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              9,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Statistik"
+        }
+      ],
+      "title" : "Datenschutz und Statistik"
+    },
+    {
+      "documentIdentifier" : "BJNR101500994BJNG003900307",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR101500994BJNE015907119",
+          "paragraph" : "§ 110",
+          "title" : "Regelungen für die private Pflegeversicherung"
+        },
+        {
+          "documentIdentifier" : "BJNR101500994BJNE016003126",
+          "paragraph" : "§ 111",
+          "title" : "Risikoausgleich"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          10
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Private Pflegeversicherung"
+    },
+    {
+      "documentIdentifier" : "BJNR101500994BJNG004200308",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR101500994BJNE017104126",
+          "paragraph" : "§ 112",
+          "title" : "Qualitätsverantwortung"
+        },
+        {
+          "documentIdentifier" : "BJNR101500994BJNE025201126",
+          "paragraph" : "§ 112a",
+          "title" : "Übergangsregelung zur Qualitätssicherung bei Betreuungsdiensten"
+        },
+        {
+          "documentIdentifier" : "BJNR101500994BJNE017207126",
+          "paragraph" : "§ 113",
+          "title" : "Maßstäbe und Grundsätze zur Sicherung und Weiterentwicklung der Pflegequalität"
+        },
+        {
+          "documentIdentifier" : "BJNR101500994BJNE019304126",
+          "paragraph" : "§ 113a",
+          "title" : "Expertenstandards zur Sicherung und Weiterentwicklung der Qualität in der Pflege"
+        },
+        {
+          "documentIdentifier" : "BJNR101500994BJNE019408126",
+          "paragraph" : "§ 113b",
+          "title" : "Qualitätsausschuss"
+        },
+        {
+          "documentIdentifier" : "BJNR101500994BJNE023403126",
+          "paragraph" : "§ 113c",
+          "title" : "Personalbemessung in Pflegeeinrichtungen"
+        },
+        {
+          "documentIdentifier" : "BJNR101500994BJNE017312126",
+          "paragraph" : "§ 114",
+          "title" : "Qualitätsprüfungen"
+        },
+        {
+          "documentIdentifier" : "BJNR101500994BJNE019510126",
+          "paragraph" : "§ 114a",
+          "title" : "Durchführung der Qualitätsprüfungen"
+        },
+        {
+          "documentIdentifier" : "BJNR101500994BJNE025001126",
+          "paragraph" : "§ 114b",
+          "title" : "Erhebung und Übermittlung von indikatorenbezogenen Daten zur vergleichenden Messung und Darstellung von Ergebnisqualität in vollstationären Pflegeeinrichtungen"
+        },
+        {
+          "documentIdentifier" : "BJNR101500994BJNE025102126",
+          "paragraph" : "§ 114c",
+          "title" : "Richtlinien zur Verlängerung des Prüfrhythmus in vollstationären Einrichtungen bei guter Qualität und zur Veranlassung unangemeldeter Prüfungen; Berichtspflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR101500994BJNE017412126",
+          "paragraph" : "§ 115",
+          "title" : "Ergebnisse von Qualitätsprüfungen, Qualitätsdarstellung, Vergütungskürzung"
+        },
+        {
+          "documentIdentifier" : "BJNR101500994BJNE023501126",
+          "paragraph" : "§ 115a",
+          "title" : "Übergangsregelung für Pflege-Transparenzvereinbarungen und Qualitätsprüfungs-Richtlinien"
+        },
+        {
+          "documentIdentifier" : "BJNR101500994BJNE017501308",
+          "paragraph" : "§ 116",
+          "title" : "Kostenregelungen"
+        },
+        {
+          "documentIdentifier" : "BJNR101500994BJNE017607126",
+          "paragraph" : "§ 117",
+          "title" : "Zusammenarbeit mit den nach heimrechtlichen Vorschriften zuständigen Aufsichtsbehörden"
+        },
+        {
+          "documentIdentifier" : "BJNR101500994BJNE017710126",
+          "paragraph" : "§ 118",
+          "title" : "Beteiligung von Interessenvertretungen, Verordnungsermächtigung"
+        },
+        {
+          "documentIdentifier" : "BJNR101500994BJNE017801308",
+          "paragraph" : "§ 119",
+          "title" : "Verträge mit Pflegeheimen außerhalb des Anwendungsbereichs des Wohn- und Betreuungsvertragsgesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR101500994BJNE017906124",
+          "paragraph" : "§ 120",
+          "title" : "Pflegevertrag bei häuslicher Pflege"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          11
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Qualitätssicherung, Sonstige Regelungen zum Schutz der Pflegebedürftigen"
+    },
+    {
+      "documentIdentifier" : "BJNR101500994BJNG004001308",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR101500994BJNE016107126",
+          "paragraph" : "§ 121",
+          "title" : "Bußgeldvorschrift"
+        },
+        {
+          "documentIdentifier" : "BJNR101500994BJNE018503301",
+          "paragraph" : "§ 122",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          12
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Bußgeldvorschrift"
+    },
+    {
+      "documentIdentifier" : "BJNR101500994BJNG005500360",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR101500994BJNE020905126",
+          "paragraph" : "§ 123",
+          "title" : "Durchführung der Modellvorhaben zur kommunalen Beratung Pflegebedürftiger und ihrer Angehörigen, Verordnungsermächtigung"
+        },
+        {
+          "documentIdentifier" : "BJNR101500994BJNE021004126",
+          "paragraph" : "§ 124",
+          "title" : "Befristung, Widerruf und Begleitung der Modellvorhaben zur kommunalen Beratung; Beirat"
+        },
+        {
+          "documentIdentifier" : "BJNR101500994BJNE021103126",
+          "paragraph" : "§ 125",
+          "title" : "Modellvorhaben zur Einbindung der Pflegeeinrichtungen in die Telematikinfrastruktur"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          13
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Befristete Modellvorhaben"
+    },
+    {
+      "documentIdentifier" : "BJNR101500994BJNG004701360",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR101500994BJNE021201301",
+          "paragraph" : "§ 126",
+          "title" : "Zulageberechtigte"
+        },
+        {
+          "documentIdentifier" : "BJNR101500994BJNE021302301",
+          "paragraph" : "§ 127",
+          "title" : "Pflegevorsorgezulage; Fördervoraussetzungen"
+        },
+        {
+          "documentIdentifier" : "BJNR101500994BJNE021401126",
+          "paragraph" : "§ 128",
+          "title" : "Verfahren; Haftung des Versicherungsunternehmens"
+        },
+        {
+          "documentIdentifier" : "BJNR101500994BJNE021500308",
+          "paragraph" : "§ 129",
+          "title" : "Wartezeit bei förderfähigen Pflege-Zusatzversicherungen"
+        },
+        {
+          "documentIdentifier" : "BJNR101500994BJNE021600308",
+          "paragraph" : "§ 130",
+          "title" : "Verordnungsermächtigung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          14
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Zulagenförderung der privaten Pflegevorsorge"
+    },
+    {
+      "documentIdentifier" : "BJNR101500994BJNG004801360",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR101500994BJNE021800119",
+          "paragraph" : "§ 131",
+          "title" : "Pflegevorsorgefonds"
+        },
+        {
+          "documentIdentifier" : "BJNR101500994BJNE021900119",
+          "paragraph" : "§ 132",
+          "title" : "Zweck des Vorsorgefonds"
+        },
+        {
+          "documentIdentifier" : "BJNR101500994BJNE022001126",
+          "paragraph" : "§ 133",
+          "title" : "Rechtsform und Vertretung in gerichtlichen Verfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR101500994BJNE022101360",
+          "paragraph" : "§ 134",
+          "title" : "Verwaltung und Anlage der Mittel"
+        },
+        {
+          "documentIdentifier" : "BJNR101500994BJNE022202126",
+          "paragraph" : "§ 135",
+          "title" : "Zuführung der Mittel"
+        },
+        {
+          "documentIdentifier" : "BJNR101500994BJNE022301126",
+          "paragraph" : "§ 136",
+          "title" : "Verwendung des Sondervermögens"
+        },
+        {
+          "documentIdentifier" : "BJNR101500994BJNE022400119",
+          "paragraph" : "§ 137",
+          "title" : "Vermögenstrennung"
+        },
+        {
+          "documentIdentifier" : "BJNR101500994BJNE022500119",
+          "paragraph" : "§ 138",
+          "title" : "Jahresrechnung"
+        },
+        {
+          "documentIdentifier" : "BJNR101500994BJNE022600119",
+          "paragraph" : "§ 139",
+          "title" : "Auflösung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          15
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Bildung eines Pflegevorsorgefonds"
+    },
+    {
+      "documentIdentifier" : "BJNR101500994BJNG005201360",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          16
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR101500994BJNG005301360",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR101500994BJNE023900301",
+              "paragraph" : "§ 140",
+              "title" : "Anzuwendendes Recht und Überleitung in die Pflegegrade"
+            },
+            {
+              "documentIdentifier" : "BJNR101500994BJNE024001360",
+              "paragraph" : "§ 141",
+              "title" : "Besitzstandsschutz und Übergangsrecht zur sozialen Sicherung von Pflegepersonen"
+            },
+            {
+              "documentIdentifier" : "BJNR101500994BJNE024101126",
+              "paragraph" : "§ 142",
+              "title" : "Übergangsregelungen im Begutachtungsverfahren"
+            },
+            {
+              "documentIdentifier" : "BJNR101500994BJNE024200301",
+              "paragraph" : "§ 143",
+              "title" : "Sonderanpassungsrecht für die Allgemeinen Versicherungsbedingungen und die technischen Berechnungsgrundlagen privater Pflegeversicherungsverträge"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              16,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Regelungen zur Rechtsanwendung im Übergangszeitraum, zur Überleitung in die Pflegegrade, zum Besitzstandsschutz für Leistungen der Pflegeversicherung sowie Übergangsregelungen im Begutachtungsverfahren im Rahmen der Einführung des neuen Pflegebedürftigkeitsbegriffs"
+        },
+        {
+          "documentIdentifier" : "BJNR101500994BJNG005401360",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR101500994BJNE024301360",
+              "paragraph" : "§ 144",
+              "title" : "Überleitungs- und Übergangsregelungen, Verordnungsermächtigung"
+            },
+            {
+              "documentIdentifier" : "BJNR101500994BJNE024600360",
+              "paragraph" : "§ 145",
+              "title" : "Besitzstandsschutz für pflegebedürftige Menschen mit Behinderungen in häuslicher Pflege"
+            },
+            {
+              "documentIdentifier" : "BJNR101500994BJNE024900126",
+              "paragraph" : "§ 146",
+              "title" : "Übergangs- und Überleitungsregelung zur Beratung nach § 37 Absatz 3"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              16,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Sonstige Überleitungs-, Übergangs- und Besitzstandsschutzregelungen"
+        },
+        {
+          "documentIdentifier" : "BJNR101500994BJNG005700126",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR101500994BJNE025600126",
+              "paragraph" : "§ 147",
+              "title" : "Verfahren zur Feststellung der Pflegebedürftigkeit nach § 18"
+            },
+            {
+              "documentIdentifier" : "BJNR101500994BJNE025700126",
+              "paragraph" : "§ 148",
+              "title" : "Beratungsbesuche nach § 37"
+            },
+            {
+              "documentIdentifier" : "BJNR101500994BJNE025800126",
+              "paragraph" : "§ 149",
+              "title" : "Einrichtungen zur Inanspruchnahme von Kurzzeitpflege"
+            },
+            {
+              "documentIdentifier" : "BJNR101500994BJNE025900126",
+              "paragraph" : "§ 150",
+              "title" : "Sicherstellung der pflegerischen Versorgung, Kostenerstattung für Pflegeeinrichtungen und Pflegebedürftige"
+            },
+            {
+              "documentIdentifier" : "BJNR101500994BJNE026000126",
+              "paragraph" : "§ 151",
+              "title" : "Qualitätsprüfungen nach § 114"
+            },
+            {
+              "documentIdentifier" : "BJNR101500994BJNE026100126",
+              "paragraph" : "§ 152",
+              "title" : "Verordnungsermächtigung"
+            },
+            {
+              "documentIdentifier" : "BJNR101500994BJNE024401360",
+              "paragraph" : "Anlage 1",
+              "title" : "(zu § 15)"
+            },
+            {
+              "documentIdentifier" : "BJNR101500994BJNE024500301",
+              "paragraph" : "Anlage 2",
+              "title" : "(zu § 15) "
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              16,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Maßnahmen zur Aufrechterhaltung der pflegerischen Versorgung während der durch das neuartige Coronavirus SARS-CoV-2 verursachten Pandemie"
+        }
+      ],
+      "title" : "Überleitungs- und Übergangsrecht"
+    }
+  ]
+}

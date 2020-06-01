@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR026250977",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR026250977Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR026250977BJNE000201301",
+          "paragraph" : "§ 1",
+          "title" : "Vordrucke"
+        },
+        {
+          "documentIdentifier" : "BJNR026250977BJNE001003311",
+          "paragraph" : "§ 1a",
+          "title" : "Beschriftung mittels Schreibprogramm"
+        },
+        {
+          "documentIdentifier" : "BJNR026250977BJNE000305311",
+          "paragraph" : "§ 2",
+          "title" : "Angaben bei Verbraucherdarlehen und -finanzierungshilfen"
+        },
+        {
+          "documentIdentifier" : "BJNR026250977BJNE001103311",
+          "paragraph" : "§ 2a",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR026250977BJNE000400303",
+          "paragraph" : "§ 3",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

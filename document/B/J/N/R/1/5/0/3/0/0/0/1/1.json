@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR150300011",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR150300011Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR150300011BJNE000201116",
+          "paragraph" : "§ 1",
+          "title" : "Durchführungsumfang"
+        },
+        {
+          "documentIdentifier" : "BJNR150300011BJNE000301116",
+          "paragraph" : "§ 2",
+          "title" : "Erreichbarkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR150300011BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

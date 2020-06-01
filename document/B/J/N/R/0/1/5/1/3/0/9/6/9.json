@@ -1,0 +1,737 @@
+{
+  "documentIdentifier" : "BJNR015130969",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR015130969BJNG000100666",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR015130969BJNE002301307",
+          "paragraph" : "§ 1",
+          "title" : "Geltungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR015130969BJNE002400666",
+          "paragraph" : "§ 2",
+          "title" : "Überschreiten des Amtsbezirks"
+        },
+        {
+          "documentIdentifier" : "BJNR015130969BJNE002506125",
+          "paragraph" : "§ 3",
+          "title" : "Verbot der Mitwirkung als Notar"
+        },
+        {
+          "documentIdentifier" : "BJNR015130969BJNE002600666",
+          "paragraph" : "§ 4",
+          "title" : "Ablehnung der Beurkundung"
+        },
+        {
+          "documentIdentifier" : "BJNR015130969BJNE002700666",
+          "paragraph" : "§ 5",
+          "title" : "Urkundensprache"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR015130969BJNG000200666",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR015130969BJNG000300666",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR015130969BJNE002801320",
+              "paragraph" : "§ 6",
+              "title" : "Ausschließungsgründe"
+            },
+            {
+              "documentIdentifier" : "BJNR015130969BJNE002901320",
+              "paragraph" : "§ 7",
+              "title" : "Beurkundungen zugunsten des Notars oder seiner Angehörigen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Ausschließung des Notars"
+        },
+        {
+          "documentIdentifier" : "BJNR015130969BJNG000400666",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR015130969BJNE003000666",
+              "paragraph" : "§ 8",
+              "title" : "Grundsatz"
+            },
+            {
+              "documentIdentifier" : "BJNR015130969BJNE003101666",
+              "paragraph" : "§ 9",
+              "title" : "Inhalt der Niederschrift"
+            },
+            {
+              "documentIdentifier" : "BJNR015130969BJNE003201311",
+              "paragraph" : "§ 10",
+              "title" : "Feststellung der Beteiligten"
+            },
+            {
+              "documentIdentifier" : "BJNR015130969BJNE003300666",
+              "paragraph" : "§ 11",
+              "title" : "Feststellungen über die Geschäftsfähigkeit"
+            },
+            {
+              "documentIdentifier" : "BJNR015130969BJNE003400666",
+              "paragraph" : "§ 12",
+              "title" : "Nachweise für die Vertretungsberechtigung"
+            },
+            {
+              "documentIdentifier" : "BJNR015130969BJNE003501666",
+              "paragraph" : "§ 13",
+              "title" : "Vorlesen, Genehmigen, Unterschreiben"
+            },
+            {
+              "documentIdentifier" : "BJNR015130969BJNE009500301",
+              "paragraph" : "§ 13a",
+              "title" : "Eingeschränkte Beifügungs- und Vorlesungspflicht"
+            },
+            {
+              "documentIdentifier" : "BJNR015130969BJNE003601307",
+              "paragraph" : "§ 14",
+              "title" : "Eingeschränkte Vorlesungspflicht"
+            },
+            {
+              "documentIdentifier" : "BJNR015130969BJNE003700666",
+              "paragraph" : "§ 15",
+              "title" : "Versteigerungen"
+            },
+            {
+              "documentIdentifier" : "BJNR015130969BJNE003800666",
+              "paragraph" : "§ 16",
+              "title" : "Übersetzung der Niederschrift"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Niederschrift"
+        },
+        {
+          "documentIdentifier" : "BJNR015130969BJNG000500666",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR015130969BJNE003903311",
+              "paragraph" : "§ 17",
+              "title" : "Grundsatz"
+            },
+            {
+              "documentIdentifier" : "BJNR015130969BJNE004000666",
+              "paragraph" : "§ 18",
+              "title" : "Genehmigungserfordernisse"
+            },
+            {
+              "documentIdentifier" : "BJNR015130969BJNE004101310",
+              "paragraph" : "§ 19",
+              "title" : "Unbedenklichkeitsbescheinigung"
+            },
+            {
+              "documentIdentifier" : "BJNR015130969BJNE004200666",
+              "paragraph" : "§ 20",
+              "title" : "Gesetzliches Vorkaufsrecht"
+            },
+            {
+              "documentIdentifier" : "BJNR015130969BJNE010201160",
+              "paragraph" : "§ 20a",
+              "title" : "Vorsorgevollmacht"
+            },
+            {
+              "documentIdentifier" : "BJNR015130969BJNE004300666",
+              "paragraph" : "§ 21",
+              "title" : "Grundbucheinsicht, Briefvorlage"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Prüfungs- und Belehrungspflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR015130969BJNG000600666",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR015130969BJNE004401301",
+              "paragraph" : "§ 22",
+              "title" : "Hörbehinderte, sprachbehinderte und sehbehinderte Beteiligte"
+            },
+            {
+              "documentIdentifier" : "BJNR015130969BJNE004501301",
+              "paragraph" : "§ 23",
+              "title" : "Besonderheiten für hörbehinderte Beteiligte"
+            },
+            {
+              "documentIdentifier" : "BJNR015130969BJNE004601301",
+              "paragraph" : "§ 24",
+              "title" : "Besonderheiten für hör- und sprachbehinderte Beteiligte, mit denen eine\nschriftliche Verständigung nicht möglich ist"
+            },
+            {
+              "documentIdentifier" : "BJNR015130969BJNE004700666",
+              "paragraph" : "§ 25",
+              "title" : "Schreibunfähige"
+            },
+            {
+              "documentIdentifier" : "BJNR015130969BJNE004801320",
+              "paragraph" : "§ 26",
+              "title" : "Verbot der Mitwirkung als Zeuge oder zweiter Notar"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Beteiligung behinderter Personen"
+        },
+        {
+          "documentIdentifier" : "BJNR015130969BJNG000700666",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR015130969BJNE004900666",
+              "paragraph" : "§ 27",
+              "title" : "Begünstigte Personen"
+            },
+            {
+              "documentIdentifier" : "BJNR015130969BJNE005000666",
+              "paragraph" : "§ 28",
+              "title" : "Feststellungen über die Geschäftsfähigkeit"
+            },
+            {
+              "documentIdentifier" : "BJNR015130969BJNE005100666",
+              "paragraph" : "§ 29",
+              "title" : "Zeugen, zweiter Notar"
+            },
+            {
+              "documentIdentifier" : "BJNR015130969BJNE005200666",
+              "paragraph" : "§ 30",
+              "title" : "Übergabe einer Schrift"
+            },
+            {
+              "documentIdentifier" : "BJNR015130969BJNE005301301",
+              "paragraph" : "§ 31",
+              "title" : "(weggefallen)"
+            },
+            {
+              "documentIdentifier" : "BJNR015130969BJNE005400666",
+              "paragraph" : "§ 32",
+              "title" : "Sprachunkundige"
+            },
+            {
+              "documentIdentifier" : "BJNR015130969BJNE005501301",
+              "paragraph" : "§ 33",
+              "title" : "Besonderheiten beim Erbvertrag"
+            },
+            {
+              "documentIdentifier" : "BJNR015130969BJNE005603301",
+              "paragraph" : "§ 34",
+              "title" : "Verschließung, Verwahrung"
+            },
+            {
+              "documentIdentifier" : "BJNR015130969BJNE010402311",
+              "paragraph" : "§ 34a",
+              "title" : "Mitteilungs- und Ablieferungspflichten"
+            },
+            {
+              "documentIdentifier" : "BJNR015130969BJNE005700666",
+              "paragraph" : "§ 35",
+              "title" : "Niederschrift ohne Unterschrift des Notars"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              5
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Besonderheiten für Verfügungen von Todes wegen"
+        }
+      ],
+      "title" : "Beurkundung von Willenserklärungen"
+    },
+    {
+      "documentIdentifier" : "BJNR015130969BJNG000800666",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR015130969BJNG000900666",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR015130969BJNE005800666",
+              "paragraph" : "§ 36",
+              "title" : "Grundsatz"
+            },
+            {
+              "documentIdentifier" : "BJNR015130969BJNE005901666",
+              "paragraph" : "§ 37",
+              "title" : "Inhalt der Niederschrift"
+            },
+            {
+              "documentIdentifier" : "BJNR015130969BJNE006000666",
+              "paragraph" : "§ 38",
+              "title" : "Eide, eidesstattliche Versicherungen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Niederschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR015130969BJNG001000666",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR015130969BJNE006101307",
+              "paragraph" : "§ 39",
+              "title" : "Einfache Zeugnisse"
+            },
+            {
+              "documentIdentifier" : "BJNR015130969BJNE010301311",
+              "paragraph" : "§ 39a",
+              "title" : "Einfache elektronische Zeugnisse"
+            },
+            {
+              "documentIdentifier" : "BJNR015130969BJNE006201311",
+              "paragraph" : "§ 40",
+              "title" : "Beglaubigung einer Unterschrift"
+            },
+            {
+              "documentIdentifier" : "BJNR015130969BJNE006302311",
+              "paragraph" : "§ 41",
+              "title" : "Beglaubigung der Zeichnung einer Firma oder Namensunterschrift"
+            },
+            {
+              "documentIdentifier" : "BJNR015130969BJNE006402311",
+              "paragraph" : "§ 42",
+              "title" : "Beglaubigung einer Abschrift"
+            },
+            {
+              "documentIdentifier" : "BJNR015130969BJNE006500666",
+              "paragraph" : "§ 43",
+              "title" : "Feststellung des Zeitpunktes der Vorlegung einer privaten Urkunde"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Vermerke"
+        }
+      ],
+      "title" : "Sonstige Beurkundungen"
+    },
+    {
+      "documentIdentifier" : "BJNR015130969BJNG001100666",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR015130969BJNE006601666",
+          "paragraph" : "§ 44",
+          "title" : "Verbindung mit Schnur und Prägesiegel"
+        },
+        {
+          "documentIdentifier" : "BJNR015130969BJNE009600307",
+          "paragraph" : "§ 44a",
+          "title" : "Änderungen in den Urkunden"
+        },
+        {
+          "documentIdentifier" : "BJNR015130969BJNE006701307",
+          "paragraph" : "§ 45",
+          "title" : "Aushändigung der Urschrift"
+        },
+        {
+          "documentIdentifier" : "BJNR015130969BJNE006800666",
+          "paragraph" : "§ 46",
+          "title" : "Ersetzung der Urschrift"
+        },
+        {
+          "documentIdentifier" : "BJNR015130969BJNE006900666",
+          "paragraph" : "§ 47",
+          "title" : "Ausfertigung"
+        },
+        {
+          "documentIdentifier" : "BJNR015130969BJNE007000666",
+          "paragraph" : "§ 48",
+          "title" : "Zuständigkeit für die Erteilung der Ausfertigung"
+        },
+        {
+          "documentIdentifier" : "BJNR015130969BJNE007100666",
+          "paragraph" : "§ 49",
+          "title" : "Form der Ausfertigung"
+        },
+        {
+          "documentIdentifier" : "BJNR015130969BJNE007200666",
+          "paragraph" : "§ 50",
+          "title" : "Übersetzungen"
+        },
+        {
+          "documentIdentifier" : "BJNR015130969BJNE007300666",
+          "paragraph" : "§ 51",
+          "title" : "Recht auf Ausfertigungen, Abschriften und Einsicht"
+        },
+        {
+          "documentIdentifier" : "BJNR015130969BJNE007400666",
+          "paragraph" : "§ 52",
+          "title" : "Vollstreckbare Ausfertigungen"
+        },
+        {
+          "documentIdentifier" : "BJNR015130969BJNE007500666",
+          "paragraph" : "§ 53",
+          "title" : "Einreichung beim Grundbuchamt oder Registergericht"
+        },
+        {
+          "documentIdentifier" : "BJNR015130969BJNE007601160",
+          "paragraph" : "§ 54",
+          "title" : "Rechtsmittel"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Behandlung der Urkunden"
+    },
+    {
+      "documentIdentifier" : "BJNR015130969BJNG002400311",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR015130969BJNE010700311",
+          "paragraph" : "§ 55",
+          "title" : "(zukünftig in Kraft)"
+        },
+        {
+          "documentIdentifier" : "BJNR015130969BJNE010800311",
+          "paragraph" : "§ 56",
+          "title" : "(zukünftig in Kraft)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "(zukünftig in Kraft)"
+    },
+    {
+      "documentIdentifier" : "BJNR015130969BJNG002301311",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR015130969BJNE009701311",
+          "paragraph" : "§ 57",
+          "title" : "Antrag auf Verwahrung"
+        },
+        {
+          "documentIdentifier" : "BJNR015130969BJNE009804311",
+          "paragraph" : "§ 58",
+          "title" : "Durchführung der Verwahrung"
+        },
+        {
+          "documentIdentifier" : "BJNR015130969BJNE010900311",
+          "paragraph" : "§ 59",
+          "title" : "Verordnungsermächtigung"
+        },
+        {
+          "documentIdentifier" : "BJNR015130969BJNE009901311",
+          "paragraph" : "§ 60",
+          "title" : "Widerruf"
+        },
+        {
+          "documentIdentifier" : "BJNR015130969BJNE010001311",
+          "paragraph" : "§ 61",
+          "title" : "Absehen von Auszahlung"
+        },
+        {
+          "documentIdentifier" : "BJNR015130969BJNE010101311",
+          "paragraph" : "§ 62",
+          "title" : "Verwahrung von Wertpapieren und Kostbarkeiten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Verwahrung"
+    },
+    {
+      "documentIdentifier" : "BJNR015130969BJNG001202311",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR015130969BJNG001302311",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              7,
+              1
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR015130969BJNG001402311",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR015130969BJNE007802311",
+                  "paragraph" : "§ 63",
+                  "title" : "Beseitigung von Doppelzuständigkeiten"
+                },
+                {
+                  "documentIdentifier" : "BJNR015130969BJNE008002311",
+                  "paragraph" : "§ 64",
+                  "title" : "Beurkundungen nach dem Personenstandsgesetz"
+                },
+                {
+                  "documentIdentifier" : "BJNR015130969BJNE008101311",
+                  "paragraph" : "§ 65",
+                  "title" : "Unberührt bleibendes Bundesrecht"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  7,
+                  1,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Bundesrecht"
+            },
+            {
+              "documentIdentifier" : "BJNR015130969BJNG001502311",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR015130969BJNE008304311",
+                  "paragraph" : "§ 66",
+                  "title" : "Unberührt bleibendes Landesrecht"
+                },
+                {
+                  "documentIdentifier" : "BJNR015130969BJNE008405311",
+                  "paragraph" : "§ 67",
+                  "title" : "Zuständigkeit der Amtsgerichte, Zustellung"
+                },
+                {
+                  "documentIdentifier" : "BJNR015130969BJNE008605310",
+                  "paragraph" : "§ 69",
+                  "title" : "(weggefallen)"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  7,
+                  1,
+                  2
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Landesrecht"
+            },
+            {
+              "documentIdentifier" : "BJNR015130969BJNG001602311",
+              "laws" : [
+
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  7,
+                  1,
+                  3
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Amtliche Beglaubigungen"
+            },
+            {
+              "documentIdentifier" : "BJNR015130969BJNG001702311",
+              "laws" : [
+
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  7,
+                  1,
+                  4
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Eidesstattliche Versicherungen in Verwaltungsverfahren"
+            },
+            {
+              "documentIdentifier" : "BJNR015130969BJNG001802311",
+              "laws" : [
+
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  7,
+                  1,
+                  5
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Erklärungen juristischer Personen des öffentlichen Rechts"
+            },
+            {
+              "documentIdentifier" : "BJNR015130969BJNG001902311",
+              "laws" : [
+
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  7,
+                  1,
+                  6
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Bereits errichtete Urkunden"
+            },
+            {
+              "documentIdentifier" : "BJNR015130969BJNG002002311",
+              "laws" : [
+
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  7,
+                  1,
+                  7
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Verweisungen"
+            }
+          ],
+          "title" : "Verhältnis zu anderen Gesetzen"
+        },
+        {
+          "documentIdentifier" : "BJNR015130969BJNG002102311",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              7,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Geltung in Berlin"
+        },
+        {
+          "documentIdentifier" : "BJNR015130969BJNG002202311",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              7,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "title" : "Schlußvorschriften"
+    }
+  ]
+}

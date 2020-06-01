@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR036400019",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR036400019Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR036400019BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Regelungsgegenstand"
+        },
+        {
+          "documentIdentifier" : "BJNR036400019BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmung"
+        },
+        {
+          "documentIdentifier" : "BJNR036400019BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Ausnahmeregelungen"
+        },
+        {
+          "documentIdentifier" : "BJNR036400019BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Höhe des Mindestentgelts"
+        },
+        {
+          "documentIdentifier" : "BJNR036400019BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Fälligkeit des Mindestentgelts"
+        },
+        {
+          "documentIdentifier" : "BJNR036400019BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

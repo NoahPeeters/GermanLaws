@@ -1,0 +1,131 @@
+{
+  "documentIdentifier" : "BJNR107600005",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR107600005BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR107600005BJNE000101140",
+          "paragraph" : "§ 1",
+          "title" : "Feststellung der Berufsmäßigkeit und Vergütungsbewilligung"
+        },
+        {
+          "documentIdentifier" : "BJNR107600005BJNE000201140",
+          "paragraph" : "§ 2",
+          "title" : "Erlöschen der Ansprüche"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeines"
+    },
+    {
+      "documentIdentifier" : "BJNR107600005BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR107600005BJNE000302360",
+          "paragraph" : "§ 3",
+          "title" : "Stundensatz des Vormunds"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Vergütung des Vormunds"
+    },
+    {
+      "documentIdentifier" : "BJNR107600005BJNG000301360",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR107600005BJNE000401360",
+          "paragraph" : "§ 4",
+          "title" : "Vergütung des Betreuers"
+        },
+        {
+          "documentIdentifier" : "BJNR107600005BJNE000501360",
+          "paragraph" : "§ 5",
+          "title" : "Fallpauschalen"
+        },
+        {
+          "documentIdentifier" : "BJNR107600005BJNE001200360",
+          "paragraph" : "§ 5a",
+          "title" : "Gesonderte Pauschalen"
+        },
+        {
+          "documentIdentifier" : "BJNR107600005BJNE000601360",
+          "paragraph" : "§ 6",
+          "title" : "Sonderfälle der Betreuung"
+        },
+        {
+          "documentIdentifier" : "BJNR107600005BJNE000701360",
+          "paragraph" : "§ 7",
+          "title" : "Vergütung und Aufwendungsersatz für Betreuungsvereine"
+        },
+        {
+          "documentIdentifier" : "BJNR107600005BJNE000800000",
+          "paragraph" : "§ 8",
+          "title" : "Vergütung und Aufwendungsersatz für Behördenbetreuer"
+        },
+        {
+          "documentIdentifier" : "BJNR107600005BJNE000900000",
+          "paragraph" : "§ 9",
+          "title" : "Abrechnungszeitraum für die Betreuungsvergütung"
+        },
+        {
+          "documentIdentifier" : "BJNR107600005BJNE001002360",
+          "paragraph" : "§ 10",
+          "title" : "Mitteilung an die Betreuungsbehörde"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Vergütung und Aufwendungsersatz des Betreuers"
+    },
+    {
+      "documentIdentifier" : "BJNR107600005BJNG000401360",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR107600005BJNE001101360",
+          "paragraph" : "§ 11",
+          "title" : "Umschulung und Fortbildung von Berufsvormündern"
+        },
+        {
+          "documentIdentifier" : "BJNR107600005BJNE001300360",
+          "paragraph" : "§ 12",
+          "title" : "Übergangsregelungen"
+        },
+        {
+          "documentIdentifier" : "BJNR107600005BJNE001400360",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 4 Absatz 1)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussvorschriften"
+    }
+  ]
+}

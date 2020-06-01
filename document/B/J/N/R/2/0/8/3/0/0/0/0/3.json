@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR208300003",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR208300003Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR208300003BJNE000201360",
+          "paragraph" : "§ 1",
+          "title" : "Zahlungswege"
+        },
+        {
+          "documentIdentifier" : "BJNR208300003BJNE000301360",
+          "paragraph" : "§ 2",
+          "title" : "Zahlungstag"
+        },
+        {
+          "documentIdentifier" : "BJNR208300003BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Übergangsregelung"
+        },
+        {
+          "documentIdentifier" : "BJNR208300003BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

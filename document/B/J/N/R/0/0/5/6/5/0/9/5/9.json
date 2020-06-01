@@ -1,0 +1,2053 @@
+{
+  "documentIdentifier" : "BJNR005650959",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR005650959BJNG000101311",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR005650959BJNE005201311",
+          "paragraph" : "§ 1",
+          "title" : "Stellung des Rechtsanwalts in der Rechtspflege"
+        },
+        {
+          "documentIdentifier" : "BJNR005650959BJNE005301311",
+          "paragraph" : "§ 2",
+          "title" : "Beruf des Rechtsanwalts"
+        },
+        {
+          "documentIdentifier" : "BJNR005650959BJNE005401311",
+          "paragraph" : "§ 3",
+          "title" : "Recht zur Beratung und Vertretung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Der Rechtsanwalt"
+    },
+    {
+      "documentIdentifier" : "BJNR005650959BJNG000201311",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR005650959BJNG000301311",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR005650959BJNE005504311",
+              "paragraph" : "§ 4",
+              "title" : "Zugang zum Beruf des Rechtsanwalts"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE005602311",
+              "paragraph" : "§ 5",
+              "title" : "(weggefallen)"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE005703311",
+              "paragraph" : "§ 6",
+              "title" : "Antrag auf Zulassung zur Rechtsanwaltschaft"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE005806311",
+              "paragraph" : "§ 7",
+              "title" : "Versagung der Zulassung"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE030004311",
+              "paragraph" : "§ 8",
+              "title" : "(weggefallen)"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE006004311",
+              "paragraph" : "§ 9",
+              "title" : "(weggefallen)"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE006101311",
+              "paragraph" : "§ 10",
+              "title" : "Aussetzung des Zulassungsverfahrens"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE006204311",
+              "paragraph" : "§ 11",
+              "title" : "(weggefallen)"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE006303311",
+              "paragraph" : "§ 12",
+              "title" : "Zulassung"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE033901311",
+              "paragraph" : "§ 12a",
+              "title" : "Vereidigung"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE006402311",
+              "paragraph" : "§ 13",
+              "title" : "Erlöschen der Zulassung"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE034102311",
+              "paragraph" : "§ 14",
+              "title" : "Rücknahme und Widerruf der Zulassung"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE006605311",
+              "paragraph" : "§ 15",
+              "title" : "Ärztliches Gutachten bei Versagung und Widerruf der Zulassung"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE006707311",
+              "paragraph" : "§ 16",
+              "title" : "(weggefallen)"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE006804311",
+              "paragraph" : "§ 17",
+              "title" : "Erlöschen der Befugnis zur Führung der Berufsbezeichnung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Zulassung zur Rechtsanwaltschaft"
+        },
+        {
+          "documentIdentifier" : "BJNR005650959BJNG000602311",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR005650959BJNE006902311",
+              "paragraph" : "§ 18",
+              "title" : "(weggefallen)"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE007002311",
+              "paragraph" : "(XXXX) §§ 19 bis 21",
+              "title" : "(weggefallen)"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE007302311",
+              "paragraph" : "§ 22",
+              "title" : "(weggefallen)"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE007402311",
+              "paragraph" : "§ 23",
+              "title" : "(weggefallen)"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE007503311",
+              "paragraph" : "§ 24",
+              "title" : "(weggefallen)"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE007602311",
+              "paragraph" : "(XXXX) §§ 25 und 26",
+              "title" : "(weggefallen)"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE007805311",
+              "paragraph" : "§ 27",
+              "title" : "Kanzlei"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE007903311",
+              "paragraph" : "§ 28",
+              "title" : "(weggefallen)"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE008004311",
+              "paragraph" : "§ 29",
+              "title" : "Befreiung von der Kanzleipflicht"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE030104311",
+              "paragraph" : "§ 29a",
+              "title" : "Kanzleien in anderen Staaten"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE008105311",
+              "paragraph" : "§ 30",
+              "title" : "Zustellungsbevollmächtigter"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE008212125",
+              "paragraph" : "§ 31",
+              "title" : "Verzeichnisse der Rechtsanwaltskammern und Gesamtverzeichnis der Bundesrechtsanwaltskammer"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE035803311",
+              "paragraph" : "§ 31a",
+              "title" : "Besonderes elektronisches Anwaltspostfach"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE035903311",
+              "paragraph" : "§ 31b",
+              "title" : "Europäisches Rechtsanwaltsverzeichnis"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE036101311",
+              "paragraph" : "§ 31c",
+              "title" : "Verordnungsermächtigung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Kanzlei und Rechtsanwaltsverzeichnis"
+        },
+        {
+          "documentIdentifier" : "BJNR005650959BJNG005102311",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR005650959BJNE035303311",
+              "paragraph" : "§ 32",
+              "title" : "Ergänzende Anwendung des Verwaltungsverfahrensgesetzes"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE034203311",
+              "paragraph" : "§ 33",
+              "title" : "Sachliche und örtliche Zuständigkeit"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE034301311",
+              "paragraph" : "§ 34",
+              "title" : "Zustellung"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE034401311",
+              "paragraph" : "§ 35",
+              "title" : "Bestellung eines Vertreters im Verwaltungsverfahren"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE034501311",
+              "paragraph" : "§ 36",
+              "title" : "Ermittlung des Sachverhalts und Übermittlung personenbezogener Daten"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE008904311",
+              "paragraph" : "(XXXX) §§ 37 bis 42",
+              "title" : "(weggefallen)"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Verwaltungsverfahren"
+        }
+      ],
+      "title" : "Zulassung des Rechtsanwalts"
+    },
+    {
+      "documentIdentifier" : "BJNR005650959BJNG000803311",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR005650959BJNG005601311",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR005650959BJNE009501311",
+              "paragraph" : "§ 43",
+              "title" : "Allgemeine Berufspflicht"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE031102311",
+              "paragraph" : "§ 43a",
+              "title" : "Grundpflichten"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE031201311",
+              "paragraph" : "§ 43b",
+              "title" : "Werbung"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE031302311",
+              "paragraph" : "§ 43c",
+              "title" : "Fachanwaltschaft"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE035701311",
+              "paragraph" : "§ 43d",
+              "title" : "Darlegungs- und Informationspflichten bei Inkassodienstleistungen"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE036700311",
+              "paragraph" : "§ 43e",
+              "title" : "Inanspruchnahme von Dienstleistungen"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE009601311",
+              "paragraph" : "§ 44",
+              "title" : "Mitteilung der Ablehnung eines Auftrags"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE009704311",
+              "paragraph" : "§ 45",
+              "title" : "Tätigkeitsverbote"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE009803311",
+              "paragraph" : "§ 46",
+              "title" : "Angestellte Rechtsanwälte und Syndikusrechtsanwälte"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE036202311",
+              "paragraph" : "§ 46a",
+              "title" : "Zulassung als Syndikusrechtsanwalt"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE036301311",
+              "paragraph" : "§ 46b",
+              "title" : "Erlöschen und Änderung der Zulassung als Syndikusrechtsanwalt"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE036401311",
+              "paragraph" : "§ 46c",
+              "title" : "Besondere Vorschriften für Syndikusrechtsanwälte"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE009903311",
+              "paragraph" : "§ 47",
+              "title" : "Rechtsanwälte im öffentlichen Dienst"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE010006311",
+              "paragraph" : "§ 48",
+              "title" : "Pflicht zur Übernahme der Prozessvertretung"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE010104311",
+              "paragraph" : "§ 49",
+              "title" : "Pflichtverteidigung und Beistandsleistung"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE029902311",
+              "paragraph" : "§ 49a",
+              "title" : "Pflicht zur Übernahme der Beratungshilfe"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE031405311",
+              "paragraph" : "§ 49b",
+              "title" : "Vergütung"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE036001311",
+              "paragraph" : "§ 49c",
+              "title" : "Einreichung von Schutzschriften"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE010202311",
+              "paragraph" : "§ 50",
+              "title" : "Handakten"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE031506311",
+              "paragraph" : "§ 51",
+              "title" : "Berufshaftpflichtversicherung"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE035602311",
+              "paragraph" : "§ 51a",
+              "title" : "Berufshaftpflichtversicherung einer Partnerschaftsgesellschaft mit beschränkter Berufshaftung"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE031602311",
+              "paragraph" : "§ 52",
+              "title" : "Vertragliche Begrenzung von Ersatzansprüchen"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE010505311",
+              "paragraph" : "§ 53",
+              "title" : "Bestellung eines Vertreters"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE010602311",
+              "paragraph" : "§ 54",
+              "title" : "(weggefallen)"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE010705311",
+              "paragraph" : "§ 55",
+              "title" : "Bestellung eines Abwicklers der Kanzlei"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE010804311",
+              "paragraph" : "§ 56",
+              "title" : "Besondere Pflichten gegenüber dem Vorstand der Rechtsanwaltskammer"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE010905311",
+              "paragraph" : "§ 57",
+              "title" : "Zwangsgeld bei Verletzung der besonderen Pflichten"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE011001311",
+              "paragraph" : "§ 58",
+              "title" : "Einsicht in die Personalakten"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE011103311",
+              "paragraph" : "§ 59",
+              "title" : "Ausbildung von Referendaren"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE031703311",
+              "paragraph" : "§ 59a",
+              "title" : "Berufliche Zusammenarbeit"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE031802311",
+              "paragraph" : "§ 59b",
+              "title" : "Satzungskompetenz"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Allgemeines"
+        },
+        {
+          "documentIdentifier" : "BJNR005650959BJNG005701311",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR005650959BJNE032501311",
+              "paragraph" : "§ 59c",
+              "title" : "Zulassung als Rechtsanwaltsgesellschaft und Beteiligung an beruflichen Zusammenschlüssen"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE032601311",
+              "paragraph" : "§ 59d",
+              "title" : "Zulassungsvoraussetzungen"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE032702311",
+              "paragraph" : "§ 59e",
+              "title" : "Gesellschafter"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE032802311",
+              "paragraph" : "§ 59f",
+              "title" : "Geschäftsführung"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE032903311",
+              "paragraph" : "§ 59g",
+              "title" : "Zulassungsverfahren"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE033004311",
+              "paragraph" : "§ 59h",
+              "title" : "Erlöschen der Zulassung"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE033102311",
+              "paragraph" : "§ 59i",
+              "title" : "Kanzlei"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE033204311",
+              "paragraph" : "§ 59j",
+              "title" : "Berufshaftpflichtversicherung"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE033303311",
+              "paragraph" : "§ 59k",
+              "title" : "Firma"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE033401311",
+              "paragraph" : "§ 59l",
+              "title" : "Vertretung vor Gerichten und Behörden"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE033506311",
+              "paragraph" : "§ 59m",
+              "title" : "Mitteilungspflichten, anwendbare Vorschriften und Verschwiegenheitspflicht"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Rechtsanwaltsgesellschaften"
+        }
+      ],
+      "title" : "Rechte und Pflichten des Rechtsanwalts und berufliche Zusammenarbeit der Rechtsanwälte"
+    },
+    {
+      "documentIdentifier" : "BJNR005650959BJNG000901311",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR005650959BJNG001001311",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR005650959BJNE011203311",
+              "paragraph" : "§ 60",
+              "title" : "Bildung und Zusammensetzung der Rechtsanwaltskammer"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE011303311",
+              "paragraph" : "§ 61",
+              "title" : "Bildung einer weiteren Rechtsanwaltskammer"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE011401311",
+              "paragraph" : "§ 62",
+              "title" : "Stellung der Rechtsanwaltskammer"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Allgemeines"
+        },
+        {
+          "documentIdentifier" : "BJNR005650959BJNG001101311",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4,
+              2
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR005650959BJNG001201311",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR005650959BJNE011501311",
+                  "paragraph" : "§ 63",
+                  "title" : "Zusammensetzung des Vorstandes"
+                },
+                {
+                  "documentIdentifier" : "BJNR005650959BJNE011602311",
+                  "paragraph" : "§ 64",
+                  "title" : "Wahlen zum Vorstand"
+                },
+                {
+                  "documentIdentifier" : "BJNR005650959BJNE011702311",
+                  "paragraph" : "§ 65",
+                  "title" : "Voraussetzungen der Wählbarkeit"
+                },
+                {
+                  "documentIdentifier" : "BJNR005650959BJNE011804311",
+                  "paragraph" : "§ 66",
+                  "title" : "Ausschluss von der Wählbarkeit"
+                },
+                {
+                  "documentIdentifier" : "BJNR005650959BJNE011902311",
+                  "paragraph" : "§ 67",
+                  "title" : "Recht zur Ablehnung der Wahl"
+                },
+                {
+                  "documentIdentifier" : "BJNR005650959BJNE012001311",
+                  "paragraph" : "§ 68",
+                  "title" : "Wahlperiode"
+                },
+                {
+                  "documentIdentifier" : "BJNR005650959BJNE012104311",
+                  "paragraph" : "§ 69",
+                  "title" : "Vorzeitiges Ausscheiden eines Vorstandsmitgliedes"
+                },
+                {
+                  "documentIdentifier" : "BJNR005650959BJNE012201311",
+                  "paragraph" : "§ 70",
+                  "title" : "Sitzungen des Vorstandes"
+                },
+                {
+                  "documentIdentifier" : "BJNR005650959BJNE012302311",
+                  "paragraph" : "§ 71",
+                  "title" : "Beschlussfähigkeit des Vorstandes"
+                },
+                {
+                  "documentIdentifier" : "BJNR005650959BJNE012402311",
+                  "paragraph" : "§ 72",
+                  "title" : "Beschlüsse des Vorstandes"
+                },
+                {
+                  "documentIdentifier" : "BJNR005650959BJNE012505311",
+                  "paragraph" : "§ 73",
+                  "title" : "Aufgaben des Vorstandes"
+                },
+                {
+                  "documentIdentifier" : "BJNR005650959BJNE036600311",
+                  "paragraph" : "§ 73a",
+                  "title" : "Einheitliche Stelle"
+                },
+                {
+                  "documentIdentifier" : "BJNR005650959BJNE035402125",
+                  "paragraph" : "§ 73b",
+                  "title" : "Verwaltungsbehörde für Ordnungswidrigkeiten"
+                },
+                {
+                  "documentIdentifier" : "BJNR005650959BJNE012604311",
+                  "paragraph" : "§ 74",
+                  "title" : "Rügerecht des Vorstandes"
+                },
+                {
+                  "documentIdentifier" : "BJNR005650959BJNE012705311",
+                  "paragraph" : "§ 74a",
+                  "title" : "Antrag auf anwaltsgerichtliche Entscheidung"
+                },
+                {
+                  "documentIdentifier" : "BJNR005650959BJNE012801311",
+                  "paragraph" : "§ 75",
+                  "title" : "Ehrenamtliche Tätigkeit des Vorstandes"
+                },
+                {
+                  "documentIdentifier" : "BJNR005650959BJNE012901311",
+                  "paragraph" : "§ 76",
+                  "title" : "Pflicht der Vorstandsmitglieder zur Verschwiegenheit"
+                },
+                {
+                  "documentIdentifier" : "BJNR005650959BJNE013002311",
+                  "paragraph" : "§ 77",
+                  "title" : "Abteilungen des Vorstandes"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  4,
+                  2,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Vorstand"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNG001301311",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR005650959BJNE013101311",
+                  "paragraph" : "§ 78",
+                  "title" : "Zusammensetzung und Wahl des Präsidiums"
+                },
+                {
+                  "documentIdentifier" : "BJNR005650959BJNE013201311",
+                  "paragraph" : "§ 79",
+                  "title" : "Aufgaben des Präsidiums"
+                },
+                {
+                  "documentIdentifier" : "BJNR005650959BJNE013301311",
+                  "paragraph" : "§ 80",
+                  "title" : "Aufgaben des Präsidenten"
+                },
+                {
+                  "documentIdentifier" : "BJNR005650959BJNE013401311",
+                  "paragraph" : "§ 81",
+                  "title" : "Berichte über die Tätigkeit der Kammer und über Wahlergebnisse"
+                },
+                {
+                  "documentIdentifier" : "BJNR005650959BJNE013501311",
+                  "paragraph" : "§ 82",
+                  "title" : "Aufgaben des Schriftführers"
+                },
+                {
+                  "documentIdentifier" : "BJNR005650959BJNE013601311",
+                  "paragraph" : "§ 83",
+                  "title" : "Aufgaben des Schatzmeisters"
+                },
+                {
+                  "documentIdentifier" : "BJNR005650959BJNE013703311",
+                  "paragraph" : "§ 84",
+                  "title" : "Einziehung rückständiger Beiträge"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  4,
+                  2,
+                  2
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Präsidium"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNG001401311",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR005650959BJNE013801311",
+                  "paragraph" : "§ 85",
+                  "title" : "Einberufung der Kammerversammlung"
+                },
+                {
+                  "documentIdentifier" : "BJNR005650959BJNE013901311",
+                  "paragraph" : "§ 86",
+                  "title" : "Einladung und Einberufungsfrist"
+                },
+                {
+                  "documentIdentifier" : "BJNR005650959BJNE014001311",
+                  "paragraph" : "§ 87",
+                  "title" : "Ankündigung der Tagesordnung"
+                },
+                {
+                  "documentIdentifier" : "BJNR005650959BJNE014103311",
+                  "paragraph" : "§ 88",
+                  "title" : "Wahlen und Beschlüsse der Kammerversammlung"
+                },
+                {
+                  "documentIdentifier" : "BJNR005650959BJNE014205311",
+                  "paragraph" : "§ 89",
+                  "title" : "Aufgaben der Kammerversammlung"
+                },
+                {
+                  "documentIdentifier" : "BJNR005650959BJNE014303311",
+                  "paragraph" : "(XXXX) §§ 90 und 91",
+                  "title" : "(weggefallen)"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  4,
+                  2,
+                  3
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Kammerversammlung"
+            }
+          ],
+          "title" : "Organe der Rechtsanwaltskammer"
+        }
+      ],
+      "title" : "Die Rechtsanwaltskammern"
+    },
+    {
+      "documentIdentifier" : "BJNR005650959BJNG001603311",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR005650959BJNG001702311",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR005650959BJNE014502311",
+              "paragraph" : "§ 92",
+              "title" : "Bildung des Anwaltsgerichts"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE014603311",
+              "paragraph" : "§ 93",
+              "title" : "Besetzung des Anwaltsgerichts"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE014705311",
+              "paragraph" : "§ 94",
+              "title" : "Ernennung der Mitglieder des Anwaltsgerichts"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE014806311",
+              "paragraph" : "§ 95",
+              "title" : "Rechtsstellung der Mitglieder des Anwaltsgerichts"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE014902311",
+              "paragraph" : "§ 96",
+              "title" : "Besetzung der Kammern des Anwaltsgerichts"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE015002311",
+              "paragraph" : "§ 97",
+              "title" : "Geschäftsverteilung"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE015102311",
+              "paragraph" : "§ 98",
+              "title" : "Geschäftsstelle und Geschäftsordnung"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE015202311",
+              "paragraph" : "§ 99",
+              "title" : "Amts- und Rechtshilfe"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              5,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Das Anwaltsgericht"
+        },
+        {
+          "documentIdentifier" : "BJNR005650959BJNG001802311",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR005650959BJNE015302311",
+              "paragraph" : "§ 100",
+              "title" : "Bildung des Anwaltsgerichtshofes"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE015403311",
+              "paragraph" : "§ 101",
+              "title" : "Besetzung des Anwaltsgerichtshofes"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE015503311",
+              "paragraph" : "§ 102",
+              "title" : "Bestellung von Berufsrichtern zu Mitgliedern des Anwaltsgerichtshofes"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE015608311",
+              "paragraph" : "§ 103",
+              "title" : "Ernennung von Rechtsanwälten zu Mitgliedern des Anwaltsgerichtshofes"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE015703311",
+              "paragraph" : "§ 104",
+              "title" : "Besetzung der Senate des Anwaltsgerichtshofes"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE015802311",
+              "paragraph" : "§ 105",
+              "title" : "Geschäftsverteilung und Geschäftsordnung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              5,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Der Anwaltsgerichtshof"
+        },
+        {
+          "documentIdentifier" : "BJNR005650959BJNG001901311",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR005650959BJNE015903311",
+              "paragraph" : "§ 106",
+              "title" : "Besetzung des Senats für Anwaltssachen"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE016004311",
+              "paragraph" : "§ 107",
+              "title" : "Rechtsanwälte als Beisitzer"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE016104311",
+              "paragraph" : "§ 108",
+              "title" : "Voraussetzungen für die Berufung zum Beisitzer und Recht zur Ablehnung"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE016205311",
+              "paragraph" : "§ 109",
+              "title" : "Beendigung des Amtes als Beisitzer"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE016301311",
+              "paragraph" : "§ 110",
+              "title" : "Stellung der Rechtsanwälte als Beisitzer und Pflicht zur Verschwiegenheit"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE016401311",
+              "paragraph" : "§ 111",
+              "title" : "Reihenfolge der Teilnahme an den Sitzungen"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE016502311",
+              "paragraph" : "§ 112",
+              "title" : "Entschädigung der anwaltlichen Beisitzer"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              5,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Der Bundesgerichtshof in Anwaltssachen"
+        },
+        {
+          "documentIdentifier" : "BJNR005650959BJNG005801311",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR005650959BJNE034602311",
+              "paragraph" : "§ 112a",
+              "title" : "Rechtsweg und sachliche Zuständigkeit"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE034701311",
+              "paragraph" : "§ 112b",
+              "title" : "Örtliche Zuständigkeit"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE034801311",
+              "paragraph" : "§ 112c",
+              "title" : "Anwendung der Verwaltungsgerichtsordnung"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE034901311",
+              "paragraph" : "§ 112d",
+              "title" : "Klagegegner und Vertretung"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE035001311",
+              "paragraph" : "§ 112e",
+              "title" : "Berufung"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE035101311",
+              "paragraph" : "§ 112f",
+              "title" : "Klagen gegen Wahlen und Beschlüsse"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE035501311",
+              "paragraph" : "§ 112g",
+              "title" : "Rechtsschutz bei überlangen Gerichtsverfahren"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE036500311",
+              "paragraph" : "§ 112h",
+              "title" : "Verwendung gefälschter Berufsqualifikationsnachweise"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              5,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Gerichtliches Verfahren in verwaltungsrechtlichen Anwaltssachen"
+        }
+      ],
+      "title" : "Gerichte in Anwaltssachen und gerichtliches"
+    },
+    {
+      "documentIdentifier" : "BJNR005650959BJNG002002311",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR005650959BJNE016602311",
+          "paragraph" : "§ 113",
+          "title" : "Ahndung einer Pflichtverletzung"
+        },
+        {
+          "documentIdentifier" : "BJNR005650959BJNE016704311",
+          "paragraph" : "§ 114",
+          "title" : "Anwaltsgerichtliche Maßnahmen"
+        },
+        {
+          "documentIdentifier" : "BJNR005650959BJNE016803311",
+          "paragraph" : "§ 114a",
+          "title" : "Wirkungen des Vertretungsverbots und Zuwiderhandlungen"
+        },
+        {
+          "documentIdentifier" : "BJNR005650959BJNE016902311",
+          "paragraph" : "§ 115",
+          "title" : "Verjährung der Verfolgung einer Pflichtverletzung"
+        },
+        {
+          "documentIdentifier" : "BJNR005650959BJNE017002311",
+          "paragraph" : "§ 115a",
+          "title" : "Rüge und anwaltsgerichtliche Maßnahme"
+        },
+        {
+          "documentIdentifier" : "BJNR005650959BJNE017102311",
+          "paragraph" : "§ 115b",
+          "title" : "Anderweitige Ahndung"
+        },
+        {
+          "documentIdentifier" : "BJNR005650959BJNE033602311",
+          "paragraph" : "§ 115c",
+          "title" : "Vorschriften für Geschäftsführer von Rechtsanwaltsgesellschaften"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Anwaltsgerichtliche Ahndung von Pflichtverletzungen"
+    },
+    {
+      "documentIdentifier" : "BJNR005650959BJNG002102311",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR005650959BJNG002201311",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR005650959BJNE017203311",
+              "paragraph" : "§ 116",
+              "title" : "Vorschriften für das Verfahren und den Rechtsschutz bei überlangen Gerichtsverfahren"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE017302311",
+              "paragraph" : "§ 117",
+              "title" : "Keine Verhaftung des Rechtsanwalts"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE017403311",
+              "paragraph" : "§ 117a",
+              "title" : "Verteidigung"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE017502311",
+              "paragraph" : "§ 117b",
+              "title" : "Akteneinsicht"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE017603311",
+              "paragraph" : "§ 118",
+              "title" : "Verhältnis des anwaltsgerichtlichen Verfahrens zum Straf- oder Bußgeldverfahren"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE017703311",
+              "paragraph" : "§ 118a",
+              "title" : "Verhältnis des anwaltsgerichtlichen Verfahrens zu Verfahren anderer Berufsgerichtsbarkeiten"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE017802311",
+              "paragraph" : "§ 118b",
+              "title" : "Aussetzung des anwaltsgerichtlichen Verfahrens"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              7,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Allgemeines"
+        },
+        {
+          "documentIdentifier" : "BJNR005650959BJNG002301311",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              7,
+              2
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR005650959BJNG002401311",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR005650959BJNE017902311",
+                  "paragraph" : "§ 119",
+                  "title" : "Zuständigkeit"
+                },
+                {
+                  "documentIdentifier" : "BJNR005650959BJNE018002311",
+                  "paragraph" : "§ 120",
+                  "title" : "Mitwirkung der Staatsanwaltschaft"
+                },
+                {
+                  "documentIdentifier" : "BJNR005650959BJNE018102311",
+                  "paragraph" : "§ 120a",
+                  "title" : "Gegenseitige Unterrichtung von Staatsanwaltschaft und Rechtsanwaltskammer"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  7,
+                  2,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Allgemeine Vorschriften"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNG002501311",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR005650959BJNE018202311",
+                  "paragraph" : "§ 121",
+                  "title" : "Einleitung des anwaltsgerichtlichen Verfahrens"
+                },
+                {
+                  "documentIdentifier" : "BJNR005650959BJNE018302311",
+                  "paragraph" : "§ 122",
+                  "title" : "Gerichtliche Entscheidung über die Einleitung des Verfahrens"
+                },
+                {
+                  "documentIdentifier" : "BJNR005650959BJNE018402311",
+                  "paragraph" : "§ 123",
+                  "title" : "Antrag des Rechtsanwalts auf Einleitung des anwaltsgerichtlichen Verfahrens"
+                },
+                {
+                  "documentIdentifier" : "BJNR005650959BJNE018501311",
+                  "paragraph" : "(XXXX) §§ 124 - 129",
+                  "title" : "(weggefallen)"
+                },
+                {
+                  "documentIdentifier" : "BJNR005650959BJNE018602311",
+                  "paragraph" : "§ 130",
+                  "title" : "Inhalt der Anschuldigungsschrift"
+                },
+                {
+                  "documentIdentifier" : "BJNR005650959BJNE018702311",
+                  "paragraph" : "§ 131",
+                  "title" : "Entscheidung über die Eröffnung des Hauptverfahrens vor dem Anwaltsgericht"
+                },
+                {
+                  "documentIdentifier" : "BJNR005650959BJNE018802311",
+                  "paragraph" : "§ 132",
+                  "title" : "Rechtskraftwirkung eines ablehnenden Beschlusses"
+                },
+                {
+                  "documentIdentifier" : "BJNR005650959BJNE018901311",
+                  "paragraph" : "§ 133",
+                  "title" : "Zustellung des Eröffnungsbeschlusses"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  7,
+                  2,
+                  2
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Einleitung des Verfahrens"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNG002602311",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR005650959BJNE019001311",
+                  "paragraph" : "§ 134",
+                  "title" : "Hauptverhandlung trotz Ausbleibens des Rechtsanwalts"
+                },
+                {
+                  "documentIdentifier" : "BJNR005650959BJNE019102311",
+                  "paragraph" : "§ 135",
+                  "title" : "Nichtöffentliche Hauptverhandlung"
+                },
+                {
+                  "documentIdentifier" : "BJNR005650959BJNE019201311",
+                  "paragraph" : "§ 136",
+                  "title" : "(weggefallen)"
+                },
+                {
+                  "documentIdentifier" : "BJNR005650959BJNE019302311",
+                  "paragraph" : "§ 137",
+                  "title" : "Beweisaufnahme durch einen beauftragten oder ersuchten Richter"
+                },
+                {
+                  "documentIdentifier" : "BJNR005650959BJNE019402311",
+                  "paragraph" : "§ 138",
+                  "title" : "Verlesen von Protokollen"
+                },
+                {
+                  "documentIdentifier" : "BJNR005650959BJNE019504311",
+                  "paragraph" : "§ 139",
+                  "title" : "Entscheidung des Anwaltsgerichts"
+                },
+                {
+                  "documentIdentifier" : "BJNR005650959BJNE019603311",
+                  "paragraph" : "§ 140",
+                  "title" : "Protokollführer"
+                },
+                {
+                  "documentIdentifier" : "BJNR005650959BJNE019702311",
+                  "paragraph" : "§ 141",
+                  "title" : "Ausfertigung der Entscheidungen"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  7,
+                  2,
+                  3
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Hauptverhandlung vor dem Anwaltsgericht"
+            }
+          ],
+          "title" : "Verfahren im ersten Rechtszug"
+        },
+        {
+          "documentIdentifier" : "BJNR005650959BJNG002701311",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              7,
+              3
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR005650959BJNG002802311",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR005650959BJNE019802311",
+                  "paragraph" : "§ 142",
+                  "title" : "Beschwerde"
+                },
+                {
+                  "documentIdentifier" : "BJNR005650959BJNE019903311",
+                  "paragraph" : "§ 143",
+                  "title" : "Berufung"
+                },
+                {
+                  "documentIdentifier" : "BJNR005650959BJNE020002311",
+                  "paragraph" : "§ 144",
+                  "title" : "Mitwirkung der Staatsanwaltschaft vor dem Anwaltsgerichtshof"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  7,
+                  3,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Rechtsmittel gegen Entscheidungen des Anwaltsgerichts"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNG002902311",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR005650959BJNE020102311",
+                  "paragraph" : "§ 145",
+                  "title" : "Revision"
+                },
+                {
+                  "documentIdentifier" : "BJNR005650959BJNE020202311",
+                  "paragraph" : "§ 146",
+                  "title" : "Einlegung der Revision und Verfahren"
+                },
+                {
+                  "documentIdentifier" : "BJNR005650959BJNE020301311",
+                  "paragraph" : "§ 147",
+                  "title" : "Mitwirkung der Staatsanwaltschaft vor dem Bundesgerichtshof"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  7,
+                  3,
+                  2
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Rechtsmittel gegen Entscheidungen des Anwaltsgerichtshofes"
+            }
+          ],
+          "title" : "Rechtsmittel"
+        },
+        {
+          "documentIdentifier" : "BJNR005650959BJNG003001311",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR005650959BJNE020403311",
+              "paragraph" : "§ 148",
+              "title" : "Anordnung der Beweissicherung"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE020503311",
+              "paragraph" : "§ 149",
+              "title" : "Verfahren"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              7,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Sicherung von Beweisen"
+        },
+        {
+          "documentIdentifier" : "BJNR005650959BJNG003101311",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR005650959BJNE020603311",
+              "paragraph" : "§ 150",
+              "title" : "Voraussetzung für das Verbot"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE020701311",
+              "paragraph" : "§ 150a",
+              "title" : "Verfahren zur Erzwingung des Antrags der Staatsanwaltschaft"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE020802311",
+              "paragraph" : "§ 151",
+              "title" : "Mündliche Verhandlung"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE020901311",
+              "paragraph" : "§ 152",
+              "title" : "Abstimmung über das Verbot"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE021001311",
+              "paragraph" : "§ 153",
+              "title" : "Verbot im Anschluss an die Hauptverhandlung"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE021102311",
+              "paragraph" : "§ 154",
+              "title" : "Zustellung des Beschlusses"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE021202311",
+              "paragraph" : "§ 155",
+              "title" : "Wirkungen des Verbots"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE021302311",
+              "paragraph" : "§ 156",
+              "title" : "Zuwiderhandlungen gegen das Verbot"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE021402311",
+              "paragraph" : "§ 157",
+              "title" : "Beschwerde"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE021502311",
+              "paragraph" : "§ 158",
+              "title" : "Außerkrafttreten des Verbots"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE021601311",
+              "paragraph" : "§ 159",
+              "title" : "Aufhebung des Verbots"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE021702311",
+              "paragraph" : "§ 159a",
+              "title" : "Dreimonatsfrist"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE021802311",
+              "paragraph" : "§ 159b",
+              "title" : "Prüfung der Fortdauer des Verbots"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE021903311",
+              "paragraph" : "§ 160",
+              "title" : "Mitteilung des Verbots"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE022004311",
+              "paragraph" : "§ 161",
+              "title" : "Bestellung eines Vertreters"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE022102311",
+              "paragraph" : "§ 161a",
+              "title" : "Gegenständlich beschränktes Vertretungsverbot"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              7,
+              5
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Berufs- und Vertretungsverbot als vorläufige Maßnahme"
+        }
+      ],
+      "title" : "Anwaltsgerichtliches Verfahren"
+    },
+    {
+      "documentIdentifier" : "BJNR005650959BJNG003201311",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          8
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR005650959BJNG003301311",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR005650959BJNE022201311",
+              "paragraph" : "§ 162",
+              "title" : "Entsprechende Anwendung von Vorschriften"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE022305311",
+              "paragraph" : "§ 163",
+              "title" : "Sachliche Zuständigkeit"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              8,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Allgemeines"
+        },
+        {
+          "documentIdentifier" : "BJNR005650959BJNG003401311",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR005650959BJNE022401311",
+              "paragraph" : "§ 164",
+              "title" : "Besondere Voraussetzung für die Zulassung"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE022501311",
+              "paragraph" : "§ 165",
+              "title" : "Wahlausschuss für Rechtsanwälte bei dem Bundesgerichtshof"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE022601311",
+              "paragraph" : "§ 166",
+              "title" : "Vorschlagslisten für die Wahl"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE022701311",
+              "paragraph" : "§ 167",
+              "title" : "Prüfung des Wahlausschusses"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE030301311",
+              "paragraph" : "§ 167a",
+              "title" : "Akteneinsicht"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE022801311",
+              "paragraph" : "§ 168",
+              "title" : "Entscheidung des Wahlausschusses"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE022903311",
+              "paragraph" : "§ 169",
+              "title" : "Mitteilung des Wahlergebnisses"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE023005311",
+              "paragraph" : "§ 170",
+              "title" : "Entscheidung über den Antrag auf Zulassung"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE023102311",
+              "paragraph" : "§ 171",
+              "title" : "(weggefallen)"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              8,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Zulassung als Rechtsanwalt bei dem Bundesgerichtshof"
+        },
+        {
+          "documentIdentifier" : "BJNR005650959BJNG003501311",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR005650959BJNE023202311",
+              "paragraph" : "§ 172",
+              "title" : "Beschränkung des Auftretens vor anderen Gerichten"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE031901311",
+              "paragraph" : "§ 172a",
+              "title" : "Sozietät"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE034002311",
+              "paragraph" : "§ 172b",
+              "title" : "Kanzlei"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE023305311",
+              "paragraph" : "§ 173",
+              "title" : "Bestellung eines Vertreters und eines Abwicklers der Kanzlei"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              8,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Besondere Rechte und Pflichten der Rechtsanwälte bei dem Bundesgerichtshof"
+        },
+        {
+          "documentIdentifier" : "BJNR005650959BJNG003601311",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR005650959BJNE023402311",
+              "paragraph" : "§ 174",
+              "title" : "Zusammensetzung und Vorstand"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              8,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Die Rechtsanwaltskammer bei dem Bundesgerichtshof"
+        }
+      ],
+      "title" : "Die Rechtsanwaltschaft bei dem Bundesgerichtshof"
+    },
+    {
+      "documentIdentifier" : "BJNR005650959BJNG003701311",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          9
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR005650959BJNG003801311",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR005650959BJNE023501311",
+              "paragraph" : "§ 175",
+              "title" : "Zusammensetzung und Sitz der Bundesrechtsanwaltskammer"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE023603311",
+              "paragraph" : "§ 176",
+              "title" : "Stellung der Bundesrechtsanwaltskammer"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE023703311",
+              "paragraph" : "§ 177",
+              "title" : "Aufgaben der Bundesrechtsanwaltskammer"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE023801311",
+              "paragraph" : "§ 178",
+              "title" : "Beiträge zur Bundesrechtsanwaltskammer"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              9,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Allgemeines"
+        },
+        {
+          "documentIdentifier" : "BJNR005650959BJNG003901311",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              9,
+              2
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR005650959BJNG004001311",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR005650959BJNE023902311",
+                  "paragraph" : "§ 179",
+                  "title" : "Zusammensetzung des Präsidiums"
+                },
+                {
+                  "documentIdentifier" : "BJNR005650959BJNE024003311",
+                  "paragraph" : "§ 180",
+                  "title" : "Wahlen zum Präsidium"
+                },
+                {
+                  "documentIdentifier" : "BJNR005650959BJNE024101311",
+                  "paragraph" : "§ 181",
+                  "title" : "Recht zur Ablehnung der Wahl"
+                },
+                {
+                  "documentIdentifier" : "BJNR005650959BJNE024203311",
+                  "paragraph" : "§ 182",
+                  "title" : "Wahlperiode und vorzeitiges Ausscheiden"
+                },
+                {
+                  "documentIdentifier" : "BJNR005650959BJNE024301311",
+                  "paragraph" : "§ 183",
+                  "title" : "Ehrenamtliche Tätigkeit des Präsidiums"
+                },
+                {
+                  "documentIdentifier" : "BJNR005650959BJNE024402311",
+                  "paragraph" : "§ 184",
+                  "title" : "Pflicht zur Verschwiegenheit"
+                },
+                {
+                  "documentIdentifier" : "BJNR005650959BJNE024503311",
+                  "paragraph" : "§ 185",
+                  "title" : "Aufgaben des Präsidenten"
+                },
+                {
+                  "documentIdentifier" : "BJNR005650959BJNE024601311",
+                  "paragraph" : "§ 186",
+                  "title" : "Aufgaben des Schatzmeisters"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  9,
+                  2,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Präsidium"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNG004101311",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR005650959BJNE024701311",
+                  "paragraph" : "§ 187",
+                  "title" : "Versammlung der Mitglieder"
+                },
+                {
+                  "documentIdentifier" : "BJNR005650959BJNE024801311",
+                  "paragraph" : "§ 188",
+                  "title" : "Vertreter der Rechtsanwaltskammern in der Hauptversammlung"
+                },
+                {
+                  "documentIdentifier" : "BJNR005650959BJNE024901311",
+                  "paragraph" : "§ 189",
+                  "title" : "Einberufung der Hauptversammlung"
+                },
+                {
+                  "documentIdentifier" : "BJNR005650959BJNE025002311",
+                  "paragraph" : "§ 190",
+                  "title" : "Beschlüsse der Hauptversammlung"
+                },
+                {
+                  "documentIdentifier" : "BJNR005650959BJNE025103311",
+                  "paragraph" : "§ 191",
+                  "title" : "(weggefallen)"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  9,
+                  2,
+                  2
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Hauptversammlung"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNG005502311",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR005650959BJNE032001311",
+                  "paragraph" : "§ 191a",
+                  "title" : "Einrichtung und Aufgabe"
+                },
+                {
+                  "documentIdentifier" : "BJNR005650959BJNE032103311",
+                  "paragraph" : "§ 191b",
+                  "title" : "Wahl der stimmberechtigten Mitglieder der Satzungsversammlung"
+                },
+                {
+                  "documentIdentifier" : "BJNR005650959BJNE032201311",
+                  "paragraph" : "§ 191c",
+                  "title" : "Einberufung und Stimmrecht"
+                },
+                {
+                  "documentIdentifier" : "BJNR005650959BJNE032301311",
+                  "paragraph" : "§ 191d",
+                  "title" : "Leitung der Versammlung und Beschlussfassung"
+                },
+                {
+                  "documentIdentifier" : "BJNR005650959BJNE032402311",
+                  "paragraph" : "§ 191e",
+                  "title" : "Prüfung von Beschlüssen durch die Aufsichtsbehörde"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  9,
+                  2,
+                  3
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Satzungsversammlung"
+            }
+          ],
+          "title" : "Organe der Bundesrechtsanwaltskammer"
+        },
+        {
+          "documentIdentifier" : "BJNR005650959BJNG005901311",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR005650959BJNE035203125",
+              "paragraph" : "§ 191f",
+              "title" : "Schlichtungsstelle der Rechtsanwaltschaft"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              9,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Schlichtung"
+        }
+      ],
+      "title" : "Die Bundesrechtsanwaltskammer"
+    },
+    {
+      "documentIdentifier" : "BJNR005650959BJNG004301311",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          10
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR005650959BJNG004403311",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR005650959BJNE025209311",
+              "paragraph" : "§ 192",
+              "title" : "Erhebung von Gebühren und Auslagen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              10,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Kosten in Verwaltungsverfahren der Rechtsanwaltskammern"
+        },
+        {
+          "documentIdentifier" : "BJNR005650959BJNG006001311",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR005650959BJNE025307311",
+              "paragraph" : "§ 193",
+              "title" : "Gerichtskosten"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE025403311",
+              "paragraph" : "§ 194",
+              "title" : "Streitwert"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              10,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Kosten in gerichtlichen Verfahren in verwaltungsrechtlichen Anwaltssachen"
+        },
+        {
+          "documentIdentifier" : "BJNR005650959BJNG004503311",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR005650959BJNE025503311",
+              "paragraph" : "§ 195",
+              "title" : "Gerichtskosten"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE025602311",
+              "paragraph" : "§ 196",
+              "title" : "Kosten bei Anträgen auf Einleitung des anwaltsgerichtlichen Verfahrens"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE025704311",
+              "paragraph" : "§ 197",
+              "title" : "Kostenpflicht des Verurteilten"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE025802311",
+              "paragraph" : "§ 197a",
+              "title" : "Kostenpflicht im Verfahren bei Anträgen auf anwaltsgerichtliche Entscheidung"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE025903311",
+              "paragraph" : "§ 198",
+              "title" : "Haftung der Rechtsanwaltskammer"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE026003311",
+              "paragraph" : "§ 199",
+              "title" : "Festsetzung der Kosten des Verfahrens vor dem Anwaltsgericht"
+            },
+            {
+              "documentIdentifier" : "BJNR005650959BJNE026103311",
+              "paragraph" : "(XXXX) §§ 200 bis 203",
+              "title" : "(weggefallen)"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              10,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Kosten im anwaltsgerichtlichen Verfahren und im Verfahren bei Anträgen auf anwaltsgerichtliche Entscheidung"
+        }
+      ],
+      "title" : "Kosten in Anwaltssachen"
+    },
+    {
+      "documentIdentifier" : "BJNR005650959BJNG004702311",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR005650959BJNE026503311",
+          "paragraph" : "§ 204",
+          "title" : "Vollstreckung anwaltsgerichtlicher Maßnahmen"
+        },
+        {
+          "documentIdentifier" : "BJNR005650959BJNE026603311",
+          "paragraph" : "§ 205",
+          "title" : "Beitreibung der Kosten"
+        },
+        {
+          "documentIdentifier" : "BJNR005650959BJNE026704311",
+          "paragraph" : "§ 205a",
+          "title" : "Tilgung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          11
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Vollstreckung anwaltsgerichtlicher Maßnahmen und Kosten sowie Tilgung"
+    },
+    {
+      "documentIdentifier" : "BJNR005650959BJNG004802311",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR005650959BJNE030407311",
+          "paragraph" : "§ 206",
+          "title" : "Niederlassung"
+        },
+        {
+          "documentIdentifier" : "BJNR005650959BJNE030505311",
+          "paragraph" : "§ 207",
+          "title" : "Aufnahmeverfahren und berufliche Stellung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          12
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Anwälte aus anderen Staaten"
+    },
+    {
+      "documentIdentifier" : "BJNR005650959BJNG005201311",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR005650959BJNE026902311",
+          "paragraph" : "§ 208",
+          "title" : "Landesrechtliche Beschränkungen der Parteivertretung und Beistandschaft"
+        },
+        {
+          "documentIdentifier" : "BJNR005650959BJNE027008311",
+          "paragraph" : "§ 209",
+          "title" : "Kammermitgliedschaft von Inhabern einer Erlaubnis nach dem Rechtsberatungsgesetz"
+        },
+        {
+          "documentIdentifier" : "BJNR005650959BJNE027103311",
+          "paragraph" : "§ 210",
+          "title" : "Bestehenbleiben von Rechtsanwaltskammern"
+        },
+        {
+          "documentIdentifier" : "BJNR005650959BJNE027503311",
+          "paragraph" : "§ 211",
+          "title" : "Befreiung von der Voraussetzung der Befähigung zum Richteramt"
+        },
+        {
+          "documentIdentifier" : "BJNR005650959BJNE033802311",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 193 Satz 1 und § 195 Satz 1)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          13
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übergangs- und Schlussvorschriften"
+    }
+  ]
+}

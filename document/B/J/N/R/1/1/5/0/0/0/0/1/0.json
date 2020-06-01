@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR115000010",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR115000010Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR115000010BJNE000202140",
+          "paragraph" : "§ 1",
+          "title" : "Datenerhebung durch die Träger der Grundsicherung für Arbeitsuchende"
+        },
+        {
+          "documentIdentifier" : "BJNR115000010BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Verfahren zur Weiterentwicklung"
+        },
+        {
+          "documentIdentifier" : "BJNR115000010BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

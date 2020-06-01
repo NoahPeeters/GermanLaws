@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR214600008",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR214600008Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR214600008BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Übertritt des Personals"
+        },
+        {
+          "documentIdentifier" : "BJNR214600008BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Besitzstandsschutz"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

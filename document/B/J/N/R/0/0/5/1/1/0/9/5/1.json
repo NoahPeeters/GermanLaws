@@ -1,0 +1,140 @@
+{
+  "documentIdentifier" : "BJNR005110951",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR005110951BJNG000100319",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR005110951BJNE000600319",
+          "paragraph" : "§ 1",
+          "title" : "Verfahren bei der Gleichstellung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Verfahren bei der Gleichstellung"
+    },
+    {
+      "documentIdentifier" : "BJNR005110951BJNG000200319",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR005110951BJNE000700319",
+          "paragraph" : "§ 2",
+          "title" : "Bekanntmachung der Errichtung von Heimarbeitsausschüssen"
+        },
+        {
+          "documentIdentifier" : "BJNR005110951BJNE000800319",
+          "paragraph" : "§ 3",
+          "title" : "Vorsitzender"
+        },
+        {
+          "documentIdentifier" : "BJNR005110951BJNE000900319",
+          "paragraph" : "§ 4",
+          "title" : "Beisitzer"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Errichtung von Heimarbeitsausschüssen"
+    },
+    {
+      "documentIdentifier" : "BJNR005110951BJNG000300319",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR005110951BJNE001000319",
+          "paragraph" : "§ 5",
+          "title" : "Verfahren vor den Heimarbeitsausschüssen allgemein"
+        },
+        {
+          "documentIdentifier" : "BJNR005110951BJNE001100319",
+          "paragraph" : "§ 6",
+          "title" : "Beteiligung des Heimarbeitsausschusses"
+        },
+        {
+          "documentIdentifier" : "BJNR005110951BJNE001202308",
+          "paragraph" : "§ 7",
+          "title" : "Zustimmungsverfahren"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Verfahren vor den Heimarbeitsausschüssen"
+    },
+    {
+      "documentIdentifier" : "BJNR005110951BJNG000400319",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR005110951BJNE001300319",
+          "paragraph" : "§ 8",
+          "title" : "Entgeltausschüsse"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Errichtung von Entgeltausschüssen für fremde Hilfskräfte der Heimarbeit und das Verfahren vor ihnen"
+    },
+    {
+      "documentIdentifier" : "BJNR005110951BJNG000500319",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR005110951BJNE001400319",
+          "paragraph" : "§ 9",
+          "title" : "Listenführung"
+        },
+        {
+          "documentIdentifier" : "BJNR005110951BJNE001500319",
+          "paragraph" : "§ 10",
+          "title" : "Führen von Entgeltbüchern"
+        },
+        {
+          "documentIdentifier" : "BJNR005110951BJNE001600319",
+          "paragraph" : "§ 11",
+          "title" : "Genehmigung von Entgelt- oder Arbeitszetteln"
+        },
+        {
+          "documentIdentifier" : "BJNR005110951BJNE001700319",
+          "paragraph" : "§ 12",
+          "title" : "Form und Inhalt der Entgeltbelege"
+        },
+        {
+          "documentIdentifier" : "BJNR005110951BJNE001800319",
+          "paragraph" : "§ 13",
+          "title" : "Aufbewahrung von Entgeltbelegen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Durchführung der allgemeinen Schutzvorschriften"
+    }
+  ]
+}

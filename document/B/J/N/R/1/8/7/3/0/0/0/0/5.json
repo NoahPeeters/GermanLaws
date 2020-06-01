@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR187300005",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR187300005Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR187300005BJNE000203123",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR187300005BJNE000303123",
+          "paragraph" : "§ 2",
+          "title" : "Gebühren"
+        },
+        {
+          "documentIdentifier" : "BJNR187300005BJNE000405123",
+          "paragraph" : "§ 3",
+          "title" : "Gebührenerhebung in besonderen Fällen"
+        },
+        {
+          "documentIdentifier" : "BJNR187300005BJNE000702123",
+          "paragraph" : "§ 3a",
+          "title" : "Übergangsvorschrift"
+        },
+        {
+          "documentIdentifier" : "BJNR187300005BJNE000501123",
+          "paragraph" : "§ 4",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR187300005BJNE000605360",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 2)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

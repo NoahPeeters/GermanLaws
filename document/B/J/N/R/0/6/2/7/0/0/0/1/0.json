@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR062700010",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR062700010Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR062700010BJNE000201140",
+          "paragraph" : "§ 1",
+          "title" : "Gewährleistungsermächtigung"
+        },
+        {
+          "documentIdentifier" : "BJNR062700010BJNE000400140",
+          "paragraph" : "§ 2",
+          "title" : "Haushalts- und Stabilitätsverantwortung"
+        },
+        {
+          "documentIdentifier" : "BJNR062700010BJNE000501140",
+          "paragraph" : "§ 3",
+          "title" : "Parlamentsvorbehalt für Entscheidungen in der Europäischen Finanzstabilisierungsfazilität"
+        },
+        {
+          "documentIdentifier" : "BJNR062700010BJNE000601140",
+          "paragraph" : "§ 4",
+          "title" : "Beteiligung des Haushaltsausschusses des Deutschen Bundestages"
+        },
+        {
+          "documentIdentifier" : "BJNR062700010BJNE000701140",
+          "paragraph" : "§ 5",
+          "title" : "Unterrichtung durch die Bundesregierung"
+        },
+        {
+          "documentIdentifier" : "BJNR062700010BJNE000301140",
+          "paragraph" : "§ 6",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

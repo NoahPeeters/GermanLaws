@@ -1,0 +1,99 @@
+{
+  "documentIdentifier" : "BJNR021050988",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR021050988BJNG000100300",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Freigabe aus der Apothekenpflicht"
+    },
+    {
+      "documentIdentifier" : "BJNR021050988BJNG000800300",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Einbeziehung in die Apothekenpflicht"
+    },
+    {
+      "documentIdentifier" : "BJNR021050988BJNG001200300",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR021050988BJNE001307116",
+          "paragraph" : "Anlage 1a",
+          "title" : "(zu § 1 Abs. 1 Nr. 1)"
+        },
+        {
+          "documentIdentifier" : "BJNR021050988BJNE001403310",
+          "paragraph" : "Anlage 1b",
+          "title" : "(zu § 1 Abs. 1 Nr. 2, § 7 Abs. 1 Nr. 2 und § 8 Abs. 1 Nr. 2)"
+        },
+        {
+          "documentIdentifier" : "BJNR021050988BJNE001502310",
+          "paragraph" : "Anlage 1c",
+          "title" : "(zu § 1 Abs. 1 Nr. 3)"
+        },
+        {
+          "documentIdentifier" : "BJNR021050988BJNE001602310",
+          "paragraph" : "Anlage 1d",
+          "title" : "(zu § 1 Abs. 2 Nr. 1 und 2)"
+        },
+        {
+          "documentIdentifier" : "BJNR021050988BJNE001701310",
+          "paragraph" : "Anlage 1e",
+          "title" : "(zu § 1 Abs. 2 Nr. 2)"
+        },
+        {
+          "documentIdentifier" : "BJNR021050988BJNE001801314",
+          "paragraph" : "Anlage 2a",
+          "title" : "(zu § 2 Abs. 1 Nr. 1)"
+        },
+        {
+          "documentIdentifier" : "BJNR021050988BJNE001900300",
+          "paragraph" : "Anlage 2b",
+          "title" : "(zu § 2 Abs. 1 Nr. 2)"
+        },
+        {
+          "documentIdentifier" : "BJNR021050988BJNE002000300",
+          "paragraph" : "Anlage 2c",
+          "title" : "(zu § 2 Abs. 1 Nr. 3)"
+        },
+        {
+          "documentIdentifier" : "BJNR021050988BJNE002102310",
+          "paragraph" : "Anlage 3",
+          "title" : "(zu §§ 6, 7 Abs. 1 Nr. 4, Abs. 2 Nr. 1 und § 8 Abs. 1 Nr. 4)"
+        },
+        {
+          "documentIdentifier" : "BJNR021050988BJNE002203116",
+          "paragraph" : "Anlage 4",
+          "title" : "(zu § 7 Abs. 1 Nr. 1 und § 8 Abs. 1 Nr. 1)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übergangs- und Schlußvorschriften"
+    }
+  ]
+}

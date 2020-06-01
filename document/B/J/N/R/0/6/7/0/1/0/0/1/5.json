@@ -1,0 +1,111 @@
+{
+  "documentIdentifier" : "BJNR067010015",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR067010015BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR067010015BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR067010015BJNE000201116",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR067010015BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR067010015BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Vorlagepflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR067010015BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Gegenstand des Kosten-Nutzen-Vergleichs"
+        },
+        {
+          "documentIdentifier" : "BJNR067010015BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Ermittlung zu berücksichtigender Wärme- oder Kältebedarfspunkte und Anlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR067010015BJNE000600000",
+          "paragraph" : "§ 6",
+          "title" : "Wirtschaftlichkeitsanalyse"
+        },
+        {
+          "documentIdentifier" : "BJNR067010015BJNE000700000",
+          "paragraph" : "§ 7",
+          "title" : "Ergebnis des Kosten-Nutzen-Vergleichs"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Kosten-Nutzen-Vergleich"
+    },
+    {
+      "documentIdentifier" : "BJNR067010015BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR067010015BJNE000800000",
+          "paragraph" : "§ 8",
+          "title" : "Berücksichtigung des Kosten-Nutzen-Vergleichs"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Zulassungsentscheidung der zuständigen Behörde"
+    },
+    {
+      "documentIdentifier" : "BJNR067010015BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR067010015BJNE000900000",
+          "paragraph" : "§ 9",
+          "title" : "Verhältnis zu anderen Vorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR067010015BJNE001000000",
+          "paragraph" : "§ 10",
+          "title" : "Erstmalige Anwendung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussvorschriften"
+    }
+  ]
+}

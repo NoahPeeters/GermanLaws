@@ -1,0 +1,167 @@
+{
+  "documentIdentifier" : "BJNR016770991",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR016770991BJNG000100307",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR016770991BJNE000400307",
+          "paragraph" : "§ 1",
+          "title" : "Geltungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR016770991BJNE000501308",
+          "paragraph" : "§ 2",
+          "title" : "Grundsätze der Überführung"
+        },
+        {
+          "documentIdentifier" : "BJNR016770991BJNE000600307",
+          "paragraph" : "§ 3",
+          "title" : "Versicherter Personenkreis"
+        },
+        {
+          "documentIdentifier" : "BJNR016770991BJNE000703308",
+          "paragraph" : "§ 4",
+          "title" : "Überführung in die Rentenversicherung"
+        },
+        {
+          "documentIdentifier" : "BJNR016770991BJNE000805126",
+          "paragraph" : "§ 5",
+          "title" : "Pflichtbeitragszeiten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Erster Abschnitt"
+    },
+    {
+      "documentIdentifier" : "BJNR016770991BJNG000200307",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR016770991BJNE000911119",
+          "paragraph" : "§ 6",
+          "title" : "Art der Überführung in die Rentenversicherung"
+        },
+        {
+          "documentIdentifier" : "BJNR016770991BJNE001004308",
+          "paragraph" : "§ 7",
+          "title" : "Begrenzung des berücksichtigungsfähigen Entgelts"
+        },
+        {
+          "documentIdentifier" : "BJNR016770991BJNE001107308",
+          "paragraph" : "§ 8",
+          "title" : "Verfahren zur Mitteilung der Überführungsdaten"
+        },
+        {
+          "documentIdentifier" : "BJNR016770991BJNE001203308",
+          "paragraph" : "§ 9",
+          "title" : "Auszahlung von Versorgungsleistungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Zweiter Abschnitt"
+    },
+    {
+      "documentIdentifier" : "BJNR016770991BJNG000300307",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR016770991BJNE001306308",
+          "paragraph" : "§ 10",
+          "title" : "Vorläufige Begrenzung von Zahlbeträgen"
+        },
+        {
+          "documentIdentifier" : "BJNR016770991BJNE001408308",
+          "paragraph" : "§ 11",
+          "title" : "Anpassung von Versorgungsleistungen aufgrund\nvorzeitiger Entlassung"
+        },
+        {
+          "documentIdentifier" : "BJNR016770991BJNE001606308",
+          "paragraph" : "§ 13",
+          "title" : "Einstellung von Leistungen"
+        },
+        {
+          "documentIdentifier" : "BJNR016770991BJNE001703308",
+          "paragraph" : "§ 14",
+          "title" : "Übergangsregelungen für Versorgungssysteme\nnach Anlage 1 Nr. 23 bis 27"
+        },
+        {
+          "documentIdentifier" : "BJNR016770991BJNE003000308",
+          "paragraph" : "§ 14a",
+          "title" : "Weitergeltung von Bescheiden"
+        },
+        {
+          "documentIdentifier" : "BJNR016770991BJNE003100308",
+          "paragraph" : "§ 14b",
+          "title" : "Überprüfung von bestandskräftigen Bescheiden"
+        },
+        {
+          "documentIdentifier" : "BJNR016770991BJNE001805126",
+          "paragraph" : "§ 15",
+          "title" : "Erstattung von Aufwendungen"
+        },
+        {
+          "documentIdentifier" : "BJNR016770991BJNE001906308",
+          "paragraph" : "§ 16",
+          "title" : "Verordnungsermächtigung"
+        },
+        {
+          "documentIdentifier" : "BJNR016770991BJNE002000307",
+          "paragraph" : "§ 17",
+          "title" : "Sozialgerichtsverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR016770991BJNE002104126",
+          "paragraph" : "§ 18",
+          "title" : "Bußgeldvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR016770991BJNE002201308",
+          "paragraph" : "Anlage 1",
+          "title" : "Zusatzversorgungssysteme"
+        },
+        {
+          "documentIdentifier" : "BJNR016770991BJNE002301308",
+          "paragraph" : "Anlage 2",
+          "title" : "Sonderversorgungssysteme"
+        },
+        {
+          "documentIdentifier" : "BJNR016770991BJNE002402308",
+          "paragraph" : "Anlage 3",
+          "title" : "Jahreshöchstverdienst nach § 6 Abs. 1"
+        },
+        {
+          "documentIdentifier" : "BJNR016770991BJNE002603308",
+          "paragraph" : "Anlage 5",
+          "title" : "Mindestgrenze nach § 6 Abs. 2"
+        },
+        {
+          "documentIdentifier" : "BJNR016770991BJNE002702308",
+          "paragraph" : "Anlage 6",
+          "title" : "Jahreshöchstverdienst nach § 7"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Dritter Abschnitt"
+    }
+  ]
+}

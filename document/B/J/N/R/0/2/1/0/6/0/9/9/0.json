@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR021060990",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR021060990Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR021060990BJNE000200308",
+          "paragraph" : "§ 1",
+          "title" : "Grundsatz"
+        },
+        {
+          "documentIdentifier" : "BJNR021060990BJNE000303377",
+          "paragraph" : "§ 2",
+          "title" : "Sonderregelungen"
+        },
+        {
+          "documentIdentifier" : "BJNR021060990BJNE000400308",
+          "paragraph" : "§ 3",
+          "title" : "Ausnahmen"
+        },
+        {
+          "documentIdentifier" : "BJNR021060990BJNE000500308",
+          "paragraph" : "§ 4",
+          "title" : "Außerkrafttretende Sondervorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR021060990BJNE000601377",
+          "paragraph" : "§ 5",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

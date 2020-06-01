@@ -1,0 +1,79 @@
+{
+  "documentIdentifier" : "BJNR021200000",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR021200000Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR021200000BJNE000100310",
+          "paragraph" : "§ 1",
+          "title" : "Errichtung und Rechtsform"
+        },
+        {
+          "documentIdentifier" : "BJNR021200000BJNE000201310",
+          "paragraph" : "§ 2",
+          "title" : "Stiftungszweck"
+        },
+        {
+          "documentIdentifier" : "BJNR021200000BJNE000300310",
+          "paragraph" : "§ 3",
+          "title" : "Stiftungsvermögen, Gemeinnützigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR021200000BJNE000401310",
+          "paragraph" : "§ 4",
+          "title" : "Organe der Stiftung"
+        },
+        {
+          "documentIdentifier" : "BJNR021200000BJNE000502116",
+          "paragraph" : "§ 5",
+          "title" : "Kuratorium"
+        },
+        {
+          "documentIdentifier" : "BJNR021200000BJNE000601310",
+          "paragraph" : "§ 6",
+          "title" : "Direktor oder Direktorin"
+        },
+        {
+          "documentIdentifier" : "BJNR021200000BJNE000701310",
+          "paragraph" : "§ 7",
+          "title" : "Beirat"
+        },
+        {
+          "documentIdentifier" : "BJNR021200000BJNE000801310",
+          "paragraph" : "§ 8",
+          "title" : "Ehrenamtliche Tätigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR021200000BJNE000900310",
+          "paragraph" : "§ 9",
+          "title" : "Beschäftigte"
+        },
+        {
+          "documentIdentifier" : "BJNR021200000BJNE001000310",
+          "paragraph" : "§ 10",
+          "title" : "Haushalt, Rechnungsprüfung, Rechtsaufsicht"
+        },
+        {
+          "documentIdentifier" : "BJNR021200000BJNE001100310",
+          "paragraph" : "§ 11",
+          "title" : "Satzung"
+        },
+        {
+          "documentIdentifier" : "BJNR021200000BJNE001201310",
+          "paragraph" : "§ 12",
+          "title" : "Dienstsiegel"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

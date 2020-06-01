@@ -1,0 +1,414 @@
+{
+  "documentIdentifier" : "BJNR010370975",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR010370975BJNG000100319",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR010370975BJNE001300319",
+          "paragraph" : "§ 1",
+          "title" : "Gesetzeszweck"
+        },
+        {
+          "documentIdentifier" : "BJNR010370975BJNE001401377",
+          "paragraph" : "§ 2",
+          "title" : "Wald"
+        },
+        {
+          "documentIdentifier" : "BJNR010370975BJNE001501377",
+          "paragraph" : "§ 3",
+          "title" : "Waldeigentumsarten"
+        },
+        {
+          "documentIdentifier" : "BJNR010370975BJNE001600319",
+          "paragraph" : "§ 4",
+          "title" : "Waldbesitzer"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR010370975BJNG000200319",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR010370975BJNE001700319",
+          "paragraph" : "§ 5",
+          "title" : "Vorschriften für die Landesgesetzgebung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR010370975BJNG000300319",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR010370975BJNE001801377",
+              "paragraph" : "(XXXX) §§ 6 und 7",
+              "title" : "(weggefallen)"
+            },
+            {
+              "documentIdentifier" : "BJNR010370975BJNE002000319",
+              "paragraph" : "§ 8",
+              "title" : "Sicherung der Funktionen des Waldes bei Planungen und Maßnahmen von\nTrägern öffentlicher Vorhaben"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Forstliche Rahmenplanung und Sicherung der Funktionen des Waldes bei Planungen und Maßnahmen von Trägern öffentlicher Vorhaben"
+        },
+        {
+          "documentIdentifier" : "BJNR010370975BJNG000400319",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR010370975BJNE002100319",
+              "paragraph" : "§ 9",
+              "title" : "Erhaltung des Waldes"
+            },
+            {
+              "documentIdentifier" : "BJNR010370975BJNE002200319",
+              "paragraph" : "§ 10",
+              "title" : "Erstaufforstung"
+            },
+            {
+              "documentIdentifier" : "BJNR010370975BJNE002301377",
+              "paragraph" : "§ 11",
+              "title" : "Bewirtschaftung des Waldes"
+            },
+            {
+              "documentIdentifier" : "BJNR010370975BJNE002401377",
+              "paragraph" : "§ 12",
+              "title" : "Schutzwald"
+            },
+            {
+              "documentIdentifier" : "BJNR010370975BJNE002500319",
+              "paragraph" : "§ 13",
+              "title" : "Erholungswald"
+            },
+            {
+              "documentIdentifier" : "BJNR010370975BJNE002601377",
+              "paragraph" : "§ 14",
+              "title" : "Betreten des Waldes"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Erhaltung und Bewirtschaftung des Waldes, Erstaufforstung"
+        }
+      ],
+      "title" : "Erhaltung des Waldes"
+    },
+    {
+      "documentIdentifier" : "BJNR010370975BJNG000500319",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR010370975BJNG000600319",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR010370975BJNE002700319",
+              "paragraph" : "§ 15",
+              "title" : "Arten der forstwirtschaftlichen Zusammenschlüsse"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Allgemeine Vorschrift"
+        },
+        {
+          "documentIdentifier" : "BJNR010370975BJNG000700319",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR010370975BJNE002800319",
+              "paragraph" : "§ 16",
+              "title" : "Begriff"
+            },
+            {
+              "documentIdentifier" : "BJNR010370975BJNE002900319",
+              "paragraph" : "§ 17",
+              "title" : "Aufgaben der Forstbetriebsgemeinschaft"
+            },
+            {
+              "documentIdentifier" : "BJNR010370975BJNE003000319",
+              "paragraph" : "§ 18",
+              "title" : "Anerkennung"
+            },
+            {
+              "documentIdentifier" : "BJNR010370975BJNE003100319",
+              "paragraph" : "§ 19",
+              "title" : "Verleihung der Rechtsfähigkeit an Vereine"
+            },
+            {
+              "documentIdentifier" : "BJNR010370975BJNE003200319",
+              "paragraph" : "§ 20",
+              "title" : "Widerruf der Anerkennung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Forstbetriebsgemeinschaften"
+        },
+        {
+          "documentIdentifier" : "BJNR010370975BJNG000800319",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR010370975BJNE003300319",
+              "paragraph" : "§ 21",
+              "title" : "Begriff und Aufgabe"
+            },
+            {
+              "documentIdentifier" : "BJNR010370975BJNE003400319",
+              "paragraph" : "§ 22",
+              "title" : "Voraussetzungen für die Bildung eines Forstbetriebsverbandes"
+            },
+            {
+              "documentIdentifier" : "BJNR010370975BJNE003500319",
+              "paragraph" : "§ 23",
+              "title" : "Bildung eines Forstbetriebsverbands"
+            },
+            {
+              "documentIdentifier" : "BJNR010370975BJNE003600319",
+              "paragraph" : "§ 24",
+              "title" : "Mitgliedschaft"
+            },
+            {
+              "documentIdentifier" : "BJNR010370975BJNE003700319",
+              "paragraph" : "§ 25",
+              "title" : "Satzung"
+            },
+            {
+              "documentIdentifier" : "BJNR010370975BJNE003800319",
+              "paragraph" : "§ 26",
+              "title" : "Organe des Forstbetriebsverbands"
+            },
+            {
+              "documentIdentifier" : "BJNR010370975BJNE003900319",
+              "paragraph" : "§ 27",
+              "title" : "Aufgaben der Verbandsversammlung"
+            },
+            {
+              "documentIdentifier" : "BJNR010370975BJNE004000319",
+              "paragraph" : "§ 28",
+              "title" : "Vorsitz in der Verbandsversammlung, Einberufung und\nStimmenverhältnis"
+            },
+            {
+              "documentIdentifier" : "BJNR010370975BJNE004100319",
+              "paragraph" : "§ 29",
+              "title" : "Vorstand"
+            },
+            {
+              "documentIdentifier" : "BJNR010370975BJNE004200319",
+              "paragraph" : "§ 30",
+              "title" : "Verbandsausschuß"
+            },
+            {
+              "documentIdentifier" : "BJNR010370975BJNE004300319",
+              "paragraph" : "§ 31",
+              "title" : "Änderung der Satzung"
+            },
+            {
+              "documentIdentifier" : "BJNR010370975BJNE004400319",
+              "paragraph" : "§ 32",
+              "title" : "Ausscheiden von Grundstücken"
+            },
+            {
+              "documentIdentifier" : "BJNR010370975BJNE004500319",
+              "paragraph" : "§ 33",
+              "title" : "Umlage, Beiträge"
+            },
+            {
+              "documentIdentifier" : "BJNR010370975BJNE004600319",
+              "paragraph" : "§ 34",
+              "title" : "Aufsicht"
+            },
+            {
+              "documentIdentifier" : "BJNR010370975BJNE004700319",
+              "paragraph" : "§ 35",
+              "title" : "Verbandsverzeichnis"
+            },
+            {
+              "documentIdentifier" : "BJNR010370975BJNE004800319",
+              "paragraph" : "§ 36",
+              "title" : "Auflösung des Forstbetriebsverbandes"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Forstbetriebsverbände"
+        },
+        {
+          "documentIdentifier" : "BJNR010370975BJNG000900319",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR010370975BJNE004901377",
+              "paragraph" : "§ 37",
+              "title" : "Begriff und Aufgabe"
+            },
+            {
+              "documentIdentifier" : "BJNR010370975BJNE005000319",
+              "paragraph" : "§ 38",
+              "title" : "Anerkennung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Forstwirtschaftliche Vereinigungen"
+        },
+        {
+          "documentIdentifier" : "BJNR010370975BJNG001000319",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR010370975BJNE005100319",
+              "paragraph" : "§ 39",
+              "title" : "Sonstige Zusammenschlüsse in der Forstwirtschaft"
+            },
+            {
+              "documentIdentifier" : "BJNR010370975BJNE005204311",
+              "paragraph" : "§ 40",
+              "title" : "Befreiung von Vorschriften des Gesetzes gegen Wettbewerbsbeschränkungen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              5
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Ergänzende Vorschriften"
+        }
+      ],
+      "title" : "Forstwirtschaftliche Zusammenschlüsse"
+    },
+    {
+      "documentIdentifier" : "BJNR010370975BJNG001100319",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR010370975BJNE005300319",
+          "paragraph" : "§ 41",
+          "title" : "Förderung"
+        },
+        {
+          "documentIdentifier" : "BJNR010370975BJNE005404118",
+          "paragraph" : "§ 41a",
+          "title" : "Walderhebungen"
+        },
+        {
+          "documentIdentifier" : "BJNR010370975BJNE005500319",
+          "paragraph" : "§ 42",
+          "title" : "Auskunftspflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR010370975BJNE005601377",
+          "paragraph" : "§ 43",
+          "title" : "Verletzung der Auskunftspflicht"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Förderung der Forstwirtschaft, Auskunftspflicht"
+    },
+    {
+      "documentIdentifier" : "BJNR010370975BJNG001200319",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR010370975BJNE005703118",
+          "paragraph" : "§ 44",
+          "title" : "Allgemeine Verwaltungsvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR010370975BJNE005802377",
+          "paragraph" : "§ 45",
+          "title" : "Anwendung des Gesetzes in besonderen Fällen"
+        },
+        {
+          "documentIdentifier" : "BJNR010370975BJNE005901311",
+          "paragraph" : "§ 46",
+          "title" : "Weitere Vorschriften in besonderen Fällen"
+        },
+        {
+          "documentIdentifier" : "BJNR010370975BJNE006100319",
+          "paragraph" : "§ 48",
+          "title" : "Inkrafttreten, Aufhebung von Vorschriften"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlußvorschriften"
+    }
+  ]
+}

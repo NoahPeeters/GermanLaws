@@ -1,0 +1,156 @@
+{
+  "documentIdentifier" : "BJNR208219955",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR208219955BJNG000100306",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Art 1"
+    },
+    {
+      "documentIdentifier" : "BJNR208219955BJNG000200306",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Art 2"
+    },
+    {
+      "documentIdentifier" : "BJNR208219955BJNG000300306",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR208219955BJNG000400306",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              1
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR208219955BJNE000800306",
+              "laws" : [
+
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  3,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Art 3"
+            }
+          ],
+          "title" : "Umsatzsteuerrechtliche Bestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR208219955BJNG000500306",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              2
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR208219955BJNE000901140",
+              "laws" : [
+
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  3,
+                  2
+                ]
+              },
+              "subsections" : [
+                {
+                  "documentIdentifier" : "BJNR208219955BJNE001001140",
+                  "laws" : [
+
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      3,
+                      2
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Art 3"
+                }
+              ],
+              "title" : "Art 3"
+            }
+          ],
+          "title" : "Zoll-, verbrauchssteuer- und monopolrechtliche Bestimmungen"
+        }
+      ],
+      "title" : "Art 3"
+    },
+    {
+      "documentIdentifier" : "BJNR208219955BJNG000601140",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Art 4"
+    },
+    {
+      "documentIdentifier" : "BJNR208219955BJNG000700306",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Art 5"
+    }
+  ]
+}

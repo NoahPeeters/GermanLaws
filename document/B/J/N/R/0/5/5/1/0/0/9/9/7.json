@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR055100997",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR055100997Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR055100997BJNE000200320",
+          "paragraph" : "Anlage 1",
+          "title" : "Name, Abkürzung und Emblem der Internationalen\nOrganisation für Auswanderung"
+        },
+        {
+          "documentIdentifier" : "BJNR055100997BJNE000300320",
+          "paragraph" : "Anlage 2",
+          "title" : "Flagge, Name und Abkürzung der Internationalen\nFernmeldeunion sowie Namen und Abkürzungen ihrer drei\nBereiche"
+        },
+        {
+          "documentIdentifier" : "BJNR055100997BJNE000400320",
+          "paragraph" : "Anlage 3",
+          "title" : "Emblem und Siegel der Multilateralen\nInvestitions-Garantie-Agentur"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR054700013",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR054700013Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR054700013BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Ziel und Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR054700013BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Nutzungen"
+        },
+        {
+          "documentIdentifier" : "BJNR054700013BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Quellenvermerke"
+        },
+        {
+          "documentIdentifier" : "BJNR054700013BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Haftungsbeschränkung"
+        },
+        {
+          "documentIdentifier" : "BJNR054700013BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

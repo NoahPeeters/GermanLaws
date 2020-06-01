@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR055700004",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR055700004Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR055700004BJNE000202301",
+          "paragraph" : "§ 1",
+          "title" : "Zuständigkeitsübertragung"
+        },
+        {
+          "documentIdentifier" : "BJNR055700004BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

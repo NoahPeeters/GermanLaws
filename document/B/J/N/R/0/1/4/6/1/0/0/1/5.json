@@ -1,0 +1,136 @@
+{
+  "documentIdentifier" : "BJNR014610015",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR014610015BJNG000100124",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR014610015BJNE000101124",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Anwendungsbereich"
+    },
+    {
+      "documentIdentifier" : "BJNR014610015BJNG000200124",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR014610015BJNE000201124",
+          "paragraph" : "§ 2",
+          "title" : "Vermarktung durch die Übertragungsnetzbetreiber"
+        },
+        {
+          "documentIdentifier" : "BJNR014610015BJNE000303124",
+          "paragraph" : "§ 3",
+          "title" : "Ermittlung der EEG-Umlage"
+        },
+        {
+          "documentIdentifier" : "BJNR014610015BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Beweislast"
+        },
+        {
+          "documentIdentifier" : "BJNR014610015BJNE000501124",
+          "paragraph" : "§ 5",
+          "title" : "Veröffentlichung der EEG-Umlage"
+        },
+        {
+          "documentIdentifier" : "BJNR014610015BJNE000601123",
+          "paragraph" : "§ 6",
+          "title" : "Veröffentlichung der EEG-Vorausschau"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "EEG-Ausgleichsmechanismus"
+    },
+    {
+      "documentIdentifier" : "BJNR014610015BJNG000300124",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR014610015BJNE000702124",
+          "paragraph" : "§ 7",
+          "title" : "Herkunftsnachweisregister"
+        },
+        {
+          "documentIdentifier" : "BJNR014610015BJNE000802124",
+          "paragraph" : "§ 8",
+          "title" : "Regionalnachweisregister"
+        },
+        {
+          "documentIdentifier" : "BJNR014610015BJNE000902124",
+          "paragraph" : "§ 9",
+          "title" : "Mindestinhalt von Herkunftsnachweisen"
+        },
+        {
+          "documentIdentifier" : "BJNR014610015BJNE001200124",
+          "paragraph" : "§ 10",
+          "title" : "Mindestinhalt von Regionalnachweisen"
+        },
+        {
+          "documentIdentifier" : "BJNR014610015BJNE001300124",
+          "paragraph" : "§ 11",
+          "title" : "Grundsätze für Herkunftsnachweise"
+        },
+        {
+          "documentIdentifier" : "BJNR014610015BJNE001400124",
+          "paragraph" : "§ 12",
+          "title" : "Grundsätze für Regionalnachweise"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Herkunfts- und Regionalnachweise für Strom aus erneuerbaren Energien"
+    },
+    {
+      "documentIdentifier" : "BJNR014610015BJNG000400124",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR014610015BJNE001004124",
+          "paragraph" : "§ 13",
+          "title" : "Subdelegation an die Bundesnetzagentur"
+        },
+        {
+          "documentIdentifier" : "BJNR014610015BJNE001102118",
+          "paragraph" : "§ 14",
+          "title" : "Subdelegation an das Umweltbundesamt"
+        },
+        {
+          "documentIdentifier" : "BJNR014610015BJNE001500124",
+          "paragraph" : "§ 15",
+          "title" : "Subdelegation an das Bundesamt für Seeschifffahrt und Hydrographie"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übertragung von Verordnungsermächtigungen"
+    }
+  ]
+}

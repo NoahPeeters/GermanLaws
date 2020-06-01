@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR274900003",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR274900003Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR274900003BJNE000202116",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR274900003BJNE000303116",
+          "paragraph" : "§ 2",
+          "title" : "Gebühren und Auslagen"
+        },
+        {
+          "documentIdentifier" : "BJNR274900003BJNE000402116",
+          "paragraph" : "§ 3",
+          "title" : "Gebühren bei erfolglosen und zurückgenommenen Widersprüchen"
+        },
+        {
+          "documentIdentifier" : "BJNR274900003BJNE000503116",
+          "paragraph" : "§ 4",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR274900003BJNE000602116",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 2)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

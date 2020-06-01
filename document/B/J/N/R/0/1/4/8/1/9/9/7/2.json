@@ -1,0 +1,94 @@
+{
+  "documentIdentifier" : "BJNR014819972",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR014819972BJNE001100311",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          0
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "-"
+    },
+    {
+      "documentIdentifier" : "BJNR014819972BJNG000100311",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Art I bis VII"
+    },
+    {
+      "documentIdentifier" : "BJNR014819972BJNG000801320",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          8
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR014819972BJNE001201320",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              8
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Art VIII"
+        }
+      ],
+      "title" : "(weggefallen)"
+    },
+    {
+      "documentIdentifier" : "BJNR014819972BJNG000900311",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          9
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Art IX"
+    },
+    {
+      "documentIdentifier" : "BJNR014819972BJNG001000311",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          10
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inkrafttreten"
+    }
+  ]
+}

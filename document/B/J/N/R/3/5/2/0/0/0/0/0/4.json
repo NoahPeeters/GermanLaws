@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR352000004",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR352000004Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR352000004BJNE000203125",
+          "paragraph" : "§ 1",
+          "title" : "Nationale Anlaufstelle für Terrorismusfragen"
+        },
+        {
+          "documentIdentifier" : "BJNR352000004BJNE000303125",
+          "paragraph" : "§ 2",
+          "title" : "Verarbeitung der durch den Generalbundesanwalt erhobenen Informationen"
+        },
+        {
+          "documentIdentifier" : "BJNR352000004BJNE000401301",
+          "paragraph" : "§ 3",
+          "title" : "Übermittlung von Informationen durch die Staatsanwaltschaften der Länder\nund deren Prüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR352000004BJNE000501125",
+          "paragraph" : "§ 4",
+          "title" : "Befugnisse des Generalbundesanwalts in seiner Eigenschaft als nationale Anlaufstelle, Zweckbindung"
+        },
+        {
+          "documentIdentifier" : "BJNR352000004BJNE000604125",
+          "paragraph" : "§ 5",
+          "title" : "Schutz personenbezogener Informationen"
+        },
+        {
+          "documentIdentifier" : "BJNR352000004BJNE000701311",
+          "paragraph" : "§ 6",
+          "title" : "Aufsicht"
+        },
+        {
+          "documentIdentifier" : "BJNR352000004BJNE000801308",
+          "paragraph" : "§ 7",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

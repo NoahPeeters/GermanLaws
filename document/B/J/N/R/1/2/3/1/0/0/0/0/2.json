@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR123100002",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR123100002Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR123100002BJNE000107124",
+          "paragraph" : "§ 1",
+          "title" : "Gebühren und Auslagen"
+        },
+        {
+          "documentIdentifier" : "BJNR123100002BJNE000202301",
+          "paragraph" : "§ 2",
+          "title" : "Widerspruch"
+        },
+        {
+          "documentIdentifier" : "BJNR123100002BJNE000302301",
+          "paragraph" : "§ 3",
+          "title" : "Widerruf, Rücknahme, Ablehnung und Zurücknahme von Anträgen"
+        },
+        {
+          "documentIdentifier" : "BJNR123100002BJNE000402301",
+          "paragraph" : "§ 4",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR123100002BJNE000705124",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 1 Absatz 2)"
+        },
+        {
+          "documentIdentifier" : "BJNR123100002BJNE000604301",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 1 Absatz 3)"
+        },
+        {
+          "documentIdentifier" : "BJNR123100002BJNE000505301",
+          "paragraph" : "Anlage 3",
+          "title" : "(zu § 1 Absatz 4)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

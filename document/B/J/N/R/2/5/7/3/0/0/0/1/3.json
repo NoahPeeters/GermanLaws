@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR257300013",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR257300013Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR257300013BJNE000202116",
+          "paragraph" : "§ 1",
+          "title" : "Vorschuss"
+        },
+        {
+          "documentIdentifier" : "BJNR257300013BJNE000301116",
+          "paragraph" : "§ 2",
+          "title" : "Verrechnung"
+        },
+        {
+          "documentIdentifier" : "BJNR257300013BJNE000402116",
+          "paragraph" : "§ 3",
+          "title" : "Rückzahlung"
+        },
+        {
+          "documentIdentifier" : "BJNR257300013BJNE000502116",
+          "paragraph" : "§ 4",
+          "title" : "Härtefallregelung"
+        },
+        {
+          "documentIdentifier" : "BJNR257300013BJNE000601116",
+          "paragraph" : "§ 5",
+          "title" : "Vorschussgewährung an Berufssoldatinnen oder Berufssoldaten und Soldatinnen auf Zeit oder Soldaten auf Zeit"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

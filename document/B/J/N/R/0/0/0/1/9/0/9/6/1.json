@@ -1,0 +1,112 @@
+{
+  "documentIdentifier" : "BJNR000190961",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR000190961BJNG000100314",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR000190961BJNE000409308",
+          "paragraph" : "§ 1",
+          "title" : "Einkommen"
+        },
+        {
+          "documentIdentifier" : "BJNR000190961BJNE000519140",
+          "paragraph" : "§ 2",
+          "title" : "Nicht zu berücksichtigende Einkünfte"
+        },
+        {
+          "documentIdentifier" : "BJNR000190961BJNE000606308",
+          "paragraph" : "§ 3",
+          "title" : "Bewertung von Sachbezügen"
+        },
+        {
+          "documentIdentifier" : "BJNR000190961BJNE000702301",
+          "paragraph" : "§ 4",
+          "title" : "Unterhaltsansprüche"
+        },
+        {
+          "documentIdentifier" : "BJNR000190961BJNE000901308",
+          "paragraph" : "§ 6",
+          "title" : "Werbungskosten bei Einkünften aus nichtselbständiger Arbeit"
+        },
+        {
+          "documentIdentifier" : "BJNR000190961BJNE001101308",
+          "paragraph" : "§ 8",
+          "title" : "Einkünfte aus Land- und Forstwirtschaft, Gewerbebetrieb\nund selbständiger Arbeit"
+        },
+        {
+          "documentIdentifier" : "BJNR000190961BJNE001205308",
+          "paragraph" : "§ 9",
+          "title" : "Einkünfte von Land- und Forstwirten, deren Gewinne nach Durchschnittsätzen ermittelt werden"
+        },
+        {
+          "documentIdentifier" : "BJNR000190961BJNE001300314",
+          "paragraph" : "§ 10",
+          "title" : "Einkünfte aus Arbeit bei Familienangehörigen"
+        },
+        {
+          "documentIdentifier" : "BJNR000190961BJNE001402308",
+          "paragraph" : "§ 11",
+          "title" : "Einkünfte aus Kapitalvermögen"
+        },
+        {
+          "documentIdentifier" : "BJNR000190961BJNE001504308",
+          "paragraph" : "§ 12",
+          "title" : "Einkünfte aus Haus- und Grundbesitz sowie aus Untervermietung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schwerbeschädigte"
+    },
+    {
+      "documentIdentifier" : "BJNR000190961BJNG000201308",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR000190961BJNE001702308",
+          "paragraph" : "§ 14",
+          "title" : "Anwendung der Vorschriften des ersten Abschnitts"
+        },
+        {
+          "documentIdentifier" : "BJNR000190961BJNE001802308",
+          "paragraph" : "§ 15",
+          "title" : "Sondervorschriften für Witwen, Witwer,\nhinterbliebene Lebenspartner und Waisen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Witwen, Witwer, hinterbliebene Lebenspartner und Waisen"
+    },
+    {
+      "documentIdentifier" : "BJNR000190961BJNG000300314",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR000190961BJNE002002308",
+          "paragraph" : "Anlage",
+          "title" : "zu § 3\n"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Eltern"
+    }
+  ]
+}

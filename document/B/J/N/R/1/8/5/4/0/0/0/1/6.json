@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR185400016",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR185400016Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR185400016BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR185400016BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Datenübermittlung"
+        },
+        {
+          "documentIdentifier" : "BJNR185400016BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Angaben im Mautdienstregister"
+        },
+        {
+          "documentIdentifier" : "BJNR185400016BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Verfahren zur Führung und Aktualisierung des Mautdienstregisters"
+        },
+        {
+          "documentIdentifier" : "BJNR185400016BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Aktualisierung des Mautdienstregisters"
+        },
+        {
+          "documentIdentifier" : "BJNR185400016BJNE000600000",
+          "paragraph" : "§ 6",
+          "title" : "Bekanntmachung des Mautdienstregisters"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

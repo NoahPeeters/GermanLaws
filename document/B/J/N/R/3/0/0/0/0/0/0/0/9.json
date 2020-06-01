@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR300000009",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR300000009Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR300000009BJNE000201119",
+          "paragraph" : "§ 1",
+          "title" : "Meldestelle"
+        },
+        {
+          "documentIdentifier" : "BJNR300000009BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

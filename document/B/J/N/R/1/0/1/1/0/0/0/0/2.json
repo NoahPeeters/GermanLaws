@@ -1,0 +1,84 @@
+{
+  "documentIdentifier" : "BJNR101100002",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR101100002Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR101100002BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Wahlbereiche"
+        },
+        {
+          "documentIdentifier" : "BJNR101100002BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Bestellung des Wahlvorstandes"
+        },
+        {
+          "documentIdentifier" : "BJNR101100002BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Wahltermin"
+        },
+        {
+          "documentIdentifier" : "BJNR101100002BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Wahlbekanntgabe"
+        },
+        {
+          "documentIdentifier" : "BJNR101100002BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Wählerverzeichnis"
+        },
+        {
+          "documentIdentifier" : "BJNR101100002BJNE000600000",
+          "paragraph" : "§ 6",
+          "title" : "Einspruch gegen das Wählerverzeichnis"
+        },
+        {
+          "documentIdentifier" : "BJNR101100002BJNE000700000",
+          "paragraph" : "§ 7",
+          "title" : "Wahlverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR101100002BJNE000800000",
+          "paragraph" : "§ 8",
+          "title" : "Bereitstellen der Mittel"
+        },
+        {
+          "documentIdentifier" : "BJNR101100002BJNE000900000",
+          "paragraph" : "§ 9",
+          "title" : "Verbot der Wahlbehinderung"
+        },
+        {
+          "documentIdentifier" : "BJNR101100002BJNE001000000",
+          "paragraph" : "§ 10",
+          "title" : "Feststellung des Wahlergebnisses"
+        },
+        {
+          "documentIdentifier" : "BJNR101100002BJNE001100000",
+          "paragraph" : "§ 11",
+          "title" : "Wahlniederschrift"
+        },
+        {
+          "documentIdentifier" : "BJNR101100002BJNE001200000",
+          "paragraph" : "§ 12",
+          "title" : "Bekanntgabe der Gewählten, Aufbewahren der Wahlunterlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR101100002BJNE001300000",
+          "paragraph" : "§ 13",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

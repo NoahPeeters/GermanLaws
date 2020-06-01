@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR229500017",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR229500017Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR229500017BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Festlegung und Anpassung der Werte nach § 46 Absatz 8 Satz 1 des Zweiten Buches Sozialgesetzbuch"
+        },
+        {
+          "documentIdentifier" : "BJNR229500017BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Festlegung und Anpassung der Werte nach § 46 Absatz 9 Satz 1 des Zweiten Buches Sozialgesetzbuch"
+        },
+        {
+          "documentIdentifier" : "BJNR229500017BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Festlegung und Anpassung der landesspezifischen Beteiligungsquoten nach § 46 Absatz 5 Satz 3 des Zweiten Buches Sozialgesetzbuch"
+        },
+        {
+          "documentIdentifier" : "BJNR229500017BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

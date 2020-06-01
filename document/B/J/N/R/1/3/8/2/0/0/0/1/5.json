@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR138200015",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR138200015Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR138200015BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Nachweise über Erwerb und Anwendung durch den Tierhalter"
+        },
+        {
+          "documentIdentifier" : "BJNR138200015BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Führung von Nachweisen über die Anwendung durch den Tierhalter"
+        },
+        {
+          "documentIdentifier" : "BJNR138200015BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Führen von Nachweisen bei sonstigen Personen"
+        },
+        {
+          "documentIdentifier" : "BJNR138200015BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Anlagen für die orale Anwendung von bestimmten Arzneimitteln bei Tieren, die der Gewinnung von Lebensmitteln dienen"
+        },
+        {
+          "documentIdentifier" : "BJNR138200015BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Anwendung von bestimmten Arzneimitteln zur oralen Anwendung bei Tieren, die der Gewinnung von Lebensmitteln dienen"
+        },
+        {
+          "documentIdentifier" : "BJNR138200015BJNE000600000",
+          "paragraph" : "§ 6",
+          "title" : "Ordnungswidrigkeiten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

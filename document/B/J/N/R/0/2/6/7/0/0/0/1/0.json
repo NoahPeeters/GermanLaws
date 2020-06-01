@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR026700010",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR026700010Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR026700010BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR026700010BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Stets zur Verfügung zu stellende Informationen"
+        },
+        {
+          "documentIdentifier" : "BJNR026700010BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Auf Anfrage zur Verfügung zu stellende Informationen"
+        },
+        {
+          "documentIdentifier" : "BJNR026700010BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Erforderliche Preisangaben"
+        },
+        {
+          "documentIdentifier" : "BJNR026700010BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Verbot diskriminierender Bestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR026700010BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR026700010BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR172010005",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR172010005Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR172010005BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR172010005BJNE000202119",
+          "paragraph" : "§ 2",
+          "title" : "Erhebung der Zuschläge"
+        },
+        {
+          "documentIdentifier" : "BJNR172010005BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Ausweis der Zuschläge"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

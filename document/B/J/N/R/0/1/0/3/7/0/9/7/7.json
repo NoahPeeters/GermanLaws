@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR010370977",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR010370977Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR010370977BJNE000200311",
+          "paragraph" : "Art 2",
+          "title" : "Besitzstandsklausel"
+        },
+        {
+          "documentIdentifier" : "BJNR010370977BJNE000300311",
+          "paragraph" : "Art 3",
+          "title" : "Berlin-Klausel"
+        },
+        {
+          "documentIdentifier" : "BJNR010370977BJNE000400311",
+          "paragraph" : "Art 4",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

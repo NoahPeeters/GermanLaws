@@ -1,0 +1,164 @@
+{
+  "documentIdentifier" : "BJNR297200994",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR297200994BJNG000100320",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR297200994BJNE000803311",
+          "paragraph" : "§ 1",
+          "title" : "Grundsätze"
+        },
+        {
+          "documentIdentifier" : "BJNR297200994BJNE000900320",
+          "paragraph" : "§ 2",
+          "title" : "Gegenstand"
+        },
+        {
+          "documentIdentifier" : "BJNR297200994BJNE001000320",
+          "paragraph" : "§ 3",
+          "title" : "Zeitpunkt"
+        },
+        {
+          "documentIdentifier" : "BJNR297200994BJNE001100320",
+          "paragraph" : "§ 4",
+          "title" : "Mitwirkung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR297200994BJNG000200320",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR297200994BJNE001200320",
+          "paragraph" : "§ 5",
+          "title" : "Vorlage von Unterlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR297200994BJNE001300320",
+          "paragraph" : "§ 6",
+          "title" : "Auskunft"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Pflichten der Versicherten"
+    },
+    {
+      "documentIdentifier" : "BJNR297200994BJNG000300320",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR297200994BJNE001404119",
+          "paragraph" : "§ 7",
+          "title" : "Vorlage von Unterlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR297200994BJNE001500320",
+          "paragraph" : "§ 8",
+          "title" : "Auskunft"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Pflichten der zur Abgabe Verpflichteten"
+    },
+    {
+      "documentIdentifier" : "BJNR297200994BJNG000400320",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR297200994BJNE001601311",
+          "paragraph" : "§ 9",
+          "title" : "Ankündigung"
+        },
+        {
+          "documentIdentifier" : "BJNR297200994BJNE001700320",
+          "paragraph" : "§ 10",
+          "title" : "Ausweispflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR297200994BJNE001802119",
+          "paragraph" : "§ 11",
+          "title" : "Durchführung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Außenprüfungen"
+    },
+    {
+      "documentIdentifier" : "BJNR297200994BJNG000500320",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR297200994BJNE001901311",
+          "paragraph" : "§ 12",
+          "title" : "Prüfbericht"
+        },
+        {
+          "documentIdentifier" : "BJNR297200994BJNE002000320",
+          "paragraph" : "§ 13",
+          "title" : "Mängelbeseitigung"
+        },
+        {
+          "documentIdentifier" : "BJNR297200994BJNE002100320",
+          "paragraph" : "§ 14",
+          "title" : "Kosten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gemeinsame Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR297200994BJNG000600320",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR297200994BJNE002200320",
+          "paragraph" : "§ 15",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlußvorschrift"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR006340963",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR006340963Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR006340963BJNE000200319",
+          "paragraph" : "§ 1",
+          "title" : "Allgemeines"
+        },
+        {
+          "documentIdentifier" : "BJNR006340963BJNE000300319",
+          "paragraph" : "§ 2",
+          "title" : "Bleibende Zollgutverwendung"
+        },
+        {
+          "documentIdentifier" : "BJNR006340963BJNE000401140",
+          "paragraph" : "§ 3",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR006340963BJNE000500319",
+          "paragraph" : "§ 4",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR006340963BJNE000700319",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 2)\n"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR282000019",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR282000019Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR282000019BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Pauschalierte Nettoentgelte"
+        },
+        {
+          "documentIdentifier" : "BJNR282000019BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Berücksichtigung des Faktorverfahrens"
+        },
+        {
+          "documentIdentifier" : "BJNR282000019BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR282000019BJNE000500000",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 1)"
+        },
+        {
+          "documentIdentifier" : "BJNR282000019BJNE000600000",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 2)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

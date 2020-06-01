@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR098010996",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR098010996Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR098010996BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR098010996BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Erwerb"
+        },
+        {
+          "documentIdentifier" : "BJNR098010996BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Verwendung im öffentlichen Interesse"
+        },
+        {
+          "documentIdentifier" : "BJNR098010996BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Antragsfrist"
+        },
+        {
+          "documentIdentifier" : "BJNR098010996BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Fonds"
+        },
+        {
+          "documentIdentifier" : "BJNR098010996BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Rechtsverordnungsermächtigung"
+        },
+        {
+          "documentIdentifier" : "BJNR098010996BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Rechtsweg"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

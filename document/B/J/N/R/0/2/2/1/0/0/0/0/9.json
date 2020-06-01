@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR022100009",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR022100009Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR022100009BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Geltungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR022100009BJNE000203116",
+          "paragraph" : "§ 2",
+          "title" : "Zuordnung zu den Stufen und Überleitungsstufen des Grundgehaltes in den Besoldungsgruppen der Bundesbesoldungsordnung A"
+        },
+        {
+          "documentIdentifier" : "BJNR022100009BJNE000303116",
+          "paragraph" : "§ 3",
+          "title" : "Aufstieg in eine Stufe des Grundgehaltes in den Besoldungsgruppen der Bundesbesoldungsordnung A"
+        },
+        {
+          "documentIdentifier" : "BJNR022100009BJNE000401310",
+          "paragraph" : "§ 4",
+          "title" : "Zuordnung zu den Stufen und Überleitungsstufen des Grundgehaltes in den Besoldungsgruppen R 1 und R 2"
+        },
+        {
+          "documentIdentifier" : "BJNR022100009BJNE000501310",
+          "paragraph" : "§ 5",
+          "title" : "Aufstieg in eine Stufe des Grundgehaltes in den Besoldungsgruppen R 1 und R 2"
+        },
+        {
+          "documentIdentifier" : "BJNR022100009BJNE000900116",
+          "paragraph" : "§ 5a",
+          "title" : "Teilnahme der Grundgehaltssätze an Besoldungsanpassungen"
+        },
+        {
+          "documentIdentifier" : "BJNR022100009BJNE000601310",
+          "paragraph" : "§ 6",
+          "title" : "Regelungen für Beamtinnen und Beamte bei den Postnachfolgeunternehmen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

@@ -1,0 +1,247 @@
+{
+  "documentIdentifier" : "BJNR000200012",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR000200012BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR000200012BJNE000204126",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR000200012BJNE000302124",
+          "paragraph" : "§ 2",
+          "title" : "Zuständige Behörden"
+        },
+        {
+          "documentIdentifier" : "BJNR000200012BJNE000401305",
+          "paragraph" : "§ 3",
+          "title" : "Rechtsverordnung mit vorübergehender Geltungsdauer"
+        },
+        {
+          "documentIdentifier" : "BJNR000200012BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Auflagen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeines"
+    },
+    {
+      "documentIdentifier" : "BJNR000200012BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR000200012BJNE000604126",
+          "paragraph" : "§ 5",
+          "title" : "Bewehrung der allgemeinen Vorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR000200012BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Bewehrung der Vorschriften über Alkohol"
+        },
+        {
+          "documentIdentifier" : "BJNR000200012BJNE000805126",
+          "paragraph" : "§ 7",
+          "title" : "Bewehrung der Vorschriften über die Abmessungen der Fahrzeuge oder Verbände, die Fahrrinnentiefe, Abladetiefe, zusätzliche Ausrüstung oder erforderliche Sprechverbindung"
+        },
+        {
+          "documentIdentifier" : "BJNR000200012BJNE000902305",
+          "paragraph" : "§ 8",
+          "title" : "Bewehrung der Vorschriften über die zugelassenen Höchstgeschwindigkeiten oder die geforderten Mindestgeschwindigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR000200012BJNE001003126",
+          "paragraph" : "§ 9",
+          "title" : "Bewehrung der Vorschriften über das Mitführen oder Aushändigen von Urkunden oder Unterlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR000200012BJNE001101126",
+          "paragraph" : "§ 10",
+          "title" : "Bewehrung der Vorschriften über die Kennzeichnung der Fahrzeuge oder Ausrüstungsteile"
+        },
+        {
+          "documentIdentifier" : "BJNR000200012BJNE001202126",
+          "paragraph" : "§ 11",
+          "title" : "Bewehrung der Vorschriften über die Bezeichnung der Fahrzeuge, Ausrüstungsteile, Lichter oder Sichtzeichen"
+        },
+        {
+          "documentIdentifier" : "BJNR000200012BJNE001304126",
+          "paragraph" : "§ 12",
+          "title" : "Bewehrung der Vorschriften über Schallzeichen, Sprechfunk oder Navigationsgeräte"
+        },
+        {
+          "documentIdentifier" : "BJNR000200012BJNE001401305",
+          "paragraph" : "§ 13",
+          "title" : "Bewehrung der allgemeinen Vorschriften über das Verhalten im Verkehr"
+        },
+        {
+          "documentIdentifier" : "BJNR000200012BJNE001501305",
+          "paragraph" : "§ 14",
+          "title" : "Bewehrung der Vorschriften über das Verhalten von Kleinfahrzeugen im Verkehr oder der Sonderbestimmungen für Kleinfahrzeuge"
+        },
+        {
+          "documentIdentifier" : "BJNR000200012BJNE001600000",
+          "paragraph" : "§ 15",
+          "title" : "Bewehrung der Vorschriften über das Verhalten oder die Zeichengebung beim Begegnen"
+        },
+        {
+          "documentIdentifier" : "BJNR000200012BJNE001700000",
+          "paragraph" : "§ 16",
+          "title" : "Bewehrung der Vorschriften über das Verhalten oder die Zeichengebung beim Kreuzen"
+        },
+        {
+          "documentIdentifier" : "BJNR000200012BJNE001800000",
+          "paragraph" : "§ 17",
+          "title" : "Bewehrung der Vorschriften über das Verhalten oder die Zeichengebung beim Überholen"
+        },
+        {
+          "documentIdentifier" : "BJNR000200012BJNE001900000",
+          "paragraph" : "§ 18",
+          "title" : "Bewehrung der Vorschriften über das Verhalten oder die Zeichengebung beim Wenden"
+        },
+        {
+          "documentIdentifier" : "BJNR000200012BJNE002000000",
+          "paragraph" : "§ 19",
+          "title" : "Bewehrung der Vorschriften über das Verhalten von Fähren oder gegenüber Fähren"
+        },
+        {
+          "documentIdentifier" : "BJNR000200012BJNE002103126",
+          "paragraph" : "§ 20",
+          "title" : "Bewehrung der Vorschriften über das Durchfahren der Brücken, Sperrwerke, Wehre, Schleusenvorhäfen, Schleusen, Schleusenbereiche, Schiffshebewerke oder einzelner Stromstrecken"
+        },
+        {
+          "documentIdentifier" : "BJNR000200012BJNE002201305",
+          "paragraph" : "§ 21",
+          "title" : "Bewehrung der Vorschriften über die Fahrt bei unsichtigem Wetter"
+        },
+        {
+          "documentIdentifier" : "BJNR000200012BJNE002300000",
+          "paragraph" : "§ 22",
+          "title" : "Bewehrung der Vorschriften über die Zusammenstellung der Verbände"
+        },
+        {
+          "documentIdentifier" : "BJNR000200012BJNE002401126",
+          "paragraph" : "§ 23",
+          "title" : "Bewehrung der Vorschriften über das Stillliegen, Ankern oder Festmachen"
+        },
+        {
+          "documentIdentifier" : "BJNR000200012BJNE002502126",
+          "paragraph" : "§ 24",
+          "title" : "Bewehrung der besonderen Vorschriften über das Fortbewegen von Schubverbänden oder Schubleichtern oder den Einsatz von Trägerschiffsleichtern"
+        },
+        {
+          "documentIdentifier" : "BJNR000200012BJNE002601126",
+          "paragraph" : "§ 25",
+          "title" : "Bewehrung der besonderen Vorschriften über die Fahrgastschifffahrt"
+        },
+        {
+          "documentIdentifier" : "BJNR000200012BJNE002701305",
+          "paragraph" : "§ 26",
+          "title" : "Bewehrung der Vorschriften über die Schifffahrt bei Hochwasser"
+        },
+        {
+          "documentIdentifier" : "BJNR000200012BJNE002800000",
+          "paragraph" : "§ 27",
+          "title" : "Bewehrung der Vorschriften über die Schifffahrt bei Eis"
+        },
+        {
+          "documentIdentifier" : "BJNR000200012BJNE002900000",
+          "paragraph" : "§ 28",
+          "title" : "Bewehrung der Vorschriften über die Nachtschifffahrt"
+        },
+        {
+          "documentIdentifier" : "BJNR000200012BJNE003000000",
+          "paragraph" : "§ 29",
+          "title" : "Bewehrung der Vorschriften über die Benutzung der Schleusen, Bootsschleusen oder Bootsumsetzungsanlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR000200012BJNE003100000",
+          "paragraph" : "§ 30",
+          "title" : "Bewehrung der Vorschriften über Meldepflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR000200012BJNE003200000",
+          "paragraph" : "§ 31",
+          "title" : "Bewehrung der Vorschriften über Segelverbote"
+        },
+        {
+          "documentIdentifier" : "BJNR000200012BJNE003302305",
+          "paragraph" : "§ 32",
+          "title" : "Bewehrung der Vorschriften über besondere Verkehrsregelungen"
+        },
+        {
+          "documentIdentifier" : "BJNR000200012BJNE003400000",
+          "paragraph" : "§ 33",
+          "title" : "Bewehrung der Vorschriften über den Schutz der Anlagen oder Kanäle"
+        },
+        {
+          "documentIdentifier" : "BJNR000200012BJNE003502305",
+          "paragraph" : "§ 34",
+          "title" : "Bewehrung der Vorschriften über Befahrensverbote"
+        },
+        {
+          "documentIdentifier" : "BJNR000200012BJNE003602305",
+          "paragraph" : "§ 35",
+          "title" : "Bewehrung der Vorschriften über Verkehrsbeschränkungen"
+        },
+        {
+          "documentIdentifier" : "BJNR000200012BJNE003702126",
+          "paragraph" : "§ 36",
+          "title" : "Bewehrung der Vorschriften zum Umweltschutz oder über das Bunkern"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Ordnungswidrigkeiten"
+    },
+    {
+      "documentIdentifier" : "BJNR000200012BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR000200012BJNE003800000",
+          "paragraph" : "§ 37",
+          "title" : "Aufhebung binnenschifffahrtsrechtlicher Vorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR000200012BJNE003900000",
+          "paragraph" : "§ 38",
+          "title" : "Änderung binnenschifffahrtsrechtlicher Vorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR000200012BJNE004001000",
+          "paragraph" : "§ 39",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR000200012BJNE004100000",
+          "paragraph" : "§ 40",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussbestimmungen"
+    }
+  ]
+}

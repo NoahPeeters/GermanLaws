@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR227500010",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR227500010Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR227500010BJNE000101360",
+          "paragraph" : "§ 1",
+          "title" : "Anspruch auf Abschläge"
+        },
+        {
+          "documentIdentifier" : "BJNR227500010BJNE000600118",
+          "paragraph" : "§ 1a",
+          "title" : "Anspruch auf Ausgleich des Differenzbetrags zwischen Erstattungsbetrag und tatsächlichem Abgabepreis"
+        },
+        {
+          "documentIdentifier" : "BJNR227500010BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Nachweis"
+        },
+        {
+          "documentIdentifier" : "BJNR227500010BJNE000302360",
+          "paragraph" : "§ 3",
+          "title" : "Prüfung durch Treuhänder"
+        },
+        {
+          "documentIdentifier" : "BJNR227500010BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Angaben auf dem Verordnungsblatt"
+        },
+        {
+          "documentIdentifier" : "BJNR227500010BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Datenübermittlung durch pharmazeutische Unternehmer"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

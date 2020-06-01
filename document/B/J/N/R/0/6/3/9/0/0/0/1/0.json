@@ -1,0 +1,236 @@
+{
+  "documentIdentifier" : "BJNR063900010",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR063900010BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR063900010BJNE000300000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR063900010BJNE000400000",
+          "paragraph" : "§ 2",
+          "title" : "Grundlagen der Wertermittlung"
+        },
+        {
+          "documentIdentifier" : "BJNR063900010BJNE000500000",
+          "paragraph" : "§ 3",
+          "title" : "Wertermittlungsstichtag und allgemeine Wertverhältnisse"
+        },
+        {
+          "documentIdentifier" : "BJNR063900010BJNE000600000",
+          "paragraph" : "§ 4",
+          "title" : "Qualitätsstichtag und Grundstückszustand"
+        },
+        {
+          "documentIdentifier" : "BJNR063900010BJNE000700000",
+          "paragraph" : "§ 5",
+          "title" : "Entwicklungszustand"
+        },
+        {
+          "documentIdentifier" : "BJNR063900010BJNE000800000",
+          "paragraph" : "§ 6",
+          "title" : "Weitere Grundstücksmerkmale"
+        },
+        {
+          "documentIdentifier" : "BJNR063900010BJNE000900000",
+          "paragraph" : "§ 7",
+          "title" : "Ungewöhnliche oder persönliche Verhältnisse"
+        },
+        {
+          "documentIdentifier" : "BJNR063900010BJNE001000000",
+          "paragraph" : "§ 8",
+          "title" : "Ermittlung des Verkehrswerts"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Anwendungsbereich, Begriffsbestimmungen und allgemeine Verfahrensgrundsätze"
+    },
+    {
+      "documentIdentifier" : "BJNR063900010BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR063900010BJNE001100000",
+          "paragraph" : "§ 9",
+          "title" : "Grundlagen der Ermittlung"
+        },
+        {
+          "documentIdentifier" : "BJNR063900010BJNE001201116",
+          "paragraph" : "§ 10",
+          "title" : "Bodenrichtwerte"
+        },
+        {
+          "documentIdentifier" : "BJNR063900010BJNE001300000",
+          "paragraph" : "§ 11",
+          "title" : "Indexreihen"
+        },
+        {
+          "documentIdentifier" : "BJNR063900010BJNE001400000",
+          "paragraph" : "§ 12",
+          "title" : "Umrechnungskoeffizienten"
+        },
+        {
+          "documentIdentifier" : "BJNR063900010BJNE001500000",
+          "paragraph" : "§ 13",
+          "title" : "Vergleichsfaktoren für bebaute Grundstücke"
+        },
+        {
+          "documentIdentifier" : "BJNR063900010BJNE001600000",
+          "paragraph" : "§ 14",
+          "title" : "Marktanpassungsfaktoren, Liegenschaftszinssätze"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Bodenrichtwerte und sonstige erforderliche Daten"
+    },
+    {
+      "documentIdentifier" : "BJNR063900010BJNG000300000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR063900010BJNG000400000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR063900010BJNE001700000",
+              "paragraph" : "§ 15",
+              "title" : "Ermittlung des Vergleichswerts"
+            },
+            {
+              "documentIdentifier" : "BJNR063900010BJNE001800000",
+              "paragraph" : "§ 16",
+              "title" : "Ermittlung des Bodenwerts"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Vergleichswertverfahren, Bodenwertermittlung"
+        },
+        {
+          "documentIdentifier" : "BJNR063900010BJNG000500000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR063900010BJNE001900000",
+              "paragraph" : "§ 17",
+              "title" : "Ermittlung des Ertragswerts"
+            },
+            {
+              "documentIdentifier" : "BJNR063900010BJNE002000000",
+              "paragraph" : "§ 18",
+              "title" : "Reinertrag, Rohertrag"
+            },
+            {
+              "documentIdentifier" : "BJNR063900010BJNE002100000",
+              "paragraph" : "§ 19",
+              "title" : "Bewirtschaftungskosten"
+            },
+            {
+              "documentIdentifier" : "BJNR063900010BJNE002200000",
+              "paragraph" : "§ 20",
+              "title" : "Kapitalisierung und Abzinsung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Ertragswertverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR063900010BJNG000600000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR063900010BJNE002300000",
+              "paragraph" : "§ 21",
+              "title" : "Ermittlung des Sachwerts"
+            },
+            {
+              "documentIdentifier" : "BJNR063900010BJNE002400000",
+              "paragraph" : "§ 22",
+              "title" : "Herstellungskosten"
+            },
+            {
+              "documentIdentifier" : "BJNR063900010BJNE002500000",
+              "paragraph" : "§ 23",
+              "title" : "Alterswertminderung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Sachwertverfahren"
+        }
+      ],
+      "title" : "Wertermittlungsverfahren"
+    },
+    {
+      "documentIdentifier" : "BJNR063900010BJNG000700000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR063900010BJNE002600000",
+          "paragraph" : "§ 24",
+          "title" : "Inkrafttreten und Außerkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR063900010BJNE002800000",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 20)"
+        },
+        {
+          "documentIdentifier" : "BJNR063900010BJNE002900000",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 20)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussvorschrift"
+    }
+  ]
+}

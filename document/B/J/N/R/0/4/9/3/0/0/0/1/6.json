@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR049300016",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR049300016Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR049300016BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Dienstvorgesetzte"
+        },
+        {
+          "documentIdentifier" : "BJNR049300016BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Kürzung der Dienstbezüge"
+        },
+        {
+          "documentIdentifier" : "BJNR049300016BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Erhebung der Disziplinarklage"
+        },
+        {
+          "documentIdentifier" : "BJNR049300016BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Widerspruchsbescheide"
+        },
+        {
+          "documentIdentifier" : "BJNR049300016BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Disziplinarbefugnisse bei Ruhestandsbeamten"
+        },
+        {
+          "documentIdentifier" : "BJNR049300016BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Vertretung des Dienstherrn bei Klagen"
+        },
+        {
+          "documentIdentifier" : "BJNR049300016BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

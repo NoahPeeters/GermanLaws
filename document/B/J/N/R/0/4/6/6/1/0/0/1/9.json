@@ -1,0 +1,176 @@
+{
+  "documentIdentifier" : "BJNR046610019",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR046610019BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR046610019BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR046610019BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR046610019BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Erlaubte Handlungen"
+        },
+        {
+          "documentIdentifier" : "BJNR046610019BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Handlungsverbote"
+        },
+        {
+          "documentIdentifier" : "BJNR046610019BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Ausnahmen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeines"
+    },
+    {
+      "documentIdentifier" : "BJNR046610019BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR046610019BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Beseitigung und Unterlassung"
+        },
+        {
+          "documentIdentifier" : "BJNR046610019BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Vernichtung; Herausgabe; Rückruf; Entfernung und Rücknahme vom Markt"
+        },
+        {
+          "documentIdentifier" : "BJNR046610019BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Auskunft über rechtsverletzende Produkte; Schadensersatz bei Verletzung der Auskunftspflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR046610019BJNE001000000",
+          "paragraph" : "§ 9",
+          "title" : "Anspruchsausschluss bei Unverhältnismäßigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR046610019BJNE001100000",
+          "paragraph" : "§ 10",
+          "title" : "Haftung des Rechtsverletzers"
+        },
+        {
+          "documentIdentifier" : "BJNR046610019BJNE001200000",
+          "paragraph" : "§ 11",
+          "title" : "Abfindung in Geld"
+        },
+        {
+          "documentIdentifier" : "BJNR046610019BJNE001300000",
+          "paragraph" : "§ 12",
+          "title" : "Haftung des Inhabers eines Unternehmens"
+        },
+        {
+          "documentIdentifier" : "BJNR046610019BJNE001400000",
+          "paragraph" : "§ 13",
+          "title" : "Herausgabeanspruch nach Eintritt der Verjährung"
+        },
+        {
+          "documentIdentifier" : "BJNR046610019BJNE001500000",
+          "paragraph" : "§ 14",
+          "title" : "Missbrauchsverbot"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Ansprüche bei Rechtsverletzungen"
+    },
+    {
+      "documentIdentifier" : "BJNR046610019BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR046610019BJNE001600000",
+          "paragraph" : "§ 15",
+          "title" : "Sachliche und örtliche Zuständigkeit; Verordnungsermächtigung"
+        },
+        {
+          "documentIdentifier" : "BJNR046610019BJNE001700000",
+          "paragraph" : "§ 16",
+          "title" : "Geheimhaltung"
+        },
+        {
+          "documentIdentifier" : "BJNR046610019BJNE001800000",
+          "paragraph" : "§ 17",
+          "title" : "Ordnungsmittel"
+        },
+        {
+          "documentIdentifier" : "BJNR046610019BJNE001900000",
+          "paragraph" : "§ 18",
+          "title" : "Geheimhaltung nach Abschluss des Verfahrens"
+        },
+        {
+          "documentIdentifier" : "BJNR046610019BJNE002000000",
+          "paragraph" : "§ 19",
+          "title" : "Weitere gerichtliche Beschränkungen"
+        },
+        {
+          "documentIdentifier" : "BJNR046610019BJNE002100000",
+          "paragraph" : "§ 20",
+          "title" : "Verfahren bei Maßnahmen nach den §§ 16 bis 19"
+        },
+        {
+          "documentIdentifier" : "BJNR046610019BJNE002200000",
+          "paragraph" : "§ 21",
+          "title" : "Bekanntmachung des Urteils"
+        },
+        {
+          "documentIdentifier" : "BJNR046610019BJNE002300000",
+          "paragraph" : "§ 22",
+          "title" : "Streitwertbegünstigung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Verfahren in Geschäftsgeheimnisstreitsachen"
+    },
+    {
+      "documentIdentifier" : "BJNR046610019BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR046610019BJNE002400000",
+          "paragraph" : "§ 23",
+          "title" : "Verletzung von Geschäftsgeheimnissen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Strafvorschriften"
+    }
+  ]
+}

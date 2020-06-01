@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR007420986",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR007420986Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR007420986BJNE000208360",
+          "paragraph" : "§ 1",
+          "title" : "Befristung von Arbeitsverträgen"
+        },
+        {
+          "documentIdentifier" : "BJNR007420986BJNE000301308",
+          "paragraph" : "§ 2",
+          "title" : "Berlin-Klausel"
+        },
+        {
+          "documentIdentifier" : "BJNR007420986BJNE000401308",
+          "paragraph" : "§ 3",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR163110996",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR163110996Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR163110996BJNE000100310",
+          "paragraph" : "§ 1",
+          "title" : "Beitragsfestschreibung"
+        },
+        {
+          "documentIdentifier" : "BJNR163110996BJNE000200310",
+          "paragraph" : "§ 2",
+          "title" : "Beitragsverminderung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

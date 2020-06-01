@@ -1,0 +1,64 @@
+{
+  "documentIdentifier" : "BJNR087100019",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR087100019Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR087100019BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR087100019BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Bereitstellung der Informationen"
+        },
+        {
+          "documentIdentifier" : "BJNR087100019BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Allgemeine Informationen zu einem Altersversorgungssystem"
+        },
+        {
+          "documentIdentifier" : "BJNR087100019BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Renteninformation"
+        },
+        {
+          "documentIdentifier" : "BJNR087100019BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Information der Versorgungsempfänger"
+        },
+        {
+          "documentIdentifier" : "BJNR087100019BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Zusätzliche Informationen vor dem Beitritt zu einem Altersversorgungssystem"
+        },
+        {
+          "documentIdentifier" : "BJNR087100019BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Information auf Anfrage"
+        },
+        {
+          "documentIdentifier" : "BJNR087100019BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Projektion der Altersversorgungsleistungen"
+        },
+        {
+          "documentIdentifier" : "BJNR087100019BJNE001000000",
+          "paragraph" : "§ 9",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

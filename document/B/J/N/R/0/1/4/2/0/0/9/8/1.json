@@ -1,0 +1,181 @@
+{
+  "documentIdentifier" : "BJNR014200981",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR014200981BJNG000100312",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR014200981BJNE000802320",
+          "paragraph" : "§ 1",
+          "title" : "Einfuhrantrag"
+        },
+        {
+          "documentIdentifier" : "BJNR014200981BJNE000901305",
+          "paragraph" : "§ 2",
+          "title" : "Versagungsgründe"
+        },
+        {
+          "documentIdentifier" : "BJNR014200981BJNE001001305",
+          "paragraph" : "§ 3",
+          "title" : "Einfuhrgenehmigung"
+        },
+        {
+          "documentIdentifier" : "BJNR014200981BJNE001101320",
+          "paragraph" : "§ 4",
+          "title" : "Einfuhrabfertigung"
+        },
+        {
+          "documentIdentifier" : "BJNR014200981BJNE001201305",
+          "paragraph" : "§ 5",
+          "title" : "Lagerung unter zollamtlicher Überwachung"
+        },
+        {
+          "documentIdentifier" : "BJNR014200981BJNE001302320",
+          "paragraph" : "§ 6",
+          "title" : "Einfuhranzeige"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Einfuhr"
+    },
+    {
+      "documentIdentifier" : "BJNR014200981BJNG000200312",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR014200981BJNE001402320",
+          "paragraph" : "§ 7",
+          "title" : "Ausfuhrantrag"
+        },
+        {
+          "documentIdentifier" : "BJNR014200981BJNE001501305",
+          "paragraph" : "§ 8",
+          "title" : "Versagungsgründe"
+        },
+        {
+          "documentIdentifier" : "BJNR014200981BJNE001601305",
+          "paragraph" : "§ 9",
+          "title" : "Ausfuhrgenehmigung"
+        },
+        {
+          "documentIdentifier" : "BJNR014200981BJNE001701305",
+          "paragraph" : "§ 10",
+          "title" : "Kennzeichnung"
+        },
+        {
+          "documentIdentifier" : "BJNR014200981BJNE001801320",
+          "paragraph" : "§ 11",
+          "title" : "Ausfuhrabfertigung"
+        },
+        {
+          "documentIdentifier" : "BJNR014200981BJNE001902320",
+          "paragraph" : "§ 12",
+          "title" : "Ausfuhranzeige"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Ausfuhr"
+    },
+    {
+      "documentIdentifier" : "BJNR014200981BJNG000300312",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Durchfuhr"
+    },
+    {
+      "documentIdentifier" : "BJNR014200981BJNG000400312",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR014200981BJNE002101305",
+          "paragraph" : "§ 14",
+          "title" : "Einfuhr und Ausfuhr im Rahmen internationaler Zusammenarbeit"
+        },
+        {
+          "documentIdentifier" : "BJNR014200981BJNE002203116",
+          "paragraph" : "§ 15",
+          "title" : "Vereinfachter grenzüberschreitender Verkehr"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Ausnahmeregelungen"
+    },
+    {
+      "documentIdentifier" : "BJNR014200981BJNG000500312",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Ordnungswidrigkeiten"
+    },
+    {
+      "documentIdentifier" : "BJNR014200981BJNG000600312",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR014200981BJNE002400312",
+          "paragraph" : "§ 17",
+          "title" : "Zuständige Zollstellen"
+        },
+        {
+          "documentIdentifier" : "BJNR014200981BJNE002501305",
+          "paragraph" : "§ 18",
+          "title" : "Sonstige Vorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR014200981BJNE002600312",
+          "paragraph" : "§ 19",
+          "title" : "Berlin-Klausel"
+        },
+        {
+          "documentIdentifier" : "BJNR014200981BJNE002700312",
+          "paragraph" : "§ 20",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlußvorschriften"
+    }
+  ]
+}

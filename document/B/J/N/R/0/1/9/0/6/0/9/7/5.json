@@ -1,0 +1,146 @@
+{
+  "documentIdentifier" : "BJNR019060975",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR019060975BJNG000100315",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR019060975BJNE000502140",
+          "paragraph" : "§ 1",
+          "title" : "Antrag"
+        },
+        {
+          "documentIdentifier" : "BJNR019060975BJNE000603140",
+          "paragraph" : "§ 2",
+          "title" : "Nachweise"
+        },
+        {
+          "documentIdentifier" : "BJNR019060975BJNE000701301",
+          "paragraph" : "§ 3",
+          "title" : "Anerkennungsurkunde"
+        },
+        {
+          "documentIdentifier" : "BJNR019060975BJNE000801301",
+          "paragraph" : "§ 4",
+          "title" : "Ablehnung der Anerkennung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Anerkennung als Lohnsteuerhilfeverein"
+    },
+    {
+      "documentIdentifier" : "BJNR019060975BJNG000400301",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR019060975BJNE001601360",
+          "paragraph" : "§ 4a",
+          "title" : "Eröffnung und Verlegung einer Beratungsstelle"
+        },
+        {
+          "documentIdentifier" : "BJNR019060975BJNE001701301",
+          "paragraph" : "§ 4b",
+          "title" : "Bestellung eines Beratungsstellenleiters"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Beratungsstellen, Beratungsstellenleiter"
+    },
+    {
+      "documentIdentifier" : "BJNR019060975BJNG000201301",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR019060975BJNE000902140",
+          "paragraph" : "§ 5",
+          "title" : "Eintragung"
+        },
+        {
+          "documentIdentifier" : "BJNR019060975BJNE001800301",
+          "paragraph" : "§ 5a",
+          "title" : "Ablehnung der Eintragung"
+        },
+        {
+          "documentIdentifier" : "BJNR019060975BJNE001003360",
+          "paragraph" : "§ 6",
+          "title" : "Löschung"
+        },
+        {
+          "documentIdentifier" : "BJNR019060975BJNE001102140",
+          "paragraph" : "§ 7",
+          "title" : "Meldepflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR019060975BJNE001202140",
+          "paragraph" : "§ 8",
+          "title" : "Mitteilung über Eintragung und Löschung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Verzeichnis der Lohnsteuerhilfevereine"
+    },
+    {
+      "documentIdentifier" : "BJNR019060975BJNG000302140",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR019060975BJNE001303140",
+          "paragraph" : "§ 9",
+          "title" : "Versicherungspflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR019060975BJNE001401140",
+          "paragraph" : "§ 10",
+          "title" : "Mindestversicherungssumme"
+        },
+        {
+          "documentIdentifier" : "BJNR019060975BJNE001900140",
+          "paragraph" : "§ 11",
+          "title" : "Sonstige Inhalte des Versicherungsvertrags"
+        },
+        {
+          "documentIdentifier" : "BJNR019060975BJNE002000140",
+          "paragraph" : "§ 12",
+          "title" : "Ausschlüsse"
+        },
+        {
+          "documentIdentifier" : "BJNR019060975BJNE002100140",
+          "paragraph" : "§ 13",
+          "title" : "Nachweis des Versicherungsabschlusses vor der Anerkennung"
+        },
+        {
+          "documentIdentifier" : "BJNR019060975BJNE002200140",
+          "paragraph" : "§ 14",
+          "title" : "Anzeige von Veränderungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Haftpflichtversicherung"
+    }
+  ]
+}

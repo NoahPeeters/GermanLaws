@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR242800993",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR242800993Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR242800993BJNE000203116",
+          "paragraph" : "§ 1",
+          "title" : "Antragsverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR242800993BJNE000305116",
+          "paragraph" : "§ 2",
+          "title" : "Entscheidung über den Antrag"
+        },
+        {
+          "documentIdentifier" : "BJNR242800993BJNE000403116",
+          "paragraph" : "§ 3",
+          "title" : "Einspruchsverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR242800993BJNE000503116",
+          "paragraph" : "§ 4",
+          "title" : "Änderungs- und Löschungsverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR242800993BJNE000602116",
+          "paragraph" : "§ 5",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR242800993BJNE000700303",
+          "paragraph" : "§ 6",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

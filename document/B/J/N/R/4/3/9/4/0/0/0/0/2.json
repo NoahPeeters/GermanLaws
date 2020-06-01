@@ -1,0 +1,115 @@
+{
+  "documentIdentifier" : "BJNR439400002",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR439400002BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR439400002BJNE000101377",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeines"
+    },
+    {
+      "documentIdentifier" : "BJNR439400002BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR439400002BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Anlässe für Meldungen"
+        },
+        {
+          "documentIdentifier" : "BJNR439400002BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Meldepflichtige Stelle, Mitteilung von Änderungen und Berichtigungen"
+        },
+        {
+          "documentIdentifier" : "BJNR439400002BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Inhalt der Meldungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Adoptionsvermittlungsverfahren im Verhältnis zu Vertragsstaaten des Adoptionsübereinkommens"
+    },
+    {
+      "documentIdentifier" : "BJNR439400002BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR439400002BJNE000501360",
+          "paragraph" : "§ 5",
+          "title" : "Einmalige Meldung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Adoptionsvermittlungsverfahren im Verhältnis zu sonstigen Staaten"
+    },
+    {
+      "documentIdentifier" : "BJNR439400002BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR439400002BJNE000600000",
+          "paragraph" : "§ 6",
+          "title" : "Form und Frist der Meldungen der Daten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Verfahren"
+    },
+    {
+      "documentIdentifier" : "BJNR439400002BJNG000500000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR439400002BJNE000700000",
+          "paragraph" : "§ 7",
+          "title" : "Übergangsregelung"
+        },
+        {
+          "documentIdentifier" : "BJNR439400002BJNE000800000",
+          "paragraph" : "§ 8",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übergangs- und Schlussvorschriften"
+    }
+  ]
+}

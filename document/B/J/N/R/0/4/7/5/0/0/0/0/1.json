@@ -1,0 +1,106 @@
+{
+  "documentIdentifier" : "BJNR047500001",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR047500001BJNG000100305",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR047500001BJNE000602119",
+          "paragraph" : "§ 1",
+          "title" : "Vergabe und Zuordnung der Versicherungsnummer"
+        },
+        {
+          "documentIdentifier" : "BJNR047500001BJNE000702308",
+          "paragraph" : "§ 2",
+          "title" : "Aufbau der Versicherungsnummer"
+        },
+        {
+          "documentIdentifier" : "BJNR047500001BJNE000800305",
+          "paragraph" : "§ 3",
+          "title" : "Berichtigung der Versicherungsnummer"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Versicherungsnummer"
+    },
+    {
+      "documentIdentifier" : "BJNR047500001BJNG000200305",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR047500001BJNE000901308",
+          "paragraph" : "§ 4",
+          "title" : "Zuständigkeit für die Kontoführung"
+        },
+        {
+          "documentIdentifier" : "BJNR047500001BJNE001002119",
+          "paragraph" : "§ 5",
+          "title" : "Aufgaben der Datenstelle im Rahmen der Kontoführung"
+        },
+        {
+          "documentIdentifier" : "BJNR047500001BJNE001102119",
+          "paragraph" : "§ 6",
+          "title" : "Wechsel der Kontoführung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Kontoführung"
+    },
+    {
+      "documentIdentifier" : "BJNR047500001BJNG000300305",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR047500001BJNE001200305",
+          "paragraph" : "§ 7",
+          "title" : "Versendung eines Versicherungsverlaufs"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Unterrichtung der Versicherten"
+    },
+    {
+      "documentIdentifier" : "BJNR047500001BJNG000400305",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR047500001BJNE001300305",
+          "paragraph" : "§ 8",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR047500001BJNE001502308",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 2 Abs. 2)\n"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussvorschriften"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR295300001",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR295300001Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR295300001BJNE000100306",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR295300001BJNE000202360",
+          "paragraph" : "§ 2",
+          "title" : "Anerkennungs- und Wirkungsfeststellung"
+        },
+        {
+          "documentIdentifier" : "BJNR295300001BJNE000303360",
+          "paragraph" : "§ 3",
+          "title" : "Umwandlungsausspruch"
+        },
+        {
+          "documentIdentifier" : "BJNR295300001BJNE000402377",
+          "paragraph" : "§ 4",
+          "title" : "Antragstellung; Reichweite der Entscheidungswirkungen"
+        },
+        {
+          "documentIdentifier" : "BJNR295300001BJNE000504308",
+          "paragraph" : "§ 5",
+          "title" : "Zuständigkeit und Verfahren"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

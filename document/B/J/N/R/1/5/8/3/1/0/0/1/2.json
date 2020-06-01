@@ -1,0 +1,102 @@
+{
+  "documentIdentifier" : "BJNR158310012",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR158310012BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR158310012BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Beurlaubung"
+        },
+        {
+          "documentIdentifier" : "BJNR158310012BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Versetzung in den Ruhestand vor Erreichen der Altersgrenze"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Dienstrecht"
+    },
+    {
+      "documentIdentifier" : "BJNR158310012BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR158310012BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Einmalzahlung"
+        },
+        {
+          "documentIdentifier" : "BJNR158310012BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Kosten der Teilnahme an Qualifizierungsmaßnahmen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Finanzieller Ausgleich"
+    },
+    {
+      "documentIdentifier" : "BJNR158310012BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR158310012BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Anwendung des Soldatenversorgungsgesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR158310012BJNE000600000",
+          "paragraph" : "§ 6",
+          "title" : "Versorgung bei Versetzung in den Ruhestand nach § 2 Absatz 1 Satz 1"
+        },
+        {
+          "documentIdentifier" : "BJNR158310012BJNE000700000",
+          "paragraph" : "§ 7",
+          "title" : "Versorgung bei Versetzung in den Ruhestand nach § 2 Absatz 1 Satz 2"
+        },
+        {
+          "documentIdentifier" : "BJNR158310012BJNE000800000",
+          "paragraph" : "§ 8",
+          "title" : "Einmaliger Ausgleich bei Umwandlung des Dienstverhältnisses"
+        },
+        {
+          "documentIdentifier" : "BJNR158310012BJNE000900000",
+          "paragraph" : "§ 9",
+          "title" : "Freistellung vom militärischen Dienst"
+        },
+        {
+          "documentIdentifier" : "BJNR158310012BJNE001000000",
+          "paragraph" : "§ 10",
+          "title" : "Berufsförderung und Dienstzeitversorgung bei Verkürzung der Dienstzeit"
+        },
+        {
+          "documentIdentifier" : "BJNR158310012BJNE001100000",
+          "paragraph" : "§ 11",
+          "title" : "Evaluation"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Versorgung"
+    }
+  ]
+}

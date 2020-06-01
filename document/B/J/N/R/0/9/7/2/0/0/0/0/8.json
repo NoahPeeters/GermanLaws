@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR097200008",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR097200008Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR097200008BJNE000204116",
+          "paragraph" : "§ 1",
+          "title" : "Aufgabenübertragung"
+        },
+        {
+          "documentIdentifier" : "BJNR097200008BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

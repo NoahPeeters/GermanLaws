@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR178200016",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR178200016Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR178200016BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Verbot der Einfuhr und des Inverkehrbringens"
+        },
+        {
+          "documentIdentifier" : "BJNR178200016BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Verbot der Aussaat"
+        },
+        {
+          "documentIdentifier" : "BJNR178200016BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Ausnahmen"
+        },
+        {
+          "documentIdentifier" : "BJNR178200016BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR178200016BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Aufheben von Vorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR178200016BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

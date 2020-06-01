@@ -1,0 +1,64 @@
+{
+  "documentIdentifier" : "BJNR221810006",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR221810006Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR221810006BJNE000101310",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR221810006BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Zuordnung von Kraftfahrzeugen zu Schadstoffgruppen"
+        },
+        {
+          "documentIdentifier" : "BJNR221810006BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Kennzeichnung"
+        },
+        {
+          "documentIdentifier" : "BJNR221810006BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Ausgabe der Plaketten"
+        },
+        {
+          "documentIdentifier" : "BJNR221810006BJNE000501116",
+          "paragraph" : "§ 5",
+          "title" : "Nachweis der Schadstoffgruppe für im Inland zugelassene Fahrzeuge"
+        },
+        {
+          "documentIdentifier" : "BJNR221810006BJNE000601310",
+          "paragraph" : "§ 6",
+          "title" : "Nachweis der Schadstoffgruppe für im Ausland zugelassene Fahrzeuge"
+        },
+        {
+          "documentIdentifier" : "BJNR221810006BJNE000700000",
+          "paragraph" : "Anhang 1",
+          "title" : "Plakettenmuster "
+        },
+        {
+          "documentIdentifier" : "BJNR221810006BJNE000801310",
+          "paragraph" : "Anhang 2",
+          "title" : "Zuordnung der Kraftfahrzeuge zu den Schadstoffgruppen "
+        },
+        {
+          "documentIdentifier" : "BJNR221810006BJNE000901310",
+          "paragraph" : "Anhang 3",
+          "title" : "Ausnahmen von der Kennzeichnungspflicht nach § 2 Abs. 1 "
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

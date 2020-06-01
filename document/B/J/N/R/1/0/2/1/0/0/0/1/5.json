@@ -1,0 +1,171 @@
+{
+  "documentIdentifier" : "BJNR102100015",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR102100015BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR102100015BJNE000300000",
+          "paragraph" : "§ 1",
+          "title" : "Staatliche Anerkennung des Ausbildungsberufes"
+        },
+        {
+          "documentIdentifier" : "BJNR102100015BJNE000400000",
+          "paragraph" : "§ 2",
+          "title" : "Dauer der Berufsausbildung"
+        },
+        {
+          "documentIdentifier" : "BJNR102100015BJNE000500000",
+          "paragraph" : "§ 3",
+          "title" : "Gegenstand der Berufsausbildung und Ausbildungsrahmenplan"
+        },
+        {
+          "documentIdentifier" : "BJNR102100015BJNE000600000",
+          "paragraph" : "§ 4",
+          "title" : "Struktur der Berufsausbildung, Ausbildungsberufsbild"
+        },
+        {
+          "documentIdentifier" : "BJNR102100015BJNE000700000",
+          "paragraph" : "§ 5",
+          "title" : "Ausbildungsplan"
+        },
+        {
+          "documentIdentifier" : "BJNR102100015BJNE000800000",
+          "paragraph" : "§ 6",
+          "title" : "Schriftlicher Ausbildungsnachweis"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gegenstand, Dauer und Gliederung der Berufsausbildung"
+    },
+    {
+      "documentIdentifier" : "BJNR102100015BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR102100015BJNE000900000",
+          "paragraph" : "§ 7",
+          "title" : "Ziel, Aufteilung in zwei Teile und Zeitpunkt"
+        },
+        {
+          "documentIdentifier" : "BJNR102100015BJNE001000000",
+          "paragraph" : "§ 8",
+          "title" : "Inhalt von Teil 1"
+        },
+        {
+          "documentIdentifier" : "BJNR102100015BJNE001100000",
+          "paragraph" : "§ 9",
+          "title" : "Prüfungsbereiche von Teil 1"
+        },
+        {
+          "documentIdentifier" : "BJNR102100015BJNE001200000",
+          "paragraph" : "§ 10",
+          "title" : "Prüfungsbereich Fertigungstechniken"
+        },
+        {
+          "documentIdentifier" : "BJNR102100015BJNE001300000",
+          "paragraph" : "§ 11",
+          "title" : "Prüfungsbereich Planung und Fertigung"
+        },
+        {
+          "documentIdentifier" : "BJNR102100015BJNE001400000",
+          "paragraph" : "§ 12",
+          "title" : "Inhalt von Teil 2"
+        },
+        {
+          "documentIdentifier" : "BJNR102100015BJNE001500000",
+          "paragraph" : "§ 13",
+          "title" : "Prüfungsbereiche von Teil 2"
+        },
+        {
+          "documentIdentifier" : "BJNR102100015BJNE001600000",
+          "paragraph" : "§ 14",
+          "title" : "Prüfungsbereich Produktionsauftrag"
+        },
+        {
+          "documentIdentifier" : "BJNR102100015BJNE001700000",
+          "paragraph" : "§ 15",
+          "title" : "Prüfungsbereich Planung, Fertigung und Konstruktion"
+        },
+        {
+          "documentIdentifier" : "BJNR102100015BJNE001800000",
+          "paragraph" : "§ 16",
+          "title" : "Prüfungsbereich Wirtschafts- und Sozialkunde"
+        },
+        {
+          "documentIdentifier" : "BJNR102100015BJNE001900000",
+          "paragraph" : "§ 17",
+          "title" : "Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR102100015BJNE002000000",
+          "paragraph" : "§ 18",
+          "title" : "Abschluss als Textil- und Modenäher oder Textil- und Modenäherin"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Abschlussprüfung"
+    },
+    {
+      "documentIdentifier" : "BJNR102100015BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR102100015BJNE002100000",
+          "paragraph" : "§ 19",
+          "title" : "Anrechnung von Ausbildungszeiten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Weitere Berufsausbildung"
+    },
+    {
+      "documentIdentifier" : "BJNR102100015BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR102100015BJNE002200000",
+          "paragraph" : "§ 20",
+          "title" : "Bestehende Berufsausbildungsverhältnisse"
+        },
+        {
+          "documentIdentifier" : "BJNR102100015BJNE002300000",
+          "paragraph" : "§ 21",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR102100015BJNE002400000",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 3 Absatz 1)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussvorschriften"
+    }
+  ]
+}

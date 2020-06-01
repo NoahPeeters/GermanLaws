@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR185710004",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR185710004Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR185710004BJNE000201377",
+          "paragraph" : "§ 1",
+          "title" : "Steuergebiet, Steuergegenstand"
+        },
+        {
+          "documentIdentifier" : "BJNR185710004BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Steuertarif"
+        },
+        {
+          "documentIdentifier" : "BJNR185710004BJNE000402377",
+          "paragraph" : "§ 3",
+          "title" : "Besteuerung, Steuerverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR185710004BJNE000501377",
+          "paragraph" : "§ 4",
+          "title" : "Aufkommensverwendung, Aufkommensverteilung"
+        },
+        {
+          "documentIdentifier" : "BJNR185710004BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Bericht der Bundesregierung über die Auswirkungen des Gesetzes"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

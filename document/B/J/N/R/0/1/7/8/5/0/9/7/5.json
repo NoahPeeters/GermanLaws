@@ -1,0 +1,343 @@
+{
+  "documentIdentifier" : "BJNR017850975",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR017850975BJNG000100328",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR017850975BJNE000903305",
+          "paragraph" : "§ 1",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR017850975BJNE001000328",
+          "paragraph" : "§ 2",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR017850975BJNE001102305",
+          "paragraph" : "§ 3",
+          "title" : "Schiffseichamt"
+        },
+        {
+          "documentIdentifier" : "BJNR017850975BJNE001203305",
+          "paragraph" : "§ 4",
+          "title" : "Zentralstelle"
+        },
+        {
+          "documentIdentifier" : "BJNR017850975BJNE001400328",
+          "paragraph" : "§ 6",
+          "title" : "Arten der Eichung"
+        },
+        {
+          "documentIdentifier" : "BJNR017850975BJNE001503305",
+          "paragraph" : "§ 7",
+          "title" : "Voraussetzungen"
+        },
+        {
+          "documentIdentifier" : "BJNR017850975BJNE001603301",
+          "paragraph" : "§ 8",
+          "title" : "Eichschein"
+        },
+        {
+          "documentIdentifier" : "BJNR017850975BJNE001702307",
+          "paragraph" : "§ 9",
+          "title" : "Verlängerung des Eichscheins"
+        },
+        {
+          "documentIdentifier" : "BJNR017850975BJNE001801307",
+          "paragraph" : "§ 10",
+          "title" : "Namensänderung"
+        },
+        {
+          "documentIdentifier" : "BJNR017850975BJNE001901307",
+          "paragraph" : "§ 11",
+          "title" : "Berichtigungen im Eichschein"
+        },
+        {
+          "documentIdentifier" : "BJNR017850975BJNE002001301",
+          "paragraph" : "§ 12",
+          "title" : "Vorläufige Eichbescheinigung"
+        },
+        {
+          "documentIdentifier" : "BJNR017850975BJNE002102311",
+          "paragraph" : "§ 13",
+          "title" : "Meßgeräte"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR017850975BJNG000200328",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR017850975BJNE002200328",
+          "paragraph" : "§ 14",
+          "title" : "Genauigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR017850975BJNE002300328",
+          "paragraph" : "§ 15",
+          "title" : "Aufnahme der Maße"
+        },
+        {
+          "documentIdentifier" : "BJNR017850975BJNE002400328",
+          "paragraph" : "§ 16",
+          "title" : "Eichraum"
+        },
+        {
+          "documentIdentifier" : "BJNR017850975BJNE002500328",
+          "paragraph" : "§ 17",
+          "title" : "Leerebene und untere Eichebene"
+        },
+        {
+          "documentIdentifier" : "BJNR017850975BJNE002600328",
+          "paragraph" : "§ 18",
+          "title" : "Obere Eichebene"
+        },
+        {
+          "documentIdentifier" : "BJNR017850975BJNE002700328",
+          "paragraph" : "§ 19",
+          "title" : "Aufmaß und Berechnung"
+        },
+        {
+          "documentIdentifier" : "BJNR017850975BJNE002801309",
+          "paragraph" : "§ 20",
+          "title" : "Eichmarken"
+        },
+        {
+          "documentIdentifier" : "BJNR017850975BJNE002901307",
+          "paragraph" : "§ 21",
+          "title" : "Eichzeichen"
+        },
+        {
+          "documentIdentifier" : "BJNR017850975BJNE003000328",
+          "paragraph" : "§ 22",
+          "title" : "Eichskalen"
+        },
+        {
+          "documentIdentifier" : "BJNR017850975BJNE003100328",
+          "paragraph" : "§ 23",
+          "title" : "Tragfähigkeit"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schiffe, die zur Beförderung von Gütern bestimmt sind"
+    },
+    {
+      "documentIdentifier" : "BJNR017850975BJNG000300328",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR017850975BJNE003200328",
+          "paragraph" : "§ 24",
+          "title" : "Leerebene und untere Eichebene"
+        },
+        {
+          "documentIdentifier" : "BJNR017850975BJNE003301301",
+          "paragraph" : "§ 25",
+          "title" : "Ebene der größten Eintauchung"
+        },
+        {
+          "documentIdentifier" : "BJNR017850975BJNE003400328",
+          "paragraph" : "§ 26",
+          "title" : "Berechnung"
+        },
+        {
+          "documentIdentifier" : "BJNR017850975BJNE003500328",
+          "paragraph" : "§ 27",
+          "title" : "Tragfähigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR017850975BJNE003601301",
+          "paragraph" : "§ 28",
+          "title" : "Eichmarken"
+        },
+        {
+          "documentIdentifier" : "BJNR017850975BJNE003700328",
+          "paragraph" : "§ 29",
+          "title" : "Eichzeichen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schiffe, die nicht zur Beförderung von Gütern bestimmt sind"
+    },
+    {
+      "documentIdentifier" : "BJNR017850975BJNG000400328",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR017850975BJNE003800328",
+          "paragraph" : "§ 30",
+          "title" : "Allgemeines"
+        },
+        {
+          "documentIdentifier" : "BJNR017850975BJNE003900328",
+          "paragraph" : "§ 31",
+          "title" : "Ebene der größten Eintauchung"
+        },
+        {
+          "documentIdentifier" : "BJNR017850975BJNE004000328",
+          "paragraph" : "§ 32",
+          "title" : "Berechnung der Wasserverdrängung"
+        },
+        {
+          "documentIdentifier" : "BJNR017850975BJNE004103301",
+          "paragraph" : "§ 33",
+          "title" : "Baumuster-Eichung"
+        },
+        {
+          "documentIdentifier" : "BJNR017850975BJNE004200328",
+          "paragraph" : "§ 34",
+          "title" : "Überprüfung von Nachbauten"
+        },
+        {
+          "documentIdentifier" : "BJNR017850975BJNE004302301",
+          "paragraph" : "§ 35",
+          "title" : "Eichbescheinigung"
+        },
+        {
+          "documentIdentifier" : "BJNR017850975BJNE004402301",
+          "paragraph" : "§ 36",
+          "title" : "Eichplakette mit Eichzeichen"
+        },
+        {
+          "documentIdentifier" : "BJNR017850975BJNE004500328",
+          "paragraph" : "§ 37",
+          "title" : "Grenzfälle"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Sportboot-Eichverfahren"
+    },
+    {
+      "documentIdentifier" : "BJNR017850975BJNG000500328",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR017850975BJNE004601307",
+          "paragraph" : "§ 38",
+          "title" : "Nacheichung"
+        },
+        {
+          "documentIdentifier" : "BJNR017850975BJNE004702305",
+          "paragraph" : "§ 39",
+          "title" : "Nachprüfung von Eichungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Nacheichungen und Nachprüfungen"
+    },
+    {
+      "documentIdentifier" : "BJNR017850975BJNG000600328",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR017850975BJNE004801308",
+          "paragraph" : "§ 40",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Kosten"
+    },
+    {
+      "documentIdentifier" : "BJNR017850975BJNG000700328",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR017850975BJNE004900328",
+          "paragraph" : "§ 41",
+          "title" : "Gültigkeit alter Eichscheine"
+        },
+        {
+          "documentIdentifier" : "BJNR017850975BJNE005100328",
+          "paragraph" : "§ 43",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR017850975BJNE005302301",
+          "paragraph" : "Anlagen",
+          "title" : "zur Verordnung über die Eichung von Binnenschiffen (BinSchEO)"
+        },
+        {
+          "documentIdentifier" : "BJNR017850975BJNE005504126",
+          "paragraph" : "Anlage 1",
+          "title" : "Muster des Eichscheins für Binnenschiffe (Güterbeförderer)"
+        },
+        {
+          "documentIdentifier" : "BJNR017850975BJNE005604126",
+          "paragraph" : "Anlage 2",
+          "title" : "Muster des Eichscheins für Binnenschiffe (Nichtgüterbeförderer)"
+        },
+        {
+          "documentIdentifier" : "BJNR017850975BJNE005902305",
+          "paragraph" : "Anlage 3",
+          "title" : "Muster der Vorläufigen Eichbescheinigung (Güterbeförderer)"
+        },
+        {
+          "documentIdentifier" : "BJNR017850975BJNE006002305",
+          "paragraph" : "Anlage 4",
+          "title" : "Muster der Vorläufigen Eichbescheinigung (Nichtgüterbeförderer)"
+        },
+        {
+          "documentIdentifier" : "BJNR017850975BJNE006102305",
+          "paragraph" : "Anlage 5",
+          "title" : "Muster der Eichbescheinigung für Sportboote"
+        },
+        {
+          "documentIdentifier" : "BJNR017850975BJNE006202305",
+          "paragraph" : "Anlage 6",
+          "title" : "Muster der Eichplakette für Sportboote"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übergangs- und Schlußbestimmungen"
+    }
+  ]
+}

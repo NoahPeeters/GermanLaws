@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR187100007",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR187100007Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR187100007BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Zweck der Verordnung"
+        },
+        {
+          "documentIdentifier" : "BJNR187100007BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR187100007BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Betriebseigene Kontrollen"
+        },
+        {
+          "documentIdentifier" : "BJNR187100007BJNE000500377",
+          "paragraph" : "§ 3a",
+          "title" : "Rückstellproben im Fall des Artikels 19 Absatz 3 der Verordnung (EG) Nr. 178\/2002"
+        },
+        {
+          "documentIdentifier" : "BJNR187100007BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Ordnungswidrigkeiten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

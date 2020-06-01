@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR347300001",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR347300001Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR347300001BJNE000500305",
+          "paragraph" : "Anhang I",
+          "title" : "Gebühren für die Prüfung von Dampfkesselanlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR347300001BJNE000600305",
+          "paragraph" : "Anhang II",
+          "title" : "Gebühren für die Prüfung von Druckbehältern,\nDruckgasbehältern und Füllanlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR347300001BJNE000700305",
+          "paragraph" : "Anhang III",
+          "title" : "Gebühren für die Prüfung von Aufzugsanlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR347300001BJNE000800305",
+          "paragraph" : "Anhang IV",
+          "title" : "Gebühren für die Prüfung von Acetylenanlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR347300001BJNE000900305",
+          "paragraph" : "Anhang V",
+          "title" : "Gebühren für die Prüfung von Anlagen zur Lagerung,\nAbfüllung und Beförderung brennbarer Flüssigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR347300001BJNE001000305",
+          "paragraph" : "Anhang VI",
+          "title" : "Gebühren für die Prüfung elektrischer Anlagen in\nexplosionsgefährdeten Bereichen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

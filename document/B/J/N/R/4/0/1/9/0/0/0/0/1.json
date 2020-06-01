@@ -1,0 +1,35 @@
+{
+  "documentIdentifier" : "BJNR401900001",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR401900001BJNG000100305",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Dienstrecht"
+    },
+    {
+      "documentIdentifier" : "BJNR401900001BJNG000200305",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Versorgung"
+    }
+  ]
+}

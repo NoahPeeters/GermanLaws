@@ -1,0 +1,64 @@
+{
+  "documentIdentifier" : "BJNR414100013",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR414100013Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR414100013BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Ziel und Gegenstand der Erprobung"
+        },
+        {
+          "documentIdentifier" : "BJNR414100013BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Abschlussprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR414100013BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Teil 1 der Abschlussprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR414100013BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Teil 2 der Abschlussprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR414100013BJNE000601360",
+          "paragraph" : "§ 5",
+          "title" : "Gewichtung der Prüfungsbereiche, Bestehen der Abschlussprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR414100013BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Zusatzqualifikation"
+        },
+        {
+          "documentIdentifier" : "BJNR414100013BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Prüfung der Zusatzqualifikation"
+        },
+        {
+          "documentIdentifier" : "BJNR414100013BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Bestehende Berufsausbildungsverhältnisse"
+        },
+        {
+          "documentIdentifier" : "BJNR414100013BJNE001000000",
+          "paragraph" : "§ 9",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

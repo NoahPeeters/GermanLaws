@@ -1,0 +1,48 @@
+{
+  "documentIdentifier" : "DDNR009550990",
+  "sections" : [
+    {
+      "documentIdentifier" : "DDNR009550990BJNG000100307",
+      "laws" : [
+        {
+          "documentIdentifier" : "DDNR009550990BJNE000500307",
+          "paragraph" : "(XXXX) §§ 3 bis 21",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "DDNR009550990BJNE000600307",
+          "paragraph" : "§ 22",
+          "title" : "Übergang von Einrichtungen und Personal"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Territoriale Gliederung"
+    },
+    {
+      "documentIdentifier" : "DDNR009550990BJNG000200307",
+      "laws" : [
+        {
+          "documentIdentifier" : "DDNR009550990BJNE000900307",
+          "paragraph" : "§ 25",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übergangs- und Schlußbestimmungen"
+    }
+  ]
+}

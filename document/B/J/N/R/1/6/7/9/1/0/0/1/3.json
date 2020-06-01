@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR167910013",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR167910013Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR167910013BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Übertragung der Zuständigkeit auf das Bundeszentralamt für Steuern"
+        },
+        {
+          "documentIdentifier" : "BJNR167910013BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Anwendungszeitpunkte zum Einkommensteuergesetz"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR373900013",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR373900013Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR373900013BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Übertragung von Zuständigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR373900013BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Entscheidung durch das Bundesministerium der Verteidigung"
+        },
+        {
+          "documentIdentifier" : "BJNR373900013BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Weitere Zuständigkeiten auf dem Gebiet der Beamtenversorgung"
+        },
+        {
+          "documentIdentifier" : "BJNR373900013BJNE000501116",
+          "paragraph" : "§ 4",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR373900013BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

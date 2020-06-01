@@ -1,0 +1,159 @@
+{
+  "documentIdentifier" : "BJNR287100998",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR287100998BJNG000100305",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR287100998BJNE000803305",
+          "paragraph" : "§ 1",
+          "title" : "Rechtsform, Aufbau, Sitz"
+        },
+        {
+          "documentIdentifier" : "BJNR287100998BJNE000903305",
+          "paragraph" : "§ 2",
+          "title" : "Aufsicht"
+        },
+        {
+          "documentIdentifier" : "BJNR287100998BJNE001003305",
+          "paragraph" : "§ 3",
+          "title" : "Zusammenarbeit"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Rechtsform, Aufsicht"
+    },
+    {
+      "documentIdentifier" : "BJNR287100998BJNG000200305",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR287100998BJNE001104119",
+          "paragraph" : "§ 4",
+          "title" : "Aufgaben"
+        },
+        {
+          "documentIdentifier" : "BJNR287100998BJNE001200305",
+          "paragraph" : "§ 5",
+          "title" : "Befugnisse"
+        },
+        {
+          "documentIdentifier" : "BJNR287100998BJNE001302119",
+          "paragraph" : "§ 6",
+          "title" : "Vergütungen"
+        },
+        {
+          "documentIdentifier" : "BJNR287100998BJNE001400305",
+          "paragraph" : "§ 7",
+          "title" : "Quellenschutz"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Aufgaben, Befugnisse"
+    },
+    {
+      "documentIdentifier" : "BJNR287100998BJNG000300305",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR287100998BJNE001503305",
+          "paragraph" : "§ 8",
+          "title" : "Geschäftsführendes Organ"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Geschäftsführung"
+    },
+    {
+      "documentIdentifier" : "BJNR287100998BJNG000400305",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR287100998BJNE001603305",
+          "paragraph" : "§ 9",
+          "title" : "Wissenschaftlicher Beirat"
+        },
+        {
+          "documentIdentifier" : "BJNR287100998BJNE001703305",
+          "paragraph" : "§ 10",
+          "title" : "Bund-Länder-Beirat"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Beiräte"
+    },
+    {
+      "documentIdentifier" : "BJNR287100998BJNG000500305",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR287100998BJNE001803305",
+          "paragraph" : "§ 11",
+          "title" : "Reise- und umzugskostenrechtliche Sonderregelungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Personalwesen"
+    },
+    {
+      "documentIdentifier" : "BJNR287100998BJNG000600305",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR287100998BJNE001900305",
+          "paragraph" : "§ 12",
+          "title" : "Übergang von Rechten und Pflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR287100998BJNE002001119",
+          "paragraph" : "§ 13",
+          "title" : "Evaluierung"
+        },
+        {
+          "documentIdentifier" : "BJNR287100998BJNE002100305",
+          "paragraph" : "§ 14",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übergangs- und Schlußvorschriften"
+    }
+  ]
+}

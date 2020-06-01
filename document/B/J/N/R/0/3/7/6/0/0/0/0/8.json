@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR037600008",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR037600008Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR037600008BJNE000201360",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR037600008BJNE000301360",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR037600008BJNE000401360",
+          "paragraph" : "§ 3",
+          "title" : "Datenerhebung"
+        },
+        {
+          "documentIdentifier" : "BJNR037600008BJNE000501360",
+          "paragraph" : "§ 4",
+          "title" : "Datenverwendung"
+        },
+        {
+          "documentIdentifier" : "BJNR037600008BJNE000601360",
+          "paragraph" : "§ 5",
+          "title" : "Löschung"
+        },
+        {
+          "documentIdentifier" : "BJNR037600008BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR064410004",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR064410004Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR064410004BJNE000101126",
+          "paragraph" : "§ 1",
+          "title" : "Verfahrensbeteiligte und zentrale Stelle"
+        },
+        {
+          "documentIdentifier" : "BJNR064410004BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Zu berücksichtigende Ausgaben"
+        },
+        {
+          "documentIdentifier" : "BJNR064410004BJNE000301126",
+          "paragraph" : "§ 3",
+          "title" : "Verteilungsquote"
+        },
+        {
+          "documentIdentifier" : "BJNR064410004BJNE000401126",
+          "paragraph" : "§ 4",
+          "title" : "Verteilungsverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR064410004BJNE000501126",
+          "paragraph" : "§ 5",
+          "title" : "Korrekturverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR064410004BJNE000600000",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 2 Abs. 1)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

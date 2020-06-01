@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR184110996",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR184110996Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR184110996BJNE000300000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR184110996BJNE000400000",
+          "paragraph" : "§ 2",
+          "title" : "Bereitstellung und Benutzung"
+        },
+        {
+          "documentIdentifier" : "BJNR184110996BJNE000500000",
+          "paragraph" : "§ 3",
+          "title" : "Unterweisung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

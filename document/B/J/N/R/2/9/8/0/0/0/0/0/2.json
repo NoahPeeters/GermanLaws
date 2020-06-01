@@ -1,0 +1,69 @@
+{
+  "documentIdentifier" : "BJNR298000002",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR298000002Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR298000002BJNE000101310",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR298000002BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR298000002BJNE000303310",
+          "paragraph" : "§ 3",
+          "title" : "Ermächtigungen"
+        },
+        {
+          "documentIdentifier" : "BJNR298000002BJNE000401310",
+          "paragraph" : "§ 4",
+          "title" : "Zuständigkeit für die Überwachung"
+        },
+        {
+          "documentIdentifier" : "BJNR298000002BJNE000503310",
+          "paragraph" : "§ 5",
+          "title" : "Befugnisse"
+        },
+        {
+          "documentIdentifier" : "BJNR298000002BJNE000601310",
+          "paragraph" : "§ 6",
+          "title" : "Mitwirkung der Zollstellen"
+        },
+        {
+          "documentIdentifier" : "BJNR298000002BJNE000700000",
+          "paragraph" : "§ 7",
+          "title" : "Außenverkehr"
+        },
+        {
+          "documentIdentifier" : "BJNR298000002BJNE000801310",
+          "paragraph" : "§ 8",
+          "title" : "Bußgeldvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR298000002BJNE000900000",
+          "paragraph" : "§ 9",
+          "title" : "Einziehung"
+        },
+        {
+          "documentIdentifier" : "BJNR298000002BJNE001000000",
+          "paragraph" : "§ 10",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

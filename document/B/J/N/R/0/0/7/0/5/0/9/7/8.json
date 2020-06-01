@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR007050978",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR007050978Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR007050978BJNE000200306",
+          "paragraph" : "§ 1",
+          "title" : "Bestimmung der Vordrucke"
+        },
+        {
+          "documentIdentifier" : "BJNR007050978BJNE000301308",
+          "paragraph" : "§ 2",
+          "title" : "Zweitschriften, Ausfertigungen"
+        },
+        {
+          "documentIdentifier" : "BJNR007050978BJNE000401308",
+          "paragraph" : "§ 3",
+          "title" : "Zulässige Abweichungen"
+        },
+        {
+          "documentIdentifier" : "BJNR007050978BJNE000502310",
+          "paragraph" : "§ 4",
+          "title" : "Übergang zum Euro"
+        },
+        {
+          "documentIdentifier" : "BJNR007050978BJNE000600306",
+          "paragraph" : "§ 5",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

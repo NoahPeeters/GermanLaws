@@ -1,0 +1,156 @@
+{
+  "documentIdentifier" : "BJNR395600001",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR395600001BJNG000102123",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR395600001BJNE000130123",
+          "paragraph" : "§ 1",
+          "title" : "Anteile von Bund und Ländern an der Umsatzsteuer"
+        },
+        {
+          "documentIdentifier" : "BJNR395600001BJNE000202123",
+          "paragraph" : "§ 2",
+          "title" : "Verteilung der Umsatzsteuer unter den Ländern"
+        },
+        {
+          "documentIdentifier" : "BJNR395600001BJNE000302123",
+          "paragraph" : "§ 3",
+          "title" : "Verteilung der Gewerbesteuerumlage unter den Ländern"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Steuerverteilung zwischen Bund und Ländern sowie unter den Ländern"
+    },
+    {
+      "documentIdentifier" : "BJNR395600001BJNG000202123",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR395600001BJNE000402123",
+          "paragraph" : "§ 4",
+          "title" : "Finanzkraftausgleich"
+        },
+        {
+          "documentIdentifier" : "BJNR395600001BJNE000502123",
+          "paragraph" : "§ 5",
+          "title" : "Abschläge und Zuschläge zum Zweck des Finanzkraftausgleichs"
+        },
+        {
+          "documentIdentifier" : "BJNR395600001BJNE000602123",
+          "paragraph" : "§ 6",
+          "title" : "Finanzkraftmesszahl, Ausgleichsmesszahl"
+        },
+        {
+          "documentIdentifier" : "BJNR395600001BJNE000705123",
+          "paragraph" : "§ 7",
+          "title" : "Einnahmen der Länder aus Steuern und Förderabgabe"
+        },
+        {
+          "documentIdentifier" : "BJNR395600001BJNE000802123",
+          "paragraph" : "§ 8",
+          "title" : "Steuereinnahmen der Gemeinden"
+        },
+        {
+          "documentIdentifier" : "BJNR395600001BJNE000902123",
+          "paragraph" : "§ 9",
+          "title" : "Einwohnerzahl"
+        },
+        {
+          "documentIdentifier" : "BJNR395600001BJNE001002123",
+          "paragraph" : "§ 10",
+          "title" : "Bemessung der Zu- und Abschläge"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Angemessener Ausgleich der unterschiedlichen Finanzkraft"
+    },
+    {
+      "documentIdentifier" : "BJNR395600001BJNG000302123",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR395600001BJNE001110123",
+          "paragraph" : "§ 11",
+          "title" : "Bundesergänzungszuweisungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Bundesergänzungszuweisungen"
+    },
+    {
+      "documentIdentifier" : "BJNR395600001BJNG000402123",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR395600001BJNE001202123",
+          "paragraph" : "§ 12",
+          "title" : "Feststellung der Umsatzsteueranteile"
+        },
+        {
+          "documentIdentifier" : "BJNR395600001BJNE001302123",
+          "paragraph" : "§ 13",
+          "title" : "Verteilung der Umsatzsteuer und Vollzug des Finanzkraftausgleichs während des Ausgleichsjahres"
+        },
+        {
+          "documentIdentifier" : "BJNR395600001BJNE001403123",
+          "paragraph" : "§ 14",
+          "title" : "Zahlungsverkehr zum Vollzug der Umsatzsteuerverteilung und des Finanzkraftausgleichs"
+        },
+        {
+          "documentIdentifier" : "BJNR395600001BJNE001502123",
+          "paragraph" : "§ 15",
+          "title" : "Endgültige Abrechnung der Umsatzsteuerverteilung und des Finanzkraftausgleichs"
+        },
+        {
+          "documentIdentifier" : "BJNR395600001BJNE001602123",
+          "paragraph" : "§ 16",
+          "title" : "Zahlungsverkehr zum Vollzug der Bundesergänzungszuweisungen"
+        },
+        {
+          "documentIdentifier" : "BJNR395600001BJNE001704123",
+          "paragraph" : "§ 17",
+          "title" : "Vollzug der Verteilung des Gemeindeanteils an der Umsatzsteuer"
+        },
+        {
+          "documentIdentifier" : "BJNR395600001BJNE001802123",
+          "paragraph" : "§ 18",
+          "title" : "Berichts- und Auskunftspflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR395600001BJNE001902123",
+          "paragraph" : "§ 19",
+          "title" : "Vollzug und Abrechnung der Ausgleichsjahre vor dem 1. Januar 2020"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Vollzug und Abrechnung der Umsatzsteuerverteilung, des Finanzkraftausgleichs und der Bundesergänzungszuweisungen"
+    }
+  ]
+}

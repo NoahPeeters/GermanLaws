@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR141100997",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR141100997Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR141100997BJNE000200320",
+          "paragraph" : "Anlage IA",
+          "title" : "(Anlage IV des BBesG)"
+        },
+        {
+          "documentIdentifier" : "BJNR141100997BJNE000300320",
+          "paragraph" : "Anlage IB",
+          "title" : "(Anlage V des BBesG)\n"
+        },
+        {
+          "documentIdentifier" : "BJNR141100997BJNE000400320",
+          "paragraph" : "Anlage IC",
+          "title" : "(Anlage IX des BBesG)\n"
+        },
+        {
+          "documentIdentifier" : "BJNR141100997BJNE000500320",
+          "paragraph" : "Anlage IIA",
+          "title" : "(Anlage IV des BBesG)\n"
+        },
+        {
+          "documentIdentifier" : "BJNR141100997BJNE000600320",
+          "paragraph" : "Anlage IIB",
+          "title" : "(Anlage V des BBesG)\n"
+        },
+        {
+          "documentIdentifier" : "BJNR141100997BJNE000700320",
+          "paragraph" : "Anlage IIC",
+          "title" : "(Anlage VIII des BBesG)\n"
+        },
+        {
+          "documentIdentifier" : "BJNR141100997BJNE000800320",
+          "paragraph" : "Anlage IID",
+          "title" : "(Anlage IX des BBesG)\n"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

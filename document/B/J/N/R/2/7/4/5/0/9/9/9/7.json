@@ -1,0 +1,108 @@
+{
+  "documentIdentifier" : "BJNR274509997",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR274509997BJNE000400310",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          0
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "-"
+    },
+    {
+      "documentIdentifier" : "BJNR274509997BJNG000100310",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Art 1 u. 2"
+    },
+    {
+      "documentIdentifier" : "BJNR274509997BJNG000200310",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR274509997BJNE000500310",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR274509997BJNE000600310",
+              "laws" : [
+
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  3
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Art 3"
+            }
+          ],
+          "title" : "Art 3"
+        }
+      ],
+      "title" : "Verordnung über das Aufheben marktrechtlicher Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR274509997BJNG000300310",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inkrafttreten"
+    },
+    {
+      "documentIdentifier" : "BJNR274509997BJNE000700310",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "-"
+    }
+  ]
+}

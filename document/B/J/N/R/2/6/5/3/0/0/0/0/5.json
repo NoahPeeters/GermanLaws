@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR265300005",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR265300005Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR265300005BJNE000104116",
+          "paragraph" : "§ 1",
+          "title" : "Weitere Anwendung von Vorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR265300005BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Geltung von Vorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR265300005BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Anpassung von Vorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR265300005BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Verweisungen"
+        },
+        {
+          "documentIdentifier" : "BJNR265300005BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Ermächtigung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

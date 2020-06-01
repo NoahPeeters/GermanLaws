@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR000400009",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR000400009Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR000400009BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Höhe der Einzugskostenvergütung an die Einzugsstellen"
+        },
+        {
+          "documentIdentifier" : "BJNR000400009BJNE000301308",
+          "paragraph" : "§ 2",
+          "title" : "Verteilung der Einzugskostenvergütung"
+        },
+        {
+          "documentIdentifier" : "BJNR000400009BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Höhe der Pauschale für die Prüfung der Arbeitgeber durch die Träger der Deutschen Rentenversicherung"
+        },
+        {
+          "documentIdentifier" : "BJNR000400009BJNE000501308",
+          "paragraph" : "§ 4",
+          "title" : "Höhe der Pauschale für die Prüfung der Arbeitgeber durch die landwirtschaftliche Krankenkasse"
+        },
+        {
+          "documentIdentifier" : "BJNR000400009BJNE000601308",
+          "paragraph" : "§ 5",
+          "title" : "Fälligkeit und Zahlung"
+        },
+        {
+          "documentIdentifier" : "BJNR000400009BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

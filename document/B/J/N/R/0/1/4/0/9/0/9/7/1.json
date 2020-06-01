@@ -1,0 +1,562 @@
+{
+  "documentIdentifier" : "BJNR014090971",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR014090971Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR014090971BJNE001201310",
+          "paragraph" : "§ 1",
+          "title" : "Grundsatz"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR014090971BJNG000101310",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR014090971BJNE001314116",
+              "paragraph" : "§ 2",
+              "title" : "Ausbildungsstätten"
+            },
+            {
+              "documentIdentifier" : "BJNR014090971BJNE001402310",
+              "paragraph" : "§ 3",
+              "title" : "Fernunterricht"
+            },
+            {
+              "documentIdentifier" : "BJNR014090971BJNE001502310",
+              "paragraph" : "§ 4",
+              "title" : "Ausbildung im Inland"
+            },
+            {
+              "documentIdentifier" : "BJNR014090971BJNE001617116",
+              "paragraph" : "§ 5",
+              "title" : "Ausbildung im Ausland"
+            },
+            {
+              "documentIdentifier" : "BJNR014090971BJNE001707116",
+              "paragraph" : "§ 5a",
+              "title" : "Unberücksichtigte Ausbildungszeiten"
+            },
+            {
+              "documentIdentifier" : "BJNR014090971BJNE001802116",
+              "paragraph" : "§ 6",
+              "title" : "Förderung der Deutschen im Ausland"
+            },
+            {
+              "documentIdentifier" : "BJNR014090971BJNE001917116",
+              "paragraph" : "§ 7",
+              "title" : "Erstausbildung, weitere Ausbildung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Förderungsfähige Ausbildung"
+        }
+      ],
+      "title" : "Inhalt"
+    },
+    {
+      "documentIdentifier" : "BJNR014090971BJNG000201310",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR014090971BJNE009502116",
+          "paragraph" : "§ 8",
+          "title" : "Staatsangehörigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR014090971BJNE002101310",
+          "paragraph" : "§ 9",
+          "title" : "Eignung"
+        },
+        {
+          "documentIdentifier" : "BJNR014090971BJNE002206116",
+          "paragraph" : "§ 10",
+          "title" : "Alter"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Persönliche Voraussetzungen"
+    },
+    {
+      "documentIdentifier" : "BJNR014090971BJNG000301310",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR014090971BJNE002312116",
+          "paragraph" : "§ 11",
+          "title" : "Umfang der Ausbildungsförderung"
+        },
+        {
+          "documentIdentifier" : "BJNR014090971BJNE002417116",
+          "paragraph" : "§ 12",
+          "title" : "Bedarf für Schüler"
+        },
+        {
+          "documentIdentifier" : "BJNR014090971BJNE002619116",
+          "paragraph" : "§ 13",
+          "title" : "Bedarf für Studierende"
+        },
+        {
+          "documentIdentifier" : "BJNR014090971BJNE008811116",
+          "paragraph" : "§ 13a",
+          "title" : "Kranken- und Pflegeversicherungszuschlag"
+        },
+        {
+          "documentIdentifier" : "BJNR014090971BJNE002702310",
+          "paragraph" : "§ 14",
+          "title" : "Bedarf für Praktikanten"
+        },
+        {
+          "documentIdentifier" : "BJNR014090971BJNE002807116",
+          "paragraph" : "§ 14a",
+          "title" : "Zusatzleistungen in Härtefällen"
+        },
+        {
+          "documentIdentifier" : "BJNR014090971BJNE009304116",
+          "paragraph" : "§ 14b",
+          "title" : "Zusatzleistung für Auszubildende mit Kind (Kinderbetreuungszuschlag)"
+        },
+        {
+          "documentIdentifier" : "BJNR014090971BJNE002914116",
+          "paragraph" : "§ 15",
+          "title" : "Förderungsdauer"
+        },
+        {
+          "documentIdentifier" : "BJNR014090971BJNE009006310",
+          "paragraph" : "§ 15a",
+          "title" : "Förderungshöchstdauer"
+        },
+        {
+          "documentIdentifier" : "BJNR014090971BJNE003006116",
+          "paragraph" : "§ 15b",
+          "title" : "Aufnahme und Beendigung der Ausbildung"
+        },
+        {
+          "documentIdentifier" : "BJNR014090971BJNE003110116",
+          "paragraph" : "§ 16",
+          "title" : "Förderungsdauer im Ausland"
+        },
+        {
+          "documentIdentifier" : "BJNR014090971BJNE003211116",
+          "paragraph" : "§ 17",
+          "title" : "Förderungsarten"
+        },
+        {
+          "documentIdentifier" : "BJNR014090971BJNE003314116",
+          "paragraph" : "§ 18",
+          "title" : "Darlehensbedingungen"
+        },
+        {
+          "documentIdentifier" : "BJNR014090971BJNE003425116",
+          "paragraph" : "§ 18a",
+          "title" : "Einkommensabhängige Rückzahlung"
+        },
+        {
+          "documentIdentifier" : "BJNR014090971BJNE003520116",
+          "paragraph" : "§ 18b",
+          "title" : "Teilerlass des Darlehens"
+        },
+        {
+          "documentIdentifier" : "BJNR014090971BJNE009113116",
+          "paragraph" : "§ 18c",
+          "title" : "Bankdarlehen"
+        },
+        {
+          "documentIdentifier" : "BJNR014090971BJNE009204116",
+          "paragraph" : "§ 18d",
+          "title" : "Kreditanstalt für Wiederaufbau"
+        },
+        {
+          "documentIdentifier" : "BJNR014090971BJNE003603310",
+          "paragraph" : "§ 19",
+          "title" : "Aufrechnung"
+        },
+        {
+          "documentIdentifier" : "BJNR014090971BJNE003703310",
+          "paragraph" : "§ 20",
+          "title" : "Rückzahlungspflicht"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Leistungen"
+    },
+    {
+      "documentIdentifier" : "BJNR014090971BJNG000401310",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR014090971BJNE003828116",
+          "paragraph" : "§ 21",
+          "title" : "Einkommensbegriff"
+        },
+        {
+          "documentIdentifier" : "BJNR014090971BJNE003904310",
+          "paragraph" : "§ 22",
+          "title" : "Berechnungszeitraum für das Einkommen des Auszubildenden"
+        },
+        {
+          "documentIdentifier" : "BJNR014090971BJNE004025116",
+          "paragraph" : "§ 23",
+          "title" : "Freibeträge vom Einkommen des Auszubildenden"
+        },
+        {
+          "documentIdentifier" : "BJNR014090971BJNE004110310",
+          "paragraph" : "§ 24",
+          "title" : "Berechnungszeitraum für das Einkommen der Eltern und des Ehegatten oder Lebenspartners"
+        },
+        {
+          "documentIdentifier" : "BJNR014090971BJNE004227116",
+          "paragraph" : "§ 25",
+          "title" : "Freibeträge vom Einkommen der Eltern und des Ehegatten oder Lebenspartners"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Einkommensanrechnung"
+    },
+    {
+      "documentIdentifier" : "BJNR014090971BJNG000501310",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR014090971BJNE004504310",
+          "paragraph" : "§ 26",
+          "title" : "Umfang der Vermögensanrechnung"
+        },
+        {
+          "documentIdentifier" : "BJNR014090971BJNE004603116",
+          "paragraph" : "§ 27",
+          "title" : "Vermögensbegriff"
+        },
+        {
+          "documentIdentifier" : "BJNR014090971BJNE004709310",
+          "paragraph" : "§ 28",
+          "title" : "Wertbestimmung des Vermögens"
+        },
+        {
+          "documentIdentifier" : "BJNR014090971BJNE004806116",
+          "paragraph" : "§ 29",
+          "title" : "Freibeträge vom Vermögen"
+        },
+        {
+          "documentIdentifier" : "BJNR014090971BJNE004901310",
+          "paragraph" : "§ 30",
+          "title" : "Monatlicher Anrechnungsbetrag"
+        },
+        {
+          "documentIdentifier" : "BJNR014090971BJNE005001310",
+          "paragraph" : "(XXXX) §§ 31 bis 34",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Vermögensanrechnung"
+    },
+    {
+      "documentIdentifier" : "BJNR014090971BJNG000601310",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR014090971BJNE005104116",
+          "paragraph" : "§ 35",
+          "title" : "Anpassung der Bedarfssätze und Freibeträge"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Abschnitt VI"
+    },
+    {
+      "documentIdentifier" : "BJNR014090971BJNG000702310",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR014090971BJNE005211116",
+          "paragraph" : "§ 36",
+          "title" : "Vorausleistung von Ausbildungsförderung"
+        },
+        {
+          "documentIdentifier" : "BJNR014090971BJNE005305310",
+          "paragraph" : "§ 37",
+          "title" : "Übergang von Unterhaltsansprüchen"
+        },
+        {
+          "documentIdentifier" : "BJNR014090971BJNE005401310",
+          "paragraph" : "§ 38",
+          "title" : "Übergang von anderen Ansprüchen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Vorausleistung und Anspruchsübergang"
+    },
+    {
+      "documentIdentifier" : "BJNR014090971BJNG000801310",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR014090971BJNE005507310",
+          "paragraph" : "§ 39",
+          "title" : "Auftragsverwaltung"
+        },
+        {
+          "documentIdentifier" : "BJNR014090971BJNE005610116",
+          "paragraph" : "§ 40",
+          "title" : "Ämter für Ausbildungsförderung"
+        },
+        {
+          "documentIdentifier" : "BJNR014090971BJNE005703310",
+          "paragraph" : "§ 40a",
+          "title" : "Landesämter für Ausbildungsförderung"
+        },
+        {
+          "documentIdentifier" : "BJNR014090971BJNE005806116",
+          "paragraph" : "§ 41",
+          "title" : "Aufgaben der Ämter für Ausbildungsförderung"
+        },
+        {
+          "documentIdentifier" : "BJNR014090971BJNE005905310",
+          "paragraph" : "§ 42",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR014090971BJNE006004310",
+          "paragraph" : "§ 43",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR014090971BJNE006105116",
+          "paragraph" : "§ 44",
+          "title" : "Beirat für Ausbildungsförderung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          8
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Organisation"
+    },
+    {
+      "documentIdentifier" : "BJNR014090971BJNG000901310",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR014090971BJNE006211116",
+          "paragraph" : "§ 45",
+          "title" : "Örtliche Zuständigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR014090971BJNE006302310",
+          "paragraph" : "§ 45a",
+          "title" : "Wechsel in der Zuständigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR014090971BJNE006411116",
+          "paragraph" : "§ 46",
+          "title" : "Antrag"
+        },
+        {
+          "documentIdentifier" : "BJNR014090971BJNE006506310",
+          "paragraph" : "§ 47",
+          "title" : "Auskunftspflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR014090971BJNE006605116",
+          "paragraph" : "§ 47a",
+          "title" : "Ersatzpflicht des Ehegatten oder Lebenspartners und der Eltern"
+        },
+        {
+          "documentIdentifier" : "BJNR014090971BJNE006711116",
+          "paragraph" : "§ 48",
+          "title" : "Mitwirkung von Ausbildungsstätten"
+        },
+        {
+          "documentIdentifier" : "BJNR014090971BJNE006806310",
+          "paragraph" : "§ 49",
+          "title" : "Feststellung der Voraussetzungen der Förderung im Ausland"
+        },
+        {
+          "documentIdentifier" : "BJNR014090971BJNE006908116",
+          "paragraph" : "§ 50",
+          "title" : "Bescheid"
+        },
+        {
+          "documentIdentifier" : "BJNR014090971BJNE007011116",
+          "paragraph" : "§ 51",
+          "title" : "Zahlweise"
+        },
+        {
+          "documentIdentifier" : "BJNR014090971BJNE007101310",
+          "paragraph" : "§ 52",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR014090971BJNE007207116",
+          "paragraph" : "§ 53",
+          "title" : "Änderung des Bescheides"
+        },
+        {
+          "documentIdentifier" : "BJNR014090971BJNE007301310",
+          "paragraph" : "§ 54",
+          "title" : "Rechtsweg"
+        },
+        {
+          "documentIdentifier" : "BJNR014090971BJNE007404116",
+          "paragraph" : "§ 55",
+          "title" : "Statistik"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          9
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Verfahren"
+    },
+    {
+      "documentIdentifier" : "BJNR014090971BJNG001001310",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR014090971BJNE007508116",
+          "paragraph" : "§ 56",
+          "title" : "Aufbringung der Mittel"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          10
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Abschnitt X"
+    },
+    {
+      "documentIdentifier" : "BJNR014090971BJNG001101310",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR014090971BJNE007601310",
+          "paragraph" : "§ 57",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR014090971BJNE007705116",
+          "paragraph" : "§ 58",
+          "title" : "Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR014090971BJNE008702310",
+          "paragraph" : "§ 59",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR014090971BJNE008906116",
+          "paragraph" : "§ 60",
+          "title" : "Opfer politischer Verfolgung durch SED-Unrecht"
+        },
+        {
+          "documentIdentifier" : "BJNR014090971BJNE007803310",
+          "paragraph" : "(XXXX) §§ 61 und 62",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR014090971BJNE007904310",
+          "paragraph" : "§ 63",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR014090971BJNE008002310",
+          "paragraph" : "§ 64",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR014090971BJNE008107310",
+          "paragraph" : "§ 65",
+          "title" : "Weitergeltende Vorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR014090971BJNE008202310",
+          "paragraph" : "§ 66",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR014090971BJNE008315116",
+          "paragraph" : "§ 66a",
+          "title" : "Übergangs- und Anwendungsvorschrift"
+        },
+        {
+          "documentIdentifier" : "BJNR014090971BJNE009402310",
+          "paragraph" : "§ 67",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR014090971BJNE008504310",
+          "paragraph" : "§ 68",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          11
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Bußgeldvorschriften, Übergangs- und Schlussvorschriften"
+    }
+  ]
+}

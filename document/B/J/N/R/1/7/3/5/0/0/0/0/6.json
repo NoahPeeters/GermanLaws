@@ -1,0 +1,402 @@
+{
+  "documentIdentifier" : "BJNR173500006",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR173500006BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR173500006BJNE000301377",
+          "paragraph" : "§ 1",
+          "title" : "Geltungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR173500006BJNE000400000",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Bestimmungen"
+    },
+    {
+      "documentIdentifier" : "BJNR173500006BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR173500006BJNE000501377",
+          "paragraph" : "§ 3",
+          "title" : "Küchen- und Speiseabfälle aus privaten Haushaltungen"
+        },
+        {
+          "documentIdentifier" : "BJNR173500006BJNE000600000",
+          "paragraph" : "§ 4",
+          "title" : "Sonstige Küchen- und Speiseabfälle"
+        },
+        {
+          "documentIdentifier" : "BJNR173500006BJNE000702377",
+          "paragraph" : "§ 5",
+          "title" : "Betriebe mit Nutztierhaltung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Spezifische Anforderungen für Küchen- und Speiseabfälle und an Betriebe mit Nutztierhaltung"
+    },
+    {
+      "documentIdentifier" : "BJNR173500006BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR173500006BJNE000800000",
+          "paragraph" : "§ 6",
+          "title" : "Lagerung, Beförderung und Inverkehrbringen von Gülle"
+        },
+        {
+          "documentIdentifier" : "BJNR173500006BJNE000900000",
+          "paragraph" : "§ 7",
+          "title" : "Anzeige und Betriebsregistrierung"
+        },
+        {
+          "documentIdentifier" : "BJNR173500006BJNE001000000",
+          "paragraph" : "§ 8",
+          "title" : "Reinigung und Desinfektion"
+        },
+        {
+          "documentIdentifier" : "BJNR173500006BJNE001100000",
+          "paragraph" : "§ 9",
+          "title" : "Handelspapiere, Aufzeichnungspflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR173500006BJNE003800377",
+          "paragraph" : "§ 9a",
+          "title" : "Kennzeichnung von Verpackungen, Behältern oder Fahrzeugen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Transport- und Nachweisverpflichtungen"
+    },
+    {
+      "documentIdentifier" : "BJNR173500006BJNG000400000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR173500006BJNG000500000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR173500006BJNE001200000",
+              "paragraph" : "§ 10",
+              "title" : "Verarbeitungsmethoden"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Verarbeitungsmethoden"
+        },
+        {
+          "documentIdentifier" : "BJNR173500006BJNG000600000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR173500006BJNE001300000",
+              "paragraph" : "§ 11",
+              "title" : "Anlagen zur Pasteurisierung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Pasteurisierung von tierischen Nebenprodukten"
+        },
+        {
+          "documentIdentifier" : "BJNR173500006BJNG000700000",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4,
+              3
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR173500006BJNG000800000",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR173500006BJNE001400000",
+                  "paragraph" : "§ 12",
+                  "title" : "Verarbeitung von tierischen Nebenprodukten in einer Biogasanlage"
+                },
+                {
+                  "documentIdentifier" : "BJNR173500006BJNE001501377",
+                  "paragraph" : "§ 13",
+                  "title" : "Biogasanlagen, in denen ausschließlich Küchen- und Speiseabfälle eingesetzt werden"
+                },
+                {
+                  "documentIdentifier" : "BJNR173500006BJNE001601377",
+                  "paragraph" : "§ 14",
+                  "title" : "Biogasanlagen, in denen ausschließlich Küchen- und Speiseabfälle zusammen mit Gülle, Magen- und Darminhalt, Milch und Kolostrum eingesetzt werden"
+                },
+                {
+                  "documentIdentifier" : "BJNR173500006BJNE001700000",
+                  "paragraph" : "§ 15",
+                  "title" : "Biogasanlagen, in denen ausschließlich Gülle, Magen- und Darminhalt,\nMilch und Kolostrum eingesetzt werden"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  4,
+                  3,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Anforderungen an Biogasanlagen"
+            },
+            {
+              "documentIdentifier" : "BJNR173500006BJNG000900000",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR173500006BJNE001800000",
+                  "paragraph" : "§ 16",
+                  "title" : "Verarbeitung von tierischen Nebenprodukten in einer Kompostierungsanlage"
+                },
+                {
+                  "documentIdentifier" : "BJNR173500006BJNE001901377",
+                  "paragraph" : "§ 17",
+                  "title" : "Kompostierungsanlagen, in denen ausschließlich Küchen- und Speiseabfälle eingesetzt werden"
+                },
+                {
+                  "documentIdentifier" : "BJNR173500006BJNE002001377",
+                  "paragraph" : "§ 18",
+                  "title" : "Kompostierungsanlagen, in denen ausschließlich Küchen- und Speiseabfälle zusammen mit Gülle, Magen- und Darminhalt, Milch und Kolostrum eingesetzt werden"
+                },
+                {
+                  "documentIdentifier" : "BJNR173500006BJNE002100000",
+                  "paragraph" : "§ 19",
+                  "title" : "Kompostierungsanlagen, in denen ausschließlich Gülle, Magen- und\nDarminhalt, Milch und Kolostrum eingesetzt werden"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  4,
+                  3,
+                  2
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Anforderungen an Kompostierungsanlagen"
+            },
+            {
+              "documentIdentifier" : "BJNR173500006BJNG001000000",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR173500006BJNE002200000",
+                  "paragraph" : "§ 20",
+                  "title" : "Gemeinsame Anforderungen an Biogas- und Kompostierungsanlagen"
+                },
+                {
+                  "documentIdentifier" : "BJNR173500006BJNE002301377",
+                  "paragraph" : "§ 21",
+                  "title" : "Untersuchungen und Probenahme in Biogas- und Kompostierungsanlagen"
+                },
+                {
+                  "documentIdentifier" : "BJNR173500006BJNE002400000",
+                  "paragraph" : "§ 22",
+                  "title" : "Untersuchungen und Probenahme in Anlagen zur Pasteurisierung"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  4,
+                  3,
+                  3
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Anforderungen an Biogas- und Kompostierungsanlagen, Untersuchungen und Probenahme bei zugelassenen Anlagen"
+            },
+            {
+              "documentIdentifier" : "BJNR173500006BJNG001100000",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR173500006BJNE002501377",
+                  "paragraph" : "§ 23",
+                  "title" : "Verwertung von Fermentationsrückständen und Komposten"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  4,
+                  3,
+                  4
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Verwertung von Fermentationsrückständen  und Komposten"
+            }
+          ],
+          "title" : "Vergärung und Kompostierung von tierischen Nebenprodukten"
+        },
+        {
+          "documentIdentifier" : "BJNR173500006BJNG001200000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR173500006BJNE002601377",
+              "paragraph" : "§ 24",
+              "title" : "Verbrennungsanlagen"
+            },
+            {
+              "documentIdentifier" : "BJNR173500006BJNE002701377",
+              "paragraph" : "§ 25",
+              "title" : "Ablagerung auf Deponien"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Anlagen zur Entsorgung tierischer Nebenprodukte als Abfall"
+        }
+      ],
+      "title" : "Anforderungen an die Verarbeitung, Behandlung und Entsorgung tierischer Nebenprodukte"
+    },
+    {
+      "documentIdentifier" : "BJNR173500006BJNG001300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR173500006BJNE002802301",
+          "paragraph" : "§ 26",
+          "title" : "Registrierung und Bekanntmachung der Zulassungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Registrierung und Zulassung"
+    },
+    {
+      "documentIdentifier" : "BJNR173500006BJNG001400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR173500006BJNE002902119",
+          "paragraph" : "§ 27",
+          "title" : "Ausnahmen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Ausnahmen"
+    },
+    {
+      "documentIdentifier" : "BJNR173500006BJNG001500000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR173500006BJNE003004377",
+          "paragraph" : "§ 28",
+          "title" : "Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR173500006BJNE003100000",
+          "paragraph" : "§ 29",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR173500006BJNE003300000",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 9 Abs. 1, 3 und 4)\n"
+        },
+        {
+          "documentIdentifier" : "BJNR173500006BJNE003401377",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 9 Abs. 5)"
+        },
+        {
+          "documentIdentifier" : "BJNR173500006BJNE003500000",
+          "paragraph" : "Anlage 3",
+          "title" : "(zu § 21 Abs. 1)\n"
+        },
+        {
+          "documentIdentifier" : "BJNR173500006BJNE003600000",
+          "paragraph" : "Anlage 4",
+          "title" : "(zu § 23 Abs. 1)\n"
+        },
+        {
+          "documentIdentifier" : "BJNR173500006BJNE003701377",
+          "paragraph" : "Anlage 5",
+          "title" : "(zu § 26 Abs. 1)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussvorschriften"
+    }
+  ]
+}

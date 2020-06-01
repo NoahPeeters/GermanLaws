@@ -1,0 +1,315 @@
+{
+  "documentIdentifier" : "BJNR001890978",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR001890978BJNG000100327",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR001890978BJNE001100327",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR001890978BJNE001200327",
+          "paragraph" : "§ 2",
+          "title" : "Wohn- und Pflegeplätze"
+        },
+        {
+          "documentIdentifier" : "BJNR001890978BJNE001300327",
+          "paragraph" : "§ 3",
+          "title" : "Flure und Treppen"
+        },
+        {
+          "documentIdentifier" : "BJNR001890978BJNE001400327",
+          "paragraph" : "§ 4",
+          "title" : "Aufzüge"
+        },
+        {
+          "documentIdentifier" : "BJNR001890978BJNE004500327",
+          "paragraph" : "§ 5",
+          "title" : "Fußböden"
+        },
+        {
+          "documentIdentifier" : "BJNR001890978BJNE001500327",
+          "paragraph" : "§ 6",
+          "title" : "Beleuchtung"
+        },
+        {
+          "documentIdentifier" : "BJNR001890978BJNE001600327",
+          "paragraph" : "§ 7",
+          "title" : "Rufanlage"
+        },
+        {
+          "documentIdentifier" : "BJNR001890978BJNE001700327",
+          "paragraph" : "§ 8",
+          "title" : "Fernsprecher"
+        },
+        {
+          "documentIdentifier" : "BJNR001890978BJNE001800327",
+          "paragraph" : "§ 9",
+          "title" : "Zugänge"
+        },
+        {
+          "documentIdentifier" : "BJNR001890978BJNE001900327",
+          "paragraph" : "§ 10",
+          "title" : "Sanitäre Anlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR001890978BJNE002000327",
+          "paragraph" : "§ 11",
+          "title" : "Wirtschaftsräume"
+        },
+        {
+          "documentIdentifier" : "BJNR001890978BJNE002100327",
+          "paragraph" : "§ 12",
+          "title" : "Heizung"
+        },
+        {
+          "documentIdentifier" : "BJNR001890978BJNE002200327",
+          "paragraph" : "§ 13",
+          "title" : "Gebäudezugänge"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gemeinsame Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR001890978BJNG000200327",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR001890978BJNG000300327",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR001890978BJNE002301310",
+              "paragraph" : "§ 14",
+              "title" : "Wohnplätze"
+            },
+            {
+              "documentIdentifier" : "BJNR001890978BJNE002400327",
+              "paragraph" : "§ 15",
+              "title" : "Funktions- und Zubehörräume"
+            },
+            {
+              "documentIdentifier" : "BJNR001890978BJNE002500327",
+              "paragraph" : "§ 16",
+              "title" : "Gemeinschaftsräume"
+            },
+            {
+              "documentIdentifier" : "BJNR001890978BJNE002600327",
+              "paragraph" : "§ 17",
+              "title" : "Therapieräume"
+            },
+            {
+              "documentIdentifier" : "BJNR001890978BJNE002700327",
+              "paragraph" : "§ 18",
+              "title" : "Sanitäre Anlagen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Altenheime und gleichartige Einrichtungen"
+        },
+        {
+          "documentIdentifier" : "BJNR001890978BJNG000400327",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR001890978BJNE002800327",
+              "paragraph" : "§ 19",
+              "title" : "Wohnplätze"
+            },
+            {
+              "documentIdentifier" : "BJNR001890978BJNE002900327",
+              "paragraph" : "§ 20",
+              "title" : "Gemeinschaftsräume"
+            },
+            {
+              "documentIdentifier" : "BJNR001890978BJNE003000327",
+              "paragraph" : "§ 21",
+              "title" : "Funktions- und Zubehörräume"
+            },
+            {
+              "documentIdentifier" : "BJNR001890978BJNE003100327",
+              "paragraph" : "§ 22",
+              "title" : "Sanitäre Anlagen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Altenwohnheime und gleichartige Einrichtungen"
+        },
+        {
+          "documentIdentifier" : "BJNR001890978BJNG000500327",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR001890978BJNE003200327",
+              "paragraph" : "§ 23",
+              "title" : "Pflegeplätze"
+            },
+            {
+              "documentIdentifier" : "BJNR001890978BJNE003300327",
+              "paragraph" : "§ 24",
+              "title" : "Funktions- und Zubehörräume"
+            },
+            {
+              "documentIdentifier" : "BJNR001890978BJNE003400327",
+              "paragraph" : "§ 25",
+              "title" : "Gemeinschaftsräume"
+            },
+            {
+              "documentIdentifier" : "BJNR001890978BJNE003500327",
+              "paragraph" : "§ 26",
+              "title" : "Therapieräume"
+            },
+            {
+              "documentIdentifier" : "BJNR001890978BJNE003600327",
+              "paragraph" : "§ 27",
+              "title" : "Sanitäre Anlagen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Pflegeheime für Volljährige und gleichartige Einrichtungen"
+        },
+        {
+          "documentIdentifier" : "BJNR001890978BJNG000600327",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR001890978BJNE003700327",
+              "paragraph" : "§ 28",
+              "title" : "Einrichtungen mit Mischcharakter"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Einrichtungen mit Mischcharakter"
+        }
+      ],
+      "title" : "Besondere Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR001890978BJNG000700327",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR001890978BJNE003800327",
+          "paragraph" : "§ 29",
+          "title" : "Einrichtungen für behinderte Volljährige"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Einrichtungen für behinderte Volljährige"
+    },
+    {
+      "documentIdentifier" : "BJNR001890978BJNG000800327",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR001890978BJNE003900327",
+          "paragraph" : "§ 30",
+          "title" : "Fristen zur Angleichung"
+        },
+        {
+          "documentIdentifier" : "BJNR001890978BJNE004000327",
+          "paragraph" : "§ 31",
+          "title" : "Befreiungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Fristen und Befreiungen"
+    },
+    {
+      "documentIdentifier" : "BJNR001890978BJNG000900327",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR001890978BJNE004100327",
+          "paragraph" : "§ 32",
+          "title" : "Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR001890978BJNE004200327",
+          "paragraph" : "§ 33",
+          "title" : "Nichtanwendung von Vorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR001890978BJNE004300327",
+          "paragraph" : "§ 34",
+          "title" : "Berlin-Klausel"
+        },
+        {
+          "documentIdentifier" : "BJNR001890978BJNE004400327",
+          "paragraph" : "§ 35",
+          "title" : "(Inkrafttreten)"
+        },
+        {
+          "documentIdentifier" : "BJNR001890978BJNE004600307",
+          "paragraph" : "Anhang EV",
+          "title" : "Auszug aus EinigVtr Anlage I Kap. X Sachgebiet H Abschnitt III\n"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Ordnungswidrigkeiten und Schlußbestimmungen"
+    }
+  ]
+}

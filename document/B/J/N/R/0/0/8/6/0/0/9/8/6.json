@@ -1,0 +1,121 @@
+{
+  "documentIdentifier" : "BJNR008600986",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR008600986BJNG000101308",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR008600986BJNE000605305",
+          "paragraph" : "§ 1",
+          "title" : "Zuständigkeit des Seeamtes Kiel"
+        },
+        {
+          "documentIdentifier" : "BJNR008600986BJNE000705305",
+          "paragraph" : "§ 2",
+          "title" : "Zuständigkeit des Seeamtes Hamburg"
+        },
+        {
+          "documentIdentifier" : "BJNR008600986BJNE000803305",
+          "paragraph" : "§ 3",
+          "title" : "Zuständigkeit des Seeamtes Bremerhaven"
+        },
+        {
+          "documentIdentifier" : "BJNR008600986BJNE000904305",
+          "paragraph" : "§ 4",
+          "title" : "Zuständigkeit des Seeamtes Emden"
+        },
+        {
+          "documentIdentifier" : "BJNR008600986BJNE001602305",
+          "paragraph" : "§ 4a",
+          "title" : "Zuständigkeit des Seeamtes Rostock"
+        },
+        {
+          "documentIdentifier" : "BJNR008600986BJNE001700308",
+          "paragraph" : "§ 4b",
+          "title" : "Mehrere Zuständigkeiten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Örtliche Zuständigkeit der Seeämter"
+    },
+    {
+      "documentIdentifier" : "BJNR008600986BJNG000201328",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR008600986BJNE001005305",
+          "paragraph" : "§ 5",
+          "title" : "Personengruppen"
+        },
+        {
+          "documentIdentifier" : "BJNR008600986BJNE001101328",
+          "paragraph" : "§ 6",
+          "title" : "Beisitzerliste"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Auswahl der ehrenamtlichen Beisitzer"
+    },
+    {
+      "documentIdentifier" : "BJNR008600986BJNG000303305",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR008600986BJNE001203305",
+          "paragraph" : "§ 7",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "(weggefallen)"
+    },
+    {
+      "documentIdentifier" : "BJNR008600986BJNG000401328",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR008600986BJNE001401328",
+          "paragraph" : "§ 9",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR008600986BJNE001503305",
+          "paragraph" : "Anlage",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR008600986BJNE888800308",
+          "paragraph" : "Anhang EV",
+          "title" : "Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet D Abschnitt III\n"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlußvorschriften"
+    }
+  ]
+}

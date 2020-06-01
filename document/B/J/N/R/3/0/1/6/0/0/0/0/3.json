@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR301600003",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR301600003Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR301600003BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Beitragssätze in der Rentenversicherung"
+        },
+        {
+          "documentIdentifier" : "BJNR301600003BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Zahlungen für Kindererziehungszeiten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR034600014",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR034600014Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR034600014BJNE000201123",
+          "paragraph" : "§ 1",
+          "title" : "Antragstellung"
+        },
+        {
+          "documentIdentifier" : "BJNR034600014BJNE000301123",
+          "paragraph" : "§ 2",
+          "title" : "Kosten"
+        },
+        {
+          "documentIdentifier" : "BJNR034600014BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

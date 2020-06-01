@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR023210991",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR023210991Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR023210991BJNE000100308",
+          "paragraph" : "Art 1",
+          "title" : "Aufhebung des Gesetzes über die Errichtung und\ndas Verfahren der Schiedsstellen für Arbeitsrecht"
+        },
+        {
+          "documentIdentifier" : "BJNR023210991BJNE000200308",
+          "paragraph" : "Art 2",
+          "title" : "Gleichstellungsklausel"
+        },
+        {
+          "documentIdentifier" : "BJNR023210991BJNE000400308",
+          "paragraph" : "Art 4",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

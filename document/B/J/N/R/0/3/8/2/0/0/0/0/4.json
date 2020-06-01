@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR038200004",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR038200004Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR038200004BJNE000200000",
+          "paragraph" : "I.",
+          "title" : "Übertragung von Befugnissen"
+        },
+        {
+          "documentIdentifier" : "BJNR038200004BJNE000300000",
+          "paragraph" : "II.",
+          "title" : "Vorbehaltsklausel"
+        },
+        {
+          "documentIdentifier" : "BJNR038200004BJNE000400000",
+          "paragraph" : "III.",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

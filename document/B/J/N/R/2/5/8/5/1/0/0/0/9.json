@@ -1,0 +1,958 @@
+{
+  "documentIdentifier" : "BJNR258510009",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR258510009BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR258510009BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Zweck"
+        },
+        {
+          "documentIdentifier" : "BJNR258510009BJNE000302123",
+          "paragraph" : "§ 2",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR258510009BJNE000403118",
+          "paragraph" : "§ 3",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR258510009BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Gewässereigentum, Schranken des Grundeigentums"
+        },
+        {
+          "documentIdentifier" : "BJNR258510009BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Allgemeine Sorgfaltspflichten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Bestimmungen"
+    },
+    {
+      "documentIdentifier" : "BJNR258510009BJNG000200000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR258510009BJNG000300000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR258510009BJNE000700000",
+              "paragraph" : "§ 6",
+              "title" : "Allgemeine Grundsätze der Gewässerbewirtschaftung"
+            },
+            {
+              "documentIdentifier" : "BJNR258510009BJNE012501123",
+              "paragraph" : "§ 6a",
+              "title" : "Grundsätze für die Kosten von Wasserdienstleistungen und Wassernutzungen"
+            },
+            {
+              "documentIdentifier" : "BJNR258510009BJNE000802118",
+              "paragraph" : "§ 7",
+              "title" : "Bewirtschaftung nach Flussgebietseinheiten"
+            },
+            {
+              "documentIdentifier" : "BJNR258510009BJNE000900000",
+              "paragraph" : "§ 8",
+              "title" : "Erlaubnis, Bewilligung"
+            },
+            {
+              "documentIdentifier" : "BJNR258510009BJNE001001123",
+              "paragraph" : "§ 9",
+              "title" : "Benutzungen"
+            },
+            {
+              "documentIdentifier" : "BJNR258510009BJNE001100000",
+              "paragraph" : "§ 10",
+              "title" : "Inhalt der Erlaubnis und der Bewilligung"
+            },
+            {
+              "documentIdentifier" : "BJNR258510009BJNE001200000",
+              "paragraph" : "§ 11",
+              "title" : "Erlaubnis-, Bewilligungsverfahren"
+            },
+            {
+              "documentIdentifier" : "BJNR258510009BJNE001300000",
+              "paragraph" : "§ 12",
+              "title" : "Voraussetzungen für die Erteilung der Erlaubnis und der Bewilligung, Bewirtschaftungsermessen"
+            },
+            {
+              "documentIdentifier" : "BJNR258510009BJNE001400000",
+              "paragraph" : "§ 13",
+              "title" : "Inhalts- und Nebenbestimmungen der Erlaubnis und der Bewilligung"
+            },
+            {
+              "documentIdentifier" : "BJNR258510009BJNE012600123",
+              "paragraph" : "§ 13a",
+              "title" : "Versagung und Voraussetzungen für die Erteilung der Erlaubnis für bestimmte Gewässerbenutzungen; unabhängige Expertenkommission"
+            },
+            {
+              "documentIdentifier" : "BJNR258510009BJNE012700123",
+              "paragraph" : "§ 13b",
+              "title" : "Antragsunterlagen und Überwachung bei bestimmten Gewässerbenutzungen; Stoffregister"
+            },
+            {
+              "documentIdentifier" : "BJNR258510009BJNE001501123",
+              "paragraph" : "§ 14",
+              "title" : "Besondere Vorschriften für die Erteilung der Bewilligung"
+            },
+            {
+              "documentIdentifier" : "BJNR258510009BJNE001601123",
+              "paragraph" : "§ 15",
+              "title" : "Gehobene Erlaubnis"
+            },
+            {
+              "documentIdentifier" : "BJNR258510009BJNE001700000",
+              "paragraph" : "§ 16",
+              "title" : "Ausschluss privatrechtlicher Abwehransprüche"
+            },
+            {
+              "documentIdentifier" : "BJNR258510009BJNE001800000",
+              "paragraph" : "§ 17",
+              "title" : "Zulassung vorzeitigen Beginns"
+            },
+            {
+              "documentIdentifier" : "BJNR258510009BJNE001900000",
+              "paragraph" : "§ 18",
+              "title" : "Widerruf der Erlaubnis und der Bewilligung"
+            },
+            {
+              "documentIdentifier" : "BJNR258510009BJNE002000000",
+              "paragraph" : "§ 19",
+              "title" : "Planfeststellungen und bergrechtliche Betriebspläne"
+            },
+            {
+              "documentIdentifier" : "BJNR258510009BJNE002100000",
+              "paragraph" : "§ 20",
+              "title" : "Alte Rechte und alte Befugnisse"
+            },
+            {
+              "documentIdentifier" : "BJNR258510009BJNE002200000",
+              "paragraph" : "§ 21",
+              "title" : "Anmeldung alter Rechte und alter Befugnisse"
+            },
+            {
+              "documentIdentifier" : "BJNR258510009BJNE002300000",
+              "paragraph" : "§ 22",
+              "title" : "Ausgleich zwischen konkurrierenden Gewässerbenutzungen"
+            },
+            {
+              "documentIdentifier" : "BJNR258510009BJNE002404116",
+              "paragraph" : "§ 23",
+              "title" : "Rechtsverordnungen zur Gewässerbewirtschaftung"
+            },
+            {
+              "documentIdentifier" : "BJNR258510009BJNE002502360",
+              "paragraph" : "§ 24",
+              "title" : "Erleichterungen für EMAS-Standorte"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Gemeinsame Bestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR258510009BJNG000400000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR258510009BJNE002600000",
+              "paragraph" : "§ 25",
+              "title" : "Gemeingebrauch"
+            },
+            {
+              "documentIdentifier" : "BJNR258510009BJNE002700000",
+              "paragraph" : "§ 26",
+              "title" : "Eigentümer- und Anliegergebrauch"
+            },
+            {
+              "documentIdentifier" : "BJNR258510009BJNE002800000",
+              "paragraph" : "§ 27",
+              "title" : "Bewirtschaftungsziele für oberirdische Gewässer"
+            },
+            {
+              "documentIdentifier" : "BJNR258510009BJNE002900000",
+              "paragraph" : "§ 28",
+              "title" : "Einstufung künstlicher und erheblich veränderter Gewässer"
+            },
+            {
+              "documentIdentifier" : "BJNR258510009BJNE003002311",
+              "paragraph" : "§ 29",
+              "title" : "Fristen zur Erreichung der Bewirtschaftungsziele"
+            },
+            {
+              "documentIdentifier" : "BJNR258510009BJNE003100000",
+              "paragraph" : "§ 30",
+              "title" : "Abweichende Bewirtschaftungsziele"
+            },
+            {
+              "documentIdentifier" : "BJNR258510009BJNE003200000",
+              "paragraph" : "§ 31",
+              "title" : "Ausnahmen von den Bewirtschaftungszielen"
+            },
+            {
+              "documentIdentifier" : "BJNR258510009BJNE003300000",
+              "paragraph" : "§ 32",
+              "title" : "Reinhaltung oberirdischer Gewässer"
+            },
+            {
+              "documentIdentifier" : "BJNR258510009BJNE003400000",
+              "paragraph" : "§ 33",
+              "title" : "Mindestwasserführung"
+            },
+            {
+              "documentIdentifier" : "BJNR258510009BJNE003501118",
+              "paragraph" : "§ 34",
+              "title" : "Durchgängigkeit oberirdischer Gewässer"
+            },
+            {
+              "documentIdentifier" : "BJNR258510009BJNE003600000",
+              "paragraph" : "§ 35",
+              "title" : "Wasserkraftnutzung"
+            },
+            {
+              "documentIdentifier" : "BJNR258510009BJNE003701118",
+              "paragraph" : "§ 36",
+              "title" : "Anlagen in, an, über und unter oberirdischen Gewässern"
+            },
+            {
+              "documentIdentifier" : "BJNR258510009BJNE003800000",
+              "paragraph" : "§ 37",
+              "title" : "Wasserabfluss"
+            },
+            {
+              "documentIdentifier" : "BJNR258510009BJNE003900000",
+              "paragraph" : "§ 38",
+              "title" : "Gewässerrandstreifen"
+            },
+            {
+              "documentIdentifier" : "BJNR258510009BJNE004000000",
+              "paragraph" : "§ 39",
+              "title" : "Gewässerunterhaltung"
+            },
+            {
+              "documentIdentifier" : "BJNR258510009BJNE004100000",
+              "paragraph" : "§ 40",
+              "title" : "Träger der Unterhaltungslast"
+            },
+            {
+              "documentIdentifier" : "BJNR258510009BJNE004200000",
+              "paragraph" : "§ 41",
+              "title" : "Besondere Pflichten bei der Gewässerunterhaltung"
+            },
+            {
+              "documentIdentifier" : "BJNR258510009BJNE004300000",
+              "paragraph" : "§ 42",
+              "title" : "Behördliche Entscheidungen zur Gewässerunterhaltung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Bewirtschaftung oberirdischer Gewässer"
+        },
+        {
+          "documentIdentifier" : "BJNR258510009BJNG000500000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR258510009BJNE004400000",
+              "paragraph" : "§ 43",
+              "title" : "Erlaubnisfreie Benutzungen von Küstengewässern"
+            },
+            {
+              "documentIdentifier" : "BJNR258510009BJNE004500000",
+              "paragraph" : "§ 44",
+              "title" : "Bewirtschaftungsziele für Küstengewässer"
+            },
+            {
+              "documentIdentifier" : "BJNR258510009BJNE004601116",
+              "paragraph" : "§ 45",
+              "title" : "Reinhaltung von Küstengewässern"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              3
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR258510009BJNG000501360",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR258510009BJNE011000360",
+                  "paragraph" : "§ 45a",
+                  "title" : "Bewirtschaftungsziele für Meeresgewässer"
+                },
+                {
+                  "documentIdentifier" : "BJNR258510009BJNE011100360",
+                  "paragraph" : "§ 45b",
+                  "title" : "Zustand der Meeresgewässer"
+                },
+                {
+                  "documentIdentifier" : "BJNR258510009BJNE011200360",
+                  "paragraph" : "§ 45c",
+                  "title" : "Anfangsbewertung"
+                },
+                {
+                  "documentIdentifier" : "BJNR258510009BJNE011300360",
+                  "paragraph" : "§ 45d",
+                  "title" : "Beschreibung des guten Zustands der Meeresgewässer"
+                },
+                {
+                  "documentIdentifier" : "BJNR258510009BJNE011400360",
+                  "paragraph" : "§ 45e",
+                  "title" : "Festlegung von Zielen"
+                },
+                {
+                  "documentIdentifier" : "BJNR258510009BJNE011500360",
+                  "paragraph" : "§ 45f",
+                  "title" : "Überwachungsprogramme"
+                },
+                {
+                  "documentIdentifier" : "BJNR258510009BJNE011600360",
+                  "paragraph" : "§ 45g",
+                  "title" : "Fristverlängerungen; Ausnahmen von den Bewirtschaftungszielen"
+                },
+                {
+                  "documentIdentifier" : "BJNR258510009BJNE011700360",
+                  "paragraph" : "§ 45h",
+                  "title" : "Maßnahmenprogramme"
+                },
+                {
+                  "documentIdentifier" : "BJNR258510009BJNE011803116",
+                  "paragraph" : "§ 45i",
+                  "title" : "Beteiligung der Öffentlichkeit"
+                },
+                {
+                  "documentIdentifier" : "BJNR258510009BJNE011900360",
+                  "paragraph" : "§ 45j",
+                  "title" : "Überprüfung und Aktualisierung"
+                },
+                {
+                  "documentIdentifier" : "BJNR258510009BJNE012000360",
+                  "paragraph" : "§ 45k",
+                  "title" : "Koordinierung"
+                },
+                {
+                  "documentIdentifier" : "BJNR258510009BJNE012101118",
+                  "paragraph" : "§ 45l",
+                  "title" : "Zuständigkeit im Bereich der deutschen ausschließlichen Wirtschaftszone und des Festlandsockels"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  3
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Bewirtschaftung von Meeresgewässern"
+            }
+          ],
+          "title" : "Bewirtschaftung von Küstengewässern"
+        },
+        {
+          "documentIdentifier" : "BJNR258510009BJNG000600000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR258510009BJNE004700000",
+              "paragraph" : "§ 46",
+              "title" : "Erlaubnisfreie Benutzungen des Grundwassers"
+            },
+            {
+              "documentIdentifier" : "BJNR258510009BJNE004800000",
+              "paragraph" : "§ 47",
+              "title" : "Bewirtschaftungsziele für das Grundwasser"
+            },
+            {
+              "documentIdentifier" : "BJNR258510009BJNE004901000",
+              "paragraph" : "§ 48",
+              "title" : "Reinhaltung des Grundwassers"
+            },
+            {
+              "documentIdentifier" : "BJNR258510009BJNE005000000",
+              "paragraph" : "§ 49",
+              "title" : "Erdaufschlüsse"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Bewirtschaftung des Grundwassers"
+        }
+      ],
+      "title" : "Bewirtschaftung von Gewässern"
+    },
+    {
+      "documentIdentifier" : "BJNR258510009BJNG000700000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR258510009BJNG000800000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR258510009BJNE005100000",
+              "paragraph" : "§ 50",
+              "title" : "Öffentliche Wasserversorgung"
+            },
+            {
+              "documentIdentifier" : "BJNR258510009BJNE005200000",
+              "paragraph" : "§ 51",
+              "title" : "Festsetzung von Wasserschutzgebieten"
+            },
+            {
+              "documentIdentifier" : "BJNR258510009BJNE005300000",
+              "paragraph" : "§ 52",
+              "title" : "Besondere Anforderungen in Wasserschutzgebieten"
+            },
+            {
+              "documentIdentifier" : "BJNR258510009BJNE005400000",
+              "paragraph" : "§ 53",
+              "title" : "Heilquellenschutz"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Öffentliche Wasserversorgung, Wasserschutzgebiete, Heilquellenschutz"
+        },
+        {
+          "documentIdentifier" : "BJNR258510009BJNG000900000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR258510009BJNE005501360",
+              "paragraph" : "§ 54",
+              "title" : "Begriffsbestimmungen für die Abwasserbeseitigung"
+            },
+            {
+              "documentIdentifier" : "BJNR258510009BJNE005600000",
+              "paragraph" : "§ 55",
+              "title" : "Grundsätze der Abwasserbeseitigung"
+            },
+            {
+              "documentIdentifier" : "BJNR258510009BJNE005700000",
+              "paragraph" : "§ 56",
+              "title" : "Pflicht zur Abwasserbeseitigung"
+            },
+            {
+              "documentIdentifier" : "BJNR258510009BJNE005803360",
+              "paragraph" : "§ 57",
+              "title" : "Einleiten von Abwasser in Gewässer"
+            },
+            {
+              "documentIdentifier" : "BJNR258510009BJNE005902377",
+              "paragraph" : "§ 58",
+              "title" : "Einleiten von Abwasser in öffentliche Abwasseranlagen"
+            },
+            {
+              "documentIdentifier" : "BJNR258510009BJNE006000000",
+              "paragraph" : "§ 59",
+              "title" : "Einleiten von Abwasser in private Abwasseranlagen"
+            },
+            {
+              "documentIdentifier" : "BJNR258510009BJNE006103118",
+              "paragraph" : "§ 60",
+              "title" : "Abwasseranlagen"
+            },
+            {
+              "documentIdentifier" : "BJNR258510009BJNE006201000",
+              "paragraph" : "§ 61",
+              "title" : "Selbstüberwachung bei Abwassereinleitungen und Abwasseranlagen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Abwasserbeseitigung"
+        },
+        {
+          "documentIdentifier" : "BJNR258510009BJNG001000000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR258510009BJNE006309301",
+              "paragraph" : "§ 62",
+              "title" : "Anforderungen an den Umgang mit wassergefährdenden Stoffen"
+            },
+            {
+              "documentIdentifier" : "BJNR258510009BJNE012201118",
+              "paragraph" : "§ 62a",
+              "title" : "Nationales Aktionsprogramm zum Schutz"
+            },
+            {
+              "documentIdentifier" : "BJNR258510009BJNE006404118",
+              "paragraph" : "§ 63",
+              "title" : "Eignungsfeststellung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Umgang mit wassergefährdenden Stoffen"
+        },
+        {
+          "documentIdentifier" : "BJNR258510009BJNG001100000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR258510009BJNE006501360",
+              "paragraph" : "§ 64",
+              "title" : "Bestellung von Gewässerschutzbeauftragten"
+            },
+            {
+              "documentIdentifier" : "BJNR258510009BJNE006601118",
+              "paragraph" : "§ 65",
+              "title" : "Aufgaben von Gewässerschutzbeauftragten"
+            },
+            {
+              "documentIdentifier" : "BJNR258510009BJNE006700000",
+              "paragraph" : "§ 66",
+              "title" : "Weitere anwendbare Vorschriften"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Gewässerschutzbeauftragte"
+        },
+        {
+          "documentIdentifier" : "BJNR258510009BJNG001200000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR258510009BJNE006800000",
+              "paragraph" : "§ 67",
+              "title" : "Grundsatz, Begriffsbestimmung"
+            },
+            {
+              "documentIdentifier" : "BJNR258510009BJNE006900000",
+              "paragraph" : "§ 68",
+              "title" : "Planfeststellung, Plangenehmigung"
+            },
+            {
+              "documentIdentifier" : "BJNR258510009BJNE007000000",
+              "paragraph" : "§ 69",
+              "title" : "Abschnittsweise Zulassung, vorzeitiger Beginn"
+            },
+            {
+              "documentIdentifier" : "BJNR258510009BJNE007100000",
+              "paragraph" : "§ 70",
+              "title" : "Anwendbare Vorschriften, Verfahren"
+            },
+            {
+              "documentIdentifier" : "BJNR258510009BJNE007201118",
+              "paragraph" : "§ 71",
+              "title" : "Enteignungsrechtliche Regelungen"
+            },
+            {
+              "documentIdentifier" : "BJNR258510009BJNE012900118",
+              "paragraph" : "§ 71a",
+              "title" : "Vorzeitige Besitzeinweisung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              5
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Gewässerausbau, Deich-, Damm- und Küstenschutzbauten"
+        },
+        {
+          "documentIdentifier" : "BJNR258510009BJNG001300000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR258510009BJNE007301360",
+              "paragraph" : "§ 72",
+              "title" : "Hochwasser"
+            },
+            {
+              "documentIdentifier" : "BJNR258510009BJNE007400000",
+              "paragraph" : "§ 73",
+              "title" : "Bewertung von Hochwasserrisiken, Risikogebiete"
+            },
+            {
+              "documentIdentifier" : "BJNR258510009BJNE007502118",
+              "paragraph" : "§ 74",
+              "title" : "Gefahrenkarten und Risikokarten"
+            },
+            {
+              "documentIdentifier" : "BJNR258510009BJNE007600000",
+              "paragraph" : "§ 75",
+              "title" : "Risikomanagementpläne"
+            },
+            {
+              "documentIdentifier" : "BJNR258510009BJNE007701360",
+              "paragraph" : "§ 76",
+              "title" : "Überschwemmungsgebiete an oberirdischen Gewässern"
+            },
+            {
+              "documentIdentifier" : "BJNR258510009BJNE007801118",
+              "paragraph" : "§ 77",
+              "title" : "Rückhalteflächen, Bevorratung"
+            },
+            {
+              "documentIdentifier" : "BJNR258510009BJNE007901118",
+              "paragraph" : "§ 78",
+              "title" : "Bauliche Schutzvorschriften für festgesetzte Überschwemmungsgebiete"
+            },
+            {
+              "documentIdentifier" : "BJNR258510009BJNE013000118",
+              "paragraph" : "§ 78a",
+              "title" : "Sonstige Schutzvorschriften für festgesetzte Überschwemmungsgebiete"
+            },
+            {
+              "documentIdentifier" : "BJNR258510009BJNE013100118",
+              "paragraph" : "§ 78b",
+              "title" : "Risikogebiete außerhalb von "
+            },
+            {
+              "documentIdentifier" : "BJNR258510009BJNE013200118",
+              "paragraph" : "§ 78c",
+              "title" : "Heizölverbraucheranlagen in Überschwemmungsgebieten und in weiteren Risikogebieten"
+            },
+            {
+              "documentIdentifier" : "BJNR258510009BJNE013300118",
+              "paragraph" : "§ 78d",
+              "title" : "Hochwasserentstehungsgebiete"
+            },
+            {
+              "documentIdentifier" : "BJNR258510009BJNE008000000",
+              "paragraph" : "§ 79",
+              "title" : "Information und aktive Beteiligung"
+            },
+            {
+              "documentIdentifier" : "BJNR258510009BJNE008100000",
+              "paragraph" : "§ 80",
+              "title" : "Koordinierung"
+            },
+            {
+              "documentIdentifier" : "BJNR258510009BJNE008200000",
+              "paragraph" : "§ 81",
+              "title" : "Vermittlung durch die Bundesregierung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              6
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Hochwasserschutz"
+        },
+        {
+          "documentIdentifier" : "BJNR258510009BJNG001400000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR258510009BJNE008300000",
+              "paragraph" : "§ 82",
+              "title" : "Maßnahmenprogramm"
+            },
+            {
+              "documentIdentifier" : "BJNR258510009BJNE008402118",
+              "paragraph" : "§ 83",
+              "title" : "Bewirtschaftungsplan"
+            },
+            {
+              "documentIdentifier" : "BJNR258510009BJNE008500000",
+              "paragraph" : "§ 84",
+              "title" : "Fristen für Maßnahmenprogramme und Bewirtschaftungspläne"
+            },
+            {
+              "documentIdentifier" : "BJNR258510009BJNE008600000",
+              "paragraph" : "§ 85",
+              "title" : "Aktive Beteiligung interessierter Stellen"
+            },
+            {
+              "documentIdentifier" : "BJNR258510009BJNE008700000",
+              "paragraph" : "§ 86",
+              "title" : "Veränderungssperre zur Sicherung von Planungen"
+            },
+            {
+              "documentIdentifier" : "BJNR258510009BJNE008800000",
+              "paragraph" : "§ 87",
+              "title" : "Wasserbuch"
+            },
+            {
+              "documentIdentifier" : "BJNR258510009BJNE008901377",
+              "paragraph" : "§ 88",
+              "title" : "Informationsbeschaffung und -übermittlung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              7
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Wasserwirtschaftliche Planung und Dokumentation"
+        },
+        {
+          "documentIdentifier" : "BJNR258510009BJNG001500000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR258510009BJNE009000000",
+              "paragraph" : "§ 89",
+              "title" : "Haftung für Änderungen der Wasserbeschaffenheit"
+            },
+            {
+              "documentIdentifier" : "BJNR258510009BJNE009101123",
+              "paragraph" : "§ 90",
+              "title" : "Sanierung von Gewässerschäden"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              8
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Haftung für Gewässerveränderungen"
+        },
+        {
+          "documentIdentifier" : "BJNR258510009BJNG001600000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR258510009BJNE009200000",
+              "paragraph" : "§ 91",
+              "title" : "Gewässerkundliche Maßnahmen"
+            },
+            {
+              "documentIdentifier" : "BJNR258510009BJNE009300000",
+              "paragraph" : "§ 92",
+              "title" : "Veränderung oberirdischer Gewässer"
+            },
+            {
+              "documentIdentifier" : "BJNR258510009BJNE009400000",
+              "paragraph" : "§ 93",
+              "title" : "Durchleitung von Wasser und Abwasser"
+            },
+            {
+              "documentIdentifier" : "BJNR258510009BJNE009500000",
+              "paragraph" : "§ 94",
+              "title" : "Mitbenutzung von Anlagen"
+            },
+            {
+              "documentIdentifier" : "BJNR258510009BJNE009600000",
+              "paragraph" : "§ 95",
+              "title" : "Entschädigung für Duldungs- und Gestattungsverpflichtungen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              9
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Duldungs- und Gestattungsverpflichtungen"
+        }
+      ],
+      "title" : "Besondere wasserwirtschaftliche Bestimmungen"
+    },
+    {
+      "documentIdentifier" : "BJNR258510009BJNG001701118",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR258510009BJNE009700000",
+          "paragraph" : "§ 96",
+          "title" : "Art und Umfang von Entschädigungspflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR258510009BJNE009800000",
+          "paragraph" : "§ 97",
+          "title" : "Entschädigungspflichtige Person"
+        },
+        {
+          "documentIdentifier" : "BJNR258510009BJNE009900000",
+          "paragraph" : "§ 98",
+          "title" : "Entschädigungsverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR258510009BJNE010001116",
+          "paragraph" : "§ 99",
+          "title" : "Ausgleich"
+        },
+        {
+          "documentIdentifier" : "BJNR258510009BJNE013401116",
+          "paragraph" : "§ 99a",
+          "title" : "Vorkaufsrecht"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Entschädigung, Ausgleich, Vorkaufsrecht"
+    },
+    {
+      "documentIdentifier" : "BJNR258510009BJNG001800000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR258510009BJNE010100000",
+          "paragraph" : "§ 100",
+          "title" : "Aufgaben der Gewässeraufsicht"
+        },
+        {
+          "documentIdentifier" : "BJNR258510009BJNE010200000",
+          "paragraph" : "§ 101",
+          "title" : "Befugnisse der Gewässeraufsicht"
+        },
+        {
+          "documentIdentifier" : "BJNR258510009BJNE010300000",
+          "paragraph" : "§ 102",
+          "title" : "Gewässeraufsicht bei Anlagen und Einrichtungen der Verteidigung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gewässeraufsicht"
+    },
+    {
+      "documentIdentifier" : "BJNR258510009BJNG001900000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR258510009BJNE010404116",
+          "paragraph" : "§ 103",
+          "title" : "Bußgeldvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR258510009BJNE010500000",
+          "paragraph" : "§ 104",
+          "title" : "Überleitung bestehender Erlaubnisse und Bewilligungen"
+        },
+        {
+          "documentIdentifier" : "BJNR258510009BJNE012800123",
+          "paragraph" : "§ 104a",
+          "title" : "Ausnahmen von der Erlaubnispflicht bei bestehenden Anlagen zur untertägigen Ablagerung von Lagerstättenwasser"
+        },
+        {
+          "documentIdentifier" : "BJNR258510009BJNE010601377",
+          "paragraph" : "§ 105",
+          "title" : "Überleitung bestehender sonstiger Zulassungen"
+        },
+        {
+          "documentIdentifier" : "BJNR258510009BJNE010700000",
+          "paragraph" : "§ 106",
+          "title" : "Überleitung bestehender Schutzgebietsfestsetzungen"
+        },
+        {
+          "documentIdentifier" : "BJNR258510009BJNE012301118",
+          "paragraph" : "§ 107",
+          "title" : "Übergangsbestimmung für industrielle Abwasserbehandlungsanlagen und Abwassereinleitungen aus Industrieanlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR258510009BJNE010802360",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 3 Nummer 11)"
+        },
+        {
+          "documentIdentifier" : "BJNR258510009BJNE010900000",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 7 Absatz 1 Satz 3)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Bußgeld- und Überleitungsbestimmungen"
+    }
+  ]
+}

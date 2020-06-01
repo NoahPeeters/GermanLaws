@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR524600952",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR524600952Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR524600952BJNE001300312",
+          "paragraph" : "Anlage 2",
+          "title" : "Muster 1"
+        },
+        {
+          "documentIdentifier" : "BJNR524600952BJNE001400312",
+          "paragraph" : "Anlage 3",
+          "title" : "Muster 2"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

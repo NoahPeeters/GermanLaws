@@ -1,0 +1,142 @@
+{
+  "documentIdentifier" : "BJNR038800017",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR038800017BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR038800017BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR038800017BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Aufgaben des Statistischen Bundesamtes"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Anwendungsbereich, Aufgaben des Statistischen Bundesamtes"
+    },
+    {
+      "documentIdentifier" : "BJNR038800017BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR038800017BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Aufbau eines anschriftenbezogenen Steuerungsregisters"
+        },
+        {
+          "documentIdentifier" : "BJNR038800017BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Anschriftenbestand"
+        },
+        {
+          "documentIdentifier" : "BJNR038800017BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Bestand an Steuerungs- und Klassifizierungsmerkmalen"
+        },
+        {
+          "documentIdentifier" : "BJNR038800017BJNE000600000",
+          "paragraph" : "§ 6",
+          "title" : "Bestand an Angaben zur Ermittlung der Auskunftspflichtigen für die Erhebung an Anschriften mit Sonderbereichen"
+        },
+        {
+          "documentIdentifier" : "BJNR038800017BJNE000700000",
+          "paragraph" : "§ 7",
+          "title" : "Bestand an Angaben zu den Auskunftspflichtigen für die Gebäude- und Wohnungszählung"
+        },
+        {
+          "documentIdentifier" : "BJNR038800017BJNE000800000",
+          "paragraph" : "§ 7a",
+          "title" : "Bestand an Angaben zur Überprüfung der Daten zu den Auskunftspflichtigen für die Gebäude- und Wohnungszählung"
+        },
+        {
+          "documentIdentifier" : "BJNR038800017BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Übermittlung von Daten durch die Vermessungsbehörden"
+        },
+        {
+          "documentIdentifier" : "BJNR038800017BJNE001000000",
+          "paragraph" : "§ 9",
+          "title" : "Übermittlung von Daten der Meldebehörden"
+        },
+        {
+          "documentIdentifier" : "BJNR038800017BJNE000190311",
+          "paragraph" : "§ 9a",
+          "title" : "Datenübermittlung,"
+        },
+        {
+          "documentIdentifier" : "BJNR038800017BJNE001100000",
+          "paragraph" : "§ 10",
+          "title" : "Zusammenführung und Überprüfung der Daten"
+        },
+        {
+          "documentIdentifier" : "BJNR038800017BJNE001200000",
+          "paragraph" : "§ 11",
+          "title" : "Erhebung des Bestandes an Angaben zur Ermittlung der Auskunftspflichtigen an Anschriften mit Sonderbereichen"
+        },
+        {
+          "documentIdentifier" : "BJNR038800017BJNE001300000",
+          "paragraph" : "§ 12",
+          "title" : "Ermittlung der Auskunftspflichtigen für die Gebäude- und Wohnungszählung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Anschriftenbezogenes Steuerungsregister"
+    },
+    {
+      "documentIdentifier" : "BJNR038800017BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR038800017BJNE001400000",
+          "paragraph" : "§ 13",
+          "title" : "Nutzung weiterer Quellen"
+        },
+        {
+          "documentIdentifier" : "BJNR038800017BJNE001500000",
+          "paragraph" : "§ 14",
+          "title" : "Datenübermittlungen"
+        },
+        {
+          "documentIdentifier" : "BJNR038800017BJNE001600000",
+          "paragraph" : "§ 15",
+          "title" : "Weitere Verwendung von Angaben aus dem Steuerungsregister"
+        },
+        {
+          "documentIdentifier" : "BJNR038800017BJNE001700000",
+          "paragraph" : "§ 16",
+          "title" : "Löschung"
+        },
+        {
+          "documentIdentifier" : "BJNR038800017BJNE001800000",
+          "paragraph" : "§ 17",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gemeinsame Vorschriften, Inkrafttreten"
+    }
+  ]
+}

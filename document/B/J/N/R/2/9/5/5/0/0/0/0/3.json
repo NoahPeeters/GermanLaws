@@ -1,0 +1,1020 @@
+{
+  "documentIdentifier" : "BJNR295500003",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR295500003BJNG000101308",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR295500003BJNE000203119",
+          "paragraph" : "§ 1",
+          "title" : "Aufgabe und Ziel der Grundsicherung für Arbeitsuchende"
+        },
+        {
+          "documentIdentifier" : "BJNR295500003BJNE000302308",
+          "paragraph" : "§ 2",
+          "title" : "Grundsatz des Forderns"
+        },
+        {
+          "documentIdentifier" : "BJNR295500003BJNE000409119",
+          "paragraph" : "§ 3",
+          "title" : "Leistungsgrundsätze"
+        },
+        {
+          "documentIdentifier" : "BJNR295500003BJNE000503308",
+          "paragraph" : "§ 4",
+          "title" : "Leistungsformen"
+        },
+        {
+          "documentIdentifier" : "BJNR295500003BJNE000606119",
+          "paragraph" : "§ 5",
+          "title" : "Verhältnis zu anderen Leistungen"
+        },
+        {
+          "documentIdentifier" : "BJNR295500003BJNE000707119",
+          "paragraph" : "§ 6",
+          "title" : "Träger der Grundsicherung für Arbeitsuchende"
+        },
+        {
+          "documentIdentifier" : "BJNR295500003BJNE000806308",
+          "paragraph" : "§ 6a",
+          "title" : "Zugelassene kommunale Träger"
+        },
+        {
+          "documentIdentifier" : "BJNR295500003BJNE007108119",
+          "paragraph" : "§ 6b",
+          "title" : "Rechtsstellung der zugelassenen kommunalen Träger"
+        },
+        {
+          "documentIdentifier" : "BJNR295500003BJNE007205119",
+          "paragraph" : "§ 6c",
+          "title" : "Personalübergang bei Zulassung weiterer kommunaler Träger und bei Beendigung der Trägerschaft"
+        },
+        {
+          "documentIdentifier" : "BJNR295500003BJNE010801308",
+          "paragraph" : "§ 6d",
+          "title" : "Jobcenter"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Fördern und Fordern"
+    },
+    {
+      "documentIdentifier" : "BJNR295500003BJNG000201308",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR295500003BJNE000916126",
+          "paragraph" : "§ 7",
+          "title" : "Leistungsberechtigte"
+        },
+        {
+          "documentIdentifier" : "BJNR295500003BJNE009102308",
+          "paragraph" : "§ 7a",
+          "title" : "Altersgrenze"
+        },
+        {
+          "documentIdentifier" : "BJNR295500003BJNE001002308",
+          "paragraph" : "§ 8",
+          "title" : "Erwerbsfähigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR295500003BJNE001105308",
+          "paragraph" : "§ 9",
+          "title" : "Hilfebedürftigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR295500003BJNE001204308",
+          "paragraph" : "§ 10",
+          "title" : "Zumutbarkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR295500003BJNE001310119",
+          "paragraph" : "§ 11",
+          "title" : "Zu berücksichtigendes Einkommen"
+        },
+        {
+          "documentIdentifier" : "BJNR295500003BJNE012802119",
+          "paragraph" : "§ 11a",
+          "title" : "Nicht zu berücksichtigendes Einkommen"
+        },
+        {
+          "documentIdentifier" : "BJNR295500003BJNE012904119",
+          "paragraph" : "§ 11b",
+          "title" : "Absetzbeträge"
+        },
+        {
+          "documentIdentifier" : "BJNR295500003BJNE001406308",
+          "paragraph" : "§ 12",
+          "title" : "Zu berücksichtigendes Vermögen"
+        },
+        {
+          "documentIdentifier" : "BJNR295500003BJNE009602308",
+          "paragraph" : "§ 12a",
+          "title" : "Vorrangige Leistungen"
+        },
+        {
+          "documentIdentifier" : "BJNR295500003BJNE001505308",
+          "paragraph" : "§ 13",
+          "title" : "Verordnungsermächtigung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Anspruchsvoraussetzungen"
+    },
+    {
+      "documentIdentifier" : "BJNR295500003BJNG000301308",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR295500003BJNG000401308",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR295500003BJNE001604126",
+              "paragraph" : "§ 14",
+              "title" : "Grundsatz des Förderns"
+            },
+            {
+              "documentIdentifier" : "BJNR295500003BJNE001706126",
+              "paragraph" : "§ 15",
+              "title" : "Eingliederungsvereinbarung"
+            },
+            {
+              "documentIdentifier" : "BJNR295500003BJNE008502119",
+              "paragraph" : "§ 15a",
+              "title" : "(weggefallen)"
+            },
+            {
+              "documentIdentifier" : "BJNR295500003BJNE001821126",
+              "paragraph" : "§ 16",
+              "title" : "Leistungen zur Eingliederung"
+            },
+            {
+              "documentIdentifier" : "BJNR295500003BJNE009303308",
+              "paragraph" : "§ 16a",
+              "title" : "Kommunale Eingliederungsleistungen"
+            },
+            {
+              "documentIdentifier" : "BJNR295500003BJNE009903119",
+              "paragraph" : "§ 16b",
+              "title" : "Einstiegsgeld"
+            },
+            {
+              "documentIdentifier" : "BJNR295500003BJNE010003140",
+              "paragraph" : "§ 16c",
+              "title" : "Leistungen zur Eingliederung von Selbständigen"
+            },
+            {
+              "documentIdentifier" : "BJNR295500003BJNE010104119",
+              "paragraph" : "§ 16d",
+              "title" : "Arbeitsgelegenheiten"
+            },
+            {
+              "documentIdentifier" : "BJNR295500003BJNE009806126",
+              "paragraph" : "§ 16e",
+              "title" : "Eingliederung von Langzeitarbeitslosen"
+            },
+            {
+              "documentIdentifier" : "BJNR295500003BJNE010202140",
+              "paragraph" : "§ 16f",
+              "title" : "Freie Förderung"
+            },
+            {
+              "documentIdentifier" : "BJNR295500003BJNE010305126",
+              "paragraph" : "§ 16g",
+              "title" : "Förderung bei Wegfall der Hilfebedürftigkeit"
+            },
+            {
+              "documentIdentifier" : "BJNR295500003BJNE014500119",
+              "paragraph" : "§ 16h",
+              "title" : "Förderung schwer zu erreichender junger Menschen"
+            },
+            {
+              "documentIdentifier" : "BJNR295500003BJNE015000126",
+              "paragraph" : "§ 16i",
+              "title" : "Teilhabe am Arbeitsmarkt"
+            },
+            {
+              "documentIdentifier" : "BJNR295500003BJNE001902308",
+              "paragraph" : "§ 17",
+              "title" : "Einrichtungen und Dienste für Leistungen zur Eingliederung"
+            },
+            {
+              "documentIdentifier" : "BJNR295500003BJNE002007119",
+              "paragraph" : "§ 18",
+              "title" : "Örtliche Zusammenarbeit"
+            },
+            {
+              "documentIdentifier" : "BJNR295500003BJNE008604140",
+              "paragraph" : "§ 18a",
+              "title" : "Zusammenarbeit mit den für die Arbeitsförderung zuständigen Stellen"
+            },
+            {
+              "documentIdentifier" : "BJNR295500003BJNE010902308",
+              "paragraph" : "§ 18b",
+              "title" : "Kooperationsausschuss"
+            },
+            {
+              "documentIdentifier" : "BJNR295500003BJNE011002308",
+              "paragraph" : "§ 18c",
+              "title" : "Bund-Länder-Ausschuss"
+            },
+            {
+              "documentIdentifier" : "BJNR295500003BJNE011103119",
+              "paragraph" : "§ 18d",
+              "title" : "Örtlicher Beirat"
+            },
+            {
+              "documentIdentifier" : "BJNR295500003BJNE011202308",
+              "paragraph" : "§ 18e",
+              "title" : "Beauftragte für Chancengleichheit am Arbeitsmarkt"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Leistungen zur Eingliederung in Arbeit"
+        },
+        {
+          "documentIdentifier" : "BJNR295500003BJNG000502308",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              2
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR295500003BJNG000604308",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR295500003BJNE002103308",
+                  "paragraph" : "§ 19",
+                  "title" : "Arbeitslosengeld II, Sozialgeld und Leistungen für Bildung und Teilhabe"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  3,
+                  2,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Leistungsanspruch"
+            },
+            {
+              "documentIdentifier" : "BJNR295500003BJNG000702308",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR295500003BJNE002208360",
+                  "paragraph" : "§ 20",
+                  "title" : "Regelbedarf zur Sicherung des Lebensunterhalts"
+                },
+                {
+                  "documentIdentifier" : "BJNR295500003BJNE002307126",
+                  "paragraph" : "§ 21",
+                  "title" : "Mehrbedarfe"
+                },
+                {
+                  "documentIdentifier" : "BJNR295500003BJNE002410360",
+                  "paragraph" : "§ 22",
+                  "title" : "Bedarfe für Unterkunft und Heizung"
+                },
+                {
+                  "documentIdentifier" : "BJNR295500003BJNE013001308",
+                  "paragraph" : "§ 22a",
+                  "title" : "Satzungsermächtigung"
+                },
+                {
+                  "documentIdentifier" : "BJNR295500003BJNE013101308",
+                  "paragraph" : "§ 22b",
+                  "title" : "Inhalt der Satzung"
+                },
+                {
+                  "documentIdentifier" : "BJNR295500003BJNE013201308",
+                  "paragraph" : "§ 22c",
+                  "title" : "Datenerhebung, -auswertung und -überprüfung"
+                },
+                {
+                  "documentIdentifier" : "BJNR295500003BJNE002507119",
+                  "paragraph" : "§ 23",
+                  "title" : "Besonderheiten beim Sozialgeld"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  3,
+                  2,
+                  2
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Arbeitslosengeld II und Sozialgeld"
+            },
+            {
+              "documentIdentifier" : "BJNR295500003BJNG000802308",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR295500003BJNE002607119",
+                  "paragraph" : "§ 24",
+                  "title" : "Abweichende Erbringung von Leistungen"
+                },
+                {
+                  "documentIdentifier" : "BJNR295500003BJNE002704308",
+                  "paragraph" : "§ 25",
+                  "title" : "Leistungen bei medizinischer Rehabilitation der Rentenversicherung und bei Anspruch auf Verletztengeld aus der Unfallversicherung"
+                },
+                {
+                  "documentIdentifier" : "BJNR295500003BJNE002814119",
+                  "paragraph" : "§ 26",
+                  "title" : "Zuschüsse zu Beiträgen zur Krankenversicherung und Pflegeversicherung"
+                },
+                {
+                  "documentIdentifier" : "BJNR295500003BJNE002905119",
+                  "paragraph" : "§ 27",
+                  "title" : "Leistungen für Auszubildende"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  3,
+                  2,
+                  3
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Abweichende Leistungserbringung und weitere Leistungen"
+            },
+            {
+              "documentIdentifier" : "BJNR295500003BJNG000902308",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR295500003BJNE003010126",
+                  "paragraph" : "§ 28",
+                  "title" : "Bedarfe für Bildung und Teilhabe"
+                },
+                {
+                  "documentIdentifier" : "BJNR295500003BJNE003108126",
+                  "paragraph" : "§ 29",
+                  "title" : "Erbringung der Leistungen für Bildung und Teilhabe"
+                },
+                {
+                  "documentIdentifier" : "BJNR295500003BJNE003204377",
+                  "paragraph" : "§ 30",
+                  "title" : "Berechtigte Selbsthilfe"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  3,
+                  2,
+                  4
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Leistungen für Bildung und Teilhabe"
+            },
+            {
+              "documentIdentifier" : "BJNR295500003BJNG002001308",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR295500003BJNE003311119",
+                  "paragraph" : "§ 31",
+                  "title" : "Pflichtverletzungen"
+                },
+                {
+                  "documentIdentifier" : "BJNR295500003BJNE013301308",
+                  "paragraph" : "§ 31a",
+                  "title" : "Rechtsfolgen bei Pflichtverletzungen"
+                },
+                {
+                  "documentIdentifier" : "BJNR295500003BJNE013401308",
+                  "paragraph" : "§ 31b",
+                  "title" : "Beginn und Dauer der Minderung"
+                },
+                {
+                  "documentIdentifier" : "BJNR295500003BJNE003403308",
+                  "paragraph" : "§ 32",
+                  "title" : "Meldeversäumnisse"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  3,
+                  2,
+                  5
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Sanktionen"
+            },
+            {
+              "documentIdentifier" : "BJNR295500003BJNG002101308",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR295500003BJNE003506119",
+                  "paragraph" : "§ 33",
+                  "title" : "Übergang von Ansprüchen"
+                },
+                {
+                  "documentIdentifier" : "BJNR295500003BJNE003603119",
+                  "paragraph" : "§ 34",
+                  "title" : "Ersatzansprüche bei sozialwidrigem Verhalten"
+                },
+                {
+                  "documentIdentifier" : "BJNR295500003BJNE008703119",
+                  "paragraph" : "§ 34a",
+                  "title" : "Ersatzansprüche für rechtswidrig erbrachte Leistungen"
+                },
+                {
+                  "documentIdentifier" : "BJNR295500003BJNE014600119",
+                  "paragraph" : "§ 34b",
+                  "title" : "Erstattungsanspruch bei Doppelleistungen"
+                },
+                {
+                  "documentIdentifier" : "BJNR295500003BJNE013502119",
+                  "paragraph" : "§ 34c",
+                  "title" : "Ersatzansprüche nach sonstigen Vorschriften"
+                },
+                {
+                  "documentIdentifier" : "BJNR295500003BJNE003703119",
+                  "paragraph" : "§ 35",
+                  "title" : "(weggefallen)"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  3,
+                  2,
+                  6
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Verpflichtungen Anderer"
+            }
+          ],
+          "title" : "Leistungen zur Sicherung des Lebensunterhalts"
+        }
+      ],
+      "title" : "Leistungen"
+    },
+    {
+      "documentIdentifier" : "BJNR295500003BJNG001001308",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR295500003BJNG001102308",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR295500003BJNE003807126",
+              "paragraph" : "§ 36",
+              "title" : "Örtliche Zuständigkeit"
+            },
+            {
+              "documentIdentifier" : "BJNR295500003BJNE008203308",
+              "paragraph" : "§ 36a",
+              "title" : "Kostenerstattung bei Aufenthalt im Frauenhaus"
+            },
+            {
+              "documentIdentifier" : "BJNR295500003BJNE003905126",
+              "paragraph" : "§ 37",
+              "title" : "Antragserfordernis"
+            },
+            {
+              "documentIdentifier" : "BJNR295500003BJNE004002308",
+              "paragraph" : "§ 38",
+              "title" : "Vertretung der Bedarfsgemeinschaft"
+            },
+            {
+              "documentIdentifier" : "BJNR295500003BJNE004104119",
+              "paragraph" : "§ 39",
+              "title" : "Sofortige Vollziehbarkeit"
+            },
+            {
+              "documentIdentifier" : "BJNR295500003BJNE004211126",
+              "paragraph" : "§ 40",
+              "title" : "Anwendung von Verfahrensvorschriften"
+            },
+            {
+              "documentIdentifier" : "BJNR295500003BJNE014100377",
+              "paragraph" : "§ 40a",
+              "title" : "Erstattungsanspruch"
+            },
+            {
+              "documentIdentifier" : "BJNR295500003BJNE004306126",
+              "paragraph" : "§ 41",
+              "title" : "Berechnung der Leistungen und Bewilligungszeitraum"
+            },
+            {
+              "documentIdentifier" : "BJNR295500003BJNE014700119",
+              "paragraph" : "§ 41a",
+              "title" : "Vorläufige Entscheidung"
+            },
+            {
+              "documentIdentifier" : "BJNR295500003BJNE004404119",
+              "paragraph" : "§ 42",
+              "title" : "Fälligkeit, Auszahlung und Unpfändbarkeit der Leistungen"
+            },
+            {
+              "documentIdentifier" : "BJNR295500003BJNE013602119",
+              "paragraph" : "§ 42a",
+              "title" : "Darlehen"
+            },
+            {
+              "documentIdentifier" : "BJNR295500003BJNE004506119",
+              "paragraph" : "§ 43",
+              "title" : "Aufrechnung"
+            },
+            {
+              "documentIdentifier" : "BJNR295500003BJNE013701308",
+              "paragraph" : "§ 43a",
+              "title" : "Verteilung von Teilzahlungen"
+            },
+            {
+              "documentIdentifier" : "BJNR295500003BJNE004602308",
+              "paragraph" : "§ 44",
+              "title" : "Veränderung von Ansprüchen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Zuständigkeit und Verfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR295500003BJNG001201308",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR295500003BJNE004707119",
+              "paragraph" : "§ 44a",
+              "title" : "Feststellung von Erwerbsfähigkeit und Hilfebedürftigkeit"
+            },
+            {
+              "documentIdentifier" : "BJNR295500003BJNE004806119",
+              "paragraph" : "§ 44b",
+              "title" : "Gemeinsame Einrichtung"
+            },
+            {
+              "documentIdentifier" : "BJNR295500003BJNE011303311",
+              "paragraph" : "§ 44c",
+              "title" : "Trägerversammlung"
+            },
+            {
+              "documentIdentifier" : "BJNR295500003BJNE011402308",
+              "paragraph" : "§ 44d",
+              "title" : "Geschäftsführerin, Geschäftsführer"
+            },
+            {
+              "documentIdentifier" : "BJNR295500003BJNE011503311",
+              "paragraph" : "§ 44e",
+              "title" : "Verfahren bei Meinungsverschiedenheit über die Weisungszuständigkeit"
+            },
+            {
+              "documentIdentifier" : "BJNR295500003BJNE011602308",
+              "paragraph" : "§ 44f",
+              "title" : "Bewirtschaftung von Bundesmitteln"
+            },
+            {
+              "documentIdentifier" : "BJNR295500003BJNE011703377",
+              "paragraph" : "§ 44g",
+              "title" : "Zuweisung von Tätigkeiten bei der gemeinsamen Einrichtung"
+            },
+            {
+              "documentIdentifier" : "BJNR295500003BJNE011802308",
+              "paragraph" : "§ 44h",
+              "title" : "Personalvertretung"
+            },
+            {
+              "documentIdentifier" : "BJNR295500003BJNE011901308",
+              "paragraph" : "§ 44i",
+              "title" : "Schwerbehindertenvertretung; Jugend- und Auszubildendenvertretung"
+            },
+            {
+              "documentIdentifier" : "BJNR295500003BJNE012001308",
+              "paragraph" : "§ 44j",
+              "title" : "Gleichstellungsbeauftragte"
+            },
+            {
+              "documentIdentifier" : "BJNR295500003BJNE012202308",
+              "paragraph" : "§ 44k",
+              "title" : "Stellenbewirtschaftung"
+            },
+            {
+              "documentIdentifier" : "BJNR295500003BJNE004904308",
+              "paragraph" : "§ 45",
+              "title" : "(weggefallen)"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Einheitliche Entscheidung"
+        }
+      ],
+      "title" : "Gemeinsame Vorschriften für Leistungen"
+    },
+    {
+      "documentIdentifier" : "BJNR295500003BJNG001301308",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR295500003BJNE005030126",
+          "paragraph" : "§ 46",
+          "title" : "Finanzierung aus Bundesmitteln"
+        },
+        {
+          "documentIdentifier" : "BJNR295500003BJNE005104308",
+          "paragraph" : "§ 47",
+          "title" : "Aufsicht"
+        },
+        {
+          "documentIdentifier" : "BJNR295500003BJNE005204308",
+          "paragraph" : "§ 48",
+          "title" : "Aufsicht über die zugelassenen kommunalen Träger"
+        },
+        {
+          "documentIdentifier" : "BJNR295500003BJNE012301308",
+          "paragraph" : "§ 48a",
+          "title" : "Vergleich der Leistungsfähigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR295500003BJNE012402308",
+          "paragraph" : "§ 48b",
+          "title" : "Zielvereinbarungen"
+        },
+        {
+          "documentIdentifier" : "BJNR295500003BJNE005303308",
+          "paragraph" : "§ 49",
+          "title" : "Innenrevision"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Finanzierung und Aufsicht"
+    },
+    {
+      "documentIdentifier" : "BJNR295500003BJNG001404126",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR295500003BJNE005407126",
+          "paragraph" : "§ 50",
+          "title" : "Datenübermittlung"
+        },
+        {
+          "documentIdentifier" : "BJNR295500003BJNE014801126",
+          "paragraph" : "§ 50a",
+          "title" : "Speicherung, Veränderung, Nutzung, Übermittlung, Einschränkung der Verarbeitung oder Löschung von Daten für die Ausbildungsvermittlung"
+        },
+        {
+          "documentIdentifier" : "BJNR295500003BJNE005504126",
+          "paragraph" : "§ 51",
+          "title" : "Verarbeitung von Sozialdaten durch nicht-öffentliche Stellen"
+        },
+        {
+          "documentIdentifier" : "BJNR295500003BJNE007303308",
+          "paragraph" : "§ 51a",
+          "title" : "Kundennummer"
+        },
+        {
+          "documentIdentifier" : "BJNR295500003BJNE007408126",
+          "paragraph" : "§ 51b",
+          "title" : "Verarbeitung von Daten durch die Träger der Grundsicherung für Arbeitsuchende"
+        },
+        {
+          "documentIdentifier" : "BJNR295500003BJNE007503308",
+          "paragraph" : "§ 51c",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR295500003BJNE005607126",
+          "paragraph" : "§ 52",
+          "title" : "Automatisierter Datenabgleich"
+        },
+        {
+          "documentIdentifier" : "BJNR295500003BJNE008804119",
+          "paragraph" : "§ 52a",
+          "title" : "Überprüfung von Daten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Datenverarbeitung und datenschutzrechtliche Verantwortung"
+    },
+    {
+      "documentIdentifier" : "BJNR295500003BJNG001501308",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR295500003BJNE005704308",
+          "paragraph" : "§ 53",
+          "title" : "Statistik und Übermittlung statistischer Daten"
+        },
+        {
+          "documentIdentifier" : "BJNR295500003BJNE009702308",
+          "paragraph" : "§ 53a",
+          "title" : "Arbeitslose"
+        },
+        {
+          "documentIdentifier" : "BJNR295500003BJNE005804119",
+          "paragraph" : "§ 54",
+          "title" : "Eingliederungsbilanz"
+        },
+        {
+          "documentIdentifier" : "BJNR295500003BJNE005904308",
+          "paragraph" : "§ 55",
+          "title" : "Wirkungsforschung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Statistik und Forschung"
+    },
+    {
+      "documentIdentifier" : "BJNR295500003BJNG001601308",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR295500003BJNE006006126",
+          "paragraph" : "§ 56",
+          "title" : "Anzeige- und Bescheinigungspflicht bei Arbeitsunfähigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR295500003BJNE006101308",
+          "paragraph" : "§ 57",
+          "title" : "Auskunftspflicht von Arbeitgebern"
+        },
+        {
+          "documentIdentifier" : "BJNR295500003BJNE006203308",
+          "paragraph" : "§ 58",
+          "title" : "Einkommensbescheinigung"
+        },
+        {
+          "documentIdentifier" : "BJNR295500003BJNE006301308",
+          "paragraph" : "§ 59",
+          "title" : "Meldepflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR295500003BJNE006404119",
+          "paragraph" : "§ 60",
+          "title" : "Auskunftspflicht und Mitwirkungspflicht Dritter"
+        },
+        {
+          "documentIdentifier" : "BJNR295500003BJNE006502308",
+          "paragraph" : "§ 61",
+          "title" : "Auskunftspflichten bei Leistungen zur Eingliederung in Arbeit"
+        },
+        {
+          "documentIdentifier" : "BJNR295500003BJNE006601308",
+          "paragraph" : "§ 62",
+          "title" : "Schadenersatz"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          8
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Mitwirkungspflichten"
+    },
+    {
+      "documentIdentifier" : "BJNR295500003BJNG001702377",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR295500003BJNE006702119",
+          "paragraph" : "§ 63",
+          "title" : "Bußgeldvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR295500003BJNE014201126",
+          "paragraph" : "§ 63a",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR295500003BJNE014301126",
+          "paragraph" : "§ 63b",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          9
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Straf- und Bußgeldvorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR295500003BJNG001801308",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR295500003BJNE006806124",
+          "paragraph" : "§ 64",
+          "title" : "Zuständigkeit und Zusammenarbeit mit anderen Behörden"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          10
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Bekämpfung von Leistungsmissbrauch"
+    },
+    {
+      "documentIdentifier" : "BJNR295500003BJNG001901308",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR295500003BJNE006909360",
+          "paragraph" : "§ 65",
+          "title" : "Allgemeine Übergangsvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR295500003BJNE007602308",
+          "paragraph" : "§ 65a",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR295500003BJNE007702308",
+          "paragraph" : "§ 65b",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR295500003BJNE007803308",
+          "paragraph" : "§ 65c",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR295500003BJNE007901308",
+          "paragraph" : "§ 65d",
+          "title" : "Übermittlung von Daten"
+        },
+        {
+          "documentIdentifier" : "BJNR295500003BJNE008003308",
+          "paragraph" : "§ 65e",
+          "title" : "Übergangsregelung zur Aufrechnung"
+        },
+        {
+          "documentIdentifier" : "BJNR295500003BJNE007003308",
+          "paragraph" : "§ 66",
+          "title" : "Rechtsänderungen bei Leistungen zur Eingliederung in Arbeit"
+        },
+        {
+          "documentIdentifier" : "BJNR295500003BJNE015600126",
+          "paragraph" : "§ 67",
+          "title" : "Vereinfachtes Verfahren für den Zugang zu sozialer Sicherung aufgrund des Coronavirus SARS-CoV-2; Verordnungsermächtigung"
+        },
+        {
+          "documentIdentifier" : "BJNR295500003BJNE008303126",
+          "paragraph" : "(XXXX) §§ 68 bis 70",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR295500003BJNE009403140",
+          "paragraph" : "§ 71",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR295500003BJNE009504119",
+          "paragraph" : "(XXXX) §§ 72 und 73",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR295500003BJNE010702308",
+          "paragraph" : "§ 74",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR295500003BJNE012503119",
+          "paragraph" : "§ 75",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR295500003BJNE012603119",
+          "paragraph" : "§ 76",
+          "title" : "Gesetz zur Weiterentwicklung der Organisation der Grundsicherung für Arbeitsuchende"
+        },
+        {
+          "documentIdentifier" : "BJNR295500003BJNE013900308",
+          "paragraph" : "§ 77",
+          "title" : "Gesetz zur Ermittlung von Regelbedarfen und zur Änderung des Zweiten und Zwölften Buches Sozialgesetzbuch"
+        },
+        {
+          "documentIdentifier" : "BJNR295500003BJNE014000140",
+          "paragraph" : "§ 78",
+          "title" : "Gesetz zur Verbesserung der Eingliederungschancen am Arbeitsmarkt"
+        },
+        {
+          "documentIdentifier" : "BJNR295500003BJNE014401377",
+          "paragraph" : "§ 79",
+          "title" : "Achtes Gesetz zur Änderung des Zweiten Buches Sozialgesetzbuch – Ergänzung personalrechtlicher Bestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR295500003BJNE014900119",
+          "paragraph" : "§ 80",
+          "title" : "Neuntes Gesetz zur Änderung des Zweiten Buches Sozialgesetzbuch – Rechtsvereinfachung – sowie zur vorübergehenden Aussetzung der Insolvenzantragspflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR295500003BJNE015100126",
+          "paragraph" : "§ 81",
+          "title" : "Teilhabechancengesetz"
+        },
+        {
+          "documentIdentifier" : "BJNR295500003BJNE015301126",
+          "paragraph" : "§ 82",
+          "title" : "Gesetz zur Förderung der beruflichen Weiterbildung im Strukturwandel und zur Weiterentwicklung der Ausbildungsförderung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          11
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übergangs- und Schlussvorschriften"
+    }
+  ]
+}

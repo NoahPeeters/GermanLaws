@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR039200998",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR039200998Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR039200998BJNE000201308",
+          "paragraph" : "§ 1",
+          "title" : "Allgemeines"
+        },
+        {
+          "documentIdentifier" : "BJNR039200998BJNE000301308",
+          "paragraph" : "§ 2",
+          "title" : "Beitragsberechnung"
+        },
+        {
+          "documentIdentifier" : "BJNR039200998BJNE000405308",
+          "paragraph" : "§ 3",
+          "title" : "Berechnungsgrundlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR039200998BJNE000504308",
+          "paragraph" : "§ 4",
+          "title" : "Abrechnungsverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR039200998BJNE000605308",
+          "paragraph" : "§ 5",
+          "title" : "Zahlung der Beiträge"
+        },
+        {
+          "documentIdentifier" : "BJNR039200998BJNE000802308",
+          "paragraph" : "§ 6",
+          "title" : "Berücksichtigung des zusätzlichen Beitragssatzes"
+        },
+        {
+          "documentIdentifier" : "BJNR039200998BJNE001000308",
+          "paragraph" : "§ 7",
+          "title" : "Abrechnungszeiträume bis 2008"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

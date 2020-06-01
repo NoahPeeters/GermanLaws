@@ -1,0 +1,313 @@
+{
+  "documentIdentifier" : "BJNR224300005",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR224300005BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR224300005BJNE000300000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR224300005BJNE000402124",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR224300005BJNE000500000",
+          "paragraph" : "§ 3",
+          "title" : "Grundlagen des Netzzugangs"
+        },
+        {
+          "documentIdentifier" : "BJNR224300005BJNE003900124",
+          "paragraph" : "§ 3a",
+          "title" : "Gewährleistung des Netzzugangs in der einheitlichen Stromgebotszone"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Bestimmungen"
+    },
+    {
+      "documentIdentifier" : "BJNR224300005BJNG000200000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR224300005BJNG000300000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR224300005BJNE000601360",
+              "paragraph" : "§ 4",
+              "title" : "Bilanzkreise"
+            },
+            {
+              "documentIdentifier" : "BJNR224300005BJNE000701360",
+              "paragraph" : "§ 5",
+              "title" : "Grundsätze der Fahrplanabwicklung und untertäglicher Handel"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Bilanzkreissystem"
+        },
+        {
+          "documentIdentifier" : "BJNR224300005BJNG000400000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR224300005BJNE000801360",
+              "paragraph" : "§ 6",
+              "title" : "Grundsätze der Beschaffung von Regelenergie"
+            },
+            {
+              "documentIdentifier" : "BJNR224300005BJNE000900000",
+              "paragraph" : "§ 7",
+              "title" : "Erbringung von Regelenergie"
+            },
+            {
+              "documentIdentifier" : "BJNR224300005BJNE001001311",
+              "paragraph" : "§ 8",
+              "title" : "Abrechnung von Regelenergie"
+            },
+            {
+              "documentIdentifier" : "BJNR224300005BJNE001100000",
+              "paragraph" : "§ 9",
+              "title" : "Transparenz der Ausschreibung, Beschaffung und Inanspruchnahme von\nRegelenergie"
+            },
+            {
+              "documentIdentifier" : "BJNR224300005BJNE001200000",
+              "paragraph" : "§ 10",
+              "title" : "Verlustenergie"
+            },
+            {
+              "documentIdentifier" : "BJNR224300005BJNE001302116",
+              "paragraph" : "§ 11",
+              "title" : "Bilanzkreis für Energien nach dem Erneuerbare-Energien-Gesetz"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Ausgleichsleistungen"
+        }
+      ],
+      "title" : "Zugang zu Übertragungsnetzen"
+    },
+    {
+      "documentIdentifier" : "BJNR224300005BJNG000500000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR224300005BJNE001404118",
+          "paragraph" : "§ 12",
+          "title" : "Standardisierte Lastprofile; Zählerstandsgangmessung"
+        },
+        {
+          "documentIdentifier" : "BJNR224300005BJNE001501301",
+          "paragraph" : "§ 13",
+          "title" : "Jahresmehr- und Jahresmindermengen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Zugang zu Elektrizitätsverteilernetzen"
+    },
+    {
+      "documentIdentifier" : "BJNR224300005BJNG000600000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR224300005BJNE001602360",
+          "paragraph" : "§ 14",
+          "title" : "Lieferantenwechsel"
+        },
+        {
+          "documentIdentifier" : "BJNR224300005BJNE001700000",
+          "paragraph" : "§ 15",
+          "title" : "Engpassmanagement"
+        },
+        {
+          "documentIdentifier" : "BJNR224300005BJNE001800000",
+          "paragraph" : "§ 16",
+          "title" : "Allgemeine Zusammenarbeitspflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR224300005BJNE001900000",
+          "paragraph" : "§ 17",
+          "title" : "Veröffentlichungspflichten der Betreiber von\nElektrizitätsversorgungsnetzen"
+        },
+        {
+          "documentIdentifier" : "BJNR224300005BJNE002004118",
+          "paragraph" : "§ 18",
+          "title" : "Messung"
+        },
+        {
+          "documentIdentifier" : "BJNR224300005BJNE003501118",
+          "paragraph" : "§ 18a",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR224300005BJNE003702118",
+          "paragraph" : "§ 18b",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR224300005BJNE002102118",
+          "paragraph" : "§ 19",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR224300005BJNE002203118",
+          "paragraph" : "§ 20",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR224300005BJNE002301118",
+          "paragraph" : "§ 21",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR224300005BJNE002402118",
+          "paragraph" : "§ 22",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Sonstige Pflichten der Betreiber von Elektrizitätsversorgungsnetzen"
+    },
+    {
+      "documentIdentifier" : "BJNR224300005BJNG000700000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR224300005BJNE002500000",
+          "paragraph" : "§ 23",
+          "title" : "Vertragliche Ausgestaltung des Netzzugangs"
+        },
+        {
+          "documentIdentifier" : "BJNR224300005BJNE002601301",
+          "paragraph" : "§ 24",
+          "title" : "Netznutzungsvertrag"
+        },
+        {
+          "documentIdentifier" : "BJNR224300005BJNE002700000",
+          "paragraph" : "§ 25",
+          "title" : "Lieferantenrahmenvertrag"
+        },
+        {
+          "documentIdentifier" : "BJNR224300005BJNE003600377",
+          "paragraph" : "§ 25a",
+          "title" : "Haftung bei Störungen der Netznutzung"
+        },
+        {
+          "documentIdentifier" : "BJNR224300005BJNE002801311",
+          "paragraph" : "§ 26",
+          "title" : "Bilanzkreisvertrag"
+        },
+        {
+          "documentIdentifier" : "BJNR224300005BJNE003800311",
+          "paragraph" : "§ 26a",
+          "title" : "Erbringung von Regelleistung durch Letztverbraucher"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Vertragsbeziehungen"
+    },
+    {
+      "documentIdentifier" : "BJNR224300005BJNG000800000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR224300005BJNE002904118",
+          "paragraph" : "§ 27",
+          "title" : "Festlegungen der Regulierungsbehörde"
+        },
+        {
+          "documentIdentifier" : "BJNR224300005BJNE003000000",
+          "paragraph" : "§ 28",
+          "title" : "Standardangebote"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Befugnisse der Regulierungsbehörde"
+    },
+    {
+      "documentIdentifier" : "BJNR224300005BJNG000900000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR224300005BJNE003100000",
+          "paragraph" : "§ 29",
+          "title" : "Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR224300005BJNE003200000",
+          "paragraph" : "§ 30",
+          "title" : "Übergangsregelungen"
+        },
+        {
+          "documentIdentifier" : "BJNR224300005BJNE003300000",
+          "paragraph" : "§ 31",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Sonstige Bestimmungen"
+    }
+  ]
+}

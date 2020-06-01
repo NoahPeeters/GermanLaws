@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR005080955",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR005080955Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR005080955BJNE000200306",
+          "paragraph" : "§ 1",
+          "title" : "Verlängerung der Anmeldefrist"
+        },
+        {
+          "documentIdentifier" : "BJNR005080955BJNE000300306",
+          "paragraph" : "§ 2",
+          "title" : "Land Berlin"
+        },
+        {
+          "documentIdentifier" : "BJNR005080955BJNE000400306",
+          "paragraph" : "§ 3",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

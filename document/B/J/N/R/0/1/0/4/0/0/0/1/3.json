@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR010400013",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR010400013Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR010400013BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Anspruch auf Ausbildungsgeld"
+        },
+        {
+          "documentIdentifier" : "BJNR010400013BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Höhe des Ausbildungsgeldes"
+        },
+        {
+          "documentIdentifier" : "BJNR010400013BJNE000401377",
+          "paragraph" : "§ 3",
+          "title" : "Anrechnung anderer Einkünfte auf das Ausbildungsgeld"
+        },
+        {
+          "documentIdentifier" : "BJNR010400013BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Entsprechende Geltung von Vorschriften des Bundesbesoldungsgesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR010400013BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR010170992",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR010170992Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR010170992BJNE000200314",
+          "paragraph" : "§ 1",
+          "title" : "Anpassung des aktuellen Rentenwerts und des\naktuellen Rentenwerts (Ost)"
+        },
+        {
+          "documentIdentifier" : "BJNR010170992BJNE000300314",
+          "paragraph" : "§ 2",
+          "title" : "Anpassungsfaktor in der Unfallversicherung"
+        },
+        {
+          "documentIdentifier" : "BJNR010170992BJNE000400314",
+          "paragraph" : "§ 3",
+          "title" : "Pflegegeld in der Unfallversicherung"
+        },
+        {
+          "documentIdentifier" : "BJNR010170992BJNE000500314",
+          "paragraph" : "§ 4",
+          "title" : "Anpassung in der Altershilfe für Landwirte"
+        },
+        {
+          "documentIdentifier" : "BJNR010170992BJNE000600314",
+          "paragraph" : "§ 5",
+          "title" : "Angleichungsfaktoren für den Versorgungsausgleich\nin der Rentenversicherung"
+        },
+        {
+          "documentIdentifier" : "BJNR010170992BJNE000700314",
+          "paragraph" : "§ 6",
+          "title" : "Grenzbeträge für die Zahlung eines Sozialzuschlags"
+        },
+        {
+          "documentIdentifier" : "BJNR010170992BJNE000800314",
+          "paragraph" : "§ 7",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

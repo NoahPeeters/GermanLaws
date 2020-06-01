@@ -1,0 +1,64 @@
+{
+  "documentIdentifier" : "BJNR164200002",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR164200002Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR164200002BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Anordnung, Zweck"
+        },
+        {
+          "documentIdentifier" : "BJNR164200002BJNE000202360",
+          "paragraph" : "§ 2",
+          "title" : "Periodizität, Berichtszeitraum"
+        },
+        {
+          "documentIdentifier" : "BJNR164200002BJNE000302360",
+          "paragraph" : "§ 3",
+          "title" : "Erhebungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR164200002BJNE000402360",
+          "paragraph" : "§ 4",
+          "title" : "Erhebungsmerkmale"
+        },
+        {
+          "documentIdentifier" : "BJNR164200002BJNE000501377",
+          "paragraph" : "§ 5",
+          "title" : "Hilfsmerkmale"
+        },
+        {
+          "documentIdentifier" : "BJNR164200002BJNE000603118",
+          "paragraph" : "§ 6",
+          "title" : "Auskunftspflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR164200002BJNE000700000",
+          "paragraph" : "§ 7",
+          "title" : "Übermittlungsregelung"
+        },
+        {
+          "documentIdentifier" : "BJNR164200002BJNE000900360",
+          "paragraph" : "§ 8",
+          "title" : "Verordnungsermächtigung"
+        },
+        {
+          "documentIdentifier" : "BJNR164200002BJNE000801360",
+          "paragraph" : "§ 9",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

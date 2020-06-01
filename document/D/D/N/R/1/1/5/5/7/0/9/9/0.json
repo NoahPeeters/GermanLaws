@@ -1,0 +1,64 @@
+{
+  "documentIdentifier" : "DDNR115570990",
+  "sections" : [
+    {
+      "documentIdentifier" : "DDNR115570990Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "DDNR115570990BJNE000300307",
+          "paragraph" : "§ 1",
+          "title" : "Geltungsbereich, Begriffe"
+        },
+        {
+          "documentIdentifier" : "DDNR115570990BJNE000400307",
+          "paragraph" : "§ 2",
+          "title" : "Feuerstätten, Anlagen zur Verteilung von\nWärme und zur Warmwasserversorgung"
+        },
+        {
+          "documentIdentifier" : "DDNR115570990BJNE000500307",
+          "paragraph" : "§ 3",
+          "title" : "Verbindungsstücke"
+        },
+        {
+          "documentIdentifier" : "DDNR115570990BJNE000600307",
+          "paragraph" : "§ 4",
+          "title" : "Schornsteine und andere Abgasanlagen"
+        },
+        {
+          "documentIdentifier" : "DDNR115570990BJNE000700307",
+          "paragraph" : "§ 5",
+          "title" : "Ableitung der Abgase"
+        },
+        {
+          "documentIdentifier" : "DDNR115570990BJNE000800307",
+          "paragraph" : "§ 6",
+          "title" : "Rohrleitungen"
+        },
+        {
+          "documentIdentifier" : "DDNR115570990BJNE000900307",
+          "paragraph" : "§ 7",
+          "title" : "Aufstellräume von Feuerstätten"
+        },
+        {
+          "documentIdentifier" : "DDNR115570990BJNE001000307",
+          "paragraph" : "§ 8",
+          "title" : "Feuerungsanlagen besonderer Art"
+        },
+        {
+          "documentIdentifier" : "DDNR115570990BJNE001100307",
+          "paragraph" : "§ 9",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

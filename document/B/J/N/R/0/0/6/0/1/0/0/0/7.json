@@ -1,0 +1,74 @@
+{
+  "documentIdentifier" : "BJNR006010007",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR006010007Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR006010007BJNE000201116",
+          "paragraph" : "§ 1",
+          "title" : "Einlagerer"
+        },
+        {
+          "documentIdentifier" : "BJNR006010007BJNE000303116",
+          "paragraph" : "§ 2",
+          "title" : "Ermittlung der für die Erfüllung der Quotenverpflichtung notwendigen Biokraftstoffmenge"
+        },
+        {
+          "documentIdentifier" : "BJNR006010007BJNE000402116",
+          "paragraph" : "§ 3",
+          "title" : "Erfüllung der Quotenverpflichtung"
+        },
+        {
+          "documentIdentifier" : "BJNR006010007BJNE000502116",
+          "paragraph" : "§ 4",
+          "title" : "Nachweis der Biokraftstoffeigenschaft"
+        },
+        {
+          "documentIdentifier" : "BJNR006010007BJNE000603116",
+          "paragraph" : "§ 5",
+          "title" : "Klimatisch abhängige Anforderungen für beigemischte Fettsäuremethylester (FAME)"
+        },
+        {
+          "documentIdentifier" : "BJNR006010007BJNE000702116",
+          "paragraph" : "§ 6",
+          "title" : "Mitteilungspflichten des Dritten"
+        },
+        {
+          "documentIdentifier" : "BJNR006010007BJNE000903116",
+          "paragraph" : "§ 7",
+          "title" : "Bagatellgrenze"
+        },
+        {
+          "documentIdentifier" : "BJNR006010007BJNE001201116",
+          "paragraph" : "§ 8",
+          "title" : "Zuständige Stelle"
+        },
+        {
+          "documentIdentifier" : "BJNR006010007BJNE001301116",
+          "paragraph" : "§ 9",
+          "title" : "Tierische Fette und Öle"
+        },
+        {
+          "documentIdentifier" : "BJNR006010007BJNE001002116",
+          "paragraph" : "§ 10",
+          "title" : "Zugänglichkeit der DIN-Normen"
+        },
+        {
+          "documentIdentifier" : "BJNR006010007BJNE000803116",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 4)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

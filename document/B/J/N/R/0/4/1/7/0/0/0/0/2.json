@@ -1,0 +1,74 @@
+{
+  "documentIdentifier" : "BJNR041700002",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR041700002Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR041700002BJNE000200305",
+          "paragraph" : "§ 1",
+          "title" : "Staatliche Anerkennung des Ausbildungsberufes"
+        },
+        {
+          "documentIdentifier" : "BJNR041700002BJNE000300305",
+          "paragraph" : "§ 2",
+          "title" : "Ausbildungsdauer"
+        },
+        {
+          "documentIdentifier" : "BJNR041700002BJNE000400305",
+          "paragraph" : "§ 3",
+          "title" : "Struktur und Zielsetzung der Berufsausbildung"
+        },
+        {
+          "documentIdentifier" : "BJNR041700002BJNE000500305",
+          "paragraph" : "§ 4",
+          "title" : "Ausbildungsberufsbild"
+        },
+        {
+          "documentIdentifier" : "BJNR041700002BJNE000600305",
+          "paragraph" : "§ 5",
+          "title" : "Ausbildungsrahmenplan"
+        },
+        {
+          "documentIdentifier" : "BJNR041700002BJNE000700305",
+          "paragraph" : "§ 6",
+          "title" : "Ausbildungsplan"
+        },
+        {
+          "documentIdentifier" : "BJNR041700002BJNE000800305",
+          "paragraph" : "§ 7",
+          "title" : "Berichtsheft"
+        },
+        {
+          "documentIdentifier" : "BJNR041700002BJNE000900305",
+          "paragraph" : "§ 8",
+          "title" : "Zwischenprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR041700002BJNE001000305",
+          "paragraph" : "§ 9",
+          "title" : "Abschlussprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR041700002BJNE001100305",
+          "paragraph" : "§ 10",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR041700002BJNE001200305",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 5)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

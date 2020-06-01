@@ -1,0 +1,98 @@
+{
+  "documentIdentifier" : "BJNR158800012",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR158800012BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR158800012BJNE000101377",
+          "paragraph" : "§ 1",
+          "title" : "Begriffsbestimmung"
+        },
+        {
+          "documentIdentifier" : "BJNR158800012BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Dienstgrad"
+        },
+        {
+          "documentIdentifier" : "BJNR158800012BJNE000301377",
+          "paragraph" : "§ 3",
+          "title" : "Berechtigung zum Tragen der Uniform außerhalb eines Wehrdienstverhältnisses"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeines"
+    },
+    {
+      "documentIdentifier" : "BJNR158800012BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR158800012BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Reservewehrdienstverhältnis"
+        },
+        {
+          "documentIdentifier" : "BJNR158800012BJNE000501377",
+          "paragraph" : "§ 5",
+          "title" : "Begründung und Beginn des Reservewehrdienstverhältnisses; Beförderungen"
+        },
+        {
+          "documentIdentifier" : "BJNR158800012BJNE000600000",
+          "paragraph" : "§ 6",
+          "title" : "Diensteid"
+        },
+        {
+          "documentIdentifier" : "BJNR158800012BJNE000700000",
+          "paragraph" : "§ 7",
+          "title" : "Sachmittel und Entschädigungen"
+        },
+        {
+          "documentIdentifier" : "BJNR158800012BJNE000800000",
+          "paragraph" : "§ 8",
+          "title" : "Aktivierung für eine Dienstleistung nach § 60 des Soldatengesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR158800012BJNE000900000",
+          "paragraph" : "§ 9",
+          "title" : "Zuziehung zu dienstlichen Veranstaltungen"
+        },
+        {
+          "documentIdentifier" : "BJNR158800012BJNE001002377",
+          "paragraph" : "§ 10",
+          "title" : "Benachteiligungsverbot"
+        },
+        {
+          "documentIdentifier" : "BJNR158800012BJNE001100000",
+          "paragraph" : "§ 11",
+          "title" : "Versorgung"
+        },
+        {
+          "documentIdentifier" : "BJNR158800012BJNE001200000",
+          "paragraph" : "§ 12",
+          "title" : "Beendigungsgründe"
+        },
+        {
+          "documentIdentifier" : "BJNR158800012BJNE001301377",
+          "paragraph" : "§ 13",
+          "title" : "Entlassung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Reservewehrdienstverhältnis"
+    }
+  ]
+}

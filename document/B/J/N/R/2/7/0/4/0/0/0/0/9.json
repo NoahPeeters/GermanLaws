@@ -1,0 +1,64 @@
+{
+  "documentIdentifier" : "BJNR270400009",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR270400009Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR270400009BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Kreditermächtigungen"
+        },
+        {
+          "documentIdentifier" : "BJNR270400009BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Grundsätze für die Veranschlagung von Kreditaufnahmen zur Deckung von Ausgaben"
+        },
+        {
+          "documentIdentifier" : "BJNR270400009BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Bereinigung um finanzielle Transaktionen"
+        },
+        {
+          "documentIdentifier" : "BJNR270400009BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Grundlagen zur Bestimmung einer zulässigen strukturellen Kreditaufnahme"
+        },
+        {
+          "documentIdentifier" : "BJNR270400009BJNE000501377",
+          "paragraph" : "§ 5",
+          "title" : "Konjunkturkomponente"
+        },
+        {
+          "documentIdentifier" : "BJNR270400009BJNE000600000",
+          "paragraph" : "§ 6",
+          "title" : "Ausnahmesituationen"
+        },
+        {
+          "documentIdentifier" : "BJNR270400009BJNE000700000",
+          "paragraph" : "§ 7",
+          "title" : "Kontrollkonto"
+        },
+        {
+          "documentIdentifier" : "BJNR270400009BJNE000800000",
+          "paragraph" : "§ 8",
+          "title" : "Abweichungsrechte bei Nachträgen zum Haushaltsgesetz und zum Haushaltsplan"
+        },
+        {
+          "documentIdentifier" : "BJNR270400009BJNE000901140",
+          "paragraph" : "§ 9",
+          "title" : "Übergangsregelung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

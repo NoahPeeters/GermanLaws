@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR227300004",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR227300004Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR227300004BJNE000201310",
+          "paragraph" : "§ 1",
+          "title" : "Gebühren und Auslagen"
+        },
+        {
+          "documentIdentifier" : "BJNR227300004BJNE000301310",
+          "paragraph" : "§ 2",
+          "title" : "Kostenermäßigung und Kostenbefreiung"
+        },
+        {
+          "documentIdentifier" : "BJNR227300004BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Widerspruch"
+        },
+        {
+          "documentIdentifier" : "BJNR227300004BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR227300004BJNE000601310",
+          "paragraph" : "Anhang",
+          "title" : "(zu § 1 Abs. 1)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

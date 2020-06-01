@@ -1,0 +1,186 @@
+{
+  "documentIdentifier" : "BJNR225500004",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR225500004BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR225500004BJNE000301310",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich und Zweck"
+        },
+        {
+          "documentIdentifier" : "BJNR225500004BJNE000400000",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR225500004BJNE000501310",
+          "paragraph" : "§ 3",
+          "title" : "Allgemeine Anforderungen an die Zuteilungsanträge"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR225500004BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR225500004BJNE000601310",
+          "paragraph" : "§ 4",
+          "title" : "Bestimmung der Emissionsfaktoren"
+        },
+        {
+          "documentIdentifier" : "BJNR225500004BJNE000700000",
+          "paragraph" : "§ 5",
+          "title" : "Bestimmung der energiebedingten Kohlendioxid-Emissionen"
+        },
+        {
+          "documentIdentifier" : "BJNR225500004BJNE000800000",
+          "paragraph" : "§ 6",
+          "title" : "Bestimmung der prozessbedingten Kohlendioxid-Emissionen"
+        },
+        {
+          "documentIdentifier" : "BJNR225500004BJNE000900000",
+          "paragraph" : "§ 7",
+          "title" : "Emissionsberechnung auf der Grundlage einer Bilanzierung des\nKohlenstoffgehalts"
+        },
+        {
+          "documentIdentifier" : "BJNR225500004BJNE001001310",
+          "paragraph" : "§ 8",
+          "title" : "Ermittlung der Emissionen auf Grundlage des Eigenverbrauchs"
+        },
+        {
+          "documentIdentifier" : "BJNR225500004BJNE001101310",
+          "paragraph" : "§ 9",
+          "title" : "Messung der Kohlendioxid-Emissionen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Regeln zur Bestimmung der Kohlendioxid-Emissionen"
+    },
+    {
+      "documentIdentifier" : "BJNR225500004BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR225500004BJNE001200000",
+          "paragraph" : "§ 10",
+          "title" : "Zuteilung für bestehende Anlagen auf Basis historischer Emissionen"
+        },
+        {
+          "documentIdentifier" : "BJNR225500004BJNE001300000",
+          "paragraph" : "§ 11",
+          "title" : "Zuteilung für Anlagen auf Basis angemeldeter Emissionen"
+        },
+        {
+          "documentIdentifier" : "BJNR225500004BJNE001400000",
+          "paragraph" : "§ 12",
+          "title" : "Zuteilung für zusätzliche Neuanlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR225500004BJNE001500000",
+          "paragraph" : "§ 13",
+          "title" : "Frühzeitige Emissionsminderungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Besondere Regeln der Berechnung der Kohlendioxid-Emissionen"
+    },
+    {
+      "documentIdentifier" : "BJNR225500004BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR225500004BJNE001601310",
+          "paragraph" : "§ 14",
+          "title" : "Anforderungen an die Verifizierung der Zuteilungsanträge"
+        },
+        {
+          "documentIdentifier" : "BJNR225500004BJNE001701310",
+          "paragraph" : "§ 15",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR225500004BJNE001800000",
+          "paragraph" : "§ 16",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR225500004BJNE001900000",
+          "paragraph" : "Anhang 1",
+          "title" : "(zu § 4 Abs. 3)"
+        },
+        {
+          "documentIdentifier" : "BJNR225500004BJNE002000000",
+          "paragraph" : "Anhang 2",
+          "title" : "(zu § 6 Abs. 3)"
+        },
+        {
+          "documentIdentifier" : "BJNR225500004BJNE002100000",
+          "paragraph" : "Anhang 3",
+          "title" : "(zu § 6 Abs. 4)"
+        },
+        {
+          "documentIdentifier" : "BJNR225500004BJNE002200000",
+          "paragraph" : "Anhang 4",
+          "title" : "(zu § 6 Abs. 5)"
+        },
+        {
+          "documentIdentifier" : "BJNR225500004BJNE002300000",
+          "paragraph" : "Anhang 5",
+          "title" : "(zu § 6 Abs. 6)"
+        },
+        {
+          "documentIdentifier" : "BJNR225500004BJNE002400000",
+          "paragraph" : "Anhang 6",
+          "title" : "(zu § 6 Abs. 7)"
+        },
+        {
+          "documentIdentifier" : "BJNR225500004BJNE002500000",
+          "paragraph" : "Anhang 7",
+          "title" : "(zu § 6 Abs. 8)"
+        },
+        {
+          "documentIdentifier" : "BJNR225500004BJNE002600000",
+          "paragraph" : "Anhang 8",
+          "title" : "(zu § 10)\n"
+        },
+        {
+          "documentIdentifier" : "BJNR225500004BJNE002700000",
+          "paragraph" : "Anhang 9",
+          "title" : "(zu § 13 Abs. 6)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gemeinsame Vorschriften"
+    }
+  ]
+}

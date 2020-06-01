@@ -1,0 +1,2534 @@
+{
+  "documentIdentifier" : "BJNR010350934",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR010350934BJNG000102301",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR010350934BJNE003002301",
+          "paragraph" : "§ 1",
+          "title" : "Geltungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR010350934BJNE003102301",
+          "paragraph" : "§ 2",
+          "title" : "Wirtschaftliche Einheit"
+        },
+        {
+          "documentIdentifier" : "BJNR010350934BJNE003202301",
+          "paragraph" : "§ 3",
+          "title" : "Wertermittlung bei mehreren Beteiligten"
+        },
+        {
+          "documentIdentifier" : "BJNR010350934BJNE003303301",
+          "paragraph" : "§ 3a",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR010350934BJNE003402301",
+          "paragraph" : "§ 4",
+          "title" : "Aufschiebend bedingter Erwerb"
+        },
+        {
+          "documentIdentifier" : "BJNR010350934BJNE003502301",
+          "paragraph" : "§ 5",
+          "title" : "Auflösend bedingter Erwerb"
+        },
+        {
+          "documentIdentifier" : "BJNR010350934BJNE003602301",
+          "paragraph" : "§ 6",
+          "title" : "Aufschiebend bedingte Lasten"
+        },
+        {
+          "documentIdentifier" : "BJNR010350934BJNE003702301",
+          "paragraph" : "§ 7",
+          "title" : "Auflösend bedingte Lasten"
+        },
+        {
+          "documentIdentifier" : "BJNR010350934BJNE003802301",
+          "paragraph" : "§ 8",
+          "title" : "Befristung auf einen unbestimmten Zeitpunkt"
+        },
+        {
+          "documentIdentifier" : "BJNR010350934BJNE003902301",
+          "paragraph" : "§ 9",
+          "title" : "Bewertungsgrundsatz, gemeiner Wert"
+        },
+        {
+          "documentIdentifier" : "BJNR010350934BJNE004003301",
+          "paragraph" : "§ 10",
+          "title" : "Begriff des Teilwerts"
+        },
+        {
+          "documentIdentifier" : "BJNR010350934BJNE004113119",
+          "paragraph" : "§ 11",
+          "title" : "Wertpapiere und Anteile"
+        },
+        {
+          "documentIdentifier" : "BJNR010350934BJNE004206140",
+          "paragraph" : "§ 12",
+          "title" : "Kapitalforderungen und Schulden"
+        },
+        {
+          "documentIdentifier" : "BJNR010350934BJNE004304301",
+          "paragraph" : "§ 13",
+          "title" : "Kapitalwert von wiederkehrenden Nutzungen und Leistungen"
+        },
+        {
+          "documentIdentifier" : "BJNR010350934BJNE004405140",
+          "paragraph" : "§ 14",
+          "title" : "Lebenslängliche Nutzungen und Leistungen"
+        },
+        {
+          "documentIdentifier" : "BJNR010350934BJNE004503301",
+          "paragraph" : "§ 15",
+          "title" : "Jahreswert von Nutzungen und Leistungen"
+        },
+        {
+          "documentIdentifier" : "BJNR010350934BJNE004603301",
+          "paragraph" : "§ 16",
+          "title" : "Begrenzung des Jahreswerts von Nutzungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Bewertungsvorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR010350934BJNG000202301",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR010350934BJNE004705301",
+          "paragraph" : "§ 17",
+          "title" : "Geltungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR010350934BJNE004803301",
+          "paragraph" : "§ 18",
+          "title" : "Vermögensarten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR010350934BJNG000302301",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              1
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR010350934BJNG000402301",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR010350934BJNE004907140",
+                  "paragraph" : "§ 19",
+                  "title" : "Feststellung von Einheitswerten"
+                },
+                {
+                  "documentIdentifier" : "BJNR010350934BJNE005003301",
+                  "paragraph" : "§ 20",
+                  "title" : "Ermittlung des Einheitswerts"
+                },
+                {
+                  "documentIdentifier" : "BJNR010350934BJNE005105301",
+                  "paragraph" : "§ 21",
+                  "title" : "Hauptfeststellung"
+                },
+                {
+                  "documentIdentifier" : "BJNR010350934BJNE005207301",
+                  "paragraph" : "§ 22",
+                  "title" : "Fortschreibungen"
+                },
+                {
+                  "documentIdentifier" : "BJNR010350934BJNE005304301",
+                  "paragraph" : "§ 23",
+                  "title" : "Nachfeststellung"
+                },
+                {
+                  "documentIdentifier" : "BJNR010350934BJNE005404301",
+                  "paragraph" : "§ 24",
+                  "title" : "Aufhebung des Einheitswerts"
+                },
+                {
+                  "documentIdentifier" : "BJNR010350934BJNE005502301",
+                  "paragraph" : "§ 24a",
+                  "title" : "Änderung von Feststellungsbescheiden"
+                },
+                {
+                  "documentIdentifier" : "BJNR010350934BJNE021000301",
+                  "paragraph" : "§ 25",
+                  "title" : "Nachholung einer Feststellung"
+                },
+                {
+                  "documentIdentifier" : "BJNR010350934BJNE005707118",
+                  "paragraph" : "§ 26",
+                  "title" : "Umfang der wirtschaftlichen Einheit bei Ehegatten oder Lebenspartnern"
+                },
+                {
+                  "documentIdentifier" : "BJNR010350934BJNE005803301",
+                  "paragraph" : "§ 27",
+                  "title" : "Wertverhältnisse bei Fortschreibungen und Nachfeststellungen"
+                },
+                {
+                  "documentIdentifier" : "BJNR010350934BJNE005906301",
+                  "paragraph" : "§ 28",
+                  "title" : "Erklärungspflicht"
+                },
+                {
+                  "documentIdentifier" : "BJNR010350934BJNE006008123",
+                  "paragraph" : "§ 29",
+                  "title" : "Auskünfte, Erhebungen und Mitteilungen"
+                },
+                {
+                  "documentIdentifier" : "BJNR010350934BJNE006106301",
+                  "paragraph" : "§ 30",
+                  "title" : "Abrundung"
+                },
+                {
+                  "documentIdentifier" : "BJNR010350934BJNE006202301",
+                  "paragraph" : "§ 31",
+                  "title" : "Bewertung von ausländischem Sachvermögen"
+                },
+                {
+                  "documentIdentifier" : "BJNR010350934BJNE006304301",
+                  "paragraph" : "§ 32",
+                  "title" : "Bewertung von inländischem Sachvermögen"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  1,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Allgemeines"
+            },
+            {
+              "documentIdentifier" : "BJNR010350934BJNG000502301",
+              "laws" : [
+
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  1,
+                  2
+                ]
+              },
+              "subsections" : [
+                {
+                  "documentIdentifier" : "BJNR010350934BJNG000602301",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE006402301",
+                      "paragraph" : "§ 33",
+                      "title" : "Begriff des land- und forstwirtschaftlichen Vermögens"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE006502301",
+                      "paragraph" : "§ 34",
+                      "title" : "Betrieb der Land- und Forstwirtschaft"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE006602301",
+                      "paragraph" : "§ 35",
+                      "title" : "Bewertungsstichtag"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE006702301",
+                      "paragraph" : "§ 36",
+                      "title" : "Bewertungsgrundsätze"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE006802301",
+                      "paragraph" : "§ 37",
+                      "title" : "Ermittlung des Ertragswerts"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE006902301",
+                      "paragraph" : "§ 38",
+                      "title" : "Vergleichszahl, Ertragsbedingungen"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE007002301",
+                      "paragraph" : "§ 39",
+                      "title" : "Bewertungsstützpunkte"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE007103301",
+                      "paragraph" : "§ 40",
+                      "title" : "Ermittlung des Vergleichswerts"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE007205301",
+                      "paragraph" : "§ 41",
+                      "title" : "Abschläge und Zuschläge"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE007302301",
+                      "paragraph" : "§ 42",
+                      "title" : "Nebenbetriebe"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE007402301",
+                      "paragraph" : "§ 43",
+                      "title" : "Abbauland"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE007503301",
+                      "paragraph" : "§ 44",
+                      "title" : "Geringstland"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE007602301",
+                      "paragraph" : "§ 45",
+                      "title" : "Unland"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE007702301",
+                      "paragraph" : "§ 46",
+                      "title" : "Wirtschaftswert"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE007803301",
+                      "paragraph" : "§ 47",
+                      "title" : "Wohnungswert"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE007902301",
+                      "paragraph" : "§ 48",
+                      "title" : "Zusammensetzung des Einheitswerts"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE008003140",
+                      "paragraph" : "§ 48a",
+                      "title" : "Einheitswert bestimmter intensiv genutzter Flächen"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE008103301",
+                      "paragraph" : "§ 49",
+                      "title" : "(weggefallen)"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      2,
+                      1,
+                      2,
+                      1
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Allgemeines"
+                },
+                {
+                  "documentIdentifier" : "BJNR010350934BJNG000702301",
+                  "laws" : [
+
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      2,
+                      1,
+                      2,
+                      2
+                    ]
+                  },
+                  "subsections" : [
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNG000802301",
+                      "laws" : [
+                        {
+                          "documentIdentifier" : "BJNR010350934BJNE008202301",
+                          "paragraph" : "§ 50",
+                          "title" : "Ertragsbedingungen"
+                        },
+                        {
+                          "documentIdentifier" : "BJNR010350934BJNE008304301",
+                          "paragraph" : "§ 51",
+                          "title" : "Tierbestände"
+                        },
+                        {
+                          "documentIdentifier" : "BJNR010350934BJNE008406140",
+                          "paragraph" : "§ 51a",
+                          "title" : "Gemeinschaftliche Tierhaltung"
+                        },
+                        {
+                          "documentIdentifier" : "BJNR010350934BJNE008502301",
+                          "paragraph" : "§ 52",
+                          "title" : "Sonderkulturen"
+                        }
+                      ],
+                      "sectionNumber" : {
+                        "numbers" : [
+                          2,
+                          1,
+                          2,
+                          2,
+                          1
+                        ]
+                      },
+                      "subsections" : [
+
+                      ],
+                      "title" : "Landwirtschaftliche Nutzung"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNG000902301",
+                      "laws" : [
+                        {
+                          "documentIdentifier" : "BJNR010350934BJNE008602301",
+                          "paragraph" : "§ 53",
+                          "title" : "Umlaufende Betriebsmittel"
+                        },
+                        {
+                          "documentIdentifier" : "BJNR010350934BJNE008702301",
+                          "paragraph" : "§ 54",
+                          "title" : "Bewertungsstichtag"
+                        },
+                        {
+                          "documentIdentifier" : "BJNR010350934BJNE008803301",
+                          "paragraph" : "§ 55",
+                          "title" : "Ermittlung des Vergleichswerts"
+                        }
+                      ],
+                      "sectionNumber" : {
+                        "numbers" : [
+                          2,
+                          1,
+                          2,
+                          2,
+                          2
+                        ]
+                      },
+                      "subsections" : [
+
+                      ],
+                      "title" : "Forstwirtschaftliche Nutzung"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNG001002301",
+                      "laws" : [
+                        {
+                          "documentIdentifier" : "BJNR010350934BJNE008903301",
+                          "paragraph" : "§ 56",
+                          "title" : "Umlaufende Betriebsmittel"
+                        },
+                        {
+                          "documentIdentifier" : "BJNR010350934BJNE009002301",
+                          "paragraph" : "§ 57",
+                          "title" : "Bewertungsstützpunkte"
+                        },
+                        {
+                          "documentIdentifier" : "BJNR010350934BJNE009102301",
+                          "paragraph" : "§ 58",
+                          "title" : "Innere Verkehrslage"
+                        }
+                      ],
+                      "sectionNumber" : {
+                        "numbers" : [
+                          2,
+                          1,
+                          2,
+                          2,
+                          3
+                        ]
+                      },
+                      "subsections" : [
+
+                      ],
+                      "title" : "Weinbauliche Nutzung"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNG001102301",
+                      "laws" : [
+                        {
+                          "documentIdentifier" : "BJNR010350934BJNE009202301",
+                          "paragraph" : "§ 59",
+                          "title" : "Bewertungsstichtag"
+                        },
+                        {
+                          "documentIdentifier" : "BJNR010350934BJNE009302301",
+                          "paragraph" : "§ 60",
+                          "title" : "Ertragsbedingungen"
+                        },
+                        {
+                          "documentIdentifier" : "BJNR010350934BJNE009402301",
+                          "paragraph" : "§ 61",
+                          "title" : "Anwendung des vergleichenden Verfahrens"
+                        }
+                      ],
+                      "sectionNumber" : {
+                        "numbers" : [
+                          2,
+                          1,
+                          2,
+                          2,
+                          4
+                        ]
+                      },
+                      "subsections" : [
+
+                      ],
+                      "title" : "Gärtnerische Nutzung"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNG001202301",
+                      "laws" : [
+                        {
+                          "documentIdentifier" : "BJNR010350934BJNE009502301",
+                          "paragraph" : "§ 62",
+                          "title" : "Arten und Bewertung der sonstigen land- und\nforstwirtschaftlichen Nutzung"
+                        }
+                      ],
+                      "sectionNumber" : {
+                        "numbers" : [
+                          2,
+                          1,
+                          2,
+                          2,
+                          5
+                        ]
+                      },
+                      "subsections" : [
+
+                      ],
+                      "title" : "Sonstige land- und forstwirtschaftliche Nutzung"
+                    }
+                  ],
+                  "title" : "Besondere Vorschriften"
+                },
+                {
+                  "documentIdentifier" : "BJNR010350934BJNG001302301",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE009604301",
+                      "paragraph" : "§ 63",
+                      "title" : "Bewertungsbeirat"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE009707377",
+                      "paragraph" : "§ 64",
+                      "title" : "Mitglieder"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE009803301",
+                      "paragraph" : "§ 65",
+                      "title" : "Aufgaben"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE009903301",
+                      "paragraph" : "§ 66",
+                      "title" : "Geschäftsführung"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE010002301",
+                      "paragraph" : "§ 67",
+                      "title" : "Gutachterausschuß"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      2,
+                      1,
+                      2,
+                      3
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Bewertungsbeirat, Gutachterausschuß"
+                }
+              ],
+              "title" : "Land- und forstwirtschaftliches Vermögen"
+            },
+            {
+              "documentIdentifier" : "BJNR010350934BJNG001402301",
+              "laws" : [
+
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  1,
+                  3
+                ]
+              },
+              "subsections" : [
+                {
+                  "documentIdentifier" : "BJNR010350934BJNG001502301",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE010103301",
+                      "paragraph" : "§ 68",
+                      "title" : "Begriff des Grundvermögens"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE010202301",
+                      "paragraph" : "§ 69",
+                      "title" : "Abgrenzung des Grundvermögens vom land- und\nforstwirtschaftlichen Vermögen"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE010302301",
+                      "paragraph" : "§ 70",
+                      "title" : "Grundstück"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE010403301",
+                      "paragraph" : "§ 71",
+                      "title" : "Gebäude und Gebäudeteile für den Zivilschutz"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      2,
+                      1,
+                      3,
+                      1
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Allgemeines"
+                },
+                {
+                  "documentIdentifier" : "BJNR010350934BJNG001602301",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE010502301",
+                      "paragraph" : "§ 72",
+                      "title" : "Begriff"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE010602301",
+                      "paragraph" : "§ 73",
+                      "title" : "Baureife Grundstücke"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      2,
+                      1,
+                      3,
+                      2
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Unbebaute Grundstücke"
+                },
+                {
+                  "documentIdentifier" : "BJNR010350934BJNG001702301",
+                  "laws" : [
+
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      2,
+                      1,
+                      3,
+                      3
+                    ]
+                  },
+                  "subsections" : [
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNG001802301",
+                      "laws" : [
+                        {
+                          "documentIdentifier" : "BJNR010350934BJNE010702301",
+                          "paragraph" : "§ 74",
+                          "title" : "Begriff"
+                        },
+                        {
+                          "documentIdentifier" : "BJNR010350934BJNE010803301",
+                          "paragraph" : "§ 75",
+                          "title" : "Grundstücksarten"
+                        },
+                        {
+                          "documentIdentifier" : "BJNR010350934BJNE010902301",
+                          "paragraph" : "§ 76",
+                          "title" : "Bewertung"
+                        },
+                        {
+                          "documentIdentifier" : "BJNR010350934BJNE011002301",
+                          "paragraph" : "§ 77",
+                          "title" : "Mindestwert"
+                        }
+                      ],
+                      "sectionNumber" : {
+                        "numbers" : [
+                          2,
+                          1,
+                          3,
+                          3,
+                          1
+                        ]
+                      },
+                      "subsections" : [
+
+                      ],
+                      "title" : "Begriff und Bewertung"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNG001902301",
+                      "laws" : [
+
+                      ],
+                      "sectionNumber" : {
+                        "numbers" : [
+                          2,
+                          1,
+                          3,
+                          3,
+                          2
+                        ]
+                      },
+                      "subsections" : [
+                        {
+                          "documentIdentifier" : "BJNR010350934BJNG002002301",
+                          "laws" : [
+                            {
+                              "documentIdentifier" : "BJNR010350934BJNE011102301",
+                              "paragraph" : "§ 78",
+                              "title" : "Grundstückswert"
+                            },
+                            {
+                              "documentIdentifier" : "BJNR010350934BJNE011204301",
+                              "paragraph" : "§ 79",
+                              "title" : "Jahresrohmiete"
+                            },
+                            {
+                              "documentIdentifier" : "BJNR010350934BJNE011302301",
+                              "paragraph" : "§ 80",
+                              "title" : "Vervielfältiger"
+                            },
+                            {
+                              "documentIdentifier" : "BJNR010350934BJNE011404301",
+                              "paragraph" : "§ 81",
+                              "title" : "Außergewöhnliche Grundsteuerbelastung"
+                            },
+                            {
+                              "documentIdentifier" : "BJNR010350934BJNE011503301",
+                              "paragraph" : "§ 82",
+                              "title" : "Ermäßigung und Erhöhung"
+                            }
+                          ],
+                          "sectionNumber" : {
+                            "numbers" : [
+                              2,
+                              1,
+                              3,
+                              3,
+                              2,
+                              1
+                            ]
+                          },
+                          "subsections" : [
+
+                          ],
+                          "title" : "Ertragswertverfahren"
+                        },
+                        {
+                          "documentIdentifier" : "BJNR010350934BJNG002102301",
+                          "laws" : [
+                            {
+                              "documentIdentifier" : "BJNR010350934BJNE011602301",
+                              "paragraph" : "§ 83",
+                              "title" : "Grundstückswert"
+                            },
+                            {
+                              "documentIdentifier" : "BJNR010350934BJNE011702301",
+                              "paragraph" : "§ 84",
+                              "title" : "Bodenwert"
+                            },
+                            {
+                              "documentIdentifier" : "BJNR010350934BJNE011802301",
+                              "paragraph" : "§ 85",
+                              "title" : "Gebäudewert"
+                            },
+                            {
+                              "documentIdentifier" : "BJNR010350934BJNE011903301",
+                              "paragraph" : "§ 86",
+                              "title" : "Wertminderung wegen Alters"
+                            },
+                            {
+                              "documentIdentifier" : "BJNR010350934BJNE012002301",
+                              "paragraph" : "§ 87",
+                              "title" : "Wertminderung wegen baulicher Mängel und Schäden"
+                            },
+                            {
+                              "documentIdentifier" : "BJNR010350934BJNE012102301",
+                              "paragraph" : "§ 88",
+                              "title" : "Ermäßigung und Erhöhung"
+                            },
+                            {
+                              "documentIdentifier" : "BJNR010350934BJNE012202301",
+                              "paragraph" : "§ 89",
+                              "title" : "Wert der Außenanlagen"
+                            },
+                            {
+                              "documentIdentifier" : "BJNR010350934BJNE012303301",
+                              "paragraph" : "§ 90",
+                              "title" : "Angleichung an den gemeinen Wert"
+                            }
+                          ],
+                          "sectionNumber" : {
+                            "numbers" : [
+                              2,
+                              1,
+                              3,
+                              3,
+                              2,
+                              2
+                            ]
+                          },
+                          "subsections" : [
+
+                          ],
+                          "title" : "Sachwertverfahren"
+                        }
+                      ],
+                      "title" : "Verfahren"
+                    }
+                  ],
+                  "title" : "Bebaute Grundstücke"
+                },
+                {
+                  "documentIdentifier" : "BJNR010350934BJNG002202301",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE012404301",
+                      "paragraph" : "§ 91",
+                      "title" : "Grundstücke im Zustand der Bebauung"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE012504301",
+                      "paragraph" : "§ 92",
+                      "title" : "Erbbaurecht"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE012603301",
+                      "paragraph" : "§ 93",
+                      "title" : "Wohnungseigentum und Teileigentum"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE012702301",
+                      "paragraph" : "§ 94",
+                      "title" : "Gebäude auf fremdem Grund und Boden"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      2,
+                      1,
+                      3,
+                      4
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Sondervorschriften"
+                }
+              ],
+              "title" : "Grundvermögen"
+            },
+            {
+              "documentIdentifier" : "BJNR010350934BJNG002302301",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR010350934BJNE012807140",
+                  "paragraph" : "§ 95",
+                  "title" : "Begriff des Betriebsvermögens"
+                },
+                {
+                  "documentIdentifier" : "BJNR010350934BJNE012903301",
+                  "paragraph" : "§ 96",
+                  "title" : "Freie Berufe"
+                },
+                {
+                  "documentIdentifier" : "BJNR010350934BJNE013016123",
+                  "paragraph" : "§ 97",
+                  "title" : "Betriebsvermögen von Körperschaften, Personenvereinigungen und Vermögensmassen"
+                },
+                {
+                  "documentIdentifier" : "BJNR010350934BJNE013104301",
+                  "paragraph" : "§ 98",
+                  "title" : "(weggefallen)"
+                },
+                {
+                  "documentIdentifier" : "BJNR010350934BJNE013206140",
+                  "paragraph" : "§ 98a",
+                  "title" : "(weggefallen)"
+                },
+                {
+                  "documentIdentifier" : "BJNR010350934BJNE013304140",
+                  "paragraph" : "§ 99",
+                  "title" : "Betriebsgrundstücke"
+                },
+                {
+                  "documentIdentifier" : "BJNR010350934BJNE013508301",
+                  "paragraph" : "(XXXX) §§ 100 bis 102",
+                  "title" : "(weggefallen)"
+                },
+                {
+                  "documentIdentifier" : "BJNR010350934BJNE013705301",
+                  "paragraph" : "§ 103",
+                  "title" : "Schulden und sonstige Abzüge"
+                },
+                {
+                  "documentIdentifier" : "BJNR010350934BJNE013910140",
+                  "paragraph" : "§ 104",
+                  "title" : "(weggefallen)"
+                },
+                {
+                  "documentIdentifier" : "BJNR010350934BJNE014205301",
+                  "paragraph" : "(XXXX) §§ 105 bis 108",
+                  "title" : "(weggefallen)"
+                },
+                {
+                  "documentIdentifier" : "BJNR010350934BJNE014508140",
+                  "paragraph" : "§ 109",
+                  "title" : "Bewertung"
+                },
+                {
+                  "documentIdentifier" : "BJNR010350934BJNE021200301",
+                  "paragraph" : "§ 109a",
+                  "title" : "(weggefallen)"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  1,
+                  4
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Betriebsvermögen"
+            }
+          ],
+          "title" : "Einheitsbewertung"
+        },
+        {
+          "documentIdentifier" : "BJNR010350934BJNG002403301",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR010350934BJNE014713301",
+              "paragraph" : "(XXXX) §§ 110 bis 120",
+              "title" : "(weggefallen)"
+            },
+            {
+              "documentIdentifier" : "BJNR010350934BJNE015908301",
+              "paragraph" : "§ 121",
+              "title" : "Inlandsvermögen"
+            },
+            {
+              "documentIdentifier" : "BJNR010350934BJNE016004301",
+              "paragraph" : "§ 121a",
+              "title" : "Sondervorschrift für die Anwendung der Einheitswerte 1964"
+            },
+            {
+              "documentIdentifier" : "BJNR010350934BJNE016205301",
+              "paragraph" : "§ 122",
+              "title" : "Besondere Vorschriften für Berlin (West)"
+            },
+            {
+              "documentIdentifier" : "BJNR010350934BJNE016305301",
+              "paragraph" : "§ 123",
+              "title" : "Ermächtigungen"
+            },
+            {
+              "documentIdentifier" : "BJNR010350934BJNE016419301",
+              "paragraph" : "§ 124",
+              "title" : "(weggefallen)"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Sondervorschriften und Ermächtigungen"
+        },
+        {
+          "documentIdentifier" : "BJNR010350934BJNG002902301",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              3
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR010350934BJNG003800301",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR010350934BJNE017904301",
+                  "paragraph" : "§ 125",
+                  "title" : "Land- und forstwirtschaftliches Vermögen"
+                },
+                {
+                  "documentIdentifier" : "BJNR010350934BJNE018002301",
+                  "paragraph" : "§ 126",
+                  "title" : "Geltung des Ersatzwirtschaftswerts"
+                },
+                {
+                  "documentIdentifier" : "BJNR010350934BJNE018101301",
+                  "paragraph" : "§ 127",
+                  "title" : "Erklärung zum Ersatzwirtschaftswert"
+                },
+                {
+                  "documentIdentifier" : "BJNR010350934BJNE018202301",
+                  "paragraph" : "§ 128",
+                  "title" : "Auskünfte, Erhebungen, Mitteilungen, Abrundung"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  3,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Land- und forstwirtschaftliches Vermögen"
+            },
+            {
+              "documentIdentifier" : "BJNR010350934BJNG003900301",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR010350934BJNE018302301",
+                  "paragraph" : "§ 129",
+                  "title" : "Grundvermögen"
+                },
+                {
+                  "documentIdentifier" : "BJNR010350934BJNE019301301",
+                  "paragraph" : "§ 129a",
+                  "title" : "Abschläge bei Bewertung mit einem Vielfachen der Jahresrohmiete"
+                },
+                {
+                  "documentIdentifier" : "BJNR010350934BJNE018401301",
+                  "paragraph" : "§ 130",
+                  "title" : "Nachkriegsbauten"
+                },
+                {
+                  "documentIdentifier" : "BJNR010350934BJNE018502301",
+                  "paragraph" : "§ 131",
+                  "title" : "Wohnungseigentum und Teileigentum, Wohnungserbbaurecht\nund Teilerbbaurecht"
+                },
+                {
+                  "documentIdentifier" : "BJNR010350934BJNE018601301",
+                  "paragraph" : "§ 132",
+                  "title" : "Fortschreibung und Nachfeststellung der\nEinheitswerte 1935"
+                },
+                {
+                  "documentIdentifier" : "BJNR010350934BJNE018703301",
+                  "paragraph" : "§ 133",
+                  "title" : "Sondervorschrift für die Anwendung der\nEinheitswerte 1935"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  3,
+                  2
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Grundvermögen"
+            },
+            {
+              "documentIdentifier" : "BJNR010350934BJNG004000301",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR010350934BJNE021101301",
+                  "paragraph" : "(XXXX) §§ 134 bis 136",
+                  "title" : "(weggefallen)"
+                },
+                {
+                  "documentIdentifier" : "BJNR010350934BJNE017900301",
+                  "paragraph" : "§ 137",
+                  "title" : "Bilanzposten nach dem D-Markbilanzgesetz"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  3,
+                  3
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Betriebsvermögen"
+            }
+          ],
+          "title" : "Vorschriften für die Bewertung von Vermögen in dem in Artikel 3 des Einigungsvertrages genannten Gebiet"
+        },
+        {
+          "documentIdentifier" : "BJNR010350934BJNG003001140",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              4
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR010350934BJNG003100301",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR010350934BJNE019402301",
+                  "paragraph" : "§ 138",
+                  "title" : "Feststellung von Grundbesitzwerten"
+                },
+                {
+                  "documentIdentifier" : "BJNR010350934BJNE019501301",
+                  "paragraph" : "§ 139",
+                  "title" : "Abrundung"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  4,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Allgemeines"
+            },
+            {
+              "documentIdentifier" : "BJNR010350934BJNG003200301",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR010350934BJNE019600301",
+                  "paragraph" : "§ 140",
+                  "title" : "Wirtschaftliche Einheit und Umfang des land- und\nforstwirtschaftlichen Vermögens"
+                },
+                {
+                  "documentIdentifier" : "BJNR010350934BJNE019700301",
+                  "paragraph" : "§ 141",
+                  "title" : "Umfang des Betriebs der Land- und Forstwirtschaft"
+                },
+                {
+                  "documentIdentifier" : "BJNR010350934BJNE019801301",
+                  "paragraph" : "§ 142",
+                  "title" : "Betriebswert"
+                },
+                {
+                  "documentIdentifier" : "BJNR010350934BJNE019901301",
+                  "paragraph" : "§ 143",
+                  "title" : "Wert der Betriebswohnungen und des Wohnteils"
+                },
+                {
+                  "documentIdentifier" : "BJNR010350934BJNE020000301",
+                  "paragraph" : "§ 144",
+                  "title" : "Zusammensetzung des land- und forstwirtschaftlichen Grundbesitzwerts"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  4,
+                  2
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Land- und forstwirtschaftliches Vermögen"
+            },
+            {
+              "documentIdentifier" : "BJNR010350934BJNG003300301",
+              "laws" : [
+
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  4,
+                  3
+                ]
+              },
+              "subsections" : [
+                {
+                  "documentIdentifier" : "BJNR010350934BJNG003400301",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE020102140",
+                      "paragraph" : "§ 145",
+                      "title" : "Unbebaute Grundstücke"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      2,
+                      4,
+                      3,
+                      1
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Unbebaute Grundstücke"
+                },
+                {
+                  "documentIdentifier" : "BJNR010350934BJNG003500301",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE020201301",
+                      "paragraph" : "§ 146",
+                      "title" : "Bebaute Grundstücke"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE020301301",
+                      "paragraph" : "§ 147",
+                      "title" : "Sonderfälle"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE020401301",
+                      "paragraph" : "§ 148",
+                      "title" : "Erbbaurecht"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE021300301",
+                      "paragraph" : "§ 148a",
+                      "title" : "Gebäude auf fremdem Grund und Boden"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE020501301",
+                      "paragraph" : "§ 149",
+                      "title" : "Grundstücke im Zustand der Bebauung"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE020600301",
+                      "paragraph" : "§ 150",
+                      "title" : "Gebäude und Gebäudeteile für den Zivilschutz"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      2,
+                      4,
+                      3,
+                      2
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Bebaute Grundstücke"
+                }
+              ],
+              "title" : "Grundvermögen"
+            }
+          ],
+          "title" : "Vorschriften für die Bewertung von Grundbesitz für die Grunderwerbsteuer ab 1. Januar 1997"
+        },
+        {
+          "documentIdentifier" : "BJNR010350934BJNG004100301",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR010350934BJNE021403140",
+              "paragraph" : "§ 151",
+              "title" : "Gesonderte Feststellungen"
+            },
+            {
+              "documentIdentifier" : "BJNR010350934BJNE021500301",
+              "paragraph" : "§ 152",
+              "title" : "Örtliche Zuständigkeit"
+            },
+            {
+              "documentIdentifier" : "BJNR010350934BJNE021602140",
+              "paragraph" : "§ 153",
+              "title" : "Erklärungspflicht, Verfahrensvorschriften für die gesonderte Feststellung, Feststellungsfrist"
+            },
+            {
+              "documentIdentifier" : "BJNR010350934BJNE021703116",
+              "paragraph" : "§ 154",
+              "title" : "Beteiligte am Feststellungsverfahren"
+            },
+            {
+              "documentIdentifier" : "BJNR010350934BJNE021801140",
+              "paragraph" : "§ 155",
+              "title" : "Rechtsbehelfsbefugnis"
+            },
+            {
+              "documentIdentifier" : "BJNR010350934BJNE021900301",
+              "paragraph" : "§ 156",
+              "title" : "Außenprüfung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              5
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Gesonderte Feststellungen"
+        },
+        {
+          "documentIdentifier" : "BJNR010350934BJNG004200140",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              6
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR010350934BJNG004300140",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR010350934BJNE022000140",
+                  "paragraph" : "§ 157",
+                  "title" : "Feststellung von Grundbesitzwerten, von Anteilswerten und von Betriebsvermögenswerten"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  6,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Allgemeines"
+            },
+            {
+              "documentIdentifier" : "BJNR010350934BJNG004400140",
+              "laws" : [
+
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  6,
+                  2
+                ]
+              },
+              "subsections" : [
+                {
+                  "documentIdentifier" : "BJNR010350934BJNG004500140",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE022100140",
+                      "paragraph" : "§ 158",
+                      "title" : "Begriff des land- und forstwirtschaftlichen Vermögens"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE022200140",
+                      "paragraph" : "§ 159",
+                      "title" : "Abgrenzung land- und forstwirtschaftlich genutzter Flächen zum Grundvermögen"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE022300140",
+                      "paragraph" : "§ 160",
+                      "title" : "Betrieb der Land- und Forstwirtschaft"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE022400140",
+                      "paragraph" : "§ 161",
+                      "title" : "Bewertungsstichtag"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE022500140",
+                      "paragraph" : "§ 162",
+                      "title" : "Bewertung des Wirtschaftsteils"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE022600140",
+                      "paragraph" : "§ 163",
+                      "title" : "Ermittlung der Wirtschaftswerte"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE022700140",
+                      "paragraph" : "§ 164",
+                      "title" : "Mindestwert"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE022800140",
+                      "paragraph" : "§ 165",
+                      "title" : "Bewertung des Wirtschaftsteils mit dem Fortführungswert"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE022901140",
+                      "paragraph" : "§ 166",
+                      "title" : "Bewertung des Wirtschaftsteils mit dem Liquidationswert"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE023000140",
+                      "paragraph" : "§ 167",
+                      "title" : "Bewertung der Betriebswohnungen und des Wohnteils"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE023100140",
+                      "paragraph" : "§ 168",
+                      "title" : "Grundbesitzwert des Betriebs der Land- und Forstwirtschaft"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      2,
+                      6,
+                      2,
+                      1
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Allgemeines"
+                },
+                {
+                  "documentIdentifier" : "BJNR010350934BJNG004600140",
+                  "laws" : [
+
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      2,
+                      6,
+                      2,
+                      2
+                    ]
+                  },
+                  "subsections" : [
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNG004700140",
+                      "laws" : [
+                        {
+                          "documentIdentifier" : "BJNR010350934BJNE023200140",
+                          "paragraph" : "§ 169",
+                          "title" : "Tierbestände"
+                        },
+                        {
+                          "documentIdentifier" : "BJNR010350934BJNE023300140",
+                          "paragraph" : "§ 170",
+                          "title" : "Umlaufende Betriebsmittel"
+                        }
+                      ],
+                      "sectionNumber" : {
+                        "numbers" : [
+                          2,
+                          6,
+                          2,
+                          2,
+                          1
+                        ]
+                      },
+                      "subsections" : [
+
+                      ],
+                      "title" : "Landwirtschaftliche Nutzung"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNG004800140",
+                      "laws" : [
+                        {
+                          "documentIdentifier" : "BJNR010350934BJNE023400140",
+                          "paragraph" : "§ 171",
+                          "title" : "Umlaufende Betriebsmittel"
+                        },
+                        {
+                          "documentIdentifier" : "BJNR010350934BJNE023500140",
+                          "paragraph" : "§ 172",
+                          "title" : "Abweichender Bewertungsstichtag"
+                        }
+                      ],
+                      "sectionNumber" : {
+                        "numbers" : [
+                          2,
+                          6,
+                          2,
+                          2,
+                          2
+                        ]
+                      },
+                      "subsections" : [
+
+                      ],
+                      "title" : "Forstwirtschaftliche Nutzung"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNG004900140",
+                      "laws" : [
+                        {
+                          "documentIdentifier" : "BJNR010350934BJNE023600140",
+                          "paragraph" : "§ 173",
+                          "title" : "Umlaufende Betriebsmittel"
+                        }
+                      ],
+                      "sectionNumber" : {
+                        "numbers" : [
+                          2,
+                          6,
+                          2,
+                          2,
+                          3
+                        ]
+                      },
+                      "subsections" : [
+
+                      ],
+                      "title" : "Weinbauliche Nutzung"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNG005000140",
+                      "laws" : [
+                        {
+                          "documentIdentifier" : "BJNR010350934BJNE023700140",
+                          "paragraph" : "§ 174",
+                          "title" : "Abweichende Bewertungsverhältnisse"
+                        }
+                      ],
+                      "sectionNumber" : {
+                        "numbers" : [
+                          2,
+                          6,
+                          2,
+                          2,
+                          4
+                        ]
+                      },
+                      "subsections" : [
+
+                      ],
+                      "title" : "Gärtnerische Nutzung"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNG005100140",
+                      "laws" : [
+                        {
+                          "documentIdentifier" : "BJNR010350934BJNE023800140",
+                          "paragraph" : "§ 175",
+                          "title" : "Übrige land- und forstwirtschaftliche Nutzungen"
+                        }
+                      ],
+                      "sectionNumber" : {
+                        "numbers" : [
+                          2,
+                          6,
+                          2,
+                          2,
+                          5
+                        ]
+                      },
+                      "subsections" : [
+
+                      ],
+                      "title" : "Übrige land- und forstwirtschaftliche Nutzungen"
+                    }
+                  ],
+                  "title" : "Besonderer Teil"
+                }
+              ],
+              "title" : "Land- und forstwirtschaftliches Vermögen"
+            },
+            {
+              "documentIdentifier" : "BJNR010350934BJNG005200140",
+              "laws" : [
+
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  6,
+                  3
+                ]
+              },
+              "subsections" : [
+                {
+                  "documentIdentifier" : "BJNR010350934BJNG005300140",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE023900140",
+                      "paragraph" : "§ 176",
+                      "title" : "Grundvermögen"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE024000140",
+                      "paragraph" : "§ 177",
+                      "title" : "Bewertung"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      2,
+                      6,
+                      3,
+                      1
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Allgemeines"
+                },
+                {
+                  "documentIdentifier" : "BJNR010350934BJNG005400140",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE024100140",
+                      "paragraph" : "§ 178",
+                      "title" : "Begriff der unbebauten Grundstücke"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE024201140",
+                      "paragraph" : "§ 179",
+                      "title" : "Bewertung der unbebauten Grundstücke"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      2,
+                      6,
+                      3,
+                      2
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Unbebaute Grundstücke"
+                },
+                {
+                  "documentIdentifier" : "BJNR010350934BJNG005500140",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE024300140",
+                      "paragraph" : "§ 180",
+                      "title" : "Begriff der bebauten Grundstücke"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE024400140",
+                      "paragraph" : "§ 181",
+                      "title" : "Grundstücksarten"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE024500140",
+                      "paragraph" : "§ 182",
+                      "title" : "Bewertung der bebauten Grundstücke"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE024600140",
+                      "paragraph" : "§ 183",
+                      "title" : "Bewertung im Vergleichswertverfahren"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE024700140",
+                      "paragraph" : "§ 184",
+                      "title" : "Bewertung im Ertragswertverfahren"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE024800140",
+                      "paragraph" : "§ 185",
+                      "title" : "Ermittlung des Gebäudeertragswerts"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE024900140",
+                      "paragraph" : "§ 186",
+                      "title" : "Rohertrag des Grundstücks"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE025000140",
+                      "paragraph" : "§ 187",
+                      "title" : "Bewirtschaftungskosten"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE025100140",
+                      "paragraph" : "§ 188",
+                      "title" : "Liegenschaftszinssatz"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE025200140",
+                      "paragraph" : "§ 189",
+                      "title" : "Bewertung im Sachwertverfahren"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE025301116",
+                      "paragraph" : "§ 190",
+                      "title" : "Ermittlung des Gebäudesachwerts"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE025400140",
+                      "paragraph" : "§ 191",
+                      "title" : "Wertzahlen"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      2,
+                      6,
+                      3,
+                      3
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Bebaute Grundstücke"
+                },
+                {
+                  "documentIdentifier" : "BJNR010350934BJNG005600140",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE025501140",
+                      "paragraph" : "§ 192",
+                      "title" : "Bewertung in Erbbaurechtsfällen"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE025600140",
+                      "paragraph" : "§ 193",
+                      "title" : "Bewertung des Erbbaurechts"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE025700140",
+                      "paragraph" : "§ 194",
+                      "title" : "Bewertung des Erbbaugrundstücks"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE025801116",
+                      "paragraph" : "§ 195",
+                      "title" : "Gebäude auf fremdem Grund und Boden"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE025900140",
+                      "paragraph" : "§ 196",
+                      "title" : "Grundstücke im Zustand der Bebauung"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE026000140",
+                      "paragraph" : "§ 197",
+                      "title" : "Gebäude und Gebäudeteile für den Zivilschutz"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      2,
+                      6,
+                      3,
+                      4
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Sonderfälle"
+                },
+                {
+                  "documentIdentifier" : "BJNR010350934BJNG005700140",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE026100140",
+                      "paragraph" : "§ 198",
+                      "title" : "Nachweis des niedrigeren gemeinen Werts"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      2,
+                      6,
+                      3,
+                      5
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Nachweis des niedrigeren gemeinen Werts"
+                }
+              ],
+              "title" : "Grundvermögen"
+            },
+            {
+              "documentIdentifier" : "BJNR010350934BJNG005800140",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR010350934BJNE026200140",
+                  "paragraph" : "§ 199",
+                  "title" : "Anwendung des vereinfachten Ertragswertverfahrens"
+                },
+                {
+                  "documentIdentifier" : "BJNR010350934BJNE026300140",
+                  "paragraph" : "§ 200",
+                  "title" : "Vereinfachtes Ertragswertverfahren"
+                },
+                {
+                  "documentIdentifier" : "BJNR010350934BJNE026400140",
+                  "paragraph" : "§ 201",
+                  "title" : "Ermittlung des Jahresertrags"
+                },
+                {
+                  "documentIdentifier" : "BJNR010350934BJNE026500140",
+                  "paragraph" : "§ 202",
+                  "title" : "Betriebsergebnis"
+                },
+                {
+                  "documentIdentifier" : "BJNR010350934BJNE026601377",
+                  "paragraph" : "§ 203",
+                  "title" : "Kapitalisierungsfaktor"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  6,
+                  4
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Nicht notierte Anteile an Kapitalgesellschaften und Betriebsvermögen"
+            }
+          ],
+          "title" : "Vorschriften für die Bewertung von Grundbesitz, von nicht notierten Anteilen an Kapitalgesellschaften und von Betriebsvermögen für die Erbschaftsteuer ab 1. Januar 2009"
+        },
+        {
+          "documentIdentifier" : "BJNR010350934BJNG005900123",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              7
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR010350934BJNG006000123",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR010350934BJNE028200123",
+                  "paragraph" : "§ 218",
+                  "title" : "Vermögensarten"
+                },
+                {
+                  "documentIdentifier" : "BJNR010350934BJNE028300123",
+                  "paragraph" : "§ 219",
+                  "title" : "Feststellung von Grundsteuerwerten"
+                },
+                {
+                  "documentIdentifier" : "BJNR010350934BJNE028400123",
+                  "paragraph" : "§ 220",
+                  "title" : "Ermittlung der Grundsteuerwerte"
+                },
+                {
+                  "documentIdentifier" : "BJNR010350934BJNE028500123",
+                  "paragraph" : "§ 221",
+                  "title" : "Hauptfeststellung"
+                },
+                {
+                  "documentIdentifier" : "BJNR010350934BJNE028600123",
+                  "paragraph" : "§ 222",
+                  "title" : "Fortschreibungen"
+                },
+                {
+                  "documentIdentifier" : "BJNR010350934BJNE028700123",
+                  "paragraph" : "§ 223",
+                  "title" : "Nachfeststellung"
+                },
+                {
+                  "documentIdentifier" : "BJNR010350934BJNE028800123",
+                  "paragraph" : "§ 224",
+                  "title" : "Aufhebung des Grundsteuerwerts"
+                },
+                {
+                  "documentIdentifier" : "BJNR010350934BJNE028900123",
+                  "paragraph" : "§ 225",
+                  "title" : "Änderung von Feststellungsbescheiden"
+                },
+                {
+                  "documentIdentifier" : "BJNR010350934BJNE029000123",
+                  "paragraph" : "§ 226",
+                  "title" : "Nachholung einer Feststellung"
+                },
+                {
+                  "documentIdentifier" : "BJNR010350934BJNE029100123",
+                  "paragraph" : "§ 227",
+                  "title" : "Wertverhältnisse bei Fortschreibungen und Nachfeststellungen"
+                },
+                {
+                  "documentIdentifier" : "BJNR010350934BJNE029200123",
+                  "paragraph" : "§ 228",
+                  "title" : "Erklärungs- und Anzeigepflicht"
+                },
+                {
+                  "documentIdentifier" : "BJNR010350934BJNE029300123",
+                  "paragraph" : "§ 229",
+                  "title" : "Auskünfte, Erhebungen und Mitteilungen"
+                },
+                {
+                  "documentIdentifier" : "BJNR010350934BJNE029400123",
+                  "paragraph" : "§ 230",
+                  "title" : "Abrundung"
+                },
+                {
+                  "documentIdentifier" : "BJNR010350934BJNE029500123",
+                  "paragraph" : "§ 231",
+                  "title" : "Abgrenzung von in- und ausländischem Vermögen"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  7,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Allgemeines"
+            },
+            {
+              "documentIdentifier" : "BJNR010350934BJNG006100123",
+              "laws" : [
+
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  7,
+                  2
+                ]
+              },
+              "subsections" : [
+                {
+                  "documentIdentifier" : "BJNR010350934BJNG006200123",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE029600123",
+                      "paragraph" : "§ 232",
+                      "title" : "Begriff des land- und forstwirtschaftlichen Vermögens"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE029700123",
+                      "paragraph" : "§ 233",
+                      "title" : "Abgrenzung des land- und forstwirtschaftlichen Vermögens vom Grundvermögen in Sonderfällen"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE029800123",
+                      "paragraph" : "§ 234",
+                      "title" : "Betrieb der Land- und Forstwirtschaft"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE029900123",
+                      "paragraph" : "§ 235",
+                      "title" : "Bewertungsstichtag"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE030000123",
+                      "paragraph" : "§ 236",
+                      "title" : "Bewertungsgrundsätze"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE030100123",
+                      "paragraph" : "§ 237",
+                      "title" : "Bewertung des Betriebs der Land- und Forstwirtschaft"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE030200123",
+                      "paragraph" : "§ 238",
+                      "title" : "Zuschläge zum Reinertrag"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE030300123",
+                      "paragraph" : "§ 239",
+                      "title" : "Grundsteuerwert des Betriebs der Land- und Forstwirtschaft"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE030400123",
+                      "paragraph" : "§ 240",
+                      "title" : "Kleingartenland und Dauerkleingartenland"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      2,
+                      7,
+                      2,
+                      1
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Allgemeines"
+                },
+                {
+                  "documentIdentifier" : "BJNR010350934BJNG006300123",
+                  "laws" : [
+
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      2,
+                      7,
+                      2,
+                      2
+                    ]
+                  },
+                  "subsections" : [
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNG006400123",
+                      "laws" : [
+                        {
+                          "documentIdentifier" : "BJNR010350934BJNE030500123",
+                          "paragraph" : "§ 241",
+                          "title" : "Tierbestände"
+                        }
+                      ],
+                      "sectionNumber" : {
+                        "numbers" : [
+                          2,
+                          7,
+                          2,
+                          2,
+                          1
+                        ]
+                      },
+                      "subsections" : [
+
+                      ],
+                      "title" : "Landwirtschaftliche Nutzung"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNG006500123",
+                      "laws" : [
+                        {
+                          "documentIdentifier" : "BJNR010350934BJNE030600123",
+                          "paragraph" : "§ 242",
+                          "title" : "Übrige land- und forstwirtschaftliche Nutzungen"
+                        }
+                      ],
+                      "sectionNumber" : {
+                        "numbers" : [
+                          2,
+                          7,
+                          2,
+                          2,
+                          2
+                        ]
+                      },
+                      "subsections" : [
+
+                      ],
+                      "title" : "Übrige land- und forstwirtschaftliche Nutzungen"
+                    }
+                  ],
+                  "title" : "Besondere Vorschriften"
+                }
+              ],
+              "title" : "Land- und forstwirtschaftliches Vermögen"
+            },
+            {
+              "documentIdentifier" : "BJNR010350934BJNG006600123",
+              "laws" : [
+
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  7,
+                  3
+                ]
+              },
+              "subsections" : [
+                {
+                  "documentIdentifier" : "BJNR010350934BJNG006700123",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE030700123",
+                      "paragraph" : "§ 243",
+                      "title" : "Begriff des Grundvermögens"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE030800123",
+                      "paragraph" : "§ 244",
+                      "title" : "Grundstück"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE030900123",
+                      "paragraph" : "§ 245",
+                      "title" : "Gebäude, Gebäudeteile und Anlagen für den Zivilschutz"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      2,
+                      7,
+                      3,
+                      1
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Allgemeines"
+                },
+                {
+                  "documentIdentifier" : "BJNR010350934BJNG006800123",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE031000123",
+                      "paragraph" : "§ 246",
+                      "title" : "Begriff der unbebauten Grundstücke"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE031100123",
+                      "paragraph" : "§ 247",
+                      "title" : "Bewertung der unbebauten Grundstücke"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      2,
+                      7,
+                      3,
+                      2
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Unbebaute Grundstücke"
+                },
+                {
+                  "documentIdentifier" : "BJNR010350934BJNG006900123",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE031200123",
+                      "paragraph" : "§ 248",
+                      "title" : "Begriff der bebauten Grundstücke"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE031300123",
+                      "paragraph" : "§ 249",
+                      "title" : "Grundstücksarten"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE031400123",
+                      "paragraph" : "§ 250",
+                      "title" : "Bewertung der bebauten Grundstücke"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE031500123",
+                      "paragraph" : "§ 251",
+                      "title" : "Mindestwert"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE031600123",
+                      "paragraph" : "§ 252",
+                      "title" : "Bewertung im Ertragswertverfahren"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE031700123",
+                      "paragraph" : "§ 253",
+                      "title" : "Ermittlung des kapitalisierten Reinertrags"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE031800123",
+                      "paragraph" : "§ 254",
+                      "title" : "Rohertrag des Grundstücks"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE031900123",
+                      "paragraph" : "§ 255",
+                      "title" : "Bewirtschaftungskosten"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE032000123",
+                      "paragraph" : "§ 256",
+                      "title" : "Liegenschaftszinssätze"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE032100123",
+                      "paragraph" : "§ 257",
+                      "title" : "Ermittlung des abgezinsten Bodenwerts"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE032200123",
+                      "paragraph" : "§ 258",
+                      "title" : "Bewertung im Sachwertverfahren"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE032300123",
+                      "paragraph" : "§ 259",
+                      "title" : "Ermittlung des Gebäudesachwerts"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE032400123",
+                      "paragraph" : "§ 260",
+                      "title" : "Wertzahlen"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      2,
+                      7,
+                      3,
+                      3
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Bebaute Grundstücke"
+                },
+                {
+                  "documentIdentifier" : "BJNR010350934BJNG007000123",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE032500123",
+                      "paragraph" : "§ 261",
+                      "title" : "Erbbaurecht"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE032600123",
+                      "paragraph" : "§ 262",
+                      "title" : "Gebäude auf fremdem Grund und Boden"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      2,
+                      7,
+                      3,
+                      4
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Sonderfälle"
+                },
+                {
+                  "documentIdentifier" : "BJNR010350934BJNG007100123",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR010350934BJNE032700123",
+                      "paragraph" : "§ 263",
+                      "title" : "Ermächtigungen"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      2,
+                      7,
+                      3,
+                      5
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Ermächtigungen"
+                }
+              ],
+              "title" : "Grundvermögen"
+            }
+          ],
+          "title" : "Bewertung des Grundbesitzes für die Grundsteuer ab 1. Januar 2022"
+        }
+      ],
+      "title" : "Besondere Bewertungsvorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR010350934BJNG003702123",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR010350934BJNE020803123",
+          "paragraph" : "§ 264",
+          "title" : "Bekanntmachung"
+        },
+        {
+          "documentIdentifier" : "BJNR010350934BJNE020916123",
+          "paragraph" : "§ 265",
+          "title" : "Anwendungsvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR010350934BJNE032800123",
+          "paragraph" : "§ 266",
+          "title" : "Erstmalige Anwendung des Siebenten Abschnitts des Zweiten Teils"
+        },
+        {
+          "documentIdentifier" : "BJNR010350934BJNE016503140",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 51)"
+        },
+        {
+          "documentIdentifier" : "BJNR010350934BJNE016602301",
+          "paragraph" : "Anlage 2",
+          "title" : "Gruppen der Zweige des Tierbestands nach der Flächenabhängigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR010350934BJNE016702301",
+          "paragraph" : "Anlage 3",
+          "title" : "Mietwohngrundstücke\n"
+        },
+        {
+          "documentIdentifier" : "BJNR010350934BJNE016802301",
+          "paragraph" : "Anlage 4",
+          "title" : "Gemischtgenutzte Grundstücke mit einem gewerblichen Anteil an der\nJahresrohmiete bis zu 50 v. H.\n"
+        },
+        {
+          "documentIdentifier" : "BJNR010350934BJNE016902301",
+          "paragraph" : "Anlage 5",
+          "title" : "Gemischtgenutzte Grundstücke mit einem gewerblichen Anteil an der\nJahresrohmiete von mehr als 50 v. H.\n"
+        },
+        {
+          "documentIdentifier" : "BJNR010350934BJNE017002301",
+          "paragraph" : "Anlage 6",
+          "title" : "Geschäftsgrundstücke\n"
+        },
+        {
+          "documentIdentifier" : "BJNR010350934BJNE017102301",
+          "paragraph" : "Anlage 7",
+          "title" : "Einfamilienhäuser\n"
+        },
+        {
+          "documentIdentifier" : "BJNR010350934BJNE017202301",
+          "paragraph" : "Anlage 8",
+          "title" : "Zweifamilienhäuser\n"
+        },
+        {
+          "documentIdentifier" : "BJNR010350934BJNE017307140",
+          "paragraph" : "Anlage 9",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR010350934BJNE019103301",
+          "paragraph" : "Anlage 9a",
+          "title" : "(zu § 13)"
+        },
+        {
+          "documentIdentifier" : "BJNR010350934BJNE017405140",
+          "paragraph" : "(XXXX) Anlagen 10 bis 13",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR010350934BJNE026700140",
+          "paragraph" : "Anlage 14",
+          "title" : "(zu § 163 Abs. 3, § 164 Abs. 2 und 4)"
+        },
+        {
+          "documentIdentifier" : "BJNR010350934BJNE026801140",
+          "paragraph" : "Anlage 15",
+          "title" : "(zu § 163 Abs. 4 und § 164 Abs. 2)"
+        },
+        {
+          "documentIdentifier" : "BJNR010350934BJNE026900140",
+          "paragraph" : "Anlage 15a",
+          "title" : "(zu § 164 Abs. 4)"
+        },
+        {
+          "documentIdentifier" : "BJNR010350934BJNE027000140",
+          "paragraph" : "Anlage 16",
+          "title" : "(zu § 163 Abs. 5 und § 164 Abs. 2 und 4)"
+        },
+        {
+          "documentIdentifier" : "BJNR010350934BJNE027100140",
+          "paragraph" : "Anlage 17",
+          "title" : "(zu § 163 Abs. 6 und § 164 Abs. 2 und 4)"
+        },
+        {
+          "documentIdentifier" : "BJNR010350934BJNE027200140",
+          "paragraph" : "Anlage 18",
+          "title" : "(zu § 163 Abs. 7 und § 164 Abs. 2 und 4)"
+        },
+        {
+          "documentIdentifier" : "BJNR010350934BJNE027301140",
+          "paragraph" : "Anlage 19",
+          "title" : "(zu § 169)"
+        },
+        {
+          "documentIdentifier" : "BJNR010350934BJNE027400140",
+          "paragraph" : "Anlage 20",
+          "title" : "(zu § 169 Abs. 5)"
+        },
+        {
+          "documentIdentifier" : "BJNR010350934BJNE027500140",
+          "paragraph" : "Anlage 21",
+          "title" : "(zu § 185 Abs. 3 Satz 1,"
+        },
+        {
+          "documentIdentifier" : "BJNR010350934BJNE027601116",
+          "paragraph" : "Anlage 22",
+          "title" : "(zu § 185 Absatz 3 Satz 3, § 190 Absatz 4 Satz 2)"
+        },
+        {
+          "documentIdentifier" : "BJNR010350934BJNE027700140",
+          "paragraph" : "Anlage 23",
+          "title" : "(zu § 187 Abs. 2 Satz 2)"
+        },
+        {
+          "documentIdentifier" : "BJNR010350934BJNE027803123",
+          "paragraph" : "Anlage 24",
+          "title" : "(zu § 190 Absatz 1 Satz 4 und Absatz 3)"
+        },
+        {
+          "documentIdentifier" : "BJNR010350934BJNE027901116",
+          "paragraph" : "Anlage 25",
+          "title" : "(zu § 191 Absatz 2)"
+        },
+        {
+          "documentIdentifier" : "BJNR010350934BJNE028001140",
+          "paragraph" : "Anlage 26",
+          "title" : "(zu § 194 Abs. 3 Satz 2 und Abs. 4 sowie § 195 Abs. 3 Satz 2)"
+        },
+        {
+          "documentIdentifier" : "BJNR010350934BJNE032900123",
+          "paragraph" : "Anlage 27",
+          "title" : "(zu § 237 Absatz 2)"
+        },
+        {
+          "documentIdentifier" : "BJNR010350934BJNE033000123",
+          "paragraph" : "Anlage 28",
+          "title" : "(zu § 237 Absatz 3)"
+        },
+        {
+          "documentIdentifier" : "BJNR010350934BJNE033100123",
+          "paragraph" : "Anlage 29",
+          "title" : "(zu § 237 Absatz 4)"
+        },
+        {
+          "documentIdentifier" : "BJNR010350934BJNE033200123",
+          "paragraph" : "Anlage 30",
+          "title" : "(zu § 237 Absatz 5)"
+        },
+        {
+          "documentIdentifier" : "BJNR010350934BJNE033300123",
+          "paragraph" : "Anlage 31",
+          "title" : "(zu § 237 Absatz 6 und 7)"
+        },
+        {
+          "documentIdentifier" : "BJNR010350934BJNE033400123",
+          "paragraph" : "Anlage 32",
+          "title" : "(zu § 237 Absatz 8)"
+        },
+        {
+          "documentIdentifier" : "BJNR010350934BJNE033500123",
+          "paragraph" : "Anlage 33",
+          "title" : "(zu § 238 Absatz 2)"
+        },
+        {
+          "documentIdentifier" : "BJNR010350934BJNE033600123",
+          "paragraph" : "Anlage 34",
+          "title" : "(zu § 241 Absatz 5)"
+        },
+        {
+          "documentIdentifier" : "BJNR010350934BJNE033700123",
+          "paragraph" : "Anlage 35",
+          "title" : "(zu § 241 Absatz 5)"
+        },
+        {
+          "documentIdentifier" : "BJNR010350934BJNE033800123",
+          "paragraph" : "Anlage 36",
+          "title" : "(zu den §§ 251 und 257 Absatz 1)"
+        },
+        {
+          "documentIdentifier" : "BJNR010350934BJNE033900123",
+          "paragraph" : "Anlage 37",
+          "title" : "(zu § 253 Absatz 2)"
+        },
+        {
+          "documentIdentifier" : "BJNR010350934BJNE034000123",
+          "paragraph" : "Anlage 38",
+          "title" : "(zu § 253 Absatz 2 und § 259 Absatz 4)"
+        },
+        {
+          "documentIdentifier" : "BJNR010350934BJNE034100123",
+          "paragraph" : "Anlage 39",
+          "title" : "(zu § 254)"
+        },
+        {
+          "documentIdentifier" : "BJNR010350934BJNE034200123",
+          "paragraph" : "Anlage 40",
+          "title" : "(zu § 255) "
+        },
+        {
+          "documentIdentifier" : "BJNR010350934BJNE034300123",
+          "paragraph" : "Anlage 41",
+          "title" : "(zu § 257 Absatz 2)"
+        },
+        {
+          "documentIdentifier" : "BJNR010350934BJNE034400123",
+          "paragraph" : "Anlage 42",
+          "title" : "(zu § 259 Absatz 1) "
+        },
+        {
+          "documentIdentifier" : "BJNR010350934BJNE034500123",
+          "paragraph" : "Anlage 43",
+          "title" : "(zu § 260)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussbestimmungen"
+    }
+  ]
+}

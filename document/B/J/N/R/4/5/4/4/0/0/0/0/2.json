@@ -1,0 +1,231 @@
+{
+  "documentIdentifier" : "BJNR454400002",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR454400002BJNG000102308",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR454400002BJNE000111126",
+          "paragraph" : "§ 1",
+          "title" : "Datensätze"
+        },
+        {
+          "documentIdentifier" : "BJNR454400002BJNE000210126",
+          "paragraph" : "§ 2",
+          "title" : "Technisches Übermittlungsformat"
+        },
+        {
+          "documentIdentifier" : "BJNR454400002BJNE003000308",
+          "paragraph" : "§ 2a",
+          "title" : "DIN- und ISO\/IEC-Normen"
+        },
+        {
+          "documentIdentifier" : "BJNR454400002BJNE000303308",
+          "paragraph" : "§ 3",
+          "title" : "Verfahren der Datenübermittlung, Schnittstellen"
+        },
+        {
+          "documentIdentifier" : "BJNR454400002BJNE000402119",
+          "paragraph" : "§ 4",
+          "title" : "Übermittlung durch Datenfernübertragung"
+        },
+        {
+          "documentIdentifier" : "BJNR454400002BJNE000509126",
+          "paragraph" : "§ 5",
+          "title" : "Identifikation der am Verfahren Beteiligten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Grundsätze der Datenübermittlung"
+    },
+    {
+      "documentIdentifier" : "BJNR454400002BJNG000601308",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR454400002BJNG000202308",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR454400002BJNE000603119",
+              "paragraph" : "§ 6",
+              "title" : "Mitteilungspflichten des Arbeitgebers"
+            },
+            {
+              "documentIdentifier" : "BJNR454400002BJNE000705308",
+              "paragraph" : "§ 7",
+              "title" : "Besondere Mitteilungspflichten der zuständigen Stelle"
+            },
+            {
+              "documentIdentifier" : "BJNR454400002BJNE000903308",
+              "paragraph" : "§ 9",
+              "title" : "Besondere Mitteilungspflicht der Familienkasse"
+            },
+            {
+              "documentIdentifier" : "BJNR454400002BJNE001005308",
+              "paragraph" : "§ 10",
+              "title" : "Besondere Mitteilungspflichten des Anbieters"
+            },
+            {
+              "documentIdentifier" : "BJNR454400002BJNE001110360",
+              "paragraph" : "§ 11",
+              "title" : "Anbieterwechsel"
+            },
+            {
+              "documentIdentifier" : "BJNR454400002BJNE001203308",
+              "paragraph" : "§ 12",
+              "title" : "Besondere\nMitteilungspflichten der\nzentralen Stelle gegenüber dem Anbieter"
+            },
+            {
+              "documentIdentifier" : "BJNR454400002BJNE001303308",
+              "paragraph" : "§ 13",
+              "title" : "Anzeigepflichten des Zulageberechtigten"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Mitteilungs- und Anzeigepflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR454400002BJNG000302308",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR454400002BJNE001407377",
+              "paragraph" : "§ 14",
+              "title" : "Nachweis der Rentenversicherungspflicht und der Höhe der maßgebenden Einnahmen"
+            },
+            {
+              "documentIdentifier" : "BJNR454400002BJNE001502308",
+              "paragraph" : "§ 15",
+              "title" : "Auszahlung der Zulage"
+            },
+            {
+              "documentIdentifier" : "BJNR454400002BJNE001601308",
+              "paragraph" : "§ 16",
+              "title" : "Kleinbetragsgrenze für Rückforderungen gegenüber dem Zulageberechtigten"
+            },
+            {
+              "documentIdentifier" : "BJNR454400002BJNE001702308",
+              "paragraph" : "§ 17",
+              "title" : "Vollstreckung von Bescheiden über Forderungen der zentralen Stelle"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Ermittlung, Festsetzung, Auszahlung, Rückforderung und Rückzahlung der Zulagen"
+        },
+        {
+          "documentIdentifier" : "BJNR454400002BJNG000402308",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR454400002BJNE001805360",
+              "paragraph" : "§ 18",
+              "title" : "Erteilung der Anbieterbescheinigungen"
+            },
+            {
+              "documentIdentifier" : "BJNR454400002BJNE001906360",
+              "paragraph" : "§ 19",
+              "title" : "Aufzeichnungs- und Aufbewahrungspflichten"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Bescheinigungs-, Aufzeichnungs- und Aufbewahrungspflichten"
+        }
+      ],
+      "title" : "Vorschriften zur Altersvorsorge nach § 10a oder Abschnitt XI des Einkommensteuergesetzes"
+    },
+    {
+      "documentIdentifier" : "BJNR454400002BJNG000502308",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR454400002BJNE002003119",
+          "paragraph" : "§ 20",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR454400002BJNE003501119",
+          "paragraph" : "§ 20a",
+          "title" : "Vollstreckung von Bescheiden über Forderungen der zentralen Stelle"
+        },
+        {
+          "documentIdentifier" : "BJNR454400002BJNE003101119",
+          "paragraph" : "§ 21",
+          "title" : "Erprobung des Verfahrens"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Vorschriften zu Rentenbezugsmitteilungen"
+    },
+    {
+      "documentIdentifier" : "BJNR454400002BJNG000700308",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR454400002BJNE003201119",
+          "paragraph" : "§ 22",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR454400002BJNE003303126",
+          "paragraph" : "§ 23",
+          "title" : "Erprobung des Verfahrens"
+        },
+        {
+          "documentIdentifier" : "BJNR454400002BJNE003401119",
+          "paragraph" : "§ 24",
+          "title" : "Mitteilungspflichten nach § 10 Absatz 4b des Einkommensteuergesetzes"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Vorschriften zum weiteren Datenaustausch mit der zentralen Stelle"
+    }
+  ]
+}

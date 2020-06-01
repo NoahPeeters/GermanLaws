@@ -1,0 +1,2542 @@
+{
+  "documentIdentifier" : "BJNR286600994",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR286600994BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR286600994BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Ziele des Insolvenzverfahrens"
+        },
+        {
+          "documentIdentifier" : "BJNR286600994BJNE000301311",
+          "paragraph" : "§ 2",
+          "title" : "Amtsgericht als Insolvenzgericht"
+        },
+        {
+          "documentIdentifier" : "BJNR286600994BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Örtliche Zuständigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR286600994BJNE041600311",
+          "paragraph" : "§ 3a",
+          "title" : "Gruppen-Gerichtsstand"
+        },
+        {
+          "documentIdentifier" : "BJNR286600994BJNE041700311",
+          "paragraph" : "§ 3b",
+          "title" : "Fortbestehen des Gruppen-Gerichtsstands"
+        },
+        {
+          "documentIdentifier" : "BJNR286600994BJNE041800311",
+          "paragraph" : "§ 3c",
+          "title" : "Zuständigkeit für Gruppen-Folgeverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR286600994BJNE041900311",
+          "paragraph" : "§ 3d",
+          "title" : "Verweisung an den Gruppen-Gerichtsstand"
+        },
+        {
+          "documentIdentifier" : "BJNR286600994BJNE042000311",
+          "paragraph" : "§ 3e",
+          "title" : "Unternehmensgruppe"
+        },
+        {
+          "documentIdentifier" : "BJNR286600994BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Anwendbarkeit der Zivilprozeßordnung"
+        },
+        {
+          "documentIdentifier" : "BJNR286600994BJNE036101311",
+          "paragraph" : "§ 4a",
+          "title" : "Stundung der Kosten des Insolvenzverfahrens"
+        },
+        {
+          "documentIdentifier" : "BJNR286600994BJNE036201311",
+          "paragraph" : "§ 4b",
+          "title" : "Rückzahlung und Anpassung der gestundeten Beträge"
+        },
+        {
+          "documentIdentifier" : "BJNR286600994BJNE036301311",
+          "paragraph" : "§ 4c",
+          "title" : "Aufhebung der Stundung"
+        },
+        {
+          "documentIdentifier" : "BJNR286600994BJNE036400301",
+          "paragraph" : "§ 4d",
+          "title" : "Rechtsmittel"
+        },
+        {
+          "documentIdentifier" : "BJNR286600994BJNE000603311",
+          "paragraph" : "§ 5",
+          "title" : "Verfahrensgrundsätze"
+        },
+        {
+          "documentIdentifier" : "BJNR286600994BJNE000702308",
+          "paragraph" : "§ 6",
+          "title" : "Sofortige Beschwerde"
+        },
+        {
+          "documentIdentifier" : "BJNR286600994BJNE000802308",
+          "paragraph" : "§ 7",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR286600994BJNE000902301",
+          "paragraph" : "§ 8",
+          "title" : "Zustellungen"
+        },
+        {
+          "documentIdentifier" : "BJNR286600994BJNE001005311",
+          "paragraph" : "§ 9",
+          "title" : "Öffentliche Bekanntmachung"
+        },
+        {
+          "documentIdentifier" : "BJNR286600994BJNE001101160",
+          "paragraph" : "§ 10",
+          "title" : "Anhörung des Schuldners"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR286600994BJNG035800000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR286600994BJNG001200000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR286600994BJNE001302311",
+              "paragraph" : "§ 11",
+              "title" : "Zulässigkeit des Insolvenzverfahrens"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE001402301",
+              "paragraph" : "§ 12",
+              "title" : "Juristische Personen des öffentlichen Rechts"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE001504311",
+              "paragraph" : "§ 13",
+              "title" : "Eröffnungsantrag"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE042100311",
+              "paragraph" : "§ 13a",
+              "title" : "Antrag zur Begründung eines Gruppen-Gerichtsstands"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE001602311",
+              "paragraph" : "§ 14",
+              "title" : "Antrag eines Gläubigers"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE001701160",
+              "paragraph" : "§ 15",
+              "title" : "Antragsrecht bei juristischen Personen und Gesellschaften ohne Rechtspersönlichkeit"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE039103311",
+              "paragraph" : "§ 15a",
+              "title" : "Antragspflicht bei juristischen Personen und Gesellschaften ohne Rechtspersönlichkeit"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE001800000",
+              "paragraph" : "§ 16",
+              "title" : "Eröffnungsgrund"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE001900000",
+              "paragraph" : "§ 17",
+              "title" : "Zahlungsunfähigkeit"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE002000000",
+              "paragraph" : "§ 18",
+              "title" : "Drohende Zahlungsunfähigkeit"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE002107308",
+              "paragraph" : "§ 19",
+              "title" : "Überschuldung"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE002203311",
+              "paragraph" : "§ 20",
+              "title" : "Auskunfts- und Mitwirkungspflicht im Eröffnungsverfahren. "
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE002308311",
+              "paragraph" : "§ 21",
+              "title" : "Anordnung vorläufiger Maßnahmen"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE002401301",
+              "paragraph" : "§ 22",
+              "title" : "Rechtsstellung des vorläufigen Insolvenzverwalters"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE039301311",
+              "paragraph" : "§ 22a",
+              "title" : "Bestellung eines vorläufigen Gläubigerausschusses"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE002501307",
+              "paragraph" : "§ 23",
+              "title" : "Bekanntmachung der Verfügungsbeschränkungen"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE002600000",
+              "paragraph" : "§ 24",
+              "title" : "Wirkungen der Verfügungsbeschränkungen"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE002700000",
+              "paragraph" : "§ 25",
+              "title" : "Aufhebung der Sicherungsmaßnahmen"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE002807308",
+              "paragraph" : "§ 26",
+              "title" : "Abweisung mangels Masse"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE039401311",
+              "paragraph" : "§ 26a",
+              "title" : "Vergütung des vorläufigen Insolvenzverwalters"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE002904311",
+              "paragraph" : "§ 27",
+              "title" : "Eröffnungsbeschluß"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE003000000",
+              "paragraph" : "§ 28",
+              "title" : "Aufforderungen an die Gläubiger und die Schuldner"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE003101311",
+              "paragraph" : "§ 29",
+              "title" : "Terminbestimmungen"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE003203311",
+              "paragraph" : "§ 30",
+              "title" : "Bekanntmachung des Eröffnungsbeschlusses"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE003301307",
+              "paragraph" : "§ 31",
+              "title" : "Handels-, Genossenschafts-, Partnerschafts- und Vereinsregister"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE003400000",
+              "paragraph" : "§ 32",
+              "title" : "Grundbuch"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE003500000",
+              "paragraph" : "§ 33",
+              "title" : "Register für Schiffe und Luftfahrzeuge"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE003601301",
+              "paragraph" : "§ 34",
+              "title" : "Rechtsmittel"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Eröffnungsvoraussetzungen und Eröffnungsverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR286600994BJNG003700000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR286600994BJNE003803311",
+              "paragraph" : "§ 35",
+              "title" : "Begriff der Insolvenzmasse"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE003905160",
+              "paragraph" : "§ 36",
+              "title" : "Unpfändbare Gegenstände"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE004001311",
+              "paragraph" : "§ 37",
+              "title" : "Gesamtgut bei Gütergemeinschaft"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE004100000",
+              "paragraph" : "§ 38",
+              "title" : "Begriff der Insolvenzgläubiger"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE004202160",
+              "paragraph" : "§ 39",
+              "title" : "Nachrangige Insolvenzgläubiger"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE004301307",
+              "paragraph" : "§ 40",
+              "title" : "Unterhaltsansprüche"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE004400000",
+              "paragraph" : "§ 41",
+              "title" : "Nicht fällige Forderungen"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE004500000",
+              "paragraph" : "§ 42",
+              "title" : "Auflösend bedingte Forderungen"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE004600000",
+              "paragraph" : "§ 43",
+              "title" : "Haftung mehrerer Personen"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE004700000",
+              "paragraph" : "§ 44",
+              "title" : "Rechte der Gesamtschuldner und Bürgen"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE039200160",
+              "paragraph" : "§ 44a",
+              "title" : "Gesicherte Darlehen"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE004800000",
+              "paragraph" : "§ 45",
+              "title" : "Umrechnung von Forderungen"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE004900000",
+              "paragraph" : "§ 46",
+              "title" : "Wiederkehrende Leistungen"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE005000000",
+              "paragraph" : "§ 47",
+              "title" : "Aussonderung"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE005100000",
+              "paragraph" : "§ 48",
+              "title" : "Ersatzaussonderung"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE005200000",
+              "paragraph" : "§ 49",
+              "title" : "Abgesonderte Befriedigung aus unbeweglichen Gegenständen"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE005301301",
+              "paragraph" : "§ 50",
+              "title" : "Abgesonderte Befriedigung der Pfandgläubiger"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE005400000",
+              "paragraph" : "§ 51",
+              "title" : "Sonstige Absonderungsberechtigte"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE005500000",
+              "paragraph" : "§ 52",
+              "title" : "Ausfall der Absonderungsberechtigten"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE005600000",
+              "paragraph" : "§ 53",
+              "title" : "Massegläubiger"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE005700000",
+              "paragraph" : "§ 54",
+              "title" : "Kosten des Insolvenzverfahrens"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE005804140",
+              "paragraph" : "§ 55",
+              "title" : "Sonstige Masseverbindlichkeiten"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Insolvenzmasse. Einteilung der Gläubiger"
+        },
+        {
+          "documentIdentifier" : "BJNR286600994BJNG005900000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR286600994BJNE006003311",
+              "paragraph" : "§ 56",
+              "title" : "Bestellung des Insolvenzverwalters"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE039500308",
+              "paragraph" : "§ 56a",
+              "title" : "Gläubigerbeteiligung bei der Verwalterbestellung"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE042200311",
+              "paragraph" : "§ 56b",
+              "title" : "Verwalterbestellung bei Schuldnern derselben Unternehmensgruppe"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE006101301",
+              "paragraph" : "§ 57",
+              "title" : "Wahl eines anderen Insolvenzverwalters"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE006201310",
+              "paragraph" : "§ 58",
+              "title" : "Aufsicht des Insolvenzgerichts"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE006300000",
+              "paragraph" : "§ 59",
+              "title" : "Entlassung des Insolvenzverwalters"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE006400000",
+              "paragraph" : "§ 60",
+              "title" : "Haftung des Insolvenzverwalters"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE006500000",
+              "paragraph" : "§ 61",
+              "title" : "Nichterfüllung von Masseverbindlichkeiten"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE006601301",
+              "paragraph" : "§ 62",
+              "title" : "Verjährung"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE006702311",
+              "paragraph" : "§ 63",
+              "title" : "Vergütung des Insolvenzverwalters"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE006800000",
+              "paragraph" : "§ 64",
+              "title" : "Festsetzung durch das Gericht"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE006902311",
+              "paragraph" : "§ 65",
+              "title" : "Verordnungsermächtigung"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE007001308",
+              "paragraph" : "§ 66",
+              "title" : "Rechnungslegung"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE007101308",
+              "paragraph" : "§ 67",
+              "title" : "Einsetzung des Gläubigerausschusses"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE007200000",
+              "paragraph" : "§ 68",
+              "title" : "Wahl anderer Mitglieder"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE007300000",
+              "paragraph" : "§ 69",
+              "title" : "Aufgaben des Gläubigerausschusses"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE007400000",
+              "paragraph" : "§ 70",
+              "title" : "Entlassung"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE007500000",
+              "paragraph" : "§ 71",
+              "title" : "Haftung der Mitglieder des Gläubigerausschusses"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE007600000",
+              "paragraph" : "§ 72",
+              "title" : "Beschlüsse des Gläubigerausschusses"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE007701301",
+              "paragraph" : "§ 73",
+              "title" : "Vergütung der Mitglieder des Gläubigerausschusses"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE007801307",
+              "paragraph" : "§ 74",
+              "title" : "Einberufung der Gläubigerversammlung"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE007901307",
+              "paragraph" : "§ 75",
+              "title" : "Antrag auf Einberufung"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE008000000",
+              "paragraph" : "§ 76",
+              "title" : "Beschlüsse der Gläubigerversammlung"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE008100000",
+              "paragraph" : "§ 77",
+              "title" : "Feststellung des Stimmrechts"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE008200000",
+              "paragraph" : "§ 78",
+              "title" : "Aufhebung eines Beschlusses der Gläubigerversammlung"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE008300000",
+              "paragraph" : "§ 79",
+              "title" : "Unterrichtung der Gläubigerversammlung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Dritter Abschnitt Insolvenzverwalter. Organe der Gläubiger"
+        }
+      ],
+      "title" : "Eröffnung des Insolvenzverfahrens. Erfaßtes Vermögen und Verfahrensbeteiligte"
+    },
+    {
+      "documentIdentifier" : "BJNR286600994BJNG035900000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR286600994BJNG008400000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR286600994BJNE008500000",
+              "paragraph" : "§ 80",
+              "title" : "Übergang des Verwaltungs- und Verfügungsrechts"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE008601301",
+              "paragraph" : "§ 81",
+              "title" : "Verfügungen des Schuldners"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE008700000",
+              "paragraph" : "§ 82",
+              "title" : "Leistungen an den Schuldner"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE008800000",
+              "paragraph" : "§ 83",
+              "title" : "Erbschaft. Fortgesetzte Gütergemeinschaft"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE008900000",
+              "paragraph" : "§ 84",
+              "title" : "Auseinandersetzung einer Gesellschaft oder Gemeinschaft"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE009000000",
+              "paragraph" : "§ 85",
+              "title" : "Aufnahme von Aktivprozessen"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE009100000",
+              "paragraph" : "§ 86",
+              "title" : "Aufnahme bestimmter Passivprozesse"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE009200000",
+              "paragraph" : "§ 87",
+              "title" : "Forderungen der Insolvenzgläubiger"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE009301311",
+              "paragraph" : "§ 88",
+              "title" : "Vollstreckung vor Verfahrenseröffnung"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE009400000",
+              "paragraph" : "§ 89",
+              "title" : "Vollstreckungsverbot"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE009500000",
+              "paragraph" : "§ 90",
+              "title" : "Vollstreckungsverbot bei Masseverbindlichkeiten"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE009601307",
+              "paragraph" : "§ 91",
+              "title" : "Ausschluß sonstigen Rechtserwerbs"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE009700000",
+              "paragraph" : "§ 92",
+              "title" : "Gesamtschaden"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE009800000",
+              "paragraph" : "§ 93",
+              "title" : "Persönliche Haftung der Gesellschafter"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE009900000",
+              "paragraph" : "§ 94",
+              "title" : "Erhaltung einer Aufrechnungslage"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE010000000",
+              "paragraph" : "§ 95",
+              "title" : "Eintritt der Aufrechnungslage im Verfahren"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE010104160",
+              "paragraph" : "§ 96",
+              "title" : "Unzulässigkeit der Aufrechnung"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE010200000",
+              "paragraph" : "§ 97",
+              "title" : "Auskunfts- und Mitwirkungspflichten des Schuldners"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE010302160",
+              "paragraph" : "§ 98",
+              "title" : "Durchsetzung der Pflichten des Schuldners"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE010401301",
+              "paragraph" : "§ 99",
+              "title" : "Postsperre"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE010502301",
+              "paragraph" : "§ 100",
+              "title" : "Unterhalt aus der Insolvenzmasse"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE010601160",
+              "paragraph" : "§ 101",
+              "title" : "Organschaftliche Vertreter. Angestellte"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE010701307",
+              "paragraph" : "§ 102",
+              "title" : "Einschränkung eines Grundrechts"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Allgemeine Wirkungen"
+        },
+        {
+          "documentIdentifier" : "BJNR286600994BJNG010800000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR286600994BJNE010900000",
+              "paragraph" : "§ 103",
+              "title" : "Wahlrecht des Insolvenzverwalters"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE011003311",
+              "paragraph" : "§ 104",
+              "title" : "Fixgeschäfte, Finanzleistungen, vertragliches Liquidationsnetting"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE011100000",
+              "paragraph" : "§ 105",
+              "title" : "Teilbare Leistungen"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE011200000",
+              "paragraph" : "§ 106",
+              "title" : "Vormerkung"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE011300000",
+              "paragraph" : "§ 107",
+              "title" : "Eigentumsvorbehalt"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE011402301",
+              "paragraph" : "§ 108",
+              "title" : "Fortbestehen bestimmter Schuldverhältnisse"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE011502301",
+              "paragraph" : "§ 109",
+              "title" : "Schuldner als Mieter oder Pächter"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE011601301",
+              "paragraph" : "§ 110",
+              "title" : "Schuldner als Vermieter oder Verpächter"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE011701301",
+              "paragraph" : "§ 111",
+              "title" : "Veräußerung des Miet- oder Pachtobjekts"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE011801301",
+              "paragraph" : "§ 112",
+              "title" : "Kündigungssperre"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE011901301",
+              "paragraph" : "§ 113",
+              "title" : "Kündigung eines Dienstverhältnisses"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE012002311",
+              "paragraph" : "§ 114",
+              "title" : "(weggefallen)"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE012100000",
+              "paragraph" : "§ 115",
+              "title" : "Erlöschen von Aufträgen"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE012202160",
+              "paragraph" : "§ 116",
+              "title" : "Erlöschen von Geschäftsbesorgungsverträgen"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE012300000",
+              "paragraph" : "§ 117",
+              "title" : "Erlöschen von Vollmachten"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE012400000",
+              "paragraph" : "§ 118",
+              "title" : "Auflösung von Gesellschaften"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE012500000",
+              "paragraph" : "§ 119",
+              "title" : "Unwirksamkeit abweichender Vereinbarungen"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE012600000",
+              "paragraph" : "§ 120",
+              "title" : "Kündigung von Betriebsvereinbarungen"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE012701301",
+              "paragraph" : "§ 121",
+              "title" : "Betriebsänderungen und Vermittlungsverfahren"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE012800000",
+              "paragraph" : "§ 122",
+              "title" : "Gerichtliche Zustimmung zur Durchführung einer Betriebsänderung"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE012900000",
+              "paragraph" : "§ 123",
+              "title" : "Umfang des Sozialplans"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE013000000",
+              "paragraph" : "§ 124",
+              "title" : "Sozialplan vor Verfahrenseröffnung"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE013100000",
+              "paragraph" : "§ 125",
+              "title" : "Interessenausgleich und Kündigungsschutz"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE013200000",
+              "paragraph" : "§ 126",
+              "title" : "Beschlußverfahren zum Kündigungsschutz"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE013300000",
+              "paragraph" : "§ 127",
+              "title" : "Klage des Arbeitnehmers"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE013400000",
+              "paragraph" : "§ 128",
+              "title" : "Betriebsveräußerung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Erfüllung der Rechtsgeschäfte. Mitwirkung des Betriebsrats"
+        },
+        {
+          "documentIdentifier" : "BJNR286600994BJNG013500000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR286600994BJNE013600000",
+              "paragraph" : "§ 129",
+              "title" : "Grundsatz"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE013701301",
+              "paragraph" : "§ 130",
+              "title" : "Kongruente Deckung"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE013800000",
+              "paragraph" : "§ 131",
+              "title" : "Inkongruente Deckung"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE013900000",
+              "paragraph" : "§ 132",
+              "title" : "Unmittelbar nachteilige Rechtshandlungen"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE014001311",
+              "paragraph" : "§ 133",
+              "title" : "Vorsätzliche Benachteiligung"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE014100000",
+              "paragraph" : "§ 134",
+              "title" : "Unentgeltliche Leistung"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE014201160",
+              "paragraph" : "§ 135",
+              "title" : "Gesellschafterdarlehen"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE014300000",
+              "paragraph" : "§ 136",
+              "title" : "Stille Gesellschaft"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE014400000",
+              "paragraph" : "§ 137",
+              "title" : "Wechsel- und Scheckzahlungen"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE014503301",
+              "paragraph" : "§ 138",
+              "title" : "Nahestehende Personen"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE014600000",
+              "paragraph" : "§ 139",
+              "title" : "Berechnung der Fristen vor dem Eröffnungsantrag"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE014700000",
+              "paragraph" : "§ 140",
+              "title" : "Zeitpunkt der Vornahme einer Rechtshandlung"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE014800000",
+              "paragraph" : "§ 141",
+              "title" : "Vollstreckbarer Titel"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE014901311",
+              "paragraph" : "§ 142",
+              "title" : "Bargeschäft"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE015002311",
+              "paragraph" : "§ 143",
+              "title" : "Rechtsfolgen"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE015100000",
+              "paragraph" : "§ 144",
+              "title" : "Ansprüche des Anfechtungsgegners"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE015200000",
+              "paragraph" : "§ 145",
+              "title" : "Anfechtung gegen Rechtsnachfolger"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE015301301",
+              "paragraph" : "§ 146",
+              "title" : "Verjährung des Anfechtungsanspruchs"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE015404160",
+              "paragraph" : "§ 147",
+              "title" : "Rechtshandlungen nach Verfahrenseröffnung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Insolvenzanfechtung"
+        }
+      ],
+      "title" : "Wirkungen der Eröffnung des Insolvenzverfahrens"
+    },
+    {
+      "documentIdentifier" : "BJNR286600994BJNG036000000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR286600994BJNG015500000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR286600994BJNE015600000",
+              "paragraph" : "§ 148",
+              "title" : "Übernahme der Insolvenzmasse"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE015701301",
+              "paragraph" : "§ 149",
+              "title" : "Wertgegenstände"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE015800000",
+              "paragraph" : "§ 150",
+              "title" : "Siegelung"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE015900000",
+              "paragraph" : "§ 151",
+              "title" : "Verzeichnis der Massegegenstände"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE016000000",
+              "paragraph" : "§ 152",
+              "title" : "Gläubigerverzeichnis"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE016100000",
+              "paragraph" : "§ 153",
+              "title" : "Vermögensübersicht"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE016200000",
+              "paragraph" : "§ 154",
+              "title" : "Niederlegung in der Geschäftsstelle"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE016300000",
+              "paragraph" : "§ 155",
+              "title" : "Handels- und steuerrechtliche Rechnungslegung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Sicherung der Insolvenzmasse"
+        },
+        {
+          "documentIdentifier" : "BJNR286600994BJNG016400000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR286600994BJNE016500000",
+              "paragraph" : "§ 156",
+              "title" : "Berichtstermin"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE016600000",
+              "paragraph" : "§ 157",
+              "title" : "Entscheidung über den Fortgang des Verfahrens"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE016701301",
+              "paragraph" : "§ 158",
+              "title" : "Maßnahmen vor der Entscheidung"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE016800000",
+              "paragraph" : "§ 159",
+              "title" : "Verwertung der Insolvenzmasse"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE016901301",
+              "paragraph" : "§ 160",
+              "title" : "Besonders bedeutsame Rechtshandlungen"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE017000000",
+              "paragraph" : "§ 161",
+              "title" : "Vorläufige Untersagung der Rechtshandlung"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE017100000",
+              "paragraph" : "§ 162",
+              "title" : "Betriebsveräußerung an besonders Interessierte"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE017200000",
+              "paragraph" : "§ 163",
+              "title" : "Betriebsveräußerung unter Wert"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE017300000",
+              "paragraph" : "§ 164",
+              "title" : "Wirksamkeit der Handlung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Entscheidung über die Verwertung"
+        },
+        {
+          "documentIdentifier" : "BJNR286600994BJNG017400000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR286600994BJNE017500000",
+              "paragraph" : "§ 165",
+              "title" : "Verwertung unbeweglicher Gegenstände"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE017603160",
+              "paragraph" : "§ 166",
+              "title" : "Verwertung beweglicher Gegenstände"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE017700000",
+              "paragraph" : "§ 167",
+              "title" : "Unterrichtung des Gläubigers"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE017800000",
+              "paragraph" : "§ 168",
+              "title" : "Mitteilung der Veräußerungsabsicht"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE017900000",
+              "paragraph" : "§ 169",
+              "title" : "Schutz des Gläubigers vor einer Verzögerung der\nVerwertung"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE018000000",
+              "paragraph" : "§ 170",
+              "title" : "Verteilung des Erlöses"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE018100000",
+              "paragraph" : "§ 171",
+              "title" : "Berechnung des Kostenbeitrags"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE018200000",
+              "paragraph" : "§ 172",
+              "title" : "Sonstige Verwendung beweglicher Sachen"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE018300000",
+              "paragraph" : "§ 173",
+              "title" : "Verwertung durch den Gläubiger"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Gegenstände mit Absonderungsrechten"
+        }
+      ],
+      "title" : "Verwaltung und Verwertung der Insolvenzmasse"
+    },
+    {
+      "documentIdentifier" : "BJNR286600994BJNG036100000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR286600994BJNG018400000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR286600994BJNE018504311",
+              "paragraph" : "§ 174",
+              "title" : "Anmeldung der Forderungen"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE018602311",
+              "paragraph" : "§ 175",
+              "title" : "Tabelle"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE018700000",
+              "paragraph" : "§ 176",
+              "title" : "Verlauf des Prüfungstermins"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE018801307",
+              "paragraph" : "§ 177",
+              "title" : "Nachträgliche Anmeldungen"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE018900000",
+              "paragraph" : "§ 178",
+              "title" : "Voraussetzungen und Wirkungen der Feststellung"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE019000000",
+              "paragraph" : "§ 179",
+              "title" : "Streitige Forderungen"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE019100000",
+              "paragraph" : "§ 180",
+              "title" : "Zuständigkeit für die Feststellung"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE019200000",
+              "paragraph" : "§ 181",
+              "title" : "Umfang der Feststellung"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE019300000",
+              "paragraph" : "§ 182",
+              "title" : "Streitwert"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE019400000",
+              "paragraph" : "§ 183",
+              "title" : "Wirkung der Entscheidung"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE019501301",
+              "paragraph" : "§ 184",
+              "title" : "Klage gegen einen Widerspruch des Schuldners"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE019600000",
+              "paragraph" : "§ 185",
+              "title" : "Besondere Zuständigkeiten"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE019700000",
+              "paragraph" : "§ 186",
+              "title" : "Wiedereinsetzung in den vorigen Stand"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              5,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Feststellung der Forderungen"
+        },
+        {
+          "documentIdentifier" : "BJNR286600994BJNG019800000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR286600994BJNE019900000",
+              "paragraph" : "§ 187",
+              "title" : "Befriedigung der Insolvenzgläubiger"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE020001301",
+              "paragraph" : "§ 188",
+              "title" : "Verteilungsverzeichnis"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE020100000",
+              "paragraph" : "§ 189",
+              "title" : "Berücksichtigung bestrittener Forderungen"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE020200000",
+              "paragraph" : "§ 190",
+              "title" : "Berücksichtigung absonderungsberechtigter Gläubiger"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE020300000",
+              "paragraph" : "§ 191",
+              "title" : "Berücksichtigung aufschiebend bedingter Forderungen"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE020400000",
+              "paragraph" : "§ 192",
+              "title" : "Nachträgliche Berücksichtigung"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE020500000",
+              "paragraph" : "§ 193",
+              "title" : "Änderung des Verteilungsverzeichnisses"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE020600000",
+              "paragraph" : "§ 194",
+              "title" : "Einwendungen gegen das Verteilungsverzeichnis"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE020700000",
+              "paragraph" : "§ 195",
+              "title" : "Festsetzung des Bruchteils"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE020801301",
+              "paragraph" : "§ 196",
+              "title" : "Schlußverteilung"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE020901307",
+              "paragraph" : "§ 197",
+              "title" : "Schlußtermin"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE021001307",
+              "paragraph" : "§ 198",
+              "title" : "Hinterlegung zurückbehaltener Beträge"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE021100000",
+              "paragraph" : "§ 199",
+              "title" : "Überschuß bei der Schlußverteilung"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE021201301",
+              "paragraph" : "§ 200",
+              "title" : "Aufhebung des Insolvenzverfahrens"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE021301307",
+              "paragraph" : "§ 201",
+              "title" : "Rechte der Insolvenzgläubiger nach Verfahrensaufhebung"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE021400000",
+              "paragraph" : "§ 202",
+              "title" : "Zuständigkeit bei der Vollstreckung"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE021500000",
+              "paragraph" : "§ 203",
+              "title" : "Anordnung der Nachtragsverteilung"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE021600000",
+              "paragraph" : "§ 204",
+              "title" : "Rechtsmittel"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE021700000",
+              "paragraph" : "§ 205",
+              "title" : "Vollzug der Nachtragsverteilung"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE021800000",
+              "paragraph" : "§ 206",
+              "title" : "Ausschluß von Massegläubigern"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              5,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Verteilung"
+        },
+        {
+          "documentIdentifier" : "BJNR286600994BJNG021900000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR286600994BJNE022001301",
+              "paragraph" : "§ 207",
+              "title" : "Einstellung mangels Masse"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE022100000",
+              "paragraph" : "§ 208",
+              "title" : "Anzeige der Masseunzulänglichkeit"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE022200000",
+              "paragraph" : "§ 209",
+              "title" : "Befriedigung der Massegläubiger"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE022300000",
+              "paragraph" : "§ 210",
+              "title" : "Vollstreckungsverbot"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE039600308",
+              "paragraph" : "§ 210a",
+              "title" : "Insolvenzplan bei Masseunzulänglichkeit"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE022400000",
+              "paragraph" : "§ 211",
+              "title" : "Einstellung nach Anzeige der Masseunzulänglichkeit"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE022500000",
+              "paragraph" : "§ 212",
+              "title" : "Einstellung wegen Wegfalls des Eröffnungsgrunds"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE022600000",
+              "paragraph" : "§ 213",
+              "title" : "Einstellung mit Zustimmung der Gläubiger"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE022701308",
+              "paragraph" : "§ 214",
+              "title" : "Verfahren bei der Einstellung"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE022801301",
+              "paragraph" : "§ 215",
+              "title" : "Bekanntmachung und Wirkungen der Einstellung"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE022900000",
+              "paragraph" : "§ 216",
+              "title" : "Rechtsmittel"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              5,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Einstellung des Verfahrens"
+        }
+      ],
+      "title" : "Befriedigung der Insolvenzgläubiger. Einstellung des Verfahrens"
+    },
+    {
+      "documentIdentifier" : "BJNR286600994BJNG036200000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR286600994BJNG023000000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR286600994BJNE023101308",
+              "paragraph" : "§ 217",
+              "title" : "Grundsatz"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE023200000",
+              "paragraph" : "§ 218",
+              "title" : "Vorlage des Insolvenzplans"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE023300000",
+              "paragraph" : "§ 219",
+              "title" : "Gliederung des Plans"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE023401308",
+              "paragraph" : "§ 220",
+              "title" : "Darstellender Teil"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE023501308",
+              "paragraph" : "§ 221",
+              "title" : "Gestaltender Teil"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE023601308",
+              "paragraph" : "§ 222",
+              "title" : "Bildung von Gruppen"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE023703160",
+              "paragraph" : "§ 223",
+              "title" : "Rechte der Absonderungsberechtigten"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE023800000",
+              "paragraph" : "§ 224",
+              "title" : "Rechte der Insolvenzgläubiger"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE023900000",
+              "paragraph" : "§ 225",
+              "title" : "Rechte der nachrangigen Insolvenzgläubiger"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE039700308",
+              "paragraph" : "§ 225a",
+              "title" : "Rechte der Anteilsinhaber"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE024000000",
+              "paragraph" : "§ 226",
+              "title" : "Gleichbehandlung der Beteiligten"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE024100000",
+              "paragraph" : "§ 227",
+              "title" : "Haftung des Schuldners"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE024200000",
+              "paragraph" : "§ 228",
+              "title" : "Änderung sachenrechtlicher Verhältnisse"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE024301308",
+              "paragraph" : "§ 229",
+              "title" : "Vermögensübersicht. Ergebnis- und Finanzplan"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE024401308",
+              "paragraph" : "§ 230",
+              "title" : "Weitere Anlagen"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE024501308",
+              "paragraph" : "§ 231",
+              "title" : "Zurückweisung des Plans"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE024601308",
+              "paragraph" : "§ 232",
+              "title" : "Stellungnahmen zum Plan"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE024700000",
+              "paragraph" : "§ 233",
+              "title" : "Aussetzung von Verwertung und Verteilung"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE024800000",
+              "paragraph" : "§ 234",
+              "title" : "Niederlegung des Plans"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              6,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Aufstellung des Plans"
+        },
+        {
+          "documentIdentifier" : "BJNR286600994BJNG024900000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR286600994BJNE025002308",
+              "paragraph" : "§ 235",
+              "title" : "Erörterungs- und Abstimmungstermin"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE025100000",
+              "paragraph" : "§ 236",
+              "title" : "Verbindung mit dem Prüfungstermin"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE025200000",
+              "paragraph" : "§ 237",
+              "title" : "Stimmrecht der Insolvenzgläubiger"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE025300000",
+              "paragraph" : "§ 238",
+              "title" : "Stimmrecht der absonderungsberechtigten Gläubiger"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE039800308",
+              "paragraph" : "§ 238a",
+              "title" : "Stimmrecht der Anteilsinhaber"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE025401308",
+              "paragraph" : "§ 239",
+              "title" : "Stimmliste"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE025500000",
+              "paragraph" : "§ 240",
+              "title" : "Änderung des Plans"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE025601308",
+              "paragraph" : "§ 241",
+              "title" : "Gesonderter Abstimmungstermin"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE025701308",
+              "paragraph" : "§ 242",
+              "title" : "Schriftliche Abstimmung"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE025801308",
+              "paragraph" : "§ 243",
+              "title" : "Abstimmung in Gruppen"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE025901308",
+              "paragraph" : "§ 244",
+              "title" : "Erforderliche Mehrheiten"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE026002308",
+              "paragraph" : "§ 245",
+              "title" : "Obstruktionsverbot"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE026101308",
+              "paragraph" : "§ 246",
+              "title" : "Zustimmung nachrangiger Insolvenzgläubiger"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE039900308",
+              "paragraph" : "§ 246a",
+              "title" : "Zustimmung der Anteilsinhaber"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE026202308",
+              "paragraph" : "§ 247",
+              "title" : "Zustimmung des Schuldners"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE026301308",
+              "paragraph" : "§ 248",
+              "title" : "Gerichtliche Bestätigung"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE040000308",
+              "paragraph" : "§ 248a",
+              "title" : "Gerichtliche Bestätigung einer Planberichtigung"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE026400000",
+              "paragraph" : "§ 249",
+              "title" : "Bedingter Plan"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE026501308",
+              "paragraph" : "§ 250",
+              "title" : "Verstoß gegen Verfahrensvorschriften"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE026602308",
+              "paragraph" : "§ 251",
+              "title" : "Minderheitenschutz"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE026702308",
+              "paragraph" : "§ 252",
+              "title" : "Bekanntgabe der Entscheidung"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE026801308",
+              "paragraph" : "§ 253",
+              "title" : "Rechtsmittel"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              6,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Annahme und Bestätigung des Plans"
+        },
+        {
+          "documentIdentifier" : "BJNR286600994BJNG026900000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR286600994BJNE027001308",
+              "paragraph" : "§ 254",
+              "title" : "Allgemeine Wirkungen des Plans"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE040100308",
+              "paragraph" : "§ 254a",
+              "title" : "Rechte an Gegenständen. Sonstige Wirkungen des Plans"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE040200308",
+              "paragraph" : "§ 254b",
+              "title" : "Wirkung für alle Beteiligten"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE027100000",
+              "paragraph" : "§ 255",
+              "title" : "Wiederauflebensklausel"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE027200000",
+              "paragraph" : "§ 256",
+              "title" : "Streitige Forderungen. Ausfallforderungen"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE027300000",
+              "paragraph" : "§ 257",
+              "title" : "Vollstreckung aus dem Plan"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE027402308",
+              "paragraph" : "§ 258",
+              "title" : "Aufhebung des Insolvenzverfahrens"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE027500000",
+              "paragraph" : "§ 259",
+              "title" : "Wirkungen der Aufhebung"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE040300308",
+              "paragraph" : "§ 259a",
+              "title" : "Vollstreckungsschutz"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE040400308",
+              "paragraph" : "§ 259b",
+              "title" : "Besondere Verjährungsfrist"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE027600000",
+              "paragraph" : "§ 260",
+              "title" : "Überwachung der Planerfüllung"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE027700000",
+              "paragraph" : "§ 261",
+              "title" : "Aufgaben und Befugnisse des Insolvenzverwalters"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE027800000",
+              "paragraph" : "§ 262",
+              "title" : "Anzeigepflicht des Insolvenzverwalters"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE027900000",
+              "paragraph" : "§ 263",
+              "title" : "Zustimmungsbedürftige Geschäfte"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE028000000",
+              "paragraph" : "§ 264",
+              "title" : "Kreditrahmen"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE028100000",
+              "paragraph" : "§ 265",
+              "title" : "Nachrang von Neugläubigern"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE028200000",
+              "paragraph" : "§ 266",
+              "title" : "Berücksichtigung des Nachrangs"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE028300000",
+              "paragraph" : "§ 267",
+              "title" : "Bekanntmachung der Überwachung"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE028400000",
+              "paragraph" : "§ 268",
+              "title" : "Aufhebung der Überwachung"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE028500000",
+              "paragraph" : "§ 269",
+              "title" : "Kosten der Überwachung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              6,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Wirkungen des bestätigten Plans. Überwachung der Planerfüllung"
+        }
+      ],
+      "title" : "Insolvenzplan"
+    },
+    {
+      "documentIdentifier" : "BJNR286600994BJNG037200311",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR286600994BJNG037300311",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR286600994BJNE042300311",
+              "paragraph" : "§ 269a",
+              "title" : "Zusammenarbeit der Insolvenzverwalter"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE042400311",
+              "paragraph" : "§ 269b",
+              "title" : "Zusammenarbeit der Gerichte"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE042500311",
+              "paragraph" : "§ 269c",
+              "title" : "Zusammenarbeit der Gläubigerausschüsse"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              7,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Allgemeine Bestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR286600994BJNG037400311",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR286600994BJNE042600311",
+              "paragraph" : "§ 269d",
+              "title" : "Koordinationsgericht"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE042700311",
+              "paragraph" : "§ 269e",
+              "title" : "Verfahrenskoordinator"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE042800311",
+              "paragraph" : "§ 269f",
+              "title" : "Aufgaben und Rechtsstellung des Verfahrenskoordinators"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE042900311",
+              "paragraph" : "§ 269g",
+              "title" : "Vergütung des Verfahrenskoordinators"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE043000311",
+              "paragraph" : "§ 269h",
+              "title" : "Koordinationsplan"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE043100311",
+              "paragraph" : "§ 269i",
+              "title" : "Abweichungen vom Koordinationsplan"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              7,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Koordinationsverfahren"
+        }
+      ],
+      "title" : "Koordinierung der Verfahren von Schuldnern, die derselben Unternehmensgruppe angehören"
+    },
+    {
+      "documentIdentifier" : "BJNR286600994BJNG036701311",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR286600994BJNE028602311",
+          "paragraph" : "§ 270",
+          "title" : "Voraussetzungen"
+        },
+        {
+          "documentIdentifier" : "BJNR286600994BJNE040500308",
+          "paragraph" : "§ 270a",
+          "title" : "Eröffnungsverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR286600994BJNE040600308",
+          "paragraph" : "§ 270b",
+          "title" : "Vorbereitung einer Sanierung"
+        },
+        {
+          "documentIdentifier" : "BJNR286600994BJNE040700308",
+          "paragraph" : "§ 270c",
+          "title" : "Bestellung des Sachwalters"
+        },
+        {
+          "documentIdentifier" : "BJNR286600994BJNE043200311",
+          "paragraph" : "§ 270d",
+          "title" : "Eigenverwaltung bei gruppenangehörigen Schuldnern"
+        },
+        {
+          "documentIdentifier" : "BJNR286600994BJNE028701308",
+          "paragraph" : "§ 271",
+          "title" : "Nachträgliche Anordnung"
+        },
+        {
+          "documentIdentifier" : "BJNR286600994BJNE028801308",
+          "paragraph" : "§ 272",
+          "title" : "Aufhebung der Anordnung"
+        },
+        {
+          "documentIdentifier" : "BJNR286600994BJNE028900000",
+          "paragraph" : "§ 273",
+          "title" : "Öffentliche Bekanntmachung"
+        },
+        {
+          "documentIdentifier" : "BJNR286600994BJNE029002311",
+          "paragraph" : "§ 274",
+          "title" : "Rechtsstellung des Sachwalters"
+        },
+        {
+          "documentIdentifier" : "BJNR286600994BJNE029100000",
+          "paragraph" : "§ 275",
+          "title" : "Mitwirkung des Sachwalters"
+        },
+        {
+          "documentIdentifier" : "BJNR286600994BJNE029200000",
+          "paragraph" : "§ 276",
+          "title" : "Mitwirkung des Gläubigerausschusses"
+        },
+        {
+          "documentIdentifier" : "BJNR286600994BJNE040800308",
+          "paragraph" : "§ 276a",
+          "title" : "Mitwirkung der Überwachungsorgane"
+        },
+        {
+          "documentIdentifier" : "BJNR286600994BJNE029300000",
+          "paragraph" : "§ 277",
+          "title" : "Anordnung der Zustimmungsbedürftigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR286600994BJNE029400000",
+          "paragraph" : "§ 278",
+          "title" : "Mittel zur Lebensführung des Schuldners"
+        },
+        {
+          "documentIdentifier" : "BJNR286600994BJNE029500000",
+          "paragraph" : "§ 279",
+          "title" : "Gegenseitige Verträge"
+        },
+        {
+          "documentIdentifier" : "BJNR286600994BJNE029600000",
+          "paragraph" : "§ 280",
+          "title" : "Haftung. Insolvenzanfechtung"
+        },
+        {
+          "documentIdentifier" : "BJNR286600994BJNE029700000",
+          "paragraph" : "§ 281",
+          "title" : "Unterrichtung der Gläubiger"
+        },
+        {
+          "documentIdentifier" : "BJNR286600994BJNE029800000",
+          "paragraph" : "§ 282",
+          "title" : "Verwertung von Sicherungsgut"
+        },
+        {
+          "documentIdentifier" : "BJNR286600994BJNE029900000",
+          "paragraph" : "§ 283",
+          "title" : "Befriedigung der Insolvenzgläubiger"
+        },
+        {
+          "documentIdentifier" : "BJNR286600994BJNE030000000",
+          "paragraph" : "§ 284",
+          "title" : "Insolvenzplan"
+        },
+        {
+          "documentIdentifier" : "BJNR286600994BJNE030100000",
+          "paragraph" : "§ 285",
+          "title" : "Masseunzulänglichkeit"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          8
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Eigenverwaltung"
+    },
+    {
+      "documentIdentifier" : "BJNR286600994BJNG036301311",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR286600994BJNE030200000",
+          "paragraph" : "§ 286",
+          "title" : "Grundsatz"
+        },
+        {
+          "documentIdentifier" : "BJNR286600994BJNE030302311",
+          "paragraph" : "§ 287",
+          "title" : "Antrag des Schuldners"
+        },
+        {
+          "documentIdentifier" : "BJNR286600994BJNE040900311",
+          "paragraph" : "§ 287a",
+          "title" : "Entscheidung des Insolvenzgerichts"
+        },
+        {
+          "documentIdentifier" : "BJNR286600994BJNE041000311",
+          "paragraph" : "§ 287b",
+          "title" : "Erwerbsobliegenheit des Schuldners"
+        },
+        {
+          "documentIdentifier" : "BJNR286600994BJNE041100311",
+          "paragraph" : "§ 288",
+          "title" : "Bestimmung des Treuhänders"
+        },
+        {
+          "documentIdentifier" : "BJNR286600994BJNE041200311",
+          "paragraph" : "§ 289",
+          "title" : "Einstellung des Insolvenzverfahrens"
+        },
+        {
+          "documentIdentifier" : "BJNR286600994BJNE030601311",
+          "paragraph" : "§ 290",
+          "title" : "Versagung der Restschuldbefreiung"
+        },
+        {
+          "documentIdentifier" : "BJNR286600994BJNE030701311",
+          "paragraph" : "§ 291",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR286600994BJNE030802311",
+          "paragraph" : "§ 292",
+          "title" : "Rechtsstellung des Treuhänders"
+        },
+        {
+          "documentIdentifier" : "BJNR286600994BJNE030901301",
+          "paragraph" : "§ 293",
+          "title" : "Vergütung des Treuhänders"
+        },
+        {
+          "documentIdentifier" : "BJNR286600994BJNE031001311",
+          "paragraph" : "§ 294",
+          "title" : "Gleichbehandlung der Gläubiger"
+        },
+        {
+          "documentIdentifier" : "BJNR286600994BJNE031101311",
+          "paragraph" : "§ 295",
+          "title" : "Obliegenheiten des Schuldners"
+        },
+        {
+          "documentIdentifier" : "BJNR286600994BJNE031201311",
+          "paragraph" : "§ 296",
+          "title" : "Verstoß gegen Obliegenheiten"
+        },
+        {
+          "documentIdentifier" : "BJNR286600994BJNE031301311",
+          "paragraph" : "§ 297",
+          "title" : "Insolvenzstraftaten"
+        },
+        {
+          "documentIdentifier" : "BJNR286600994BJNE041300311",
+          "paragraph" : "§ 297a",
+          "title" : "Nachträglich bekannt gewordene Versagungsgründe"
+        },
+        {
+          "documentIdentifier" : "BJNR286600994BJNE031401301",
+          "paragraph" : "§ 298",
+          "title" : "Deckung der Mindestvergütung des Treuhänders"
+        },
+        {
+          "documentIdentifier" : "BJNR286600994BJNE031501311",
+          "paragraph" : "§ 299",
+          "title" : "Vorzeitige Beendigung"
+        },
+        {
+          "documentIdentifier" : "BJNR286600994BJNE031602311",
+          "paragraph" : "§ 300",
+          "title" : "Entscheidung über die Restschuldbefreiung"
+        },
+        {
+          "documentIdentifier" : "BJNR286600994BJNE041400311",
+          "paragraph" : "§ 300a",
+          "title" : "Neuerwerb im laufenden Insolvenzverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR286600994BJNE031700000",
+          "paragraph" : "§ 301",
+          "title" : "Wirkung der Restschuldbefreiung"
+        },
+        {
+          "documentIdentifier" : "BJNR286600994BJNE031802311",
+          "paragraph" : "§ 302",
+          "title" : "Ausgenommene Forderungen"
+        },
+        {
+          "documentIdentifier" : "BJNR286600994BJNE031901311",
+          "paragraph" : "§ 303",
+          "title" : "Widerruf der Restschuldbefreiung"
+        },
+        {
+          "documentIdentifier" : "BJNR286600994BJNE041501311",
+          "paragraph" : "§ 303a",
+          "title" : "Eintragung in das Schuldnerverzeichnis"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          9
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Restschuldbefreiung"
+    },
+    {
+      "documentIdentifier" : "BJNR286600994BJNG036402311",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR286600994BJNE032101301",
+          "paragraph" : "§ 304",
+          "title" : "Grundsatz"
+        },
+        {
+          "documentIdentifier" : "BJNR286600994BJNE032307311",
+          "paragraph" : "§ 305",
+          "title" : "Eröffnungsantrag des Schuldners"
+        },
+        {
+          "documentIdentifier" : "BJNR286600994BJNE036500301",
+          "paragraph" : "§ 305a",
+          "title" : "Scheitern der außergerichtlichen Schuldenbereinigung"
+        },
+        {
+          "documentIdentifier" : "BJNR286600994BJNE032401301",
+          "paragraph" : "§ 306",
+          "title" : "Ruhen des Verfahrens"
+        },
+        {
+          "documentIdentifier" : "BJNR286600994BJNE032501301",
+          "paragraph" : "§ 307",
+          "title" : "Zustellung an die Gläubiger"
+        },
+        {
+          "documentIdentifier" : "BJNR286600994BJNE032601301",
+          "paragraph" : "§ 308",
+          "title" : "Annahme des Schuldenbereinigungsplans"
+        },
+        {
+          "documentIdentifier" : "BJNR286600994BJNE032702301",
+          "paragraph" : "§ 309",
+          "title" : "Ersetzung der Zustimmung"
+        },
+        {
+          "documentIdentifier" : "BJNR286600994BJNE032800000",
+          "paragraph" : "§ 310",
+          "title" : "Kosten"
+        },
+        {
+          "documentIdentifier" : "BJNR286600994BJNE033000000",
+          "paragraph" : "§ 311",
+          "title" : "Aufnahme des Verfahrens über den Eröffnungsantrag"
+        },
+        {
+          "documentIdentifier" : "BJNR286600994BJNE033103311",
+          "paragraph" : "(XXXX) §§ 312 bis 314",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          10
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Verbraucherinsolvenzverfahren"
+    },
+    {
+      "documentIdentifier" : "BJNR286600994BJNG036501311",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          11
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR286600994BJNG033401311",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR286600994BJNE033500000",
+              "paragraph" : "§ 315",
+              "title" : "Örtliche Zuständigkeit"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE033600000",
+              "paragraph" : "§ 316",
+              "title" : "Zulässigkeit der Eröffnung"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE033700000",
+              "paragraph" : "§ 317",
+              "title" : "Antragsberechtigte"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE033801301",
+              "paragraph" : "§ 318",
+              "title" : "Antragsrecht beim Gesamtgut"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE033900000",
+              "paragraph" : "§ 319",
+              "title" : "Antragsfrist"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE034000000",
+              "paragraph" : "§ 320",
+              "title" : "Eröffnungsgründe"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE034100000",
+              "paragraph" : "§ 321",
+              "title" : "Zwangsvollstreckung nach Erbfall"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE034200000",
+              "paragraph" : "§ 322",
+              "title" : "Anfechtbare Rechtshandlungen des Erben"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE034300000",
+              "paragraph" : "§ 323",
+              "title" : "Aufwendungen des Erben"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE034400000",
+              "paragraph" : "§ 324",
+              "title" : "Masseverbindlichkeiten"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE034500000",
+              "paragraph" : "§ 325",
+              "title" : "Nachlaßverbindlichkeiten"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE034600000",
+              "paragraph" : "§ 326",
+              "title" : "Ansprüche des Erben"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE034701307",
+              "paragraph" : "§ 327",
+              "title" : "Nachrangige Verbindlichkeiten"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE034800000",
+              "paragraph" : "§ 328",
+              "title" : "Zurückgewährte Gegenstände"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE034900000",
+              "paragraph" : "§ 329",
+              "title" : "Nacherbfolge"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE035000000",
+              "paragraph" : "§ 330",
+              "title" : "Erbschaftskauf"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE035101311",
+              "paragraph" : "§ 331",
+              "title" : "Gleichzeitige Insolvenz des Erben"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              11,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Nachlaßinsolvenzverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR286600994BJNG035201311",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR286600994BJNE035300000",
+              "paragraph" : "§ 332",
+              "title" : "Verweisung auf das Nachlaßinsolvenzverfahren"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              11,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Insolvenzverfahren über das Gesamtgut einer fortgesetzten Gütergemeinschaft"
+        },
+        {
+          "documentIdentifier" : "BJNR286600994BJNG035401311",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR286600994BJNE035501311",
+              "paragraph" : "§ 333",
+              "title" : "Antragsrecht. Eröffnungsgründe"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE035601311",
+              "paragraph" : "§ 334",
+              "title" : "Persönliche Haftung der Ehegatten"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              11,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Insolvenzverfahren über das gemeinschaftlich verwaltete Gesamtgut einer Gütergemeinschaft"
+        }
+      ],
+      "title" : "Besondere Arten des Insolvenzverfahrens"
+    },
+    {
+      "documentIdentifier" : "BJNR286600994BJNG036801311",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          12
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR286600994BJNG036901311",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR286600994BJNE036600301",
+              "paragraph" : "§ 335",
+              "title" : "Grundsatz"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE036700301",
+              "paragraph" : "§ 336",
+              "title" : "Vertrag über einen unbeweglichen Gegenstand"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE036801308",
+              "paragraph" : "§ 337",
+              "title" : "Arbeitsverhältnis"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE036900301",
+              "paragraph" : "§ 338",
+              "title" : "Aufrechnung"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE037000301",
+              "paragraph" : "§ 339",
+              "title" : "Insolvenzanfechtung"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE037102311",
+              "paragraph" : "§ 340",
+              "title" : "Organisierte Märkte. Pensionsgeschäfte"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE037200301",
+              "paragraph" : "§ 341",
+              "title" : "Ausübung von Gläubigerrechten"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE037300301",
+              "paragraph" : "§ 342",
+              "title" : "Herausgabepflicht. Anrechnung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              12,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Allgemeine Vorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR286600994BJNG037001311",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR286600994BJNE037400301",
+              "paragraph" : "§ 343",
+              "title" : "Anerkennung"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE037500301",
+              "paragraph" : "§ 344",
+              "title" : "Sicherungsmaßnahmen"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE037603311",
+              "paragraph" : "§ 345",
+              "title" : "Öffentliche Bekanntmachung"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE037700301",
+              "paragraph" : "§ 346",
+              "title" : "Grundbuch"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE037800301",
+              "paragraph" : "§ 347",
+              "title" : "Nachweis der Verwalterbestellung. Unterrichtung des Gerichts"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE037901308",
+              "paragraph" : "§ 348",
+              "title" : "Zuständiges Insolvenzgericht."
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE038000301",
+              "paragraph" : "§ 349",
+              "title" : "Verfügungen über unbewegliche Gegenstände"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE038100301",
+              "paragraph" : "§ 350",
+              "title" : "Leistung an den Schuldner"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE038200301",
+              "paragraph" : "§ 351",
+              "title" : "Dingliche Rechte"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE038300301",
+              "paragraph" : "§ 352",
+              "title" : "Unterbrechung und Aufnahme eines Rechtsstreits"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE038400301",
+              "paragraph" : "§ 353",
+              "title" : "Vollstreckbarkeit ausländischer Entscheidungen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              12,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Ausländisches Insolvenzverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR286600994BJNG037101311",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR286600994BJNE038500301",
+              "paragraph" : "§ 354",
+              "title" : "Voraussetzungen des Partikularverfahrens"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE038600301",
+              "paragraph" : "§ 355",
+              "title" : "Restschuldbefreiung. Insolvenzplan"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE038700301",
+              "paragraph" : "§ 356",
+              "title" : "Sekundärinsolvenzverfahren"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE038800301",
+              "paragraph" : "§ 357",
+              "title" : "Zusammenarbeit der Insolvenzverwalter"
+            },
+            {
+              "documentIdentifier" : "BJNR286600994BJNE038900301",
+              "paragraph" : "§ 358",
+              "title" : "Überschuss bei der Schlussverteilung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              12,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Partikularverfahren über das Inlandsvermögen"
+        }
+      ],
+      "title" : "Internationales Insolvenzrecht"
+    },
+    {
+      "documentIdentifier" : "BJNR286600994BJNG036602311",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR286600994BJNE035701301",
+          "paragraph" : "§ 359",
+          "title" : "Verweisung auf das Einführungsgesetz"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          13
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inkrafttreten"
+    }
+  ]
+}

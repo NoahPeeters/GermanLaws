@@ -1,0 +1,817 @@
+{
+  "documentIdentifier" : "BJNR024850976",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR024850976BJNG000106311",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR024850976BJNE001606310",
+          "paragraph" : "§ 1",
+          "title" : "Geltungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE017100310",
+          "paragraph" : "§ 1a",
+          "title" : "Lebenspartnerschaft"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE001719311",
+          "paragraph" : "§ 2",
+          "title" : "Arten der Versorgung"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE001805310",
+          "paragraph" : "§ 3",
+          "title" : "Regelung durch Gesetz"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR024850976BJNG000206311",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR024850976BJNE001909116",
+          "paragraph" : "§ 4",
+          "title" : "Entstehen und Berechnung des Ruhegehalts"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE017202311",
+          "paragraph" : "§ 5",
+          "title" : "Ruhegehaltfähige Dienstbezüge"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE017302311",
+          "paragraph" : "§ 6",
+          "title" : "Regelmäßige ruhegehaltfähige Dienstzeit"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE002208310",
+          "paragraph" : "§ 7",
+          "title" : "Erhöhung der ruhegehaltfähigen Dienstzeit"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE002310116",
+          "paragraph" : "§ 8",
+          "title" : "Berufsmäßiger Wehrdienst und vergleichbare Zeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE002409116",
+          "paragraph" : "§ 9",
+          "title" : "Nichtberufsmäßiger Wehrdienst und vergleichbare Zeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE002508116",
+          "paragraph" : "§ 10",
+          "title" : "Zeiten im privatrechtlichen Arbeitsverhältnis im öffentlichen Dienst"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE002608311",
+          "paragraph" : "§ 11",
+          "title" : "Sonstige Zeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE017402116",
+          "paragraph" : "§ 12",
+          "title" : "Ausbildungszeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE012504310",
+          "paragraph" : "§ 12a",
+          "title" : "Nicht zu berücksichtigende Zeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE017800310",
+          "paragraph" : "§ 12b",
+          "title" : "Zeiten in dem in Artikel 3 des Einigungsvertrages genannten Gebiet"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE017502311",
+          "paragraph" : "§ 13",
+          "title" : "Zurechnungszeit und Zeit gesundheitsschädigender Verwendung"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE002925311",
+          "paragraph" : "§ 14",
+          "title" : "Höhe des Ruhegehalts"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE011318311",
+          "paragraph" : "§ 14a",
+          "title" : "Vorübergehende Erhöhung des Ruhegehaltssatzes"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE003008311",
+          "paragraph" : "§ 15",
+          "title" : "Unterhaltsbeitrag für entlassene Beamte auf Lebenszeit und auf Probe"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE013105311",
+          "paragraph" : "§ 15a",
+          "title" : "Beamte auf Zeit und auf Probe in leitender Funktion"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Ruhegehalt, Unterhaltsbeitrag"
+    },
+    {
+      "documentIdentifier" : "BJNR024850976BJNG000306311",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR024850976BJNE003105310",
+          "paragraph" : "§ 16",
+          "title" : "Allgemeines"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE003205310",
+          "paragraph" : "§ 17",
+          "title" : "Bezüge für den Sterbemonat"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE015301310",
+          "paragraph" : "§ 18",
+          "title" : "Sterbegeld"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE003407310",
+          "paragraph" : "§ 19",
+          "title" : "Witwengeld"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE003512311",
+          "paragraph" : "§ 20",
+          "title" : "Höhe des Witwengeldes"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE016301311",
+          "paragraph" : "§ 21",
+          "title" : "Witwenabfindung"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE015401311",
+          "paragraph" : "§ 22",
+          "title" : "Unterhaltsbeitrag für nicht witwengeldberechtigte Witwen und frühere Ehefrauen"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE003808310",
+          "paragraph" : "§ 23",
+          "title" : "Waisengeld"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE003911311",
+          "paragraph" : "§ 24",
+          "title" : "Höhe des Waisengeldes"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE004008310",
+          "paragraph" : "§ 25",
+          "title" : "Zusammentreffen von Witwengeld, Waisengeld und Unterhaltsbeiträgen"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE004108116",
+          "paragraph" : "§ 26",
+          "title" : "Unterhaltsbeitrag für Hinterbliebene von Beamten auf Lebenszeit und auf Probe"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE004207310",
+          "paragraph" : "§ 27",
+          "title" : "Beginn der Zahlungen"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE004307310",
+          "paragraph" : "§ 28",
+          "title" : "Witwerversorgung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Hinterbliebenenversorgung"
+    },
+    {
+      "documentIdentifier" : "BJNR024850976BJNG000406311",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR024850976BJNE004405310",
+          "paragraph" : "§ 29",
+          "title" : "Zahlung der Bezüge"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Bezüge bei Verschollenheit"
+    },
+    {
+      "documentIdentifier" : "BJNR024850976BJNG000506311",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR024850976BJNE004509116",
+          "paragraph" : "§ 30",
+          "title" : "Allgemeines"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE004614311",
+          "paragraph" : "§ 31",
+          "title" : "Dienstunfall"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE012607311",
+          "paragraph" : "§ 31a",
+          "title" : "Einsatzversorgung"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE004708311",
+          "paragraph" : "§ 32",
+          "title" : "Erstattung von Sachschäden und besonderen Aufwendungen"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE004810311",
+          "paragraph" : "§ 33",
+          "title" : "Heilverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE004906116",
+          "paragraph" : "§ 34",
+          "title" : "Pflegekosten und Hilflosigkeitszuschlag"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE017601116",
+          "paragraph" : "§ 35",
+          "title" : "Unfallausgleich"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE005115311",
+          "paragraph" : "§ 36",
+          "title" : "Unfallruhegehalt"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE005215311",
+          "paragraph" : "§ 37",
+          "title" : "Erhöhtes Unfallruhegehalt"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE005312311",
+          "paragraph" : "§ 38",
+          "title" : "Unterhaltsbeitrag für frühere Beamte und frühere Ruhestandsbeamte"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE013703311",
+          "paragraph" : "§ 38a",
+          "title" : "Unterhaltsbeitrag bei Schädigung eines ungeborenen Kindes"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE005406311",
+          "paragraph" : "§ 39",
+          "title" : "Unfall-Hinterbliebenenversorgung"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE005506311",
+          "paragraph" : "§ 40",
+          "title" : "Unterhaltsbeitrag für Verwandte der aufsteigenden Linie"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE005605310",
+          "paragraph" : "§ 41",
+          "title" : "Unterhaltsbeitrag für Hinterbliebene"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE005707310",
+          "paragraph" : "§ 42",
+          "title" : "Höchstgrenzen der Hinterbliebenenversorgung"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE005820311",
+          "paragraph" : "§ 43",
+          "title" : "Einmalige Unfallentschädigung und einmalige Entschädigung"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE012706310",
+          "paragraph" : "§ 43a",
+          "title" : "Schadensausgleich in besonderen Fällen"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE005907310",
+          "paragraph" : "§ 44",
+          "title" : "Nichtgewährung von Unfallfürsorge"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE006007116",
+          "paragraph" : "§ 45",
+          "title" : "Meldung und Untersuchungsverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE017702311",
+          "paragraph" : "§ 46",
+          "title" : "Begrenzung der Unfallfürsorgeansprüche"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE013004310",
+          "paragraph" : "§ 46a",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Unfallfürsorge"
+    },
+    {
+      "documentIdentifier" : "BJNR024850976BJNG000606311",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR024850976BJNE006208310",
+          "paragraph" : "§ 47",
+          "title" : "Übergangsgeld"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE013305311",
+          "paragraph" : "§ 47a",
+          "title" : "Übergangsgeld für entlassene politische Beamte"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE006312310",
+          "paragraph" : "§ 48",
+          "title" : "Ausgleich bei besonderen Altersgrenzen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übergangsgeld, Ausgleich"
+    },
+    {
+      "documentIdentifier" : "BJNR024850976BJNG000706311",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR024850976BJNE006413311",
+          "paragraph" : "§ 49",
+          "title" : "Festsetzung und Zahlung der Versorgungsbezüge, Versorgungsauskunft"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE006514311",
+          "paragraph" : "§ 50",
+          "title" : "Familienzuschlag und Ausgleichsbetrag"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE013803116",
+          "paragraph" : "§ 50a",
+          "title" : "Kindererziehungszuschlag"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE013901310",
+          "paragraph" : "§ 50b",
+          "title" : "Kindererziehungsergänzungszuschlag"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE014003311",
+          "paragraph" : "§ 50c",
+          "title" : "Kinderzuschlag zum Witwengeld"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE014101310",
+          "paragraph" : "§ 50d",
+          "title" : "Pflege- und Kinderpflegeergänzungszuschlag"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE014205311",
+          "paragraph" : "§ 50e",
+          "title" : "Vorübergehende Gewährung von Zuschlägen"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE014803311",
+          "paragraph" : "§ 50f",
+          "title" : "Abzug für Pflegeleistungen"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE006607310",
+          "paragraph" : "§ 51",
+          "title" : "Abtretung, Verpfändung, Aufrechnungs- und Zurückbehaltungsrecht"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE006709310",
+          "paragraph" : "§ 52",
+          "title" : "Rückforderung von Versorgungsbezügen"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE006823311",
+          "paragraph" : "§ 53",
+          "title" : "Zusammentreffen von Versorgungsbezügen mit Erwerbs- und Erwerbsersatzeinkommen"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE011811311",
+          "paragraph" : "§ 53a",
+          "title" : "Zusammentreffen von Versorgungsbezügen mit Altersgeld, Witwenaltersgeld oder Waisenaltersgeld"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE006914311",
+          "paragraph" : "§ 54",
+          "title" : "Zusammentreffen mehrerer Versorgungsbezüge"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE015804311",
+          "paragraph" : "§ 55",
+          "title" : "Zusammentreffen von Versorgungsbezügen mit Renten"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE007113311",
+          "paragraph" : "§ 56",
+          "title" : "Zusammentreffen von Versorgungsbezügen mit Versorgung aus zwischenstaatlicher und überstaatlicher Verwendung"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE015501311",
+          "paragraph" : "§ 57",
+          "title" : "Kürzung der Versorgungsbezüge nach der Ehescheidung"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE015602311",
+          "paragraph" : "§ 58",
+          "title" : "Abwendung der Kürzung der Versorgungsbezüge"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE007406310",
+          "paragraph" : "§ 59",
+          "title" : "Erlöschen der Versorgungsbezüge wegen Verurteilung"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE007507310",
+          "paragraph" : "§ 60",
+          "title" : "Erlöschen der Versorgungsbezüge bei Ablehnung einer erneuten Berufung"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE016601116",
+          "paragraph" : "§ 61",
+          "title" : "Erlöschen der Witwen- und Waisenversorgung"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE016703311",
+          "paragraph" : "§ 62",
+          "title" : "Anzeigepflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE013504311",
+          "paragraph" : "§ 62a",
+          "title" : "Versorgungsbericht, Mitteilungspflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE007812311",
+          "paragraph" : "§ 63",
+          "title" : "Gleichstellungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gemeinsame Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR024850976BJNG000806311",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR024850976BJNE007906310",
+          "paragraph" : "§ 64",
+          "title" : "Entzug von Hinterbliebenenversorgung"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE008006310",
+          "paragraph" : "§ 65",
+          "title" : "Nichtberücksichtigung der Versorgungsbezüge"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          8
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Sondervorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR024850976BJNG000906311",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR024850976BJNE008115311",
+          "paragraph" : "§ 66",
+          "title" : "Beamte auf Zeit"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE008210310",
+          "paragraph" : "§ 67",
+          "title" : "Professoren an Hochschulen, Hochschuldozenten, Oberassistenten, Oberingenieure, Wissenschaftliche und Künstlerische Assistenten mit Bezügen nach § 77 Abs. 2 des Bundesbesoldungsgesetzes sowie Professoren und hauptberufliche Leiter und Mitglieder von Leitungsgremien an Hochschulen mit Bezügen nach der Bundesbesoldungsordnung W"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE008308311",
+          "paragraph" : "§ 68",
+          "title" : "Ehrenbeamte"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          9
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Versorgung besonderer Beamtengruppen"
+    },
+    {
+      "documentIdentifier" : "BJNR024850976BJNG001006311",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR024850976BJNE008419311",
+          "paragraph" : "§ 69",
+          "title" : "Anwendung bisherigen und neuen Rechts für am 1. Januar 1977 vorhandene Versorgungsempfänger"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE011913311",
+          "paragraph" : "§ 69a",
+          "title" : "Anwendung bisherigen und neuen Rechts für am 1. Januar 1992 vorhandene Versorgungsempfänger"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE013206310",
+          "paragraph" : "§ 69b",
+          "title" : "Übergangsregelungen für vor dem 1. Juli 1997 eingetretene Versorgungsfälle"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE013410310",
+          "paragraph" : "§ 69c",
+          "title" : "Übergangsregelungen für vor dem 1. Januar 1999 eingetretene Versorgungsfälle und für am 1. Januar 1999 vorhandene Beamte"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE013606311",
+          "paragraph" : "§ 69d",
+          "title" : "Übergangsregelungen für vor dem 1. Januar 2001 eingetretene Versorgungsfälle und für am 1. Januar 2001 vorhandene Beamte und Versorgungsempfänger"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE018001310",
+          "paragraph" : "§ 69e",
+          "title" : "Übergangsregelungen aus Anlass des Versorgungsänderungsgesetzes 2001 sowie des Dienstrechtsneuordnungsgesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE015001310",
+          "paragraph" : "§ 69f",
+          "title" : "Übergangsregelungen zur Berücksichtigung von Hochschulausbildungszeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE015106311",
+          "paragraph" : "§ 69g",
+          "title" : "Versorgungsüberleitungsregelungen aus Anlass des Dienstrechtsneuordnungsgesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE015202310",
+          "paragraph" : "§ 69h",
+          "title" : "Übergangsregelungen zur Anhebung des Ruhestandseintrittsalters"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE018101377",
+          "paragraph" : "§ 69i",
+          "title" : "Übergangsregelung aus Anlass des Einsatzversorgungs-Verbesserungsgesetzes und des Bundeswehr-Attraktivitätssteigerungsgesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE018200118",
+          "paragraph" : "§ 69j",
+          "title" : "Übergangsregelung aus Anlass des Professorenbesoldungsneuregelungsgesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE018401116",
+          "paragraph" : "§ 69k",
+          "title" : "Übergangsregelung aus Anlass des Gesetzes zur Änderung des Versorgungsrücklagegesetzes und weiterer dienstrechtlicher Vorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE018500116",
+          "paragraph" : "§ 69l",
+          "title" : "Übergangsregelung zu § 55"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          10
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übergangsvorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR024850976BJNG001106311",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR024850976BJNE008506310",
+          "paragraph" : "§ 70",
+          "title" : "Allgemeine Anpassung"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE014421311",
+          "paragraph" : "§ 71",
+          "title" : "Erhöhung der Versorgungsbezüge"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE014702310",
+          "paragraph" : "§ 72",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE012903310",
+          "paragraph" : "(XXXX) §§ 73 bis 76",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          11
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Anpassung der Versorgungsbezüge"
+    },
+    {
+      "documentIdentifier" : "BJNR024850976BJNG001207311",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          12
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "(weggefallen)"
+    },
+    {
+      "documentIdentifier" : "BJNR024850976BJNG001306311",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR024850976BJNE009908311",
+          "paragraph" : "§ 84",
+          "title" : "Ruhegehaltfähige Dienstzeit"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE010017311",
+          "paragraph" : "§ 85",
+          "title" : "Ruhegehaltssatz für am 31. Dezember 1991 vorhandene Beamte"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE012007310",
+          "paragraph" : "§ 85a",
+          "title" : "Erneute Berufung in das Beamtenverhältnis"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE015700310",
+          "paragraph" : "§ 86",
+          "title" : "Hinterbliebenenversorgung"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE010206310",
+          "paragraph" : "§ 87",
+          "title" : "Unfallfürsorge"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE010306310",
+          "paragraph" : "§ 88",
+          "title" : "Abfindung"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE010406310",
+          "paragraph" : "§ 89",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE010507311",
+          "paragraph" : "§ 90",
+          "title" : "Zusammentreffen von Versorgungsbezügen mit Versorgung aus zwischenstaatlicher und überstaatlicher Verwendung"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE010607310",
+          "paragraph" : "§ 91",
+          "title" : "Hochschullehrer, Wissenschaftliche Assistenten und Lektoren"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE018800311",
+          "paragraph" : "(XXXX) §§ 92 bis 104",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          13
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übergangsvorschriften alten Rechts"
+    },
+    {
+      "documentIdentifier" : "BJNR024850976BJNG001407311",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR024850976BJNE010807310",
+          "paragraph" : "§ 105",
+          "title" : "Außerkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE010905310",
+          "paragraph" : "§ 106",
+          "title" : "Verweisung auf aufgehobene Vorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE011009311",
+          "paragraph" : "§ 107",
+          "title" : "Ermächtigung zum Erlass von Rechtsverordnungen und Verwaltungsvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE012113310",
+          "paragraph" : "§ 107a",
+          "title" : "Überleitungsregelungen aus Anlaß der Herstellung der Einheit Deutschlands"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE012312311",
+          "paragraph" : "§ 107b",
+          "title" : "Verteilung der Versorgungslasten"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE012407310",
+          "paragraph" : "§ 107c",
+          "title" : "Verteilung der Versorgungslasten bei erneuter Berufung in ein öffentlich-rechtliches Dienstverhältnis in dem in Artikel 3 des Einigungsvertrages genannten Gebiet"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE018302311",
+          "paragraph" : "§ 107d",
+          "title" : "Befristete Ausnahme für Verwendungseinkommen"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE018900311",
+          "paragraph" : "§ 107e",
+          "title" : "Sonderregelung für Einkommen aus Beschäftigungen zur Bewältigung der Auswirkungen der COVID-19-Pandemie"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE011107310",
+          "paragraph" : "§ 108",
+          "title" : "Anwendungsbereich in den Ländern"
+        },
+        {
+          "documentIdentifier" : "BJNR024850976BJNE012200307",
+          "paragraph" : "Anhang EV",
+          "title" : "Auszug aus EinigVtr Anlage I Kap. XIX Sachgebiet A Abschnitt III\n"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          14
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussvorschriften"
+    }
+  ]
+}

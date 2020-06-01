@@ -1,0 +1,89 @@
+{
+  "documentIdentifier" : "BJNR105800985",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR105800985Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR105800985BJNE000111118",
+          "paragraph" : "§ 1",
+          "title" : "Grundvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR105800985BJNE001107118",
+          "paragraph" : "§ 2",
+          "title" : "Grundpreis"
+        },
+        {
+          "documentIdentifier" : "BJNR105800985BJNE001203118",
+          "paragraph" : "§ 3",
+          "title" : "Elektrizität, Gas, Fernwärme und Wasser"
+        },
+        {
+          "documentIdentifier" : "BJNR105800985BJNE000204377",
+          "paragraph" : "§ 4",
+          "title" : "Handel"
+        },
+        {
+          "documentIdentifier" : "BJNR105800985BJNE000305377",
+          "paragraph" : "§ 5",
+          "title" : "Leistungen"
+        },
+        {
+          "documentIdentifier" : "BJNR105800985BJNE000412118",
+          "paragraph" : "§ 6",
+          "title" : "Verbraucherdarlehen"
+        },
+        {
+          "documentIdentifier" : "BJNR105800985BJNE001401118",
+          "paragraph" : "§ 6a",
+          "title" : "Werbung für Verbraucherdarlehen"
+        },
+        {
+          "documentIdentifier" : "BJNR105800985BJNE001501118",
+          "paragraph" : "§ 6b",
+          "title" : "Überziehungsmöglichkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR105800985BJNE001600118",
+          "paragraph" : "§ 6c",
+          "title" : "Entgeltliche Finanzierungshilfen"
+        },
+        {
+          "documentIdentifier" : "BJNR105800985BJNE000506377",
+          "paragraph" : "§ 7",
+          "title" : "Gaststätten, Beherbergungsbetriebe"
+        },
+        {
+          "documentIdentifier" : "BJNR105800985BJNE000604377",
+          "paragraph" : "§ 8",
+          "title" : "Tankstellen, Parkplätze"
+        },
+        {
+          "documentIdentifier" : "BJNR105800985BJNE000708118",
+          "paragraph" : "§ 9",
+          "title" : "Ausnahmen"
+        },
+        {
+          "documentIdentifier" : "BJNR105800985BJNE000813118",
+          "paragraph" : "§ 10",
+          "title" : "Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR105800985BJNE001306118",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 6)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

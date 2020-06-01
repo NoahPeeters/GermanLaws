@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR262800001",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR262800001Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR262800001BJNE000200310",
+          "paragraph" : "§ 1",
+          "title" : "Berechnung der zu erstattenden Aufwendungen im Rahmen des\nVersorgungsausgleichs"
+        },
+        {
+          "documentIdentifier" : "BJNR262800001BJNE000300310",
+          "paragraph" : "§ 2",
+          "title" : "Durchführung der Erstattung"
+        },
+        {
+          "documentIdentifier" : "BJNR262800001BJNE000400310",
+          "paragraph" : "§ 3",
+          "title" : "Zeitlicher Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR262800001BJNE000500310",
+          "paragraph" : "§ 4",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

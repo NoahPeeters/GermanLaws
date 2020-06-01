@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "DDNR002740990",
+  "sections" : [
+    {
+      "documentIdentifier" : "DDNR002740990Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "DDNR002740990BJNE000100307",
+          "paragraph" : "(XXXX) §§ 1 bis 3",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "DDNR002740990BJNE000200307",
+          "paragraph" : "§ 4",
+          "title" : "Entschädigung"
+        },
+        {
+          "documentIdentifier" : "DDNR002740990BJNE000300307",
+          "paragraph" : "(XXXX) §§ 5 bis 7",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "DDNR002740990BJNE000400307",
+          "paragraph" : "§ 8",
+          "title" : "Übergangsgeld"
+        },
+        {
+          "documentIdentifier" : "DDNR002740990BJNE000600307",
+          "paragraph" : "§ 10",
+          "title" : "Anrechnung"
+        },
+        {
+          "documentIdentifier" : "DDNR002740990BJNE000700307",
+          "paragraph" : "(XXXX) §§ 11 bis 15",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "DDNR002740990BJNE888800301",
+          "paragraph" : "Anhang EV",
+          "title" : "Auszug aus EinigVtrVbg Art 3"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

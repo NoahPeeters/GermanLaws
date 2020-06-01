@@ -1,0 +1,74 @@
+{
+  "documentIdentifier" : "BJNR054710003",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR054710003Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR054710003BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Versteigerungsauftrag"
+        },
+        {
+          "documentIdentifier" : "BJNR054710003BJNE000201308",
+          "paragraph" : "§ 2",
+          "title" : "Verzeichnis"
+        },
+        {
+          "documentIdentifier" : "BJNR054710003BJNE000302118",
+          "paragraph" : "§ 3",
+          "title" : "Anzeige"
+        },
+        {
+          "documentIdentifier" : "BJNR054710003BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Besichtigung"
+        },
+        {
+          "documentIdentifier" : "BJNR054710003BJNE000501308",
+          "paragraph" : "§ 5",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR054710003BJNE000600000",
+          "paragraph" : "§ 6",
+          "title" : "Ausnahme von den verbotenen Tätigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR054710003BJNE000700000",
+          "paragraph" : "§ 7",
+          "title" : "Zuschlag"
+        },
+        {
+          "documentIdentifier" : "BJNR054710003BJNE000800000",
+          "paragraph" : "§ 8",
+          "title" : "Buchführung"
+        },
+        {
+          "documentIdentifier" : "BJNR054710003BJNE000901308",
+          "paragraph" : "§ 9",
+          "title" : "Untersagung, Aufhebung und Unterbrechung der Versteigerung"
+        },
+        {
+          "documentIdentifier" : "BJNR054710003BJNE001002360",
+          "paragraph" : "§ 10",
+          "title" : "Straftaten und Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR054710003BJNE001100377",
+          "paragraph" : "§ 11",
+          "title" : "Anwendung bei grenzüberschreitender Dienstleistungserbringung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

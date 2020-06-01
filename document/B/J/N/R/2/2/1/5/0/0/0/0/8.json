@@ -1,0 +1,59 @@
+{
+  "documentIdentifier" : "BJNR221500008",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR221500008Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR221500008BJNE000202116",
+          "paragraph" : "§ 1",
+          "title" : "Allgemein verbotene Stoffe"
+        },
+        {
+          "documentIdentifier" : "BJNR221500008BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Mitteilungspflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR221500008BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Kennzeichnung"
+        },
+        {
+          "documentIdentifier" : "BJNR221500008BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Gute Herstellungspraxis"
+        },
+        {
+          "documentIdentifier" : "BJNR221500008BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Straftaten und Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR221500008BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR221500008BJNE000900000",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 1 Satz 2 Nr. 2)"
+        },
+        {
+          "documentIdentifier" : "BJNR221500008BJNE001000000",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 1 Satz 2 Nr. 3)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

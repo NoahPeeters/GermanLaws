@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR209210015",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR209210015Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR209210015BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Aufgaben und Befugnisse"
+        },
+        {
+          "documentIdentifier" : "BJNR209210015BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Anordnungen und Abhilfemaßnahmen"
+        },
+        {
+          "documentIdentifier" : "BJNR209210015BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Ermächtigung zum Erlass von Rechtsverordnungen"
+        },
+        {
+          "documentIdentifier" : "BJNR209210015BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Bußgeldvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR209210015BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Einziehung"
+        },
+        {
+          "documentIdentifier" : "BJNR209210015BJNE000600000",
+          "paragraph" : "§ 6",
+          "title" : "Zuständigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR209210015BJNE000700000",
+          "paragraph" : "§ 7",
+          "title" : "Aufwendungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

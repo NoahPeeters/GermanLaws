@@ -1,0 +1,69 @@
+{
+  "documentIdentifier" : "BJNR502300009",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR502300009Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR502300009BJNE000201377",
+          "paragraph" : "§ 1",
+          "title" : "Vollständiges Verbot der Einfuhr und des Inverkehrbringens"
+        },
+        {
+          "documentIdentifier" : "BJNR502300009BJNE000301377",
+          "paragraph" : "§ 2",
+          "title" : "Beschränktes Verbot der Einfuhr und des Inverkehrbringens"
+        },
+        {
+          "documentIdentifier" : "BJNR502300009BJNE000402360",
+          "paragraph" : "§ 3",
+          "title" : "Verbot und Beschränkung der Aussaat"
+        },
+        {
+          "documentIdentifier" : "BJNR502300009BJNE000502360",
+          "paragraph" : "§ 4",
+          "title" : "Ausnahmen"
+        },
+        {
+          "documentIdentifier" : "BJNR502300009BJNE000601377",
+          "paragraph" : "§ 5",
+          "title" : "Anordnungsbefugnis"
+        },
+        {
+          "documentIdentifier" : "BJNR502300009BJNE000702377",
+          "paragraph" : "§ 6",
+          "title" : "Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR502300009BJNE000801377",
+          "paragraph" : "§ 7",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR502300009BJNE000901377",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu den §§ 1 und 3 Absatz 1)"
+        },
+        {
+          "documentIdentifier" : "BJNR502300009BJNE001001377",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu den §§ 2 und 3 Absatz 2) "
+        },
+        {
+          "documentIdentifier" : "BJNR502300009BJNE001101377",
+          "paragraph" : "Anlage 3",
+          "title" : "(zu § 2 Absatz 1) "
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

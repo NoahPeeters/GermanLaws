@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR007400986",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR007400986Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR007400986BJNE000300308",
+          "paragraph" : "Art 2",
+          "title" : "Aufhebung von Anordnungen"
+        },
+        {
+          "documentIdentifier" : "BJNR007400986BJNE000400308",
+          "paragraph" : "Art 3",
+          "title" : "Berlin-Klausel"
+        },
+        {
+          "documentIdentifier" : "BJNR007400986BJNE000500308",
+          "paragraph" : "Art 4",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

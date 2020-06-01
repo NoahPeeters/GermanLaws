@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR175700016",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR175700016Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR175700016BJNE000100000",
+          "paragraph" : "(XXXX) Art 1 bis 5",
+          "title" : "Änderungsvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR175700016BJNE000200000",
+          "paragraph" : "Art 6",
+          "title" : "Evaluierung"
+        },
+        {
+          "documentIdentifier" : "BJNR175700016BJNE000300000",
+          "paragraph" : "Art 7",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

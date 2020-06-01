@@ -1,0 +1,64 @@
+{
+  "documentIdentifier" : "BJNR131900007",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR131900007Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR131900007BJNE000101124",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR131900007BJNE000201124",
+          "paragraph" : "§ 2",
+          "title" : "Untersuchungs- und Meldepflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR131900007BJNE000301124",
+          "paragraph" : "§ 3",
+          "title" : "Zusammenarbeit mit anderen Mitgliedstaaten und der Agentur sowie Unterrichtung der Länder"
+        },
+        {
+          "documentIdentifier" : "BJNR131900007BJNE000401124",
+          "paragraph" : "§ 4",
+          "title" : "Maßnahmen an der Unfallstelle"
+        },
+        {
+          "documentIdentifier" : "BJNR131900007BJNE000501124",
+          "paragraph" : "§ 5",
+          "title" : "Untersuchungsbericht"
+        },
+        {
+          "documentIdentifier" : "BJNR131900007BJNE000601124",
+          "paragraph" : "§ 6",
+          "title" : "Sicherheitsempfehlungen"
+        },
+        {
+          "documentIdentifier" : "BJNR131900007BJNE000701124",
+          "paragraph" : "§ 7",
+          "title" : "Jahresbericht"
+        },
+        {
+          "documentIdentifier" : "BJNR131900007BJNE000801124",
+          "paragraph" : "§ 8",
+          "title" : "Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR131900007BJNE001000124",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 2 Absatz 3)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

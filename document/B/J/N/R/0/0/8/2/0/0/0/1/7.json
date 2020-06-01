@@ -1,0 +1,141 @@
+{
+  "documentIdentifier" : "BJNR008200017",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR008200017BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR008200017BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Vorbereitungsdienst"
+        },
+        {
+          "documentIdentifier" : "BJNR008200017BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Ziele des Vorbereitungsdienstes"
+        },
+        {
+          "documentIdentifier" : "BJNR008200017BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Dienstbehörde, Dienstaufsicht"
+        },
+        {
+          "documentIdentifier" : "BJNR008200017BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Nachteilsausgleich"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeines"
+    },
+    {
+      "documentIdentifier" : "BJNR008200017BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR008200017BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Zulassung zum Auswahlverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR008200017BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Auswahlkommission"
+        },
+        {
+          "documentIdentifier" : "BJNR008200017BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Auswahlverfahren, Auswahlkonzept, Täuschungen"
+        },
+        {
+          "documentIdentifier" : "BJNR008200017BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Schriftlicher Teil des Auswahlverfahrens"
+        },
+        {
+          "documentIdentifier" : "BJNR008200017BJNE001000000",
+          "paragraph" : "§ 9",
+          "title" : "Zulassung zum mündlichen Teil des Auswahlverfahrens"
+        },
+        {
+          "documentIdentifier" : "BJNR008200017BJNE001100000",
+          "paragraph" : "§ 10",
+          "title" : "Mündlicher Teil des Auswahlverfahrens"
+        },
+        {
+          "documentIdentifier" : "BJNR008200017BJNE001200000",
+          "paragraph" : "§ 11",
+          "title" : "Gesamtergebnis des Auswahlverfahrens"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Auswahlverfahren"
+    },
+    {
+      "documentIdentifier" : "BJNR008200017BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR008200017BJNE001300000",
+          "paragraph" : "§ 12",
+          "title" : "Ausbildung"
+        },
+        {
+          "documentIdentifier" : "BJNR008200017BJNE001400000",
+          "paragraph" : "§ 13",
+          "title" : "Laufbahnprüfung und Prüfungsverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR008200017BJNE001500000",
+          "paragraph" : "§ 14",
+          "title" : "Ausbildungsakte"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Ausbildung und Laufbahnprüfung"
+    },
+    {
+      "documentIdentifier" : "BJNR008200017BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR008200017BJNE001600000",
+          "paragraph" : "§ 15",
+          "title" : "Übergangsvorschrift"
+        },
+        {
+          "documentIdentifier" : "BJNR008200017BJNE001700000",
+          "paragraph" : "§ 16",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussvorschriften"
+    }
+  ]
+}

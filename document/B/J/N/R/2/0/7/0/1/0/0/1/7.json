@@ -1,0 +1,107 @@
+{
+  "documentIdentifier" : "BJNR207010017",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR207010017BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR207010017BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Persönlicher Anwendungsbereich, Subsidiarität"
+        },
+        {
+          "documentIdentifier" : "BJNR207010017BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR207010017BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Verträge zur Sekundierung"
+        },
+        {
+          "documentIdentifier" : "BJNR207010017BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Sekundierende Einrichtungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeines"
+    },
+    {
+      "documentIdentifier" : "BJNR207010017BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR207010017BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Altersvorsorge"
+        },
+        {
+          "documentIdentifier" : "BJNR207010017BJNE000600000",
+          "paragraph" : "§ 6",
+          "title" : "Absicherung bei Krankheit und Pflegebedürftigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR207010017BJNE000700000",
+          "paragraph" : "§ 7",
+          "title" : "Absicherung gegen Haftungsrisiken"
+        },
+        {
+          "documentIdentifier" : "BJNR207010017BJNE000800000",
+          "paragraph" : "§ 8",
+          "title" : "Reisekosten"
+        },
+        {
+          "documentIdentifier" : "BJNR207010017BJNE000900000",
+          "paragraph" : "§ 9",
+          "title" : "Zusätzliche vertragliche Leistungen"
+        },
+        {
+          "documentIdentifier" : "BJNR207010017BJNE001000000",
+          "paragraph" : "§ 10",
+          "title" : "Bestand der Leistungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Leistungen an die sekundierten Personen"
+    },
+    {
+      "documentIdentifier" : "BJNR207010017BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR207010017BJNE001100000",
+          "paragraph" : "§ 11",
+          "title" : "Entgeltersatzleistungen der Arbeitsförderung"
+        },
+        {
+          "documentIdentifier" : "BJNR207010017BJNE001200000",
+          "paragraph" : "§ 12",
+          "title" : "Übergangsvorschrift"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Leistungen bei Arbeitslosigkeit nach dem Zeitraum der Sekundierung"
+    }
+  ]
+}

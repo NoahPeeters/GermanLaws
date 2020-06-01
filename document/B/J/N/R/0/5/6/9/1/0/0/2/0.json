@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR056910020",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR056910020Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR056910020BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Aussetzung der Insolvenzantragspflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR056910020BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Folgen der Aussetzung"
+        },
+        {
+          "documentIdentifier" : "BJNR056910020BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Eröffnungsgrund bei Gläubigerinsolvenzanträgen"
+        },
+        {
+          "documentIdentifier" : "BJNR056910020BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Verordnungsermächtigung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

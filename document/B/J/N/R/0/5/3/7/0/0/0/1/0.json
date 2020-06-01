@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR053700010",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR053700010Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR053700010BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Gewährleistungsermächtigung"
+        },
+        {
+          "documentIdentifier" : "BJNR053700010BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

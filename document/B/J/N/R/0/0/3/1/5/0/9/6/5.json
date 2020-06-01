@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR003150965",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR003150965Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR003150965BJNE000100304",
+          "paragraph" : "§ 1",
+          "title" : "Ruhen der Verfolgungsverjährung"
+        },
+        {
+          "documentIdentifier" : "BJNR003150965BJNE000200304",
+          "paragraph" : "§ 2",
+          "title" : "Anpassung des Ersten Gesetzes zur Aufhebung des Besatzungsrechts"
+        },
+        {
+          "documentIdentifier" : "BJNR003150965BJNE000300304",
+          "paragraph" : "§ 3",
+          "title" : "Land Berlin"
+        },
+        {
+          "documentIdentifier" : "BJNR003150965BJNE000400304",
+          "paragraph" : "§ 4",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR019200977",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR019200977Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR019200977BJNE000301377",
+          "paragraph" : "§ 2",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR019200977BJNE000602377",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 1 Absatz 2)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

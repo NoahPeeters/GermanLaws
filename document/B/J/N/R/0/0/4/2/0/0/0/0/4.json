@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR004200004",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR004200004Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR004200004BJNE000201310",
+          "paragraph" : "§ 1",
+          "title" : "Örtliche Zuständigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR004200004BJNE000301310",
+          "paragraph" : "§ 2",
+          "title" : "Zeitlicher Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR004200004BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

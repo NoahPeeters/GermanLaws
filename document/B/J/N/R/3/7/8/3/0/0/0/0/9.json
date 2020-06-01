@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR378300009",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR378300009Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR378300009BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR378300009BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Anzeige der Marktteilnahme"
+        },
+        {
+          "documentIdentifier" : "BJNR378300009BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Behandlung und Verwertung"
+        },
+        {
+          "documentIdentifier" : "BJNR378300009BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

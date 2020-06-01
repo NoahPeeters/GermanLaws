@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR290700005",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR290700005Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR290700005BJNE000201377",
+          "paragraph" : "§ 1",
+          "title" : "Festsetzung des Kostenbeitrags"
+        },
+        {
+          "documentIdentifier" : "BJNR290700005BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Wahl der Beitragsstufe bei vollstationären Leistungen"
+        },
+        {
+          "documentIdentifier" : "BJNR290700005BJNE000401377",
+          "paragraph" : "§ 3",
+          "title" : "Wahl der Beitragsstufe bei teilstationären Leistungen"
+        },
+        {
+          "documentIdentifier" : "BJNR290700005BJNE000501377",
+          "paragraph" : "§ 4",
+          "title" : "Berücksichtigung weiterer Unterhaltspflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR290700005BJNE000601377",
+          "paragraph" : "§ 5",
+          "title" : "Behandlung hoher Einkommen"
+        },
+        {
+          "documentIdentifier" : "BJNR290700005BJNE000701377",
+          "paragraph" : "§ 6",
+          "title" : "Heranziehung der Eltern bei Leistungen für junge Volljährige"
+        },
+        {
+          "documentIdentifier" : "BJNR290700005BJNE000801377",
+          "paragraph" : "§ 7",
+          "title" : "Einsatz des Kindergelds"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

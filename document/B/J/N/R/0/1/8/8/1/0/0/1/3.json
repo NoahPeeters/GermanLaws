@@ -1,0 +1,154 @@
+{
+  "documentIdentifier" : "BJNR018810013",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR018810013Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR018810013BJNE000101116",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich und Begriffsbestimmungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR018810013BJNG000100000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR018810013BJNE000200000",
+              "paragraph" : "§ 2",
+              "title" : "Notwendige Angaben zur Organ- und Spendercharakterisierung"
+            },
+            {
+              "documentIdentifier" : "BJNR018810013BJNE000300000",
+              "paragraph" : "§ 3",
+              "title" : "Weitere Angaben zur Organ- und Spendercharakterisierung"
+            },
+            {
+              "documentIdentifier" : "BJNR018810013BJNE000400000",
+              "paragraph" : "§ 4",
+              "title" : "Anwendung des Dringlichkeitsverfahrens der Richtlinie 2010\/53\/EU"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Organ- und Spendercharakterisierung"
+        }
+      ],
+      "title" : "Inhalt"
+    },
+    {
+      "documentIdentifier" : "BJNR018810013BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR018810013BJNE000900116",
+          "paragraph" : "§ 5",
+          "title" : "Verfahren zur Übermittlung von Angaben zur Organ- und Spendercharakterisierung bei verstorbenen Spendern"
+        },
+        {
+          "documentIdentifier" : "BJNR018810013BJNE001000116",
+          "paragraph" : "§ 6",
+          "title" : "Verfahren zur Übermittlung von Angaben zur Organ- und Spendercharakterisierung beim grenzüberschreitenden Organaustausch"
+        },
+        {
+          "documentIdentifier" : "BJNR018810013BJNE000501116",
+          "paragraph" : "§ 7",
+          "title" : "Kennzeichnung der Behälter für den Transport von Organen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Transport"
+    },
+    {
+      "documentIdentifier" : "BJNR018810013BJNG000301116",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR018810013BJNE001100116",
+          "paragraph" : "§ 8",
+          "title" : "Angaben zur Gewährleistung der Rückverfolgbarkeit von Organen beim grenzüberschreitenden Organaustausch"
+        },
+        {
+          "documentIdentifier" : "BJNR018810013BJNE000601116",
+          "paragraph" : "§ 9",
+          "title" : "Meldung schwerwiegender Zwischenfälle und schwerwiegender unerwünschter Reaktionen"
+        },
+        {
+          "documentIdentifier" : "BJNR018810013BJNE001200116",
+          "paragraph" : "§ 10",
+          "title" : "Meldung schwerwiegender Zwischenfälle und schwerwiegender unerwünschter Reaktionen beim grenzüberschreitenden Organaustausch"
+        },
+        {
+          "documentIdentifier" : "BJNR018810013BJNE000701116",
+          "paragraph" : "§ 11",
+          "title" : "Meldung von Vorfällen bei der Lebendspende von Organen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Rückverfolgbarkeit, Meldung schwerwiegender Zwischenfälle und schwerwiegender unerwünschter Reaktionen"
+    },
+    {
+      "documentIdentifier" : "BJNR018810013BJNG000401116",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR018810013BJNE001300116",
+          "paragraph" : "§ 12",
+          "title" : "Gemeinsame Verfahrensvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR018810013BJNE001400116",
+          "paragraph" : "§ 13",
+          "title" : "Vermittlung im Organaustauschverbund"
+        },
+        {
+          "documentIdentifier" : "BJNR018810013BJNE001500116",
+          "paragraph" : "§ 14",
+          "title" : "Notfallregelung"
+        },
+        {
+          "documentIdentifier" : "BJNR018810013BJNE001600116",
+          "paragraph" : "§ 15",
+          "title" : "Verbindung zwischen den Mitgliedstaaten der Europäischen Union"
+        },
+        {
+          "documentIdentifier" : "BJNR018810013BJNE000801116",
+          "paragraph" : "§ 16",
+          "title" : "Ordnungswidrigkeiten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gemeinsame Vorschriften, Ordnungswidrigkeiten"
+    }
+  ]
+}

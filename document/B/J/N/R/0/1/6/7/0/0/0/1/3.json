@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR016700013",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR016700013Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR016700013BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR016700013BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Vertretungsbefugnis"
+        },
+        {
+          "documentIdentifier" : "BJNR016700013BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Bezeichnung des Vertretungsverhältnisses"
+        },
+        {
+          "documentIdentifier" : "BJNR016700013BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Zustellungen"
+        },
+        {
+          "documentIdentifier" : "BJNR016700013BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Berichtspflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR016700013BJNE000600000",
+          "paragraph" : "§ 6",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

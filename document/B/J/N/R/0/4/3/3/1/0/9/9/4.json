@@ -1,0 +1,122 @@
+{
+  "documentIdentifier" : "BJNR043310994",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR043310994BJNG000101308",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR043310994BJNE000502308",
+          "paragraph" : "§ 1",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR043310994BJNE000601308",
+          "paragraph" : "§ 2",
+          "title" : "Impfverbot"
+        },
+        {
+          "documentIdentifier" : "BJNR043310994BJNE000701308",
+          "paragraph" : "§ 3",
+          "title" : "Untersuchungen, Maßregeln beim Einstellen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Bestimmungen"
+    },
+    {
+      "documentIdentifier" : "BJNR043310994BJNG000201308",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR043310994BJNE000802124",
+          "paragraph" : "§ 4",
+          "title" : "Schutzmaßregeln vor amtlicher Feststellung"
+        },
+        {
+          "documentIdentifier" : "BJNR043310994BJNE000901308",
+          "paragraph" : "§ 5",
+          "title" : "Öffentliche Bekanntmachung"
+        },
+        {
+          "documentIdentifier" : "BJNR043310994BJNE001001308",
+          "paragraph" : "§ 6",
+          "title" : "Sperre des Betriebes oder sonstigen Standortes"
+        },
+        {
+          "documentIdentifier" : "BJNR043310994BJNE001101308",
+          "paragraph" : "§ 7",
+          "title" : "Tötung und unschädliche Beseitigung"
+        },
+        {
+          "documentIdentifier" : "BJNR043310994BJNE001201308",
+          "paragraph" : "§ 8",
+          "title" : "Ausnahmen"
+        },
+        {
+          "documentIdentifier" : "BJNR043310994BJNE001302310",
+          "paragraph" : "§ 9",
+          "title" : "Sperrbezirk"
+        },
+        {
+          "documentIdentifier" : "BJNR043310994BJNE001402310",
+          "paragraph" : "§ 10",
+          "title" : "Beobachtungsgebiet"
+        },
+        {
+          "documentIdentifier" : "BJNR043310994BJNE001501308",
+          "paragraph" : "§ 11",
+          "title" : "Schutzmaßregeln bei Ansteckungsverdacht"
+        },
+        {
+          "documentIdentifier" : "BJNR043310994BJNE001602301",
+          "paragraph" : "§ 12",
+          "title" : "Desinfektion"
+        },
+        {
+          "documentIdentifier" : "BJNR043310994BJNE001701308",
+          "paragraph" : "§ 13",
+          "title" : "Schutzmaßregeln auf Tierausstellungen, auf dem\nTransport und in Schlachtstätten"
+        },
+        {
+          "documentIdentifier" : "BJNR043310994BJNE001802308",
+          "paragraph" : "§ 14",
+          "title" : "Aufhebung von Schutzmaßregeln"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schutzmaßregeln bei Ausbruch oder Verdacht des Ausbruchs der Seuche"
+    },
+    {
+      "documentIdentifier" : "BJNR043310994BJNG000301308",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR043310994BJNE001903301",
+          "paragraph" : "§ 15",
+          "title" : "Ordnungswidrigkeiten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussbestimmungen"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR094610995",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR094610995Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR094610995BJNE000102377",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR094610995BJNE000205377",
+          "paragraph" : "§ 2",
+          "title" : "Nachweispflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR094610995BJNE000300305",
+          "paragraph" : "§ 3",
+          "title" : "Änderung der Angaben"
+        },
+        {
+          "documentIdentifier" : "BJNR094610995BJNE000400305",
+          "paragraph" : "§ 4",
+          "title" : "Übergangsvorschrift"
+        },
+        {
+          "documentIdentifier" : "BJNR094610995BJNE000500305",
+          "paragraph" : "§ 5",
+          "title" : "Unabdingbarkeit"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

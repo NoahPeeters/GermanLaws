@@ -1,0 +1,314 @@
+{
+  "documentIdentifier" : "BJNR131400994",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR131400994BJNG000101310",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR131400994BJNE001101310",
+          "paragraph" : "§ 1",
+          "title" : "Begriff des Verfolgten"
+        },
+        {
+          "documentIdentifier" : "BJNR131400994BJNE001201310",
+          "paragraph" : "§ 2",
+          "title" : "Verfolgungszeit"
+        },
+        {
+          "documentIdentifier" : "BJNR131400994BJNE001304116",
+          "paragraph" : "§ 3",
+          "title" : "Verfolgte Schüler"
+        },
+        {
+          "documentIdentifier" : "BJNR131400994BJNE001401310",
+          "paragraph" : "§ 4",
+          "title" : "Ausschließungsgründe"
+        },
+        {
+          "documentIdentifier" : "BJNR131400994BJNE001501310",
+          "paragraph" : "§ 5",
+          "title" : "Ausschluß von Ansprüchen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR131400994BJNG000202310",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR131400994BJNE001606310",
+          "paragraph" : "§ 6",
+          "title" : "Arbeitslosengeld bei beruflicher Weiterbildung"
+        },
+        {
+          "documentIdentifier" : "BJNR131400994BJNE001704310",
+          "paragraph" : "§ 7",
+          "title" : "Erstattung von Kosten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Bevorzugte berufliche Fortbildung und Umschulung"
+    },
+    {
+      "documentIdentifier" : "BJNR131400994BJNG000301310",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR131400994BJNE001808116",
+          "paragraph" : "§ 8",
+          "title" : "Anspruchsvoraussetzungen"
+        },
+        {
+          "documentIdentifier" : "BJNR131400994BJNE001901310",
+          "paragraph" : "§ 9",
+          "title" : "Anrechnungsfreiheit, Unpfändbarkeit"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Ausgleichsleistungen"
+    },
+    {
+      "documentIdentifier" : "BJNR131400994BJNG000401310",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR131400994BJNG000501310",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR131400994BJNE002001310",
+              "paragraph" : "§ 10",
+              "title" : "Allgemeines"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Allgemeines"
+        },
+        {
+          "documentIdentifier" : "BJNR131400994BJNG000601310",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR131400994BJNE002102320",
+              "paragraph" : "§ 11",
+              "title" : "Verfolgungszeiten als Pflichtbeitragszeiten"
+            },
+            {
+              "documentIdentifier" : "BJNR131400994BJNE004100116",
+              "paragraph" : "§ 11a",
+              "title" : "Kindererziehungszeiten"
+            },
+            {
+              "documentIdentifier" : "BJNR131400994BJNE002201310",
+              "paragraph" : "§ 12",
+              "title" : "Verfolgungszeiten als Anrechnungszeiten"
+            },
+            {
+              "documentIdentifier" : "BJNR131400994BJNE002302320",
+              "paragraph" : "§ 13",
+              "title" : "Entgeltpunkte für Verfolgungszeiten als\nPflichtbeitragszeiten"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Renten nach den Vorschriften des Sechsten Buches Sozialgesetzbuch"
+        },
+        {
+          "documentIdentifier" : "BJNR131400994BJNG000701310",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR131400994BJNE002401310",
+              "paragraph" : "§ 14",
+              "title" : "Verfolgungszeiten als rentenrechtliche Zeiten"
+            },
+            {
+              "documentIdentifier" : "BJNR131400994BJNE002502320",
+              "paragraph" : "§ 15",
+              "title" : "Durchschnittseinkommen für Verfolgungszeiten"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Renten nach den Vorschriften des Beitrittsgebiets"
+        },
+        {
+          "documentIdentifier" : "BJNR131400994BJNG000801310",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR131400994BJNE002601310",
+              "paragraph" : "§ 16",
+              "title" : "Rentenleistungen vor dem 1. Juli 1994"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Übergangsregelungen"
+        }
+      ],
+      "title" : "Ausgleich von Nachteilen in der Rentenversicherung"
+    },
+    {
+      "documentIdentifier" : "BJNR131400994BJNG000901310",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR131400994BJNE002702116",
+          "paragraph" : "§ 17",
+          "title" : "Rehabilitierungsbescheinigung und Behördenzuständigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR131400994BJNE002801310",
+          "paragraph" : "§ 18",
+          "title" : "Vorläufige Rehabilitierungsbescheinigung"
+        },
+        {
+          "documentIdentifier" : "BJNR131400994BJNE002902116",
+          "paragraph" : "§ 19",
+          "title" : "Verarbeitung von personenbezogenen Daten"
+        },
+        {
+          "documentIdentifier" : "BJNR131400994BJNE003009116",
+          "paragraph" : "§ 20",
+          "title" : "Antrag"
+        },
+        {
+          "documentIdentifier" : "BJNR131400994BJNE003102116",
+          "paragraph" : "§ 21",
+          "title" : "Inhalt des Antrags"
+        },
+        {
+          "documentIdentifier" : "BJNR131400994BJNE003202116",
+          "paragraph" : "§ 22",
+          "title" : "Inhalt der Bescheinigung"
+        },
+        {
+          "documentIdentifier" : "BJNR131400994BJNE003308116",
+          "paragraph" : "§ 23",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR131400994BJNE003403310",
+          "paragraph" : "§ 24",
+          "title" : "Zuständigkeit für Leistungen nach dem Zweiten\nund Dritten Abschnitt"
+        },
+        {
+          "documentIdentifier" : "BJNR131400994BJNE003503116",
+          "paragraph" : "§ 25",
+          "title" : "Verwaltungsverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR131400994BJNE003601310",
+          "paragraph" : "§ 26",
+          "title" : "Kosten"
+        },
+        {
+          "documentIdentifier" : "BJNR131400994BJNE003702310",
+          "paragraph" : "§ 27",
+          "title" : "Rechtsweg"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Zuständigkeit und Verfahren"
+    },
+    {
+      "documentIdentifier" : "BJNR131400994BJNG001001310",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR131400994BJNE003801310",
+          "paragraph" : "§ 28",
+          "title" : "Kosten für Leistungen nach dem Zweiten Abschnitt"
+        },
+        {
+          "documentIdentifier" : "BJNR131400994BJNE003901310",
+          "paragraph" : "§ 29",
+          "title" : "Kosten für Leistungen nach dem Dritten Abschnitt"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Kostenregelung"
+    },
+    {
+      "documentIdentifier" : "BJNR131400994BJNG001101310",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übergangsregelungen"
+    }
+  ]
+}

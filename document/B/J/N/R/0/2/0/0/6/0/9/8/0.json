@@ -1,0 +1,59 @@
+{
+  "documentIdentifier" : "BJNR020060980",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR020060980BJNG000100319",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Bestimmung der Einrichtungen der betrieblichen und überbetrieblichen Alters- und Hinterbliebenenversorgung außerhalb des öffentlichen Dienstes"
+    },
+    {
+      "documentIdentifier" : "BJNR020060980BJNG000200319",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR020060980BJNE000500319",
+          "paragraph" : "§ 2",
+          "title" : "Für die Erstattung zuständige Stellen"
+        },
+        {
+          "documentIdentifier" : "BJNR020060980BJNE000600319",
+          "paragraph" : "§ 3",
+          "title" : "Erstattungsverfahren für Arbeitgeber"
+        },
+        {
+          "documentIdentifier" : "BJNR020060980BJNE000701305",
+          "paragraph" : "§ 4",
+          "title" : "Erstattungsverfahren für Wehrpflichtige"
+        },
+        {
+          "documentIdentifier" : "BJNR020060980BJNE000800319",
+          "paragraph" : "§ 5",
+          "title" : "Sonstige Bestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR020060980BJNE000900319",
+          "paragraph" : "§ 6",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Erstattungsverfahren für Arbeitgeber des öffentlichen Dienstes und außerhalb des öffentlichen Dienstes sowie für Wehrpflichtige"
+    }
+  ]
+}

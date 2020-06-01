@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR362900005",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR362900005Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR362900005BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Ende der Aufbewahrung"
+        },
+        {
+          "documentIdentifier" : "BJNR362900005BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

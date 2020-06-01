@@ -1,0 +1,178 @@
+{
+  "documentIdentifier" : "BJNR269900012",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR269900012BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR269900012BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Anwendungsbereich"
+    },
+    {
+      "documentIdentifier" : "BJNR269900012BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR269900012BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Allgemeine Bestimmungen zur Mitteilungspflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR269900012BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Angaben zur Person des Positionsinhabers"
+        },
+        {
+          "documentIdentifier" : "BJNR269900012BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Benennung einer Kontaktperson"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Form und Inhalt der Mitteilungen"
+    },
+    {
+      "documentIdentifier" : "BJNR269900012BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR269900012BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Art und Weise der Übermittlung"
+        },
+        {
+          "documentIdentifier" : "BJNR269900012BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Zulassung zur Teilnahme am elektronischen Meldeverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR269900012BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Dauer der Speicherung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übermittlung der Mitteilungen"
+    },
+    {
+      "documentIdentifier" : "BJNR269900012BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR269900012BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Allgemeine Bestimmungen zur Veröffentlichungspflicht; Auftragsnummer der Veröffentlichung"
+        },
+        {
+          "documentIdentifier" : "BJNR269900012BJNE001000000",
+          "paragraph" : "§ 9",
+          "title" : "Identifikation des Positionsinhabers und seiner Kontaktperson beim Betreiber des Bundesanzeigers"
+        },
+        {
+          "documentIdentifier" : "BJNR269900012BJNE001100000",
+          "paragraph" : "§ 10",
+          "title" : "Übermittlung der Daten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Veröffentlichung im Bundesanzeiger"
+    },
+    {
+      "documentIdentifier" : "BJNR269900012BJNG000500000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR269900012BJNE001200000",
+          "paragraph" : "§ 11",
+          "title" : "Mitteilung und Veröffentlichung durch Dritte"
+        },
+        {
+          "documentIdentifier" : "BJNR269900012BJNE001300000",
+          "paragraph" : "§ 12",
+          "title" : "Eignung des Dritten"
+        },
+        {
+          "documentIdentifier" : "BJNR269900012BJNE001400000",
+          "paragraph" : "§ 13",
+          "title" : "Pflichterfüllung bei Einschaltung eines Dritten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Mitteilung und Veröffentlichung durch Dritte"
+    },
+    {
+      "documentIdentifier" : "BJNR269900012BJNG000600000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR269900012BJNE001502123",
+          "paragraph" : "§ 14",
+          "title" : "Befugnisse der Bundesanstalt gegenüber dem Betreiber des Bundesanzeigers"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Aufsichtsbefugnisse"
+    },
+    {
+      "documentIdentifier" : "BJNR269900012BJNG000700000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR269900012BJNE001600000",
+          "paragraph" : "§ 15",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussvorschrift"
+    }
+  ]
+}

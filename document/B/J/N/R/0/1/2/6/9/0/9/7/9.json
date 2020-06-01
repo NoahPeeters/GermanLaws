@@ -1,0 +1,83 @@
+{
+  "documentIdentifier" : "BJNR012690979",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR012690979Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR012690979BJNE000401314",
+          "paragraph" : "Art 1",
+          "title" : "Anwendung und Änderung von Artikel II des Gesetzes über\ninternationale Patentübereinkommen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    },
+    {
+      "documentIdentifier" : "BJNR012690979BJNG000200306",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Änderung patentrechtlicher Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR012690979BJNG000300306",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR012690979BJNE001500306",
+          "paragraph" : "Art 12",
+          "title" : "Anmeldungen vor Inkrafttreten des Gesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR012690979BJNE001601309",
+          "paragraph" : "Art 13",
+          "title" : "Anhängige gerichtliche Verfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR012690979BJNE001700306",
+          "paragraph" : "Art 14",
+          "title" : "Gebühr bei Prüfungsanträgen"
+        },
+        {
+          "documentIdentifier" : "BJNR012690979BJNE001800306",
+          "paragraph" : "Art 15",
+          "title" : "Neufassung des Patentgesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR012690979BJNE001900306",
+          "paragraph" : "Art 16",
+          "title" : "Berlin-Klausel"
+        },
+        {
+          "documentIdentifier" : "BJNR012690979BJNE002001314",
+          "paragraph" : "Art 17",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übergangs- und Schlußbestimmungen"
+    }
+  ]
+}

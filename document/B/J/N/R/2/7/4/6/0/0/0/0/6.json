@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR274600006",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR274600006Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR274600006BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Durchschnittsentgelt in der Rentenversicherung"
+        },
+        {
+          "documentIdentifier" : "BJNR274600006BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Bezugsgröße in der Sozialversicherung"
+        },
+        {
+          "documentIdentifier" : "BJNR274600006BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Beitragsbemessungsgrenzen in der Rentenversicherung"
+        },
+        {
+          "documentIdentifier" : "BJNR274600006BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Jahresarbeitsentgeltgrenze in der Krankenversicherung"
+        },
+        {
+          "documentIdentifier" : "BJNR274600006BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Werte zur Umrechnung der Beitragsbemessungsgrundlagen des \nBeitrittsgebiets"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

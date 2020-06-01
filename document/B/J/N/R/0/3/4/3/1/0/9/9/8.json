@@ -1,0 +1,416 @@
+{
+  "documentIdentifier" : "BJNR034310998",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR034310998BJNG000101308",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR034310998BJNE001409119",
+          "paragraph" : "§ 1",
+          "title" : "Grundsatz"
+        },
+        {
+          "documentIdentifier" : "BJNR034310998BJNE001503119",
+          "paragraph" : "§ 2",
+          "title" : "Meldepflichtige"
+        },
+        {
+          "documentIdentifier" : "BJNR034310998BJNE001602308",
+          "paragraph" : "§ 3",
+          "title" : "Zu meldender Personenkreis"
+        },
+        {
+          "documentIdentifier" : "BJNR034310998BJNE001812126",
+          "paragraph" : "§ 5",
+          "title" : "Allgemeine Vorschriften"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeines"
+    },
+    {
+      "documentIdentifier" : "BJNR034310998BJNG000201308",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR034310998BJNG000301308",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR034310998BJNE001904308",
+              "paragraph" : "§ 6",
+              "title" : "Anmeldung"
+            },
+            {
+              "documentIdentifier" : "BJNR034310998BJNE002004119",
+              "paragraph" : "§ 7",
+              "title" : "Sofortmeldung"
+            },
+            {
+              "documentIdentifier" : "BJNR034310998BJNE002104119",
+              "paragraph" : "§ 8",
+              "title" : "Abmeldung"
+            },
+            {
+              "documentIdentifier" : "BJNR034310998BJNE005600308",
+              "paragraph" : "§ 8a",
+              "title" : "Meldung bei Eintritt eines Insolvenzereignisses"
+            },
+            {
+              "documentIdentifier" : "BJNR034310998BJNE002205308",
+              "paragraph" : "§ 9",
+              "title" : "Unterbrechungsmeldung"
+            },
+            {
+              "documentIdentifier" : "BJNR034310998BJNE002304377",
+              "paragraph" : "§ 10",
+              "title" : "Jahresmeldung"
+            },
+            {
+              "documentIdentifier" : "BJNR034310998BJNE002406119",
+              "paragraph" : "§ 11",
+              "title" : "Meldung von einmalig gezahltem Arbeitsentgelt"
+            },
+            {
+              "documentIdentifier" : "BJNR034310998BJNE005505308",
+              "paragraph" : "§ 11a",
+              "title" : "Meldungen von Arbeitsentgelt bei flexiblen Arbeitszeitregelungen"
+            },
+            {
+              "documentIdentifier" : "BJNR034310998BJNE005902119",
+              "paragraph" : "§ 11b",
+              "title" : "Meldung von Arbeitsentgelten bei Mehrfachbeschäftigung auf Anforderung der Einzugsstelle"
+            },
+            {
+              "documentIdentifier" : "BJNR034310998BJNE002506119",
+              "paragraph" : "§ 12",
+              "title" : "Sonstige Meldungen"
+            },
+            {
+              "documentIdentifier" : "BJNR034310998BJNE002606308",
+              "paragraph" : "§ 13",
+              "title" : "Meldungen für geringfügig Beschäftigte"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Meldungen"
+        },
+        {
+          "documentIdentifier" : "BJNR034310998BJNG000401308",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR034310998BJNE002703308",
+              "paragraph" : "§ 14",
+              "title" : "Stornierung"
+            },
+            {
+              "documentIdentifier" : "BJNR034310998BJNE002804308",
+              "paragraph" : "§ 15",
+              "title" : "(weggefallen)"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Korrektur von Meldungen"
+        }
+      ],
+      "title" : "Allgemeine Vorschriften für Meldungen der Arbeitgeber"
+    },
+    {
+      "documentIdentifier" : "BJNR034310998BJNG000502308",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR034310998BJNG000601308",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR034310998BJNE002904119",
+              "paragraph" : "§ 16",
+              "title" : "(weggefallen)"
+            },
+            {
+              "documentIdentifier" : "BJNR034310998BJNE003007119",
+              "paragraph" : "§ 17",
+              "title" : "Datenübertragungsverfahren"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Allgemeines"
+        },
+        {
+          "documentIdentifier" : "BJNR034310998BJNG000702308",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR034310998BJNE003105119",
+              "paragraph" : "§ 18",
+              "title" : "Grundsatz"
+            },
+            {
+              "documentIdentifier" : "BJNR034310998BJNE003205119",
+              "paragraph" : "§ 19",
+              "title" : "Antrag"
+            },
+            {
+              "documentIdentifier" : "BJNR034310998BJNE003305119",
+              "paragraph" : "§ 20",
+              "title" : "Systemprüfung"
+            },
+            {
+              "documentIdentifier" : "BJNR034310998BJNE003404119",
+              "paragraph" : "§ 21",
+              "title" : "Zulassungsbescheid"
+            },
+            {
+              "documentIdentifier" : "BJNR034310998BJNE003507119",
+              "paragraph" : "§ 22",
+              "title" : "Gemeinsame Grundsätze"
+            },
+            {
+              "documentIdentifier" : "BJNR034310998BJNE006101119",
+              "paragraph" : "§ 22a",
+              "title" : "Testverfahren"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Systemprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR034310998BJNG000802308",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR034310998BJNE003604119",
+              "paragraph" : "§ 23",
+              "title" : "Annahmestelle, Zeitpunkt"
+            },
+            {
+              "documentIdentifier" : "BJNR034310998BJNE003803308",
+              "paragraph" : "§ 25",
+              "title" : "Unterrichtung des Arbeitnehmers"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Durchführung der Datenübertragung"
+        }
+      ],
+      "title" : "Meldungen der Arbeitgeber durch Datenübertragung"
+    },
+    {
+      "documentIdentifier" : "BJNR034310998BJNG000903308",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR034310998BJNE003905119",
+          "paragraph" : "§ 26",
+          "title" : "Beitragsnachweise"
+        },
+        {
+          "documentIdentifier" : "BJNR034310998BJNE004003308",
+          "paragraph" : "(XXXX) §§ 27 und 28",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Beitragsnachweisverfahren"
+    },
+    {
+      "documentIdentifier" : "BJNR034310998BJNG001001308",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR034310998BJNE004202308",
+          "paragraph" : "(XXXX) §§ 29 und 30",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR034310998BJNE004411119",
+          "paragraph" : "§ 31",
+          "title" : "Sonderregelungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Sonderregelungen"
+    },
+    {
+      "documentIdentifier" : "BJNR034310998BJNG001101308",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR034310998BJNE004508126",
+          "paragraph" : "§ 32",
+          "title" : "Weiterleitung von Daten"
+        },
+        {
+          "documentIdentifier" : "BJNR034310998BJNE004610119",
+          "paragraph" : "§ 33",
+          "title" : "Übernahme und Prüfung der Daten durch die Einzugsstellen"
+        },
+        {
+          "documentIdentifier" : "BJNR034310998BJNE004704119",
+          "paragraph" : "§ 34",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR034310998BJNE004906119",
+          "paragraph" : "§ 36",
+          "title" : "Aufgaben der Datenstelle der Rentenversicherung"
+        },
+        {
+          "documentIdentifier" : "BJNR034310998BJNE005005308",
+          "paragraph" : "§ 37",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übernahme und Weiterleitung der Meldungen durch die Sozialversicherungsträger"
+    },
+    {
+      "documentIdentifier" : "BJNR034310998BJNG001202308",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR034310998BJNE005110119",
+          "paragraph" : "§ 38",
+          "title" : "Entgeltersatzleistungen"
+        },
+        {
+          "documentIdentifier" : "BJNR034310998BJNE005208126",
+          "paragraph" : "§ 39",
+          "title" : "Anrechnungszeiten, Sperrzeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR034310998BJNE005307126",
+          "paragraph" : "§ 40",
+          "title" : "Zeiten des Wehr- und Zivildienstes"
+        },
+        {
+          "documentIdentifier" : "BJNR034310998BJNE006000308",
+          "paragraph" : "§ 40a",
+          "title" : "Zeiten einer besonderen Auslandsverwendung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Meldung von Entgeltersatzleistungen, Anrechnungszeiten, Zeiten des Wehr- und Zivildienstes und Zeiten einer besonderen Auslandsverwendung"
+    },
+    {
+      "documentIdentifier" : "BJNR034310998BJNG001301308",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR034310998BJNE005405308",
+          "paragraph" : "§ 41",
+          "title" : "Ordnungswidrigkeiten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          8
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Ordnungswidrigkeiten"
+    },
+    {
+      "documentIdentifier" : "BJNR034310998BJNG001400308",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR034310998BJNE005800308",
+          "paragraph" : "§ 42",
+          "title" : "Beitragsnachweisverfahren für sonstige Beiträge"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          9
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Beitragsnachweisverfahren für sonstige Beiträge"
+    }
+  ]
+}

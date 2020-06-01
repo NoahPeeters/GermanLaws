@@ -1,0 +1,595 @@
+{
+  "documentIdentifier" : "BJNR013900011",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR013900011BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR013900011BJNE000300000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR013900011BJNE000403360",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR013900011BJNE000503124",
+          "paragraph" : "§ 3",
+          "title" : "Notwendigkeit einer Zulassung"
+        },
+        {
+          "documentIdentifier" : "BJNR013900011BJNE000602124",
+          "paragraph" : "§ 4",
+          "title" : "Voraussetzungen für eine Inbetriebsetzung zulassungsfreier Fahrzeuge"
+        },
+        {
+          "documentIdentifier" : "BJNR013900011BJNE000704124",
+          "paragraph" : "§ 5",
+          "title" : "Beschränkung und Untersagung des Betriebs von Fahrzeugen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Regelungen"
+    },
+    {
+      "documentIdentifier" : "BJNR013900011BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR013900011BJNE000805124",
+          "paragraph" : "§ 6",
+          "title" : "Antrag auf Zulassung"
+        },
+        {
+          "documentIdentifier" : "BJNR013900011BJNE000902360",
+          "paragraph" : "§ 7",
+          "title" : "Zulassung im Inland nach vorheriger Zulassung in einem anderen Staat"
+        },
+        {
+          "documentIdentifier" : "BJNR013900011BJNE001006360",
+          "paragraph" : "§ 8",
+          "title" : "Zuteilung von Kennzeichen"
+        },
+        {
+          "documentIdentifier" : "BJNR013900011BJNE001105360",
+          "paragraph" : "§ 9",
+          "title" : "Besondere Kennzeichen"
+        },
+        {
+          "documentIdentifier" : "BJNR013900011BJNE007201360",
+          "paragraph" : "§ 9a",
+          "title" : "Kennzeichnung elektrisch betriebener Fahrzeuge"
+        },
+        {
+          "documentIdentifier" : "BJNR013900011BJNE001206123",
+          "paragraph" : "§ 10",
+          "title" : "Ausgestaltung und Anbringung der Kennzeichen"
+        },
+        {
+          "documentIdentifier" : "BJNR013900011BJNE001304124",
+          "paragraph" : "§ 11",
+          "title" : "Zulassungsbescheinigung Teil I"
+        },
+        {
+          "documentIdentifier" : "BJNR013900011BJNE001404124",
+          "paragraph" : "§ 12",
+          "title" : "Zulassungsbescheinigung Teil II"
+        },
+        {
+          "documentIdentifier" : "BJNR013900011BJNE001506124",
+          "paragraph" : "§ 13",
+          "title" : "Mitteilungspflichten bei Änderungen"
+        },
+        {
+          "documentIdentifier" : "BJNR013900011BJNE001606124",
+          "paragraph" : "§ 14",
+          "title" : "Außerbetriebsetzung, Wiederzulassung"
+        },
+        {
+          "documentIdentifier" : "BJNR013900011BJNE001701123",
+          "paragraph" : "§ 15",
+          "title" : "Verwertungsnachweis"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR013900011BJNG000801124",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR013900011BJNE007403124",
+              "paragraph" : "§ 15a",
+              "title" : "Zulässigkeit internetbasierter Zulassungsverfahren"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR013900011BJNG000900124",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR013900011BJNE007503124",
+                  "paragraph" : "§ 15b",
+                  "title" : "Portal"
+                },
+                {
+                  "documentIdentifier" : "BJNR013900011BJNE007602124",
+                  "paragraph" : "§ 15c",
+                  "title" : "Antrag"
+                },
+                {
+                  "documentIdentifier" : "BJNR013900011BJNE007701124",
+                  "paragraph" : "§ 15d",
+                  "title" : "Sicherheitscodes"
+                },
+                {
+                  "documentIdentifier" : "BJNR013900011BJNE007801124",
+                  "paragraph" : "§ 15e",
+                  "title" : "Nachweis der Hauptuntersuchungen und Sicherheitsprüfungen nach § 29 der Straßenverkehrs-Zulassungs-Ordnung"
+                },
+                {
+                  "documentIdentifier" : "BJNR013900011BJNE008100124",
+                  "paragraph" : "§ 15f",
+                  "title" : "Bekanntgabe, Wirksamkeit und Vorbehalt der Nachprüfung"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Gemeinsame Regelungen für internetbasierte Zulassungsverfahren"
+            },
+            {
+              "documentIdentifier" : "BJNR013900011BJNG001000124",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR013900011BJNE008200124",
+                  "paragraph" : "§ 15g",
+                  "title" : "Antrag auf Außerbetriebsetzung"
+                },
+                {
+                  "documentIdentifier" : "BJNR013900011BJNE008300124",
+                  "paragraph" : "§ 15h",
+                  "title" : "Außerbetriebsetzung"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  2
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Internetbasierte Außerbetriebsetzung"
+            },
+            {
+              "documentIdentifier" : "BJNR013900011BJNG001100124",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR013900011BJNE008400124",
+                  "paragraph" : "§ 15i",
+                  "title" : "Gemeinsame Regelungen für die Zulassung und Änderungen"
+                },
+                {
+                  "documentIdentifier" : "BJNR013900011BJNE008500124",
+                  "paragraph" : "§ 15j",
+                  "title" : "Internetbasierte Erstzulassung"
+                },
+                {
+                  "documentIdentifier" : "BJNR013900011BJNE008600124",
+                  "paragraph" : "§ 15k",
+                  "title" : "Internetbasierte Wiederzulassung"
+                },
+                {
+                  "documentIdentifier" : "BJNR013900011BJNE008700124",
+                  "paragraph" : "§ 15l",
+                  "title" : "Internetbasierte Änderung bei Halter- oder Wohnsitzwechsel, sofortige Inbetriebnahme"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  3
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Internetbasierte Erstzulassung, Wiederzulassung und Änderung bei Halter- und Wohnsitzwechsel"
+            }
+          ],
+          "title" : "Internetbasierte Zulassung"
+        }
+      ],
+      "title" : "Zulassungsverfahren"
+    },
+    {
+      "documentIdentifier" : "BJNR013900011BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR013900011BJNE001804123",
+          "paragraph" : "§ 16",
+          "title" : "Prüfungsfahrten, Probefahrten und Überführungsfahrten mit rotem Kennzeichen"
+        },
+        {
+          "documentIdentifier" : "BJNR013900011BJNE007103124",
+          "paragraph" : "§ 16a",
+          "title" : "Probefahrten und Überführungsfahrten mit Kurzzeitkennzeichen"
+        },
+        {
+          "documentIdentifier" : "BJNR013900011BJNE001902305",
+          "paragraph" : "§ 17",
+          "title" : "Fahrten zur Teilnahme an Veranstaltungen für Oldtimer"
+        },
+        {
+          "documentIdentifier" : "BJNR013900011BJNE002000000",
+          "paragraph" : "§ 18",
+          "title" : "Fahrten im internationalen Verkehr"
+        },
+        {
+          "documentIdentifier" : "BJNR013900011BJNE002103360",
+          "paragraph" : "§ 19",
+          "title" : "Fahrten zur dauerhaften Verbringung eines Fahrzeugs in das Ausland"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Zeitweilige Teilnahme am Straßenverkehr"
+    },
+    {
+      "documentIdentifier" : "BJNR013900011BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR013900011BJNE002203123",
+          "paragraph" : "§ 20",
+          "title" : "Vorübergehende Teilnahme am Straßenverkehr im Inland"
+        },
+        {
+          "documentIdentifier" : "BJNR013900011BJNE002301123",
+          "paragraph" : "§ 21",
+          "title" : "Kennzeichen und Unterscheidungszeichen"
+        },
+        {
+          "documentIdentifier" : "BJNR013900011BJNE002400000",
+          "paragraph" : "§ 22",
+          "title" : "Beschränkung und Untersagung des Betriebs ausländischer Fahrzeuge"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Teilnahme ausländischer Fahrzeuge am Straßenverkehr"
+    },
+    {
+      "documentIdentifier" : "BJNR013900011BJNG000500000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR013900011BJNE002505123",
+          "paragraph" : "§ 23",
+          "title" : "Versicherungsnachweis"
+        },
+        {
+          "documentIdentifier" : "BJNR013900011BJNE002603308",
+          "paragraph" : "§ 24",
+          "title" : "Mitteilungspflichten der Zulassungsbehörde"
+        },
+        {
+          "documentIdentifier" : "BJNR013900011BJNE002702305",
+          "paragraph" : "§ 25",
+          "title" : "Maßnahmen und Pflichten bei fehlendem Versicherungsschutz"
+        },
+        {
+          "documentIdentifier" : "BJNR013900011BJNE002802305",
+          "paragraph" : "§ 26",
+          "title" : "Versicherungskennzeichen"
+        },
+        {
+          "documentIdentifier" : "BJNR013900011BJNE002901123",
+          "paragraph" : "§ 27",
+          "title" : "Ausgestaltung und Anbringung des Versicherungskennzeichens"
+        },
+        {
+          "documentIdentifier" : "BJNR013900011BJNE003000000",
+          "paragraph" : "§ 28",
+          "title" : "Rote Versicherungskennzeichen"
+        },
+        {
+          "documentIdentifier" : "BJNR013900011BJNE003100000",
+          "paragraph" : "§ 29",
+          "title" : "Maßnahmen bei vorzeitiger Beendigung des Versicherungsverhältnisses"
+        },
+        {
+          "documentIdentifier" : "BJNR013900011BJNE008900124",
+          "paragraph" : "§ 29a",
+          "title" : "Versicherungsplakette"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Überwachung des Versicherungsschutzes der Fahrzeuge"
+    },
+    {
+      "documentIdentifier" : "BJNR013900011BJNG000600000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR013900011BJNE003209124",
+          "paragraph" : "§ 30",
+          "title" : "Speicherung der Fahrzeugdaten im Zentralen Fahrzeugregister"
+        },
+        {
+          "documentIdentifier" : "BJNR013900011BJNE003308124",
+          "paragraph" : "§ 31",
+          "title" : "Speicherung der Fahrzeugdaten im örtlichen Fahrzeugregister"
+        },
+        {
+          "documentIdentifier" : "BJNR013900011BJNE003402124",
+          "paragraph" : "§ 32",
+          "title" : "Speicherung der Halterdaten in den Fahrzeugregistern"
+        },
+        {
+          "documentIdentifier" : "BJNR013900011BJNE003502140",
+          "paragraph" : "§ 33",
+          "title" : "Übermittlung von Daten an das Kraftfahrt-Bundesamt"
+        },
+        {
+          "documentIdentifier" : "BJNR013900011BJNE003603123",
+          "paragraph" : "§ 34",
+          "title" : "Übermittlung und Speicherung der Daten über Hauptuntersuchungen und Sicherheitsprüfungen im Zentralen Fahrzeugregister"
+        },
+        {
+          "documentIdentifier" : "BJNR013900011BJNE003704124",
+          "paragraph" : "§ 35",
+          "title" : "Übermittlung von Daten an die Versicherer"
+        },
+        {
+          "documentIdentifier" : "BJNR013900011BJNE003804360",
+          "paragraph" : "§ 36",
+          "title" : "Mitteilungen an die für die Kraftfahrzeugsteuerverwaltung zuständigen Behörden"
+        },
+        {
+          "documentIdentifier" : "BJNR013900011BJNE006801123",
+          "paragraph" : "§ 36a",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR013900011BJNE003901360",
+          "paragraph" : "§ 37",
+          "title" : "Übermittlung von Daten an Stellen zur Durchführung des Bundesleistungsgesetzes, des Verkehrssicherstellungsgesetzes, des Verkehrsleistungsgesetzes und von Maßnahmen des Katastrophenschutzes"
+        },
+        {
+          "documentIdentifier" : "BJNR013900011BJNE004002360",
+          "paragraph" : "§ 38",
+          "title" : "Übermittlungen des Kraftfahrt-Bundesamtes an die Zulassungsbehörden"
+        },
+        {
+          "documentIdentifier" : "BJNR013900011BJNE004114124",
+          "paragraph" : "§ 39",
+          "title" : "Abruf im automatisierten Verfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR013900011BJNE006900305",
+          "paragraph" : "§ 39a",
+          "title" : "Automatisiertes Anfrage- und Auskunftsverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR013900011BJNE004200000",
+          "paragraph" : "§ 40",
+          "title" : "Sicherung des Abrufverfahrens gegen Missbrauch"
+        },
+        {
+          "documentIdentifier" : "BJNR013900011BJNE004300000",
+          "paragraph" : "§ 41",
+          "title" : "Aufzeichnung der Abrufe im automatisierten Verfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR013900011BJNE004401308",
+          "paragraph" : "§ 42",
+          "title" : "Abruf im automatisierten Verfahren durch ausländische Stellen"
+        },
+        {
+          "documentIdentifier" : "BJNR013900011BJNE004500000",
+          "paragraph" : "§ 43",
+          "title" : "Übermittlungssperren"
+        },
+        {
+          "documentIdentifier" : "BJNR013900011BJNE004602124",
+          "paragraph" : "§ 44",
+          "title" : "Löschung der Daten im Zentralen Fahrzeugregister"
+        },
+        {
+          "documentIdentifier" : "BJNR013900011BJNE004700000",
+          "paragraph" : "§ 45",
+          "title" : "Löschung der Daten im örtlichen Fahrzeugregister"
+        },
+        {
+          "documentIdentifier" : "BJNR013900011BJNE008800124",
+          "paragraph" : "§ 45a",
+          "title" : "Zentrale Datenbank der Übereinstimmungsbescheinigungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Fahrzeugregister"
+    },
+    {
+      "documentIdentifier" : "BJNR013900011BJNG000700000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR013900011BJNE004806360",
+          "paragraph" : "§ 46",
+          "title" : "Zuständigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR013900011BJNE004906360",
+          "paragraph" : "§ 47",
+          "title" : "Ausnahmen"
+        },
+        {
+          "documentIdentifier" : "BJNR013900011BJNE005010124",
+          "paragraph" : "§ 48",
+          "title" : "Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR013900011BJNE005100000",
+          "paragraph" : "§ 49",
+          "title" : "Verweis auf technische Regelwerke"
+        },
+        {
+          "documentIdentifier" : "BJNR013900011BJNE005209124",
+          "paragraph" : "§ 50",
+          "title" : "Übergangs- und Anwendungsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR013900011BJNE005301308",
+          "paragraph" : "§ 51",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR013900011BJNE005503308",
+          "paragraph" : "Anlage 1",
+          "title" : "(aufgehoben)"
+        },
+        {
+          "documentIdentifier" : "BJNR013900011BJNE005602140",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 8 Absatz 1 Satz 4)"
+        },
+        {
+          "documentIdentifier" : "BJNR013900011BJNE005704123",
+          "paragraph" : "Anlage 3",
+          "title" : "(zu § 8 Absatz 1 Satz 6)"
+        },
+        {
+          "documentIdentifier" : "BJNR013900011BJNE007300305",
+          "paragraph" : "Anlage 3a",
+          "title" : "(zu § 9a Absatz 4)"
+        },
+        {
+          "documentIdentifier" : "BJNR013900011BJNE005805123",
+          "paragraph" : "Anlage 4",
+          "title" : "(zu § 10 Absatz 2, § 16 Absatz 5 Satz 1, § 16a Absatz 3 Satz 2, § 17 Absatz 2, § 19 Absatz 1 Nummer 3)"
+        },
+        {
+          "documentIdentifier" : "BJNR013900011BJNE007002124",
+          "paragraph" : "Anlage 4a",
+          "title" : "(zu § 10 Absatz 3 Satz 2 bis 7)"
+        },
+        {
+          "documentIdentifier" : "BJNR013900011BJNE005906124",
+          "paragraph" : "Anlage 5",
+          "title" : "(zu § 11 Absatz 1)"
+        },
+        {
+          "documentIdentifier" : "BJNR013900011BJNE006003123",
+          "paragraph" : "Anlage 6",
+          "title" : "(zu § 11 Absatz 4)"
+        },
+        {
+          "documentIdentifier" : "BJNR013900011BJNE006103124",
+          "paragraph" : "Anlage 7",
+          "title" : "(zu § 12 Absatz 2)"
+        },
+        {
+          "documentIdentifier" : "BJNR013900011BJNE006202124",
+          "paragraph" : "Anlage 8",
+          "title" : "(zu § 15)"
+        },
+        {
+          "documentIdentifier" : "BJNR013900011BJNE007901124",
+          "paragraph" : "Anlage 8a",
+          "title" : "(zu § 15e Absatz 4)"
+        },
+        {
+          "documentIdentifier" : "BJNR013900011BJNE008001124",
+          "paragraph" : "Anlage 8b",
+          "title" : "(zu § 15i Absatz 3)"
+        },
+        {
+          "documentIdentifier" : "BJNR013900011BJNE006302305",
+          "paragraph" : "Anlage 9",
+          "title" : "(zu § 16 Absatz 2 Satz 1)"
+        },
+        {
+          "documentIdentifier" : "BJNR013900011BJNE006402123",
+          "paragraph" : "Anlage 10",
+          "title" : "(zu § 16a Absatz 5 Satz 1)"
+        },
+        {
+          "documentIdentifier" : "BJNR013900011BJNE006700308",
+          "paragraph" : "Anlage 10a",
+          "title" : "(zu § 17 Absatz 2 Satz 1)"
+        },
+        {
+          "documentIdentifier" : "BJNR013900011BJNE006501308",
+          "paragraph" : "Anlage 11",
+          "title" : "(zu § 23 Absatz 3)"
+        },
+        {
+          "documentIdentifier" : "BJNR013900011BJNE006600000",
+          "paragraph" : "Anlage 12",
+          "title" : "(zu § 27 Absatz 1 Satz 4)"
+        },
+        {
+          "documentIdentifier" : "BJNR013900011BJNE009000124",
+          "paragraph" : "Anlage 13",
+          "title" : "(zu § 29a Absatz 2 Nummer 3)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Durchführungs- und Schlussvorschriften"
+    }
+  ]
+}

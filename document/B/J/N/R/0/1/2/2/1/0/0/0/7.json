@@ -1,0 +1,783 @@
+{
+  "documentIdentifier" : "BJNR012210007",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR012210007BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR012210007BJNE000201116",
+          "paragraph" : "§ 1",
+          "title" : "Personenstand, Aufgaben des Standesamts"
+        },
+        {
+          "documentIdentifier" : "BJNR012210007BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Standesbeamte"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Bestimmungen"
+    },
+    {
+      "documentIdentifier" : "BJNR012210007BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR012210007BJNE000401116",
+          "paragraph" : "§ 3",
+          "title" : "Personenstandsregister"
+        },
+        {
+          "documentIdentifier" : "BJNR012210007BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Sicherungsregister"
+        },
+        {
+          "documentIdentifier" : "BJNR012210007BJNE000601116",
+          "paragraph" : "§ 5",
+          "title" : "Fortführung der Personenstandsregister"
+        },
+        {
+          "documentIdentifier" : "BJNR012210007BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Aktenführung"
+        },
+        {
+          "documentIdentifier" : "BJNR012210007BJNE000802116",
+          "paragraph" : "§ 7",
+          "title" : "Aufbewahrung"
+        },
+        {
+          "documentIdentifier" : "BJNR012210007BJNE000901116",
+          "paragraph" : "§ 8",
+          "title" : "Verlust eines Personenstandsregisters"
+        },
+        {
+          "documentIdentifier" : "BJNR012210007BJNE001000000",
+          "paragraph" : "§ 9",
+          "title" : "Beurkundungsgrundlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR012210007BJNE001101116",
+          "paragraph" : "§ 10",
+          "title" : "Auskunfts- und Nachweispflicht"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Führung der Personenstandsregister"
+    },
+    {
+      "documentIdentifier" : "BJNR012210007BJNG000300000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR012210007BJNG000400000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR012210007BJNE001201116",
+              "paragraph" : "§ 11",
+              "title" : "Zuständigkeit und Standesamtsvorbehalt"
+            },
+            {
+              "documentIdentifier" : "BJNR012210007BJNE001300000",
+              "paragraph" : "§ 12",
+              "title" : "Anmeldung der Eheschließung"
+            },
+            {
+              "documentIdentifier" : "BJNR012210007BJNE001400000",
+              "paragraph" : "§ 13",
+              "title" : "Prüfung der Ehevoraussetzungen"
+            },
+            {
+              "documentIdentifier" : "BJNR012210007BJNE001500000",
+              "paragraph" : "§ 14",
+              "title" : "Eheschließung"
+            },
+            {
+              "documentIdentifier" : "BJNR012210007BJNE001601116",
+              "paragraph" : "§ 15",
+              "title" : "Eintragung in das Eheregister"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Zuständigkeit, Anmeldung und Eheschließung"
+        },
+        {
+          "documentIdentifier" : "BJNR012210007BJNG000500000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR012210007BJNE001702116",
+              "paragraph" : "§ 16",
+              "title" : "Fortführung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Fortführung des Eheregisters"
+        }
+      ],
+      "title" : "Eheschließung"
+    },
+    {
+      "documentIdentifier" : "BJNR012210007BJNG000602116",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR012210007BJNE001801116",
+          "paragraph" : "§ 17",
+          "title" : "Fortführung des Lebenspartnerschaftsregisters"
+        },
+        {
+          "documentIdentifier" : "BJNR012210007BJNE008301116",
+          "paragraph" : "§ 17a",
+          "title" : "Umwandlung einer Lebenspartnerschaft in eine Ehe und ihre Beurkundung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Lebenspartnerschaft"
+    },
+    {
+      "documentIdentifier" : "BJNR012210007BJNG000700000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR012210007BJNG000800000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR012210007BJNE001901116",
+              "paragraph" : "§ 18",
+              "title" : "Anzeige"
+            },
+            {
+              "documentIdentifier" : "BJNR012210007BJNE002000000",
+              "paragraph" : "§ 19",
+              "title" : "Anzeige durch Personen"
+            },
+            {
+              "documentIdentifier" : "BJNR012210007BJNE002100000",
+              "paragraph" : "§ 20",
+              "title" : "Anzeige durch Einrichtungen"
+            },
+            {
+              "documentIdentifier" : "BJNR012210007BJNE002203116",
+              "paragraph" : "§ 21",
+              "title" : "Eintragung in das Geburtenregister"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              5,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Anzeige und Beurkundung"
+        },
+        {
+          "documentIdentifier" : "BJNR012210007BJNG000900000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR012210007BJNE002302116",
+              "paragraph" : "§ 22",
+              "title" : "Fehlende Angaben"
+            },
+            {
+              "documentIdentifier" : "BJNR012210007BJNE002400000",
+              "paragraph" : "§ 23",
+              "title" : "Zwillings- oder Mehrgeburten"
+            },
+            {
+              "documentIdentifier" : "BJNR012210007BJNE002500000",
+              "paragraph" : "§ 24",
+              "title" : "Findelkind"
+            },
+            {
+              "documentIdentifier" : "BJNR012210007BJNE002600000",
+              "paragraph" : "§ 25",
+              "title" : "Person mit ungewissem Personenstand"
+            },
+            {
+              "documentIdentifier" : "BJNR012210007BJNE002700000",
+              "paragraph" : "§ 26",
+              "title" : "Nachträgliche Ermittlung des Personenstandes"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              5,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Besonderheiten"
+        },
+        {
+          "documentIdentifier" : "BJNR012210007BJNG001000000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR012210007BJNE002802116",
+              "paragraph" : "§ 27",
+              "title" : "Feststellung und Änderung des Personenstandes, sonstige Fortführung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              5,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Fortführung des Geburtenregisters"
+        }
+      ],
+      "title" : "Geburt"
+    },
+    {
+      "documentIdentifier" : "BJNR012210007BJNG001100000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR012210007BJNG001200000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR012210007BJNE002900000",
+              "paragraph" : "§ 28",
+              "title" : "Anzeige"
+            },
+            {
+              "documentIdentifier" : "BJNR012210007BJNE003000000",
+              "paragraph" : "§ 29",
+              "title" : "Anzeige durch Personen"
+            },
+            {
+              "documentIdentifier" : "BJNR012210007BJNE003100000",
+              "paragraph" : "§ 30",
+              "title" : "Anzeige durch Einrichtungen und Behörden"
+            },
+            {
+              "documentIdentifier" : "BJNR012210007BJNE003203116",
+              "paragraph" : "§ 31",
+              "title" : "Eintragung in das Sterberegister"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              6,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Anzeige und Beurkundung"
+        },
+        {
+          "documentIdentifier" : "BJNR012210007BJNG001300000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR012210007BJNE003300000",
+              "paragraph" : "§ 32",
+              "title" : "Fortführung"
+            },
+            {
+              "documentIdentifier" : "BJNR012210007BJNE003400000",
+              "paragraph" : "§ 33",
+              "title" : "Todeserklärungen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              6,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Fortführung des Sterberegisters; Todeserklärungen"
+        }
+      ],
+      "title" : "Sterbefall"
+    },
+    {
+      "documentIdentifier" : "BJNR012210007BJNG001400000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR012210007BJNG001500000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR012210007BJNE003502116",
+              "paragraph" : "§ 34",
+              "title" : "Eheschließungen im Ausland oder vor ermächtigten Personen im Inland"
+            },
+            {
+              "documentIdentifier" : "BJNR012210007BJNE003604116",
+              "paragraph" : "§ 35",
+              "title" : "Begründung von Lebenspartnerschaften im Ausland"
+            },
+            {
+              "documentIdentifier" : "BJNR012210007BJNE003702116",
+              "paragraph" : "§ 36",
+              "title" : "Geburten und Sterbefälle im Ausland"
+            },
+            {
+              "documentIdentifier" : "BJNR012210007BJNE003801116",
+              "paragraph" : "§ 37",
+              "title" : "Geburten und Sterbefälle auf Seeschiffen"
+            },
+            {
+              "documentIdentifier" : "BJNR012210007BJNE003902116",
+              "paragraph" : "§ 38",
+              "title" : "Sterbefälle in ehemaligen Konzentrationslagern"
+            },
+            {
+              "documentIdentifier" : "BJNR012210007BJNE004001116",
+              "paragraph" : "§ 39",
+              "title" : "Ehefähigkeitszeugnis"
+            },
+            {
+              "documentIdentifier" : "BJNR012210007BJNE004100000",
+              "paragraph" : "§ 40",
+              "title" : "Zweifel über örtliche Zuständigkeit für Beurkundung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              7,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Beurkundungen mit Auslandsbezug; besondere Beurkundungsfälle"
+        },
+        {
+          "documentIdentifier" : "BJNR012210007BJNG001600000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR012210007BJNE004202116",
+              "paragraph" : "§ 41",
+              "title" : "Erklärungen zur Namensführung von Ehegatten"
+            },
+            {
+              "documentIdentifier" : "BJNR012210007BJNE004303116",
+              "paragraph" : "§ 42",
+              "title" : "Erklärungen zur Namensführung von Lebenspartnern"
+            },
+            {
+              "documentIdentifier" : "BJNR012210007BJNE004404116",
+              "paragraph" : "§ 43",
+              "title" : "Erklärungen zur Namensangleichung"
+            },
+            {
+              "documentIdentifier" : "BJNR012210007BJNE004502116",
+              "paragraph" : "§ 44",
+              "title" : "Erklärungen zur Anerkennung der Vaterschaft und der Mutterschaft"
+            },
+            {
+              "documentIdentifier" : "BJNR012210007BJNE004602116",
+              "paragraph" : "§ 45",
+              "title" : "Erklärungen zur Namensführung des Kindes"
+            },
+            {
+              "documentIdentifier" : "BJNR012210007BJNE008100116",
+              "paragraph" : "§ 45a",
+              "title" : "Erklärung zur Reihenfolge der Vornamen"
+            },
+            {
+              "documentIdentifier" : "BJNR012210007BJNE008400116",
+              "paragraph" : "§ 45b",
+              "title" : "Erklärung zur Geschlechtsangabe und Vornamensführung bei Personen mit Varianten der Geschlechtsentwicklung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              7,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Familienrechtliche Beurkundungen"
+        }
+      ],
+      "title" : "Besondere Beurkundungen"
+    },
+    {
+      "documentIdentifier" : "BJNR012210007BJNG001700000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          8
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR012210007BJNG001800000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR012210007BJNE004700000",
+              "paragraph" : "§ 46",
+              "title" : "Änderung einer Anzeige"
+            },
+            {
+              "documentIdentifier" : "BJNR012210007BJNE004803116",
+              "paragraph" : "§ 47",
+              "title" : "Berichtigung nach Abschluss der Beurkundung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              8,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Berichtigungen ohne Mitwirkung des Gerichts"
+        },
+        {
+          "documentIdentifier" : "BJNR012210007BJNG001900000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR012210007BJNE004901116",
+              "paragraph" : "§ 48",
+              "title" : "Berichtigung auf Anordnung des Gerichts"
+            },
+            {
+              "documentIdentifier" : "BJNR012210007BJNE005000000",
+              "paragraph" : "§ 49",
+              "title" : "Anweisung durch das Gericht"
+            },
+            {
+              "documentIdentifier" : "BJNR012210007BJNE005100000",
+              "paragraph" : "§ 50",
+              "title" : "Sachliche und örtliche Zuständigkeit der Gerichte"
+            },
+            {
+              "documentIdentifier" : "BJNR012210007BJNE005201377",
+              "paragraph" : "§ 51",
+              "title" : "Gerichtliches Verfahren"
+            },
+            {
+              "documentIdentifier" : "BJNR012210007BJNE005301116",
+              "paragraph" : "§ 52",
+              "title" : "Öffentliche Bekanntmachung der Entscheidung"
+            },
+            {
+              "documentIdentifier" : "BJNR012210007BJNE005402116",
+              "paragraph" : "§ 53",
+              "title" : "Wirksamwerden gerichtlicher Entscheidungen; Beschwerde"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              8,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Gerichtliches Verfahren"
+        }
+      ],
+      "title" : "Berichtigungen und gerichtliches Verfahren"
+    },
+    {
+      "documentIdentifier" : "BJNR012210007BJNG002000000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          9
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR012210007BJNG002100000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR012210007BJNE005500000",
+              "paragraph" : "§ 54",
+              "title" : "Beweiskraft der Personenstandsregister und -urkunden"
+            },
+            {
+              "documentIdentifier" : "BJNR012210007BJNE005602116",
+              "paragraph" : "§ 55",
+              "title" : "Personenstandsurkunden"
+            },
+            {
+              "documentIdentifier" : "BJNR012210007BJNE005700000",
+              "paragraph" : "§ 56",
+              "title" : "Allgemeine Vorschriften für die Ausstellung von Personenstandsurkunden"
+            },
+            {
+              "documentIdentifier" : "BJNR012210007BJNE005803116",
+              "paragraph" : "§ 57",
+              "title" : "Eheurkunde"
+            },
+            {
+              "documentIdentifier" : "BJNR012210007BJNE005903116",
+              "paragraph" : "§ 58",
+              "title" : "Lebenspartnerschaftsurkunde"
+            },
+            {
+              "documentIdentifier" : "BJNR012210007BJNE006000000",
+              "paragraph" : "§ 59",
+              "title" : "Geburtsurkunde"
+            },
+            {
+              "documentIdentifier" : "BJNR012210007BJNE006102116",
+              "paragraph" : "§ 60",
+              "title" : "Sterbeurkunde"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              9,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Beweiskraft; Personenstandsurkunden"
+        },
+        {
+          "documentIdentifier" : "BJNR012210007BJNG002200000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR012210007BJNE006200000",
+              "paragraph" : "§ 61",
+              "title" : "Allgemeine Vorschriften für die Benutzung"
+            },
+            {
+              "documentIdentifier" : "BJNR012210007BJNE006300000",
+              "paragraph" : "§ 62",
+              "title" : "Urkundenerteilung, Auskunft, Einsicht"
+            },
+            {
+              "documentIdentifier" : "BJNR012210007BJNE006401116",
+              "paragraph" : "§ 63",
+              "title" : "Benutzung in besonderen Fällen"
+            },
+            {
+              "documentIdentifier" : "BJNR012210007BJNE006500000",
+              "paragraph" : "§ 64",
+              "title" : "Sperrvermerke"
+            },
+            {
+              "documentIdentifier" : "BJNR012210007BJNE006601116",
+              "paragraph" : "§ 65",
+              "title" : "Benutzung durch Behörden und Gerichte"
+            },
+            {
+              "documentIdentifier" : "BJNR012210007BJNE006701116",
+              "paragraph" : "§ 66",
+              "title" : "Benutzung für wissenschaftliche Zwecke"
+            },
+            {
+              "documentIdentifier" : "BJNR012210007BJNE006801000",
+              "paragraph" : "§ 67",
+              "title" : "Einrichtung zentraler Register"
+            },
+            {
+              "documentIdentifier" : "BJNR012210007BJNE006900000",
+              "paragraph" : "§ 68",
+              "title" : "Mitteilungen an Behörden und Gerichte von Amts wegen"
+            },
+            {
+              "documentIdentifier" : "BJNR012210007BJNE008500116",
+              "paragraph" : "§ 68a",
+              "title" : "Rechte der betroffenen Person"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              9,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Benutzung der Personenstandsregister"
+        }
+      ],
+      "title" : "Beweiskraft und Benutzung der Personenstandsregister"
+    },
+    {
+      "documentIdentifier" : "BJNR012210007BJNG002301116",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR012210007BJNE007000000",
+          "paragraph" : "§ 69",
+          "title" : "Erzwingung von Anzeigen"
+        },
+        {
+          "documentIdentifier" : "BJNR012210007BJNE007103116",
+          "paragraph" : "§ 70",
+          "title" : "Bußgeldvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR012210007BJNE007200000",
+          "paragraph" : "§ 71",
+          "title" : "Personenstandsbücher aus Grenzgebieten"
+        },
+        {
+          "documentIdentifier" : "BJNR012210007BJNE007301116",
+          "paragraph" : "§ 72",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          10
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Zwangsmittel, Bußgeldvorschriften, Besonderheiten"
+    },
+    {
+      "documentIdentifier" : "BJNR012210007BJNG002400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR012210007BJNE007406116",
+          "paragraph" : "§ 73",
+          "title" : "Ermächtigungen zum Erlass von Rechtsverordnungen"
+        },
+        {
+          "documentIdentifier" : "BJNR012210007BJNE007502116",
+          "paragraph" : "§ 74",
+          "title" : "Rechtsverordnungen der Landesregierungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          11
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Verordnungsermächtigungen"
+    },
+    {
+      "documentIdentifier" : "BJNR012210007BJNG002500000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR012210007BJNE007602116",
+          "paragraph" : "§ 75",
+          "title" : "Übergangsbeurkundung"
+        },
+        {
+          "documentIdentifier" : "BJNR012210007BJNE007702116",
+          "paragraph" : "§ 76",
+          "title" : "Fortführung, Benutzung und Aufbewahrung der Altregister"
+        },
+        {
+          "documentIdentifier" : "BJNR012210007BJNE007803116",
+          "paragraph" : "§ 77",
+          "title" : "Fortführung, Aufbewahrung und Benutzung der Familienbücher"
+        },
+        {
+          "documentIdentifier" : "BJNR012210007BJNE007901116",
+          "paragraph" : "§ 78",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR012210007BJNE008200116",
+          "paragraph" : "§ 79",
+          "title" : "Altfallregelung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          12
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übergangsvorschriften"
+    }
+  ]
+}

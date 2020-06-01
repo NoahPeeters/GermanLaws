@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR009410958",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR009410958Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR009410958BJNE000200328",
+          "paragraph" : "(XXXX) Art I bis Art III",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR009410958BJNE000300328",
+          "paragraph" : "Art IV",
+          "title" : "Übergangsvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR009410958BJNE000400328",
+          "paragraph" : "Art V",
+          "title" : "Anwendung in Berlin"
+        },
+        {
+          "documentIdentifier" : "BJNR009410958BJNE000500328",
+          "paragraph" : "Art VI",
+          "title" : "Nichtanwendung im Saarland"
+        },
+        {
+          "documentIdentifier" : "BJNR009410958BJNE000600328",
+          "paragraph" : "Art VII",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

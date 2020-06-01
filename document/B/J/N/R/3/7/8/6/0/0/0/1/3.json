@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR378600013",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR378600013Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR378600013BJNE000101311",
+          "paragraph" : "(XXXX) Art 1 bis 23",
+          "title" : "Änderungsvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR378600013BJNE000200000",
+          "paragraph" : "Art 24",
+          "title" : "Verordnungsermächtigung für die Länder"
+        },
+        {
+          "documentIdentifier" : "BJNR378600013BJNE000400000",
+          "paragraph" : "Art 26",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

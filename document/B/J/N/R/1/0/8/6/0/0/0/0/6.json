@@ -1,0 +1,69 @@
+{
+  "documentIdentifier" : "BJNR108600006",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR108600006Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR108600006BJNE000203140",
+          "paragraph" : "§ 1",
+          "title" : "Leistungen"
+        },
+        {
+          "documentIdentifier" : "BJNR108600006BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Umlage"
+        },
+        {
+          "documentIdentifier" : "BJNR108600006BJNE000405308",
+          "paragraph" : "§ 3",
+          "title" : "Höhe und Aufbringung der Umlage"
+        },
+        {
+          "documentIdentifier" : "BJNR108600006BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Einzugsstellen"
+        },
+        {
+          "documentIdentifier" : "BJNR108600006BJNE000601360",
+          "paragraph" : "§ 5",
+          "title" : "Zahlung"
+        },
+        {
+          "documentIdentifier" : "BJNR108600006BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Melde- und Auskunftspflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR108600006BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Zuständigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR108600006BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Erstattung von Mehraufwendungen"
+        },
+        {
+          "documentIdentifier" : "BJNR108600006BJNE001001140",
+          "paragraph" : "§ 9",
+          "title" : "Verwaltungskosten"
+        },
+        {
+          "documentIdentifier" : "BJNR108600006BJNE001100000",
+          "paragraph" : "§ 10",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

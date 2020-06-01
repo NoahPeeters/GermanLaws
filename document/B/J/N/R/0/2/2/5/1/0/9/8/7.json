@@ -1,0 +1,79 @@
+{
+  "documentIdentifier" : "BJNR022510987",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR022510987Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR022510987BJNE000202308",
+          "paragraph" : "§ 1",
+          "title" : "Grundsatz"
+        },
+        {
+          "documentIdentifier" : "BJNR022510987BJNE000300304",
+          "paragraph" : "§ 2",
+          "title" : "Leistungen"
+        },
+        {
+          "documentIdentifier" : "BJNR022510987BJNE000401308",
+          "paragraph" : "§ 3",
+          "title" : "Persönliche Voraussetzungen"
+        },
+        {
+          "documentIdentifier" : "BJNR022510987BJNE000501308",
+          "paragraph" : "§ 4",
+          "title" : "Hilfe zur Beschaffung eines Kraftfahrzeugs"
+        },
+        {
+          "documentIdentifier" : "BJNR022510987BJNE000602308",
+          "paragraph" : "§ 5",
+          "title" : "Bemessungsbetrag"
+        },
+        {
+          "documentIdentifier" : "BJNR022510987BJNE000704308",
+          "paragraph" : "§ 6",
+          "title" : "Art und Höhe der Förderung"
+        },
+        {
+          "documentIdentifier" : "BJNR022510987BJNE000801308",
+          "paragraph" : "§ 7",
+          "title" : "Behinderungsbedingte Zusatzausstattung"
+        },
+        {
+          "documentIdentifier" : "BJNR022510987BJNE000902308",
+          "paragraph" : "§ 8",
+          "title" : "Fahrerlaubnis"
+        },
+        {
+          "documentIdentifier" : "BJNR022510987BJNE001001308",
+          "paragraph" : "§ 9",
+          "title" : "Leistungen in besonderen Härtefällen"
+        },
+        {
+          "documentIdentifier" : "BJNR022510987BJNE001101308",
+          "paragraph" : "§ 10",
+          "title" : "Antragstellung"
+        },
+        {
+          "documentIdentifier" : "BJNR022510987BJNE001404308",
+          "paragraph" : "§ 13",
+          "title" : "Übergangsvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR022510987BJNE001601308",
+          "paragraph" : "§ 14",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

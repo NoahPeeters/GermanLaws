@@ -1,0 +1,59 @@
+{
+  "documentIdentifier" : "BJNR172500005",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR172500005Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR172500005BJNE000201124",
+          "paragraph" : "§ 1",
+          "title" : "Anwendung der Arbeitszeitverordnung"
+        },
+        {
+          "documentIdentifier" : "BJNR172500005BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Regelmäßige Arbeitszeit"
+        },
+        {
+          "documentIdentifier" : "BJNR172500005BJNE000401124",
+          "paragraph" : "§ 3",
+          "title" : "Gleitende Arbeitszeit"
+        },
+        {
+          "documentIdentifier" : "BJNR172500005BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Ruhepausen"
+        },
+        {
+          "documentIdentifier" : "BJNR172500005BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Ort und Zeit der Dienstleistung"
+        },
+        {
+          "documentIdentifier" : "BJNR172500005BJNE000701124",
+          "paragraph" : "§ 6",
+          "title" : "Erprobung neuer Arbeitszeitmodelle"
+        },
+        {
+          "documentIdentifier" : "BJNR172500005BJNE000802124",
+          "paragraph" : "§ 7",
+          "title" : "Arbeitszeit bei einem anderen Unternehmen"
+        },
+        {
+          "documentIdentifier" : "BJNR172500005BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

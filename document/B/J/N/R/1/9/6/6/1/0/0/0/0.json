@@ -1,0 +1,181 @@
+{
+  "documentIdentifier" : "BJNR196610000",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR196610000BJNG000100305",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR196610000BJNE000500305",
+          "paragraph" : "§ 1",
+          "title" : "Zielsetzung"
+        },
+        {
+          "documentIdentifier" : "BJNR196610000BJNE000600305",
+          "paragraph" : "§ 2",
+          "title" : "Begriff des teilzeitbeschäftigten Arbeitnehmers"
+        },
+        {
+          "documentIdentifier" : "BJNR196610000BJNE000700305",
+          "paragraph" : "§ 3",
+          "title" : "Begriff des befristet beschäftigten Arbeitnehmers"
+        },
+        {
+          "documentIdentifier" : "BJNR196610000BJNE000800305",
+          "paragraph" : "§ 4",
+          "title" : "Verbot der Diskriminierung"
+        },
+        {
+          "documentIdentifier" : "BJNR196610000BJNE000900305",
+          "paragraph" : "§ 5",
+          "title" : "Benachteiligungsverbot"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR196610000BJNG000200305",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR196610000BJNE001000305",
+          "paragraph" : "§ 6",
+          "title" : "Förderung von Teilzeitarbeit"
+        },
+        {
+          "documentIdentifier" : "BJNR196610000BJNE001101126",
+          "paragraph" : "§ 7",
+          "title" : "Ausschreibung; Erörterung; Information über freie Arbeitsplätze"
+        },
+        {
+          "documentIdentifier" : "BJNR196610000BJNE001202126",
+          "paragraph" : "§ 8",
+          "title" : "Zeitlich nicht begrenzte Verringerung der Arbeitszeit"
+        },
+        {
+          "documentIdentifier" : "BJNR196610000BJNE001301126",
+          "paragraph" : "§ 9",
+          "title" : "Verlängerung der Arbeitszeit"
+        },
+        {
+          "documentIdentifier" : "BJNR196610000BJNE002800126",
+          "paragraph" : "§ 9a",
+          "title" : "Zeitlich begrenzte Verringerung der Arbeitszeit"
+        },
+        {
+          "documentIdentifier" : "BJNR196610000BJNE001400305",
+          "paragraph" : "§ 10",
+          "title" : "Aus- und Weiterbildung"
+        },
+        {
+          "documentIdentifier" : "BJNR196610000BJNE001500305",
+          "paragraph" : "§ 11",
+          "title" : "Kündigungsverbot"
+        },
+        {
+          "documentIdentifier" : "BJNR196610000BJNE001601126",
+          "paragraph" : "§ 12",
+          "title" : "Arbeit auf Abruf"
+        },
+        {
+          "documentIdentifier" : "BJNR196610000BJNE001700305",
+          "paragraph" : "§ 13",
+          "title" : "Arbeitsplatzteilung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Teilzeitarbeit"
+    },
+    {
+      "documentIdentifier" : "BJNR196610000BJNG000300305",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR196610000BJNE001804140",
+          "paragraph" : "§ 14",
+          "title" : "Zulässigkeit der Befristung"
+        },
+        {
+          "documentIdentifier" : "BJNR196610000BJNE001900305",
+          "paragraph" : "§ 15",
+          "title" : "Ende des befristeten Arbeitsvertrages"
+        },
+        {
+          "documentIdentifier" : "BJNR196610000BJNE002000305",
+          "paragraph" : "§ 16",
+          "title" : "Folgen unwirksamer Befristung"
+        },
+        {
+          "documentIdentifier" : "BJNR196610000BJNE002100305",
+          "paragraph" : "§ 17",
+          "title" : "Anrufung des Arbeitsgerichts"
+        },
+        {
+          "documentIdentifier" : "BJNR196610000BJNE002200305",
+          "paragraph" : "§ 18",
+          "title" : "Information über unbefristete Arbeitsplätze"
+        },
+        {
+          "documentIdentifier" : "BJNR196610000BJNE002300305",
+          "paragraph" : "§ 19",
+          "title" : "Aus- und Weiterbildung"
+        },
+        {
+          "documentIdentifier" : "BJNR196610000BJNE002400305",
+          "paragraph" : "§ 20",
+          "title" : "Information der Arbeitnehmervertretung"
+        },
+        {
+          "documentIdentifier" : "BJNR196610000BJNE002500305",
+          "paragraph" : "§ 21",
+          "title" : "Auflösend bedingte Arbeitsverträge"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Befristete Arbeitsverträge"
+    },
+    {
+      "documentIdentifier" : "BJNR196610000BJNG000400305",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR196610000BJNE002601126",
+          "paragraph" : "§ 22",
+          "title" : "Abweichende Vereinbarungen"
+        },
+        {
+          "documentIdentifier" : "BJNR196610000BJNE002700305",
+          "paragraph" : "§ 23",
+          "title" : "Besondere gesetzliche Regelungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gemeinsame Vorschriften"
+    }
+  ]
+}

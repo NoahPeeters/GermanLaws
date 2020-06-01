@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR270500012",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR270500012Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR270500012BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Stichprobenentnahme bei Prüfungen"
+        },
+        {
+          "documentIdentifier" : "BJNR270500012BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Berichte nach § 36 Absatz 2 und 3 Satz 1 des Gesetzes über die Deutsche Bundesbank"
+        },
+        {
+          "documentIdentifier" : "BJNR270500012BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Meldepflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR270500012BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR270500012BJNE000600000",
+          "paragraph" : "Anlage 1",
+          "title" : "Meldung statistischer Daten an die Deutsche Bundesbank nach § 3 der Bargeldprüfungsverordnung "
+        },
+        {
+          "documentIdentifier" : "BJNR270500012BJNE000700000",
+          "paragraph" : "Anlage 2",
+          "title" : "Meldung statistischer Daten an die Deutsche Bundesbank nach § 3 der Bargeldprüfungsverordnung "
+        },
+        {
+          "documentIdentifier" : "BJNR270500012BJNE000800000",
+          "paragraph" : "Anlage 3",
+          "title" : "Meldung statistischer Daten an die Deutsche Bundesbank nach § 3 der Bargeldprüfungsverordnung "
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

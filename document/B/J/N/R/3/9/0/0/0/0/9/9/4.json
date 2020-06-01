@@ -1,0 +1,162 @@
+{
+  "documentIdentifier" : "BJNR390000994",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR390000994BJNG000200000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR390000994BJNG000300000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR390000994BJNE000300000",
+              "paragraph" : "§ 1",
+              "title" : "Erstreckung auf wasserwirtschaftliche Anlagen"
+            },
+            {
+              "documentIdentifier" : "BJNR390000994BJNE000400000",
+              "paragraph" : "§ 2",
+              "title" : "Geltung des Bescheinigungsverfahrens"
+            },
+            {
+              "documentIdentifier" : "BJNR390000994BJNE000500000",
+              "paragraph" : "§ 3",
+              "title" : "Behördenzuständigkeit"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Leitungsrechtserstreckung"
+        },
+        {
+          "documentIdentifier" : "BJNR390000994BJNG000400000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR390000994BJNE000600000",
+              "paragraph" : "§ 4",
+              "title" : "Inhalt der Leitungs- und Anlagenrechte"
+            },
+            {
+              "documentIdentifier" : "BJNR390000994BJNE000700000",
+              "paragraph" : "§ 5",
+              "title" : "Bestandsschutz"
+            },
+            {
+              "documentIdentifier" : "BJNR390000994BJNE000800000",
+              "paragraph" : "§ 6",
+              "title" : "Antrag auf Erteilung der Leitungs- und Anlagenrechtsbescheinigung"
+            },
+            {
+              "documentIdentifier" : "BJNR390000994BJNE000900000",
+              "paragraph" : "§ 7",
+              "title" : "Erteilung der Leitungs- und Anlagenrechtsbescheinigung"
+            },
+            {
+              "documentIdentifier" : "BJNR390000994BJNE001000000",
+              "paragraph" : "§ 8",
+              "title" : "Grundbuchberichtigung"
+            },
+            {
+              "documentIdentifier" : "BJNR390000994BJNE001100000",
+              "paragraph" : "§ 9",
+              "title" : "Berichtigungsbewilligung, Verzichtsbescheinigung"
+            },
+            {
+              "documentIdentifier" : "BJNR390000994BJNE001200000",
+              "paragraph" : "§ 10",
+              "title" : "Erlöschensbescheinigung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Inhalt der Rechte und Bescheinigungsverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR390000994BJNG000500000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR390000994BJNE001300000",
+              "paragraph" : "§ 11",
+              "title" : "Anwendungsregelung für Energieanlagen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Schlußvorschriften"
+        }
+      ],
+      "title" : "Leitungsrechte"
+    },
+    {
+      "documentIdentifier" : "BJNR390000994BJNG001400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR390000994BJNE001500000",
+          "paragraph" : "§ 12",
+          "title" : "Mittelwerte und Marktpreise bei sonstigen wertbeständigen\nGrundpfandrechten"
+        },
+        {
+          "documentIdentifier" : "BJNR390000994BJNE001600000",
+          "paragraph" : "§ 13",
+          "title" : "Verlängerung von Fristen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Wertbeständige Hypotheken, nicht eingetragene Rechte"
+    },
+    {
+      "documentIdentifier" : "BJNR390000994BJNG001700000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR390000994BJNE001800000",
+          "paragraph" : "§ 14",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inkrafttreten"
+    }
+  ]
+}

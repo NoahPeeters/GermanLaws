@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR025000008",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR025000008Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR025000008BJNE000204311",
+          "paragraph" : "§ 1",
+          "title" : "Sachliche Zuständigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR025000008BJNE000302311",
+          "paragraph" : "§ 2",
+          "title" : "Örtliche Zuständigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR025000008BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

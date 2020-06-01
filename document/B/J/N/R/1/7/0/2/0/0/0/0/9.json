@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR170200009",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR170200009Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR170200009BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Errichtung des Sondervermögens"
+        },
+        {
+          "documentIdentifier" : "BJNR170200009BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Zweck des Sondervermögens"
+        },
+        {
+          "documentIdentifier" : "BJNR170200009BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Stellung im Rechtsverkehr"
+        },
+        {
+          "documentIdentifier" : "BJNR170200009BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Zuführung der Mittel"
+        },
+        {
+          "documentIdentifier" : "BJNR170200009BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Haushalt"
+        },
+        {
+          "documentIdentifier" : "BJNR170200009BJNE000600000",
+          "paragraph" : "§ 6",
+          "title" : "Rechnungslegung"
+        },
+        {
+          "documentIdentifier" : "BJNR170200009BJNE000700000",
+          "paragraph" : "§ 7",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

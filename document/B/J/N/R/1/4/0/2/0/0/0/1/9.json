@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR140200019",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR140200019Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR140200019BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Beleihung"
+        },
+        {
+          "documentIdentifier" : "BJNR140200019BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Voraussetzungen der Beleihung"
+        },
+        {
+          "documentIdentifier" : "BJNR140200019BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Gegenstand der Beleihung"
+        },
+        {
+          "documentIdentifier" : "BJNR140200019BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Widerruf der Beleihung"
+        },
+        {
+          "documentIdentifier" : "BJNR140200019BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Höchstbetrag für den Rückgriff bei der beliehenen juristischen Person des privaten Rechts"
+        },
+        {
+          "documentIdentifier" : "BJNR140200019BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

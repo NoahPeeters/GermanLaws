@@ -1,0 +1,156 @@
+{
+  "documentIdentifier" : "BJNR115800019",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR115800019BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR115800019BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR115800019BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Anspruch auf Wehrsold"
+        },
+        {
+          "documentIdentifier" : "BJNR115800019BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Anwendung von Vorschriften des Bundesbesoldungsgesetzes"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR115800019BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR115800019BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Wehrsoldgrundbetrag, Kinderzuschlag"
+        },
+        {
+          "documentIdentifier" : "BJNR115800019BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Erstattung der Beiträge zur Kranken- und Pflegeversicherung für Angehörige"
+        },
+        {
+          "documentIdentifier" : "BJNR115800019BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Auslandsvergütung"
+        },
+        {
+          "documentIdentifier" : "BJNR115800019BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Anpassung des Wehrsoldes"
+        },
+        {
+          "documentIdentifier" : "BJNR115800019BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Entlassungsgeld"
+        },
+        {
+          "documentIdentifier" : "BJNR115800019BJNE001000000",
+          "paragraph" : "§ 9",
+          "title" : "Vergütung für herausgehobene Funktionen"
+        },
+        {
+          "documentIdentifier" : "BJNR115800019BJNE001100000",
+          "paragraph" : "§ 10",
+          "title" : "Vergütung für besondere Erschwernisse"
+        },
+        {
+          "documentIdentifier" : "BJNR115800019BJNE001200000",
+          "paragraph" : "§ 11",
+          "title" : "Vergütung für besondere zeitliche Belastungen"
+        },
+        {
+          "documentIdentifier" : "BJNR115800019BJNE001300000",
+          "paragraph" : "§ 12",
+          "title" : "Auslandsverwendungszuschlag"
+        },
+        {
+          "documentIdentifier" : "BJNR115800019BJNE001400000",
+          "paragraph" : "§ 13",
+          "title" : "Kaufkraftausgleich"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Geldbezüge"
+    },
+    {
+      "documentIdentifier" : "BJNR115800019BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR115800019BJNE001500000",
+          "paragraph" : "§ 14",
+          "title" : "Unterkunft"
+        },
+        {
+          "documentIdentifier" : "BJNR115800019BJNE001600000",
+          "paragraph" : "§ 15",
+          "title" : "Dienstkleidung und Ausrüstung"
+        },
+        {
+          "documentIdentifier" : "BJNR115800019BJNE001700000",
+          "paragraph" : "§ 16",
+          "title" : "Heilfürsorge"
+        },
+        {
+          "documentIdentifier" : "BJNR115800019BJNE001800000",
+          "paragraph" : "§ 17",
+          "title" : "Verpflegung, Verpflegungsgeld"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Sachbezüge"
+    },
+    {
+      "documentIdentifier" : "BJNR115800019BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR115800019BJNE001900000",
+          "paragraph" : "§ 18",
+          "title" : "Übergangsregelung"
+        },
+        {
+          "documentIdentifier" : "BJNR115800019BJNE002000000",
+          "paragraph" : "Anlage",
+          "title" : "(zu den §§ 4 und 6)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übergangsregelungen"
+    }
+  ]
+}

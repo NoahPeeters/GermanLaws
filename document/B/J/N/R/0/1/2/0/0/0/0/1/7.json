@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR012000017",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR012000017Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR012000017BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Übergang der Finanzierungspflicht für Anlagen zur Endlagerung radioaktiver Abfälle"
+        },
+        {
+          "documentIdentifier" : "BJNR012000017BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Übergang der Handlungspflicht für die Entsorgung radioaktiver Abfälle"
+        },
+        {
+          "documentIdentifier" : "BJNR012000017BJNE000301119",
+          "paragraph" : "§ 3",
+          "title" : "Zwischenlager, Verordnungsermächtigung"
+        },
+        {
+          "documentIdentifier" : "BJNR012000017BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Erstattung der Aufwendungen des Dritten nach § 2 Absatz 1 Satz 1"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

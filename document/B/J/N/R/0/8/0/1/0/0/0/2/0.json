@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR080100020",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR080100020Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR080100020BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Bezugsdauer"
+        },
+        {
+          "documentIdentifier" : "BJNR080100020BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "documentIdentifier" : "BJNR256200004",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR256200004Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR256200004BJNE000204311",
+          "paragraph" : "§ 1",
+          "title" : "Gebührenverzeichnis"
+        },
+        {
+          "documentIdentifier" : "BJNR256200004BJNE000302160",
+          "paragraph" : "§ 2",
+          "title" : "Allgemeine Vorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR256200004BJNE001000301",
+          "paragraph" : "§ 2a",
+          "title" : "Recht der Europäischen Union"
+        },
+        {
+          "documentIdentifier" : "BJNR256200004BJNE000401160",
+          "paragraph" : "§ 3",
+          "title" : "Zurücknahme"
+        },
+        {
+          "documentIdentifier" : "BJNR256200004BJNE000501160",
+          "paragraph" : "§ 4",
+          "title" : "Zurückweisung"
+        },
+        {
+          "documentIdentifier" : "BJNR256200004BJNE000601160",
+          "paragraph" : "§ 5",
+          "title" : "Zurücknahme oder Zurückweisung in besonderen Fällen"
+        },
+        {
+          "documentIdentifier" : "BJNR256200004BJNE001100160",
+          "paragraph" : "§ 5a",
+          "title" : "Übergangsvorschrift"
+        },
+        {
+          "documentIdentifier" : "BJNR256200004BJNE000909311",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 1)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

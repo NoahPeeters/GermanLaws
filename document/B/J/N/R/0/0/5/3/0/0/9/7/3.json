@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR005300973",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR005300973Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR005300973BJNE000200303",
+          "paragraph" : "§ 1",
+          "title" : "Vorübergehender Ausschluß der Absetzung für Abnutzung\nin fallenden Jahresbeträgen bei beweglichen Wirtschaftsgütern\ndes Anlagevermögens und der erhöhten Absetzungen für\nEinfamilienhäuser, Zweifamilienhäuser und Eigentumswohnungen"
+        },
+        {
+          "documentIdentifier" : "BJNR005300973BJNE000300303",
+          "paragraph" : "§ 2",
+          "title" : "Berlin-Klausel"
+        },
+        {
+          "documentIdentifier" : "BJNR005300973BJNE000400303",
+          "paragraph" : "§ 3",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR089100006",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR089100006Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR089100006BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Unanwendbarkeit von Maßgaben"
+        },
+        {
+          "documentIdentifier" : "BJNR089100006BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Bekanntmachungserlaubnis"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

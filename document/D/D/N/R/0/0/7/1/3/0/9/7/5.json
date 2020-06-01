@@ -1,0 +1,68 @@
+{
+  "documentIdentifier" : "DDNR007130975",
+  "sections" : [
+    {
+      "documentIdentifier" : "DDNR007130975Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "DDNR007130975BJNE000500307",
+          "paragraph" : "§ 1",
+          "title" : "Geltungsbereich"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "DDNR007130975BJNG000100307",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Grundsätze"
+        }
+      ],
+      "title" : "Inhalt"
+    },
+    {
+      "documentIdentifier" : "DDNR007130975BJNG000200307",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Leitung, Planung und Organisation der Schüler- und Kinderspeisung"
+    },
+    {
+      "documentIdentifier" : "DDNR007130975BJNG000300307",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlußbestimmungen"
+    }
+  ]
+}

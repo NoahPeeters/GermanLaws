@@ -1,0 +1,69 @@
+{
+  "documentIdentifier" : "BJNR011740992",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR011740992Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR011740992BJNE000201308",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR011740992BJNE000304308",
+          "paragraph" : "§ 2",
+          "title" : "Einkommensanrechnung"
+        },
+        {
+          "documentIdentifier" : "BJNR011740992BJNE000406308",
+          "paragraph" : "§ 3",
+          "title" : "Anrechenbares Einkommen"
+        },
+        {
+          "documentIdentifier" : "BJNR011740992BJNE000502308",
+          "paragraph" : "§ 4",
+          "title" : "Einkommensänderung"
+        },
+        {
+          "documentIdentifier" : "BJNR011740992BJNE000602308",
+          "paragraph" : "§ 5",
+          "title" : "Anrechnungsfreibetrag"
+        },
+        {
+          "documentIdentifier" : "BJNR011740992BJNE000703308",
+          "paragraph" : "§ 6",
+          "title" : "Ruhen der Versorgungsleistung"
+        },
+        {
+          "documentIdentifier" : "BJNR011740992BJNE000801308",
+          "paragraph" : "§ 7",
+          "title" : "Vorbehalt"
+        },
+        {
+          "documentIdentifier" : "BJNR011740992BJNE000902308",
+          "paragraph" : "§ 8",
+          "title" : "Mitwirkungspflichten, Verfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR011740992BJNE001400308",
+          "paragraph" : "§ 8a",
+          "title" : "Leistungen öffentlich-rechtlicher Art"
+        },
+        {
+          "documentIdentifier" : "BJNR011740992BJNE001002308",
+          "paragraph" : "§ 9",
+          "title" : "Rückforderung von Versorgungsleistungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

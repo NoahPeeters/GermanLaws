@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR007710990",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR007710990Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR007710990BJNE000201308",
+          "paragraph" : "§ 1",
+          "title" : "Zweck der Verordnung"
+        },
+        {
+          "documentIdentifier" : "BJNR007710990BJNE000402308",
+          "paragraph" : "§ 2",
+          "title" : "Gleichstellung von Prüfungszeugnissen"
+        },
+        {
+          "documentIdentifier" : "BJNR007710990BJNE000605308",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 2)"
+        },
+        {
+          "documentIdentifier" : "BJNR007710990BJNE888800308",
+          "paragraph" : "Anhang EV",
+          "title" : "Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet B Abschnitt III\n"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

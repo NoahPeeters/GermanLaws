@@ -1,0 +1,89 @@
+{
+  "documentIdentifier" : "BJNR006970960",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR006970960BJNG000100319",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Die Erlaubnis"
+    },
+    {
+      "documentIdentifier" : "BJNR006970960BJNG000200319",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Krankenhausapotheken, Bundeswehrapotheken, Zweigapotheken, Notapotheken"
+    },
+    {
+      "documentIdentifier" : "BJNR006970960BJNG000302116",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Notdienstpauschale, Apothekenbetriebsordnung und Ausnahmeregelungen für Bundespolizei und Bereitschaftspolizei"
+    },
+    {
+      "documentIdentifier" : "BJNR006970960BJNG000400319",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Straf- und Bußgeldbestimmungen"
+    },
+    {
+      "documentIdentifier" : "BJNR006970960BJNG000500319",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR006970960BJNE003400319",
+          "paragraph" : "§ 31",
+          "title" : "(Außerkrafttreten)"
+        },
+        {
+          "documentIdentifier" : "BJNR006970960BJNE003600319",
+          "paragraph" : "§ 33",
+          "title" : "(Inkrafttreten)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schluß- und Übergangsbestimmungen"
+    }
+  ]
+}

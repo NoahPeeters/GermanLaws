@@ -1,0 +1,250 @@
+{
+  "documentIdentifier" : "BJNR221100004",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR221100004BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR221100004BJNE000201310",
+          "paragraph" : "§ 1",
+          "title" : "Zweck des Gesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR221100004BJNE000301310",
+          "paragraph" : "§ 2",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR221100004BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Begriffsbestimmungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR221100004BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR221100004BJNE000501310",
+          "paragraph" : "§ 4",
+          "title" : "Nationale Emissionsziele"
+        },
+        {
+          "documentIdentifier" : "BJNR221100004BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Erfüllungsfaktor"
+        },
+        {
+          "documentIdentifier" : "BJNR221100004BJNE000701116",
+          "paragraph" : "§ 6",
+          "title" : "Reserve"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Mengenplanung"
+    },
+    {
+      "documentIdentifier" : "BJNR221100004BJNG000300000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR221100004BJNG000400000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR221100004BJNE000801310",
+              "paragraph" : "§ 7",
+              "title" : "Zuteilung für bestehende Anlagen auf Basis historischer Emissionen"
+            },
+            {
+              "documentIdentifier" : "BJNR221100004BJNE000901310",
+              "paragraph" : "§ 8",
+              "title" : "Zuteilung für bestehende Anlagen auf Basis angemeldeter Emissionen"
+            },
+            {
+              "documentIdentifier" : "BJNR221100004BJNE001001310",
+              "paragraph" : "§ 9",
+              "title" : "Einstellung des Betriebes von Anlagen"
+            },
+            {
+              "documentIdentifier" : "BJNR221100004BJNE001101310",
+              "paragraph" : "§ 10",
+              "title" : "Zuteilung für Neuanlagen als Ersatzanlagen"
+            },
+            {
+              "documentIdentifier" : "BJNR221100004BJNE001201310",
+              "paragraph" : "§ 11",
+              "title" : "Zuteilung für zusätzliche Neuanlagen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Grundregeln für die Zuteilung"
+        },
+        {
+          "documentIdentifier" : "BJNR221100004BJNG000500000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR221100004BJNE001302116",
+              "paragraph" : "§ 12",
+              "title" : "Frühzeitige Emissionsminderungen"
+            },
+            {
+              "documentIdentifier" : "BJNR221100004BJNE001401310",
+              "paragraph" : "§ 13",
+              "title" : "Prozessbedingte Emissionen"
+            },
+            {
+              "documentIdentifier" : "BJNR221100004BJNE001502116",
+              "paragraph" : "§ 14",
+              "title" : "Sonderzuteilung für Anlagen mit Kraft-Wärme-Kopplung"
+            },
+            {
+              "documentIdentifier" : "BJNR221100004BJNE001601310",
+              "paragraph" : "§ 15",
+              "title" : "Sonderzuteilung bei Einstellung des Betriebes von Kernkraftwerken"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Besondere Zuteilungsregeln"
+        },
+        {
+          "documentIdentifier" : "BJNR221100004BJNG000600000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR221100004BJNE001700000",
+              "paragraph" : "§ 16",
+              "title" : "Nähere Bestimmung der Berechnung der Zuteilung"
+            },
+            {
+              "documentIdentifier" : "BJNR221100004BJNE001801310",
+              "paragraph" : "§ 17",
+              "title" : "Überprüfung von Angaben"
+            },
+            {
+              "documentIdentifier" : "BJNR221100004BJNE001905301",
+              "paragraph" : "§ 18",
+              "title" : "Kostenlose Zuteilung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Allgemeine Zuteilungsvorschriften"
+        }
+      ],
+      "title" : "Zuteilungsregeln"
+    },
+    {
+      "documentIdentifier" : "BJNR221100004BJNG000700000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR221100004BJNE002001310",
+          "paragraph" : "§ 19",
+          "title" : "Ausgabe"
+        },
+        {
+          "documentIdentifier" : "BJNR221100004BJNE002101310",
+          "paragraph" : "§ 20",
+          "title" : "Ausschluss der Überführung von Berechtigungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Ausgabe und Überführung von Berechtigungen"
+    },
+    {
+      "documentIdentifier" : "BJNR221100004BJNG000800000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR221100004BJNE002201310",
+          "paragraph" : "§ 21",
+          "title" : "Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR221100004BJNE002302310",
+          "paragraph" : "§ 22",
+          "title" : "Zuständigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR221100004BJNE002405301",
+          "paragraph" : "§ 23",
+          "title" : "Gebühren und Auslagen für individuell zurechenbare öffentliche Leistungen nach diesem Gesetz"
+        },
+        {
+          "documentIdentifier" : "BJNR221100004BJNE002500000",
+          "paragraph" : "§ 24",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR221100004BJNE002600000",
+          "paragraph" : "Anhang 1",
+          "title" : "Berechnungsformeln"
+        },
+        {
+          "documentIdentifier" : "BJNR221100004BJNE002701310",
+          "paragraph" : "Anhang 2",
+          "title" : "Vergleichbarkeit von Anlagen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gemeinsame Vorschriften"
+    }
+  ]
+}

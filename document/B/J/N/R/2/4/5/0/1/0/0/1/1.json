@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR245010011",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR245010011Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR245010011BJNE000101140",
+          "paragraph" : "§ 1",
+          "title" : "Jährliche Höchstgrenze"
+        },
+        {
+          "documentIdentifier" : "BJNR245010011BJNE000203305",
+          "paragraph" : "§ 2",
+          "title" : "Verfahren"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

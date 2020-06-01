@@ -1,0 +1,161 @@
+{
+  "documentIdentifier" : "BJNR165800012",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR165800012BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR165800012BJNE000201125",
+          "paragraph" : "§ 1",
+          "title" : "Bewilligung des Bezugs von Abdrucken"
+        },
+        {
+          "documentIdentifier" : "BJNR165800012BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Zuständigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR165800012BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Antrag"
+        },
+        {
+          "documentIdentifier" : "BJNR165800012BJNE000501125",
+          "paragraph" : "§ 4",
+          "title" : "Speicherung von Daten des Antragstellers"
+        },
+        {
+          "documentIdentifier" : "BJNR165800012BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Bewilligung"
+        },
+        {
+          "documentIdentifier" : "BJNR165800012BJNE000701125",
+          "paragraph" : "§ 6",
+          "title" : "Befristungen, Auflagen und Bedingungen"
+        },
+        {
+          "documentIdentifier" : "BJNR165800012BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Widerruf und Rücknahme von Bewilligungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Bewilligungsverfahren"
+    },
+    {
+      "documentIdentifier" : "BJNR165800012BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR165800012BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Inhalt von Abdrucken"
+        },
+        {
+          "documentIdentifier" : "BJNR165800012BJNE001000000",
+          "paragraph" : "§ 9",
+          "title" : "Erteilung und Aufbewahrung von Abdrucken"
+        },
+        {
+          "documentIdentifier" : "BJNR165800012BJNE001100000",
+          "paragraph" : "§ 10",
+          "title" : "Einstweiliger Ausschluss vom Bezug von Abdrucken"
+        },
+        {
+          "documentIdentifier" : "BJNR165800012BJNE001200000",
+          "paragraph" : "§ 11",
+          "title" : "Inhalt von Listen"
+        },
+        {
+          "documentIdentifier" : "BJNR165800012BJNE001300000",
+          "paragraph" : "§ 12",
+          "title" : "Anfertigung, Erteilung und Verwendung von Listen"
+        },
+        {
+          "documentIdentifier" : "BJNR165800012BJNE001400000",
+          "paragraph" : "§ 13",
+          "title" : "Ausschluss vom Bezug von Listen"
+        },
+        {
+          "documentIdentifier" : "BJNR165800012BJNE001500000",
+          "paragraph" : "§ 14",
+          "title" : "Löschung in Abdrucken und Listen"
+        },
+        {
+          "documentIdentifier" : "BJNR165800012BJNE001600000",
+          "paragraph" : "§ 15",
+          "title" : "Kontrolle von Löschungen in Abdrucken und Listen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Abdrucke und Listen"
+    },
+    {
+      "documentIdentifier" : "BJNR165800012BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR165800012BJNE001702125",
+          "paragraph" : "§ 16",
+          "title" : "Einrichtung"
+        },
+        {
+          "documentIdentifier" : "BJNR165800012BJNE001801125",
+          "paragraph" : "§ 17",
+          "title" : "Ausgestaltung elektronischer Abrufverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR165800012BJNE001902125",
+          "paragraph" : "§ 18",
+          "title" : "Ausschluss von der Abrufberechtigung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Automatisiertes Abrufverfahren"
+    },
+    {
+      "documentIdentifier" : "BJNR165800012BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR165800012BJNE002000000",
+          "paragraph" : "§ 19",
+          "title" : "Rechtsweg"
+        },
+        {
+          "documentIdentifier" : "BJNR165800012BJNE002100000",
+          "paragraph" : "§ 20",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussvorschriften"
+    }
+  ]
+}

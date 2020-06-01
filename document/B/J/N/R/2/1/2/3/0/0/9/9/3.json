@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR212300993",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR212300993Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR212300993BJNE000300307",
+          "paragraph" : "Art 10",
+          "title" : "Übergangsregelungen"
+        },
+        {
+          "documentIdentifier" : "BJNR212300993BJNE000400307",
+          "paragraph" : "Art 11",
+          "title" : "Neubekanntmachung"
+        },
+        {
+          "documentIdentifier" : "BJNR212300993BJNE000500307",
+          "paragraph" : "Art 12",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

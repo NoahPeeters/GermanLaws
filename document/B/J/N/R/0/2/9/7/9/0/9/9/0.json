@@ -1,0 +1,288 @@
+{
+  "documentIdentifier" : "BJNR029790990",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR029790990BJNG000100305",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR029790990BJNE000103377",
+          "paragraph" : "§ 1",
+          "title" : "Organisation und Aufgaben"
+        },
+        {
+          "documentIdentifier" : "BJNR029790990BJNE000206377",
+          "paragraph" : "§ 2",
+          "title" : "Befugnisse"
+        },
+        {
+          "documentIdentifier" : "BJNR029790990BJNE001800305",
+          "paragraph" : "§ 3",
+          "title" : "Besondere Auskunftsverlangen"
+        },
+        {
+          "documentIdentifier" : "BJNR029790990BJNE001502305",
+          "paragraph" : "§ 4",
+          "title" : "Weitere Auskunftsverlangen"
+        },
+        {
+          "documentIdentifier" : "BJNR029790990BJNE000302305",
+          "paragraph" : "§ 5",
+          "title" : "Besondere Formen der Datenerhebung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Organisation, Aufgaben und allgemeine Befugnisse des Bundesnachrichtendienstes"
+    },
+    {
+      "documentIdentifier" : "BJNR029790990BJNG000200305",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR029790990BJNE001901377",
+          "paragraph" : "§ 6",
+          "title" : "Voraussetzungen für die Verarbeitung von Daten"
+        },
+        {
+          "documentIdentifier" : "BJNR029790990BJNE002001377",
+          "paragraph" : "§ 7",
+          "title" : "Weitere Verarbeitung der vom Ausland aus erhobenen Daten"
+        },
+        {
+          "documentIdentifier" : "BJNR029790990BJNE002100305",
+          "paragraph" : "§ 8",
+          "title" : "Pflichten der Anbieter von Telekommunikationsdiensten"
+        },
+        {
+          "documentIdentifier" : "BJNR029790990BJNE002200305",
+          "paragraph" : "§ 9",
+          "title" : "Anordnung; Unterrichtung"
+        },
+        {
+          "documentIdentifier" : "BJNR029790990BJNE002301377",
+          "paragraph" : "§ 10",
+          "title" : "Kennzeichnung und Löschung"
+        },
+        {
+          "documentIdentifier" : "BJNR029790990BJNE002400305",
+          "paragraph" : "§ 11",
+          "title" : "Kernbereichsschutz"
+        },
+        {
+          "documentIdentifier" : "BJNR029790990BJNE002500305",
+          "paragraph" : "§ 12",
+          "title" : "Eignungsprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR029790990BJNE002600305",
+          "paragraph" : "§ 13",
+          "title" : "Kooperation im Rahmen der Ausland-Ausland-Fernmeldeaufklärung"
+        },
+        {
+          "documentIdentifier" : "BJNR029790990BJNE002700305",
+          "paragraph" : "§ 14",
+          "title" : "Erhebung von Informationen einschließlich personenbezogener Daten im Rahmen einer Kooperation"
+        },
+        {
+          "documentIdentifier" : "BJNR029790990BJNE002800305",
+          "paragraph" : "§ 15",
+          "title" : "Automatisierte Datenübermittlung; Speicherung; Prüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR029790990BJNE002900305",
+          "paragraph" : "§ 16",
+          "title" : "Unabhängiges Gremium"
+        },
+        {
+          "documentIdentifier" : "BJNR029790990BJNE003000305",
+          "paragraph" : "§ 17",
+          "title" : "Mitteilungsverbote"
+        },
+        {
+          "documentIdentifier" : "BJNR029790990BJNE003100305",
+          "paragraph" : "§ 18",
+          "title" : "Entschädigung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Ausland-Ausland-Fernmeldeaufklärung"
+    },
+    {
+      "documentIdentifier" : "BJNR029790990BJNG000301377",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR029790990BJNE000402305",
+          "paragraph" : "§ 19",
+          "title" : "Speicherung, Veränderung und Nutzung personenbezogener Daten"
+        },
+        {
+          "documentIdentifier" : "BJNR029790990BJNE001601377",
+          "paragraph" : "§ 20",
+          "title" : "Berichtigung, Löschung und Verarbeitungseinschränkung personenbezogener Daten"
+        },
+        {
+          "documentIdentifier" : "BJNR029790990BJNE000602305",
+          "paragraph" : "§ 21",
+          "title" : "Dateianordnungen"
+        },
+        {
+          "documentIdentifier" : "BJNR029790990BJNE000702305",
+          "paragraph" : "§ 22",
+          "title" : "Auskunft an den Betroffenen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Datenweiterverarbeitung"
+    },
+    {
+      "documentIdentifier" : "BJNR029790990BJNG000400305",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR029790990BJNE000811305",
+          "paragraph" : "§ 23",
+          "title" : "Übermittlung von Informationen an den Bundesnachrichtendienst"
+        },
+        {
+          "documentIdentifier" : "BJNR029790990BJNE001700305",
+          "paragraph" : "§ 24",
+          "title" : "Übermittlung von Informationen durch den Bundesnachrichtendienst"
+        },
+        {
+          "documentIdentifier" : "BJNR029790990BJNE001304377",
+          "paragraph" : "§ 25",
+          "title" : "Projektbezogene gemeinsame Dateien mit inländischen öffentlichen Stellen"
+        },
+        {
+          "documentIdentifier" : "BJNR029790990BJNE003200305",
+          "paragraph" : "§ 26",
+          "title" : "Gemeinsame Dateien mit ausländischen öffentlichen Stellen"
+        },
+        {
+          "documentIdentifier" : "BJNR029790990BJNE003301377",
+          "paragraph" : "§ 27",
+          "title" : "Führung gemeinsamer Dateien durch den Bundesnachrichtendienst"
+        },
+        {
+          "documentIdentifier" : "BJNR029790990BJNE003401377",
+          "paragraph" : "§ 28",
+          "title" : "Dateianordnung bei gemeinsamen Dateien"
+        },
+        {
+          "documentIdentifier" : "BJNR029790990BJNE003500305",
+          "paragraph" : "§ 29",
+          "title" : "Eingabe in und Zugriff auf die vom Bundesnachrichtendienst geführten gemeinsamen Dateien"
+        },
+        {
+          "documentIdentifier" : "BJNR029790990BJNE003600305",
+          "paragraph" : "§ 30",
+          "title" : "Beteiligung an gemeinsamen Dateien mit ausländischen öffentlichen Stellen"
+        },
+        {
+          "documentIdentifier" : "BJNR029790990BJNE001001305",
+          "paragraph" : "§ 31",
+          "title" : "Verfahrensregeln für die Übermittlung von Informationen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übermittlungen und gemeinsame Dateien"
+    },
+    {
+      "documentIdentifier" : "BJNR029790990BJNG000500305",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR029790990BJNE001103377",
+          "paragraph" : "§ 32",
+          "title" : "Unabhängige Datenschutzkontrolle"
+        },
+        {
+          "documentIdentifier" : "BJNR029790990BJNE004000377",
+          "paragraph" : "§ 32a",
+          "title" : "Anwendung des Bundesdatenschutzgesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR029790990BJNE001203377",
+          "paragraph" : "§ 33",
+          "title" : "Berichtspflicht"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gemeinsame Bestimmungen"
+    },
+    {
+      "documentIdentifier" : "BJNR029790990BJNG000600305",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR029790990BJNE003700305",
+          "paragraph" : "§ 34",
+          "title" : "Strafvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR029790990BJNE003800305",
+          "paragraph" : "§ 35",
+          "title" : "Bußgeldvorschriften"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Straf- und Bußgeldvorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR029790990BJNG000700305",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR029790990BJNE003900305",
+          "paragraph" : "§ 36",
+          "title" : "Übergangsregelung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussvorschriften"
+    }
+  ]
+}

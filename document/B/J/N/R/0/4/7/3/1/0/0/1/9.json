@@ -1,0 +1,64 @@
+{
+  "documentIdentifier" : "BJNR047310019",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR047310019Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR047310019BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Notifizierung von Konformitätsbewertungsstellen"
+        },
+        {
+          "documentIdentifier" : "BJNR047310019BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Richtwert für Stichproben bei der Marktüberwachung"
+        },
+        {
+          "documentIdentifier" : "BJNR047310019BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Unterrichtung bei Nichtkonformität eines Geräts oder einer Ausrüstung"
+        },
+        {
+          "documentIdentifier" : "BJNR047310019BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Nichtkonformität eines Geräts oder einer Ausrüstung in einem anderen Mitgliedstaat der Europäischen Union"
+        },
+        {
+          "documentIdentifier" : "BJNR047310019BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Unterrichtung bei Risiken trotz Konformität eines Geräts oder einer Ausrüstung"
+        },
+        {
+          "documentIdentifier" : "BJNR047310019BJNE000600000",
+          "paragraph" : "§ 6",
+          "title" : "Kostenerhebung"
+        },
+        {
+          "documentIdentifier" : "BJNR047310019BJNE000700000",
+          "paragraph" : "§ 7",
+          "title" : "Sprache der Gebrauchsanleitungen, der Sicherheitsinformationen und der EU-Konformitätserklärungen"
+        },
+        {
+          "documentIdentifier" : "BJNR047310019BJNE000800000",
+          "paragraph" : "§ 8",
+          "title" : "Bußgeldvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR047310019BJNE000900000",
+          "paragraph" : "§ 9",
+          "title" : "Strafvorschriften"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

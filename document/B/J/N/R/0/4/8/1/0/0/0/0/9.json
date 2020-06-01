@@ -1,0 +1,59 @@
+{
+  "documentIdentifier" : "BJNR048100009",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR048100009Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR048100009BJNE000201308",
+          "paragraph" : "§ 1",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR048100009BJNE000302305",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR048100009BJNE000401308",
+          "paragraph" : "§ 3",
+          "title" : "Einzugsgebiete"
+        },
+        {
+          "documentIdentifier" : "BJNR048100009BJNE000502305",
+          "paragraph" : "§ 4",
+          "title" : "Notrufverbindungen"
+        },
+        {
+          "documentIdentifier" : "BJNR048100009BJNE000601308",
+          "paragraph" : "§ 5",
+          "title" : "Anforderungen an Notrufanschlüsse"
+        },
+        {
+          "documentIdentifier" : "BJNR048100009BJNE000702305",
+          "paragraph" : "§ 6",
+          "title" : "Technische Richtlinie"
+        },
+        {
+          "documentIdentifier" : "BJNR048100009BJNE000802305",
+          "paragraph" : "§ 7",
+          "title" : "Übergangsvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR048100009BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

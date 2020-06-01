@@ -1,0 +1,1207 @@
+{
+  "documentIdentifier" : "BJNR004690989",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR004690989BJNG000106160",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR004690989BJNE002810377",
+          "paragraph" : "§ 1",
+          "title" : "Anordnung als Bundesstatistik"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschrift"
+    },
+    {
+      "documentIdentifier" : "BJNR004690989BJNG000207160",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR004690989BJNG000306160",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              1
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR004690989BJNG000406160",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR004690989BJNE002907377",
+                  "paragraph" : "§ 2",
+                  "title" : "Einzelerhebungen"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  1,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Allgemeine Vorschrift"
+            },
+            {
+              "documentIdentifier" : "BJNR004690989BJNG000506160",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR004690989BJNE003005160",
+                  "paragraph" : "§ 3",
+                  "title" : "Erhebungseinheiten"
+                },
+                {
+                  "documentIdentifier" : "BJNR004690989BJNE003109160",
+                  "paragraph" : "§ 4",
+                  "title" : "Erhebungsart, Periodizität, Berichtszeitpunkt, Erhebungsmerkmale"
+                },
+                {
+                  "documentIdentifier" : "BJNR004690989BJNE003206160",
+                  "paragraph" : "§ 5",
+                  "title" : "(weggefallen)"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  1,
+                  2
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Flächenerhebung"
+            },
+            {
+              "documentIdentifier" : "BJNR004690989BJNG000606160",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR004690989BJNE003310377",
+                  "paragraph" : "§ 6",
+                  "title" : "Erhebungseinheiten"
+                },
+                {
+                  "documentIdentifier" : "BJNR004690989BJNE003411119",
+                  "paragraph" : "§ 7",
+                  "title" : "Erhebungsart, Periodizität, Erhebungszeitraum, Merkmale"
+                },
+                {
+                  "documentIdentifier" : "BJNR004690989BJNE003510160",
+                  "paragraph" : "§ 8",
+                  "title" : "Erhebungsmerkmale und Berichtszeit"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  1,
+                  3
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Bodennutzungshaupterhebung"
+            },
+            {
+              "documentIdentifier" : "BJNR004690989BJNG000707377",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR004690989BJNE003609377",
+                  "paragraph" : "§ 9",
+                  "title" : "Erhebungseinheiten"
+                },
+                {
+                  "documentIdentifier" : "BJNR004690989BJNE003710360",
+                  "paragraph" : "§ 10",
+                  "title" : "Erhebungsart, Periodizität, Erhebungszeitraum"
+                },
+                {
+                  "documentIdentifier" : "BJNR004690989BJNE003809377",
+                  "paragraph" : "§ 11",
+                  "title" : "Erhebungsmerkmale und Berichtszeit"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  1,
+                  4
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Zierpflanzenerhebung"
+            },
+            {
+              "documentIdentifier" : "BJNR004690989BJNG000807377",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR004690989BJNE013400377",
+                  "paragraph" : "§ 11a",
+                  "title" : "Erhebungseinheiten"
+                },
+                {
+                  "documentIdentifier" : "BJNR004690989BJNE013500377",
+                  "paragraph" : "§ 11b",
+                  "title" : "Erhebungsart, Periodizität, Erhebungszeitraum"
+                },
+                {
+                  "documentIdentifier" : "BJNR004690989BJNE013600377",
+                  "paragraph" : "§ 11c",
+                  "title" : "Erhebungsmerkmale und Berichtszeit"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  1,
+                  5
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Gemüseerhebung"
+            },
+            {
+              "documentIdentifier" : "BJNR004690989BJNG005000377",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR004690989BJNE003909377",
+                  "paragraph" : "§ 12",
+                  "title" : "Erhebungseinheiten"
+                },
+                {
+                  "documentIdentifier" : "BJNR004690989BJNE004008360",
+                  "paragraph" : "§ 13",
+                  "title" : "Erhebungsart, Periodizität, Erhebungszeitraum, Merkmale"
+                },
+                {
+                  "documentIdentifier" : "BJNR004690989BJNE004107160",
+                  "paragraph" : "§ 14",
+                  "title" : "Erhebungsmerkmale und Berichtszeitpunkt"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  1,
+                  6
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Baumschulerhebung"
+            },
+            {
+              "documentIdentifier" : "BJNR004690989BJNG000908377",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR004690989BJNE004209377",
+                  "paragraph" : "§ 15",
+                  "title" : "Erhebungseinheiten"
+                },
+                {
+                  "documentIdentifier" : "BJNR004690989BJNE004306160",
+                  "paragraph" : "§ 16",
+                  "title" : "Erhebungsart, Periodizität, Erhebungszeitraum, Merkmale"
+                },
+                {
+                  "documentIdentifier" : "BJNR004690989BJNE004407360",
+                  "paragraph" : "§ 17",
+                  "title" : "Erhebungsmerkmale und Berichtszeitpunkt"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  1,
+                  7
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Baumobstanbauerhebung"
+            },
+            {
+              "documentIdentifier" : "BJNR004690989BJNG005100377",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR004690989BJNE013700377",
+                  "paragraph" : "§ 17a",
+                  "title" : "Erhebungseinheiten"
+                },
+                {
+                  "documentIdentifier" : "BJNR004690989BJNE013800377",
+                  "paragraph" : "§ 17b",
+                  "title" : "Erhebungsart, Periodizität, Erhebungszeitraum"
+                },
+                {
+                  "documentIdentifier" : "BJNR004690989BJNE013900377",
+                  "paragraph" : "§ 17c",
+                  "title" : "Erhebungsmerkmale und Berichtszeit"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  1,
+                  8
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Strauchbeerenerhebung"
+            }
+          ],
+          "title" : "Bodennutzungserhebung"
+        },
+        {
+          "documentIdentifier" : "BJNR004690989BJNG001008160",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR004690989BJNE004510377",
+              "paragraph" : "§ 18",
+              "title" : "Erhebungseinheiten"
+            },
+            {
+              "documentIdentifier" : "BJNR004690989BJNE004610160",
+              "paragraph" : "§ 19",
+              "title" : "Erhebungsart, Periodizität, Berichtszeitpunkt, Merkmale"
+            },
+            {
+              "documentIdentifier" : "BJNR004690989BJNE004707160",
+              "paragraph" : "§ 20",
+              "title" : "Erhebungsmerkmale"
+            },
+            {
+              "documentIdentifier" : "BJNR004690989BJNE013104377",
+              "paragraph" : "§ 20a",
+              "title" : "Besondere Vorschriften zur Erhebung der Rinderbestände"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Erhebung über die Viehbestände"
+        },
+        {
+          "documentIdentifier" : "BJNR004690989BJNG001107160",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR004690989BJNE004807160",
+              "paragraph" : "(XXXX) §§ 21 bis 23",
+              "title" : "(weggefallen)"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR004690989BJNG001208119",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              4
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR004690989BJNG001307119",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR004690989BJNE005108119",
+                  "paragraph" : "§ 24",
+                  "title" : "Einzelerhebungen"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  4,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Allgemeine Vorschrift"
+            },
+            {
+              "documentIdentifier" : "BJNR004690989BJNG004906119",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR004690989BJNE005212119",
+                  "paragraph" : "§ 25",
+                  "title" : "Erhebungseinheiten"
+                },
+                {
+                  "documentIdentifier" : "BJNR004690989BJNE005311119",
+                  "paragraph" : "§ 26",
+                  "title" : "Erhebungszeitraum"
+                },
+                {
+                  "documentIdentifier" : "BJNR004690989BJNE005412119",
+                  "paragraph" : "§ 27",
+                  "title" : "Erhebungsart und Erhebungsmerkmale"
+                },
+                {
+                  "documentIdentifier" : "BJNR004690989BJNE005510119",
+                  "paragraph" : "§ 28",
+                  "title" : "Berichtszeit"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  4,
+                  2
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Agrarstrukturerhebung"
+            },
+            {
+              "documentIdentifier" : "BJNR004690989BJNG001808119",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR004690989BJNE005611119",
+                  "paragraph" : "§ 29",
+                  "title" : "Erhebungseinheiten"
+                },
+                {
+                  "documentIdentifier" : "BJNR004690989BJNE005710119",
+                  "paragraph" : "§ 30",
+                  "title" : "Periodizität"
+                },
+                {
+                  "documentIdentifier" : "BJNR004690989BJNE013303119",
+                  "paragraph" : "§ 31",
+                  "title" : "Erhebungsart und Erhebungsmerkmale"
+                },
+                {
+                  "documentIdentifier" : "BJNR004690989BJNE005910119",
+                  "paragraph" : "§ 32",
+                  "title" : "Berichtszeitpunkt"
+                },
+                {
+                  "documentIdentifier" : "BJNR004690989BJNE006009119",
+                  "paragraph" : "§ 33",
+                  "title" : "Besondere Vorschrift zur Verwendung von Verwaltungsdaten"
+                },
+                {
+                  "documentIdentifier" : "BJNR004690989BJNE006010119",
+                  "paragraph" : "(XXXX) §§ 34 bis 43",
+                  "title" : "(weggefallen)"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  4,
+                  3
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Strukturerhebung der Forstbetriebe"
+            }
+          ],
+          "title" : "Strukturerhebungen in land- und forstwirtschaftlichen Betrieben"
+        },
+        {
+          "documentIdentifier" : "BJNR004690989BJNG001707160",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              5
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR004690989BJNG002306160",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR004690989BJNE007108160",
+              "paragraph" : "§ 44",
+              "title" : "Allgemeine Vorschrift"
+            },
+            {
+              "documentIdentifier" : "BJNR004690989BJNE007206160",
+              "paragraph" : "§ 45",
+              "title" : "(weggefallen)"
+            },
+            {
+              "documentIdentifier" : "BJNR004690989BJNE007313360",
+              "paragraph" : "§ 46",
+              "title" : "Ernte- und Betriebsberichterstattung"
+            },
+            {
+              "documentIdentifier" : "BJNR004690989BJNE007414360",
+              "paragraph" : "§ 47",
+              "title" : "Besondere Ernte- und Qualitätsermittlung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              6
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Ernteerhebung"
+        },
+        {
+          "documentIdentifier" : "BJNR004690989BJNG002606160",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              7
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR004690989BJNG002706160",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR004690989BJNE008505160",
+                  "paragraph" : "§ 48",
+                  "title" : "Einzelerhebungen"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  7,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Allgemeine Vorschrift"
+            },
+            {
+              "documentIdentifier" : "BJNR004690989BJNG002806160",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR004690989BJNE008605160",
+                  "paragraph" : "§ 49",
+                  "title" : "Erhebungseinheiten"
+                },
+                {
+                  "documentIdentifier" : "BJNR004690989BJNE008706160",
+                  "paragraph" : "§ 50",
+                  "title" : "Erhebungsart, Periodizität, Merkmale"
+                },
+                {
+                  "documentIdentifier" : "BJNR004690989BJNE008806160",
+                  "paragraph" : "§ 51",
+                  "title" : "Erhebungsmerkmale und Berichtszeitraum"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  7,
+                  2
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Erhebung in Brütereien"
+            },
+            {
+              "documentIdentifier" : "BJNR004690989BJNG002906160",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR004690989BJNE008905160",
+                  "paragraph" : "§ 52",
+                  "title" : "Erhebungseinheiten"
+                },
+                {
+                  "documentIdentifier" : "BJNR004690989BJNE009006160",
+                  "paragraph" : "§ 53",
+                  "title" : "Erhebungsart, Periodizität, Merkmale"
+                },
+                {
+                  "documentIdentifier" : "BJNR004690989BJNE009107360",
+                  "paragraph" : "§ 54",
+                  "title" : "Erhebungsmerkmale und Berichtszeit"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  7,
+                  3
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Erhebung in Unternehmen mit Hennenhaltung"
+            },
+            {
+              "documentIdentifier" : "BJNR004690989BJNG003006160",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR004690989BJNE009209119",
+                  "paragraph" : "§ 55",
+                  "title" : "Erhebungseinheiten"
+                },
+                {
+                  "documentIdentifier" : "BJNR004690989BJNE009306160",
+                  "paragraph" : "§ 56",
+                  "title" : "Erhebungsart, Periodizität, Merkmale"
+                },
+                {
+                  "documentIdentifier" : "BJNR004690989BJNE009407160",
+                  "paragraph" : "§ 57",
+                  "title" : "Erhebungsmerkmale und Berichtszeitraum"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  7,
+                  4
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Erhebung in Geflügelschlachtereien"
+            }
+          ],
+          "title" : "Geflügelstatistik"
+        },
+        {
+          "documentIdentifier" : "BJNR004690989BJNG003106160",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              8
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR004690989BJNG003206160",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR004690989BJNE009505160",
+                  "paragraph" : "§ 58",
+                  "title" : "Einzelerhebungen"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  8,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Allgemeine Vorschrift"
+            },
+            {
+              "documentIdentifier" : "BJNR004690989BJNG003306160",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR004690989BJNE009609377",
+                  "paragraph" : "§ 59",
+                  "title" : "Erhebungsart, Periodizität, Merkmale"
+                },
+                {
+                  "documentIdentifier" : "BJNR004690989BJNE009705160",
+                  "paragraph" : "§ 60",
+                  "title" : "Erhebungsmerkmale und Berichtszeitraum"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  8,
+                  2
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Erhebung über Schlachtungen"
+            },
+            {
+              "documentIdentifier" : "BJNR004690989BJNG003406160",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR004690989BJNE009808160",
+                  "paragraph" : "§ 61",
+                  "title" : "Erhebungsart, Periodizität, Merkmale"
+                },
+                {
+                  "documentIdentifier" : "BJNR004690989BJNE009905160",
+                  "paragraph" : "§ 62",
+                  "title" : "Erhebungsmerkmale und Berichtszeitraum"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  8,
+                  3
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Schlachtgewichtsstatistik"
+            }
+          ],
+          "title" : "Schlachtungs- und Schlachtgewichtsstatistik"
+        },
+        {
+          "documentIdentifier" : "BJNR004690989BJNG003506160",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR004690989BJNE010006160",
+              "paragraph" : "§ 63",
+              "title" : "Erhebungsart, Periodizität, Merkmale"
+            },
+            {
+              "documentIdentifier" : "BJNR004690989BJNE010106160",
+              "paragraph" : "§ 64",
+              "title" : "Erhebungsmerkmal und Berichtszeitraum"
+            },
+            {
+              "documentIdentifier" : "BJNR004690989BJNE010206160",
+              "paragraph" : "§ 65",
+              "title" : "Ergänzende Schätzung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              9
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Milchstatistik"
+        },
+        {
+          "documentIdentifier" : "BJNR004690989BJNG003607377",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              10
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR004690989BJNG005200377",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR004690989BJNE014000377",
+                  "paragraph" : "§ 65a",
+                  "title" : "Einzelerhebungen"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  10,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Allgemeine Vorschrift"
+            },
+            {
+              "documentIdentifier" : "BJNR004690989BJNG005300377",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR004690989BJNE010306160",
+                  "paragraph" : "§ 66",
+                  "title" : "Erhebungseinheiten"
+                },
+                {
+                  "documentIdentifier" : "BJNR004690989BJNE010406160",
+                  "paragraph" : "§ 67",
+                  "title" : "Erhebungsart, Periodizität, Merkmale"
+                },
+                {
+                  "documentIdentifier" : "BJNR004690989BJNE010506160",
+                  "paragraph" : "§ 68",
+                  "title" : "Erhebungsmerkmale und Berichtszeitraum"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  10,
+                  2
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Hochsee- und Küstenfischereistatistik"
+            },
+            {
+              "documentIdentifier" : "BJNR004690989BJNG005400377",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR004690989BJNE014101119",
+                  "paragraph" : "§ 68a",
+                  "title" : "Erhebungseinheiten"
+                },
+                {
+                  "documentIdentifier" : "BJNR004690989BJNE014200377",
+                  "paragraph" : "§ 68b",
+                  "title" : "Erhebungsart, Periodizität, Erhebungsmerkmale, Berichtszeitraum"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  10,
+                  3
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Aquakulturstatistik"
+            }
+          ],
+          "title" : "Fischerei- und Aquakulturstatistik"
+        },
+        {
+          "documentIdentifier" : "BJNR004690989BJNG003706160",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              11
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR004690989BJNG003806160",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR004690989BJNE010605160",
+                  "paragraph" : "§ 69",
+                  "title" : "Einzelerhebungen"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  11,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Allgemeine Vorschrift"
+            },
+            {
+              "documentIdentifier" : "BJNR004690989BJNG003906160",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR004690989BJNE010707160",
+                  "paragraph" : "§ 70",
+                  "title" : "Erhebungsart und Periodizität"
+                },
+                {
+                  "documentIdentifier" : "BJNR004690989BJNE010809360",
+                  "paragraph" : "§ 71",
+                  "title" : "Erhebungsmerkmale und Berichtszeit"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  11,
+                  2
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Rebflächenerhebung"
+            },
+            {
+              "documentIdentifier" : "BJNR004690989BJNG004006160",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR004690989BJNE010907377",
+                  "paragraph" : "§ 72",
+                  "title" : "Erhebungsart, Periodizität, Merkmale, Erhebungszeitpunkt"
+                },
+                {
+                  "documentIdentifier" : "BJNR004690989BJNE011007377",
+                  "paragraph" : "§ 73",
+                  "title" : "Erhebungsmerkmale und Berichtszeitraum"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  11,
+                  3
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Ernteerhebung"
+            },
+            {
+              "documentIdentifier" : "BJNR004690989BJNG004106160",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR004690989BJNE011108377",
+                  "paragraph" : "§ 74",
+                  "title" : "Erhebungsart, Periodizität, Merkmale, Erhebungszeitpunkt"
+                },
+                {
+                  "documentIdentifier" : "BJNR004690989BJNE011207377",
+                  "paragraph" : "§ 75",
+                  "title" : "Erhebungsmerkmale und Berichtszeitraum"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  11,
+                  4
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Erhebung der Erzeugung"
+            },
+            {
+              "documentIdentifier" : "BJNR004690989BJNG004207160",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR004690989BJNE012905160",
+                  "paragraph" : "§ 75a",
+                  "title" : "Erhebungseinheiten"
+                },
+                {
+                  "documentIdentifier" : "BJNR004690989BJNE011306160",
+                  "paragraph" : "§ 76",
+                  "title" : "Erhebungsart, Periodizität, Merkmale, Erhebungszeitpunkt"
+                },
+                {
+                  "documentIdentifier" : "BJNR004690989BJNE011407377",
+                  "paragraph" : "§ 77",
+                  "title" : "Erhebungsmerkmale und Berichtszeitpunkt"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  11,
+                  5
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Bestandserhebung"
+            }
+          ],
+          "title" : "Weinstatistik"
+        },
+        {
+          "documentIdentifier" : "BJNR004690989BJNG004306160",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              12
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR004690989BJNG004406160",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR004690989BJNE011505160",
+                  "paragraph" : "§ 78",
+                  "title" : "Einzelerhebungen"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  12,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Allgemeine Vorschrift"
+            },
+            {
+              "documentIdentifier" : "BJNR004690989BJNG004506160",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR004690989BJNE011606160",
+                  "paragraph" : "§ 79",
+                  "title" : "Erhebungseinheiten"
+                },
+                {
+                  "documentIdentifier" : "BJNR004690989BJNE011709160",
+                  "paragraph" : "§ 80",
+                  "title" : "Erhebungsart, Periodizität, Merkmale"
+                },
+                {
+                  "documentIdentifier" : "BJNR004690989BJNE011808160",
+                  "paragraph" : "§ 81",
+                  "title" : "Erhebungsmerkmale und Berichtszeitraum"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  12,
+                  2
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Erhebung in forstlichen Erzeugerbetrieben"
+            },
+            {
+              "documentIdentifier" : "BJNR004690989BJNG004606160",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR004690989BJNE011907160",
+                  "paragraph" : "§ 82",
+                  "title" : "Erhebungseinheiten"
+                },
+                {
+                  "documentIdentifier" : "BJNR004690989BJNE012008160",
+                  "paragraph" : "§ 83",
+                  "title" : "Erhebungsart, Periodizität, Merkmale"
+                },
+                {
+                  "documentIdentifier" : "BJNR004690989BJNE012108160",
+                  "paragraph" : "§ 84",
+                  "title" : "Erhebungsmerkmale und Berichtszeit"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  12,
+                  3
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Erhebung in Betrieben der Holzbearbeitung"
+            }
+          ],
+          "title" : "Holzstatistik"
+        },
+        {
+          "documentIdentifier" : "BJNR004690989BJNG004707160",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR004690989BJNE012206160",
+              "paragraph" : "(XXXX) §§ 85 bis 87",
+              "title" : "(weggefallen)"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              13
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR004690989BJNG004806160",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR004690989BJNE012506160",
+              "paragraph" : "§ 88",
+              "title" : "Erhebungseinheiten"
+            },
+            {
+              "documentIdentifier" : "BJNR004690989BJNE012606160",
+              "paragraph" : "§ 89",
+              "title" : "Erhebungsart, Periodizität, Merkmale"
+            },
+            {
+              "documentIdentifier" : "BJNR004690989BJNE012706160",
+              "paragraph" : "§ 90",
+              "title" : "Erhebungsmerkmale und Berichtszeitraum"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              14
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Düngemittelstatistik"
+        }
+      ],
+      "title" : "Agrarstatistiken"
+    },
+    {
+      "documentIdentifier" : "BJNR004690989BJNG002407160",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR004690989BJNE007515119",
+          "paragraph" : "§ 91",
+          "title" : "Erhebungseinheiten"
+        },
+        {
+          "documentIdentifier" : "BJNR004690989BJNE007614119",
+          "paragraph" : "§ 92",
+          "title" : "Hilfsmerkmale"
+        },
+        {
+          "documentIdentifier" : "BJNR004690989BJNE007719119",
+          "paragraph" : "§ 93",
+          "title" : "Auskunftspflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR004690989BJNE012813360",
+          "paragraph" : "§ 94",
+          "title" : "Durchführung von Bundesstatistiken"
+        },
+        {
+          "documentIdentifier" : "BJNR004690989BJNE013013119",
+          "paragraph" : "§ 94a",
+          "title" : "Verordnungsermächtigung"
+        },
+        {
+          "documentIdentifier" : "BJNR004690989BJNE007808160",
+          "paragraph" : "§ 95",
+          "title" : "Erhebungsstellen, Erhebungsbeauftragte"
+        },
+        {
+          "documentIdentifier" : "BJNR004690989BJNE007909377",
+          "paragraph" : "§ 96",
+          "title" : "Fortschreibeverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR004690989BJNE008019119",
+          "paragraph" : "§ 97",
+          "title" : "Betriebsregister"
+        },
+        {
+          "documentIdentifier" : "BJNR004690989BJNE008114119",
+          "paragraph" : "§ 98",
+          "title" : "Übermittlung, Verwendung und Veröffentlichung von Einzelangaben"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gemeinsame Vorschriften"
+    }
+  ]
+}

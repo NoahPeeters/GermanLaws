@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR003060957",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR003060957Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR003060957BJNE000200306",
+          "paragraph" : "Art 4",
+          "title" : "Vormilitärische Straftaten"
+        },
+        {
+          "documentIdentifier" : "BJNR003060957BJNE000300306",
+          "paragraph" : "Art 5",
+          "title" : "Vollzug von Freiheitsstrafen und Jugendarrest an Soldaten\nder Bundeswehr"
+        },
+        {
+          "documentIdentifier" : "BJNR003060957BJNE000401306",
+          "paragraph" : "Art 6",
+          "title" : "Unterbrechung der Strafvollstreckung im Krankheitsfall"
+        },
+        {
+          "documentIdentifier" : "BJNR003060957BJNE000500306",
+          "paragraph" : "Art 7",
+          "title" : "Ausführungsvorschriften für den Vollzug"
+        },
+        {
+          "documentIdentifier" : "BJNR003060957BJNE000600306",
+          "paragraph" : "Art 8",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

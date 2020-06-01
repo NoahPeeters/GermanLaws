@@ -1,0 +1,239 @@
+{
+  "documentIdentifier" : "BJNR078000016",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR078000016BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR078000016BJNE000300000",
+          "paragraph" : "§ 1",
+          "title" : "Versicherungsmathematische Methoden in der Krankenversicherung"
+        },
+        {
+          "documentIdentifier" : "BJNR078000016BJNE000400000",
+          "paragraph" : "§ 2",
+          "title" : "Rechnungsgrundlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR078000016BJNE000500000",
+          "paragraph" : "§ 3",
+          "title" : "Gleiche Rechnungsgrundlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR078000016BJNE000600000",
+          "paragraph" : "§ 4",
+          "title" : "Rechnungszins"
+        },
+        {
+          "documentIdentifier" : "BJNR078000016BJNE000700000",
+          "paragraph" : "§ 5",
+          "title" : "Ausscheideordnung"
+        },
+        {
+          "documentIdentifier" : "BJNR078000016BJNE000801118",
+          "paragraph" : "§ 6",
+          "title" : "Kopfschäden"
+        },
+        {
+          "documentIdentifier" : "BJNR078000016BJNE000900000",
+          "paragraph" : "§ 7",
+          "title" : "Sicherheitszuschlag"
+        },
+        {
+          "documentIdentifier" : "BJNR078000016BJNE001000000",
+          "paragraph" : "§ 8",
+          "title" : "Grundsätze für die Bemessung der sonstigen Zuschläge"
+        },
+        {
+          "documentIdentifier" : "BJNR078000016BJNE001100000",
+          "paragraph" : "§ 9",
+          "title" : "Dokumentationspflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR078000016BJNE001200000",
+          "paragraph" : "§ 10",
+          "title" : "Prämienberechnung"
+        },
+        {
+          "documentIdentifier" : "BJNR078000016BJNE001300000",
+          "paragraph" : "§ 11",
+          "title" : "Berechnung der Prämien bei Prämienanpassung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Methoden zur Berechnung der Prämien und Rückstellungen"
+    },
+    {
+      "documentIdentifier" : "BJNR078000016BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR078000016BJNE001400000",
+          "paragraph" : "§ 12",
+          "title" : "Tarife mit gleichartigem Versicherungsschutz"
+        },
+        {
+          "documentIdentifier" : "BJNR078000016BJNE001500000",
+          "paragraph" : "§ 13",
+          "title" : "Anrechnung der erworbenen Rechte und der Alterungsrückstellung bei einem Tarifwechsel"
+        },
+        {
+          "documentIdentifier" : "BJNR078000016BJNE001600000",
+          "paragraph" : "§ 14",
+          "title" : "Übertragungswert"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Tarifwechsel"
+    },
+    {
+      "documentIdentifier" : "BJNR078000016BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR078000016BJNE001700000",
+          "paragraph" : "§ 15",
+          "title" : "Verfahren zur Gegenüberstellung der erforderlichen und der kalkulierten Versicherungsleistungen"
+        },
+        {
+          "documentIdentifier" : "BJNR078000016BJNE001800000",
+          "paragraph" : "§ 16",
+          "title" : "Verfahren zur Gegenüberstellung der kalkulierten Sterbewahrscheinlichkeiten und der zuletzt veröffentlichten Sterbewahrscheinlichkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR078000016BJNE001900000",
+          "paragraph" : "§ 17",
+          "title" : "Vorlagefristen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Prämienanpassung"
+    },
+    {
+      "documentIdentifier" : "BJNR078000016BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR078000016BJNE002000000",
+          "paragraph" : "§ 18",
+          "title" : "Alterungsrückstellung"
+        },
+        {
+          "documentIdentifier" : "BJNR078000016BJNE002100000",
+          "paragraph" : "§ 19",
+          "title" : "Ermittlung des Überzinses"
+        },
+        {
+          "documentIdentifier" : "BJNR078000016BJNE002200000",
+          "paragraph" : "§ 20",
+          "title" : "Verteilung der Direktgutschrift"
+        },
+        {
+          "documentIdentifier" : "BJNR078000016BJNE002300000",
+          "paragraph" : "§ 21",
+          "title" : "Verteilung des Betrages nach § 150 Absatz 4 des Versicherungsaufsichtsgesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR078000016BJNE002402118",
+          "paragraph" : "§ 22",
+          "title" : "Mindestzuführung zur Rückstellung für erfolgsabhängige Beitragsrückerstattung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Alterungsrückstellung"
+    },
+    {
+      "documentIdentifier" : "BJNR078000016BJNG000500000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR078000016BJNE002500000",
+          "paragraph" : "§ 23",
+          "title" : "Mitteilungspflichten von Daten zu den Versicherungsbeständen"
+        },
+        {
+          "documentIdentifier" : "BJNR078000016BJNE002600000",
+          "paragraph" : "§ 24",
+          "title" : "Ordnungswidrigkeiten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Mitteilungspflichten und Ordnungswidrigkeiten"
+    },
+    {
+      "documentIdentifier" : "BJNR078000016BJNG000600000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR078000016BJNE002701118",
+          "paragraph" : "§ 25",
+          "title" : "Leistungen wegen Schwangerschaft und Mutterschaft"
+        },
+        {
+          "documentIdentifier" : "BJNR078000016BJNE002800000",
+          "paragraph" : "§ 26",
+          "title" : "Ausnahmevorschrift"
+        },
+        {
+          "documentIdentifier" : "BJNR078000016BJNE002901118",
+          "paragraph" : "§ 27",
+          "title" : "Übergangsvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR078000016BJNE003000000",
+          "paragraph" : "§ 28",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR078000016BJNE003100000",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 10 Absatz 5, § 11 Absatz 2 und § 13 Absatz 5)"
+        },
+        {
+          "documentIdentifier" : "BJNR078000016BJNE003200000",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 15 Absatz 2 und 3)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussvorschriften"
+    }
+  ]
+}

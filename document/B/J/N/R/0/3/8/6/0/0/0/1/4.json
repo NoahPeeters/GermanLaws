@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR038600014",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR038600014Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR038600014BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR038600014BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Absichtsanzeige für Market-Making-Tätigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR038600014BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Absichtsanzeige für Primärmarkttätigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR038600014BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Formular"
+        },
+        {
+          "documentIdentifier" : "BJNR038600014BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Benachrichtigung über Änderungen"
+        },
+        {
+          "documentIdentifier" : "BJNR038600014BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Bestandsliste"
+        },
+        {
+          "documentIdentifier" : "BJNR038600014BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

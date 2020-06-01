@@ -1,0 +1,162 @@
+{
+  "documentIdentifier" : "BJNR190010010",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR190010010BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR190010010BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Grundsätze von Sanierungs- und Reorganisationsverfahren"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Bestimmungen"
+    },
+    {
+      "documentIdentifier" : "BJNR190010010BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR190010010BJNE000302118",
+          "paragraph" : "§ 2",
+          "title" : "Einleitung und Beantragung des Sanierungsverfahrens; Inhalt des Sanierungsplans"
+        },
+        {
+          "documentIdentifier" : "BJNR190010010BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Anordnung des Sanierungsverfahrens; Bestellung des Sanierungsberaters"
+        },
+        {
+          "documentIdentifier" : "BJNR190010010BJNE000501118",
+          "paragraph" : "§ 4",
+          "title" : "Rechtsstellung des Sanierungsberaters; Verordnungsermächtigung"
+        },
+        {
+          "documentIdentifier" : "BJNR190010010BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Gerichtliche Maßnahmen"
+        },
+        {
+          "documentIdentifier" : "BJNR190010010BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Umsetzung des Sanierungsplans; Aufhebung des Sanierungsverfahrens"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Sanierungsverfahren"
+    },
+    {
+      "documentIdentifier" : "BJNR190010010BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR190010010BJNE000801118",
+          "paragraph" : "§ 7",
+          "title" : "Einleitung, Beantragung und Anordnung des Reorganisationsverfahrens"
+        },
+        {
+          "documentIdentifier" : "BJNR190010010BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Inhalt des Reorganisationsplans"
+        },
+        {
+          "documentIdentifier" : "BJNR190010010BJNE001000000",
+          "paragraph" : "§ 9",
+          "title" : "Umwandlung von Forderungen in Eigenkapital"
+        },
+        {
+          "documentIdentifier" : "BJNR190010010BJNE001100000",
+          "paragraph" : "§ 10",
+          "title" : "Sonstige gesellschaftsrechtliche Regelungen"
+        },
+        {
+          "documentIdentifier" : "BJNR190010010BJNE001201118",
+          "paragraph" : "§ 11",
+          "title" : "Ausgliederung"
+        },
+        {
+          "documentIdentifier" : "BJNR190010010BJNE001300000",
+          "paragraph" : "§ 12",
+          "title" : "Eingriffe in Gläubigerrechte"
+        },
+        {
+          "documentIdentifier" : "BJNR190010010BJNE001400000",
+          "paragraph" : "§ 13",
+          "title" : "Beendigung von Schuldverhältnissen"
+        },
+        {
+          "documentIdentifier" : "BJNR190010010BJNE001500000",
+          "paragraph" : "§ 14",
+          "title" : "Anmeldung von Forderungen"
+        },
+        {
+          "documentIdentifier" : "BJNR190010010BJNE001600000",
+          "paragraph" : "§ 15",
+          "title" : "Prüfung und Feststellung der Forderungen"
+        },
+        {
+          "documentIdentifier" : "BJNR190010010BJNE001700000",
+          "paragraph" : "§ 16",
+          "title" : "Vorbereitung der Abstimmung über den Reorganisationsplan"
+        },
+        {
+          "documentIdentifier" : "BJNR190010010BJNE001801360",
+          "paragraph" : "§ 17",
+          "title" : "Abstimmung der Gläubiger"
+        },
+        {
+          "documentIdentifier" : "BJNR190010010BJNE001901118",
+          "paragraph" : "§ 18",
+          "title" : "Abstimmung der Anteilsinhaber"
+        },
+        {
+          "documentIdentifier" : "BJNR190010010BJNE002000000",
+          "paragraph" : "§ 19",
+          "title" : "Annahme des Reorganisationsplans"
+        },
+        {
+          "documentIdentifier" : "BJNR190010010BJNE002100000",
+          "paragraph" : "§ 20",
+          "title" : "Gerichtliche Bestätigung des Reorganisationsplans"
+        },
+        {
+          "documentIdentifier" : "BJNR190010010BJNE002200000",
+          "paragraph" : "§ 21",
+          "title" : "Allgemeine Wirkungen des Reorganisationsplans; Eintragung ins Handelsregister"
+        },
+        {
+          "documentIdentifier" : "BJNR190010010BJNE002302118",
+          "paragraph" : "§ 22",
+          "title" : "Aufhebung des Reorganisationsverfahrens; Überwachung der Planerfüllung"
+        },
+        {
+          "documentIdentifier" : "BJNR190010010BJNE002400000",
+          "paragraph" : "§ 23",
+          "title" : "Schutz von Finanzsicherheiten sowie von Zahlungs- und Wertpapiersystemen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Reorganisationsverfahren"
+    }
+  ]
+}

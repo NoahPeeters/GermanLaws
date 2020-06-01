@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR008090974",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR008090974Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR008090974BJNE000202305",
+          "paragraph" : "§ 1",
+          "title" : "Gebührenpflichtige Tatbestände"
+        },
+        {
+          "documentIdentifier" : "BJNR008090974BJNE000403377",
+          "paragraph" : "§ 3",
+          "title" : "Gebührenbemessung in sonstigen\nStaatsangehörigkeitsangelegenheiten"
+        },
+        {
+          "documentIdentifier" : "BJNR008090974BJNE001203377",
+          "paragraph" : "§ 3a",
+          "title" : "Gebühren für Widerruf, Rücknahme, Ablehnung und Widerspruch"
+        },
+        {
+          "documentIdentifier" : "BJNR008090974BJNE000503377",
+          "paragraph" : "§ 4",
+          "title" : "Abrundung, Auslagen"
+        },
+        {
+          "documentIdentifier" : "BJNR008090974BJNE000601305",
+          "paragraph" : "§ 5",
+          "title" : "Ermäßigung und Befreiung"
+        },
+        {
+          "documentIdentifier" : "BJNR008090974BJNE000801305",
+          "paragraph" : "§ 7",
+          "title" : "Übergangsregelung"
+        },
+        {
+          "documentIdentifier" : "BJNR008090974BJNE000901305",
+          "paragraph" : "§ 8",
+          "title" : "Berlin-Klausel"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

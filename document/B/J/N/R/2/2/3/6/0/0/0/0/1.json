@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR223600001",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR223600001Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR223600001BJNE000102116",
+          "paragraph" : "§ 1",
+          "title" : "Anforderungen"
+        },
+        {
+          "documentIdentifier" : "BJNR223600001BJNE000202116",
+          "paragraph" : "§ 2",
+          "title" : "Anforderungsnachweis"
+        },
+        {
+          "documentIdentifier" : "BJNR223600001BJNE000303116",
+          "paragraph" : "§ 3",
+          "title" : "Lehrgang"
+        },
+        {
+          "documentIdentifier" : "BJNR223600001BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Fortbildung"
+        },
+        {
+          "documentIdentifier" : "BJNR223600001BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Vorschriften der Länder"
+        },
+        {
+          "documentIdentifier" : "BJNR223600001BJNE000601310",
+          "paragraph" : "§ 6",
+          "title" : "Ausnahmen und Übergangsvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR223600001BJNE000700000",
+          "paragraph" : "§ 7",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

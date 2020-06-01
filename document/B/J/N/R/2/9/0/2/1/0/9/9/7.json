@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR290210997",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR290210997Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR290210997BJNE000103116",
+          "paragraph" : "§ 1",
+          "title" : "Errichtung und Sitz des Bundesamtes für Bauwesen und Raumordnung"
+        },
+        {
+          "documentIdentifier" : "BJNR290210997BJNE000204116",
+          "paragraph" : "§ 2",
+          "title" : "Aufgaben"
+        },
+        {
+          "documentIdentifier" : "BJNR290210997BJNE000304116",
+          "paragraph" : "§ 3",
+          "title" : "Fachaufsicht"
+        },
+        {
+          "documentIdentifier" : "BJNR290210997BJNE000401310",
+          "paragraph" : "§ 4",
+          "title" : "Überleitungsvorschriften"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

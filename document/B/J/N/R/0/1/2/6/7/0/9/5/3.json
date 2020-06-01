@@ -1,0 +1,1000 @@
+{
+  "documentIdentifier" : "BJNR012670953",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR012670953BJNG000100303",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR012670953BJNE002000303",
+          "paragraph" : "§ 1",
+          "title" : "Gerichte für Arbeitssachen"
+        },
+        {
+          "documentIdentifier" : "BJNR012670953BJNE002108311",
+          "paragraph" : "§ 2",
+          "title" : "Zuständigkeit im Urteilsverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR012670953BJNE002217311",
+          "paragraph" : "§ 2a",
+          "title" : "Zuständigkeit im Beschlußverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR012670953BJNE002300303",
+          "paragraph" : "§ 3",
+          "title" : "Zuständigkeit in sonstigen Fällen"
+        },
+        {
+          "documentIdentifier" : "BJNR012670953BJNE002400303",
+          "paragraph" : "§ 4",
+          "title" : "Ausschluß der Arbeitsgerichtsbarkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR012670953BJNE002506311",
+          "paragraph" : "§ 5",
+          "title" : "Begriff des Arbeitnehmers"
+        },
+        {
+          "documentIdentifier" : "BJNR012670953BJNE002600303",
+          "paragraph" : "§ 6",
+          "title" : "Besetzung der Gerichte für Arbeitssachen"
+        },
+        {
+          "documentIdentifier" : "BJNR012670953BJNE002700303",
+          "paragraph" : "§ 6a",
+          "title" : "Allgemeine Vorschriften über das Präsidium und die\nGeschäftsverteilung"
+        },
+        {
+          "documentIdentifier" : "BJNR012670953BJNE002806311",
+          "paragraph" : "§ 7",
+          "title" : "Geschäftsstelle, Aufbringung der Mittel"
+        },
+        {
+          "documentIdentifier" : "BJNR012670953BJNE002901305",
+          "paragraph" : "§ 8",
+          "title" : "Gang des Verfahrens"
+        },
+        {
+          "documentIdentifier" : "BJNR012670953BJNE003003308",
+          "paragraph" : "§ 9",
+          "title" : "Allgemeine Verfahrensvorschriften und Rechtsschutz bei überlangen Gerichtsverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR012670953BJNE003113311",
+          "paragraph" : "§ 10",
+          "title" : "Parteifähigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR012670953BJNE003205301",
+          "paragraph" : "§ 11",
+          "title" : "Prozessvertretung"
+        },
+        {
+          "documentIdentifier" : "BJNR012670953BJNE003306311",
+          "paragraph" : "§ 11a",
+          "title" : "Beiordnung eines Rechtsanwalts, Prozeßkostenhilfe"
+        },
+        {
+          "documentIdentifier" : "BJNR012670953BJNE003411311",
+          "paragraph" : "§ 12",
+          "title" : "Kosten"
+        },
+        {
+          "documentIdentifier" : "BJNR012670953BJNE003503311",
+          "paragraph" : "§ 12a",
+          "title" : "Kostentragungspflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR012670953BJNE003601307",
+          "paragraph" : "§ 13",
+          "title" : "Rechtshilfe"
+        },
+        {
+          "documentIdentifier" : "BJNR012670953BJNE016401160",
+          "paragraph" : "§ 13a",
+          "title" : "Internationale Verfahren"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR012670953BJNG000200303",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR012670953BJNG000300303",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR012670953BJNE003702305",
+              "paragraph" : "§ 14",
+              "title" : "Errichtung und Organisation"
+            },
+            {
+              "documentIdentifier" : "BJNR012670953BJNE003802305",
+              "paragraph" : "§ 15",
+              "title" : "Verwaltung und Dienstaufsicht"
+            },
+            {
+              "documentIdentifier" : "BJNR012670953BJNE003900303",
+              "paragraph" : "§ 16",
+              "title" : "Zusammensetzung"
+            },
+            {
+              "documentIdentifier" : "BJNR012670953BJNE004003125",
+              "paragraph" : "§ 17",
+              "title" : "Bildung von Kammern"
+            },
+            {
+              "documentIdentifier" : "BJNR012670953BJNE004102305",
+              "paragraph" : "§ 18",
+              "title" : "Ernennung der Vorsitzenden"
+            },
+            {
+              "documentIdentifier" : "BJNR012670953BJNE004200303",
+              "paragraph" : "§ 19",
+              "title" : "Ständige Vertretung"
+            },
+            {
+              "documentIdentifier" : "BJNR012670953BJNE004302305",
+              "paragraph" : "§ 20",
+              "title" : "Berufung der ehrenamtlichen Richter"
+            },
+            {
+              "documentIdentifier" : "BJNR012670953BJNE004404160",
+              "paragraph" : "§ 21",
+              "title" : "Voraussetzungen für die Berufung als ehrenamtlicher Richter"
+            },
+            {
+              "documentIdentifier" : "BJNR012670953BJNE004500303",
+              "paragraph" : "§ 22",
+              "title" : "Ehrenamtlicher Richter aus Kreisen der Arbeitgeber"
+            },
+            {
+              "documentIdentifier" : "BJNR012670953BJNE004601307",
+              "paragraph" : "§ 23",
+              "title" : "Ehrenamtlicher Richter aus Kreisen der Arbeitnehmer"
+            },
+            {
+              "documentIdentifier" : "BJNR012670953BJNE004704301",
+              "paragraph" : "§ 24",
+              "title" : "Ablehnung und Niederlegung des ehrenamtlichen Richteramts"
+            },
+            {
+              "documentIdentifier" : "BJNR012670953BJNE004800303",
+              "paragraph" : "§ 25",
+              "title" : "(weggefallen)"
+            },
+            {
+              "documentIdentifier" : "BJNR012670953BJNE004900303",
+              "paragraph" : "§ 26",
+              "title" : "Schutz der ehrenamtlichen Richter"
+            },
+            {
+              "documentIdentifier" : "BJNR012670953BJNE005002305",
+              "paragraph" : "§ 27",
+              "title" : "Amtsenthebung der ehrenamtlichen Richter"
+            },
+            {
+              "documentIdentifier" : "BJNR012670953BJNE005100303",
+              "paragraph" : "§ 28",
+              "title" : "Ordnungsgeld gegen ehrenamtliche Richter"
+            },
+            {
+              "documentIdentifier" : "BJNR012670953BJNE005200303",
+              "paragraph" : "§ 29",
+              "title" : "Ausschuß der ehrenamtlichen Richter"
+            },
+            {
+              "documentIdentifier" : "BJNR012670953BJNE005300303",
+              "paragraph" : "§ 30",
+              "title" : "Besetzung der Fachkammern"
+            },
+            {
+              "documentIdentifier" : "BJNR012670953BJNE005400303",
+              "paragraph" : "§ 31",
+              "title" : "Heranziehung der ehrenamtlichen Richter"
+            },
+            {
+              "documentIdentifier" : "BJNR012670953BJNE005500303",
+              "paragraph" : "§ 32",
+              "title" : "(weggefallen)"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Arbeitsgerichte"
+        },
+        {
+          "documentIdentifier" : "BJNR012670953BJNG000400303",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR012670953BJNE005600303",
+              "paragraph" : "§ 33",
+              "title" : "Errichtung und Organisation"
+            },
+            {
+              "documentIdentifier" : "BJNR012670953BJNE005703310",
+              "paragraph" : "§ 34",
+              "title" : "Verwaltung und Dienstaufsicht"
+            },
+            {
+              "documentIdentifier" : "BJNR012670953BJNE005801307",
+              "paragraph" : "§ 35",
+              "title" : "Zusammensetzung, Bildung von Kammern"
+            },
+            {
+              "documentIdentifier" : "BJNR012670953BJNE005902305",
+              "paragraph" : "§ 36",
+              "title" : "Vorsitzende"
+            },
+            {
+              "documentIdentifier" : "BJNR012670953BJNE006001305",
+              "paragraph" : "§ 37",
+              "title" : "Ehrenamtliche Richter"
+            },
+            {
+              "documentIdentifier" : "BJNR012670953BJNE006100303",
+              "paragraph" : "§ 38",
+              "title" : "Ausschuß der ehrenamtlichen Richter"
+            },
+            {
+              "documentIdentifier" : "BJNR012670953BJNE006200303",
+              "paragraph" : "§ 39",
+              "title" : "Heranziehung der ehrenamtlichen Richter"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Landesarbeitsgerichte"
+        },
+        {
+          "documentIdentifier" : "BJNR012670953BJNG000500303",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR012670953BJNE006308311",
+              "paragraph" : "§ 40",
+              "title" : "Errichtung"
+            },
+            {
+              "documentIdentifier" : "BJNR012670953BJNE006404311",
+              "paragraph" : "§ 41",
+              "title" : "Zusammensetzung, Senate"
+            },
+            {
+              "documentIdentifier" : "BJNR012670953BJNE006504311",
+              "paragraph" : "§ 42",
+              "title" : "Bundesrichter"
+            },
+            {
+              "documentIdentifier" : "BJNR012670953BJNE006604308",
+              "paragraph" : "§ 43",
+              "title" : "Ehrenamtliche Richter"
+            },
+            {
+              "documentIdentifier" : "BJNR012670953BJNE006701160",
+              "paragraph" : "§ 44",
+              "title" : "Anhörung der ehrenamtlichen Richter, Geschäftsordnung"
+            },
+            {
+              "documentIdentifier" : "BJNR012670953BJNE006801309",
+              "paragraph" : "§ 45",
+              "title" : "Großer Senat"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Bundesarbeitsgericht"
+        }
+      ],
+      "title" : "Aufbau der Gerichte für Arbeitssachen"
+    },
+    {
+      "documentIdentifier" : "BJNR012670953BJNG000600303",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR012670953BJNG000700303",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              1
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR012670953BJNG000800303",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR012670953BJNE006904311",
+                  "paragraph" : "§ 46",
+                  "title" : "Grundsatz"
+                },
+                {
+                  "documentIdentifier" : "BJNR012670953BJNE007009311",
+                  "paragraph" : "§ 46a",
+                  "title" : "Mahnverfahren"
+                },
+                {
+                  "documentIdentifier" : "BJNR012670953BJNE015802160",
+                  "paragraph" : "§ 46b",
+                  "title" : "Europäisches Mahnverfahren nach der Verordnung (EG) Nr. 1896\/2006"
+                },
+                {
+                  "documentIdentifier" : "BJNR012670953BJNE016703125",
+                  "paragraph" : "§ 46c",
+                  "title" : "Elektronisches Dokument"
+                },
+                {
+                  "documentIdentifier" : "BJNR012670953BJNE016203311",
+                  "paragraph" : "§ 46d",
+                  "title" : "Gerichtliches elektronisches Dokument"
+                },
+                {
+                  "documentIdentifier" : "BJNR012670953BJNE016305311",
+                  "paragraph" : "§ 46e",
+                  "title" : "Elektronische Akte; Verordnungsermächtigung"
+                },
+                {
+                  "documentIdentifier" : "BJNR012670953BJNE016901125",
+                  "paragraph" : "§ 46f",
+                  "title" : "Formulare; Verordnungsermächtigung"
+                },
+                {
+                  "documentIdentifier" : "BJNR012670953BJNE007100303",
+                  "paragraph" : "§ 47",
+                  "title" : "Sondervorschriften über Ladung und Einlassung *)"
+                },
+                {
+                  "documentIdentifier" : "BJNR012670953BJNE007204160",
+                  "paragraph" : "§ 48",
+                  "title" : "Rechtsweg und Zuständigkeit"
+                },
+                {
+                  "documentIdentifier" : "BJNR012670953BJNE007400303",
+                  "paragraph" : "§ 49",
+                  "title" : "Ablehnung von Gerichtspersonen"
+                },
+                {
+                  "documentIdentifier" : "BJNR012670953BJNE007503310",
+                  "paragraph" : "§ 50",
+                  "title" : "Zustellung"
+                },
+                {
+                  "documentIdentifier" : "BJNR012670953BJNE007600303",
+                  "paragraph" : "§ 51",
+                  "title" : "Persönliches Erscheinen der Parteien"
+                },
+                {
+                  "documentIdentifier" : "BJNR012670953BJNE007702311",
+                  "paragraph" : "§ 52",
+                  "title" : "Öffentlichkeit"
+                },
+                {
+                  "documentIdentifier" : "BJNR012670953BJNE007800303",
+                  "paragraph" : "§ 53",
+                  "title" : "Befugnisse des Vorsitzenden und der ehrenamtlichen Richter"
+                },
+                {
+                  "documentIdentifier" : "BJNR012670953BJNE007904311",
+                  "paragraph" : "§ 54",
+                  "title" : "Güteverfahren"
+                },
+                {
+                  "documentIdentifier" : "BJNR012670953BJNE016800308",
+                  "paragraph" : "§ 54a",
+                  "title" : "Mediation, außergerichtliche Konfliktbeilegung"
+                },
+                {
+                  "documentIdentifier" : "BJNR012670953BJNE016502311",
+                  "paragraph" : "§ 55",
+                  "title" : "Alleinentscheidung durch den Vorsitzenden"
+                },
+                {
+                  "documentIdentifier" : "BJNR012670953BJNE008101309",
+                  "paragraph" : "§ 56",
+                  "title" : "Vorbereitung der streitigen Verhandlung"
+                },
+                {
+                  "documentIdentifier" : "BJNR012670953BJNE008200303",
+                  "paragraph" : "§ 57",
+                  "title" : "Verhandlung vor der Kammer"
+                },
+                {
+                  "documentIdentifier" : "BJNR012670953BJNE008302311",
+                  "paragraph" : "§ 58",
+                  "title" : "Beweisaufnahme"
+                },
+                {
+                  "documentIdentifier" : "BJNR012670953BJNE008401311",
+                  "paragraph" : "§ 59",
+                  "title" : "Versäumnisverfahren"
+                },
+                {
+                  "documentIdentifier" : "BJNR012670953BJNE008501310",
+                  "paragraph" : "§ 60",
+                  "title" : "Verkündung des Urteils"
+                },
+                {
+                  "documentIdentifier" : "BJNR012670953BJNE008600303",
+                  "paragraph" : "§ 61",
+                  "title" : "Inhalt des Urteils"
+                },
+                {
+                  "documentIdentifier" : "BJNR012670953BJNE008700303",
+                  "paragraph" : "§ 61a",
+                  "title" : "Besondere Prozeßförderung in Kündigungsverfahren"
+                },
+                {
+                  "documentIdentifier" : "BJNR012670953BJNE015702301",
+                  "paragraph" : "§ 61b",
+                  "title" : "Klage wegen Benachteiligung"
+                },
+                {
+                  "documentIdentifier" : "BJNR012670953BJNE008803311",
+                  "paragraph" : "§ 62",
+                  "title" : "Zwangsvollstreckung"
+                },
+                {
+                  "documentIdentifier" : "BJNR012670953BJNE008905308",
+                  "paragraph" : "§ 63",
+                  "title" : "Übermittlung von Urteilen in Tarifvertragssachen"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  3,
+                  1,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Erster Rechtszug"
+            },
+            {
+              "documentIdentifier" : "BJNR012670953BJNG000900303",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR012670953BJNE009005308",
+                  "paragraph" : "§ 64",
+                  "title" : "Grundsatz"
+                },
+                {
+                  "documentIdentifier" : "BJNR012670953BJNE009102310",
+                  "paragraph" : "§ 65",
+                  "title" : "Beschränkung der Berufung"
+                },
+                {
+                  "documentIdentifier" : "BJNR012670953BJNE009202160",
+                  "paragraph" : "§ 66",
+                  "title" : "Einlegung der Berufung, Terminbestimmung"
+                },
+                {
+                  "documentIdentifier" : "BJNR012670953BJNE009301310",
+                  "paragraph" : "§ 67",
+                  "title" : "Zulassung neuer Angriffs- und Verteidigungsmittel"
+                },
+                {
+                  "documentIdentifier" : "BJNR012670953BJNE009500303",
+                  "paragraph" : "§ 68",
+                  "title" : "Zurückverweisung"
+                },
+                {
+                  "documentIdentifier" : "BJNR012670953BJNE009602310",
+                  "paragraph" : "§ 69",
+                  "title" : "Urteil"
+                },
+                {
+                  "documentIdentifier" : "BJNR012670953BJNE009800303",
+                  "paragraph" : "§ 71",
+                  "title" : "(weggefallen)"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  3,
+                  1,
+                  2
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Berufungsverfahren"
+            },
+            {
+              "documentIdentifier" : "BJNR012670953BJNG001000303",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR012670953BJNE009905311",
+                  "paragraph" : "§ 72",
+                  "title" : "Grundsatz"
+                },
+                {
+                  "documentIdentifier" : "BJNR012670953BJNE010001301",
+                  "paragraph" : "§ 72a",
+                  "title" : "Nichtzulassungsbeschwerde"
+                },
+                {
+                  "documentIdentifier" : "BJNR012670953BJNE015900301",
+                  "paragraph" : "§ 72b",
+                  "title" : "Sofortige Beschwerde wegen verspäteter Absetzung des Berufungsurteils"
+                },
+                {
+                  "documentIdentifier" : "BJNR012670953BJNE010102301",
+                  "paragraph" : "§ 73",
+                  "title" : "Revisionsgründe"
+                },
+                {
+                  "documentIdentifier" : "BJNR012670953BJNE010201310",
+                  "paragraph" : "§ 74",
+                  "title" : "Einlegung der Revision, Terminbestimmung"
+                },
+                {
+                  "documentIdentifier" : "BJNR012670953BJNE010300303",
+                  "paragraph" : "§ 75",
+                  "title" : "Urteil"
+                },
+                {
+                  "documentIdentifier" : "BJNR012670953BJNE010401310",
+                  "paragraph" : "§ 76",
+                  "title" : "Sprungrevision"
+                },
+                {
+                  "documentIdentifier" : "BJNR012670953BJNE010502311",
+                  "paragraph" : "§ 77",
+                  "title" : "Revisionsbeschwerde"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  3,
+                  1,
+                  3
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Revisionsverfahren"
+            },
+            {
+              "documentIdentifier" : "BJNR012670953BJNG001101301",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR012670953BJNE010603301",
+                  "paragraph" : "§ 78",
+                  "title" : "Beschwerdeverfahren"
+                },
+                {
+                  "documentIdentifier" : "BJNR012670953BJNE016000301",
+                  "paragraph" : "§ 78a",
+                  "title" : "Abhilfe bei Verletzung des Anspruchs auf rechtliches Gehör"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  3,
+                  1,
+                  4
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Beschwerdeverfahren, Abhilfe bei Verletzung des Anspruchs auf rechtliches Gehör"
+            },
+            {
+              "documentIdentifier" : "BJNR012670953BJNG001200303",
+              "laws" : [
+
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  3,
+                  1,
+                  5
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Wiederaufnahme des Verfahrens"
+            }
+          ],
+          "title" : "Urteilsverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR012670953BJNG001300303",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              2
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR012670953BJNG001400303",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR012670953BJNE010803308",
+                  "paragraph" : "§ 80",
+                  "title" : "Grundsatz"
+                },
+                {
+                  "documentIdentifier" : "BJNR012670953BJNE010901311",
+                  "paragraph" : "§ 81",
+                  "title" : "Antrag"
+                },
+                {
+                  "documentIdentifier" : "BJNR012670953BJNE011008308",
+                  "paragraph" : "§ 82",
+                  "title" : "Örtliche Zuständigkeit"
+                },
+                {
+                  "documentIdentifier" : "BJNR012670953BJNE011113311",
+                  "paragraph" : "§ 83",
+                  "title" : "Verfahren"
+                },
+                {
+                  "documentIdentifier" : "BJNR012670953BJNE011202311",
+                  "paragraph" : "§ 83a",
+                  "title" : "Vergleich, Erledigung des Verfahrens"
+                },
+                {
+                  "documentIdentifier" : "BJNR012670953BJNE011300303",
+                  "paragraph" : "§ 84",
+                  "title" : "Beschluß"
+                },
+                {
+                  "documentIdentifier" : "BJNR012670953BJNE011402311",
+                  "paragraph" : "§ 85",
+                  "title" : "Zwangsvollstreckung"
+                },
+                {
+                  "documentIdentifier" : "BJNR012670953BJNE011500303",
+                  "paragraph" : "§ 86",
+                  "title" : "(weggefallen)"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  3,
+                  2,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Erster Rechtszug"
+            },
+            {
+              "documentIdentifier" : "BJNR012670953BJNG001500303",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR012670953BJNE011605308",
+                  "paragraph" : "§ 87",
+                  "title" : "Grundsatz"
+                },
+                {
+                  "documentIdentifier" : "BJNR012670953BJNE011701309",
+                  "paragraph" : "§ 88",
+                  "title" : "Beschränkung der Beschwerde"
+                },
+                {
+                  "documentIdentifier" : "BJNR012670953BJNE016600160",
+                  "paragraph" : "§ 89",
+                  "title" : "Einlegung"
+                },
+                {
+                  "documentIdentifier" : "BJNR012670953BJNE011901311",
+                  "paragraph" : "§ 90",
+                  "title" : "Verfahren"
+                },
+                {
+                  "documentIdentifier" : "BJNR012670953BJNE012000303",
+                  "paragraph" : "§ 91",
+                  "title" : "Entscheidung"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  3,
+                  2,
+                  2
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Zweiter Rechtszug"
+            },
+            {
+              "documentIdentifier" : "BJNR012670953BJNG001600303",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR012670953BJNE012102301",
+                  "paragraph" : "§ 92",
+                  "title" : "Rechtsbeschwerdeverfahren, Grundsatz"
+                },
+                {
+                  "documentIdentifier" : "BJNR012670953BJNE012201301",
+                  "paragraph" : "§ 92a",
+                  "title" : "Nichtzulassungsbeschwerde"
+                },
+                {
+                  "documentIdentifier" : "BJNR012670953BJNE016100301",
+                  "paragraph" : "§ 92b",
+                  "title" : "Sofortige Beschwerde wegen verspäteter Absetzung der\nBeschwerdeentscheidung"
+                },
+                {
+                  "documentIdentifier" : "BJNR012670953BJNE012302301",
+                  "paragraph" : "§ 93",
+                  "title" : "Rechtsbeschwerdegründe"
+                },
+                {
+                  "documentIdentifier" : "BJNR012670953BJNE012401301",
+                  "paragraph" : "§ 94",
+                  "title" : "Einlegung"
+                },
+                {
+                  "documentIdentifier" : "BJNR012670953BJNE012501311",
+                  "paragraph" : "§ 95",
+                  "title" : "Verfahren"
+                },
+                {
+                  "documentIdentifier" : "BJNR012670953BJNE012601310",
+                  "paragraph" : "§ 96",
+                  "title" : "Entscheidung"
+                },
+                {
+                  "documentIdentifier" : "BJNR012670953BJNE012700303",
+                  "paragraph" : "§ 96a",
+                  "title" : "Sprungrechtsbeschwerde"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  3,
+                  2,
+                  3
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Dritter Rechtszug"
+            },
+            {
+              "documentIdentifier" : "BJNR012670953BJNG001700303",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR012670953BJNE012802305",
+                  "paragraph" : "§ 97",
+                  "title" : "Entscheidung über die Tariffähigkeit oder Tarifzuständigkeit einer Vereinigung"
+                },
+                {
+                  "documentIdentifier" : "BJNR012670953BJNE012904311",
+                  "paragraph" : "§ 98",
+                  "title" : "Entscheidung über die Wirksamkeit einer Allgemeinverbindlicherklärung oder einer Rechtsverordnung"
+                },
+                {
+                  "documentIdentifier" : "BJNR012670953BJNE017100311",
+                  "paragraph" : "§ 99",
+                  "title" : "Entscheidung über den nach § 4a Absatz 2 Satz 2 des Tarifvertragsgesetzes im Betrieb anwendbaren Tarifvertrag"
+                },
+                {
+                  "documentIdentifier" : "BJNR012670953BJNE013002311",
+                  "paragraph" : "§ 100",
+                  "title" : "Entscheidung über die Besetzung der Einigungsstelle"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  3,
+                  2,
+                  4
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Beschlußverfahren in besonderen Fällen"
+            }
+          ],
+          "title" : "Beschlußverfahren"
+        }
+      ],
+      "title" : "Verfahren vor den Gerichten für Arbeitssachen"
+    },
+    {
+      "documentIdentifier" : "BJNR012670953BJNG001800303",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR012670953BJNE013201311",
+          "paragraph" : "§ 101",
+          "title" : "Grundsatz"
+        },
+        {
+          "documentIdentifier" : "BJNR012670953BJNE013301309",
+          "paragraph" : "§ 102",
+          "title" : "Prozeßhindernde Einrede"
+        },
+        {
+          "documentIdentifier" : "BJNR012670953BJNE013400303",
+          "paragraph" : "§ 103",
+          "title" : "Zusammensetzung des Schiedsgerichts"
+        },
+        {
+          "documentIdentifier" : "BJNR012670953BJNE013500303",
+          "paragraph" : "§ 104",
+          "title" : "Verfahren vor dem Schiedsgericht"
+        },
+        {
+          "documentIdentifier" : "BJNR012670953BJNE013601301",
+          "paragraph" : "§ 105",
+          "title" : "Anhörung der Parteien"
+        },
+        {
+          "documentIdentifier" : "BJNR012670953BJNE013701301",
+          "paragraph" : "§ 106",
+          "title" : "Beweisaufnahme"
+        },
+        {
+          "documentIdentifier" : "BJNR012670953BJNE013800303",
+          "paragraph" : "§ 107",
+          "title" : "Vergleich"
+        },
+        {
+          "documentIdentifier" : "BJNR012670953BJNE013900303",
+          "paragraph" : "§ 108",
+          "title" : "Schiedsspruch"
+        },
+        {
+          "documentIdentifier" : "BJNR012670953BJNE014000303",
+          "paragraph" : "§ 109",
+          "title" : "Zwangsvollstreckung"
+        },
+        {
+          "documentIdentifier" : "BJNR012670953BJNE014100303",
+          "paragraph" : "§ 110",
+          "title" : "Aufhebungsklage"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schiedsvertrag in Arbeitsstreitigkeiten"
+    },
+    {
+      "documentIdentifier" : "BJNR012670953BJNG001900303",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR012670953BJNE014201305",
+          "paragraph" : "§ 111",
+          "title" : "Änderung von Vorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR012670953BJNE014302311",
+          "paragraph" : "§ 112",
+          "title" : "Übergangsregelungen"
+        },
+        {
+          "documentIdentifier" : "BJNR012670953BJNE014401311",
+          "paragraph" : "§ 113",
+          "title" : "Berichterstattung"
+        },
+        {
+          "documentIdentifier" : "BJNR012670953BJNE014500303",
+          "paragraph" : "§ 114",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR012670953BJNE014600303",
+          "paragraph" : "§ 115",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR012670953BJNE014700303",
+          "paragraph" : "§ 116",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR012670953BJNE014801305",
+          "paragraph" : "§ 117",
+          "title" : "Verfahren bei Meinungsverschiedenheiten der beteiligten\nVerwaltungen"
+        },
+        {
+          "documentIdentifier" : "BJNR012670953BJNE014900303",
+          "paragraph" : "§ 118",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR012670953BJNE015000303",
+          "paragraph" : "§ 119",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR012670953BJNE015100303",
+          "paragraph" : "§ 120",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR012670953BJNE015201301",
+          "paragraph" : "§ 121",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR012670953BJNE015301301",
+          "paragraph" : "§ 122",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übergangs- und Schlußvorschriften"
+    }
+  ]
+}

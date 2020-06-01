@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR011400019",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR011400019Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR011400019BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Anforderungen an die Barrierefreiheit"
+        },
+        {
+          "documentIdentifier" : "BJNR011400019BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Ausgestaltung der Deckungsvorsorge für qualifizierte Vertrauensdiensteanbieter"
+        },
+        {
+          "documentIdentifier" : "BJNR011400019BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Dokumentation der Ausgabe qualifizierter Zertifikate für Vertrauensdienste"
+        },
+        {
+          "documentIdentifier" : "BJNR011400019BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Vorsorge für die dauerhafte Prüfbarkeit qualifizierter Zertifikate"
+        },
+        {
+          "documentIdentifier" : "BJNR011400019BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Anzeigen zu Signaturerstellungseinheiten nach Anhang II der Verordnung (EU) Nr. 910\/2014"
+        },
+        {
+          "documentIdentifier" : "BJNR011400019BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

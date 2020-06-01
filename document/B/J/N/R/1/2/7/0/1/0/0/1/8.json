@@ -1,0 +1,423 @@
+{
+  "documentIdentifier" : "BJNR127010018",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR127010018BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR127010018BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR127010018BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR127010018BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Grundlegende Anforderungen"
+        },
+        {
+          "documentIdentifier" : "BJNR127010018BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Anwendung der Technischen Spezifikationen für die Interoperabilität, der notifizierten technischen Vorschriften und der technischen Vorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR127010018BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Ausnahmeverfahren betreffend die Anwendung der Technischen Spezifikationen für die Interoperabilität"
+        },
+        {
+          "documentIdentifier" : "BJNR127010018BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Zur Erfüllung der grundlegenden Anforderungen anzuwendende Vorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR127010018BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Notifizierung von technischen Vorschriften"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR127010018BJNG000200000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR127010018BJNG000300000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR127010018BJNE000900000",
+              "paragraph" : "§ 8",
+              "title" : "Erfordernis der Inbetriebnahmegenehmigung"
+            },
+            {
+              "documentIdentifier" : "BJNR127010018BJNE001000000",
+              "paragraph" : "§ 9",
+              "title" : "Voraussetzungen für die Erteilung einer Inbetriebnahmegenehmigung, sofern Technische Spezifikationen für die Interoperabilität anzuwenden sind"
+            },
+            {
+              "documentIdentifier" : "BJNR127010018BJNE001100000",
+              "paragraph" : "§ 10",
+              "title" : "Voraussetzungen für die Erteilung einer Inbetriebnahmegenehmigung, sofern Technische Spezifikationen für die Interoperabilität nicht anzuwenden sind"
+            },
+            {
+              "documentIdentifier" : "BJNR127010018BJNE001200000",
+              "paragraph" : "§ 11",
+              "title" : "Verfahren für die Erteilung einer erstmaligen Inbetriebnahmegenehmigung"
+            },
+            {
+              "documentIdentifier" : "BJNR127010018BJNE001300000",
+              "paragraph" : "§ 12",
+              "title" : "Nebenbestimmungen"
+            },
+            {
+              "documentIdentifier" : "BJNR127010018BJNE001400000",
+              "paragraph" : "§ 13",
+              "title" : "Verfahren bei Genehmigung für mehrere Staaten"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Erteilung einer erstmaligen Inbetriebnahmegenehmigung"
+        },
+        {
+          "documentIdentifier" : "BJNR127010018BJNG000400000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR127010018BJNE001500000",
+              "paragraph" : "§ 14",
+              "title" : "Umrüstung und Erneuerung"
+            },
+            {
+              "documentIdentifier" : "BJNR127010018BJNE001600000",
+              "paragraph" : "§ 15",
+              "title" : "Verfahren bei Umrüstung und Erneuerung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Erteilung einer Inbetriebnahmegenehmigung nach Umrüstung oder Erneuerung"
+        },
+        {
+          "documentIdentifier" : "BJNR127010018BJNG000500000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR127010018BJNE001700000",
+              "paragraph" : "§ 16",
+              "title" : "Probefahrten"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Probefahrten"
+        },
+        {
+          "documentIdentifier" : "BJNR127010018BJNG000600000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR127010018BJNE001800000",
+              "paragraph" : "§ 17",
+              "title" : "Inbetriebnahmegenehmigung für Fahrzeuge"
+            },
+            {
+              "documentIdentifier" : "BJNR127010018BJNE001900000",
+              "paragraph" : "§ 18",
+              "title" : "Genehmigung einer Fahrzeugserie"
+            },
+            {
+              "documentIdentifier" : "BJNR127010018BJNE002000000",
+              "paragraph" : "§ 19",
+              "title" : "Genehmigung einer Fahrzeugvariante"
+            },
+            {
+              "documentIdentifier" : "BJNR127010018BJNE002100000",
+              "paragraph" : "§ 20",
+              "title" : "Genehmigung eines Fahrzeugtyps"
+            },
+            {
+              "documentIdentifier" : "BJNR127010018BJNE002200000",
+              "paragraph" : "§ 21",
+              "title" : "Fahrzeuge mit ausländischer Zulassung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Ergänzende Vorschriften für die Erteilung von Inbetrieb- nahmegenehmigungen für Fahrzeuge"
+        },
+        {
+          "documentIdentifier" : "BJNR127010018BJNG000700000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR127010018BJNE002300000",
+              "paragraph" : "§ 22",
+              "title" : "Ergänzende Vorschriften für die erstmalige Inbetriebnahmegenehmigung"
+            },
+            {
+              "documentIdentifier" : "BJNR127010018BJNE002400000",
+              "paragraph" : "§ 23",
+              "title" : "Ergänzende Vorschriften für Umrüstungen oder Erneuerungen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              5
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Ergänzende Vorschriften für die Erteilung von Inbetriebnahmegenehmigungen für die Teilsysteme Infrastruktur, Energie, streckenseitige Zugsteuerung, Zugsicherung und Signalgebung sowie für die übrige Eisenbahninfrastruktur"
+        }
+      ],
+      "title" : "Inbetriebnahmegenehmigung"
+    },
+    {
+      "documentIdentifier" : "BJNR127010018BJNG000800000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR127010018BJNE002500000",
+          "paragraph" : "§ 24",
+          "title" : "Inverkehrbringen und Verwenden von Interoperabilitätskomponenten"
+        },
+        {
+          "documentIdentifier" : "BJNR127010018BJNE002600000",
+          "paragraph" : "§ 25",
+          "title" : "Interoperabilitätskomponenten, die die grundlegenden Anforderungen nicht erfüllen"
+        },
+        {
+          "documentIdentifier" : "BJNR127010018BJNE002700000",
+          "paragraph" : "§ 26",
+          "title" : "Verwendung von Bauprodukten und Anwendung von Bauarten"
+        },
+        {
+          "documentIdentifier" : "BJNR127010018BJNE002800000",
+          "paragraph" : "§ 27",
+          "title" : "Genehmigung zum Inverkehrbringen und Verwenden von sicherungs- technischen oder elektrotechnischen Systemen und deren Bestandteilen"
+        },
+        {
+          "documentIdentifier" : "BJNR127010018BJNE002900000",
+          "paragraph" : "§ 28",
+          "title" : "Marktaufsicht"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Interoperabilitätskomponenten, Bauprodukte und Systeme"
+    },
+    {
+      "documentIdentifier" : "BJNR127010018BJNG000900000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR127010018BJNE003000000",
+          "paragraph" : "§ 29",
+          "title" : "Pflichten der Eisenbahnen, der Halter und Hersteller von Eisenbahnfahrzeugen sowie der für die Instandhaltung zuständigen Stellen"
+        },
+        {
+          "documentIdentifier" : "BJNR127010018BJNE003100000",
+          "paragraph" : "§ 30",
+          "title" : "Pflichten bei Maßnahmen zur Umrüstung oder Erneuerung"
+        },
+        {
+          "documentIdentifier" : "BJNR127010018BJNE003200000",
+          "paragraph" : "§ 31",
+          "title" : "Weitere Unterrichtungspflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR127010018BJNE003300000",
+          "paragraph" : "§ 32",
+          "title" : "Aufbewahrungs-, Weitergabe- und Aufzeichnungspflichten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Pflichten der Eisenbahnen, der Halter und Hersteller von Eisenbahnfahrzeugen sowie der für die Instandhaltung zuständigen Stellen"
+    },
+    {
+      "documentIdentifier" : "BJNR127010018BJNG001000000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR127010018BJNE003400000",
+          "paragraph" : "§ 33",
+          "title" : "Aufgaben der benannten Stellen"
+        },
+        {
+          "documentIdentifier" : "BJNR127010018BJNE003500000",
+          "paragraph" : "§ 34",
+          "title" : "Aufgaben der bestimmten Stellen"
+        },
+        {
+          "documentIdentifier" : "BJNR127010018BJNE003600000",
+          "paragraph" : "§ 35",
+          "title" : "Anerkennungsverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR127010018BJNE003700000",
+          "paragraph" : "§ 36",
+          "title" : "Rücknahme und Widerruf"
+        },
+        {
+          "documentIdentifier" : "BJNR127010018BJNE003800000",
+          "paragraph" : "§ 37",
+          "title" : "Unterauftragsvergabe"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Benannte Stellen, bestimmte Stellen"
+    },
+    {
+      "documentIdentifier" : "BJNR127010018BJNG001100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR127010018BJNE003900000",
+          "paragraph" : "§ 38",
+          "title" : "Fahrzeugeinstellungsregister"
+        },
+        {
+          "documentIdentifier" : "BJNR127010018BJNE004000000",
+          "paragraph" : "§ 39",
+          "title" : "Fahrzeugkennzeichnung"
+        },
+        {
+          "documentIdentifier" : "BJNR127010018BJNE004100000",
+          "paragraph" : "§ 40",
+          "title" : "Europäisches Register genehmigter Fahrzeugtypen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Register für Fahrzeuge und Fahrzeugkennzeichnung"
+    },
+    {
+      "documentIdentifier" : "BJNR127010018BJNG001200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR127010018BJNE004200000",
+          "paragraph" : "§ 41",
+          "title" : "Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR127010018BJNE004300000",
+          "paragraph" : "§ 42",
+          "title" : "Übergangsvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR127010018BJNE004400000",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 4 Absatz 1)"
+        },
+        {
+          "documentIdentifier" : "BJNR127010018BJNE004500000",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 6 Absatz 4)"
+        },
+        {
+          "documentIdentifier" : "BJNR127010018BJNE004600000",
+          "paragraph" : "Anlage 3",
+          "title" : "(zu § 9 Absatz 1)"
+        },
+        {
+          "documentIdentifier" : "BJNR127010018BJNE004700000",
+          "paragraph" : "Anlage 4",
+          "title" : "(zu § 14 Absatz 1, § 15 Absatz 2 und § 30)"
+        },
+        {
+          "documentIdentifier" : "BJNR127010018BJNE004800000",
+          "paragraph" : "Anlage 5",
+          "title" : "(zu § 14 Absatz 1)"
+        },
+        {
+          "documentIdentifier" : "BJNR127010018BJNE004900000",
+          "paragraph" : "Anlage 6",
+          "title" : "(zu § 22 Absatz 2 und § 23)"
+        },
+        {
+          "documentIdentifier" : "BJNR127010018BJNE005000000",
+          "paragraph" : "Anlage 7",
+          "title" : "(zu § 27 Absatz 1 und 4)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussbestimmungen"
+    }
+  ]
+}

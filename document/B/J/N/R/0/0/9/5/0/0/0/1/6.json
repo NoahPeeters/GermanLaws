@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR009500016",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR009500016Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR009500016BJNE000300000",
+          "paragraph" : "(XXXX)",
+          "title" : "(Anlage V des BBesG)"
+        },
+        {
+          "documentIdentifier" : "BJNR009500016BJNE000400000",
+          "paragraph" : "(XXXX)",
+          "title" : "(Anlage IX des BBesG)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

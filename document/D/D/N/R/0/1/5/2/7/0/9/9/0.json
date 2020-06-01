@@ -1,0 +1,115 @@
+{
+  "documentIdentifier" : "DDNR015270990",
+  "sections" : [
+    {
+      "documentIdentifier" : "DDNR015270990BJNG000100307",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Die Schiedsstelle"
+    },
+    {
+      "documentIdentifier" : "DDNR015270990BJNG000200307",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Das Schlichtungsverfahren in bürgerlichen Rechtsstreitigkeiten"
+    },
+    {
+      "documentIdentifier" : "DDNR015270990BJNG000300307",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "DDNR015270990BJNG000400307",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Das Sühneverfahren vor Erhebung der Privatklage"
+        },
+        {
+          "documentIdentifier" : "DDNR015270990BJNG000500307",
+          "laws" : [
+            {
+              "documentIdentifier" : "DDNR015270990BJNE004701301",
+              "paragraph" : "(XXXX) §§ 40 bis 45",
+              "title" : "(weggefallen)"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Das Schlichtungsverfahren zur außergerichtlichen Erledigung einer Strafsache"
+        }
+      ],
+      "title" : "Das Schlichtungsverfahren in Strafsachen"
+    },
+    {
+      "documentIdentifier" : "DDNR015270990BJNG000600307",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Kosten"
+    },
+    {
+      "documentIdentifier" : "DDNR015270990BJNG000700307",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übergangs- und Schlußvorschriften"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "documentIdentifier" : "BJNR218500010",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR218500010BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR218500010BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Abkommen"
+        },
+        {
+          "documentIdentifier" : "BJNR218500010BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Anwendungsbereich"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeines"
+    },
+    {
+      "documentIdentifier" : "BJNR218500010BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR218500010BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Kausalitätsprinzip bei Arbeitnehmern"
+        },
+        {
+          "documentIdentifier" : "BJNR218500010BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Gehaltsfortzahlung nach vorzeitiger Beendigung des Dienstverhältnisses durch einen Arbeitgeber"
+        },
+        {
+          "documentIdentifier" : "BJNR218500010BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Zahlungen für ein Konkurrenz- und Wettbewerbsverbot"
+        },
+        {
+          "documentIdentifier" : "BJNR218500010BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Abfindung, Urlaubsentschädigung und Qualifikationskonflikte"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Besteuerung von Abfindungszahlungen"
+    },
+    {
+      "documentIdentifier" : "BJNR218500010BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR218500010BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Anwendungsregelung"
+        },
+        {
+          "documentIdentifier" : "BJNR218500010BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussbestimmungen"
+    }
+  ]
+}

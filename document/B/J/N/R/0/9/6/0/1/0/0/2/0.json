@@ -1,0 +1,887 @@
+{
+  "documentIdentifier" : "BJNR096010020",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR096010020BJNG000101000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR096010020BJNE000201000",
+          "paragraph" : "§ 1",
+          "title" : "Zweck des Gesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR096010020BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Anwendungsbereich des Gesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR096010020BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Ergänzende Begriffsbestimmungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Zweck, Anwendungsbereich und Begriffsbestimmungen"
+    },
+    {
+      "documentIdentifier" : "BJNR096010020BJNG000201000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR096010020BJNE000501000",
+          "paragraph" : "§ 4",
+          "title" : "Ergänzende Anzeigepflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR096010020BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Aufbewahrung von Unterlagen im Fall der Beendigung der Geschäftstätigkeit; Verordnungsermächtigung"
+        },
+        {
+          "documentIdentifier" : "BJNR096010020BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Klassifizierung von Produkten, Feststellung des rechtlichen Status, Einstufung von Produkten der Klasse I, Genehmigungspflicht einer klinischen Prüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR096010020BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Sonderzulassung, Verordnungsermächtigung"
+        },
+        {
+          "documentIdentifier" : "BJNR096010020BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Sprachenregelung für die EU-Konformitätserklärung und für Produktinformationen"
+        },
+        {
+          "documentIdentifier" : "BJNR096010020BJNE001000000",
+          "paragraph" : "§ 9",
+          "title" : "Sondervorschriften für angepasste Produkte"
+        },
+        {
+          "documentIdentifier" : "BJNR096010020BJNE001100000",
+          "paragraph" : "§ 10",
+          "title" : "Freiverkaufszertifikate"
+        },
+        {
+          "documentIdentifier" : "BJNR096010020BJNE001200000",
+          "paragraph" : "§ 11",
+          "title" : "Betreiben und Anwenden von Produkten"
+        },
+        {
+          "documentIdentifier" : "BJNR096010020BJNE001300000",
+          "paragraph" : "§ 12",
+          "title" : "Verbote zum Schutz von Patienten, Anwendern und Dritten"
+        },
+        {
+          "documentIdentifier" : "BJNR096010020BJNE001400000",
+          "paragraph" : "§ 13",
+          "title" : "Verbote zum Schutz vor Fälschungen und Täuschungen"
+        },
+        {
+          "documentIdentifier" : "BJNR096010020BJNE001500000",
+          "paragraph" : "§ 14",
+          "title" : "Abgabe von Prüfprodukten"
+        },
+        {
+          "documentIdentifier" : "BJNR096010020BJNE001600000",
+          "paragraph" : "§ 15",
+          "title" : "Bereitstellen von Sonderanfertigungen auf dem Markt"
+        },
+        {
+          "documentIdentifier" : "BJNR096010020BJNE001700000",
+          "paragraph" : "§ 16",
+          "title" : "Ausstellen von Produkten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Anzeigepflichten, Inverkehrbringen und Inbetriebnahme von Produkten sowie deren Bereitstellung auf dem Markt, sonstige Bestimmungen"
+    },
+    {
+      "documentIdentifier" : "BJNR096010020BJNG000301000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR096010020BJNE001801000",
+          "paragraph" : "§ 17",
+          "title" : "Sprachenregelung für Konformitätsbewertungsstellen"
+        },
+        {
+          "documentIdentifier" : "BJNR096010020BJNE001900000",
+          "paragraph" : "§ 18",
+          "title" : "Anerkennung von Prüflaboratorien; Widerruf und Rücknahme der Anerkennung"
+        },
+        {
+          "documentIdentifier" : "BJNR096010020BJNE002000000",
+          "paragraph" : "§ 19",
+          "title" : "Überwachung anerkannter Prüflaboratorien"
+        },
+        {
+          "documentIdentifier" : "BJNR096010020BJNE002100000",
+          "paragraph" : "§ 20",
+          "title" : "Benennung von Konformitätsbewertungsstellen für Drittstaaten; Widerruf und Rücknahme der Benennung"
+        },
+        {
+          "documentIdentifier" : "BJNR096010020BJNE002200000",
+          "paragraph" : "§ 21",
+          "title" : "Überwachung benannter Konformitätsbewertungsstellen für Drittstaaten"
+        },
+        {
+          "documentIdentifier" : "BJNR096010020BJNE002300000",
+          "paragraph" : "§ 22",
+          "title" : "Befugnisse der für Benannte Stellen zuständigen Behörde"
+        },
+        {
+          "documentIdentifier" : "BJNR096010020BJNE002400000",
+          "paragraph" : "§ 23",
+          "title" : "Auskunftsverweigerungsrecht"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Benannte Stellen, Prüflaboratorien, Konformitätsbewertungsstellen für Drittstaaten"
+    },
+    {
+      "documentIdentifier" : "BJNR096010020BJNG000401000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR096010020BJNG000501000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR096010020BJNE002501000",
+              "paragraph" : "§ 24",
+              "title" : "Allgemeine ergänzende Voraussetzungen"
+            },
+            {
+              "documentIdentifier" : "BJNR096010020BJNE002600000",
+              "paragraph" : "§ 25",
+              "title" : "Sponsor oder rechtlicher Vertreter des Sponsors"
+            },
+            {
+              "documentIdentifier" : "BJNR096010020BJNE002700000",
+              "paragraph" : "§ 26",
+              "title" : "Versicherungsschutz"
+            },
+            {
+              "documentIdentifier" : "BJNR096010020BJNE002800000",
+              "paragraph" : "§ 27",
+              "title" : "Verbot der Durchführung bei untergebrachten Personen"
+            },
+            {
+              "documentIdentifier" : "BJNR096010020BJNE002900000",
+              "paragraph" : "§ 28",
+              "title" : "Einwilligung in die Teilnahme"
+            },
+            {
+              "documentIdentifier" : "BJNR096010020BJNE003000000",
+              "paragraph" : "§ 29",
+              "title" : "Einwilligung in die Verarbeitung personenbezogener Daten"
+            },
+            {
+              "documentIdentifier" : "BJNR096010020BJNE003100000",
+              "paragraph" : "§ 30",
+              "title" : "Prüfer, Hauptprüfer und Leiter einer klinischen Prüfung oder sonstigen klinischen Prüfung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Ergänzende Voraussetzungen"
+        },
+        {
+          "documentIdentifier" : "BJNR096010020BJNG000601000",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4,
+              2
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR096010020BJNG000701000",
+              "laws" : [
+
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  4,
+                  2,
+                  1
+                ]
+              },
+              "subsections" : [
+                {
+                  "documentIdentifier" : "BJNR096010020BJNG000801000",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR096010020BJNE003201000",
+                      "paragraph" : "§ 31",
+                      "title" : "Beginn einer klinischen Prüfung"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      4,
+                      2,
+                      1,
+                      1
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Voraussetzungen für den Beginn"
+                },
+                {
+                  "documentIdentifier" : "BJNR096010020BJNG000901000",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR096010020BJNE003301000",
+                      "paragraph" : "§ 32",
+                      "title" : "Anforderungen an die Ethik-Kommissionen"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR096010020BJNE003400000",
+                      "paragraph" : "§ 33",
+                      "title" : "Antrag bei der Ethik-Kommission"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR096010020BJNE003500000",
+                      "paragraph" : "§ 34",
+                      "title" : "Prüfung der Ordnungsmäßigkeit des Antrags durch die Ethik-Kommission"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR096010020BJNE003600000",
+                      "paragraph" : "§ 35",
+                      "title" : "Ethische Bewertung der beantragten klinischen Prüfung"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR096010020BJNE003700000",
+                      "paragraph" : "§ 36",
+                      "title" : "Frist zur Stellungnahme der Ethik-Kommission"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR096010020BJNE003800000",
+                      "paragraph" : "§ 37",
+                      "title" : "Stellungnahme der Ethik-Kommission"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      4,
+                      2,
+                      1,
+                      2
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Verfahren bei der Ethik-Kommission"
+                },
+                {
+                  "documentIdentifier" : "BJNR096010020BJNG001001000",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR096010020BJNE003901000",
+                      "paragraph" : "§ 38",
+                      "title" : "Antrag"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR096010020BJNE004000000",
+                      "paragraph" : "§ 39",
+                      "title" : "Umfang der Prüfung des Antrags"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      4,
+                      2,
+                      1,
+                      3
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Verfahren bei der Bundesoberbehörde"
+                },
+                {
+                  "documentIdentifier" : "BJNR096010020BJNG001101000",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR096010020BJNE004101000",
+                      "paragraph" : "§ 40",
+                      "title" : "Zugang der Ethik-Kommission zu Mitteilungen"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR096010020BJNE004200000",
+                      "paragraph" : "§ 41",
+                      "title" : "Stellungnahme der Ethik-Kommission"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR096010020BJNE004300000",
+                      "paragraph" : "§ 42",
+                      "title" : "Entscheidung der Bundesoberbehörde"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      4,
+                      2,
+                      1,
+                      4
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Verfahren bei wesentlichen Änderungen nach Artikel 75 der Verordnung (EU) 2017\/745"
+                },
+                {
+                  "documentIdentifier" : "BJNR096010020BJNG001201000",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR096010020BJNE004401000",
+                      "paragraph" : "§ 43",
+                      "title" : "Korrekturmaßnahmen der Ethik-Kommission"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR096010020BJNE004500000",
+                      "paragraph" : "§ 44",
+                      "title" : "Korrekturmaßnahmen der Bundesoberbehörde"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR096010020BJNE004600000",
+                      "paragraph" : "§ 45",
+                      "title" : "Weitere Vorgaben für Korrekturmaßnahmen der Bundesoberbehörde"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR096010020BJNE004700000",
+                      "paragraph" : "§ 46",
+                      "title" : "Verbot der Fortsetzung"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      4,
+                      2,
+                      1,
+                      5
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Korrekturmaßnahmen"
+                }
+              ],
+              "title" : "Klinische Prüfungen nach Artikel 62 Absatz 1 der Verordnung (EU) 2017\/745"
+            },
+            {
+              "documentIdentifier" : "BJNR096010020BJNG001301000",
+              "laws" : [
+
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  4,
+                  2,
+                  2
+                ]
+              },
+              "subsections" : [
+                {
+                  "documentIdentifier" : "BJNR096010020BJNG001401000",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR096010020BJNE004801000",
+                      "paragraph" : "§ 47",
+                      "title" : "Anforderungen an sonstige klinische Prüfungen"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      4,
+                      2,
+                      2,
+                      1
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Besondere Voraussetzungen und Beginn"
+                },
+                {
+                  "documentIdentifier" : "BJNR096010020BJNG001501000",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR096010020BJNE004901000",
+                      "paragraph" : "§ 48",
+                      "title" : "Antrag bei der Ethik-Kommission"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR096010020BJNE005000000",
+                      "paragraph" : "§ 49",
+                      "title" : "Prüfung der Ordnungsmäßigkeit des Antrags durch die Ethik-Kommission"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR096010020BJNE005100000",
+                      "paragraph" : "§ 50",
+                      "title" : "Ethische Bewertung der beantragten sonstigen klinischen Prüfung"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR096010020BJNE005200000",
+                      "paragraph" : "§ 51",
+                      "title" : "Frist zur Stellungnahme der Ethik-Kommission"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR096010020BJNE005300000",
+                      "paragraph" : "§ 52",
+                      "title" : "Stellungnahme der Ethik-Kommission"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      4,
+                      2,
+                      2,
+                      2
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Verfahren bei der Ethik-Kommission"
+                },
+                {
+                  "documentIdentifier" : "BJNR096010020BJNG001601000",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR096010020BJNE005401000",
+                      "paragraph" : "§ 53",
+                      "title" : "Anzeige einer sonstigen klinischen Prüfung bei der zuständigen Bundesoberbehörde"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      4,
+                      2,
+                      2,
+                      3
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Anzeige bei der Bundesoberbehörde"
+                },
+                {
+                  "documentIdentifier" : "BJNR096010020BJNG001701000",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR096010020BJNE005501000",
+                      "paragraph" : "§ 54",
+                      "title" : "Anzeige von Änderungen"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR096010020BJNE005600000",
+                      "paragraph" : "§ 55",
+                      "title" : "Antrag bei der Ethik-Kommission bei wesentlichen Änderungen"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR096010020BJNE005700000",
+                      "paragraph" : "§ 56",
+                      "title" : "Prüfung der Ordnungsmäßigkeit des Antrags durch die Ethik-Kommission"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR096010020BJNE005800000",
+                      "paragraph" : "§ 57",
+                      "title" : "Prüfung der beantragten wesentlichen Änderungen"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR096010020BJNE005900000",
+                      "paragraph" : "§ 58",
+                      "title" : "Frist zur Stellungnahme der Ethik-Kommission bei wesentlichen Änderungen"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR096010020BJNE006000000",
+                      "paragraph" : "§ 59",
+                      "title" : "Vornahme von wesentlichen Änderungen"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      4,
+                      2,
+                      2,
+                      4
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Verfahren bei Änderungen"
+                },
+                {
+                  "documentIdentifier" : "BJNR096010020BJNG001801000",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR096010020BJNE006101000",
+                      "paragraph" : "§ 60",
+                      "title" : "Korrekturmaßnahmen der Ethik-Kommission"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR096010020BJNE006200000",
+                      "paragraph" : "§ 61",
+                      "title" : "Verbot der Fortsetzung"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      4,
+                      2,
+                      2,
+                      5
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Korrekturmaßnahmen"
+                }
+              ],
+              "title" : "Sonstige klinische Prüfungen im Sinne von Artikel 82 Absatz 1 der Verordnung (EU) 2017\/745"
+            }
+          ],
+          "title" : "Voraussetzungen für den Beginn, wesentliche Änderungen und Korrekturmaßnahmen"
+        },
+        {
+          "documentIdentifier" : "BJNR096010020BJNG001901000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR096010020BJNE006301000",
+              "paragraph" : "§ 62",
+              "title" : "Pflichten des Prüfers oder Hauptprüfers"
+            },
+            {
+              "documentIdentifier" : "BJNR096010020BJNE006400000",
+              "paragraph" : "§ 63",
+              "title" : "Meldepflichten des Prüfers oder Hauptprüfers"
+            },
+            {
+              "documentIdentifier" : "BJNR096010020BJNE006500000",
+              "paragraph" : "§ 64",
+              "title" : "Melde- und Mitteilungspflichten des Sponsors bei einer sonstigen klinischen Prüfung"
+            },
+            {
+              "documentIdentifier" : "BJNR096010020BJNE006600000",
+              "paragraph" : "§ 65",
+              "title" : "Verarbeitung und Pseudonymisierung personenbezogener Daten"
+            },
+            {
+              "documentIdentifier" : "BJNR096010020BJNE006700000",
+              "paragraph" : "§ 66",
+              "title" : "Eigenverantwortliche korrektive Maßnahmen"
+            },
+            {
+              "documentIdentifier" : "BJNR096010020BJNE006800000",
+              "paragraph" : "§ 67",
+              "title" : "Informationsaustausch"
+            },
+            {
+              "documentIdentifier" : "BJNR096010020BJNE006900000",
+              "paragraph" : "§ 68",
+              "title" : "Überwachung von klinischen Prüfungen und sonstigen klinischen Prüfungen durch die zuständige Behörde"
+            },
+            {
+              "documentIdentifier" : "BJNR096010020BJNE007000000",
+              "paragraph" : "§ 69",
+              "title" : "Korrekturmaßnahmen der Bundesoberbehörden"
+            },
+            {
+              "documentIdentifier" : "BJNR096010020BJNE007100000",
+              "paragraph" : "§ 70",
+              "title" : "Kontaktstelle"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Pflichten bei der Durchführung und Überwachung; Kontaktstelle"
+        }
+      ],
+      "title" : "Klinische Prüfungen und sonstige klinische Prüfungen"
+    },
+    {
+      "documentIdentifier" : "BJNR096010020BJNG002001000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR096010020BJNE007201000",
+          "paragraph" : "§ 71",
+          "title" : "Durchführung der Vigilanzaufgaben"
+        },
+        {
+          "documentIdentifier" : "BJNR096010020BJNE007300000",
+          "paragraph" : "§ 72",
+          "title" : "Zusammenarbeit und Mitwirkungspflichten im Rahmen der Risikobewertung"
+        },
+        {
+          "documentIdentifier" : "BJNR096010020BJNE007400000",
+          "paragraph" : "§ 73",
+          "title" : "Ergänzende Herstellerpflichten im Rahmen der Vigilanz; Sprachenregelung"
+        },
+        {
+          "documentIdentifier" : "BJNR096010020BJNE007500000",
+          "paragraph" : "§ 74",
+          "title" : "Verfahren zum Schutz vor Risiken"
+        },
+        {
+          "documentIdentifier" : "BJNR096010020BJNE007600000",
+          "paragraph" : "§ 75",
+          "title" : "Maßnahmen eines anderen Mitgliedstaats nach Artikel 95 Absatz 4 der Verordnung (EU) 2017\/745"
+        },
+        {
+          "documentIdentifier" : "BJNR096010020BJNE007700000",
+          "paragraph" : "§ 76",
+          "title" : "Verfahren zur Erhebung von Einwänden nach Artikel 95 Absatz 6 der Verordnung (EU) 2017\/745 gegen Maßnahmen eines anderen Mitgliedstaats und zur Verhängung von Maßnahmen nach Artikel 95 Absatz 7 der Verordnung (EU) 2017\/745"
+        },
+        {
+          "documentIdentifier" : "BJNR096010020BJNE007800000",
+          "paragraph" : "§ 77",
+          "title" : "Durchführung der Überwachung"
+        },
+        {
+          "documentIdentifier" : "BJNR096010020BJNE007900000",
+          "paragraph" : "§ 78",
+          "title" : "Anordnungsbefugnisse der zuständigen Behörden im Rahmen der Überwachung; Informationspflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR096010020BJNE008000000",
+          "paragraph" : "§ 79",
+          "title" : "Behördliche Befugnisse im Rahmen der Durchführung der Vigilanz und der Überwachung"
+        },
+        {
+          "documentIdentifier" : "BJNR096010020BJNE008100000",
+          "paragraph" : "§ 80",
+          "title" : "Duldungs- und Mitwirkungspflichten im Rahmen der Vigilanz und der Überwachung; Auskunftsverweigerungsrecht"
+        },
+        {
+          "documentIdentifier" : "BJNR096010020BJNE008200000",
+          "paragraph" : "§ 81",
+          "title" : "Zuständige Behörden für die Meldepflichten der Importeure und Händler"
+        },
+        {
+          "documentIdentifier" : "BJNR096010020BJNE008300000",
+          "paragraph" : "§ 82",
+          "title" : "Präventive Gesundheitsschutzmaßnahmen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Vigilanz und Überwachung"
+    },
+    {
+      "documentIdentifier" : "BJNR096010020BJNG002101000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR096010020BJNE008401000",
+          "paragraph" : "§ 83",
+          "title" : "Medizinprodukteberater"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Medizinprodukteberater"
+    },
+    {
+      "documentIdentifier" : "BJNR096010020BJNG002201000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR096010020BJNE008501000",
+          "paragraph" : "§ 84",
+          "title" : "Beratungspflichten der zuständigen Bundesoberbehörde"
+        },
+        {
+          "documentIdentifier" : "BJNR096010020BJNE008600000",
+          "paragraph" : "§ 85",
+          "title" : "Zuständigkeiten und Aufgaben der Behörden"
+        },
+        {
+          "documentIdentifier" : "BJNR096010020BJNE008700000",
+          "paragraph" : "§ 86",
+          "title" : "Deutsches Medizinprodukte-informations- und Datenbanksystem"
+        },
+        {
+          "documentIdentifier" : "BJNR096010020BJNE008800000",
+          "paragraph" : "§ 87",
+          "title" : "Gebühren und Auslagen; Verordnungsermächtigung"
+        },
+        {
+          "documentIdentifier" : "BJNR096010020BJNE008900000",
+          "paragraph" : "§ 88",
+          "title" : "Verordnungsermächtigungen"
+        },
+        {
+          "documentIdentifier" : "BJNR096010020BJNE009001000",
+          "paragraph" : "§ 89",
+          "title" : "Allgemeine Verwaltungsvorschriften"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Zuständige Behörden, Verordnungsermächtigungen, sonstige Bestimmungen"
+    },
+    {
+      "documentIdentifier" : "BJNR096010020BJNG002301000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR096010020BJNE009101000",
+          "paragraph" : "§ 90",
+          "title" : "Anwendung und Vollzug des Gesetzes, Zuständigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR096010020BJNE009200000",
+          "paragraph" : "§ 91",
+          "title" : "Ausnahmen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          8
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Sondervorschriften für den Bereich der Bundeswehr und den Zivil- und Katastrophenschutz"
+    },
+    {
+      "documentIdentifier" : "BJNR096010020BJNG002401000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR096010020BJNE009301000",
+          "paragraph" : "§ 92",
+          "title" : "Strafvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR096010020BJNE009400000",
+          "paragraph" : "§ 93",
+          "title" : "Strafvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR096010020BJNE009500000",
+          "paragraph" : "§ 94",
+          "title" : "Bußgeldvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR096010020BJNE009600000",
+          "paragraph" : "§ 95",
+          "title" : "Einziehung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          9
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Straf- und Bußgeldvorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR096010020BJNG002501000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR096010020BJNE009701000",
+          "paragraph" : "§ 96",
+          "title" : "Übergangsvorschrift aus Anlass von Artikel 123 Absatz 3 Buchstabe e der Verordnung (EU) 2017\/745"
+        },
+        {
+          "documentIdentifier" : "BJNR096010020BJNE009801000",
+          "paragraph" : "§ 97",
+          "title" : "Regelungen für den Fall fehlender Funktionalität der Europäischen Datenbank für Medizinprodukte nach Artikel 33 der Verordnung (EU) 2017\/745"
+        },
+        {
+          "documentIdentifier" : "BJNR096010020BJNE009901000",
+          "paragraph" : "§ 98",
+          "title" : "Übergangsregelung für das Deutsche Informations- und Datenbanksystem über Medizinprodukte"
+        },
+        {
+          "documentIdentifier" : "BJNR096010020BJNE010000000",
+          "paragraph" : "§ 99",
+          "title" : "Sonstige Übergangsregelungen für Medizinprodukte und deren Zubehör"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          10
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übergangsbestimmungen"
+    }
+  ]
+}

@@ -1,0 +1,392 @@
+{
+  "documentIdentifier" : "BJNR084200016",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR084200016BJNG000800124",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR084200016BJNG000101124",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR084200016BJNE000300000",
+              "paragraph" : "§ 1",
+              "title" : "Erläuterungsbericht"
+            },
+            {
+              "documentIdentifier" : "BJNR084200016BJNE000401118",
+              "paragraph" : "§ 2",
+              "title" : "Angemessenheitsbericht"
+            },
+            {
+              "documentIdentifier" : "BJNR084200016BJNE000500000",
+              "paragraph" : "§ 3",
+              "title" : "Vorlagefristen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Berichte des Verantwortlichen Aktuars"
+        },
+        {
+          "documentIdentifier" : "BJNR084200016BJNG000201124",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR084200016BJNE000600000",
+              "paragraph" : "§ 4",
+              "title" : "Interner jährlicher Bericht"
+            },
+            {
+              "documentIdentifier" : "BJNR084200016BJNE000700000",
+              "paragraph" : "§ 5",
+              "title" : "Formblätter für Bilanz und Gewinn-und-Verlust-Rechnung"
+            },
+            {
+              "documentIdentifier" : "BJNR084200016BJNE000800000",
+              "paragraph" : "§ 6",
+              "title" : "Gesonderte Gewinn-und-Verlust-Rechnung"
+            },
+            {
+              "documentIdentifier" : "BJNR084200016BJNE000900000",
+              "paragraph" : "§ 7",
+              "title" : "Stückzahl und Fristen für die Einreichung der Formblätter"
+            },
+            {
+              "documentIdentifier" : "BJNR084200016BJNE001000000",
+              "paragraph" : "§ 8",
+              "title" : "Formgebundene Erläuterungen"
+            },
+            {
+              "documentIdentifier" : "BJNR084200016BJNE001100000",
+              "paragraph" : "§ 9",
+              "title" : "Stückzahl und Fristen für die Einreichung der formgebundenen Erläuterungen"
+            },
+            {
+              "documentIdentifier" : "BJNR084200016BJNE001201118",
+              "paragraph" : "§ 10",
+              "title" : "Sonstige Rechnungslegungsunterlagen"
+            },
+            {
+              "documentIdentifier" : "BJNR084200016BJNE001300000",
+              "paragraph" : "§ 11",
+              "title" : "Halbjährlicher Zwischenbericht"
+            },
+            {
+              "documentIdentifier" : "BJNR084200016BJNE001401118",
+              "paragraph" : "§ 12",
+              "title" : "Anwendung der Formblätter und Nachweisungen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Berichte für die Aufsichtsbehörde"
+        },
+        {
+          "documentIdentifier" : "BJNR084200016BJNG000301124",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR084200016BJNE001500000",
+              "paragraph" : "§ 13",
+              "title" : "Anzurechnende Kapitalerträge"
+            },
+            {
+              "documentIdentifier" : "BJNR084200016BJNE001600000",
+              "paragraph" : "§ 14",
+              "title" : "Mindestzuführung zur Rückstellung für Beitragsrückerstattung"
+            },
+            {
+              "documentIdentifier" : "BJNR084200016BJNE001701118",
+              "paragraph" : "§ 15",
+              "title" : "Reduzierung der Mindestzuführung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Überschussbeteiligung"
+        },
+        {
+          "documentIdentifier" : "BJNR084200016BJNG000401124",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR084200016BJNE001801118",
+              "paragraph" : "§ 16",
+              "title" : "Anlagegrundsätze und Anlagemanagement"
+            },
+            {
+              "documentIdentifier" : "BJNR084200016BJNE001902118",
+              "paragraph" : "§ 17",
+              "title" : "Anlageformen"
+            },
+            {
+              "documentIdentifier" : "BJNR084200016BJNE002000000",
+              "paragraph" : "§ 18",
+              "title" : "Mischung"
+            },
+            {
+              "documentIdentifier" : "BJNR084200016BJNE002100000",
+              "paragraph" : "§ 19",
+              "title" : "Streuung"
+            },
+            {
+              "documentIdentifier" : "BJNR084200016BJNE002200000",
+              "paragraph" : "§ 20",
+              "title" : "Kongruenz"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Anlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR084200016BJNG000502124",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR084200016BJNE002301000",
+              "paragraph" : "§ 21",
+              "title" : "Versicherungsmathematische Bestätigung"
+            },
+            {
+              "documentIdentifier" : "BJNR084200016BJNE002401118",
+              "paragraph" : "§ 22",
+              "title" : "Versicherungsförmige Garantien"
+            },
+            {
+              "documentIdentifier" : "BJNR084200016BJNE002501118",
+              "paragraph" : "§ 23",
+              "title" : "Versicherungsmathematische Rechnungsgrundlagen bei versicherungsförmigen Garantien"
+            },
+            {
+              "documentIdentifier" : "BJNR084200016BJNE002602118",
+              "paragraph" : "§ 24",
+              "title" : "Zusagen ohne versicherungsförmige Garantien"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              5
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Deckungsrückstellung"
+        },
+        {
+          "documentIdentifier" : "BJNR084200016BJNG000601124",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR084200016BJNE002700000",
+              "paragraph" : "§ 25",
+              "title" : "Berechnung und Höhe der Solvabilitätskapitalanforderung"
+            },
+            {
+              "documentIdentifier" : "BJNR084200016BJNE002800000",
+              "paragraph" : "§ 26",
+              "title" : "Mindestkapitalanforderung und Mindestbetrag der Mindestkapitalanforderung"
+            },
+            {
+              "documentIdentifier" : "BJNR084200016BJNE002901118",
+              "paragraph" : "§ 27",
+              "title" : "Eigenmittel"
+            },
+            {
+              "documentIdentifier" : "BJNR084200016BJNE003000000",
+              "paragraph" : "§ 28",
+              "title" : "Berichtspflicht gegenüber der Aufsichtsbehörde"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              6
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Finanzielle Ausstattung"
+        },
+        {
+          "documentIdentifier" : "BJNR084200016BJNG000703118",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR084200016BJNE003101118",
+              "paragraph" : "§ 29",
+              "title" : "Anfängliche Höhe der lebenslangen Zahlung"
+            },
+            {
+              "documentIdentifier" : "BJNR084200016BJNE003201118",
+              "paragraph" : "§ 30",
+              "title" : "Mindesthöhe der lebenslangen Zahlung"
+            },
+            {
+              "documentIdentifier" : "BJNR084200016BJNE003800118",
+              "paragraph" : "§ 31",
+              "title" : "Anpassung der lebenslangen Zahlungen"
+            },
+            {
+              "documentIdentifier" : "BJNR084200016BJNE003900118",
+              "paragraph" : "§ 32",
+              "title" : "Form, Inhalt und Nachweis der Zusage des Arbeitgebers für die Erbringung der Mindesthöhe"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              7
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Lebenslange Zahlungen im Sinne des § 236 Absatz 3 des Versicherungsaufsichtsgesetzes"
+        }
+      ],
+      "title" : "Pensionsfonds"
+    },
+    {
+      "documentIdentifier" : "BJNR084200016BJNG000900124",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR084200016BJNE004100124",
+          "paragraph" : "§ 33",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR084200016BJNE004200124",
+          "paragraph" : "§ 34",
+          "title" : "Vermögensanlage"
+        },
+        {
+          "documentIdentifier" : "BJNR084200016BJNE004300124",
+          "paragraph" : "§ 35",
+          "title" : "Deckungsrückstellung"
+        },
+        {
+          "documentIdentifier" : "BJNR084200016BJNE004400124",
+          "paragraph" : "§ 36",
+          "title" : "Kapitaldeckungsgrad"
+        },
+        {
+          "documentIdentifier" : "BJNR084200016BJNE004500124",
+          "paragraph" : "§ 37",
+          "title" : "Anfängliche Höhe der lebenslangen Zahlung"
+        },
+        {
+          "documentIdentifier" : "BJNR084200016BJNE004600124",
+          "paragraph" : "§ 38",
+          "title" : "Anpassung der lebenslangen Zahlungen"
+        },
+        {
+          "documentIdentifier" : "BJNR084200016BJNE004700124",
+          "paragraph" : "§ 39",
+          "title" : "Risikomanagement"
+        },
+        {
+          "documentIdentifier" : "BJNR084200016BJNE004800124",
+          "paragraph" : "§ 40",
+          "title" : "Risikoberichte"
+        },
+        {
+          "documentIdentifier" : "BJNR084200016BJNE004900124",
+          "paragraph" : "§ 41",
+          "title" : "Laufende Informationspflichten gegenüber den Versorgungsanwärtern und Rentenempfängern"
+        },
+        {
+          "documentIdentifier" : "BJNR084200016BJNE005000124",
+          "paragraph" : "§ 42",
+          "title" : "Berichterstattung gegenüber der Aufsichtsbehörde"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Durchführung reiner Beitragszusagen in der betrieblichen Altersversorgung"
+    },
+    {
+      "documentIdentifier" : "BJNR084200016BJNG001000124",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR084200016BJNE004004128",
+          "paragraph" : "§ 43",
+          "title" : "Übergangsvorschriften zu Teil 1"
+        },
+        {
+          "documentIdentifier" : "BJNR084200016BJNE003300000",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 12 Absatz 1)"
+        },
+        {
+          "documentIdentifier" : "BJNR084200016BJNE003402118",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 12 Absatz 2 und 3)"
+        },
+        {
+          "documentIdentifier" : "BJNR084200016BJNE003500000",
+          "paragraph" : "Anlage 3",
+          "title" : "(zu § 20)"
+        },
+        {
+          "documentIdentifier" : "BJNR084200016BJNE003600000",
+          "paragraph" : "Anlage 4",
+          "title" : "(zu § 28 Absatz 3)"
+        },
+        {
+          "documentIdentifier" : "BJNR084200016BJNE003701118",
+          "paragraph" : "Anlage 5",
+          "title" : "(zu § 12 Absatz 4)Formblätter und Nachweisungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussbestimmungen"
+    }
+  ]
+}

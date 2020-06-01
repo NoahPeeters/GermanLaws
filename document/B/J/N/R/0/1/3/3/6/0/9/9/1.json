@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR013360991",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR013360991Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR013360991BJNE000101301",
+          "paragraph" : "§ 1",
+          "title" : "Änderung des Hauptfeststellungszeitraums\nfür die wirtschaftlichen Einheiten des\nBetriebsvermögens"
+        },
+        {
+          "documentIdentifier" : "BJNR013360991BJNE000201301",
+          "paragraph" : "§ 2",
+          "title" : "Verlängerung des Hauptveranlagungszeitraums\nfür die Vermögensteuer"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

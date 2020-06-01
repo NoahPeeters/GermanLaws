@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR206200994",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR206200994Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR206200994BJNE000100320",
+          "paragraph" : "Art 1",
+          "title" : "Änderung des Treuhandgesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR206200994BJNE000200320",
+          "paragraph" : "Art 2",
+          "title" : "Aufhebung der Satzung der Treuhandanstalt"
+        },
+        {
+          "documentIdentifier" : "BJNR206200994BJNE000300320",
+          "paragraph" : "Art 3",
+          "title" : "Änderung sonstiger Gesetze"
+        },
+        {
+          "documentIdentifier" : "BJNR206200994BJNE000400320",
+          "paragraph" : "Art 4",
+          "title" : "Übergangsvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR206200994BJNE000500320",
+          "paragraph" : "Art 5",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

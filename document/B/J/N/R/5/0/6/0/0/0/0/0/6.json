@@ -1,0 +1,467 @@
+{
+  "documentIdentifier" : "BJNR506000006",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR506000006BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR506000006BJNE000300000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR506000006BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR506000006BJNE000400000",
+          "paragraph" : "§ 2",
+          "title" : "Zweck der Ausbildung"
+        },
+        {
+          "documentIdentifier" : "BJNR506000006BJNE000500000",
+          "paragraph" : "§ 3",
+          "title" : "Täuschungsversuch, Rücktritt von der Prüfung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Ausbildung und Prüfung"
+    },
+    {
+      "documentIdentifier" : "BJNR506000006BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR506000006BJNE000600000",
+          "paragraph" : "§ 4",
+          "title" : "Privatflugzeugführer\n"
+        },
+        {
+          "documentIdentifier" : "BJNR506000006BJNE000700000",
+          "paragraph" : "§ 5",
+          "title" : "Klassenberechtigung für Reisemotorsegler\n"
+        },
+        {
+          "documentIdentifier" : "BJNR506000006BJNE000800000",
+          "paragraph" : "§ 6",
+          "title" : "Klassenberechtigung für einmotorige Landflugzeuge mit Kolbentriebwerk \nmit einer Höchstabflugmasse von mehr als 750 Kilogramm\n"
+        },
+        {
+          "documentIdentifier" : "BJNR506000006BJNE000900000",
+          "paragraph" : "§ 7",
+          "title" : "Erwerb der Privatpilotenlizenz (Flugzeuge) nach JAR-FCL 1 deutsch\n"
+        },
+        {
+          "documentIdentifier" : "BJNR506000006BJNE001000000",
+          "paragraph" : "§ 8",
+          "title" : "Segelflugzeugführer\n"
+        },
+        {
+          "documentIdentifier" : "BJNR506000006BJNE001100000",
+          "paragraph" : "§ 9",
+          "title" : "Klassenberechtigung für Reisemotorsegler für Inhaber der Lizenz für \nSegelflugzeugführer\n"
+        },
+        {
+          "documentIdentifier" : "BJNR506000006BJNE001200000",
+          "paragraph" : "§ 10",
+          "title" : "Freiballonführer\n"
+        },
+        {
+          "documentIdentifier" : "BJNR506000006BJNE001300000",
+          "paragraph" : "§ 11",
+          "title" : "Luftschiffführer\n"
+        },
+        {
+          "documentIdentifier" : "BJNR506000006BJNE001400000",
+          "paragraph" : "§ 12",
+          "title" : "Flugtechniker auf Hubschraubern bei den Polizeien des Bundes und der \nLänder\n"
+        },
+        {
+          "documentIdentifier" : "BJNR506000006BJNE001500000",
+          "paragraph" : "§ 13",
+          "title" : "Kunstflugberechtigung\n"
+        },
+        {
+          "documentIdentifier" : "BJNR506000006BJNE001600000",
+          "paragraph" : "§ 14",
+          "title" : "Schleppberechtigung\n"
+        },
+        {
+          "documentIdentifier" : "BJNR506000006BJNE001700000",
+          "paragraph" : "§ 15",
+          "title" : "Wolkenflugberechtigung für Segelflugzeugführer\n"
+        },
+        {
+          "documentIdentifier" : "BJNR506000006BJNE001800000",
+          "paragraph" : "§ 16",
+          "title" : "Streu- und Sprühberechtigung\n"
+        },
+        {
+          "documentIdentifier" : "BJNR506000006BJNE001900000",
+          "paragraph" : "§ 17",
+          "title" : "Berechtigung zur praktischen Ausbildung von Privatflugzeugführern nach \n§ 1 LuftPersV\n"
+        },
+        {
+          "documentIdentifier" : "BJNR506000006BJNE002000000",
+          "paragraph" : "§ 18",
+          "title" : "Berechtigung zur praktischen Ausbildung von Segelflugzeugführern\n"
+        },
+        {
+          "documentIdentifier" : "BJNR506000006BJNE002100000",
+          "paragraph" : "§ 19",
+          "title" : "Berechtigung zur praktischen Ausbildung von Freiballonführern\n"
+        },
+        {
+          "documentIdentifier" : "BJNR506000006BJNE002200000",
+          "paragraph" : "§ 20",
+          "title" : "Berechtigung zur praktischen Ausbildung von Luftschiffführern\n"
+        },
+        {
+          "documentIdentifier" : "BJNR506000006BJNE002300000",
+          "paragraph" : "§ 21",
+          "title" : "Unterschiedsschulung, Vertrautmachen"
+        },
+        {
+          "documentIdentifier" : "BJNR506000006BJNE002400000",
+          "paragraph" : "§ 22",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR506000006BJNE002501305",
+          "paragraph" : "Anlage 1A",
+          "title" : "Lehrplan für die theoretische Ausbildung zum Erwerb der Lizenz für Privatflugzeugführer"
+        },
+        {
+          "documentIdentifier" : "BJNR506000006BJNE002600000",
+          "paragraph" : "Anlage 1B",
+          "title" : "Lehrplan für die praktische Ausbildung zum Erwerb der Lizenz für \nPrivatflugzeugführer\n"
+        },
+        {
+          "documentIdentifier" : "BJNR506000006BJNE002700000",
+          "paragraph" : "Anlage 1C",
+          "title" : "Theoretische Prüfung zum Erwerb der Lizenz für Privatflugzeugführer\n"
+        },
+        {
+          "documentIdentifier" : "BJNR506000006BJNE002800000",
+          "paragraph" : "Anlage 1D",
+          "title" : "Praktische Prüfung zum Erwerb der Lizenz für Privatflugzeugführer\n"
+        },
+        {
+          "documentIdentifier" : "BJNR506000006BJNE002900000",
+          "paragraph" : "Anlage 2A",
+          "title" : "Lehrplan für die praktische Einweisung zum Erwerb der \nKlassenberechtigung für Reisemotorsegler\n"
+        },
+        {
+          "documentIdentifier" : "BJNR506000006BJNE003000000",
+          "paragraph" : "Anlage 2B",
+          "title" : "Praktische Prüfung zum Erwerb der Klassenberechtigung für \nReisemotorsegler\n"
+        },
+        {
+          "documentIdentifier" : "BJNR506000006BJNE003100000",
+          "paragraph" : "Anlage 3A",
+          "title" : "Lehrplan für die praktische Einweisung zum Erwerb der \nKlassenberechtigung für einmotorige Landflugzeuge mit Kolbentriebwerk mit \neiner Höchstabflugmasse von mehr als 750 Kilogramm\n"
+        },
+        {
+          "documentIdentifier" : "BJNR506000006BJNE003200000",
+          "paragraph" : "Anlage 3B",
+          "title" : "Praktische Prüfung zum Erwerb der Klassenberechtigung für einmotorige \nLandflugzeuge mit Kolbentriebwerk mit einer Höchstabflugmasse von mehr als 750 \nKilogramm\n"
+        },
+        {
+          "documentIdentifier" : "BJNR506000006BJNE003300000",
+          "paragraph" : "Anlage 4A",
+          "title" : "Lehrplan für die ergänzende theoretische Ausbildung zum Erwerb der \nPrivatpilotenlizenz (Flugzeuge) nach JAR-FCL 1 Deutsch\n"
+        },
+        {
+          "documentIdentifier" : "BJNR506000006BJNE003400000",
+          "paragraph" : "Anlage 4B",
+          "title" : "Lehrplan für die ergänzende praktische Ausbildung zum Erwerb der \nPrivatpilotenlizenz (Flugzeuge) nach JAR-FCL 1 Deutsch\n"
+        },
+        {
+          "documentIdentifier" : "BJNR506000006BJNE003501305",
+          "paragraph" : "Anlage 5A",
+          "title" : "Lehrplan für die theoretische Ausbildung zum Erwerb der Lizenz für Segelflugzeugführer"
+        },
+        {
+          "documentIdentifier" : "BJNR506000006BJNE003600000",
+          "paragraph" : "Anlage 5B",
+          "title" : "Lehrplan für die praktische Ausbildung zum Erwerb der Lizenz für \nSegelflugzeugführer\n"
+        },
+        {
+          "documentIdentifier" : "BJNR506000006BJNE003700000",
+          "paragraph" : "Anlage 5C",
+          "title" : "Theoretische Prüfung zum Erwerb der Lizenz für Segelflugzeugführer\n"
+        },
+        {
+          "documentIdentifier" : "BJNR506000006BJNE003800000",
+          "paragraph" : "Anlage 5D",
+          "title" : "Praktische Prüfung zum Erwerb der Lizenz für Segelflugzeugführer\n"
+        },
+        {
+          "documentIdentifier" : "BJNR506000006BJNE003900000",
+          "paragraph" : "Anlage 6A",
+          "title" : "Lehrplan für die theoretische Ausbildung zum Erwerb der \nKlassenberechtigung für Reisemotorsegler für Inhaber der Lizenz für \nSegelflugzeugführer\n"
+        },
+        {
+          "documentIdentifier" : "BJNR506000006BJNE004000000",
+          "paragraph" : "Anlage 6B",
+          "title" : "Lehrplan für die praktische Ausbildung zum Erwerb der \nKlassenberechtigung für Reisemotorsegler für Inhaber der Lizenz für \nSegelflugzeugführer\n"
+        },
+        {
+          "documentIdentifier" : "BJNR506000006BJNE004100000",
+          "paragraph" : "Anlage 6C",
+          "title" : "Theoretische Prüfung zum Erwerb der Klassenberechtigung für \nReisemotorsegler für Inhaber der Lizenz für Segelflugzeugführer\n"
+        },
+        {
+          "documentIdentifier" : "BJNR506000006BJNE004201305",
+          "paragraph" : "Anlage 7A",
+          "title" : "Lehrplan für die theoretische Ausbildung zum Erwerb der Lizenz für Freiballonführer"
+        },
+        {
+          "documentIdentifier" : "BJNR506000006BJNE004300000",
+          "paragraph" : "Anlage 7B",
+          "title" : "Lehrplan für die praktische Ausbildung zum Erwerb der Lizenz für \nFreiballonführer\n"
+        },
+        {
+          "documentIdentifier" : "BJNR506000006BJNE004400000",
+          "paragraph" : "Anlage 7C",
+          "title" : "Theoretische Prüfung zum Erwerb der Lizenz für Freiballonführer\n"
+        },
+        {
+          "documentIdentifier" : "BJNR506000006BJNE004500000",
+          "paragraph" : "Anlage 7D",
+          "title" : "Praktische Prüfung zum Erwerb der Lizenz für Freiballonführer\n"
+        },
+        {
+          "documentIdentifier" : "BJNR506000006BJNE004600000",
+          "paragraph" : "Anlage 8A",
+          "title" : "Lehrplan für die theoretische Ausbildung zum Erwerb der Lizenz für \nLuftschiffführer\n"
+        },
+        {
+          "documentIdentifier" : "BJNR506000006BJNE004700000",
+          "paragraph" : "Anlage 8B",
+          "title" : "Lehrplan für die praktische Ausbildung zum Erwerb der Lizenz für \nLuftschiffführer\n"
+        },
+        {
+          "documentIdentifier" : "BJNR506000006BJNE004800000",
+          "paragraph" : "Anlage 8C",
+          "title" : "Theoretische Prüfung zum Erwerb der Lizenz für Luftschiffführer\n"
+        },
+        {
+          "documentIdentifier" : "BJNR506000006BJNE004900000",
+          "paragraph" : "Anlage 8D",
+          "title" : "Praktische Prüfung zum Erwerb der Lizenz für Luftschiffführer\n"
+        },
+        {
+          "documentIdentifier" : "BJNR506000006BJNE005000000",
+          "paragraph" : "Anlage 9A",
+          "title" : "Lehrplan für die theoretische Ausbildung zum Erwerb der Lizenz für \nFlugtechniker auf Hubschraubern bei den Polizeien des Bundes und der Länder \n"
+        },
+        {
+          "documentIdentifier" : "BJNR506000006BJNE005100000",
+          "paragraph" : "Anlage 9B",
+          "title" : "Lehrplan für die praktische Ausbildung zum Erwerb der Lizenz für \nFlugtechniker auf Hubschraubern bei den Polizeien des Bundes und der Länder \n"
+        },
+        {
+          "documentIdentifier" : "BJNR506000006BJNE005200000",
+          "paragraph" : "Anlage 9C",
+          "title" : "Theoretische Prüfung zum Erwerb der Lizenz für \nFlugtechniker auf Hubschraubern bei den Polizeien des Bundes und der Länder \n"
+        },
+        {
+          "documentIdentifier" : "BJNR506000006BJNE005300000",
+          "paragraph" : "Anlage 9D",
+          "title" : "Praktische Prüfung zum Erwerb der Lizenz für Flugtechniker auf \nHubschraubern bei den Polizeien des Bundes und der Länder \n"
+        },
+        {
+          "documentIdentifier" : "BJNR506000006BJNE005400000",
+          "paragraph" : "Anlage 10A",
+          "title" : "Lehrplan für die praktische Ausbildung zum Erwerb der \nKunstflugberechtigung \n"
+        },
+        {
+          "documentIdentifier" : "BJNR506000006BJNE005500000",
+          "paragraph" : "Anlage 10B",
+          "title" : "Praktische Prüfung zum Erwerb der Kunstflugberechtigung \n"
+        },
+        {
+          "documentIdentifier" : "BJNR506000006BJNE005600000",
+          "paragraph" : "Anlage 11",
+          "title" : "Lehrplan für die praktische Einweisung zum Erwerb der \nSchleppberechtigung \n"
+        },
+        {
+          "documentIdentifier" : "BJNR506000006BJNE005700000",
+          "paragraph" : "Anlage 12A",
+          "title" : "Lehrplan für die praktische Ausbildung zum Erwerb der \nWolkenflugberechtigung für Segelflugzeugführer \n"
+        },
+        {
+          "documentIdentifier" : "BJNR506000006BJNE005800000",
+          "paragraph" : "Anlage 12B",
+          "title" : "Praktische Prüfung zum Erwerb der \nWolkenflugberechtigung für Segelflugzeugführer \n"
+        },
+        {
+          "documentIdentifier" : "BJNR506000006BJNE005900000",
+          "paragraph" : "Anlage 13A",
+          "title" : "Lehrplan für die theoretische Ausbildung zum Erwerb der \nStreu- und Sprühberechtigung \n"
+        },
+        {
+          "documentIdentifier" : "BJNR506000006BJNE006000000",
+          "paragraph" : "Anlage 13B",
+          "title" : "Lehrplan für die praktische Ausbildung zum Erwerb der \nStreu- und Sprühberechtigung \n"
+        },
+        {
+          "documentIdentifier" : "BJNR506000006BJNE006100000",
+          "paragraph" : "Anlage 13C",
+          "title" : "Theoretische Prüfung zum Erwerb der Streu- und Sprühberechtigung \n"
+        },
+        {
+          "documentIdentifier" : "BJNR506000006BJNE006200000",
+          "paragraph" : "Anlage 13D",
+          "title" : "Praktische Prüfung zum Erwerb der Streu- und Sprühberechtigung \n"
+        },
+        {
+          "documentIdentifier" : "BJNR506000006BJNE006300000",
+          "paragraph" : "Anlage 14A",
+          "title" : "Theoretische Auswahlprüfung zum Erwerb der Berechtigung zur praktischen \nAusbildung von Privatflugzeugführern \n"
+        },
+        {
+          "documentIdentifier" : "BJNR506000006BJNE006400000",
+          "paragraph" : "Anlage 14B",
+          "title" : "Praktische Auswahlprüfung zum Erwerb der Berechtigung zur praktischen \nAusbildung von Privatflugzeugführern \n"
+        },
+        {
+          "documentIdentifier" : "BJNR506000006BJNE006500000",
+          "paragraph" : "Anlage 14C",
+          "title" : "Lehrplan für die theoretische Ausbildung zum Erwerb der Berechtigung zur \npraktischen Ausbildung von Privatflugzeugführern \n"
+        },
+        {
+          "documentIdentifier" : "BJNR506000006BJNE006600000",
+          "paragraph" : "Anlage 14D",
+          "title" : "Lehrplan für die praktische Ausbildung zum Erwerb der Berechtigung zur \npraktischen Ausbildung von Privatflugzeugführern \n"
+        },
+        {
+          "documentIdentifier" : "BJNR506000006BJNE006700000",
+          "paragraph" : "Anlage 14E",
+          "title" : "Theoretische Prüfung zum Erwerb der Berechtigung zur praktischen \nAusbildung von Privatflugzeugführern \n"
+        },
+        {
+          "documentIdentifier" : "BJNR506000006BJNE006800000",
+          "paragraph" : "Anlage 14F",
+          "title" : "Praktische Prüfung zum Erwerb der Berechtigung zur praktischen \nAusbildung von Privatflugzeugführern \n"
+        },
+        {
+          "documentIdentifier" : "BJNR506000006BJNE006900000",
+          "paragraph" : "Anlage 15A",
+          "title" : "Theoretische Auswahlprüfung zum Erwerb der Berechtigung zur praktischen \nAusbildung von Segelflugzeugführern \n"
+        },
+        {
+          "documentIdentifier" : "BJNR506000006BJNE007000000",
+          "paragraph" : "Anlage 15B",
+          "title" : "Praktische Auswahlprüfung zum Erwerb der Berechtigung zur praktischen \nAusbildung von Segelflugzeugführern \n"
+        },
+        {
+          "documentIdentifier" : "BJNR506000006BJNE007100000",
+          "paragraph" : "Anlage 15C",
+          "title" : "Lehrplan für die theoretische Ausbildung zum Erwerb der Berechtigung zur \npraktischen Ausbildung von Segelflugzeugführern \n"
+        },
+        {
+          "documentIdentifier" : "BJNR506000006BJNE007200000",
+          "paragraph" : "Anlage 15D",
+          "title" : "Lehrplan für die praktische Ausbildung zum Erwerb der Berechtigung zur \npraktischen Ausbildung von Segelflugzeugführern \n"
+        },
+        {
+          "documentIdentifier" : "BJNR506000006BJNE007300000",
+          "paragraph" : "Anlage 15E",
+          "title" : "Theoretische Prüfung zum Erwerb der Berechtigung zur praktischen \nAusbildung von Segelflugzeugführern \n"
+        },
+        {
+          "documentIdentifier" : "BJNR506000006BJNE007400000",
+          "paragraph" : "Anlage 15F",
+          "title" : "Praktische Prüfung zum Erwerb der Berechtigung zur praktischen \nAusbildung von Segelflugzeugführern \n"
+        },
+        {
+          "documentIdentifier" : "BJNR506000006BJNE007500000",
+          "paragraph" : "Anlage 16A",
+          "title" : "Theoretische Auswahlprüfung zum Erwerb der Berechtigung zur praktischen \nAusbildung von Freiballonführern \n"
+        },
+        {
+          "documentIdentifier" : "BJNR506000006BJNE007600000",
+          "paragraph" : "Anlage 16B",
+          "title" : "Praktische Auswahlprüfung zum Erwerb der Berechtigung zur praktischen \nAusbildung von Freiballonführern \n"
+        },
+        {
+          "documentIdentifier" : "BJNR506000006BJNE007700000",
+          "paragraph" : "Anlage 16C",
+          "title" : "Lehrplan für die theoretische Ausbildung zum Erwerb der Berechtigung zur \npraktischen Ausbildung von Freiballonführern \n"
+        },
+        {
+          "documentIdentifier" : "BJNR506000006BJNE007800000",
+          "paragraph" : "Anlage 16D",
+          "title" : "Lehrplan für die praktische Ausbildung zum Erwerb der Berechtigung zur \npraktischen Ausbildung von Freiballonführern \n"
+        },
+        {
+          "documentIdentifier" : "BJNR506000006BJNE007900000",
+          "paragraph" : "Anlage 16E",
+          "title" : "Theoretische Prüfung zum Erwerb der Berechtigung zur praktischen \nAusbildung von Freiballonführern \n"
+        },
+        {
+          "documentIdentifier" : "BJNR506000006BJNE008000000",
+          "paragraph" : "Anlage 16F",
+          "title" : "Praktische Prüfung zum Erwerb der Berechtigung zur praktischen \nAusbildung von Freiballonführern \n"
+        },
+        {
+          "documentIdentifier" : "BJNR506000006BJNE008100000",
+          "paragraph" : "Anlage 17A",
+          "title" : "Theoretische Auswahlprüfung zum Erwerb der Berechtigung zur praktischen \nAusbildung von Luftschiffführern \n"
+        },
+        {
+          "documentIdentifier" : "BJNR506000006BJNE008200000",
+          "paragraph" : "Anlage 17B",
+          "title" : "Praktische Auswahlprüfung zum Erwerb der Berechtigung zur praktischen \nAusbildung von Luftschiffführern \n"
+        },
+        {
+          "documentIdentifier" : "BJNR506000006BJNE008300000",
+          "paragraph" : "Anlage 17C",
+          "title" : "Lehrplan für die theoretische Ausbildung zum Erwerb der Berechtigung zur \npraktischen Ausbildung von Luftschiffführern \n"
+        },
+        {
+          "documentIdentifier" : "BJNR506000006BJNE008400000",
+          "paragraph" : "Anlage 17D",
+          "title" : "Lehrplan für die praktische Ausbildung zum Erwerb der Berechtigung zur \npraktischen Ausbildung von Luftschiffführern \n"
+        },
+        {
+          "documentIdentifier" : "BJNR506000006BJNE008500000",
+          "paragraph" : "Anlage 17E",
+          "title" : "Theoretische Prüfung zum Erwerb der Berechtigung zur praktischen \nAusbildung von Luftschiffführern \n"
+        },
+        {
+          "documentIdentifier" : "BJNR506000006BJNE008600000",
+          "paragraph" : "Anlage 17F",
+          "title" : "Praktische Prüfung zum Erwerb der Berechtigung zur praktischen \nAusbildung von Luftschiffführern \n"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Lizenzen und Berechtigungen für Luftfahrer"
+    }
+  ]
+}

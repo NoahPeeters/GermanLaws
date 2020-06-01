@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR002320988",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR002320988Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR002320988BJNE000500326",
+          "paragraph" : "Anlage 1",
+          "title" : "Nationales Gütezeichen der Republik Irak"
+        },
+        {
+          "documentIdentifier" : "BJNR002320988BJNE000600326",
+          "paragraph" : "Anlage 2",
+          "title" : "Prüf- und Gewährzeichen der Republik Zypern für frische, zum Export bestimmte landwirtschaftliche Erzeugnisse"
+        },
+        {
+          "documentIdentifier" : "BJNR002320988BJNE000700326",
+          "paragraph" : "Anlage 3",
+          "title" : "Kennzeichen der International Joint Commission"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

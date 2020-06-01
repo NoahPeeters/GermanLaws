@@ -1,0 +1,73 @@
+{
+  "documentIdentifier" : "BJNR001490962",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR001490962BJNG000100325",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR001490962BJNE000500325",
+          "paragraph" : "§ 1",
+          "title" : "Versorgungsverpflichtungen"
+        },
+        {
+          "documentIdentifier" : "BJNR001490962BJNE000600325",
+          "paragraph" : "§ 2",
+          "title" : "Berechnung der Rückstellung"
+        },
+        {
+          "documentIdentifier" : "BJNR001490962BJNE000700325",
+          "paragraph" : "§ 3",
+          "title" : "Berechnung und Prüfung der Gesamtrückstellung"
+        },
+        {
+          "documentIdentifier" : "BJNR001490962BJNE000800325",
+          "paragraph" : "§ 4",
+          "title" : "Einstellung in die Umstellungsrechnung oder Altbankenrechnung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Rückstellungen auf Grund des Gesetzes vom 21. Dezember 1960"
+    },
+    {
+      "documentIdentifier" : "BJNR001490962BJNG000200325",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Abschnitt II"
+    },
+    {
+      "documentIdentifier" : "BJNR001490962BJNG000300325",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR001490962BJNE001000325",
+          "paragraph" : "§ 6",
+          "title" : "Berlin-Klausel"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlußvorschriften"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "documentIdentifier" : "BJNR635700014",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR635700014BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR635700014BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Anwendungsbereich"
+    },
+    {
+      "documentIdentifier" : "BJNR635700014BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR635700014BJNE000302119",
+          "paragraph" : "§ 2",
+          "title" : "Schaffung von Pufferzonen entlang von Wasserläufen"
+        },
+        {
+          "documentIdentifier" : "BJNR635700014BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Einhaltung von Genehmigungsverfahren für die Verwendung von Wasser zur Bewässerung"
+        },
+        {
+          "documentIdentifier" : "BJNR635700014BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Schutz des Grundwassers gegen Verschmutzung"
+        },
+        {
+          "documentIdentifier" : "BJNR635700014BJNE000605123",
+          "paragraph" : "§ 5",
+          "title" : "Mindestanforderungen an die Bodenbedeckung"
+        },
+        {
+          "documentIdentifier" : "BJNR635700014BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Mindestpraktiken der Bodenbearbeitung zur Begrenzung von Erosion"
+        },
+        {
+          "documentIdentifier" : "BJNR635700014BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Erhaltung des Anteils der organischen Substanz im Boden"
+        },
+        {
+          "documentIdentifier" : "BJNR635700014BJNE000901360",
+          "paragraph" : "§ 8",
+          "title" : "Keine Beseitigung von Landschaftselementen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Anforderungen an die Erhaltung von Flächen in gutem landwirtschaftlichen und ökologischen Zustand"
+    },
+    {
+      "documentIdentifier" : "BJNR635700014BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR635700014BJNE001000000",
+          "paragraph" : "§ 9",
+          "title" : "Kontrollvorschriften"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Kontroll- und Sanktionsvorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR635700014BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR635700014BJNE001100000",
+          "paragraph" : "§ 10",
+          "title" : "Übergangsregelungen"
+        },
+        {
+          "documentIdentifier" : "BJNR635700014BJNE001200000",
+          "paragraph" : "§ 11",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR635700014BJNE001400000",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 4)"
+        },
+        {
+          "documentIdentifier" : "BJNR635700014BJNE001500000",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 6 Absatz 1 Satz 3 Nummer 1, Absatz 2 und 3)"
+        },
+        {
+          "documentIdentifier" : "BJNR635700014BJNE001600000",
+          "paragraph" : "Anlage 3",
+          "title" : "(zu § 6 Absatz 1 Satz 2 Nummer 2 und Absatz 4)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussbestimmungen"
+    }
+  ]
+}

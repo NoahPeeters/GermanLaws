@@ -1,0 +1,150 @@
+{
+  "documentIdentifier" : "BJNR010599989",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR010599989BJNE000100333",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          0
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "-"
+    },
+    {
+      "documentIdentifier" : "BJNR010599989BJNG000100333",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Art 1 bis 3"
+    },
+    {
+      "documentIdentifier" : "BJNR010599989BJNG000200333",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR010599989BJNE000200333",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR010599989BJNE000300333",
+              "laws" : [
+
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  4
+                ]
+              },
+              "subsections" : [
+                {
+                  "documentIdentifier" : "BJNR010599989BJNE000400333",
+                  "laws" : [
+
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      4
+                    ]
+                  },
+                  "subsections" : [
+                    {
+                      "documentIdentifier" : "BJNR010599989BJNE000500333",
+                      "laws" : [
+
+                      ],
+                      "sectionNumber" : {
+                        "numbers" : [
+                          4
+                        ]
+                      },
+                      "subsections" : [
+                        {
+                          "documentIdentifier" : "BJNR010599989BJNE000602307",
+                          "laws" : [
+
+                          ],
+                          "sectionNumber" : {
+                            "numbers" : [
+                              4
+                            ]
+                          },
+                          "subsections" : [
+
+                          ],
+                          "title" : "Art 4"
+                        }
+                      ],
+                      "title" : "Art 4"
+                    }
+                  ],
+                  "title" : "Art 4"
+                }
+              ],
+              "title" : "Art 4"
+            }
+          ],
+          "title" : "Art 4"
+        }
+      ],
+      "title" : "Kronzeugenregelung bei terroristischen Straftaten"
+    },
+    {
+      "documentIdentifier" : "BJNR010599989BJNG000501311",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Kronzeugenregelung bei organisiert begangenen Straftaten"
+    },
+    {
+      "documentIdentifier" : "BJNR010599989BJNG000400333",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inkrafttreten"
+    }
+  ]
+}

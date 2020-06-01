@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR011360988",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR011360988Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR011360988BJNE000100304",
+          "paragraph" : "§ 1",
+          "title" : "Aufhebung des Rechts der Gemeinnützigkeit im\nWohnungswesen"
+        },
+        {
+          "documentIdentifier" : "BJNR011360988BJNE000200304",
+          "paragraph" : "§ 2",
+          "title" : "Maßnahmen bei Verstößen gegen Vorschriften des\nWohnungsgemeinnützigkeitsrechts"
+        },
+        {
+          "documentIdentifier" : "BJNR011360988BJNE000300304",
+          "paragraph" : "§ 3",
+          "title" : "Sicherstellung der Pensionszusagen und der\nVerpflichtung aus Sozialplänen und aus betrieblichen\nVereinbarungen"
+        },
+        {
+          "documentIdentifier" : "BJNR011360988BJNE000600304",
+          "paragraph" : "§ 6",
+          "title" : "Berlin-Klausel"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

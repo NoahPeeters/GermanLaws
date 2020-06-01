@@ -1,0 +1,107 @@
+{
+  "documentIdentifier" : "BJNR000230950",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR000230950BJNG000100377",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR000230950BJNE000601377",
+          "paragraph" : "§ 1",
+          "title" : "Amtliche Verkündungs- und Bekanntmachungsorgane des Bundes"
+        },
+        {
+          "documentIdentifier" : "BJNR000230950BJNE000105377",
+          "paragraph" : "§ 2",
+          "title" : "Verkündung von Rechtsverordnungen"
+        },
+        {
+          "documentIdentifier" : "BJNR000230950BJNE000207377",
+          "paragraph" : "§ 3",
+          "title" : "Verkündung von Verkehrstarifen"
+        },
+        {
+          "documentIdentifier" : "BJNR000230950BJNE000302377",
+          "paragraph" : "§ 4",
+          "title" : "Inkrafttreten der Rechtsverordnungen und Verkehrstarife"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Verkündungen und Bekanntmachungen des Bundes"
+    },
+    {
+      "documentIdentifier" : "BJNR000230950BJNG000200377",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR000230950BJNE000405377",
+          "paragraph" : "§ 5",
+          "title" : "Bundesanzeiger"
+        },
+        {
+          "documentIdentifier" : "BJNR000230950BJNE000501377",
+          "paragraph" : "§ 6",
+          "title" : "Zugang zum Bundesanzeiger"
+        },
+        {
+          "documentIdentifier" : "BJNR000230950BJNE000701377",
+          "paragraph" : "§ 7",
+          "title" : "Sicherheitsanforderungen"
+        },
+        {
+          "documentIdentifier" : "BJNR000230950BJNE000801377",
+          "paragraph" : "§ 8",
+          "title" : "Ersatzverkündung, Ersatzbekanntmachung"
+        },
+        {
+          "documentIdentifier" : "BJNR000230950BJNE000901377",
+          "paragraph" : "§ 9",
+          "title" : "Verordnungsermächtigung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Verkündungen und Bekanntmachungen im Bundesanzeiger"
+    },
+    {
+      "documentIdentifier" : "BJNR000230950BJNG000300377",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR000230950BJNE001000377",
+          "paragraph" : "§ 10",
+          "title" : "Ergänzende Verkündungen und Bekanntmachungen"
+        },
+        {
+          "documentIdentifier" : "BJNR000230950BJNE001100377",
+          "paragraph" : "§ 11",
+          "title" : "Berichtigungen"
+        },
+        {
+          "documentIdentifier" : "BJNR000230950BJNE001200377",
+          "paragraph" : "§ 12",
+          "title" : "Übergangsvorschrift"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Sonstige Bestimmungen"
+    }
+  ]
+}

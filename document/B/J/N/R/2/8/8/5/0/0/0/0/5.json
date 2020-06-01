@@ -1,0 +1,74 @@
+{
+  "documentIdentifier" : "BJNR288500005",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR288500005Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR288500005BJNE000201301",
+          "paragraph" : "§ 1",
+          "title" : "Register"
+        },
+        {
+          "documentIdentifier" : "BJNR288500005BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Inhalt und Zweck des Registers"
+        },
+        {
+          "documentIdentifier" : "BJNR288500005BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Übermittlung von Daten an das Register"
+        },
+        {
+          "documentIdentifier" : "BJNR288500005BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Zu speichernde Daten"
+        },
+        {
+          "documentIdentifier" : "BJNR288500005BJNE000601125",
+          "paragraph" : "§ 5",
+          "title" : "Berichtigung, Löschung und Einschränkung der Verarbeitung"
+        },
+        {
+          "documentIdentifier" : "BJNR288500005BJNE000706125",
+          "paragraph" : "§ 6",
+          "title" : "Auskunft an Behörden"
+        },
+        {
+          "documentIdentifier" : "BJNR288500005BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Automatisiertes Anfrage- und Auskunftsverfahren; automatisiertes\nAbrufverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR288500005BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Auskunft bei Anfragen mit ähnlichen oder unvollständigen Angaben"
+        },
+        {
+          "documentIdentifier" : "BJNR288500005BJNE001001125",
+          "paragraph" : "§ 9",
+          "title" : "Auskunft an betroffene Personen"
+        },
+        {
+          "documentIdentifier" : "BJNR288500005BJNE001100000",
+          "paragraph" : "§ 10",
+          "title" : "Organisatorische und technische Leitlinien und Maßnahmen"
+        },
+        {
+          "documentIdentifier" : "BJNR288500005BJNE001200000",
+          "paragraph" : "§ 11",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

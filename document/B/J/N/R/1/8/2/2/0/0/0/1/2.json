@@ -1,0 +1,64 @@
+{
+  "documentIdentifier" : "BJNR182200012",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR182200012Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR182200012BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Formular für den Antrag auf Erlass einer richterlichen Durchsuchungsanordnung"
+        },
+        {
+          "documentIdentifier" : "BJNR182200012BJNE000301311",
+          "paragraph" : "§ 2",
+          "title" : "Formulare für den Antrag auf Erlass eines Pfändungs- und Überweisungsbeschlusses"
+        },
+        {
+          "documentIdentifier" : "BJNR182200012BJNE001000311",
+          "paragraph" : "§ 3",
+          "title" : "Zulässige Abweichungen; Einreichung des Antrags"
+        },
+        {
+          "documentIdentifier" : "BJNR182200012BJNE001100311",
+          "paragraph" : "§ 4",
+          "title" : "Formulare in elektronischer Form"
+        },
+        {
+          "documentIdentifier" : "BJNR182200012BJNE000401311",
+          "paragraph" : "§ 5",
+          "title" : "Verbindlichkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR182200012BJNE000501311",
+          "paragraph" : "§ 6",
+          "title" : "Übergangsregelung"
+        },
+        {
+          "documentIdentifier" : "BJNR182200012BJNE000701311",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 1)"
+        },
+        {
+          "documentIdentifier" : "BJNR182200012BJNE000801311",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 2 Nummer 2)"
+        },
+        {
+          "documentIdentifier" : "BJNR182200012BJNE000901311",
+          "paragraph" : "Anlage 3",
+          "title" : "(zu § 2 Nummer 1)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

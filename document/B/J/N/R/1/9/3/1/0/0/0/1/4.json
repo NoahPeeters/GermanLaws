@@ -1,0 +1,69 @@
+{
+  "documentIdentifier" : "BJNR193100014",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR193100014Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR193100014BJNE000101119",
+          "paragraph" : "§ 1",
+          "title" : "Zweck und Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR193100014BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Betriebsdaten"
+        },
+        {
+          "documentIdentifier" : "BJNR193100014BJNE000301119",
+          "paragraph" : "§ 3",
+          "title" : "Verarbeitung von Daten durch Zahlstellen und Fachüberwachungsbehörden"
+        },
+        {
+          "documentIdentifier" : "BJNR193100014BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Übermittlung von Daten durch die Zahlstelle an die Bescheinigende Stelle"
+        },
+        {
+          "documentIdentifier" : "BJNR193100014BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Übermittlung von Daten durch die Zahlstelle zum Zwecke des Informationsaustausches im Rahmen des Rechnungsabschlusses"
+        },
+        {
+          "documentIdentifier" : "BJNR193100014BJNE000601119",
+          "paragraph" : "§ 6",
+          "title" : "Kontrolle von Erzeugerorganisationen durch die Zahlstellen"
+        },
+        {
+          "documentIdentifier" : "BJNR193100014BJNE000701119",
+          "paragraph" : "§ 7",
+          "title" : "Löschungsfristen"
+        },
+        {
+          "documentIdentifier" : "BJNR193100014BJNE000801119",
+          "paragraph" : "§ 8",
+          "title" : "Abweichendes Landesrecht"
+        },
+        {
+          "documentIdentifier" : "BJNR193100014BJNE000902119",
+          "paragraph" : "§ 9",
+          "title" : "Ermächtigungen"
+        },
+        {
+          "documentIdentifier" : "BJNR193100014BJNE001003119",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 2)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

@@ -1,0 +1,615 @@
+{
+  "documentIdentifier" : "BJNR016330985",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR016330985BJNG000101310",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR016330985BJNG000201310",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR016330985BJNE001808377",
+              "paragraph" : "§ 1",
+              "title" : "Anwendungsbereich"
+            },
+            {
+              "documentIdentifier" : "BJNR016330985BJNE001911377",
+              "paragraph" : "§ 2",
+              "title" : "Begriffsbestimmungen"
+            },
+            {
+              "documentIdentifier" : "BJNR016330985BJNE002012301",
+              "paragraph" : "§ 3",
+              "title" : "Inverkehrbringen von Saatgut"
+            },
+            {
+              "documentIdentifier" : "BJNR016330985BJNE008407377",
+              "paragraph" : "§ 3a",
+              "title" : "Inverkehrbringen von Vermehrungsmaterial"
+            },
+            {
+              "documentIdentifier" : "BJNR016330985BJNE009204301",
+              "paragraph" : "§ 3b",
+              "title" : "Abgabe von Saatgut in besonderen Fällen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Allgemeine Vorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR016330985BJNG000301310",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR016330985BJNE002110301",
+              "paragraph" : "§ 4",
+              "title" : "Voraussetzungen für die Anerkennung"
+            },
+            {
+              "documentIdentifier" : "BJNR016330985BJNE002209301",
+              "paragraph" : "§ 5",
+              "title" : "Ausführungsvorschriften für die Anerkennung"
+            },
+            {
+              "documentIdentifier" : "BJNR016330985BJNE002302310",
+              "paragraph" : "§ 6",
+              "title" : "Inverkehrbringen vor\nAbschluss der Prüfung auf Keimfähigkeit"
+            },
+            {
+              "documentIdentifier" : "BJNR016330985BJNE002403310",
+              "paragraph" : "§ 7",
+              "title" : "Prüfung des Feldbestandes und der Beschaffenheit des Saatgutes einer nicht zugelassenen Sorte"
+            },
+            {
+              "documentIdentifier" : "BJNR016330985BJNE002501310",
+              "paragraph" : "§ 8",
+              "title" : "Verpflichtungen des Saatguterzeugers"
+            },
+            {
+              "documentIdentifier" : "BJNR016330985BJNE002605301",
+              "paragraph" : "§ 9",
+              "title" : "Nachprüfung"
+            },
+            {
+              "documentIdentifier" : "BJNR016330985BJNE002709301",
+              "paragraph" : "§ 10",
+              "title" : "Im Ausland erzeugtes Saatgut"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Anerkanntes Saatgut"
+        },
+        {
+          "documentIdentifier" : "BJNR016330985BJNG000401310",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR016330985BJNE002808301",
+              "paragraph" : "§ 11",
+              "title" : "Ermächtigungen"
+            },
+            {
+              "documentIdentifier" : "BJNR016330985BJNE002906301",
+              "paragraph" : "§ 12",
+              "title" : "Standardsaatgut"
+            },
+            {
+              "documentIdentifier" : "BJNR016330985BJNE003005301",
+              "paragraph" : "§ 13",
+              "title" : "Handelssaatgut"
+            },
+            {
+              "documentIdentifier" : "BJNR016330985BJNE003101310",
+              "paragraph" : "§ 14",
+              "title" : "Behelfssaatgut"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              3
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR016330985BJNG001701310",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR016330985BJNE008504301",
+                  "paragraph" : "§ 14a",
+                  "title" : "Ausführungsvorschriften für Vermehrungsmaterial"
+                },
+                {
+                  "documentIdentifier" : "BJNR016330985BJNE008607377",
+                  "paragraph" : "§ 14b",
+                  "title" : "Anerkennung von Vermehrungsmaterial von Obst"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  1,
+                  3
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Vermehrungsmaterial"
+            }
+          ],
+          "title" : "Standardsaatgut, Handelssaatgut und Behelfssaatgut"
+        },
+        {
+          "documentIdentifier" : "BJNR016330985BJNG000502310",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR016330985BJNE003209301",
+              "paragraph" : "§ 15",
+              "title" : "Einfuhr von Saatgut"
+            },
+            {
+              "documentIdentifier" : "BJNR016330985BJNE008706377",
+              "paragraph" : "§ 15a",
+              "title" : "Einfuhr von Vermehrungsmaterial"
+            },
+            {
+              "documentIdentifier" : "BJNR016330985BJNE003309301",
+              "paragraph" : "§ 16",
+              "title" : "Gleichstellungen"
+            },
+            {
+              "documentIdentifier" : "BJNR016330985BJNE003406301",
+              "paragraph" : "§ 17",
+              "title" : "Einfuhrverbot für Pflanzgut von Kartoffel"
+            },
+            {
+              "documentIdentifier" : "BJNR016330985BJNE003506377",
+              "paragraph" : "§ 18",
+              "title" : "Ausnahmen"
+            },
+            {
+              "documentIdentifier" : "BJNR016330985BJNE003607301",
+              "paragraph" : "§ 19",
+              "title" : "Überwachung der Einfuhr"
+            },
+            {
+              "documentIdentifier" : "BJNR016330985BJNE008805301",
+              "paragraph" : "§ 19a",
+              "title" : "Ausfuhr von Vermehrungsmaterial"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Einfuhr und Ausfuhr"
+        },
+        {
+          "documentIdentifier" : "BJNR016330985BJNG000601310",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR016330985BJNE003704377",
+              "paragraph" : "§ 20",
+              "title" : "Angabe der Sortenbezeichnung"
+            },
+            {
+              "documentIdentifier" : "BJNR016330985BJNE003804310",
+              "paragraph" : "§ 21",
+              "title" : "Verpackung und Kennzeichnung von Saatgut"
+            },
+            {
+              "documentIdentifier" : "BJNR016330985BJNE003906301",
+              "paragraph" : "§ 22",
+              "title" : "Ausführungsvorschriften für die Verpackung und Kennzeichnung von Saatgut"
+            },
+            {
+              "documentIdentifier" : "BJNR016330985BJNE008904301",
+              "paragraph" : "§ 22a",
+              "title" : "Verpackung und Kennzeichnung von Vermehrungsmaterial"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              5
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Kennzeichnung, Verpackung"
+        },
+        {
+          "documentIdentifier" : "BJNR016330985BJNG000701310",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR016330985BJNE004003310",
+              "paragraph" : "§ 23",
+              "title" : "Verbot der Irreführung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              6
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Verbot der Irreführung, Gewährleistung"
+        },
+        {
+          "documentIdentifier" : "BJNR016330985BJNG000801310",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR016330985BJNE004206301",
+              "paragraph" : "§ 25",
+              "title" : "Zusätzliche Anforderungen für das Inverkehrbringen"
+            },
+            {
+              "documentIdentifier" : "BJNR016330985BJNE004307301",
+              "paragraph" : "§ 26",
+              "title" : "Saatgutmischungen"
+            },
+            {
+              "documentIdentifier" : "BJNR016330985BJNE004406301",
+              "paragraph" : "§ 27",
+              "title" : "Anzeige- und Aufzeichnungspflicht"
+            },
+            {
+              "documentIdentifier" : "BJNR016330985BJNE004502310",
+              "paragraph" : "§ 28",
+              "title" : "Durchführung in den Ländern"
+            },
+            {
+              "documentIdentifier" : "BJNR016330985BJNE004601310",
+              "paragraph" : "§ 29",
+              "title" : "Geschlossene Anbaugebiete"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              7
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Sonstige Vorschriften der Saatgutordnung"
+        }
+      ],
+      "title" : "Saatgutordnung"
+    },
+    {
+      "documentIdentifier" : "BJNR016330985BJNG000901310",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR016330985BJNG001001310",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR016330985BJNE004711301",
+              "paragraph" : "§ 30",
+              "title" : "Voraussetzungen für die Sortenzulassung"
+            },
+            {
+              "documentIdentifier" : "BJNR016330985BJNE004803310",
+              "paragraph" : "§ 31",
+              "title" : "Unterscheidbarkeit"
+            },
+            {
+              "documentIdentifier" : "BJNR016330985BJNE004902310",
+              "paragraph" : "§ 32",
+              "title" : "Homogenität"
+            },
+            {
+              "documentIdentifier" : "BJNR016330985BJNE005002310",
+              "paragraph" : "§ 33",
+              "title" : "Beständigkeit"
+            },
+            {
+              "documentIdentifier" : "BJNR016330985BJNE005102310",
+              "paragraph" : "§ 34",
+              "title" : "Landeskultureller Wert"
+            },
+            {
+              "documentIdentifier" : "BJNR016330985BJNE005209377",
+              "paragraph" : "§ 35",
+              "title" : "Sortenbezeichnung"
+            },
+            {
+              "documentIdentifier" : "BJNR016330985BJNE005306301",
+              "paragraph" : "§ 36",
+              "title" : "Dauer der Sortenzulassung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Sortenzulassung"
+        },
+        {
+          "documentIdentifier" : "BJNR016330985BJNG001101310",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR016330985BJNE005401310",
+              "paragraph" : "§ 37",
+              "title" : "Aufgaben"
+            },
+            {
+              "documentIdentifier" : "BJNR016330985BJNE005502310",
+              "paragraph" : "§ 38",
+              "title" : "Sortenausschüsse und Widerspruchsausschüsse"
+            },
+            {
+              "documentIdentifier" : "BJNR016330985BJNE005601310",
+              "paragraph" : "§ 39",
+              "title" : "Zusammensetzung der Sortenausschüsse"
+            },
+            {
+              "documentIdentifier" : "BJNR016330985BJNE005705301",
+              "paragraph" : "§ 40",
+              "title" : "Zusammensetzung der Widerspruchsausschüsse"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Bundessortenamt"
+        },
+        {
+          "documentIdentifier" : "BJNR016330985BJNG001201310",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR016330985BJNE005801310",
+              "paragraph" : "§ 41",
+              "title" : "Förmliches Verwaltungsverfahren"
+            },
+            {
+              "documentIdentifier" : "BJNR016330985BJNE005910301",
+              "paragraph" : "§ 42",
+              "title" : "Antrag auf Sortenzulassung"
+            },
+            {
+              "documentIdentifier" : "BJNR016330985BJNE006001310",
+              "paragraph" : "§ 43",
+              "title" : "Bekanntmachung des Antrags auf Sortenzulassung"
+            },
+            {
+              "documentIdentifier" : "BJNR016330985BJNE006103310",
+              "paragraph" : "§ 44",
+              "title" : "Prüfung"
+            },
+            {
+              "documentIdentifier" : "BJNR016330985BJNE006202310",
+              "paragraph" : "§ 45",
+              "title" : "Säumnis"
+            },
+            {
+              "documentIdentifier" : "BJNR016330985BJNE006301310",
+              "paragraph" : "§ 46",
+              "title" : "Antrag auf Eintragung als weiterer Züchter"
+            },
+            {
+              "documentIdentifier" : "BJNR016330985BJNE006405310",
+              "paragraph" : "§ 47",
+              "title" : "Sortenliste"
+            },
+            {
+              "documentIdentifier" : "BJNR016330985BJNE006501310",
+              "paragraph" : "§ 48",
+              "title" : "Übernahme der Erhaltungszüchtung"
+            },
+            {
+              "documentIdentifier" : "BJNR016330985BJNE006601310",
+              "paragraph" : "§ 49",
+              "title" : "Einsichtnahme"
+            },
+            {
+              "documentIdentifier" : "BJNR016330985BJNE006702310",
+              "paragraph" : "§ 50",
+              "title" : "Sortenerhaltung"
+            },
+            {
+              "documentIdentifier" : "BJNR016330985BJNE009301310",
+              "paragraph" : "§ 50a",
+              "title" : "Sortenerhaltung bei Rebsorten"
+            },
+            {
+              "documentIdentifier" : "BJNR016330985BJNE006802310",
+              "paragraph" : "§ 51",
+              "title" : "Änderung der Sortenbezeichnung"
+            },
+            {
+              "documentIdentifier" : "BJNR016330985BJNE006905377",
+              "paragraph" : "§ 52",
+              "title" : "Beendigung der Sortenzulassung"
+            },
+            {
+              "documentIdentifier" : "BJNR016330985BJNE007005301",
+              "paragraph" : "§ 53",
+              "title" : "Ermächtigung zum Erlass von Verfahrensvorschriften"
+            },
+            {
+              "documentIdentifier" : "BJNR016330985BJNE007114301",
+              "paragraph" : "§ 54",
+              "title" : "Gebühren und Auslagen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Verfahren vor dem Bundessortenamt"
+        },
+        {
+          "documentIdentifier" : "BJNR016330985BJNG001302310",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "In anderen Vertragsstaaten eingetragene Sorten"
+        }
+      ],
+      "title" : "Sortenordnung"
+    },
+    {
+      "documentIdentifier" : "BJNR016330985BJNG001401310",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR016330985BJNE007305377",
+          "paragraph" : "§ 56",
+          "title" : "Beschreibende Sortenliste"
+        },
+        {
+          "documentIdentifier" : "BJNR016330985BJNE007401310",
+          "paragraph" : "§ 57",
+          "title" : "Prüfung der Sortenechtheit in besonderen Fällen"
+        },
+        {
+          "documentIdentifier" : "BJNR016330985BJNE009500377",
+          "paragraph" : "§ 57a",
+          "title" : "Gesamtliste der Obstsorten, gemeinsames Sortenverzeichnis"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Andere Aufgaben des Bundessortenamtes"
+    },
+    {
+      "documentIdentifier" : "BJNR016330985BJNG001502310",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR016330985BJNE007501310",
+          "paragraph" : "§ 58",
+          "title" : "Ausschluss der Berufung"
+        },
+        {
+          "documentIdentifier" : "BJNR016330985BJNE007601310",
+          "paragraph" : "§ 59",
+          "title" : "Auskunftspflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR016330985BJNE009007377",
+          "paragraph" : "§ 59a",
+          "title" : "Übermittlung von Daten"
+        },
+        {
+          "documentIdentifier" : "BJNR016330985BJNE007706377",
+          "paragraph" : "§ 60",
+          "title" : "Ordnungswidrigkeiten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Verfahren vor Gericht, Auskunftspflicht, Übermittlung von Daten und Bußgeldvorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR016330985BJNG001601310",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR016330985BJNE007803377",
+          "paragraph" : "§ 61",
+          "title" : "Durchführung von Vorschriften der Europäischen Gemeinschaft oder der Europäischen Union"
+        },
+        {
+          "documentIdentifier" : "BJNR016330985BJNE008306301",
+          "paragraph" : "§ 61a",
+          "title" : "Sonderregelung für Rebenpflanzgut"
+        },
+        {
+          "documentIdentifier" : "BJNR016330985BJNE009400360",
+          "paragraph" : "§ 61b",
+          "title" : "Verkündung von Rechtsverordnungen"
+        },
+        {
+          "documentIdentifier" : "BJNR016330985BJNE007905301",
+          "paragraph" : "§ 62",
+          "title" : "Übergangsvorschrift"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussvorschriften"
+    }
+  ]
+}

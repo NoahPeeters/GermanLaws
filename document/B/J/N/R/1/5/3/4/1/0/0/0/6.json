@@ -1,0 +1,583 @@
+{
+  "documentIdentifier" : "BJNR153410006",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR153410006BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR153410006BJNE000204360",
+          "paragraph" : "§ 1",
+          "title" : "Steuergebiet, Energieerzeugnisse"
+        },
+        {
+          "documentIdentifier" : "BJNR153410006BJNE007104360",
+          "paragraph" : "§ 1a",
+          "title" : "Sonstige Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR153410006BJNE000307360",
+          "paragraph" : "§ 2",
+          "title" : "Steuertarif"
+        },
+        {
+          "documentIdentifier" : "BJNR153410006BJNE000403301",
+          "paragraph" : "§ 3",
+          "title" : "Begünstigte Anlagen, Ortsfestigkeit und Nutzungsgrad"
+        },
+        {
+          "documentIdentifier" : "BJNR153410006BJNE000501301",
+          "paragraph" : "§ 3a",
+          "title" : "Sonstige begünstigte Anlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR153410006BJNE008402123",
+          "paragraph" : "§ 3b",
+          "title" : "Staatliche Beihilfen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Bestimmungen"
+    },
+    {
+      "documentIdentifier" : "BJNR153410006BJNG000200000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR153410006BJNG000300000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR153410006BJNE000602360",
+              "paragraph" : "§ 4",
+              "title" : "Anwendungsbereich"
+            },
+            {
+              "documentIdentifier" : "BJNR153410006BJNE000701308",
+              "paragraph" : "§ 5",
+              "title" : "Steueraussetzungsverfahren"
+            },
+            {
+              "documentIdentifier" : "BJNR153410006BJNE000803301",
+              "paragraph" : "§ 6",
+              "title" : "Herstellungsbetriebe für Energieerzeugnisse"
+            },
+            {
+              "documentIdentifier" : "BJNR153410006BJNE000903360",
+              "paragraph" : "§ 7",
+              "title" : "Lager für Energieerzeugnisse"
+            },
+            {
+              "documentIdentifier" : "BJNR153410006BJNE001002123",
+              "paragraph" : "§ 8",
+              "title" : "Entstehung der Steuer bei Entnahme in den steuerrechtlich freien Verkehr"
+            },
+            {
+              "documentIdentifier" : "BJNR153410006BJNE001102308",
+              "paragraph" : "§ 9",
+              "title" : "Herstellung außerhalb eines Herstellungsbetriebes"
+            },
+            {
+              "documentIdentifier" : "BJNR153410006BJNE007200308",
+              "paragraph" : "§ 9a",
+              "title" : "Registrierte Empfänger"
+            },
+            {
+              "documentIdentifier" : "BJNR153410006BJNE007301140",
+              "paragraph" : "§ 9b",
+              "title" : "Registrierte Versender"
+            },
+            {
+              "documentIdentifier" : "BJNR153410006BJNE007400308",
+              "paragraph" : "§ 9c",
+              "title" : "Begünstigte"
+            },
+            {
+              "documentIdentifier" : "BJNR153410006BJNE007500308",
+              "paragraph" : "§ 9d",
+              "title" : "Beförderungen (Allgemeines)"
+            },
+            {
+              "documentIdentifier" : "BJNR153410006BJNE001202140",
+              "paragraph" : "§ 10",
+              "title" : "Beförderungen im Steuergebiet"
+            },
+            {
+              "documentIdentifier" : "BJNR153410006BJNE001302140",
+              "paragraph" : "§ 11",
+              "title" : "Beförderungen aus anderen und in andere Mitgliedstaaten"
+            },
+            {
+              "documentIdentifier" : "BJNR153410006BJNE001401308",
+              "paragraph" : "§ 12",
+              "title" : "(weggefallen)"
+            },
+            {
+              "documentIdentifier" : "BJNR153410006BJNE001501308",
+              "paragraph" : "§ 13",
+              "title" : "Ausfuhr"
+            },
+            {
+              "documentIdentifier" : "BJNR153410006BJNE001603123",
+              "paragraph" : "§ 14",
+              "title" : "Unregelmäßigkeiten während der Beförderung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Steueraussetzung"
+        },
+        {
+          "documentIdentifier" : "BJNR153410006BJNG000401308",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR153410006BJNE001701308",
+              "paragraph" : "§ 15",
+              "title" : "Verbringen zu gewerblichen Zwecken"
+            },
+            {
+              "documentIdentifier" : "BJNR153410006BJNE001801308",
+              "paragraph" : "§ 16",
+              "title" : "Verbringen zu privaten Zwecken"
+            },
+            {
+              "documentIdentifier" : "BJNR153410006BJNE001900000",
+              "paragraph" : "§ 17",
+              "title" : "Entnahme aus Hauptbehältern"
+            },
+            {
+              "documentIdentifier" : "BJNR153410006BJNE002001308",
+              "paragraph" : "§ 18",
+              "title" : "Versandhandel"
+            },
+            {
+              "documentIdentifier" : "BJNR153410006BJNE007600308",
+              "paragraph" : "§ 18a",
+              "title" : "Unregelmäßigkeiten während der Beförderung im steuerrechtlich freien Verkehr"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              2
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR153410006BJNG001100308",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR153410006BJNE002101308",
+                  "paragraph" : "§ 19",
+                  "title" : "Einfuhr"
+                },
+                {
+                  "documentIdentifier" : "BJNR153410006BJNE007700308",
+                  "paragraph" : "§ 19a",
+                  "title" : "Unregelmäßigkeiten im zollrechtlichen Nichterhebungsverfahren"
+                },
+                {
+                  "documentIdentifier" : "BJNR153410006BJNE007800308",
+                  "paragraph" : "§ 19b",
+                  "title" : "Steuerentstehung, Steuerschuldner"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  2
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Einfuhr von Energieerzeugnissen aus Drittländern oder Drittgebieten"
+            }
+          ],
+          "title" : "Verbringen von Energieerzeugnissen des steuerrechtlich freien Verkehrs"
+        },
+        {
+          "documentIdentifier" : "BJNR153410006BJNG000501308",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR153410006BJNE002201308",
+              "paragraph" : "§ 20",
+              "title" : "Differenzversteuerung"
+            },
+            {
+              "documentIdentifier" : "BJNR153410006BJNE002300000",
+              "paragraph" : "§ 21",
+              "title" : "Entstehung der Steuer für gekennzeichnete Energieerzeugnisse"
+            },
+            {
+              "documentIdentifier" : "BJNR153410006BJNE002402140",
+              "paragraph" : "§ 22",
+              "title" : "Entstehung der Steuer für Energieerzeugnisse im Sinn des § 4, Auffangtatbestand"
+            },
+            {
+              "documentIdentifier" : "BJNR153410006BJNE002503301",
+              "paragraph" : "§ 23",
+              "title" : "Entstehung der Steuer für sonstige Energieerzeugnisse"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Steuerrechtlich freier Verkehr in sonstigen Fällen"
+        },
+        {
+          "documentIdentifier" : "BJNR153410006BJNG000600000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR153410006BJNE002601301",
+              "paragraph" : "§ 24",
+              "title" : "Begriffsbestimmungen, Erlaubnis"
+            },
+            {
+              "documentIdentifier" : "BJNR153410006BJNE002701308",
+              "paragraph" : "§ 25",
+              "title" : "Steuerbefreiung für Verwendungen zu anderen Zwecken"
+            },
+            {
+              "documentIdentifier" : "BJNR153410006BJNE002802301",
+              "paragraph" : "§ 26",
+              "title" : "Steuerbefreiung für den Eigenverbrauch"
+            },
+            {
+              "documentIdentifier" : "BJNR153410006BJNE002902360",
+              "paragraph" : "§ 27",
+              "title" : "Steuerbefreiung, Schiff- und Luftfahrt"
+            },
+            {
+              "documentIdentifier" : "BJNR153410006BJNE003003301",
+              "paragraph" : "§ 28",
+              "title" : "Steuerbefreiung für gasförmige Energieerzeugnisse"
+            },
+            {
+              "documentIdentifier" : "BJNR153410006BJNE003101308",
+              "paragraph" : "§ 29",
+              "title" : "(weggefallen)"
+            },
+            {
+              "documentIdentifier" : "BJNR153410006BJNE003202301",
+              "paragraph" : "§ 30",
+              "title" : "Zweckwidrigkeit"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Steuerbefreiungen"
+        }
+      ],
+      "title" : "Bestimmungen für Energieerzeugnisse außer Kohle und Erdgas"
+    },
+    {
+      "documentIdentifier" : "BJNR153410006BJNG000700000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR153410006BJNE003302301",
+          "paragraph" : "§ 31",
+          "title" : "Begriffsbestimmungen, Anmeldung, Erlaubnis"
+        },
+        {
+          "documentIdentifier" : "BJNR153410006BJNE003400000",
+          "paragraph" : "§ 32",
+          "title" : "Entstehung der Steuer"
+        },
+        {
+          "documentIdentifier" : "BJNR153410006BJNE003500000",
+          "paragraph" : "§ 33",
+          "title" : "Steueranmeldung, Fälligkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR153410006BJNE003601308",
+          "paragraph" : "§ 34",
+          "title" : "Verbringen in das Steuergebiet"
+        },
+        {
+          "documentIdentifier" : "BJNR153410006BJNE003701308",
+          "paragraph" : "§ 35",
+          "title" : "Einfuhr"
+        },
+        {
+          "documentIdentifier" : "BJNR153410006BJNE003800000",
+          "paragraph" : "§ 36",
+          "title" : "Steuerentstehung, Auffangtatbestand"
+        },
+        {
+          "documentIdentifier" : "BJNR153410006BJNE003904301",
+          "paragraph" : "§ 37",
+          "title" : "Steuerbefreiung, Erlaubnis, Zweckwidrigkeit"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Bestimmungen für Kohle"
+    },
+    {
+      "documentIdentifier" : "BJNR153410006BJNG000800000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR153410006BJNE004002301",
+          "paragraph" : "§ 38",
+          "title" : "Entstehung der Steuer"
+        },
+        {
+          "documentIdentifier" : "BJNR153410006BJNE004101308",
+          "paragraph" : "§ 39",
+          "title" : "Steueranmeldung, Fälligkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR153410006BJNE004202140",
+          "paragraph" : "§ 40",
+          "title" : "Nicht leitungsgebundenes Verbringen"
+        },
+        {
+          "documentIdentifier" : "BJNR153410006BJNE004302140",
+          "paragraph" : "§ 41",
+          "title" : "Nicht leitungsgebundene Einfuhr"
+        },
+        {
+          "documentIdentifier" : "BJNR153410006BJNE004400000",
+          "paragraph" : "§ 42",
+          "title" : "Differenzversteuerung"
+        },
+        {
+          "documentIdentifier" : "BJNR153410006BJNE004500000",
+          "paragraph" : "§ 43",
+          "title" : "Steuerentstehung, Auffangtatbestand"
+        },
+        {
+          "documentIdentifier" : "BJNR153410006BJNE004603301",
+          "paragraph" : "§ 44",
+          "title" : "Steuerbefreiung, Erlaubnis, Zweckwidrigkeit"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Bestimmungen für Erdgas"
+    },
+    {
+      "documentIdentifier" : "BJNR153410006BJNG000900000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR153410006BJNE004700000",
+          "paragraph" : "§ 45",
+          "title" : "Begriffsbestimmung"
+        },
+        {
+          "documentIdentifier" : "BJNR153410006BJNE004804123",
+          "paragraph" : "§ 46",
+          "title" : "Steuerentlastung beim Verbringen aus dem Steuergebiet"
+        },
+        {
+          "documentIdentifier" : "BJNR153410006BJNE004904301",
+          "paragraph" : "§ 47",
+          "title" : "Steuerentlastung bei Aufnahme in Betriebe und bei steuerfreien Zwecken"
+        },
+        {
+          "documentIdentifier" : "BJNR153410006BJNE008601123",
+          "paragraph" : "§ 47a",
+          "title" : "Steuerentlastung für den Eigenverbrauch"
+        },
+        {
+          "documentIdentifier" : "BJNR153410006BJNE005000000",
+          "paragraph" : "§ 48",
+          "title" : "Steuerentlastung bei Vermischungen von gekennzeichnetem mit anderem\nGasöl"
+        },
+        {
+          "documentIdentifier" : "BJNR153410006BJNE005102301",
+          "paragraph" : "§ 49",
+          "title" : "Steuerentlastung für zum Verheizen oder in begünstigten Anlagen verwendete Energieerzeugnisse"
+        },
+        {
+          "documentIdentifier" : "BJNR153410006BJNE005212301",
+          "paragraph" : "§ 50",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR153410006BJNE005305301",
+          "paragraph" : "§ 51",
+          "title" : "Steuerentlastung für bestimmte Prozesse und Verfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR153410006BJNE005401360",
+          "paragraph" : "§ 52",
+          "title" : "Steuerentlastung für die Schiff- und Luftfahrt"
+        },
+        {
+          "documentIdentifier" : "BJNR153410006BJNE005506123",
+          "paragraph" : "§ 53",
+          "title" : "Steuerentlastung für die Stromerzeugung"
+        },
+        {
+          "documentIdentifier" : "BJNR153410006BJNE008002301",
+          "paragraph" : "§ 53a",
+          "title" : "Steuerentlastung für die gekoppelte Erzeugung von Kraft und Wärme"
+        },
+        {
+          "documentIdentifier" : "BJNR153410006BJNE008101301",
+          "paragraph" : "§ 53b",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR153410006BJNE005606301",
+          "paragraph" : "§ 54",
+          "title" : "Steuerentlastung für Unternehmen"
+        },
+        {
+          "documentIdentifier" : "BJNR153410006BJNE005711123",
+          "paragraph" : "§ 55",
+          "title" : "Steuerentlastung für Unternehmen in Sonderfällen"
+        },
+        {
+          "documentIdentifier" : "BJNR153410006BJNE005804301",
+          "paragraph" : "§ 56",
+          "title" : "Steuerentlastung für den Öffentlichen Personennahverkehr"
+        },
+        {
+          "documentIdentifier" : "BJNR153410006BJNE008800123",
+          "paragraph" : "§ 57",
+          "title" : "Steuerentlastung für Betriebe der Land- und Forstwirtschaft"
+        },
+        {
+          "documentIdentifier" : "BJNR153410006BJNE006001140",
+          "paragraph" : "§ 58",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR153410006BJNE006102123",
+          "paragraph" : "§ 59",
+          "title" : "Steuervergütung für Diplomatenbenzin und -dieselkraftstoff"
+        },
+        {
+          "documentIdentifier" : "BJNR153410006BJNE006200000",
+          "paragraph" : "§ 60",
+          "title" : "Steuerentlastung bei Zahlungsausfall"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Steuerentlastung"
+    },
+    {
+      "documentIdentifier" : "BJNR153410006BJNG001000000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR153410006BJNE006301308",
+          "paragraph" : "§ 61",
+          "title" : "Steueraufsicht"
+        },
+        {
+          "documentIdentifier" : "BJNR153410006BJNE006400000",
+          "paragraph" : "§ 62",
+          "title" : "Steuerliche Betriebsleiter, Steuerhilfspersonen"
+        },
+        {
+          "documentIdentifier" : "BJNR153410006BJNE006500000",
+          "paragraph" : "§ 63",
+          "title" : "Geschäftsstatistik"
+        },
+        {
+          "documentIdentifier" : "BJNR153410006BJNE006602140",
+          "paragraph" : "§ 64",
+          "title" : "Bußgeldvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR153410006BJNE006700000",
+          "paragraph" : "§ 65",
+          "title" : "Sicherstellung"
+        },
+        {
+          "documentIdentifier" : "BJNR153410006BJNE006809123",
+          "paragraph" : "§ 66",
+          "title" : "Ermächtigungen"
+        },
+        {
+          "documentIdentifier" : "BJNR153410006BJNE007002301",
+          "paragraph" : "§ 66a",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR153410006BJNE008202301",
+          "paragraph" : "§ 66b",
+          "title" : "Ermächtigung zu § 55 Absatz 4, 5 und 8"
+        },
+        {
+          "documentIdentifier" : "BJNR153410006BJNE008500301",
+          "paragraph" : "§ 66c",
+          "title" : "Bußgeldvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR153410006BJNE006905301",
+          "paragraph" : "§ 67",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR153410006BJNE008300140",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 55)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussbestimmungen"
+    }
+  ]
+}

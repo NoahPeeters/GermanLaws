@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR425900001",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR425900001Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR425900001BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Bestellung von Stellvertretern für Mitglieder des Beirats"
+        },
+        {
+          "documentIdentifier" : "BJNR425900001BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Vorzeitige Beendigung der Mitgliedschaft"
+        },
+        {
+          "documentIdentifier" : "BJNR425900001BJNE000304301",
+          "paragraph" : "§ 3",
+          "title" : "Sitzungen des Beirats"
+        },
+        {
+          "documentIdentifier" : "BJNR425900001BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Beschlussfassung"
+        },
+        {
+          "documentIdentifier" : "BJNR425900001BJNE000501377",
+          "paragraph" : "§ 5",
+          "title" : "Protokolle"
+        },
+        {
+          "documentIdentifier" : "BJNR425900001BJNE000600000",
+          "paragraph" : "§ 6",
+          "title" : "Entschädigung der Mitglieder"
+        },
+        {
+          "documentIdentifier" : "BJNR425900001BJNE000700000",
+          "paragraph" : "§ 7",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

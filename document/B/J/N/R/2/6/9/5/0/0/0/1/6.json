@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR269500016",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR269500016Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR269500016BJNE000300000",
+          "paragraph" : "Anhang 1 zu Nummer 1",
+          "title" : "Gültig ab 1. März 2016"
+        },
+        {
+          "documentIdentifier" : "BJNR269500016BJNE000400000",
+          "paragraph" : "Anhang 2 zu Nummer 2",
+          "title" : "(Anlage IV des BBesG)"
+        },
+        {
+          "documentIdentifier" : "BJNR269500016BJNE000500000",
+          "paragraph" : "Anhang 3 zu Nummer 3",
+          "title" : " Gültig ab 1. März 2016"
+        },
+        {
+          "documentIdentifier" : "BJNR269500016BJNE000600000",
+          "paragraph" : "Anhang 4 zu Nummer 4",
+          "title" : "(Anlage 1 des BesÜG)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

@@ -1,0 +1,227 @@
+{
+  "documentIdentifier" : "BJNR100200017",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR100200017BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR100200017BJNE000300000",
+          "paragraph" : "§ 1",
+          "title" : "Staatliche Anerkennung des Ausbildungsberufes"
+        },
+        {
+          "documentIdentifier" : "BJNR100200017BJNE000400000",
+          "paragraph" : "§ 2",
+          "title" : "Dauer der Berufsausbildung"
+        },
+        {
+          "documentIdentifier" : "BJNR100200017BJNE000500000",
+          "paragraph" : "§ 3",
+          "title" : "Gegenstand der Berufsausbildung und Ausbildungsrahmenplan"
+        },
+        {
+          "documentIdentifier" : "BJNR100200017BJNE000600000",
+          "paragraph" : "§ 4",
+          "title" : "Struktur der Berufsausbildung, Ausbildungsberufsbild"
+        },
+        {
+          "documentIdentifier" : "BJNR100200017BJNE000700000",
+          "paragraph" : "§ 5",
+          "title" : "Ausbildungsplan"
+        },
+        {
+          "documentIdentifier" : "BJNR100200017BJNE000800000",
+          "paragraph" : "§ 6",
+          "title" : "Schriftlicher Ausbildungsnachweis"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gegenstand, Dauer und Gliederung der Berufsausbildung"
+    },
+    {
+      "documentIdentifier" : "BJNR100200017BJNG000200000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR100200017BJNG000300000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR100200017BJNE000900000",
+              "paragraph" : "§ 7",
+              "title" : "Ziel, Aufteilung in zwei Teile und Zeitpunkt"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Allgemeines"
+        },
+        {
+          "documentIdentifier" : "BJNR100200017BJNG000400000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR100200017BJNE001000000",
+              "paragraph" : "§ 8",
+              "title" : "Inhalt von Teil 1"
+            },
+            {
+              "documentIdentifier" : "BJNR100200017BJNE001100000",
+              "paragraph" : "§ 9",
+              "title" : "Prüfungsbereich von Teil 1"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Teil 1 der Abschluss- oder Gesellenprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR100200017BJNG000500000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR100200017BJNE001200000",
+              "paragraph" : "§ 10",
+              "title" : "Inhalt von Teil 2"
+            },
+            {
+              "documentIdentifier" : "BJNR100200017BJNE001300000",
+              "paragraph" : "§ 11",
+              "title" : "Prüfungsbereiche von Teil 2"
+            },
+            {
+              "documentIdentifier" : "BJNR100200017BJNE001400000",
+              "paragraph" : "§ 12",
+              "title" : "Prüfungsbereich Herstellen von Enderzeugnissen"
+            },
+            {
+              "documentIdentifier" : "BJNR100200017BJNE001500000",
+              "paragraph" : "§ 13",
+              "title" : "Prüfungsbereich Verfahrenstechnologie und Arbeitsplanung"
+            },
+            {
+              "documentIdentifier" : "BJNR100200017BJNE001600000",
+              "paragraph" : "§ 14",
+              "title" : "Prüfungsbereich Wirtschafts- und Sozialkunde"
+            },
+            {
+              "documentIdentifier" : "BJNR100200017BJNE001700000",
+              "paragraph" : "§ 15",
+              "title" : "Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschluss- oder Gesellenprüfung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Teil 2 der Abschluss- oder Gesellenprüfung in der Fachrichtung Müllerei"
+        },
+        {
+          "documentIdentifier" : "BJNR100200017BJNG000600000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR100200017BJNE001800000",
+              "paragraph" : "§ 16",
+              "title" : "Inhalt von Teil 2"
+            },
+            {
+              "documentIdentifier" : "BJNR100200017BJNE001900000",
+              "paragraph" : "§ 17",
+              "title" : "Prüfungsbereiche von Teil 2"
+            },
+            {
+              "documentIdentifier" : "BJNR100200017BJNE002000000",
+              "paragraph" : "§ 18",
+              "title" : "Prüfungsbereich Rohstoffe und Saatgut"
+            },
+            {
+              "documentIdentifier" : "BJNR100200017BJNE002100000",
+              "paragraph" : "§ 19",
+              "title" : "Prüfungsbereich Anwenden und Abgeben von Pflanzenschutzmitteln"
+            },
+            {
+              "documentIdentifier" : "BJNR100200017BJNE002200000",
+              "paragraph" : "§ 20",
+              "title" : "Prüfungsbereich Lagerungstechniken"
+            },
+            {
+              "documentIdentifier" : "BJNR100200017BJNE002300000",
+              "paragraph" : "§ 21",
+              "title" : "Prüfungsbereich Wirtschafts- und Sozialkunde"
+            },
+            {
+              "documentIdentifier" : "BJNR100200017BJNE002400000",
+              "paragraph" : "§ 22",
+              "title" : "Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschluss- oder Gesellenprüfung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Teil 2 der Abschluss- oder Gesellenprüfung in der Fachrichtung Agrarlager"
+        }
+      ],
+      "title" : "Abschluss- oder Gesellenprüfung"
+    },
+    {
+      "documentIdentifier" : "BJNR100200017BJNG000700000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR100200017BJNE002500000",
+          "paragraph" : "§ 23",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR100200017BJNE002600000",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 3 Absatz 1)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussvorschriften"
+    }
+  ]
+}

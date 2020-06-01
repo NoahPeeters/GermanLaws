@@ -1,0 +1,69 @@
+{
+  "documentIdentifier" : "BJNR102130965",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR102130965BJNG000100314",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Pflichtversicherung"
+    },
+    {
+      "documentIdentifier" : "BJNR102130965BJNG000202301",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Pflichten der Kraftfahrzeug-Haftpflichtversicherer, Auskunftsstelle und Statistik"
+    },
+    {
+      "documentIdentifier" : "BJNR102130965BJNG000301301",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Entschädigungsfonds für Schäden aus Kraftfahrzeugunfällen und Entschädigungsstelle für Auslandsunfälle"
+    },
+    {
+      "documentIdentifier" : "BJNR102130965BJNG000400314",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR102130965BJNE002205123",
+          "paragraph" : "Anlage",
+          "title" : "zu § 4 Abs. 2"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übergangs- und Schlußvorschriften"
+    }
+  ]
+}

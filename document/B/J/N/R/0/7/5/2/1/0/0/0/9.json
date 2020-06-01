@@ -1,0 +1,350 @@
+{
+  "documentIdentifier" : "BJNR075210009",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR075210009BJNG000101360",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR075210009BJNE000203119",
+          "paragraph" : "§ 1",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR075210009BJNE000302360",
+          "paragraph" : "§ 2",
+          "title" : "Hygiene"
+        },
+        {
+          "documentIdentifier" : "BJNR075210009BJNE000401360",
+          "paragraph" : "§ 3",
+          "title" : "Impfung"
+        },
+        {
+          "documentIdentifier" : "BJNR075210009BJNE000502360",
+          "paragraph" : "§ 4",
+          "title" : "Mitteilungspflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR075210009BJNE000602360",
+          "paragraph" : "§ 5",
+          "title" : "Untersuchungseinrichtung"
+        },
+        {
+          "documentIdentifier" : "BJNR075210009BJNE000702360",
+          "paragraph" : "§ 6",
+          "title" : "Ursachenermittlung im Betrieb"
+        },
+        {
+          "documentIdentifier" : "BJNR075210009BJNE000803360",
+          "paragraph" : "§ 7",
+          "title" : "Reinigung und Desinfektion"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeines"
+    },
+    {
+      "documentIdentifier" : "BJNR075210009BJNG000202360",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR075210009BJNE000903124",
+          "paragraph" : "§ 8",
+          "title" : "Betriebseigene Kontrollen, sonstige Mitteilungspflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR075210009BJNE001001360",
+          "paragraph" : "§ 9",
+          "title" : "Maßregeln vor amtlicher Feststellung"
+        },
+        {
+          "documentIdentifier" : "BJNR075210009BJNE001102360",
+          "paragraph" : "§ 10",
+          "title" : "Amtliche Untersuchung"
+        },
+        {
+          "documentIdentifier" : "BJNR075210009BJNE001202360",
+          "paragraph" : "§ 11",
+          "title" : "Maßregeln nach amtlicher Feststellung"
+        },
+        {
+          "documentIdentifier" : "BJNR075210009BJNE001301360",
+          "paragraph" : "§ 12",
+          "title" : "Aufhebung der Schutzmaßregeln"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Hühnerzuchtbetriebe"
+    },
+    {
+      "documentIdentifier" : "BJNR075210009BJNG000302360",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR075210009BJNE001402360",
+          "paragraph" : "§ 13",
+          "title" : "Impfungen"
+        },
+        {
+          "documentIdentifier" : "BJNR075210009BJNE001502360",
+          "paragraph" : "§ 14",
+          "title" : "Betriebseigene Kontrollen"
+        },
+        {
+          "documentIdentifier" : "BJNR075210009BJNE001601360",
+          "paragraph" : "§ 15",
+          "title" : "Maßregeln vor amtlicher Feststellung"
+        },
+        {
+          "documentIdentifier" : "BJNR075210009BJNE001702360",
+          "paragraph" : "§ 16",
+          "title" : "Amtliche Untersuchung"
+        },
+        {
+          "documentIdentifier" : "BJNR075210009BJNE001802360",
+          "paragraph" : "§ 17",
+          "title" : "Maßregeln nach amtlicher Feststellung"
+        },
+        {
+          "documentIdentifier" : "BJNR075210009BJNE001901360",
+          "paragraph" : "§ 18",
+          "title" : "Aufhebung der Schutzmaßregeln"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Hühneraufzuchtbetriebe"
+    },
+    {
+      "documentIdentifier" : "BJNR075210009BJNG000401360",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR075210009BJNE002001360",
+          "paragraph" : "§ 19",
+          "title" : "Einstallen von Junghennen"
+        },
+        {
+          "documentIdentifier" : "BJNR075210009BJNE002102360",
+          "paragraph" : "§ 20",
+          "title" : "Betriebseigene Kontrollen"
+        },
+        {
+          "documentIdentifier" : "BJNR075210009BJNE002201360",
+          "paragraph" : "§ 21",
+          "title" : "Maßregeln vor amtlicher Feststellung"
+        },
+        {
+          "documentIdentifier" : "BJNR075210009BJNE002302360",
+          "paragraph" : "§ 22",
+          "title" : "Amtliche Untersuchung"
+        },
+        {
+          "documentIdentifier" : "BJNR075210009BJNE002403360",
+          "paragraph" : "§ 23",
+          "title" : "Maßregeln nach amtlicher Feststellung"
+        },
+        {
+          "documentIdentifier" : "BJNR075210009BJNE002501360",
+          "paragraph" : "§ 24",
+          "title" : "Aufhebung der Schutzmaßregeln"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Legehennenbetriebe"
+    },
+    {
+      "documentIdentifier" : "BJNR075210009BJNG000502360",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR075210009BJNE002602360",
+          "paragraph" : "§ 25",
+          "title" : "Betriebseigene Kontrollen"
+        },
+        {
+          "documentIdentifier" : "BJNR075210009BJNE002701360",
+          "paragraph" : "§ 26",
+          "title" : "Maßregeln vor amtlicher Feststellung"
+        },
+        {
+          "documentIdentifier" : "BJNR075210009BJNE002802360",
+          "paragraph" : "§ 27",
+          "title" : "Amtliche Untersuchung"
+        },
+        {
+          "documentIdentifier" : "BJNR075210009BJNE002902360",
+          "paragraph" : "§ 28",
+          "title" : "Maßregeln nach amtlicher Feststellung"
+        },
+        {
+          "documentIdentifier" : "BJNR075210009BJNE003001360",
+          "paragraph" : "§ 29",
+          "title" : "Aufhebung der Schutzmaßregeln"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Hähnchenmastbetriebe"
+    },
+    {
+      "documentIdentifier" : "BJNR075210009BJNG000602360",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR075210009BJNE003102360",
+          "paragraph" : "§ 30",
+          "title" : "Betriebseigene Kontrollen"
+        },
+        {
+          "documentIdentifier" : "BJNR075210009BJNE003202360",
+          "paragraph" : "§ 31",
+          "title" : "Maßregeln vor amtlicher Feststellung"
+        },
+        {
+          "documentIdentifier" : "BJNR075210009BJNE003302360",
+          "paragraph" : "§ 32",
+          "title" : "Amtliche Untersuchung"
+        },
+        {
+          "documentIdentifier" : "BJNR075210009BJNE003402360",
+          "paragraph" : "§ 33",
+          "title" : "Maßregeln nach amtlicher Feststellung"
+        },
+        {
+          "documentIdentifier" : "BJNR075210009BJNE003501360",
+          "paragraph" : "§ 34",
+          "title" : "Aufhebung der Schutzmaßregeln"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR075210009BJNG000901360",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR075210009BJNE004101360",
+              "paragraph" : "§ 34a",
+              "title" : "Betriebseigene Kontrollen"
+            },
+            {
+              "documentIdentifier" : "BJNR075210009BJNE004201360",
+              "paragraph" : "§ 34b",
+              "title" : "Maßregeln vor amtlicher Feststellung"
+            },
+            {
+              "documentIdentifier" : "BJNR075210009BJNE004301360",
+              "paragraph" : "§ 34c",
+              "title" : "Amtliche Untersuchung"
+            },
+            {
+              "documentIdentifier" : "BJNR075210009BJNE004401360",
+              "paragraph" : "§ 34d",
+              "title" : "Maßregeln nach amtlicher Feststellung"
+            },
+            {
+              "documentIdentifier" : "BJNR075210009BJNE004501360",
+              "paragraph" : "§ 34e",
+              "title" : "Aufhebung der Schutzmaßregeln"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              6
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Putenbetriebe"
+        }
+      ],
+      "title" : "Hühnerbrütereien"
+    },
+    {
+      "documentIdentifier" : "BJNR075210009BJNG000701360",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR075210009BJNE003601360",
+          "paragraph" : "§ 35",
+          "title" : "Schutzmaßregeln bei Salmonella Gallinarum Pullorum"
+        },
+        {
+          "documentIdentifier" : "BJNR075210009BJNE003704360",
+          "paragraph" : "§ 36",
+          "title" : "Mitteilungen der Länder"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Weitergehende Maßnahmen"
+    },
+    {
+      "documentIdentifier" : "BJNR075210009BJNG000801360",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR075210009BJNE003803301",
+          "paragraph" : "§ 37",
+          "title" : "Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR075210009BJNE003902360",
+          "paragraph" : "§ 38",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR075210009BJNE004002360",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 2 Absatz 1)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          8
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Ordnungswidrigkeiten, Schlussvorschriften"
+    }
+  ]
+}

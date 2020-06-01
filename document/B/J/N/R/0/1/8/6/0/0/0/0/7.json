@@ -1,0 +1,64 @@
+{
+  "documentIdentifier" : "BJNR018600007",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR018600007Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR018600007BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Staatliche Anerkennung des Ausbildungsberufes"
+        },
+        {
+          "documentIdentifier" : "BJNR018600007BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Ausbildungsdauer"
+        },
+        {
+          "documentIdentifier" : "BJNR018600007BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Ausbildungsrahmenplan, Ausbildungsberufsbild"
+        },
+        {
+          "documentIdentifier" : "BJNR018600007BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Durchführung der Berufsausbildung"
+        },
+        {
+          "documentIdentifier" : "BJNR018600007BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Zwischenprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR018600007BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Gesellenprüfung\/Abschlussprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR018600007BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Bestehende Berufsausbildungsverhältnisse"
+        },
+        {
+          "documentIdentifier" : "BJNR018600007BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR018600007BJNE001100000",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 3)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

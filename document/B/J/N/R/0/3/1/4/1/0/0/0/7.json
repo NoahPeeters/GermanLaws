@@ -1,0 +1,112 @@
+{
+  "documentIdentifier" : "BJNR031410007",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR031410007BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR031410007BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Bestimmung der Zentralen Behörde"
+        },
+        {
+          "documentIdentifier" : "BJNR031410007BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Übersetzungen bei eingehenden Ersuchen"
+        },
+        {
+          "documentIdentifier" : "BJNR031410007BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Übersetzungen bei ausgehenden Ersuchen"
+        },
+        {
+          "documentIdentifier" : "BJNR031410007BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Maßnahmen der Zentralen Behörde"
+        },
+        {
+          "documentIdentifier" : "BJNR031410007BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Justizverwaltungsverfahren; Vergütung für Übersetzungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Zentrale Behörde"
+    },
+    {
+      "documentIdentifier" : "BJNR031410007BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR031410007BJNE000701160",
+          "paragraph" : "§ 6",
+          "title" : "Sachliche und örtliche Zuständigkeit; Zuständigkeitskonzentration"
+        },
+        {
+          "documentIdentifier" : "BJNR031410007BJNE000801160",
+          "paragraph" : "§ 7",
+          "title" : "Zuständigkeitskonzentration für andere Betreuungssachen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gerichtliche Zuständigkeit und Zuständigkeitskonzentration"
+    },
+    {
+      "documentIdentifier" : "BJNR031410007BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR031410007BJNE000902308",
+          "paragraph" : "§ 8",
+          "title" : "Allgemeine Verfahrensvorschriften für die Anerkennungsfeststellung und Vollstreckbarerklärung"
+        },
+        {
+          "documentIdentifier" : "BJNR031410007BJNE001000000",
+          "paragraph" : "§ 9",
+          "title" : "Bindungswirkung der Anerkennungsfeststellung"
+        },
+        {
+          "documentIdentifier" : "BJNR031410007BJNE001100000",
+          "paragraph" : "§ 10",
+          "title" : "Vollstreckungsklausel"
+        },
+        {
+          "documentIdentifier" : "BJNR031410007BJNE001201160",
+          "paragraph" : "§ 11",
+          "title" : "Aufhebung oder Änderung von Entscheidungen über die Anerkennungsfeststellung oder Vollstreckbarerklärung"
+        },
+        {
+          "documentIdentifier" : "BJNR031410007BJNE001303311",
+          "paragraph" : "§ 12",
+          "title" : "Widerspruch im Konsultationsverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR031410007BJNE001400000",
+          "paragraph" : "§ 13",
+          "title" : "Bescheinigungen über inländische Schutzmaßnahmen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Anerkennungsfeststellung, Vollstreckbarerklärung, Konsultationsverfahren und Bescheinigungen"
+    }
+  ]
+}

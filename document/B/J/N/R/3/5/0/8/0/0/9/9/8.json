@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR350800998",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR350800998Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR350800998BJNE000200311",
+          "paragraph" : "Anlage 1",
+          "title" : "(Anlage VIII des BBesG)"
+        },
+        {
+          "documentIdentifier" : "BJNR350800998BJNE000300311",
+          "paragraph" : "Anlage 2",
+          "title" : "(Anlage IX des BBesG)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

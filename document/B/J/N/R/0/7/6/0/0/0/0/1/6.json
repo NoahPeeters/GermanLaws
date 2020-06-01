@@ -1,0 +1,64 @@
+{
+  "documentIdentifier" : "BJNR076000016",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR076000016Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR076000016BJNE000201118",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich, Prüfungszeitraum"
+        },
+        {
+          "documentIdentifier" : "BJNR076000016BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Gegenstand und Umfang der Prüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR076000016BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Unabhängiger Sachverständiger"
+        },
+        {
+          "documentIdentifier" : "BJNR076000016BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Allgemeiner Teil des Prüfungsberichts"
+        },
+        {
+          "documentIdentifier" : "BJNR076000016BJNE000601118",
+          "paragraph" : "§ 5",
+          "title" : "Besonderer Teil des Prüfungsberichts"
+        },
+        {
+          "documentIdentifier" : "BJNR076000016BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Prüfungsvermerk"
+        },
+        {
+          "documentIdentifier" : "BJNR076000016BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Vorlagefrist"
+        },
+        {
+          "documentIdentifier" : "BJNR076000016BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Übergangsvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR076000016BJNE001000000",
+          "paragraph" : "§ 9",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

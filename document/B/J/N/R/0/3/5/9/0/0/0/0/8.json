@@ -1,0 +1,415 @@
+{
+  "documentIdentifier" : "BJNR035900008",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR035900008BJNG000101377",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR035900008BJNE000302377",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR035900008BJNE000402377",
+          "paragraph" : "§ 2",
+          "title" : "Zuständigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR035900008BJNE000501377",
+          "paragraph" : "§ 3",
+          "title" : "Betriebssitz"
+        },
+        {
+          "documentIdentifier" : "BJNR035900008BJNE000601377",
+          "paragraph" : "§ 4",
+          "title" : "Unschädliche Beseitigung"
+        },
+        {
+          "documentIdentifier" : "BJNR035900008BJNE000703301",
+          "paragraph" : "§ 5",
+          "title" : "Bundes- und Landesreserven"
+        },
+        {
+          "documentIdentifier" : "BJNR035900008BJNE000802377",
+          "paragraph" : "§ 6",
+          "title" : "Einziehung und Zuteilung"
+        },
+        {
+          "documentIdentifier" : "BJNR035900008BJNE000902377",
+          "paragraph" : "§ 7",
+          "title" : "Überschussabgabe"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR035900008BJNG000201377",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR035900008BJNG000301377",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR035900008BJNE001002377",
+              "paragraph" : "§ 8",
+              "title" : "Grundsätze"
+            },
+            {
+              "documentIdentifier" : "BJNR035900008BJNE001102377",
+              "paragraph" : "§ 9",
+              "title" : "Pflicht zur Weiterübertragung"
+            },
+            {
+              "documentIdentifier" : "BJNR035900008BJNE001202377",
+              "paragraph" : "§ 10",
+              "title" : "Umgehungen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Allgemeine Regelungen"
+        },
+        {
+          "documentIdentifier" : "BJNR035900008BJNG000401377",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR035900008BJNE001301377",
+              "paragraph" : "§ 11",
+              "title" : "Grundsätze"
+            },
+            {
+              "documentIdentifier" : "BJNR035900008BJNE001402377",
+              "paragraph" : "§ 12",
+              "title" : "Angebote"
+            },
+            {
+              "documentIdentifier" : "BJNR035900008BJNE001502377",
+              "paragraph" : "§ 13",
+              "title" : "Nachfragegebote"
+            },
+            {
+              "documentIdentifier" : "BJNR035900008BJNE001602377",
+              "paragraph" : "§ 14",
+              "title" : "Einreichung und Bestätigung der Gebote"
+            },
+            {
+              "documentIdentifier" : "BJNR035900008BJNE001701377",
+              "paragraph" : "§ 15",
+              "title" : "Übertragungsbereiche"
+            },
+            {
+              "documentIdentifier" : "BJNR035900008BJNE001803377",
+              "paragraph" : "§ 16",
+              "title" : "Übertragungsstellen"
+            },
+            {
+              "documentIdentifier" : "BJNR035900008BJNE001901377",
+              "paragraph" : "§ 17",
+              "title" : "Gleichgewichtspreis"
+            },
+            {
+              "documentIdentifier" : "BJNR035900008BJNE002001377",
+              "paragraph" : "§ 18",
+              "title" : "Festlegung der Übertragungen"
+            },
+            {
+              "documentIdentifier" : "BJNR035900008BJNE002102377",
+              "paragraph" : "§ 19",
+              "title" : "Durchführung der Übertragungen"
+            },
+            {
+              "documentIdentifier" : "BJNR035900008BJNE002203118",
+              "paragraph" : "§ 20",
+              "title" : "Aufzeichnungen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Übertragungsstellenverfahren für Anlieferungsquoten"
+        },
+        {
+          "documentIdentifier" : "BJNR035900008BJNG000501377",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR035900008BJNE002301377",
+              "paragraph" : "§ 21",
+              "title" : "Erbfolge, Verwandte und Ehegatten"
+            },
+            {
+              "documentIdentifier" : "BJNR035900008BJNE002402377",
+              "paragraph" : "§ 22",
+              "title" : "Betriebsübertragung"
+            },
+            {
+              "documentIdentifier" : "BJNR035900008BJNE002502377",
+              "paragraph" : "§ 23",
+              "title" : "Gesellschafterstellung"
+            },
+            {
+              "documentIdentifier" : "BJNR035900008BJNE002602377",
+              "paragraph" : "§ 24",
+              "title" : "Beschränkungen zur Abgrenzung der Übertragungsbereiche"
+            },
+            {
+              "documentIdentifier" : "BJNR035900008BJNE002702377",
+              "paragraph" : "§ 25",
+              "title" : "Ausscheiden eines Gesellschafters; Auflösung einer Gesellschaft"
+            },
+            {
+              "documentIdentifier" : "BJNR035900008BJNE002802377",
+              "paragraph" : "§ 26",
+              "title" : "Zwangsweise Übertragung"
+            },
+            {
+              "documentIdentifier" : "BJNR035900008BJNE002902377",
+              "paragraph" : "§ 27",
+              "title" : "Verfahren der Übertragungsbescheinigung"
+            },
+            {
+              "documentIdentifier" : "BJNR035900008BJNE003001377",
+              "paragraph" : "§ 28",
+              "title" : "Inhalt der Übertragungsbescheinigung"
+            },
+            {
+              "documentIdentifier" : "BJNR035900008BJNE003101377",
+              "paragraph" : "§ 29",
+              "title" : "Spätere Antragstellung"
+            },
+            {
+              "documentIdentifier" : "BJNR035900008BJNE003202377",
+              "paragraph" : "§ 30",
+              "title" : "Zeitweilige Übertragung im Falle verendeter oder getöteter Milchkühe"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Besondere Übertragungen"
+        }
+      ],
+      "title" : "Übertragungen"
+    },
+    {
+      "documentIdentifier" : "BJNR035900008BJNG000601377",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR035900008BJNE003303377",
+          "paragraph" : "§ 31",
+          "title" : "Kürzung von Quoten und Referenzfettgehalten"
+        },
+        {
+          "documentIdentifier" : "BJNR035900008BJNE003402377",
+          "paragraph" : "§ 32",
+          "title" : "Einziehung nicht genutzter Quoten"
+        },
+        {
+          "documentIdentifier" : "BJNR035900008BJNE003502377",
+          "paragraph" : "§ 33",
+          "title" : "Umwandlung von Quoten"
+        },
+        {
+          "documentIdentifier" : "BJNR035900008BJNE003602377",
+          "paragraph" : "§ 34",
+          "title" : "Saldierung nicht genutzter Quoten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Kürzung, Einziehung, Umwandlung und Saldierung"
+    },
+    {
+      "documentIdentifier" : "BJNR035900008BJNG000701377",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR035900008BJNE003701377",
+          "paragraph" : "§ 35",
+          "title" : "Neuberechnung von Quoten und Referenzfettgehalten"
+        },
+        {
+          "documentIdentifier" : "BJNR035900008BJNE003802377",
+          "paragraph" : "§ 36",
+          "title" : "Beförderungsdokumente"
+        },
+        {
+          "documentIdentifier" : "BJNR035900008BJNE003902377",
+          "paragraph" : "§ 37",
+          "title" : "Zulassung der Käufer"
+        },
+        {
+          "documentIdentifier" : "BJNR035900008BJNE004002377",
+          "paragraph" : "§ 38",
+          "title" : "Käuferwechsel"
+        },
+        {
+          "documentIdentifier" : "BJNR035900008BJNE004104377",
+          "paragraph" : "§ 39",
+          "title" : "Erhebung der Überschussabgabe bei Anlieferungen"
+        },
+        {
+          "documentIdentifier" : "BJNR035900008BJNE004202377",
+          "paragraph" : "§ 40",
+          "title" : "Mitteilungen der Käufer"
+        },
+        {
+          "documentIdentifier" : "BJNR035900008BJNE004302377",
+          "paragraph" : "§ 41",
+          "title" : "Mehrere Käufer"
+        },
+        {
+          "documentIdentifier" : "BJNR035900008BJNE004402377",
+          "paragraph" : "§ 42",
+          "title" : "Erhebung der Überschussabgabe bei Direktverkäufen"
+        },
+        {
+          "documentIdentifier" : "BJNR035900008BJNE004501377",
+          "paragraph" : "§ 43",
+          "title" : "Äquivalenzmengen für Käse"
+        },
+        {
+          "documentIdentifier" : "BJNR035900008BJNE004601377",
+          "paragraph" : "§ 44",
+          "title" : "Mitwirkungspflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR035900008BJNE004702377",
+          "paragraph" : "§ 45",
+          "title" : "Aufbewahrungsfristen"
+        },
+        {
+          "documentIdentifier" : "BJNR035900008BJNE004801377",
+          "paragraph" : "§ 46",
+          "title" : "Mitteilungen der Länder"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Durchführung und Kontrolle"
+    },
+    {
+      "documentIdentifier" : "BJNR035900008BJNG000801377",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR035900008BJNE004901377",
+          "paragraph" : "§ 47",
+          "title" : "Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR035900008BJNE005002377",
+          "paragraph" : "§ 48",
+          "title" : "Behandlung laufender Pachtverträge"
+        },
+        {
+          "documentIdentifier" : "BJNR035900008BJNE005102377",
+          "paragraph" : "§ 49",
+          "title" : "Übernahmerecht des Pächters"
+        },
+        {
+          "documentIdentifier" : "BJNR035900008BJNE005202377",
+          "paragraph" : "§ 50",
+          "title" : "Übertragung übernommener Quoten"
+        },
+        {
+          "documentIdentifier" : "BJNR035900008BJNE005303377",
+          "paragraph" : "§ 51",
+          "title" : "Ausnahmen"
+        },
+        {
+          "documentIdentifier" : "BJNR035900008BJNE005402377",
+          "paragraph" : "§ 52",
+          "title" : "Übertragungsbescheinigungen bei Beendigung von Pachtverträgen"
+        },
+        {
+          "documentIdentifier" : "BJNR035900008BJNE005503377",
+          "paragraph" : "§ 53",
+          "title" : "Zuteilung von Quoten in den Zwölfmonatszeiträumen 2009\/10 bis 2013\/14"
+        },
+        {
+          "documentIdentifier" : "BJNR035900008BJNE005603377",
+          "paragraph" : "§ 54",
+          "title" : "Neuberechnung auf Grund einer Erhöhung nach § 53"
+        },
+        {
+          "documentIdentifier" : "BJNR035900008BJNE005702377",
+          "paragraph" : "§ 55",
+          "title" : "Erhöhung von zeitweilig übertragenen Quoten"
+        },
+        {
+          "documentIdentifier" : "BJNR035900008BJNE006301377",
+          "paragraph" : "§ 56",
+          "title" : "Abweichung durch Landesrecht"
+        },
+        {
+          "documentIdentifier" : "BJNR035900008BJNE005803377",
+          "paragraph" : "§ 57",
+          "title" : "Übergangsregelungen"
+        },
+        {
+          "documentIdentifier" : "BJNR035900008BJNE005902377",
+          "paragraph" : "§ 58",
+          "title" : "Aufhebung von Vorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR035900008BJNE006002377",
+          "paragraph" : "§ 59",
+          "title" : "(Inkrafttreten)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übergangs- und Schlussvorschriften"
+    }
+  ]
+}

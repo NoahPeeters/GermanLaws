@@ -1,0 +1,128 @@
+{
+  "documentIdentifier" : "BJNR111020969",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR111020969BJNG000100311",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR111020969BJNE000201305",
+          "paragraph" : "§ 1",
+          "title" : "Zusammensetzung"
+        },
+        {
+          "documentIdentifier" : "BJNR111020969BJNE000300311",
+          "paragraph" : "§ 2",
+          "title" : "Bestimmung der Mitglieder des Bundestages"
+        },
+        {
+          "documentIdentifier" : "BJNR111020969BJNE000400311",
+          "paragraph" : "§ 3",
+          "title" : "Ausscheiden von Abgeordneten"
+        },
+        {
+          "documentIdentifier" : "BJNR111020969BJNE000500311",
+          "paragraph" : "§ 4",
+          "title" : "Bestimmung der Mitglieder des Bundesrates"
+        },
+        {
+          "documentIdentifier" : "BJNR111020969BJNE000600311",
+          "paragraph" : "§ 5",
+          "title" : "Rechte der Vertreter"
+        },
+        {
+          "documentIdentifier" : "BJNR111020969BJNE000700311",
+          "paragraph" : "§ 6",
+          "title" : "Präsenzpflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR111020969BJNE000800311",
+          "paragraph" : "§ 7",
+          "title" : "Vorsitz des Gemeinsamen Ausschusses"
+        },
+        {
+          "documentIdentifier" : "BJNR111020969BJNE000901305",
+          "paragraph" : "§ 8",
+          "title" : "Einberufung"
+        },
+        {
+          "documentIdentifier" : "BJNR111020969BJNE001000311",
+          "paragraph" : "§ 9",
+          "title" : "Feststellung nach Artikel 115a Abs. 2 und 115e Abs. 1 des\nGrundgesetzes"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Zusammensetzung und Einberufung"
+    },
+    {
+      "documentIdentifier" : "BJNR111020969BJNG000200311",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR111020969BJNE001101305",
+          "paragraph" : "§ 10",
+          "title" : "Nichtöffentlichkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR111020969BJNE001200311",
+          "paragraph" : "§ 11",
+          "title" : "Teilnahme an den Sitzungen"
+        },
+        {
+          "documentIdentifier" : "BJNR111020969BJNE001300311",
+          "paragraph" : "§ 12",
+          "title" : "Beschlußfähigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR111020969BJNE001400311",
+          "paragraph" : "§ 13",
+          "title" : "Beschlußmehrheiten"
+        },
+        {
+          "documentIdentifier" : "BJNR111020969BJNE001500311",
+          "paragraph" : "§ 14",
+          "title" : "Beratung von Gesetzentwürfen"
+        },
+        {
+          "documentIdentifier" : "BJNR111020969BJNE001600311",
+          "paragraph" : "§ 15",
+          "title" : "Wahlen"
+        },
+        {
+          "documentIdentifier" : "BJNR111020969BJNE001700311",
+          "paragraph" : "§ 16",
+          "title" : "Anträge nach Artikel 115h Abs. 2 des Grundgesetzes\n(Mißtrauensvotum)"
+        },
+        {
+          "documentIdentifier" : "BJNR111020969BJNE001800311",
+          "paragraph" : "§ 17",
+          "title" : "Sitzungsprotokolle"
+        },
+        {
+          "documentIdentifier" : "BJNR111020969BJNE001900311",
+          "paragraph" : "§ 18",
+          "title" : "Anwendbarkeit der Geschäftsordnung des Bundestages"
+        },
+        {
+          "documentIdentifier" : "BJNR111020969BJNE002000311",
+          "paragraph" : "§ 19",
+          "title" : "Änderung der Geschäftsordnung und Abweichungen von der\nGeschäftsordnung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Verfahrensbestimmungen"
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "documentIdentifier" : "BJNR005300988",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR005300988BJNG000100325",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR005300988BJNE000600325",
+          "paragraph" : "§ 1",
+          "title" : "Produkte"
+        },
+        {
+          "documentIdentifier" : "BJNR005300988BJNE000700325",
+          "paragraph" : "§ 2",
+          "title" : "Anlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR005300988BJNE000800325",
+          "paragraph" : "§ 3",
+          "title" : "Umfang der Verpflichtung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Eingriffsvorbehalte"
+    },
+    {
+      "documentIdentifier" : "BJNR005300988BJNG000200325",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR005300988BJNE000904118",
+          "paragraph" : "§ 4",
+          "title" : "Allgemeine Verbrauchseinschränkung"
+        },
+        {
+          "documentIdentifier" : "BJNR005300988BJNE001004118",
+          "paragraph" : "§ 5",
+          "title" : "Genehmigungen"
+        },
+        {
+          "documentIdentifier" : "BJNR005300988BJNE001104118",
+          "paragraph" : "§ 6",
+          "title" : "Bezugscheine"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Bewirtschaftung"
+    },
+    {
+      "documentIdentifier" : "BJNR005300988BJNG000300325",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR005300988BJNE001204118",
+          "paragraph" : "§ 7",
+          "title" : "Meldung des Aufkommens und der Verarbeitung"
+        },
+        {
+          "documentIdentifier" : "BJNR005300988BJNE001300325",
+          "paragraph" : "§ 8",
+          "title" : "Besondere Meldepflichten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Meldepflichten"
+    },
+    {
+      "documentIdentifier" : "BJNR005300988BJNG000400325",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR005300988BJNE001411118",
+          "paragraph" : "§ 9",
+          "title" : "Zuständige Behörde"
+        },
+        {
+          "documentIdentifier" : "BJNR005300988BJNE001501118",
+          "paragraph" : "§ 10",
+          "title" : "Zuwiderhandlungen"
+        },
+        {
+          "documentIdentifier" : "BJNR005300988BJNE001604118",
+          "paragraph" : "§ 11",
+          "title" : "Inkrafttreten und Anwendbarkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR005300988BJNE001700325",
+          "paragraph" : "Anlage",
+          "title" : "zur Mineralölbewirtschaftungs-Verordnung\n"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Zuständigkeiten und Schlußbestimmungen"
+    }
+  ]
+}

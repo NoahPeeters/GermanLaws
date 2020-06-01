@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR036780974",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR036780974Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR036780974BJNE000100317",
+          "paragraph" : "§ 1",
+          "title" : "Nichtberücksichtigung der Investitionszulage"
+        },
+        {
+          "documentIdentifier" : "BJNR036780974BJNE000200317",
+          "paragraph" : "§ 2",
+          "title" : "Berlin-Klausel"
+        },
+        {
+          "documentIdentifier" : "BJNR036780974BJNE000300317",
+          "paragraph" : "§ 3",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

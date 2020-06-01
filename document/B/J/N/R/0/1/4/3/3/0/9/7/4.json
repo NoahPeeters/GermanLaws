@@ -1,0 +1,50 @@
+{
+  "documentIdentifier" : "BJNR014330974",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR014330974BJNG000100319",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Ausgehende Ersuchen"
+    },
+    {
+      "documentIdentifier" : "BJNR014330974BJNG000200319",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Eingehende Ersuchen"
+    },
+    {
+      "documentIdentifier" : "BJNR014330974BJNG000300319",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Sonstige Bestimmungen"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR144200014",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR144200014Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR144200014BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Ausdehnung des grenznahen Raums"
+        },
+        {
+          "documentIdentifier" : "BJNR144200014BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Gebiete, die der Grenzaufsicht unterworfen sind"
+        },
+        {
+          "documentIdentifier" : "BJNR144200014BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR144200014BJNE000500000",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 1)"
+        },
+        {
+          "documentIdentifier" : "BJNR144200014BJNE000600000",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 2 Absatz 1)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

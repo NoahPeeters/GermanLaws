@@ -1,0 +1,114 @@
+{
+  "documentIdentifier" : "BJNR001940960",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR001940960BJNG000100319",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR001940960BJNE001700319",
+          "paragraph" : "(XXXX) §§ 10 bis 13",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Krankenversicherung"
+    },
+    {
+      "documentIdentifier" : "BJNR001940960BJNG000200319",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Unfallversicherung"
+    },
+    {
+      "documentIdentifier" : "BJNR001940960BJNG000300319",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Rentenversicherung der Arbeiter"
+    },
+    {
+      "documentIdentifier" : "BJNR001940960BJNG000400319",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Rentenversicherung der Angestellten"
+    },
+    {
+      "documentIdentifier" : "BJNR001940960BJNG000500319",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Hüttenknappschaftliche Pensionsversicherung"
+    },
+    {
+      "documentIdentifier" : "BJNR001940960BJNG000600319",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Knappschaftsversicherung"
+    },
+    {
+      "documentIdentifier" : "BJNR001940960BJNG000700319",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gemeinsame und Schlußvorschriften"
+    }
+  ]
+}

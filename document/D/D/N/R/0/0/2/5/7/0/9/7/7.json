@@ -1,0 +1,120 @@
+{
+  "documentIdentifier" : "DDNR002570977",
+  "sections" : [
+    {
+      "documentIdentifier" : "DDNR002570977BJNG000200307",
+      "laws" : [
+        {
+          "documentIdentifier" : "DDNR002570977BJNE002100307",
+          "paragraph" : "(XXXX) §§ 1 bis 6",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Erstes Kapitel"
+    },
+    {
+      "documentIdentifier" : "DDNR002570977BJNG000300307",
+      "laws" : [
+        {
+          "documentIdentifier" : "DDNR002570977BJNE002300307",
+          "paragraph" : "§ 7",
+          "title" : "Fahrtüchtigkeit"
+        },
+        {
+          "documentIdentifier" : "DDNR002570977BJNE002600307",
+          "paragraph" : "(XXXX) §§ 8 und 9",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Voraussetzungen für das Führen von Fahrzeugen"
+    },
+    {
+      "documentIdentifier" : "DDNR002570977BJNG000500307",
+      "laws" : [
+        {
+          "documentIdentifier" : "DDNR002570977BJNE005500307",
+          "paragraph" : "(XXXX) §§ 10 bis 33",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Drittes Kapitel"
+    },
+    {
+      "documentIdentifier" : "DDNR002570977BJNG000900307",
+      "laws" : [
+        {
+          "documentIdentifier" : "DDNR002570977BJNE006900307",
+          "paragraph" : "(XXXX) §§ 34 bis 46",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Viertes bis Sechstes Kapitel"
+    },
+    {
+      "documentIdentifier" : "DDNR002570977BJNG001000307",
+      "laws" : [
+        {
+          "documentIdentifier" : "DDNR002570977BJNE007100307",
+          "paragraph" : "§ 47",
+          "title" : "Ordnungsstrafbestimmungen"
+        },
+        {
+          "documentIdentifier" : "DDNR002570977BJNE007700307",
+          "paragraph" : "(XXXX) §§ 48 bis 52",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "DDNR002570977BJNE008200307",
+          "paragraph" : "(XXXX) Anlage 1 bis 3",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "DDNR002570977BJNE888800301",
+          "paragraph" : "Anhang EV",
+          "title" : "Auszug aus EinigVtr Anlage II Kapitel XI Sachgebiet B Abschnitt III\n"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlußbestimmungen"
+    }
+  ]
+}

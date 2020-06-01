@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR111500996",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR111500996Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR111500996BJNE000204377",
+          "paragraph" : "§ 1",
+          "title" : "Übertragung von Aufgaben"
+        },
+        {
+          "documentIdentifier" : "BJNR111500996BJNE000300310",
+          "paragraph" : "§ 2",
+          "title" : "Übertragung von Unternehmensbeteiligungen"
+        },
+        {
+          "documentIdentifier" : "BJNR111500996BJNE000400310",
+          "paragraph" : "§ 3",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR111500996BJNE000500310",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 2 Abs. 2)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

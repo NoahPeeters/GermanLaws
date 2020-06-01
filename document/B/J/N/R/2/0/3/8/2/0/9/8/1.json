@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR203820981",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR203820981Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR203820981BJNE000100303",
+          "paragraph" : "Art 1",
+          "title" : "Zustimmung zum Wiener Abkommen"
+        },
+        {
+          "documentIdentifier" : "BJNR203820981BJNE000301377",
+          "paragraph" : "Art 3",
+          "title" : "Schlußvorschriften"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

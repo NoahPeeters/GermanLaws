@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR609010020",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR609010020Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR609010020BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Geltungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR609010020BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Löhne der Lohngruppen 1 und 2\/Mindestlöhne"
+        },
+        {
+          "documentIdentifier" : "BJNR609010020BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Lohn der Baustelle und Lohn bei auswärtiger Beschäftigung"
+        },
+        {
+          "documentIdentifier" : "BJNR609010020BJNE000400000",
+          "paragraph" : "Anhang",
+          "title" : "(zu Anlage 1)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

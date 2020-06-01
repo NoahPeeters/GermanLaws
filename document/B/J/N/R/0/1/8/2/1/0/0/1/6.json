@@ -1,0 +1,164 @@
+{
+  "documentIdentifier" : "BJNR018210016",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR018210016Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR018210016BJNE000203124",
+          "paragraph" : "§ 1",
+          "title" : "Geltungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR018210016BJNE000304124",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR018210016BJNE000402124",
+          "paragraph" : "§ 3",
+          "title" : "Zulassung zur Beförderung"
+        },
+        {
+          "documentIdentifier" : "BJNR018210016BJNE000504124",
+          "paragraph" : "§ 4",
+          "title" : "Allgemeine Sicherheitspflichten, Überwachung, Ausrüstung, Unterweisung"
+        },
+        {
+          "documentIdentifier" : "BJNR018210016BJNE000602124",
+          "paragraph" : "§ 5",
+          "title" : "Verladung gefährlicher Güter"
+        },
+        {
+          "documentIdentifier" : "BJNR018210016BJNE000702124",
+          "paragraph" : "§ 6",
+          "title" : "Unterlagen für die Beförderung gefährlicher Güter"
+        },
+        {
+          "documentIdentifier" : "BJNR018210016BJNE000802124",
+          "paragraph" : "§ 7",
+          "title" : "Ausnahmen"
+        },
+        {
+          "documentIdentifier" : "BJNR018210016BJNE000902124",
+          "paragraph" : "§ 8",
+          "title" : "Zuständigkeiten des Bundesministeriums für Verkehr und digitale Infrastruktur"
+        },
+        {
+          "documentIdentifier" : "BJNR018210016BJNE001003124",
+          "paragraph" : "§ 9",
+          "title" : "Zuständigkeiten der nach Landesrecht zuständigen Behörden"
+        },
+        {
+          "documentIdentifier" : "BJNR018210016BJNE001103124",
+          "paragraph" : "§ 10",
+          "title" : "Zuständigkeiten der durch das Bundesministerium der Verteidigung bestimmten Sachverständigen und Dienststellen"
+        },
+        {
+          "documentIdentifier" : "BJNR018210016BJNE001202124",
+          "paragraph" : "§ 11",
+          "title" : "Zuständigkeiten des Bundesamtes für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr"
+        },
+        {
+          "documentIdentifier" : "BJNR018210016BJNE001306124",
+          "paragraph" : "§ 12",
+          "title" : "Zuständigkeiten der Bundesanstalt für Materialforschung und -prüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR018210016BJNE001405124",
+          "paragraph" : "§ 13",
+          "title" : "Zuständigkeiten des Bundesamtes für die Sicherheit der nuklearen Entsorgung"
+        },
+        {
+          "documentIdentifier" : "BJNR018210016BJNE001502124",
+          "paragraph" : "§ 14",
+          "title" : "Zuständigkeiten des Umweltbundesamtes"
+        },
+        {
+          "documentIdentifier" : "BJNR018210016BJNE001602124",
+          "paragraph" : "§ 15",
+          "title" : "Zuständigkeiten der für die Schiffssicherheit zuständigen bundesunmittelbaren Berufsgenossenschaft"
+        },
+        {
+          "documentIdentifier" : "BJNR018210016BJNE001704124",
+          "paragraph" : "§ 16",
+          "title" : "Zuständigkeiten der Benannten Stellen"
+        },
+        {
+          "documentIdentifier" : "BJNR018210016BJNE003002124",
+          "paragraph" : "§ 16a",
+          "title" : "Zuständigkeiten der Wasserstraßen- und Schifffahrtsverwaltung des Bundes"
+        },
+        {
+          "documentIdentifier" : "BJNR018210016BJNE001803124",
+          "paragraph" : "§ 17",
+          "title" : "Pflichten des Versenders"
+        },
+        {
+          "documentIdentifier" : "BJNR018210016BJNE001902124",
+          "paragraph" : "§ 18",
+          "title" : "Pflichten des für das Packen oder Beladen einer Güterbeförderungseinheit Verantwortlichen"
+        },
+        {
+          "documentIdentifier" : "BJNR018210016BJNE002002124",
+          "paragraph" : "§ 19",
+          "title" : "Pflichten des Auftraggebers des Beförderers"
+        },
+        {
+          "documentIdentifier" : "BJNR018210016BJNE002103124",
+          "paragraph" : "§ 20",
+          "title" : "Pflichten des für den Umschlag Verantwortlichen"
+        },
+        {
+          "documentIdentifier" : "BJNR018210016BJNE002203124",
+          "paragraph" : "§ 21",
+          "title" : "Pflichten des Beförderers"
+        },
+        {
+          "documentIdentifier" : "BJNR018210016BJNE002302124",
+          "paragraph" : "§ 22",
+          "title" : "Pflichten des Reeders"
+        },
+        {
+          "documentIdentifier" : "BJNR018210016BJNE002403124",
+          "paragraph" : "§ 23",
+          "title" : "Pflichten des Schiffsführers"
+        },
+        {
+          "documentIdentifier" : "BJNR018210016BJNE002502124",
+          "paragraph" : "§ 24",
+          "title" : "Pflichten des mit der Planung der Beladung Beauftragten"
+        },
+        {
+          "documentIdentifier" : "BJNR018210016BJNE002602124",
+          "paragraph" : "§ 25",
+          "title" : "Pflichten des Empfängers"
+        },
+        {
+          "documentIdentifier" : "BJNR018210016BJNE002703124",
+          "paragraph" : "§ 26",
+          "title" : "Pflichten mehrerer Beteiligter"
+        },
+        {
+          "documentIdentifier" : "BJNR018210016BJNE002805124",
+          "paragraph" : "§ 27",
+          "title" : "Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR018210016BJNE002902124",
+          "paragraph" : "§ 28",
+          "title" : "Übergangsbestimmungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

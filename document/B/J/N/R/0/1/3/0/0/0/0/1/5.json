@@ -1,0 +1,136 @@
+{
+  "documentIdentifier" : "BJNR013000015",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR013000015BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR013000015BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Regelungsgegenstand"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeines"
+    },
+    {
+      "documentIdentifier" : "BJNR013000015BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR013000015BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Grundsätze"
+        },
+        {
+          "documentIdentifier" : "BJNR013000015BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Kosten der gebührenfähigen Leistung"
+        },
+        {
+          "documentIdentifier" : "BJNR013000015BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Pauschalierung und Typisierung"
+        },
+        {
+          "documentIdentifier" : "BJNR013000015BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Berücksichtigung der Auslagen"
+        },
+        {
+          "documentIdentifier" : "BJNR013000015BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Gegenstand der Kostenermittlung"
+        },
+        {
+          "documentIdentifier" : "BJNR013000015BJNE000801116",
+          "paragraph" : "§ 7",
+          "title" : "Kalkulatorische Kosten"
+        },
+        {
+          "documentIdentifier" : "BJNR013000015BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Verteilung der Gemeinkosten"
+        },
+        {
+          "documentIdentifier" : "BJNR013000015BJNE001000000",
+          "paragraph" : "§ 9",
+          "title" : "Festgebühr"
+        },
+        {
+          "documentIdentifier" : "BJNR013000015BJNE001101116",
+          "paragraph" : "§ 10",
+          "title" : "Zeitgebühr"
+        },
+        {
+          "documentIdentifier" : "BJNR013000015BJNE001200000",
+          "paragraph" : "§ 11",
+          "title" : "Rahmengebühr"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Ermittlung der kostendeckenden Gebühr"
+    },
+    {
+      "documentIdentifier" : "BJNR013000015BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR013000015BJNE001303116",
+          "paragraph" : "§ 12",
+          "title" : "Gebühren für Beglaubigungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Einheitliche Gebühren"
+    },
+    {
+      "documentIdentifier" : "BJNR013000015BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR013000015BJNE001400000",
+          "paragraph" : "§ 13",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR013000015BJNE001503116",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 5 Absatz 1 Nummer 1, § 9 Absatz 1 Nummer 1 Buchstabe a und § 10 Absatz 2 Nummer 1)"
+        },
+        {
+          "documentIdentifier" : "BJNR013000015BJNE001602116",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 5 Absatz 1 Nummer 2, § 9 Absatz 1 Nummer 1 Buchstabe b und § 10 Absatz 2 Nummer 2)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inkrafttreten"
+    }
+  ]
+}

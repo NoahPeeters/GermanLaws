@@ -1,0 +1,78 @@
+{
+  "documentIdentifier" : "BJNR059400997",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR059400997BJNG000100000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Ergänzung und Änderung des Sozialgesetzbuches"
+    },
+    {
+      "documentIdentifier" : "BJNR059400997BJNG000400000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Änderung des Arbeitsförderungsgesetzes"
+    },
+    {
+      "documentIdentifier" : "BJNR059400997BJNG000600000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR059400997BJNE000800000",
+          "paragraph" : "Art 80",
+          "title" : "Rückkehr zum einheitlichen Verordnungsrang"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Änderung anderer Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR059400997BJNG000900000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR059400997BJNE001000000",
+          "paragraph" : "Art 81",
+          "title" : "Weitergeltung von Rechtsverordnungen"
+        },
+        {
+          "documentIdentifier" : "BJNR059400997BJNE001300000",
+          "paragraph" : "Art 83",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Vierter Teil, Schlußvorschriften"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "documentIdentifier" : "BJNR026900998",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR026900998Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR026900998BJNE000101310",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR026900998BJNE000200311",
+          "paragraph" : "§ 2",
+          "title" : "Gleichstellung"
+        },
+        {
+          "documentIdentifier" : "BJNR026900998BJNE000301310",
+          "paragraph" : "§ 3",
+          "title" : "Reinheitsanforderungen"
+        },
+        {
+          "documentIdentifier" : "BJNR026900998BJNE000400311",
+          "paragraph" : "§ 4",
+          "title" : "Trägerstoffe und -lösungsmittel"
+        },
+        {
+          "documentIdentifier" : "BJNR026900998BJNE000502310",
+          "paragraph" : "§ 5",
+          "title" : "Verwendungs- und Verkehrsverbote"
+        },
+        {
+          "documentIdentifier" : "BJNR026900998BJNE000603310",
+          "paragraph" : "§ 6",
+          "title" : "Kennzeichnung, Warnhinweise"
+        },
+        {
+          "documentIdentifier" : "BJNR026900998BJNE001205310",
+          "paragraph" : "§ 6a",
+          "title" : "Übergangsvorschrift"
+        },
+        {
+          "documentIdentifier" : "BJNR026900998BJNE000703310",
+          "paragraph" : "§ 7",
+          "title" : "Straftaten und Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR026900998BJNE000802310",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 2)"
+        },
+        {
+          "documentIdentifier" : "BJNR026900998BJNE000913310",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 3 Abs. 1) "
+        },
+        {
+          "documentIdentifier" : "BJNR026900998BJNE001001310",
+          "paragraph" : "Anlage 3",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR026900998BJNE001106310",
+          "paragraph" : "Anlage 4",
+          "title" : "(zu § 4)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

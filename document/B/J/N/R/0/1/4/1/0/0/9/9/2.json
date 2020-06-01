@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR014100992",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR014100992Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR014100992BJNE000201377",
+          "paragraph" : "§ 1",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR014100992BJNE000301377",
+          "paragraph" : "§ 2",
+          "title" : "Anwendung"
+        },
+        {
+          "documentIdentifier" : "BJNR014100992BJNE000400314",
+          "paragraph" : "§ 3",
+          "title" : "Ausnahmen"
+        },
+        {
+          "documentIdentifier" : "BJNR014100992BJNE000502360",
+          "paragraph" : "§ 4",
+          "title" : "Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR014100992BJNE000600314",
+          "paragraph" : "§ 5",
+          "title" : "Inkrafttreten, abgelöste Vorschrift"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

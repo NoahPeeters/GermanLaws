@@ -1,0 +1,167 @@
+{
+  "documentIdentifier" : "BJNR011890969",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR011890969BJNG000200300",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR011890969BJNE000304377",
+          "paragraph" : "§ 1",
+          "title" : "Zur Rechnungslegung verpflichtete Unternehmen"
+        },
+        {
+          "documentIdentifier" : "BJNR011890969BJNE000407360",
+          "paragraph" : "§ 2",
+          "title" : "Beginn und Dauer der Pflicht zur Rechnungslegung"
+        },
+        {
+          "documentIdentifier" : "BJNR011890969BJNE000505123",
+          "paragraph" : "§ 3",
+          "title" : "Geltungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR011890969BJNE000600300",
+          "paragraph" : "§ 4",
+          "title" : "Gesetzliche Vertreter, Aufsichtsrat, Feststellung, Gericht"
+        },
+        {
+          "documentIdentifier" : "BJNR011890969BJNE000705360",
+          "paragraph" : "§ 5",
+          "title" : "Aufstellung von Jahresabschluß und Lagebericht"
+        },
+        {
+          "documentIdentifier" : "BJNR011890969BJNE000807123",
+          "paragraph" : "§ 6",
+          "title" : "Prüfung durch die Abschlußprüfer"
+        },
+        {
+          "documentIdentifier" : "BJNR011890969BJNE000904123",
+          "paragraph" : "§ 7",
+          "title" : "Prüfung durch den Aufsichtsrat"
+        },
+        {
+          "documentIdentifier" : "BJNR011890969BJNE001002305",
+          "paragraph" : "§ 8",
+          "title" : "Feststellung des Jahresabschlusses"
+        },
+        {
+          "documentIdentifier" : "BJNR011890969BJNE001105360",
+          "paragraph" : "§ 9",
+          "title" : "Offenlegung des Jahresabschlusses und des Lageberichts"
+        },
+        {
+          "documentIdentifier" : "BJNR011890969BJNE001201306",
+          "paragraph" : "§ 10",
+          "title" : "Nichtigkeit des Jahresabschlusses"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Rechnungslegung von Unternehmen"
+    },
+    {
+      "documentIdentifier" : "BJNR011890969BJNG001300300",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR011890969BJNE001409123",
+          "paragraph" : "§ 11",
+          "title" : "Zur Rechnungslegung verpflichtete Mutterunternehmen"
+        },
+        {
+          "documentIdentifier" : "BJNR011890969BJNE001504360",
+          "paragraph" : "§ 12",
+          "title" : "Beginn und Dauer der Pflicht zur Konzernrechnungslegung"
+        },
+        {
+          "documentIdentifier" : "BJNR011890969BJNE001606123",
+          "paragraph" : "§ 13",
+          "title" : "Aufstellung von Konzernabschluß und Konzernlagebericht"
+        },
+        {
+          "documentIdentifier" : "BJNR011890969BJNE001704360",
+          "paragraph" : "§ 14",
+          "title" : "Prüfung des Konzernabschlusses"
+        },
+        {
+          "documentIdentifier" : "BJNR011890969BJNE001803360",
+          "paragraph" : "§ 15",
+          "title" : "Offenlegung des Konzernabschlusses"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Rechnungslegung von Konzernen"
+    },
+    {
+      "documentIdentifier" : "BJNR011890969BJNG002000300",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR011890969BJNE002104123",
+          "paragraph" : "§ 17",
+          "title" : "Unrichtige Darstellung"
+        },
+        {
+          "documentIdentifier" : "BJNR011890969BJNE002200300",
+          "paragraph" : "§ 18",
+          "title" : "Verletzung der Berichtspflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR011890969BJNE002300300",
+          "paragraph" : "§ 19",
+          "title" : "Verletzung der Geheimhaltungspflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR011890969BJNE003000123",
+          "paragraph" : "§ 19a",
+          "title" : "Verletzung der Pflichten bei Abschlussprüfungen"
+        },
+        {
+          "documentIdentifier" : "BJNR011890969BJNE002408123",
+          "paragraph" : "§ 20",
+          "title" : "Bußgeldvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR011890969BJNE002506360",
+          "paragraph" : "§ 21",
+          "title" : "Festsetzung von Ordnungsgeld"
+        },
+        {
+          "documentIdentifier" : "BJNR011890969BJNE003100123",
+          "paragraph" : "§ 21a",
+          "title" : "Mitteilungen an die Abschlussprüferaufsichtsstelle"
+        },
+        {
+          "documentIdentifier" : "BJNR011890969BJNE002908360",
+          "paragraph" : "§ 22",
+          "title" : "Erstmalige Anwendung geänderter Vorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR011890969BJNE002801377",
+          "paragraph" : "§ 23",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Straf-, Bußgeld- und Schlußvorschriften"
+    }
+  ]
+}

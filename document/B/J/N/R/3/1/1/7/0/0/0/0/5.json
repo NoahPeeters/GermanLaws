@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR311700005",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR311700005Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR311700005BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR311700005BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Verbote"
+        },
+        {
+          "documentIdentifier" : "BJNR311700005BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Ausnahmen"
+        },
+        {
+          "documentIdentifier" : "BJNR311700005BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Bereits hergestellte Medaillen und Münzstücke"
+        },
+        {
+          "documentIdentifier" : "BJNR311700005BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR311700005BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR311700005BJNE000800000",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 1 Nr. 1)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

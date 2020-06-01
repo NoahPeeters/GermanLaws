@@ -1,0 +1,127 @@
+{
+  "documentIdentifier" : "BJNR023350987",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR023350987BJNG000101320",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR023350987BJNE000503310",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR023350987BJNE002201320",
+          "paragraph" : "§ 1a",
+          "title" : "Definitionen"
+        },
+        {
+          "documentIdentifier" : "BJNR023350987BJNE000602320",
+          "paragraph" : "§ 2",
+          "title" : "Vorrang der Aufbereitung"
+        },
+        {
+          "documentIdentifier" : "BJNR023350987BJNE000702320",
+          "paragraph" : "§ 3",
+          "title" : "Grenzwerte"
+        },
+        {
+          "documentIdentifier" : "BJNR023350987BJNE000803310",
+          "paragraph" : "§ 4",
+          "title" : "Getrennte Entsorgung, Vermischungsverbote"
+        },
+        {
+          "documentIdentifier" : "BJNR023350987BJNE000902320",
+          "paragraph" : "§ 5",
+          "title" : "Entnahme, Untersuchung und Aufbewahrung von Proben"
+        },
+        {
+          "documentIdentifier" : "BJNR023350987BJNE001003310",
+          "paragraph" : "§ 6",
+          "title" : "Ergänzende Erklärungen zur Nachweisführung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Bestimmungen"
+    },
+    {
+      "documentIdentifier" : "BJNR023350987BJNG000201320",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR023350987BJNE001101320",
+          "paragraph" : "§ 7",
+          "title" : "Kennzeichnung der Gebinde"
+        },
+        {
+          "documentIdentifier" : "BJNR023350987BJNE001202320",
+          "paragraph" : "§ 8",
+          "title" : "Altölannahmestelle bei Abgabe an Endverbraucher"
+        },
+        {
+          "documentIdentifier" : "BJNR023350987BJNE001301320",
+          "paragraph" : "§ 9",
+          "title" : "Ausnahmen für gewerbliche Endverbraucher, Schiffahrt"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Anforderungen an die Abgabe von Verbrennungsmotoren- oder Getriebeölen"
+    },
+    {
+      "documentIdentifier" : "BJNR023350987BJNG000301320",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR023350987BJNE001503310",
+          "paragraph" : "§ 10",
+          "title" : "Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR023350987BJNE001602320",
+          "paragraph" : "§ 11",
+          "title" : "Ablösung von Vorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR023350987BJNE001702320",
+          "paragraph" : "(XXXX) §§ 12 und 13",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR023350987BJNE002302320",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 2 Abs. 2 und § 4 Abs. 3 und 6)"
+        },
+        {
+          "documentIdentifier" : "BJNR023350987BJNE002002320",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 5 Abs. 3)"
+        },
+        {
+          "documentIdentifier" : "BJNR023350987BJNE002103310",
+          "paragraph" : "Anlage 3",
+          "title" : "(zu § 6 Abs. 1 und 2)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussbestimmungen"
+    }
+  ]
+}

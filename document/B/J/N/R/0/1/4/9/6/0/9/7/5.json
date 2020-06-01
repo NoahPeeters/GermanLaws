@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR014960975",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR014960975Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR014960975BJNE000202377",
+          "paragraph" : "§ 1",
+          "title" : "Einfuhranzeige"
+        },
+        {
+          "documentIdentifier" : "BJNR014960975BJNE000301308",
+          "paragraph" : "§ 2",
+          "title" : "Verfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR014960975BJNE000402377",
+          "paragraph" : "§ 3",
+          "title" : "Amtliche Bescheinigung"
+        },
+        {
+          "documentIdentifier" : "BJNR014960975BJNE000501308",
+          "paragraph" : "§ 4",
+          "title" : "Vorführung und Untersuchung"
+        },
+        {
+          "documentIdentifier" : "BJNR014960975BJNE000701308",
+          "paragraph" : "§ 5",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

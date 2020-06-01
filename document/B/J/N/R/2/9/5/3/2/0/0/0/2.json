@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR295320002",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR295320002Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR295320002BJNE000401116",
+          "paragraph" : "Art 3",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR295320002BJNE000501116",
+          "paragraph" : "Art 4",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR295320002BJNE000700308",
+          "paragraph" : "Art 6",
+          "title" : "Entsorgung von Schiffsabfällen"
+        },
+        {
+          "documentIdentifier" : "BJNR295320002BJNE000901116",
+          "paragraph" : "Art 7",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR295320002BJNE001100308",
+          "paragraph" : "Art 9",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

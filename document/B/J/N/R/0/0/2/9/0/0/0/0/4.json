@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR002900004",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR002900004Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR002900004BJNE000202308",
+          "paragraph" : "§ 1",
+          "title" : "Prüfungsstelle und Beschwerdeausschuss"
+        },
+        {
+          "documentIdentifier" : "BJNR002900004BJNE000302308",
+          "paragraph" : "§ 2",
+          "title" : "Aufgaben und Entschädigung des Vorsitzenden"
+        },
+        {
+          "documentIdentifier" : "BJNR002900004BJNE000402119",
+          "paragraph" : "§ 3",
+          "title" : "Pflichten der Mitglieder, Abberufung, Datenschutz"
+        },
+        {
+          "documentIdentifier" : "BJNR002900004BJNE000502119",
+          "paragraph" : "§ 4",
+          "title" : "Aufgaben und Personal der Prüfungsstelle"
+        },
+        {
+          "documentIdentifier" : "BJNR002900004BJNE000601308",
+          "paragraph" : "§ 5",
+          "title" : "Kostentragung"
+        },
+        {
+          "documentIdentifier" : "BJNR002900004BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

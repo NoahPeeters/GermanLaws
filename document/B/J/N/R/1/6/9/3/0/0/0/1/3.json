@@ -1,0 +1,227 @@
+{
+  "documentIdentifier" : "BJNR169300013",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR169300013BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR169300013BJNE000300000",
+          "paragraph" : "§ 1",
+          "title" : "Staatliche Anerkennung des Ausbildungsberufes"
+        },
+        {
+          "documentIdentifier" : "BJNR169300013BJNE000400000",
+          "paragraph" : "§ 2",
+          "title" : "Dauer der Berufsausbildung"
+        },
+        {
+          "documentIdentifier" : "BJNR169300013BJNE000500000",
+          "paragraph" : "§ 3",
+          "title" : "Struktur der Berufsausbildung"
+        },
+        {
+          "documentIdentifier" : "BJNR169300013BJNE000600000",
+          "paragraph" : "§ 4",
+          "title" : "Ausbildungsrahmenplan, Ausbildungsberufsbild"
+        },
+        {
+          "documentIdentifier" : "BJNR169300013BJNE000700000",
+          "paragraph" : "§ 5",
+          "title" : "Durchführung der Berufsausbildung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR169300013BJNG000200000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR169300013BJNG000300000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR169300013BJNE000800000",
+              "paragraph" : "§ 6",
+              "title" : "Abschlussprüfung in der Fachrichtung Metalltechnik"
+            },
+            {
+              "documentIdentifier" : "BJNR169300013BJNE000900000",
+              "paragraph" : "§ 7",
+              "title" : "Teil 1 der Abschlussprüfung in der Fachrichtung Metalltechnik"
+            },
+            {
+              "documentIdentifier" : "BJNR169300013BJNE001000000",
+              "paragraph" : "§ 8",
+              "title" : "Teil 2 der Abschlussprüfung in der Fachrichtung Metalltechnik"
+            },
+            {
+              "documentIdentifier" : "BJNR169300013BJNE001101377",
+              "paragraph" : "§ 9",
+              "title" : "Gewichtungs- und Bestehensregelungen in der Fachrichtung Metalltechnik"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Fachrichtung Metalltechnik"
+        },
+        {
+          "documentIdentifier" : "BJNR169300013BJNG000400000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR169300013BJNE001200000",
+              "paragraph" : "§ 10",
+              "title" : "Abschlussprüfung in der Fachrichtung Kunststofftechnik"
+            },
+            {
+              "documentIdentifier" : "BJNR169300013BJNE001300000",
+              "paragraph" : "§ 11",
+              "title" : "Teil 1 der Abschlussprüfung in der Fachrichtung Kunststofftechnik"
+            },
+            {
+              "documentIdentifier" : "BJNR169300013BJNE001400000",
+              "paragraph" : "§ 12",
+              "title" : "Teil 2 der Abschlussprüfung in der Fachrichtung Kunststofftechnik"
+            },
+            {
+              "documentIdentifier" : "BJNR169300013BJNE001501377",
+              "paragraph" : "§ 13",
+              "title" : "Gewichtungs- und Bestehensregelungen in der Fachrichtung Kunststofftechnik"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Fachrichtung Kunststofftechnik"
+        },
+        {
+          "documentIdentifier" : "BJNR169300013BJNG000500000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR169300013BJNE001600000",
+              "paragraph" : "§ 14",
+              "title" : "Abschlussprüfung in der Fachrichtung Wärmebehandlungstechnik"
+            },
+            {
+              "documentIdentifier" : "BJNR169300013BJNE001700000",
+              "paragraph" : "§ 15",
+              "title" : "Teil 1 der Abschlussprüfung in der Fachrichtung Wärmebehandlungstechnik"
+            },
+            {
+              "documentIdentifier" : "BJNR169300013BJNE001800000",
+              "paragraph" : "§ 16",
+              "title" : "Teil 2 der Abschlussprüfung in der Fachrichtung Wärmebehandlungstechnik"
+            },
+            {
+              "documentIdentifier" : "BJNR169300013BJNE001901377",
+              "paragraph" : "§ 17",
+              "title" : "Gewichtungs- und Bestehensregelungen in der Fachrichtung Wärmebehandlungstechnik"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Fachrichtung Wärmebehandlungstechnik"
+        },
+        {
+          "documentIdentifier" : "BJNR169300013BJNG000600000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR169300013BJNE002000000",
+              "paragraph" : "§ 18",
+              "title" : "Abschlussprüfung in der Fachrichtung Systemtechnik"
+            },
+            {
+              "documentIdentifier" : "BJNR169300013BJNE002100000",
+              "paragraph" : "§ 19",
+              "title" : "Teil 1 der Abschlussprüfung in der Fachrichtung Systemtechnik"
+            },
+            {
+              "documentIdentifier" : "BJNR169300013BJNE002200000",
+              "paragraph" : "§ 20",
+              "title" : "Teil 2 der Abschlussprüfung in der Fachrichtung Systemtechnik"
+            },
+            {
+              "documentIdentifier" : "BJNR169300013BJNE002301377",
+              "paragraph" : "§ 21",
+              "title" : "Gewichtungs- und Bestehensregelungen in der Fachrichtung Systemtechnik"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Fachrichtung Systemtechnik"
+        }
+      ],
+      "title" : "Fachrichtungsspezifische Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR169300013BJNG000700000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR169300013BJNE002400000",
+          "paragraph" : "§ 22",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR169300013BJNE002600000",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 4 Absatz 1 Satz 1)"
+        },
+        {
+          "documentIdentifier" : "BJNR169300013BJNE002700000",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 4 Absatz 1 Satz 2)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussvorschriften"
+    }
+  ]
+}

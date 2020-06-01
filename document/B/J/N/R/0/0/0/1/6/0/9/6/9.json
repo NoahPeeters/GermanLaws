@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR000160969",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR000160969Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR000160969BJNE000200328",
+          "paragraph" : "§ 1",
+          "title" : "Optimale Unternehmensgröße,\nSteinkohlenbergbaubereich"
+        },
+        {
+          "documentIdentifier" : "BJNR000160969BJNE000300328",
+          "paragraph" : "§ 2",
+          "title" : "Abbauplanung, Rationalisierung"
+        },
+        {
+          "documentIdentifier" : "BJNR000160969BJNE000400328",
+          "paragraph" : "§ 3",
+          "title" : "Investitionsplanung"
+        },
+        {
+          "documentIdentifier" : "BJNR000160969BJNE000500328",
+          "paragraph" : "§ 4",
+          "title" : "Konzentration und Anpassung"
+        },
+        {
+          "documentIdentifier" : "BJNR000160969BJNE000600328",
+          "paragraph" : "§ 5",
+          "title" : "Belegschaftswesen"
+        },
+        {
+          "documentIdentifier" : "BJNR000160969BJNE000700328",
+          "paragraph" : "§ 6",
+          "title" : "Anwendung im Land Berlin"
+        },
+        {
+          "documentIdentifier" : "BJNR000160969BJNE000800328",
+          "paragraph" : "§ 7",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

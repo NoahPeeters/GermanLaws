@@ -1,0 +1,118 @@
+{
+  "documentIdentifier" : "BJNR113410015",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR113410015BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR113410015BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Staatliche Anerkennung des Ausbildungsberufes"
+        },
+        {
+          "documentIdentifier" : "BJNR113410015BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Dauer der Berufsausbildung"
+        },
+        {
+          "documentIdentifier" : "BJNR113410015BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Gegenstand der Berufsausbildung und Ausbildungsrahmenplan"
+        },
+        {
+          "documentIdentifier" : "BJNR113410015BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Struktur der Berufsausbildung, Ausbildungsberufsbild"
+        },
+        {
+          "documentIdentifier" : "BJNR113410015BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Ausbildungsplan"
+        },
+        {
+          "documentIdentifier" : "BJNR113410015BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Schriftlicher Ausbildungsnachweis"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gegenstand, Dauer und Gliederung der Berufsausbildung"
+    },
+    {
+      "documentIdentifier" : "BJNR113410015BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR113410015BJNE000801119",
+          "paragraph" : "§ 7",
+          "title" : "Ziel, Aufteilung in zwei Teile und Zeitpunkt"
+        },
+        {
+          "documentIdentifier" : "BJNR113410015BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Inhalt von Teil 1"
+        },
+        {
+          "documentIdentifier" : "BJNR113410015BJNE001000000",
+          "paragraph" : "§ 9",
+          "title" : "Prüfungsbereich von Teil 1"
+        },
+        {
+          "documentIdentifier" : "BJNR113410015BJNE001100000",
+          "paragraph" : "§ 10",
+          "title" : "Inhalt von Teil 2"
+        },
+        {
+          "documentIdentifier" : "BJNR113410015BJNE001200000",
+          "paragraph" : "§ 11",
+          "title" : "Prüfungsbereiche von Teil 2"
+        },
+        {
+          "documentIdentifier" : "BJNR113410015BJNE001300000",
+          "paragraph" : "§ 12",
+          "title" : "Prüfungsbereich Kundenauftrag"
+        },
+        {
+          "documentIdentifier" : "BJNR113410015BJNE001400000",
+          "paragraph" : "§ 13",
+          "title" : "Prüfungsbereich Auftrags- und Fertigungsplanung"
+        },
+        {
+          "documentIdentifier" : "BJNR113410015BJNE001500000",
+          "paragraph" : "§ 14",
+          "title" : "Prüfungsbereich Gussstückherstellung"
+        },
+        {
+          "documentIdentifier" : "BJNR113410015BJNE001600000",
+          "paragraph" : "§ 15",
+          "title" : "Prüfungsbereich Wirtschafts- und Sozialkunde"
+        },
+        {
+          "documentIdentifier" : "BJNR113410015BJNE001701119",
+          "paragraph" : "§ 16",
+          "title" : "Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR113410015BJNE001800000",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 3 Absatz 1)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Abschlussprüfung"
+    }
+  ]
+}

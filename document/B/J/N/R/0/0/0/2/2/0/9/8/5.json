@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR000220985",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR000220985Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR000220985BJNE000201309",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich, Ausdehnung von Vorschriften des\nArzneimittelgesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR000220985BJNE000300314",
+          "paragraph" : "§ 2",
+          "title" : "Warnhinweis auf den Behältnissen und äußeren Umhüllungen"
+        },
+        {
+          "documentIdentifier" : "BJNR000220985BJNE000400314",
+          "paragraph" : "§ 3",
+          "title" : "Warnhinweis auf der Packungsbeilage"
+        },
+        {
+          "documentIdentifier" : "BJNR000220985BJNE000900309",
+          "paragraph" : "§ 3a",
+          "title" : "Warnhinweis auf der Fachinformation"
+        },
+        {
+          "documentIdentifier" : "BJNR000220985BJNE000500314",
+          "paragraph" : "§ 4",
+          "title" : "Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR000220985BJNE000600314",
+          "paragraph" : "§ 5",
+          "title" : "Berlin-Klausel"
+        },
+        {
+          "documentIdentifier" : "BJNR000220985BJNE000701307",
+          "paragraph" : "§ 6",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

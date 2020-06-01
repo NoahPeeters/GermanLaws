@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR005010978",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR005010978Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR005010978BJNE000200317",
+          "paragraph" : "§ 1",
+          "title" : "Gleichstellung von Prüfungszeugnissen"
+        },
+        {
+          "documentIdentifier" : "BJNR005010978BJNE000300317",
+          "paragraph" : "§ 2",
+          "title" : "Berlin-Klausel"
+        },
+        {
+          "documentIdentifier" : "BJNR005010978BJNE000400317",
+          "paragraph" : "§ 3",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR005010978BJNE888800308",
+          "paragraph" : "Anhang EV",
+          "title" : "Auszug aus EinigVtr Anlage I Kapitel XVI Sachgebiet C Abschnitt III\n"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

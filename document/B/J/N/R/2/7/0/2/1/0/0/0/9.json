@@ -1,0 +1,64 @@
+{
+  "documentIdentifier" : "BJNR270210009",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR270210009Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR270210009BJNE000101377",
+          "paragraph" : "§ 1",
+          "title" : "Stabilitätsrat"
+        },
+        {
+          "documentIdentifier" : "BJNR270210009BJNE000202360",
+          "paragraph" : "§ 2",
+          "title" : "Aufgaben des Stabilitätsrates"
+        },
+        {
+          "documentIdentifier" : "BJNR270210009BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Regelmäßige Haushaltsüberwachung"
+        },
+        {
+          "documentIdentifier" : "BJNR270210009BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Drohende Haushaltsnotlage"
+        },
+        {
+          "documentIdentifier" : "BJNR270210009BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Sanierungsverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR270210009BJNE000800360",
+          "paragraph" : "§ 5a",
+          "title" : "Überprüfung der Einhaltung der grundgesetzlichen Verschuldungsregel"
+        },
+        {
+          "documentIdentifier" : "BJNR270210009BJNE000601360",
+          "paragraph" : "§ 6",
+          "title" : "Einhaltung der Obergrenze des strukturellen gesamtstaatlichen Finanzierungsdefizits nach § 51 Absatz 2 des Haushaltsgrundsätzegesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR270210009BJNE000700377",
+          "paragraph" : "§ 7",
+          "title" : "Unabhängiger Beirat des Stabilitätsrates"
+        },
+        {
+          "documentIdentifier" : "BJNR270210009BJNE000900360",
+          "paragraph" : "§ 8",
+          "title" : "Unterrichtung der Parlamente"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR044610012",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR044610012Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR044610012BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Zuständige Behörden und Prüfung von Online-Sammelsystemen"
+        },
+        {
+          "documentIdentifier" : "BJNR044610012BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Sammeln von Unterstützungsbekundungen"
+        },
+        {
+          "documentIdentifier" : "BJNR044610012BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Überprüfung von Unterstützungsbekundungen"
+        },
+        {
+          "documentIdentifier" : "BJNR044610012BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Ungültigkeit von Unterstützungsbekundungen"
+        },
+        {
+          "documentIdentifier" : "BJNR044610012BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Bußgeldvorschriften"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "documentIdentifier" : "BJNR115530982",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR115530982BJNG000100328",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR115530982BJNE000400328",
+          "paragraph" : "§ 1",
+          "title" : "Allgemeine Anforderungen"
+        },
+        {
+          "documentIdentifier" : "BJNR115530982BJNE000500328",
+          "paragraph" : "§ 2",
+          "title" : "Änderungen der Karten und Lagerisse"
+        },
+        {
+          "documentIdentifier" : "BJNR115530982BJNE000600328",
+          "paragraph" : "§ 3",
+          "title" : "Maßstab der Karten und Lagerisse"
+        },
+        {
+          "documentIdentifier" : "BJNR115530982BJNE000700328",
+          "paragraph" : "§ 4",
+          "title" : "Titel der Karten und Lagerisse"
+        },
+        {
+          "documentIdentifier" : "BJNR115530982BJNE000800328",
+          "paragraph" : "§ 5",
+          "title" : "Begrenzung und Flächeninhalt einer\nBergbauberechtigung"
+        },
+        {
+          "documentIdentifier" : "BJNR115530982BJNE000900328",
+          "paragraph" : "§ 6",
+          "title" : "Fundstellen"
+        },
+        {
+          "documentIdentifier" : "BJNR115530982BJNE001000328",
+          "paragraph" : "§ 7",
+          "title" : "Unterlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR115530982BJNE001101301",
+          "paragraph" : "§ 8",
+          "title" : "Sondervorschrift für den Festlandsockel und die\nKüstengewässer"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Karten und Lagerisse für Bergbauberechtigungen"
+    },
+    {
+      "documentIdentifier" : "BJNR115530982BJNG000200328",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR115530982BJNE001201377",
+          "paragraph" : "§ 9",
+          "title" : "Mitteilungen über Beschäftigte und betriebliche\nVorgänge"
+        },
+        {
+          "documentIdentifier" : "BJNR115530982BJNE001300328",
+          "paragraph" : "§ 10",
+          "title" : "Mitteilung von Unfällen"
+        },
+        {
+          "documentIdentifier" : "BJNR115530982BJNE001400328",
+          "paragraph" : "§ 11",
+          "title" : "Nachweis über Beschäftigte"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Mitteilungen und Nachweise durch bergbauliche Unternehmer"
+    },
+    {
+      "documentIdentifier" : "BJNR115530982BJNG000300328",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR115530982BJNE001600328",
+          "paragraph" : "§ 13",
+          "title" : "Ablösung von Vorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR115530982BJNE001700328",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 1)\n"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlußvorschriften"
+    }
+  ]
+}

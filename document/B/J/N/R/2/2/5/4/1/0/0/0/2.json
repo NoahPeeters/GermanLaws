@@ -1,0 +1,173 @@
+{
+  "documentIdentifier" : "BJNR225410002",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR225410002BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR225410002BJNE000101123",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR225410002BJNE000201123",
+          "paragraph" : "§ 2",
+          "title" : "Anwendung des allgemeinen Rechts"
+        },
+        {
+          "documentIdentifier" : "BJNR225410002BJNE000301123",
+          "paragraph" : "§ 3",
+          "title" : "Handeln auf Befehl oder Anordnung"
+        },
+        {
+          "documentIdentifier" : "BJNR225410002BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Verantwortlichkeit militärischer Befehlshaber und anderer Vorgesetzter"
+        },
+        {
+          "documentIdentifier" : "BJNR225410002BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Unverjährbarkeit"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Regelungen"
+    },
+    {
+      "documentIdentifier" : "BJNR225410002BJNG000300000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR225410002BJNG000400000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR225410002BJNE000600000",
+              "paragraph" : "§ 6",
+              "title" : "Völkermord"
+            },
+            {
+              "documentIdentifier" : "BJNR225410002BJNE000700000",
+              "paragraph" : "§ 7",
+              "title" : "Verbrechen gegen die Menschlichkeit"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Völkermord und Verbrechen gegen die Menschlichkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR225410002BJNG000500000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR225410002BJNE000800000",
+              "paragraph" : "§ 8",
+              "title" : "Kriegsverbrechen gegen Personen"
+            },
+            {
+              "documentIdentifier" : "BJNR225410002BJNE000900000",
+              "paragraph" : "§ 9",
+              "title" : "Kriegsverbrechen gegen Eigentum und sonstige Rechte"
+            },
+            {
+              "documentIdentifier" : "BJNR225410002BJNE001000000",
+              "paragraph" : "§ 10",
+              "title" : "Kriegsverbrechen gegen humanitäre Operationen und Embleme"
+            },
+            {
+              "documentIdentifier" : "BJNR225410002BJNE001100000",
+              "paragraph" : "§ 11",
+              "title" : "Kriegsverbrechen des Einsatzes verbotener Methoden der Kriegsführung"
+            },
+            {
+              "documentIdentifier" : "BJNR225410002BJNE001200000",
+              "paragraph" : "§ 12",
+              "title" : "Kriegsverbrechen des Einsatzes verbotener Mittel der Kriegsführung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Kriegsverbrechen"
+        },
+        {
+          "documentIdentifier" : "BJNR225410002BJNG000700123",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR225410002BJNE001600123",
+              "paragraph" : "§ 13",
+              "title" : "Verbrechen der Aggression"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Verbrechen der Aggression"
+        },
+        {
+          "documentIdentifier" : "BJNR225410002BJNG000601123",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR225410002BJNE001301123",
+              "paragraph" : "§ 14",
+              "title" : "Verletzung der Aufsichtspflicht"
+            },
+            {
+              "documentIdentifier" : "BJNR225410002BJNE001401123",
+              "paragraph" : "§ 15",
+              "title" : "Unterlassen der Meldung einer Straftat"
+            },
+            {
+              "documentIdentifier" : "BJNR225410002BJNE001500000",
+              "paragraph" : "Anlage",
+              "title" : "(zu § 8 Abs. 6 Nr. 1)"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Sonstige Straftaten"
+        }
+      ],
+      "title" : "Straftaten gegen das Völkerrecht"
+    }
+  ]
+}

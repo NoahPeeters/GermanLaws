@@ -1,0 +1,74 @@
+{
+  "documentIdentifier" : "BJNR001890955",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR001890955Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR001890955BJNE000100311",
+          "paragraph" : "§ 1",
+          "title" : "Finanzverwaltung"
+        },
+        {
+          "documentIdentifier" : "BJNR001890955BJNE000200311",
+          "paragraph" : "§ 2",
+          "title" : "Kriegsfolgelasten"
+        },
+        {
+          "documentIdentifier" : "BJNR001890955BJNE000300311",
+          "paragraph" : "§ 3",
+          "title" : "Behörden der Kriegsopferversorgung"
+        },
+        {
+          "documentIdentifier" : "BJNR001890955BJNE000400311",
+          "paragraph" : "§ 4",
+          "title" : "Bundesstatistiken"
+        },
+        {
+          "documentIdentifier" : "BJNR001890955BJNE000500311",
+          "paragraph" : "§ 5",
+          "title" : "Ablieferung von Steuereinnahmen"
+        },
+        {
+          "documentIdentifier" : "BJNR001890955BJNE000600311",
+          "paragraph" : "§ 6",
+          "title" : "Auskunftspflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR001890955BJNE000700311",
+          "paragraph" : "§ 7",
+          "title" : "Überleitung"
+        },
+        {
+          "documentIdentifier" : "BJNR001890955BJNE000800311",
+          "paragraph" : "§ 8",
+          "title" : "Außerkrafttreten von Gesetzen"
+        },
+        {
+          "documentIdentifier" : "BJNR001890955BJNE000900311",
+          "paragraph" : "§ 9",
+          "title" : "Neufassung von Gesetzen"
+        },
+        {
+          "documentIdentifier" : "BJNR001890955BJNE001000311",
+          "paragraph" : "§ 10",
+          "title" : "Geltung in Berlin"
+        },
+        {
+          "documentIdentifier" : "BJNR001890955BJNE001200311",
+          "paragraph" : "§ 11",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

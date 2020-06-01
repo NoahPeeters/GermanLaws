@@ -1,0 +1,116 @@
+{
+  "documentIdentifier" : "BJNR385400001",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR385400001BJNG000100377",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR385400001BJNE000102377",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR385400001BJNE000201377",
+          "paragraph" : "§ 2",
+          "title" : "Biologische Sicherheitsprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR385400001BJNE000303377",
+          "paragraph" : "§ 3",
+          "title" : "Allgemeine Vorschriften zur Durchführung der Konformitätsbewertung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Anwendungsbereich und Allgemeine Anforderungen an die Konformitätsbewertung"
+    },
+    {
+      "documentIdentifier" : "BJNR385400001BJNG000200377",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR385400001BJNE000402123",
+          "paragraph" : "§ 4",
+          "title" : "Konformitätsbewertungsverfahren für aktive implantierbare Medizinprodukte"
+        },
+        {
+          "documentIdentifier" : "BJNR385400001BJNE000501377",
+          "paragraph" : "§ 5",
+          "title" : "Konformitätsbewertungsverfahren für In-vitro-Diagnostika"
+        },
+        {
+          "documentIdentifier" : "BJNR385400001BJNE001103123",
+          "paragraph" : "§ 6",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR385400001BJNE000603123",
+          "paragraph" : "§ 7",
+          "title" : "Konformitätsbewertungsverfahren für die sonstigen Medizinprodukte"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Anforderungen an die Verfahren der  Konformitätsbewertung"
+    },
+    {
+      "documentIdentifier" : "BJNR385400001BJNG000300377",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR385400001BJNE000801377",
+          "paragraph" : "§ 8",
+          "title" : "Brustimplantate"
+        },
+        {
+          "documentIdentifier" : "BJNR385400001BJNE001200377",
+          "paragraph" : "§ 9",
+          "title" : "Gelenkersatz für Hüfte, Knie und Schulter"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Änderungen der Klassifizierung von Medizinprodukten"
+    },
+    {
+      "documentIdentifier" : "BJNR385400001BJNG000400377",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR385400001BJNE001301123",
+          "paragraph" : "§ 10",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR385400001BJNE001400377",
+          "paragraph" : "§ 11",
+          "title" : "Übergangsbestimmungen für Gelenkersatz für Hüfte, Knie und Schulter"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übergangsbestimmungen"
+    }
+  ]
+}

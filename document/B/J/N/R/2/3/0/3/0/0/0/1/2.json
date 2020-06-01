@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR230300012",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR230300012Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR230300012BJNE002001311",
+          "paragraph" : "(XXXX) §§ 1 bis 9",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR230300012BJNE001100000",
+          "paragraph" : "§ 10",
+          "title" : "Vorschlagsverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR230300012BJNE001200000",
+          "paragraph" : "§ 11",
+          "title" : "Inkrafttreten, Außerkrafttreten, Übergangsregelung"
+        },
+        {
+          "documentIdentifier" : "BJNR230300012BJNE002101311",
+          "paragraph" : "(XXXX) Anlagen 1a bis 4",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

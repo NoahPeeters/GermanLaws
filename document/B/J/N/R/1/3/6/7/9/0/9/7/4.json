@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR136790974",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR136790974Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR136790974BJNE000100317",
+          "paragraph" : "§ 1",
+          "title" : "Freigabe der stillgelegten Mittel"
+        },
+        {
+          "documentIdentifier" : "BJNR136790974BJNE000200317",
+          "paragraph" : "§ 2",
+          "title" : "Aufhebung der Stillegungspflicht für künftig aufkommende\nBeträge"
+        },
+        {
+          "documentIdentifier" : "BJNR136790974BJNE000300317",
+          "paragraph" : "§ 3",
+          "title" : "Berlin-Klausel"
+        },
+        {
+          "documentIdentifier" : "BJNR136790974BJNE000400317",
+          "paragraph" : "§ 4",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

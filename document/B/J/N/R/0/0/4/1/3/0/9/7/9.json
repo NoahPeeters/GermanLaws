@@ -1,0 +1,155 @@
+{
+  "documentIdentifier" : "BJNR004130979",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR004130979BJNG000100315",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR004130979BJNE000702160",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR004130979BJNE000800315",
+          "paragraph" : "§ 2",
+          "title" : "Freies Mandat"
+        },
+        {
+          "documentIdentifier" : "BJNR004130979BJNE000901160",
+          "paragraph" : "§ 3",
+          "title" : "Schutz der Mandatsbewerber und der Mandatsausübung"
+        },
+        {
+          "documentIdentifier" : "BJNR004130979BJNE001002307",
+          "paragraph" : "§ 4",
+          "title" : "Wahlvorbereitungsurlaub, Berufs- und Betriebszeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR004130979BJNE001101301",
+          "paragraph" : "§ 5",
+          "title" : "Indemnität und Immunität"
+        },
+        {
+          "documentIdentifier" : "BJNR004130979BJNE001200315",
+          "paragraph" : "§ 6",
+          "title" : "Zeugnisverweigerungsrecht"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Mandatsbewerbung und Mandatsausübung"
+    },
+    {
+      "documentIdentifier" : "BJNR004130979BJNG000200315",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR004130979BJNE001303377",
+          "paragraph" : "§ 7",
+          "title" : "Unvereinbarkeit von Ämtern, Funktionen und Mandaten mit der\nMitgliedschaft im Europäischen Parlament"
+        },
+        {
+          "documentIdentifier" : "BJNR004130979BJNE001400315",
+          "paragraph" : "§ 8",
+          "title" : "Angehörige des öffentlichen Dienstes"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Unvereinbarkeiten, Angehörige des öffentlichen Dienstes"
+    },
+    {
+      "documentIdentifier" : "BJNR004130979BJNG000300315",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR004130979BJNE001516116",
+          "paragraph" : "§ 9",
+          "title" : "Entschädigung"
+        },
+        {
+          "documentIdentifier" : "BJNR004130979BJNE001605160",
+          "paragraph" : "§ 10",
+          "title" : "Freifahrtberechtigung und Erstattung von Fahrkosten"
+        },
+        {
+          "documentIdentifier" : "BJNR004130979BJNE001700315",
+          "paragraph" : "§ 10a",
+          "title" : "Inanspruchnahme von Leistungen des Deutschen Bundestages"
+        },
+        {
+          "documentIdentifier" : "BJNR004130979BJNE001806116",
+          "paragraph" : "§ 10b",
+          "title" : "Leistungen an ehemalige Mitglieder des Europäischen Parlaments und ihre Hinterbliebenen"
+        },
+        {
+          "documentIdentifier" : "BJNR004130979BJNE001903116",
+          "paragraph" : "§ 11",
+          "title" : "Zuschuß zu den Kosten in Krankheits-, Pflege- und Geburtsfällen, Unterstützungen"
+        },
+        {
+          "documentIdentifier" : "BJNR004130979BJNE002005116",
+          "paragraph" : "§ 12",
+          "title" : "Beginn und Ende der Ansprüche, Zahlungsvorschriften"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Leistungen an die Mitglieder des Europäischen Parlaments, an ehemalige Mitglieder und ihre Hinterbliebenen"
+    },
+    {
+      "documentIdentifier" : "BJNR004130979BJNG000400315",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR004130979BJNE002105116",
+          "paragraph" : "§ 13",
+          "title" : "Anrechnung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Anrechnung beim Zusammentreffen mehrerer Bezüge aus öffentlichen Kassen"
+    },
+    {
+      "documentIdentifier" : "BJNR004130979BJNG000501160",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR004130979BJNE002202160",
+          "paragraph" : "§ 14",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "(weggefallen)"
+    }
+  ]
+}

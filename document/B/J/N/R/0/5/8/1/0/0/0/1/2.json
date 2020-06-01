@@ -1,0 +1,111 @@
+{
+  "documentIdentifier" : "BJNR058100012",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR058100012BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR058100012BJNE000101000",
+          "paragraph" : "§ 1",
+          "title" : "Übertritt des Personals"
+        },
+        {
+          "documentIdentifier" : "BJNR058100012BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Geschäftsführer"
+        },
+        {
+          "documentIdentifier" : "BJNR058100012BJNE000301000",
+          "paragraph" : "§ 3",
+          "title" : "Sonstige personalrechtliche Übergangsregelungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Personalrechtliche Übergangsregelungen"
+    },
+    {
+      "documentIdentifier" : "BJNR058100012BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR058100012BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Übergangsregelungen zu den Selbstverwaltungsorganen der Sozialversicherung für Landwirtschaft, Forsten und Gartenbau"
+        },
+        {
+          "documentIdentifier" : "BJNR058100012BJNE000501000",
+          "paragraph" : "§ 5",
+          "title" : "Vertreterversammlung"
+        },
+        {
+          "documentIdentifier" : "BJNR058100012BJNE000600000",
+          "paragraph" : "§ 6",
+          "title" : "Vorstand"
+        },
+        {
+          "documentIdentifier" : "BJNR058100012BJNE000700000",
+          "paragraph" : "§ 7",
+          "title" : "Beiräte"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übergangsregelungen zum Selbstverwaltungsrecht"
+    },
+    {
+      "documentIdentifier" : "BJNR058100012BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR058100012BJNE000800000",
+          "paragraph" : "§ 8",
+          "title" : "Errichtungsausschuss"
+        },
+        {
+          "documentIdentifier" : "BJNR058100012BJNE000900000",
+          "paragraph" : "§ 9",
+          "title" : "Haushaltsplan 2013"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Aufbau der Sozialversicherung für Landwirtschaft, Forsten und Gartenbau"
+    },
+    {
+      "documentIdentifier" : "BJNR058100012BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR058100012BJNE001000000",
+          "paragraph" : "§ 10",
+          "title" : "Sondervermögen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Bildung von Sondervermögen"
+    }
+  ]
+}

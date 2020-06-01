@@ -1,0 +1,163 @@
+{
+  "documentIdentifier" : "BJNR202629957",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR202629957BJNG000100314",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Art 1"
+    },
+    {
+      "documentIdentifier" : "BJNR202629957BJNG000200314",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR202629957BJNE000500314",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR202629957BJNE000600314",
+              "laws" : [
+
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2
+                ]
+              },
+              "subsections" : [
+                {
+                  "documentIdentifier" : "BJNR202629957BJNE000700314",
+                  "laws" : [
+
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      2
+                    ]
+                  },
+                  "subsections" : [
+                    {
+                      "documentIdentifier" : "BJNR202629957BJNE000800314",
+                      "laws" : [
+
+                      ],
+                      "sectionNumber" : {
+                        "numbers" : [
+                          2
+                        ]
+                      },
+                      "subsections" : [
+                        {
+                          "documentIdentifier" : "BJNR202629957BJNE000900314",
+                          "laws" : [
+
+                          ],
+                          "sectionNumber" : {
+                            "numbers" : [
+                              2
+                            ]
+                          },
+                          "subsections" : [
+                            {
+                              "documentIdentifier" : "BJNR202629957BJNE001000314",
+                              "laws" : [
+
+                              ],
+                              "sectionNumber" : {
+                                "numbers" : [
+                                  2
+                                ]
+                              },
+                              "subsections" : [
+                                {
+                                  "documentIdentifier" : "BJNR202629957BJNE001100314",
+                                  "laws" : [
+
+                                  ],
+                                  "sectionNumber" : {
+                                    "numbers" : [
+                                      2
+                                    ]
+                                  },
+                                  "subsections" : [
+
+                                  ],
+                                  "title" : "Art 2"
+                                }
+                              ],
+                              "title" : "Art 2"
+                            }
+                          ],
+                          "title" : "Art 2"
+                        }
+                      ],
+                      "title" : "Art 2"
+                    }
+                  ],
+                  "title" : "Art 2"
+                }
+              ],
+              "title" : "Art 2"
+            }
+          ],
+          "title" : "Art 2"
+        }
+      ],
+      "title" : "Art 2"
+    },
+    {
+      "documentIdentifier" : "BJNR202629957BJNG000300314",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Art 3"
+    },
+    {
+      "documentIdentifier" : "BJNR202629957BJNG000400314",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Art 4"
+    }
+  ]
+}

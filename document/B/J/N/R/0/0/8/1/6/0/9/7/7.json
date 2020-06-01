@@ -1,0 +1,330 @@
+{
+  "documentIdentifier" : "BJNR008160977",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR008160977BJNG000100328",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR008160977BJNE000901307",
+          "paragraph" : "Regel 1",
+          "title" : "Anwendung"
+        },
+        {
+          "documentIdentifier" : "BJNR008160977BJNE001000328",
+          "paragraph" : "Regel 2",
+          "title" : "Verantwortlichkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR008160977BJNE001102308",
+          "paragraph" : "Regel 3",
+          "title" : "Allgemeine Begriffsbestimmungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeines"
+    },
+    {
+      "documentIdentifier" : "BJNR008160977BJNG000200328",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR008160977BJNG000300328",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR008160977BJNE001200328",
+              "paragraph" : "Regel 4",
+              "title" : "Anwendung"
+            },
+            {
+              "documentIdentifier" : "BJNR008160977BJNE001300328",
+              "paragraph" : "Regel 5",
+              "title" : "Ausguck"
+            },
+            {
+              "documentIdentifier" : "BJNR008160977BJNE001400328",
+              "paragraph" : "Regel 6",
+              "title" : "Sichere Geschwindigkeit"
+            },
+            {
+              "documentIdentifier" : "BJNR008160977BJNE001500328",
+              "paragraph" : "Regel 7",
+              "title" : "Möglichkeit der Gefahr eines Zusammenstoßes"
+            },
+            {
+              "documentIdentifier" : "BJNR008160977BJNE001602308",
+              "paragraph" : "Regel 8",
+              "title" : "Manöver zur Vermeidung von Zusammenstößen"
+            },
+            {
+              "documentIdentifier" : "BJNR008160977BJNE001700328",
+              "paragraph" : "Regel 9",
+              "title" : "Enge Fahrwasser"
+            },
+            {
+              "documentIdentifier" : "BJNR008160977BJNE001802308",
+              "paragraph" : "Regel 10",
+              "title" : "Verkehrstrennungsgebiete"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Verhalten von Fahrzeugen bei allen Sichtverhältnissen"
+        },
+        {
+          "documentIdentifier" : "BJNR008160977BJNG000400328",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR008160977BJNE001900328",
+              "paragraph" : "Regel 11",
+              "title" : "Anwendung"
+            },
+            {
+              "documentIdentifier" : "BJNR008160977BJNE002000328",
+              "paragraph" : "Regel 12",
+              "title" : "Segelfahrzeuge"
+            },
+            {
+              "documentIdentifier" : "BJNR008160977BJNE002100328",
+              "paragraph" : "Regel 13",
+              "title" : "Überholen"
+            },
+            {
+              "documentIdentifier" : "BJNR008160977BJNE002200328",
+              "paragraph" : "Regel 14",
+              "title" : "Entgegengesetzte Kurse"
+            },
+            {
+              "documentIdentifier" : "BJNR008160977BJNE002300328",
+              "paragraph" : "Regel 15",
+              "title" : "Kreuzende Kurse"
+            },
+            {
+              "documentIdentifier" : "BJNR008160977BJNE002400328",
+              "paragraph" : "Regel 16",
+              "title" : "Maßnahmen des Ausweichpflichtigen"
+            },
+            {
+              "documentIdentifier" : "BJNR008160977BJNE002500328",
+              "paragraph" : "Regel 17",
+              "title" : "Maßnahmen des Kurshalters"
+            },
+            {
+              "documentIdentifier" : "BJNR008160977BJNE002601308",
+              "paragraph" : "Regel 18",
+              "title" : "Verantwortlichkeiten der Fahrzeuge untereinander"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Verhalten von Fahrzeugen, die einander in Sicht haben"
+        },
+        {
+          "documentIdentifier" : "BJNR008160977BJNG000500328",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR008160977BJNE002700328",
+              "paragraph" : "Regel 19",
+              "title" : "Verhalten von Fahrzeugen bei verminderter Sicht"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Verhalten von Fahrzeugen bei verminderter Sicht"
+        }
+      ],
+      "title" : "Ausweich- und Fahrregeln"
+    },
+    {
+      "documentIdentifier" : "BJNR008160977BJNG000600328",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR008160977BJNE002800328",
+          "paragraph" : "Regel 20",
+          "title" : "Anwendung"
+        },
+        {
+          "documentIdentifier" : "BJNR008160977BJNE002900328",
+          "paragraph" : "Regel 21",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR008160977BJNE003000328",
+          "paragraph" : "Regel 22",
+          "title" : "Tragweite der Lichter"
+        },
+        {
+          "documentIdentifier" : "BJNR008160977BJNE003101308",
+          "paragraph" : "Regel 23",
+          "title" : "Maschinenfahrzeuge in Fahrt"
+        },
+        {
+          "documentIdentifier" : "BJNR008160977BJNE003200328",
+          "paragraph" : "Regel 24",
+          "title" : "Schleppen und Schieben"
+        },
+        {
+          "documentIdentifier" : "BJNR008160977BJNE003300328",
+          "paragraph" : "Regel 25",
+          "title" : "Segelfahrzeuge in Fahrt und Fahrzeuge unter Ruder"
+        },
+        {
+          "documentIdentifier" : "BJNR008160977BJNE003401308",
+          "paragraph" : "Regel 26",
+          "title" : "Fischereifahrzeuge"
+        },
+        {
+          "documentIdentifier" : "BJNR008160977BJNE003500328",
+          "paragraph" : "Regel 27",
+          "title" : "Manövrierunfähige oder manövrierbehinderte Fahrzeuge"
+        },
+        {
+          "documentIdentifier" : "BJNR008160977BJNE003600328",
+          "paragraph" : "Regel 28",
+          "title" : "Tiefgangbehinderte Fahrzeuge"
+        },
+        {
+          "documentIdentifier" : "BJNR008160977BJNE003700328",
+          "paragraph" : "Regel 29",
+          "title" : "Lotsenfahrzeuge"
+        },
+        {
+          "documentIdentifier" : "BJNR008160977BJNE003800328",
+          "paragraph" : "Regel 30",
+          "title" : "Fahrzeuge vor Anker und auf Grund"
+        },
+        {
+          "documentIdentifier" : "BJNR008160977BJNE003901308",
+          "paragraph" : "Regel 31",
+          "title" : "Wasserflugzeuge"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Lichter und Signalkörper"
+    },
+    {
+      "documentIdentifier" : "BJNR008160977BJNG000700328",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR008160977BJNE004000328",
+          "paragraph" : "Regel 32",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR008160977BJNE004101308",
+          "paragraph" : "Regel 33",
+          "title" : "Ausrüstung für Schallsignale"
+        },
+        {
+          "documentIdentifier" : "BJNR008160977BJNE004200328",
+          "paragraph" : "Regel 34",
+          "title" : "Manöver- und Warnsignale"
+        },
+        {
+          "documentIdentifier" : "BJNR008160977BJNE004301308",
+          "paragraph" : "Regel 35",
+          "title" : "Schallsignale bei verminderter Sicht"
+        },
+        {
+          "documentIdentifier" : "BJNR008160977BJNE004400328",
+          "paragraph" : "Regel 36",
+          "title" : "Aufmerksamkeitssignale"
+        },
+        {
+          "documentIdentifier" : "BJNR008160977BJNE004500328",
+          "paragraph" : "Regel 37",
+          "title" : "Notsignale"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schall- und Lichtsignale"
+    },
+    {
+      "documentIdentifier" : "BJNR008160977BJNG000800328",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR008160977BJNE004600328",
+          "paragraph" : "Regel 38",
+          "title" : "Befreiungen"
+        },
+        {
+          "documentIdentifier" : "BJNR008160977BJNE004703308",
+          "paragraph" : "Anlage I",
+          "title" : "Anordnung und technische Einzelheiten der Lichter\nund Signalkörper"
+        },
+        {
+          "documentIdentifier" : "BJNR008160977BJNE004801308",
+          "paragraph" : "Anlage II",
+          "title" : "Zusatzsignale für nahe beieinander fischende Fahrzeuge"
+        },
+        {
+          "documentIdentifier" : "BJNR008160977BJNE004901308",
+          "paragraph" : "Anlage III",
+          "title" : "Technische Einzelheiten der Schallsignalanlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR008160977BJNE005003305",
+          "paragraph" : "Anlage IV",
+          "title" : "Notzeichen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Befreiungen"
+    }
+  ]
+}

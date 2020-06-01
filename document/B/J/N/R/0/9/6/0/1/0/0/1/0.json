@@ -1,0 +1,130 @@
+{
+  "documentIdentifier" : "BJNR096010010",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR096010010BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR096010010BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR096010010BJNE000301119",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Anwendungsbereich und Begriffsbestimmungen"
+    },
+    {
+      "documentIdentifier" : "BJNR096010010BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR096010010BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Gefährdungsbeurteilung"
+        },
+        {
+          "documentIdentifier" : "BJNR096010010BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Messungen und Berechnungen"
+        },
+        {
+          "documentIdentifier" : "BJNR096010010BJNE000602360",
+          "paragraph" : "§ 5",
+          "title" : "Fachkundige Personen, Laserschutzbeauftragter"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Ermittlung und Bewertung der Gefährdungen durch künstliche optische Strahlung; Messungen"
+    },
+    {
+      "documentIdentifier" : "BJNR096010010BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR096010010BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Expositionsgrenzwerte für künstliche optische Strahlung"
+        },
+        {
+          "documentIdentifier" : "BJNR096010010BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Maßnahmen zur Vermeidung und Verringerung der Gefährdungen von Beschäftigten durch künstliche optische Strahlung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Expositionsgrenzwerte für und Schutzmaßnahmen gegen künstliche optische Strahlung"
+    },
+    {
+      "documentIdentifier" : "BJNR096010010BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR096010010BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Unterweisung der Beschäftigten"
+        },
+        {
+          "documentIdentifier" : "BJNR096010010BJNE001001360",
+          "paragraph" : "§ 9",
+          "title" : "Beratung durch den Ausschuss für Betriebssicherheit"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Unterweisung der Beschäftigten bei Gefährdungen durch künstliche optische Strahlung; Beratung durch den Ausschuss für Betriebssicherheit"
+    },
+    {
+      "documentIdentifier" : "BJNR096010010BJNG000500000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR096010010BJNE001101119",
+          "paragraph" : "§ 10",
+          "title" : "Ausnahmen"
+        },
+        {
+          "documentIdentifier" : "BJNR096010010BJNE001201119",
+          "paragraph" : "§ 11",
+          "title" : "Straftaten und Ordnungswidrigkeiten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Ausnahmen; Straftaten und Ordnungswidrigkeiten"
+    }
+  ]
+}

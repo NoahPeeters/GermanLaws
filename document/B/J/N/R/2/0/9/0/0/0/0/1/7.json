@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR209000017",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR209000017Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR209000017BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Registrierung im Transparenzregister und Übermittlung der Mindestangaben"
+        },
+        {
+          "documentIdentifier" : "BJNR209000017BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Pflicht zur Mitteilung bei Änderung der Registrierungsdaten"
+        },
+        {
+          "documentIdentifier" : "BJNR209000017BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Übermittlung der Angaben zu wirtschaftlich Berechtigten"
+        },
+        {
+          "documentIdentifier" : "BJNR209000017BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Übermittlung der Indexdaten durch den Betreiber des Unternehmensregisters"
+        },
+        {
+          "documentIdentifier" : "BJNR209000017BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Änderung und Aktualisierung der Indexdaten"
+        },
+        {
+          "documentIdentifier" : "BJNR209000017BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Störungen bei der Indexdatenübermittlung, Sicherheitskonzept für das Transparenzregister"
+        },
+        {
+          "documentIdentifier" : "BJNR209000017BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

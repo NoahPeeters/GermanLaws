@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR008340979",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR008340979Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR008340979BJNE000200319",
+          "paragraph" : "§ 1",
+          "title" : "Ausbildungsstätten"
+        },
+        {
+          "documentIdentifier" : "BJNR008340979BJNE000301307",
+          "paragraph" : "§ 2",
+          "title" : "Förderungsrechtliche Stellung der Auszubildenden"
+        },
+        {
+          "documentIdentifier" : "BJNR008340979BJNE000400319",
+          "paragraph" : "§ 3",
+          "title" : "Berlin-Klausel"
+        },
+        {
+          "documentIdentifier" : "BJNR008340979BJNE000500319",
+          "paragraph" : "§ 4",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "documentIdentifier" : "BJNR006030961",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR006030961Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR006030961BJNE000202310",
+          "paragraph" : "§ 1",
+          "title" : "Geltungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR006030961BJNE000301301",
+          "paragraph" : "§ 2",
+          "title" : "Einfacher Dienst"
+        },
+        {
+          "documentIdentifier" : "BJNR006030961BJNE000405310",
+          "paragraph" : "§ 3",
+          "title" : "Mittlerer Dienst"
+        },
+        {
+          "documentIdentifier" : "BJNR006030961BJNE000503320",
+          "paragraph" : "§ 4",
+          "title" : "Gehobener Dienst"
+        },
+        {
+          "documentIdentifier" : "BJNR006030961BJNE000607310",
+          "paragraph" : "§ 5",
+          "title" : "Höherer Dienst"
+        },
+        {
+          "documentIdentifier" : "BJNR006030961BJNE000704320",
+          "paragraph" : "§ 6",
+          "title" : "Aufstieg in höhere Laufbahnen"
+        },
+        {
+          "documentIdentifier" : "BJNR006030961BJNE000802320",
+          "paragraph" : "§ 7",
+          "title" : "Bundesfinanzakademie"
+        },
+        {
+          "documentIdentifier" : "BJNR006030961BJNE000903320",
+          "paragraph" : "§ 8",
+          "title" : "Ausbildungs- und Prüfungsordnung"
+        },
+        {
+          "documentIdentifier" : "BJNR006030961BJNE001203320",
+          "paragraph" : "§ 9",
+          "title" : "Übergangsvorschriften"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

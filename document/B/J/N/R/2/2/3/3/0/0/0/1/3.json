@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR223300013",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR223300013Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR223300013BJNE000100000",
+          "paragraph" : "Art 1",
+          "title" : "Stiftung"
+        },
+        {
+          "documentIdentifier" : "BJNR223300013BJNE000200000",
+          "paragraph" : "Art 2",
+          "title" : "Gestaltung"
+        },
+        {
+          "documentIdentifier" : "BJNR223300013BJNE000300000",
+          "paragraph" : "Art 3",
+          "title" : "Verleihung und Trageweise"
+        },
+        {
+          "documentIdentifier" : "BJNR223300013BJNE000400000",
+          "paragraph" : "Art 4",
+          "title" : "Vorschlagsberechtigung"
+        },
+        {
+          "documentIdentifier" : "BJNR223300013BJNE000500000",
+          "paragraph" : "Art 5",
+          "title" : "Verfahren"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR414510013",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR414510013Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR414510013BJNE000101124",
+          "paragraph" : "§ 1",
+          "title" : "Meldeverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR414510013BJNE000201301",
+          "paragraph" : "§ 2",
+          "title" : "Übermittlungsverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR414510013BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR414510013BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Übergangsvorschrift"
+        },
+        {
+          "documentIdentifier" : "BJNR414510013BJNE000501124",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 1 Absatz 2) Meldung von in Tierversuchen verwendeten Wirbeltieren oder Kopffüßern oder nach § 4 Absatz 3 des Tierschutzgesetzes verwendeten Wirbeltieren für das Jahr: ______     "
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

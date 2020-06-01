@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR023300988",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR023300988Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR023300988BJNE000200325",
+          "paragraph" : "Art 1",
+          "title" : "Änderung des Vierten Buches Sozialgesetzbuch"
+        },
+        {
+          "documentIdentifier" : "BJNR023300988BJNE000400325",
+          "paragraph" : "Art 17",
+          "title" : "Übergangsvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR023300988BJNE000500325",
+          "paragraph" : "Art 18",
+          "title" : "Berlin-Klausel"
+        },
+        {
+          "documentIdentifier" : "BJNR023300988BJNE000600325",
+          "paragraph" : "Art 19",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

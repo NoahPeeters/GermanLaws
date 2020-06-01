@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR255300005",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR255300005Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR255300005BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Auflösung der Anstalt"
+        },
+        {
+          "documentIdentifier" : "BJNR255300005BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Gesamtrechtsnachfolge"
+        },
+        {
+          "documentIdentifier" : "BJNR255300005BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Kosten"
+        },
+        {
+          "documentIdentifier" : "BJNR255300005BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

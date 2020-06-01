@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR218700006",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR218700006Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR218700006BJNE000203311",
+          "paragraph" : "§ 1",
+          "title" : "Erhebungsmerkmale, Berichtszeitraum, Periodizität"
+        },
+        {
+          "documentIdentifier" : "BJNR218700006BJNE000301311",
+          "paragraph" : "§ 2",
+          "title" : "Übermittlung der Erhebungskataloge"
+        },
+        {
+          "documentIdentifier" : "BJNR218700006BJNE000401311",
+          "paragraph" : "§ 3",
+          "title" : "Auskunftspflichtige, ergänzende Angaben, Form der Übermittlung an das Statistische Bundesamt"
+        },
+        {
+          "documentIdentifier" : "BJNR218700006BJNE000502311",
+          "paragraph" : "§ 4",
+          "title" : "Aufbereitung der Ergebnisse"
+        },
+        {
+          "documentIdentifier" : "BJNR218700006BJNE000601311",
+          "paragraph" : "§ 5",
+          "title" : "(Inkrafttreten)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

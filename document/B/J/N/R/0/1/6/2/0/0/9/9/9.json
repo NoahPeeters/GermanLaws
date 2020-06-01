@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR016200999",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR016200999Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR016200999BJNE000205116",
+          "paragraph" : "§ 1",
+          "title" : "Akkreditierung von Prüflaboratorien als Voraussetzung für die Zulassung privater Sachverständiger"
+        },
+        {
+          "documentIdentifier" : "BJNR016200999BJNE000303116",
+          "paragraph" : "§ 2",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR016200999BJNE000400307",
+          "paragraph" : "§ 3",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

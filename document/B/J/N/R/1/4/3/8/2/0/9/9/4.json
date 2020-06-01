@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR143820994",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR143820994Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR143820994BJNE000200320",
+          "paragraph" : "Art 1",
+          "title" : "Zustimmung zu dem Übereinkommen zur Errichtung\nder Welthandelsorganisation"
+        },
+        {
+          "documentIdentifier" : "BJNR143820994BJNE000400320",
+          "paragraph" : "Art 7",
+          "title" : "Steuerliche Privilegien"
+        },
+        {
+          "documentIdentifier" : "BJNR143820994BJNE000600320",
+          "paragraph" : "Art 10",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

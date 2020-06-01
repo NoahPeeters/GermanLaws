@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR213000007",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR213000007Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR213000007BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Zulassung der elektronischen Kommunikation"
+        },
+        {
+          "documentIdentifier" : "BJNR213000007BJNE000302311",
+          "paragraph" : "§ 2",
+          "title" : "Form der Einreichung"
+        },
+        {
+          "documentIdentifier" : "BJNR213000007BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Bekanntgabe der Betriebsvoraussetzungen"
+        },
+        {
+          "documentIdentifier" : "BJNR213000007BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR213000007BJNE000604311",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 1)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

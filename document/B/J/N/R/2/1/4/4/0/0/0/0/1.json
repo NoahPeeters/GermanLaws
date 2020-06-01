@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR214400001",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR214400001Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR214400001BJNE000101310",
+          "paragraph" : "(XXXX) Art 1 bis 16",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR214400001BJNE000200305",
+          "paragraph" : "Art 17",
+          "title" : "Übergangsregelungen"
+        },
+        {
+          "documentIdentifier" : "BJNR214400001BJNE000300305",
+          "paragraph" : "Art 18",
+          "title" : "Neufassung des Sozialgerichtsgesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR214400001BJNE000400305",
+          "paragraph" : "Art 19",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

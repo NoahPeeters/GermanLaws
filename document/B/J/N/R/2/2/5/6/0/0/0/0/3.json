@@ -1,0 +1,59 @@
+{
+  "documentIdentifier" : "BJNR225600003",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR225600003Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR225600003BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Durchführung von Organisationsänderungen bei einzelnen Kassenärztlichen\nVereinigungen"
+        },
+        {
+          "documentIdentifier" : "BJNR225600003BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Wahl der Vertreterversammlung der Kassenärztlichen Vereinigungen"
+        },
+        {
+          "documentIdentifier" : "BJNR225600003BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Wahl des Vorstandes der Kassenärztlichen Vereinigungen"
+        },
+        {
+          "documentIdentifier" : "BJNR225600003BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Wahl der Vertreterversammlung der Kassenärztlichen Bundesvereinigungen"
+        },
+        {
+          "documentIdentifier" : "BJNR225600003BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Wahl des Vorstandes der Kassenärztlichen Bundesvereinigungen"
+        },
+        {
+          "documentIdentifier" : "BJNR225600003BJNE000600000",
+          "paragraph" : "§ 6",
+          "title" : "Gemeinsamer Bundesausschuss"
+        },
+        {
+          "documentIdentifier" : "BJNR225600003BJNE000701308",
+          "paragraph" : "§ 7",
+          "title" : "Moratorium für die Öffnung neu errichteter Betriebs- und\nInnungskrankenkassen"
+        },
+        {
+          "documentIdentifier" : "BJNR225600003BJNE000800000",
+          "paragraph" : "§ 8",
+          "title" : "Weitergeltung des Gesetzes zur Stabilisierung des Mitgliederkreises von\nBundesknappschaft und See-Krankenkasse"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

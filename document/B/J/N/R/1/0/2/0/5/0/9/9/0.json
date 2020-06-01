@@ -1,0 +1,623 @@
+{
+  "documentIdentifier" : "BJNR102050990",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR102050990BJNG000104310",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR102050990BJNE000106116",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR102050990BJNE000212301",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR102050990BJNE000310116",
+          "paragraph" : "§ 3",
+          "title" : "Grundsätze für Umweltprüfungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften für die Umweltprüfungen"
+    },
+    {
+      "documentIdentifier" : "BJNR102050990BJNG000703116",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR102050990BJNG000803116",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR102050990BJNE000405116",
+              "paragraph" : "§ 4",
+              "title" : "Umweltverträglichkeitsprüfung"
+            },
+            {
+              "documentIdentifier" : "BJNR102050990BJNE000507116",
+              "paragraph" : "§ 5",
+              "title" : "Feststellung der UVP-Pflicht"
+            },
+            {
+              "documentIdentifier" : "BJNR102050990BJNE000605116",
+              "paragraph" : "§ 6",
+              "title" : "Unbedingte UVP-Pflicht bei Neuvorhaben"
+            },
+            {
+              "documentIdentifier" : "BJNR102050990BJNE000705116",
+              "paragraph" : "§ 7",
+              "title" : "Vorprüfung bei Neuvorhaben"
+            },
+            {
+              "documentIdentifier" : "BJNR102050990BJNE000806116",
+              "paragraph" : "§ 8",
+              "title" : "UVP-Pflicht bei Störfallrisiko"
+            },
+            {
+              "documentIdentifier" : "BJNR102050990BJNE000909116",
+              "paragraph" : "§ 9",
+              "title" : "UVP-Pflicht bei Änderungsvorhaben"
+            },
+            {
+              "documentIdentifier" : "BJNR102050990BJNE001004116",
+              "paragraph" : "§ 10",
+              "title" : "UVP-Pflicht bei kumulierenden Vorhaben"
+            },
+            {
+              "documentIdentifier" : "BJNR102050990BJNE001107116",
+              "paragraph" : "§ 11",
+              "title" : "UVP-Pflicht bei hinzutretenden kumulierenden Vorhaben, bei denen das Zulassungsverfahren für das frühere Vorhaben abgeschlossen ist"
+            },
+            {
+              "documentIdentifier" : "BJNR102050990BJNE001204116",
+              "paragraph" : "§ 12",
+              "title" : "UVP-Pflicht bei hinzutretenden kumulierenden Vorhaben, bei denen das frühere Vorhaben noch im Zulassungsverfahren ist"
+            },
+            {
+              "documentIdentifier" : "BJNR102050990BJNE001305116",
+              "paragraph" : "§ 13",
+              "title" : "Ausnahme von der UVP-Pflicht bei kumulierenden Vorhaben"
+            },
+            {
+              "documentIdentifier" : "BJNR102050990BJNE001405116",
+              "paragraph" : "§ 14",
+              "title" : "Entwicklungs- und Erprobungsvorhaben"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Voraussetzungen für eine Umweltverträglichkeitsprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR102050990BJNG000305116",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR102050990BJNE005900116",
+              "paragraph" : "§ 15",
+              "title" : "Unterrichtung über den Untersuchungsrahmen"
+            },
+            {
+              "documentIdentifier" : "BJNR102050990BJNE006000116",
+              "paragraph" : "§ 16",
+              "title" : "UVP-Bericht"
+            },
+            {
+              "documentIdentifier" : "BJNR102050990BJNE006100116",
+              "paragraph" : "§ 17",
+              "title" : "Beteiligung anderer Behörden"
+            },
+            {
+              "documentIdentifier" : "BJNR102050990BJNE006200116",
+              "paragraph" : "§ 18",
+              "title" : "Beteiligung der Öffentlichkeit"
+            },
+            {
+              "documentIdentifier" : "BJNR102050990BJNE006300116",
+              "paragraph" : "§ 19",
+              "title" : "Unterrichtung der Öffentlichkeit"
+            },
+            {
+              "documentIdentifier" : "BJNR102050990BJNE006400116",
+              "paragraph" : "§ 20",
+              "title" : "Zentrale Internetportale; Verordnungsermächtigung"
+            },
+            {
+              "documentIdentifier" : "BJNR102050990BJNE006500116",
+              "paragraph" : "§ 21",
+              "title" : "Äußerungen und Einwendungen der Öffentlichkeit"
+            },
+            {
+              "documentIdentifier" : "BJNR102050990BJNE006600116",
+              "paragraph" : "§ 22",
+              "title" : "Erneute Beteiligung der Öffentlichkeit bei Änderungen im Laufe des Verfahrens"
+            },
+            {
+              "documentIdentifier" : "BJNR102050990BJNE006700116",
+              "paragraph" : "§ 23",
+              "title" : "Geheimhaltung und Datenschutz sowie Schutz der Rechte am geistigen Eigentum"
+            },
+            {
+              "documentIdentifier" : "BJNR102050990BJNE006800116",
+              "paragraph" : "§ 24",
+              "title" : "Zusammenfassende Darstellung"
+            },
+            {
+              "documentIdentifier" : "BJNR102050990BJNE006900116",
+              "paragraph" : "§ 25",
+              "title" : "Begründete Bewertung der Umweltauswirkungen und Berücksichtigung des Ergebnisses bei der Entscheidung"
+            },
+            {
+              "documentIdentifier" : "BJNR102050990BJNE007000116",
+              "paragraph" : "§ 26",
+              "title" : "Inhalt des Bescheids über die Zulassung oder Ablehnung des Vorhabens"
+            },
+            {
+              "documentIdentifier" : "BJNR102050990BJNE007100116",
+              "paragraph" : "§ 27",
+              "title" : "Bekanntmachung der Entscheidung und Auslegung des Bescheids"
+            },
+            {
+              "documentIdentifier" : "BJNR102050990BJNE007200116",
+              "paragraph" : "§ 28",
+              "title" : "Überwachung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Verfahrensschritte der Umweltverträglichkeitsprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR102050990BJNG001200116",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR102050990BJNE007300116",
+              "paragraph" : "§ 29",
+              "title" : "Umweltverträglichkeitsprüfung bei Teilzulassungen"
+            },
+            {
+              "documentIdentifier" : "BJNR102050990BJNE007400116",
+              "paragraph" : "§ 30",
+              "title" : "Erneute Öffentlichkeitsbeteiligung bei Teilzulassungen"
+            },
+            {
+              "documentIdentifier" : "BJNR102050990BJNE007500116",
+              "paragraph" : "§ 31",
+              "title" : "Zulassung eines Vorhabens durch mehrere Behörden; federführende Behörde"
+            },
+            {
+              "documentIdentifier" : "BJNR102050990BJNE007600116",
+              "paragraph" : "§ 32",
+              "title" : "Verbundene Prüfverfahren"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Teilzulassungen, Zulassung eines Vorhabens durch mehrere Behörden, verbundene Prüfverfahren"
+        }
+      ],
+      "title" : "Umweltverträglichkeitsprüfung"
+    },
+    {
+      "documentIdentifier" : "BJNR102050990BJNG000903116",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR102050990BJNG001003116",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR102050990BJNE007700116",
+              "paragraph" : "§ 33",
+              "title" : "Strategische Umweltprüfung"
+            },
+            {
+              "documentIdentifier" : "BJNR102050990BJNE003803116",
+              "paragraph" : "§ 34",
+              "title" : "Feststellung der SUP-Pflicht"
+            },
+            {
+              "documentIdentifier" : "BJNR102050990BJNE003907116",
+              "paragraph" : "§ 35",
+              "title" : "SUP-Pflicht in bestimmten Plan- oder Programmbereichen und im Einzelfall"
+            },
+            {
+              "documentIdentifier" : "BJNR102050990BJNE004004116",
+              "paragraph" : "§ 36",
+              "title" : "SUP-Pflicht aufgrund einer Verträglichkeitsprüfung"
+            },
+            {
+              "documentIdentifier" : "BJNR102050990BJNE004108116",
+              "paragraph" : "§ 37",
+              "title" : "Ausnahmen von der SUP-Pflicht"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Voraussetzungen für eine Strategische Umweltprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR102050990BJNG001103116",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR102050990BJNE004204116",
+              "paragraph" : "§ 38",
+              "title" : "Vorrang anderer Rechtsvorschriften bei der SUP"
+            },
+            {
+              "documentIdentifier" : "BJNR102050990BJNE004304116",
+              "paragraph" : "§ 39",
+              "title" : "Festlegung des Untersuchungsrahmens"
+            },
+            {
+              "documentIdentifier" : "BJNR102050990BJNE004404116",
+              "paragraph" : "§ 40",
+              "title" : "Umweltbericht"
+            },
+            {
+              "documentIdentifier" : "BJNR102050990BJNE004503116",
+              "paragraph" : "§ 41",
+              "title" : "Beteiligung anderer Behörden"
+            },
+            {
+              "documentIdentifier" : "BJNR102050990BJNE004605116",
+              "paragraph" : "§ 42",
+              "title" : "Beteiligung der Öffentlichkeit"
+            },
+            {
+              "documentIdentifier" : "BJNR102050990BJNE004803116",
+              "paragraph" : "§ 43",
+              "title" : "Abschließende Bewertung und Berücksichtigung"
+            },
+            {
+              "documentIdentifier" : "BJNR102050990BJNE004904116",
+              "paragraph" : "§ 44",
+              "title" : "Bekanntgabe der Entscheidung über die Annahme oder Ablehnung des Plans oder Programms"
+            },
+            {
+              "documentIdentifier" : "BJNR102050990BJNE005003116",
+              "paragraph" : "§ 45",
+              "title" : "Überwachung"
+            },
+            {
+              "documentIdentifier" : "BJNR102050990BJNE005103116",
+              "paragraph" : "§ 46",
+              "title" : "Verbundene Prüfverfahren"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Verfahrensschritte der Strategischen Umweltprüfung"
+        }
+      ],
+      "title" : "Strategische Umweltprüfung"
+    },
+    {
+      "documentIdentifier" : "BJNR102050990BJNG000405116",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR102050990BJNE001508116",
+          "paragraph" : "§ 47",
+          "title" : "Linienbestimmung und Genehmigung von Flugplätzen"
+        },
+        {
+          "documentIdentifier" : "BJNR102050990BJNE001612116",
+          "paragraph" : "§ 48",
+          "title" : "Raumordnungspläne"
+        },
+        {
+          "documentIdentifier" : "BJNR102050990BJNE007900116",
+          "paragraph" : "§ 49",
+          "title" : "Raumordnungsverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR102050990BJNE001708116",
+          "paragraph" : "§ 50",
+          "title" : "Bauleitpläne"
+        },
+        {
+          "documentIdentifier" : "BJNR102050990BJNE001806116",
+          "paragraph" : "§ 51",
+          "title" : "Bergrechtliche Verfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR102050990BJNE005304116",
+          "paragraph" : "§ 52",
+          "title" : "Landschaftsplanungen"
+        },
+        {
+          "documentIdentifier" : "BJNR102050990BJNE005406116",
+          "paragraph" : "§ 53",
+          "title" : "Verkehrswegeplanungen auf Bundesebene"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Besondere Verfahrensvorschriften für bestimmte Umweltprüfungen"
+    },
+    {
+      "documentIdentifier" : "BJNR102050990BJNG001300116",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR102050990BJNG001400116",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR102050990BJNE008500116",
+              "paragraph" : "§ 54",
+              "title" : "Benachrichtigung eines anderen Staates"
+            },
+            {
+              "documentIdentifier" : "BJNR102050990BJNE008600116",
+              "paragraph" : "§ 55",
+              "title" : "Grenzüberschreitende Behördenbeteiligung bei inländischen Vorhaben"
+            },
+            {
+              "documentIdentifier" : "BJNR102050990BJNE008700116",
+              "paragraph" : "§ 56",
+              "title" : "Grenzüberschreitende Öffentlichkeitsbeteiligung bei inländischen Vorhaben"
+            },
+            {
+              "documentIdentifier" : "BJNR102050990BJNE008800116",
+              "paragraph" : "§ 57",
+              "title" : "Übermittlung des Bescheids"
+            },
+            {
+              "documentIdentifier" : "BJNR102050990BJNE008900116",
+              "paragraph" : "§ 58",
+              "title" : "Grenzüberschreitende Behördenbeteiligung bei ausländischen Vorhaben"
+            },
+            {
+              "documentIdentifier" : "BJNR102050990BJNE009000116",
+              "paragraph" : "§ 59",
+              "title" : "Grenzüberschreitende Öffentlichkeitsbeteiligung bei ausländischen Vorhaben"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              5,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Grenzüberschreitende Umweltverträglichkeitsprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR102050990BJNG001500116",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR102050990BJNE009100116",
+              "paragraph" : "§ 60",
+              "title" : "Grenzüberschreitende Behördenbeteiligung bei inländischen Plänen und Programmen"
+            },
+            {
+              "documentIdentifier" : "BJNR102050990BJNE009200116",
+              "paragraph" : "§ 61",
+              "title" : "Grenzüberschreitende Öffentlichkeitsbeteiligung bei inländischen Plänen und Programmen"
+            },
+            {
+              "documentIdentifier" : "BJNR102050990BJNE009300116",
+              "paragraph" : "§ 62",
+              "title" : "Grenzüberschreitende Behördenbeteiligung bei ausländischen Plänen und Programmen"
+            },
+            {
+              "documentIdentifier" : "BJNR102050990BJNE009400116",
+              "paragraph" : "§ 63",
+              "title" : "Grenzüberschreitende Öffentlichkeitsbeteiligung bei ausländischen Plänen und Programmen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              5,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Grenzüberschreitende Strategische Umweltprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR102050990BJNG001600116",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR102050990BJNE009500116",
+              "paragraph" : "§ 64",
+              "title" : "Völkerrechtliche Verpflichtungen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              5,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Gemeinsame Vorschriften"
+        }
+      ],
+      "title" : "Grenzüberschreitende Umweltprüfungen"
+    },
+    {
+      "documentIdentifier" : "BJNR102050990BJNG000505116",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR102050990BJNE003406116",
+          "paragraph" : "§ 65",
+          "title" : "Planfeststellung; Plangenehmigung"
+        },
+        {
+          "documentIdentifier" : "BJNR102050990BJNE002113116",
+          "paragraph" : "§ 66",
+          "title" : "Entscheidung; Nebenbestimmungen; Verordnungsermächtigung"
+        },
+        {
+          "documentIdentifier" : "BJNR102050990BJNE003504116",
+          "paragraph" : "§ 67",
+          "title" : "Verfahren; Verordnungsermächtigung"
+        },
+        {
+          "documentIdentifier" : "BJNR102050990BJNE003608116",
+          "paragraph" : "§ 68",
+          "title" : "Überwachung"
+        },
+        {
+          "documentIdentifier" : "BJNR102050990BJNE008000116",
+          "paragraph" : "§ 69",
+          "title" : "Bußgeldvorschriften"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Vorschriften für bestimmte Leitungsanlagen (Anlage 1 Nummer 19)"
+    },
+    {
+      "documentIdentifier" : "BJNR102050990BJNG000605116",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR102050990BJNE002006116",
+          "paragraph" : "§ 70",
+          "title" : "Ermächtigung zum Erlass von Verwaltungsvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR102050990BJNE005802116",
+          "paragraph" : "§ 71",
+          "title" : "Bestimmungen zum Verwaltungsverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR102050990BJNE008100116",
+          "paragraph" : "§ 72",
+          "title" : "Vermeidung von Interessenkonflikten"
+        },
+        {
+          "documentIdentifier" : "BJNR102050990BJNE008200116",
+          "paragraph" : "§ 73",
+          "title" : "Berichterstattung an die Europäische Kommission"
+        },
+        {
+          "documentIdentifier" : "BJNR102050990BJNE002216116",
+          "paragraph" : "§ 74",
+          "title" : "Übergangsvorschrift"
+        },
+        {
+          "documentIdentifier" : "BJNR102050990BJNE002433116",
+          "paragraph" : "Anlage 1",
+          "title" : "Liste \"UVP-pflichtige Vorhaben\""
+        },
+        {
+          "documentIdentifier" : "BJNR102050990BJNE008300116",
+          "paragraph" : "Anlage 2",
+          "title" : "Angaben des Vorhabenträgers zur Vorbereitung der Vorprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR102050990BJNE002520116",
+          "paragraph" : "Anlage 3",
+          "title" : "Kriterien für die Vorprüfung im Rahmen einer Umweltverträglichkeitsprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR102050990BJNE008400116",
+          "paragraph" : "Anlage 4",
+          "title" : "Angaben des UVP-Berichts für die Umweltverträglichkeitsprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR102050990BJNE005529116",
+          "paragraph" : "Anlage 5",
+          "title" : "Liste \"SUP-pflichtiger Pläne und Programme\""
+        },
+        {
+          "documentIdentifier" : "BJNR102050990BJNE005603116",
+          "paragraph" : "Anlage 6",
+          "title" : "Kriterien für die Vorprüfung des Einzelfalls im Rahmen einer Strategischen Umweltprüfung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussvorschriften"
+    }
+  ]
+}

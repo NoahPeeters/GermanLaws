@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR098900993",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR098900993Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR098900993BJNE000102307",
+          "paragraph" : "§ 1",
+          "title" : "Grundsatz"
+        },
+        {
+          "documentIdentifier" : "BJNR098900993BJNE000202307",
+          "paragraph" : "§ 2",
+          "title" : "Feststellung des Grund und Bodens"
+        },
+        {
+          "documentIdentifier" : "BJNR098900993BJNE000302307",
+          "paragraph" : "§ 3",
+          "title" : "Ausgleich"
+        },
+        {
+          "documentIdentifier" : "BJNR098900993BJNE000401307",
+          "paragraph" : "§ 4",
+          "title" : "Verhältnis zum Einigungsvertrag"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

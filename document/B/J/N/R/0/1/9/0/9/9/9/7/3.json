@@ -1,0 +1,122 @@
+{
+  "documentIdentifier" : "BJNR019099973",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR019099973BJNG000100311",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Art 1"
+    },
+    {
+      "documentIdentifier" : "BJNR019099973BJNG000201308",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Art 2"
+    },
+    {
+      "documentIdentifier" : "BJNR019099973BJNG000300311",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Art 3"
+    },
+    {
+      "documentIdentifier" : "BJNR019099973BJNG000400311",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Art 4"
+    },
+    {
+      "documentIdentifier" : "BJNR019099973BJNG000500311",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR019099973BJNE000600311",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              5
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR019099973BJNE000700311",
+              "laws" : [
+
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  5
+                ]
+              },
+              "subsections" : [
+                {
+                  "documentIdentifier" : "BJNR019099973BJNE000800311",
+                  "laws" : [
+
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      5
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Art 5"
+                }
+              ],
+              "title" : "Art 5"
+            }
+          ],
+          "title" : "Art 5"
+        }
+      ],
+      "title" : "Übergangs- und Schlußvorschriften"
+    }
+  ]
+}

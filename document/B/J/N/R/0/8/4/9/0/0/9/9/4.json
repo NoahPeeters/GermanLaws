@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR084900994",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR084900994Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR084900994BJNE000500307",
+          "paragraph" : "Anlage 1",
+          "title" : "Amtliche Feingehalts-Zeichen für Gold-, Silber-\nund Platinartikel der Tschechischen Republik"
+        },
+        {
+          "documentIdentifier" : "BJNR084900994BJNE000600307",
+          "paragraph" : "Anlage 2",
+          "title" : "Neues Kennzeichen der Fernmeldesatellitenorganisation \"INTELSAT\""
+        },
+        {
+          "documentIdentifier" : "BJNR084900994BJNE000700307",
+          "paragraph" : "Anlage 3",
+          "title" : "Flagge der Internationalen Zivilluftfahrt-Organisation"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

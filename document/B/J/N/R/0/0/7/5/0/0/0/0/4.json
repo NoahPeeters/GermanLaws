@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR007500004",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR007500004Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR007500004BJNE000201116",
+          "paragraph" : "§ 1",
+          "title" : "Helferinnen und Helfer"
+        },
+        {
+          "documentIdentifier" : "BJNR007500004BJNE000701116",
+          "paragraph" : "§ 2",
+          "title" : "Begründung des Dienstverhältnisses"
+        },
+        {
+          "documentIdentifier" : "BJNR007500004BJNE000801116",
+          "paragraph" : "§ 3",
+          "title" : "Probezeit"
+        },
+        {
+          "documentIdentifier" : "BJNR007500004BJNE000902116",
+          "paragraph" : "§ 4",
+          "title" : "Inhalt des Dienstverhältnisses"
+        },
+        {
+          "documentIdentifier" : "BJNR007500004BJNE001001116",
+          "paragraph" : "§ 5",
+          "title" : "Verstoß gegen Dienstpflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR007500004BJNE001101116",
+          "paragraph" : "§ 6",
+          "title" : "Beendigung des Dienstverhältnisses"
+        },
+        {
+          "documentIdentifier" : "BJNR007500004BJNE001201116",
+          "paragraph" : "§ 7",
+          "title" : "Ausschüsse"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

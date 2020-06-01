@@ -1,0 +1,152 @@
+{
+  "documentIdentifier" : "BJNR132600010",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR132600010BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR132600010BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Begriffsbestimmungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeines"
+    },
+    {
+      "documentIdentifier" : "BJNR132600010BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR132600010BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Impfungen und Heilversuche"
+        },
+        {
+          "documentIdentifier" : "BJNR132600010BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Untersuchungen"
+        },
+        {
+          "documentIdentifier" : "BJNR132600010BJNE001700119",
+          "paragraph" : "§ 3a",
+          "title" : "Veranstaltungen mit Einhufern"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Schutzmaßregeln"
+    },
+    {
+      "documentIdentifier" : "BJNR132600010BJNG000300000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR132600010BJNG000400000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR132600010BJNE000500000",
+              "paragraph" : "§ 4",
+              "title" : "Blutprobenentnahme, epidemiologische Nachforschungen"
+            },
+            {
+              "documentIdentifier" : "BJNR132600010BJNE000601118",
+              "paragraph" : "§ 5",
+              "title" : "Schutzmaßnahmen in dem betroffenen Betrieb"
+            },
+            {
+              "documentIdentifier" : "BJNR132600010BJNE000700000",
+              "paragraph" : "§ 6",
+              "title" : "Reinigung und Desinfektion"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Schutzmaßnahmen vor amtlicher Feststellung der Einhufer-Blutarmut"
+        },
+        {
+          "documentIdentifier" : "BJNR132600010BJNG000500000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR132600010BJNE000800000",
+              "paragraph" : "§ 7",
+              "title" : "Öffentliche Bekanntmachung"
+            },
+            {
+              "documentIdentifier" : "BJNR132600010BJNE000900000",
+              "paragraph" : "§ 8",
+              "title" : "Schutzmaßnahmen in dem betroffenen Betrieb"
+            },
+            {
+              "documentIdentifier" : "BJNR132600010BJNE001001118",
+              "paragraph" : "§ 9",
+              "title" : "Ansteckungsverdacht"
+            },
+            {
+              "documentIdentifier" : "BJNR132600010BJNE001100000",
+              "paragraph" : "§ 10",
+              "title" : "Sperrbezirk"
+            },
+            {
+              "documentIdentifier" : "BJNR132600010BJNE001200000",
+              "paragraph" : "§ 11",
+              "title" : "Desinfektion"
+            },
+            {
+              "documentIdentifier" : "BJNR132600010BJNE001300000",
+              "paragraph" : "§ 12",
+              "title" : "Aufhebung der Schutzmaßnahmen"
+            },
+            {
+              "documentIdentifier" : "BJNR132600010BJNE001403119",
+              "paragraph" : "§ 13",
+              "title" : "Ordnungswidrigkeiten"
+            },
+            {
+              "documentIdentifier" : "BJNR132600010BJNE001500000",
+              "paragraph" : "§ 14",
+              "title" : "Inkrafttreten, Außerkrafttreten"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Schutzmaßnahmen nach amtlicher Feststellung der Einhufer-Blutarmut"
+        }
+      ],
+      "title" : "Besondere Schutzmaßregeln"
+    }
+  ]
+}

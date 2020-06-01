@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR233800997",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR233800997Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR233800997BJNE000100305",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR233800997BJNE000200305",
+          "paragraph" : "§ 2",
+          "title" : "Immissionsgrenzwerte"
+        },
+        {
+          "documentIdentifier" : "BJNR233800997BJNE000300305",
+          "paragraph" : "§ 3",
+          "title" : "Berechnung des Beurteilungspegels"
+        },
+        {
+          "documentIdentifier" : "BJNR233800997BJNE000400305",
+          "paragraph" : "Anlage",
+          "title" : "Berechnung des Beurteilungspegels"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

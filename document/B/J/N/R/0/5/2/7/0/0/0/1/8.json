@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR052700018",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR052700018Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR052700018BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR052700018BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Abrufberechtigung"
+        },
+        {
+          "documentIdentifier" : "BJNR052700018BJNE000401000",
+          "paragraph" : "§ 3",
+          "title" : "Verfahren des Datenabrufs"
+        },
+        {
+          "documentIdentifier" : "BJNR052700018BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Prüfungs- und Dokumentationspflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR052700018BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Mitteilungspflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR052700018BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "documentIdentifier" : "BJNR031700001",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR031700001BJNG000100305",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR031700001BJNE000702116",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR031700001BJNE000800305",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR031700001BJNG000200305",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR031700001BJNE000900305",
+          "paragraph" : "§ 3",
+          "title" : "Mindestabstand"
+        },
+        {
+          "documentIdentifier" : "BJNR031700001BJNE001001116",
+          "paragraph" : "§ 4",
+          "title" : "Emissionsbezogene Anforderungen für Anlieferung, Aufbereitung, Stofftrennung und Lagerung und Transport"
+        },
+        {
+          "documentIdentifier" : "BJNR031700001BJNE001101116",
+          "paragraph" : "§ 5",
+          "title" : "Emissionsbezogene Anforderungen für biologische Behandlung, Prozesswässer und Brüdenkondensate"
+        },
+        {
+          "documentIdentifier" : "BJNR031700001BJNE001201116",
+          "paragraph" : "§ 6",
+          "title" : "Emissionsgrenzwerte"
+        },
+        {
+          "documentIdentifier" : "BJNR031700001BJNE001300305",
+          "paragraph" : "§ 7",
+          "title" : "Ableitbedingungen für Abgase"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Anforderungen an die Errichtung, die Beschaffenheit und den Betrieb"
+    },
+    {
+      "documentIdentifier" : "BJNR031700001BJNG000300305",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR031700001BJNE001400305",
+          "paragraph" : "§ 8",
+          "title" : "Messverfahren und Messeinrichtungen"
+        },
+        {
+          "documentIdentifier" : "BJNR031700001BJNE001500305",
+          "paragraph" : "§ 9",
+          "title" : "Kontinuierliche Messungen"
+        },
+        {
+          "documentIdentifier" : "BJNR031700001BJNE001600305",
+          "paragraph" : "§ 10",
+          "title" : "Auswertung und Beurteilung von kontinuierlichen Messungen"
+        },
+        {
+          "documentIdentifier" : "BJNR031700001BJNE001701116",
+          "paragraph" : "§ 11",
+          "title" : "Einzelmessungen"
+        },
+        {
+          "documentIdentifier" : "BJNR031700001BJNE001800305",
+          "paragraph" : "§ 12",
+          "title" : "Berichte und Beurteilung von Einzelmessungen"
+        },
+        {
+          "documentIdentifier" : "BJNR031700001BJNE001900305",
+          "paragraph" : "§ 13",
+          "title" : "Störungen des Betriebes"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Messung und Überwachung"
+    },
+    {
+      "documentIdentifier" : "BJNR031700001BJNG000400305",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR031700001BJNE002000305",
+          "paragraph" : "§ 14",
+          "title" : "Übergangsregelungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Anforderungen an Altanlagen"
+    },
+    {
+      "documentIdentifier" : "BJNR031700001BJNG000500305",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR031700001BJNE002100305",
+          "paragraph" : "§ 15",
+          "title" : "Unterrichtung der Öffentlichkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR031700001BJNE002201310",
+          "paragraph" : "§ 16",
+          "title" : "Zulassung von Ausnahmen"
+        },
+        {
+          "documentIdentifier" : "BJNR031700001BJNE002300305",
+          "paragraph" : "§ 17",
+          "title" : "Weitergehende Anforderungen"
+        },
+        {
+          "documentIdentifier" : "BJNR031700001BJNE002400305",
+          "paragraph" : "§ 18",
+          "title" : "Ordnungswidrigkeiten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gemeinsame Vorschriften"
+    }
+  ]
+}

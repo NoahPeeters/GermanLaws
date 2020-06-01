@@ -1,0 +1,241 @@
+{
+  "documentIdentifier" : "BJNR009200019",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR009200019BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR009200019BJNE000300000",
+          "paragraph" : "§ 1",
+          "title" : "Staatliche Anerkennung des Ausbildungsberufes"
+        },
+        {
+          "documentIdentifier" : "BJNR009200019BJNE000400000",
+          "paragraph" : "§ 2",
+          "title" : "Dauer der Berufsausbildung"
+        },
+        {
+          "documentIdentifier" : "BJNR009200019BJNE000500000",
+          "paragraph" : "§ 3",
+          "title" : "Gegenstand der Berufsausbildung und Ausbildungsrahmenplan"
+        },
+        {
+          "documentIdentifier" : "BJNR009200019BJNE000600000",
+          "paragraph" : "§ 4",
+          "title" : "Struktur der Berufsausbildung, Ausbildungsberufsbild"
+        },
+        {
+          "documentIdentifier" : "BJNR009200019BJNE000700000",
+          "paragraph" : "§ 5",
+          "title" : "Ausbildungsplan"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gegenstand, Dauer und Gliederung der Berufsausbildung"
+    },
+    {
+      "documentIdentifier" : "BJNR009200019BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR009200019BJNE000800000",
+          "paragraph" : "§ 6",
+          "title" : "Ziel und Zeitpunkt"
+        },
+        {
+          "documentIdentifier" : "BJNR009200019BJNE000900000",
+          "paragraph" : "§ 7",
+          "title" : "Inhalt"
+        },
+        {
+          "documentIdentifier" : "BJNR009200019BJNE001000000",
+          "paragraph" : "§ 8",
+          "title" : "Prüfungsbereich"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Zwischenprüfung"
+    },
+    {
+      "documentIdentifier" : "BJNR009200019BJNG000300000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR009200019BJNG000400000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR009200019BJNE001100000",
+              "paragraph" : "§ 9",
+              "title" : "Ziel und Zeitpunkt"
+            },
+            {
+              "documentIdentifier" : "BJNR009200019BJNE001200000",
+              "paragraph" : "§ 10",
+              "title" : "Inhalt"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Allgemeines"
+        },
+        {
+          "documentIdentifier" : "BJNR009200019BJNG000500000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR009200019BJNE001300000",
+              "paragraph" : "§ 11",
+              "title" : "Prüfungsbereiche"
+            },
+            {
+              "documentIdentifier" : "BJNR009200019BJNE001400000",
+              "paragraph" : "§ 12",
+              "title" : "Prüfungsbereich Entwurf und Fertigung"
+            },
+            {
+              "documentIdentifier" : "BJNR009200019BJNE001500000",
+              "paragraph" : "§ 13",
+              "title" : "Prüfungsbereich Durchführen von Teilarbeiten"
+            },
+            {
+              "documentIdentifier" : "BJNR009200019BJNE001600000",
+              "paragraph" : "§ 14",
+              "title" : "Prüfungsbereich Planen und Konstruieren"
+            },
+            {
+              "documentIdentifier" : "BJNR009200019BJNE001700000",
+              "paragraph" : "§ 15",
+              "title" : "Prüfungsbereich Wirtschafts- und Sozialkunde"
+            },
+            {
+              "documentIdentifier" : "BJNR009200019BJNE001800000",
+              "paragraph" : "§ 16",
+              "title" : "Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschluss- oder Gesellenprüfung"
+            },
+            {
+              "documentIdentifier" : "BJNR009200019BJNE001900000",
+              "paragraph" : "§ 17",
+              "title" : "Mündliche Ergänzungsprüfung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Fachrichtung Orgelbau"
+        },
+        {
+          "documentIdentifier" : "BJNR009200019BJNG000600000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR009200019BJNE002000000",
+              "paragraph" : "§ 18",
+              "title" : "Prüfungsbereiche"
+            },
+            {
+              "documentIdentifier" : "BJNR009200019BJNE002100000",
+              "paragraph" : "§ 19",
+              "title" : "Prüfungsbereich Entwurf und Fertigung"
+            },
+            {
+              "documentIdentifier" : "BJNR009200019BJNE002200000",
+              "paragraph" : "§ 20",
+              "title" : "Prüfungsbereich Durchführen von Teilarbeiten"
+            },
+            {
+              "documentIdentifier" : "BJNR009200019BJNE002300000",
+              "paragraph" : "§ 21",
+              "title" : "Prüfungsbereich Planen und Konstruieren"
+            },
+            {
+              "documentIdentifier" : "BJNR009200019BJNE002400000",
+              "paragraph" : "§ 22",
+              "title" : "Prüfungsbereich Wirtschafts- und Sozialkunde"
+            },
+            {
+              "documentIdentifier" : "BJNR009200019BJNE002500000",
+              "paragraph" : "§ 23",
+              "title" : "Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschluss- oder Gesellenprüfung"
+            },
+            {
+              "documentIdentifier" : "BJNR009200019BJNE002600000",
+              "paragraph" : "§ 24",
+              "title" : "Mündliche Ergänzungsprüfung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Fachrichtung Pfeifenbau"
+        }
+      ],
+      "title" : "Abschluss- oder Gesellenprüfung"
+    },
+    {
+      "documentIdentifier" : "BJNR009200019BJNG000700000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR009200019BJNE002700000",
+          "paragraph" : "§ 25",
+          "title" : "Bestehende Berufsausbildungsverhältnisse"
+        },
+        {
+          "documentIdentifier" : "BJNR009200019BJNE002800000",
+          "paragraph" : "§ 26",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR009200019BJNE002900000",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 3 Absatz 1)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussvorschriften"
+    }
+  ]
+}

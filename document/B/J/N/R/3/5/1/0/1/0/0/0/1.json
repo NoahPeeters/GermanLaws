@@ -1,0 +1,74 @@
+{
+  "documentIdentifier" : "BJNR351010001",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR351010001Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR351010001BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR351010001BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Zeugenschutzdienststellen"
+        },
+        {
+          "documentIdentifier" : "BJNR351010001BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Geheimhaltung, Verpflichtung"
+        },
+        {
+          "documentIdentifier" : "BJNR351010001BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Verwendung personenbezogener Daten"
+        },
+        {
+          "documentIdentifier" : "BJNR351010001BJNE000501301",
+          "paragraph" : "§ 5",
+          "title" : "Vorübergehende Tarnidentität"
+        },
+        {
+          "documentIdentifier" : "BJNR351010001BJNE000600000",
+          "paragraph" : "§ 6",
+          "title" : "Aufhebung von Maßnahmen des Zeugenschutzes"
+        },
+        {
+          "documentIdentifier" : "BJNR351010001BJNE000700000",
+          "paragraph" : "§ 7",
+          "title" : "Ansprüche gegen Dritte"
+        },
+        {
+          "documentIdentifier" : "BJNR351010001BJNE000800000",
+          "paragraph" : "§ 8",
+          "title" : "Zuwendungen der Zeugenschutzdienststelle"
+        },
+        {
+          "documentIdentifier" : "BJNR351010001BJNE000900000",
+          "paragraph" : "§ 9",
+          "title" : "Ansprüche Dritter"
+        },
+        {
+          "documentIdentifier" : "BJNR351010001BJNE001001125",
+          "paragraph" : "§ 10",
+          "title" : "Zeugenschutz in justizförmigen Verfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR351010001BJNE001100000",
+          "paragraph" : "§ 11",
+          "title" : "Zeugenschutz bei freiheitsentziehenden Maßnahmen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

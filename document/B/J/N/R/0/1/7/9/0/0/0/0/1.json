@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR017900001",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR017900001Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR017900001BJNE000200305",
+          "paragraph" : "§ 1",
+          "title" : "Persönliche Voraussetzungen"
+        },
+        {
+          "documentIdentifier" : "BJNR017900001BJNE000301310",
+          "paragraph" : "§ 2",
+          "title" : "Art und Umfang der Maßnahmen"
+        },
+        {
+          "documentIdentifier" : "BJNR017900001BJNE000400305",
+          "paragraph" : "§ 3",
+          "title" : "Beratung und persönliche Unterstützung"
+        },
+        {
+          "documentIdentifier" : "BJNR017900001BJNE000501310",
+          "paragraph" : "§ 4",
+          "title" : "Erhaltung und Beschaffung einer Wohnung"
+        },
+        {
+          "documentIdentifier" : "BJNR017900001BJNE000600305",
+          "paragraph" : "§ 5",
+          "title" : "Ausbildung, Erlangung und Sicherung eines Arbeitsplatzes"
+        },
+        {
+          "documentIdentifier" : "BJNR017900001BJNE000701310",
+          "paragraph" : "§ 6",
+          "title" : "Hilfe zum Aufbau und zur Aufrechterhaltung sozialer\nBeziehungen und zur Gestaltung des Alltags"
+        },
+        {
+          "documentIdentifier" : "BJNR017900001BJNE000800305",
+          "paragraph" : "§ 7",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

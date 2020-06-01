@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "DDNR000660990",
+  "sections" : [
+    {
+      "documentIdentifier" : "DDNR000660990Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "DDNR000660990BJNE000100307",
+          "paragraph" : "(XXXX) §§ 1 bis 20",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "DDNR000660990BJNE000400307",
+          "paragraph" : "(XXXX) §§ 21 bis 24",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

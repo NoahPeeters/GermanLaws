@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR070300002",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR070300002Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR070300002BJNE000101311",
+          "paragraph" : "§ 1",
+          "title" : "Formulare"
+        },
+        {
+          "documentIdentifier" : "BJNR070300002BJNE000201311",
+          "paragraph" : "§ 2",
+          "title" : "Zulässige Abweichungen"
+        },
+        {
+          "documentIdentifier" : "BJNR070300002BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

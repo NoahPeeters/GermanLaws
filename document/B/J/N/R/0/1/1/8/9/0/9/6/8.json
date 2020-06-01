@@ -1,0 +1,50 @@
+{
+  "documentIdentifier" : "BJNR011890968",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR011890968BJNG000100314",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Anpassung der Renten aus den gesetzlichen Rentenversicherungen"
+    },
+    {
+      "documentIdentifier" : "BJNR011890968BJNG000200314",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Anpassung der Geldleistungen aus der gesetzlichen Unfallversicherung"
+    },
+    {
+      "documentIdentifier" : "BJNR011890968BJNG000300314",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gemeinsame Vorschriften und Schlußvorschriften"
+    }
+  ]
+}

@@ -1,0 +1,286 @@
+{
+  "documentIdentifier" : "BJNR248300013",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR248300013BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR248300013BJNE000300000",
+          "paragraph" : "§ 1",
+          "title" : "Geltungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR248300013BJNE000400000",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR248300013BJNE000500000",
+          "paragraph" : "§ 3",
+          "title" : "Inhalt und Umfang der Berichterstattung"
+        },
+        {
+          "documentIdentifier" : "BJNR248300013BJNE000600000",
+          "paragraph" : "§ 4",
+          "title" : "Einreichung bei der Bundesanstalt"
+        },
+        {
+          "documentIdentifier" : "BJNR248300013BJNE000700000",
+          "paragraph" : "§ 5",
+          "title" : "Investmentrechtliche Rechnungslegung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR248300013BJNG000200000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR248300013BJNG000300000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR248300013BJNE000800000",
+              "paragraph" : "§ 6",
+              "title" : "Verantwortung und Zweck"
+            },
+            {
+              "documentIdentifier" : "BJNR248300013BJNE000900000",
+              "paragraph" : "§ 7",
+              "title" : "Bestandteile des Jahresberichts"
+            },
+            {
+              "documentIdentifier" : "BJNR248300013BJNE001000000",
+              "paragraph" : "§ 8",
+              "title" : "Tätigkeitsbericht"
+            },
+            {
+              "documentIdentifier" : "BJNR248300013BJNE001100000",
+              "paragraph" : "§ 9",
+              "title" : "Vermögensübersicht"
+            },
+            {
+              "documentIdentifier" : "BJNR248300013BJNE001200000",
+              "paragraph" : "§ 10",
+              "title" : "Vermögensaufstellung"
+            },
+            {
+              "documentIdentifier" : "BJNR248300013BJNE001300000",
+              "paragraph" : "§ 11",
+              "title" : "Ertrags- und Aufwandsrechnung"
+            },
+            {
+              "documentIdentifier" : "BJNR248300013BJNE001400000",
+              "paragraph" : "§ 12",
+              "title" : "Verwendungsrechnung für das Sondervermögen"
+            },
+            {
+              "documentIdentifier" : "BJNR248300013BJNE001500000",
+              "paragraph" : "§ 13",
+              "title" : "Entwicklungsrechnung für das Sondervermögen"
+            },
+            {
+              "documentIdentifier" : "BJNR248300013BJNE001600000",
+              "paragraph" : "§ 14",
+              "title" : "Vergleichende Übersicht über die letzten drei Geschäftsjahre"
+            },
+            {
+              "documentIdentifier" : "BJNR248300013BJNE001700000",
+              "paragraph" : "§ 15",
+              "title" : "Anteilklassen"
+            },
+            {
+              "documentIdentifier" : "BJNR248300013BJNE001800000",
+              "paragraph" : "§ 16",
+              "title" : "Sonstige Angaben"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Jahresberichte von Sondervermögen"
+        },
+        {
+          "documentIdentifier" : "BJNR248300013BJNG000400000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR248300013BJNE001900000",
+              "paragraph" : "§ 17",
+              "title" : "Halbjahresbericht"
+            },
+            {
+              "documentIdentifier" : "BJNR248300013BJNE002000000",
+              "paragraph" : "§ 18",
+              "title" : "Zwischenbericht"
+            },
+            {
+              "documentIdentifier" : "BJNR248300013BJNE002100000",
+              "paragraph" : "§ 19",
+              "title" : "Auflösungs- und Abwicklungsbericht"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Sonstige Berichte von Sondervermögen"
+        },
+        {
+          "documentIdentifier" : "BJNR248300013BJNG000500000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR248300013BJNE002200000",
+              "paragraph" : "§ 20",
+              "title" : "Anwendbarkeit auf Investmentgesellschaften"
+            },
+            {
+              "documentIdentifier" : "BJNR248300013BJNE002300000",
+              "paragraph" : "§ 21",
+              "title" : "Bilanz"
+            },
+            {
+              "documentIdentifier" : "BJNR248300013BJNE002400000",
+              "paragraph" : "§ 22",
+              "title" : "Gewinn- und Verlustrechnung"
+            },
+            {
+              "documentIdentifier" : "BJNR248300013BJNE002500000",
+              "paragraph" : "§ 23",
+              "title" : "Lagebericht"
+            },
+            {
+              "documentIdentifier" : "BJNR248300013BJNE002600000",
+              "paragraph" : "§ 24",
+              "title" : "Verwendungsrechnung und Entwicklungsrechnung bei der Investmentkommanditgesellschaft"
+            },
+            {
+              "documentIdentifier" : "BJNR248300013BJNE002700000",
+              "paragraph" : "§ 25",
+              "title" : "Anhang"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Investmentgesellschaft"
+        }
+      ],
+      "title" : "Rechnungslegung"
+    },
+    {
+      "documentIdentifier" : "BJNR248300013BJNG000600000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR248300013BJNE002800000",
+          "paragraph" : "§ 26",
+          "title" : "Allgemeine Bewertungsgrundsätze"
+        },
+        {
+          "documentIdentifier" : "BJNR248300013BJNE002900000",
+          "paragraph" : "§ 27",
+          "title" : "Bewertung auf der Grundlage von handelbaren Kursen"
+        },
+        {
+          "documentIdentifier" : "BJNR248300013BJNE003000000",
+          "paragraph" : "§ 28",
+          "title" : "Bewertung auf der Grundlage geeigneter Bewertungsmodelle"
+        },
+        {
+          "documentIdentifier" : "BJNR248300013BJNE003100000",
+          "paragraph" : "§ 29",
+          "title" : "Besonderheiten bei Investmentanteilen, Bankguthaben und Verbindlichkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR248300013BJNE003200000",
+          "paragraph" : "§ 30",
+          "title" : "Besonderheiten bei Anlagen in Immobilien"
+        },
+        {
+          "documentIdentifier" : "BJNR248300013BJNE003300000",
+          "paragraph" : "§ 31",
+          "title" : "Bewertung von Beteiligungen an Immobilien-Gesellschaften"
+        },
+        {
+          "documentIdentifier" : "BJNR248300013BJNE003400000",
+          "paragraph" : "§ 32",
+          "title" : "Besonderheiten bei Vermögensgegenständen mit dem Charakter einer unternehmerischen Beteiligung"
+        },
+        {
+          "documentIdentifier" : "BJNR248300013BJNE003500000",
+          "paragraph" : "§ 33",
+          "title" : "Besonderheiten bei Anlagen in sonstigen Sachwerten"
+        },
+        {
+          "documentIdentifier" : "BJNR248300013BJNE003600000",
+          "paragraph" : "§ 34",
+          "title" : "Besonderheiten bei Anlagen von Spezial-AIF"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Bewertung"
+    },
+    {
+      "documentIdentifier" : "BJNR248300013BJNG000700000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR248300013BJNE003700000",
+          "paragraph" : "§ 35",
+          "title" : "Übergangsregelungen"
+        },
+        {
+          "documentIdentifier" : "BJNR248300013BJNE003800000",
+          "paragraph" : "§ 36",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussvorschriften"
+    }
+  ]
+}

@@ -1,0 +1,569 @@
+{
+  "documentIdentifier" : "BJNR008140959",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR008140959BJNG000100326",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR008140959BJNE000702377",
+          "paragraph" : "§ 1",
+          "title" : "Zweckbestimmung des Gesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR008140959BJNE000809118",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR008140959BJNE008304118",
+          "paragraph" : "§ 2a",
+          "title" : "Umweltverträglichkeitsprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR008140959BJNE008900377",
+          "paragraph" : "§ 2b",
+          "title" : "Elektronische Kommunikation"
+        },
+        {
+          "documentIdentifier" : "BJNR008140959BJNE011000118",
+          "paragraph" : "§ 2c",
+          "title" : "Nationales Entsorgungsprogramm"
+        },
+        {
+          "documentIdentifier" : "BJNR008140959BJNE011101124",
+          "paragraph" : "§ 2d",
+          "title" : "Grundsätze der nuklearen Entsorgung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR008140959BJNG000200326",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR008140959BJNE000901118",
+          "paragraph" : "§ 3",
+          "title" : "Einfuhr und Ausfuhr"
+        },
+        {
+          "documentIdentifier" : "BJNR008140959BJNE001003118",
+          "paragraph" : "§ 4",
+          "title" : "Beförderung von Kernbrennstoffen"
+        },
+        {
+          "documentIdentifier" : "BJNR008140959BJNE001103118",
+          "paragraph" : "§ 4a",
+          "title" : "Deckungsvorsorge bei grenzüberschreitender Beförderung"
+        },
+        {
+          "documentIdentifier" : "BJNR008140959BJNE001200326",
+          "paragraph" : "§ 4b",
+          "title" : "Beförderung von Kernmaterialien in besonderen Fällen"
+        },
+        {
+          "documentIdentifier" : "BJNR008140959BJNE001301377",
+          "paragraph" : "§ 5",
+          "title" : "Berechtigung zum Besitz von Kernbrennstoffen;\nstaatliche Verwahrung"
+        },
+        {
+          "documentIdentifier" : "BJNR008140959BJNE001406360",
+          "paragraph" : "§ 6",
+          "title" : "Genehmigung zur Aufbewahrung von Kernbrennstoffen"
+        },
+        {
+          "documentIdentifier" : "BJNR008140959BJNE001515124",
+          "paragraph" : "§ 7",
+          "title" : "Genehmigung von Anlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR008140959BJNE001600326",
+          "paragraph" : "§ 7a",
+          "title" : "Vorbescheid"
+        },
+        {
+          "documentIdentifier" : "BJNR008140959BJNE001700326",
+          "paragraph" : "§ 7b",
+          "title" : "Einwendungen Dritter bei Teilgenehmigung und Vorbescheid"
+        },
+        {
+          "documentIdentifier" : "BJNR008140959BJNE010401118",
+          "paragraph" : "§ 7c",
+          "title" : "Pflichten des Genehmigungsinhabers"
+        },
+        {
+          "documentIdentifier" : "BJNR008140959BJNE009800360",
+          "paragraph" : "§ 7d",
+          "title" : "Weitere Vorsorge gegen Risiken"
+        },
+        {
+          "documentIdentifier" : "BJNR008140959BJNE012000124",
+          "paragraph" : "§ 7e",
+          "title" : "Ausgleich für Investitionen"
+        },
+        {
+          "documentIdentifier" : "BJNR008140959BJNE012100124",
+          "paragraph" : "§ 7f",
+          "title" : "Ausgleich für Elektrizitätsmengen"
+        },
+        {
+          "documentIdentifier" : "BJNR008140959BJNE012200124",
+          "paragraph" : "§ 7g",
+          "title" : "Verwaltungsverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR008140959BJNE001805118",
+          "paragraph" : "§ 8",
+          "title" : "Verhältnis zum Bundes-Immissionsschutzgesetz und zum Produktsicherheitsgesetz"
+        },
+        {
+          "documentIdentifier" : "BJNR008140959BJNE001902377",
+          "paragraph" : "§ 9",
+          "title" : "Bearbeitung, Verarbeitung und sonstige Verwendung\nvon Kernbrennstoffen außerhalb genehmigungspflichtiger\nAnlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR008140959BJNE002011119",
+          "paragraph" : "§ 9a",
+          "title" : "Verwertung radioaktiver Reststoffe und Beseitigung radioaktiver Abfälle"
+        },
+        {
+          "documentIdentifier" : "BJNR008140959BJNE002106118",
+          "paragraph" : "§ 9b",
+          "title" : "Zulassungsverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR008140959BJNE002202118",
+          "paragraph" : "§ 9c",
+          "title" : "Landessammelstellen"
+        },
+        {
+          "documentIdentifier" : "BJNR008140959BJNE009902118",
+          "paragraph" : "§ 9d",
+          "title" : "Enteignung"
+        },
+        {
+          "documentIdentifier" : "BJNR008140959BJNE010000360",
+          "paragraph" : "§ 9e",
+          "title" : "Gegenstand und Zulässigkeit der Enteignung; Entschädigung"
+        },
+        {
+          "documentIdentifier" : "BJNR008140959BJNE010100360",
+          "paragraph" : "§ 9f",
+          "title" : "Vorarbeiten an Grundstücken"
+        },
+        {
+          "documentIdentifier" : "BJNR008140959BJNE008002119",
+          "paragraph" : "§ 9g",
+          "title" : "Veränderungssperre"
+        },
+        {
+          "documentIdentifier" : "BJNR008140959BJNE011200118",
+          "paragraph" : "§ 9h",
+          "title" : "Pflichten des Zulassungsinhabers"
+        },
+        {
+          "documentIdentifier" : "BJNR008140959BJNE011300118",
+          "paragraph" : "§ 9i",
+          "title" : "Bestandsaufnahme und Schätzung"
+        },
+        {
+          "documentIdentifier" : "BJNR008140959BJNE011900118",
+          "paragraph" : "§ 10a",
+          "title" : "Erstreckung auf strahlenschutzrechtliche Genehmigungen; Ausnahmen vom Erfordernis der Genehmigung"
+        },
+        {
+          "documentIdentifier" : "BJNR008140959BJNE002408118",
+          "paragraph" : "§ 11",
+          "title" : "Ermächtigungsvorschriften (Genehmigung, Anzeige, allgemeine Zulassung)"
+        },
+        {
+          "documentIdentifier" : "BJNR008140959BJNE002506118",
+          "paragraph" : "§ 12",
+          "title" : "Ermächtigungsvorschriften (Schutzmaßnahmen)"
+        },
+        {
+          "documentIdentifier" : "BJNR008140959BJNE002600326",
+          "paragraph" : "§ 12a",
+          "title" : "Ermächtigungsvorschrift (Entscheidung des\nDirektionsausschusses)"
+        },
+        {
+          "documentIdentifier" : "BJNR008140959BJNE007209118",
+          "paragraph" : "§ 12b",
+          "title" : "Überprüfung der Zuverlässigkeit von Personen zum Schutz gegen Entwendung oder Freisetzung radioaktiver Stoffe"
+        },
+        {
+          "documentIdentifier" : "BJNR008140959BJNE007301118",
+          "paragraph" : "(XXXX) §§ 12c und 12d",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR008140959BJNE002706118",
+          "paragraph" : "§ 13",
+          "title" : "Vorsorge für die Erfüllung gesetzlicher Schadensersatzverpflichtungen"
+        },
+        {
+          "documentIdentifier" : "BJNR008140959BJNE002803377",
+          "paragraph" : "§ 14",
+          "title" : "Haftpflichtversicherung und sonstige Deckungsvorsorge"
+        },
+        {
+          "documentIdentifier" : "BJNR008140959BJNE002902124",
+          "paragraph" : "§ 15",
+          "title" : "Rangfolge der Befriedigung aus der Deckungsvorsorge"
+        },
+        {
+          "documentIdentifier" : "BJNR008140959BJNE003102377",
+          "paragraph" : "§ 17",
+          "title" : "Inhaltliche Beschränkungen, Auflagen, Widerruf,\nBezeichnung als Inhaber einer Kernanlage"
+        },
+        {
+          "documentIdentifier" : "BJNR008140959BJNE003200326",
+          "paragraph" : "§ 18",
+          "title" : "Entschädigung"
+        },
+        {
+          "documentIdentifier" : "BJNR008140959BJNE003310118",
+          "paragraph" : "§ 19",
+          "title" : "Staatliche Aufsicht"
+        },
+        {
+          "documentIdentifier" : "BJNR008140959BJNE008601360",
+          "paragraph" : "§ 19a",
+          "title" : "Überprüfung, Bewertung und kontinuierliche Verbesserung kerntechnischer Anlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR008140959BJNE003403310",
+          "paragraph" : "§ 20",
+          "title" : "Sachverständige"
+        },
+        {
+          "documentIdentifier" : "BJNR008140959BJNE003511119",
+          "paragraph" : "§ 21",
+          "title" : "Kosten"
+        },
+        {
+          "documentIdentifier" : "BJNR008140959BJNE003602360",
+          "paragraph" : "§ 21a",
+          "title" : "Kosten (Gebühren und Auslagen) oder Entgelte für die Benutzung von Anlagen nach § 9a Abs. 3"
+        },
+        {
+          "documentIdentifier" : "BJNR008140959BJNE003705118",
+          "paragraph" : "§ 21b",
+          "title" : "Beiträge"
+        },
+        {
+          "documentIdentifier" : "BJNR008140959BJNE012300119",
+          "paragraph" : "§ 21c",
+          "title" : "Öffentlich-rechtlicher Vertrag"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Überwachungsvorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR008140959BJNG000300326",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR008140959BJNE003810118",
+          "paragraph" : "§ 22",
+          "title" : "Zuständigkeit für grenzüberschreitende Verbringungen und deren Überwachung"
+        },
+        {
+          "documentIdentifier" : "BJNR008140959BJNE003909118",
+          "paragraph" : "§ 23",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR008140959BJNE008102360",
+          "paragraph" : "§ 23a",
+          "title" : "Zuständigkeit des Bundesverwaltungsamtes"
+        },
+        {
+          "documentIdentifier" : "BJNR008140959BJNE008201118",
+          "paragraph" : "§ 23b",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR008140959BJNE010501118",
+          "paragraph" : "§ 23c",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR008140959BJNE010603119",
+          "paragraph" : "§ 23d",
+          "title" : "Zuständigkeit des Bundesamtes für die Sicherheit der nuklearen Entsorgung"
+        },
+        {
+          "documentIdentifier" : "BJNR008140959BJNE004005123",
+          "paragraph" : "§ 24",
+          "title" : "Zuständigkeit der Landesbehörden"
+        },
+        {
+          "documentIdentifier" : "BJNR008140959BJNE007402118",
+          "paragraph" : "§ 24a",
+          "title" : "Information der Öffentlichkeit; Informationsübermittlung"
+        },
+        {
+          "documentIdentifier" : "BJNR008140959BJNE010202118",
+          "paragraph" : "§ 24b",
+          "title" : "Selbstbewertung und internationale Prüfung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Verwaltungsbehörden"
+    },
+    {
+      "documentIdentifier" : "BJNR008140959BJNG000400326",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR008140959BJNE004104118",
+          "paragraph" : "§ 25",
+          "title" : "Haftung für Kernanlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR008140959BJNE004200326",
+          "paragraph" : "§ 25a",
+          "title" : "Haftung für Reaktorschiffe"
+        },
+        {
+          "documentIdentifier" : "BJNR008140959BJNE004305119",
+          "paragraph" : "§ 26",
+          "title" : "Haftung in anderen Fällen"
+        },
+        {
+          "documentIdentifier" : "BJNR008140959BJNE004400326",
+          "paragraph" : "§ 27",
+          "title" : "Mitwirkendes Verschulden des Verletzten"
+        },
+        {
+          "documentIdentifier" : "BJNR008140959BJNE004501124",
+          "paragraph" : "§ 28",
+          "title" : "Umfang des Schadensersatzes bei Tötung"
+        },
+        {
+          "documentIdentifier" : "BJNR008140959BJNE004602377",
+          "paragraph" : "§ 29",
+          "title" : "Umfang des Schadensersatzes bei Körperverletzung"
+        },
+        {
+          "documentIdentifier" : "BJNR008140959BJNE004700326",
+          "paragraph" : "§ 30",
+          "title" : "Geldrente"
+        },
+        {
+          "documentIdentifier" : "BJNR008140959BJNE004802377",
+          "paragraph" : "§ 31",
+          "title" : "Haftungshöchstgrenzen"
+        },
+        {
+          "documentIdentifier" : "BJNR008140959BJNE004900326",
+          "paragraph" : "§ 32",
+          "title" : "Verjährung"
+        },
+        {
+          "documentIdentifier" : "BJNR008140959BJNE005000326",
+          "paragraph" : "§ 33",
+          "title" : "Mehrere Verursacher"
+        },
+        {
+          "documentIdentifier" : "BJNR008140959BJNE005106360",
+          "paragraph" : "§ 34",
+          "title" : "Freistellungsverpflichtung"
+        },
+        {
+          "documentIdentifier" : "BJNR008140959BJNE005200326",
+          "paragraph" : "§ 35",
+          "title" : "Verteilungsverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR008140959BJNE005303360",
+          "paragraph" : "§ 36",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR008140959BJNE005401306",
+          "paragraph" : "§ 37",
+          "title" : "Rückgriff bei der Freistellung"
+        },
+        {
+          "documentIdentifier" : "BJNR008140959BJNE005501306",
+          "paragraph" : "§ 38",
+          "title" : "Ausgleich durch den Bund"
+        },
+        {
+          "documentIdentifier" : "BJNR008140959BJNE005602124",
+          "paragraph" : "§ 39",
+          "title" : "Ausnahmen von den Leistungen des Bundes"
+        },
+        {
+          "documentIdentifier" : "BJNR008140959BJNE005700326",
+          "paragraph" : "§ 40",
+          "title" : "Klagen gegen den Inhaber einer Kernanlage, die in\neinem anderen Vertragsstaat gelegen ist"
+        },
+        {
+          "documentIdentifier" : "BJNR008140959BJNE005801118",
+          "paragraph" : "(XXXX) §§ 41 bis 44",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR008140959BJNE010801118",
+          "paragraph" : "§ 44b",
+          "title" : "Meldewesen für die Sicherheit in der Informationstechnik"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Haftungsvorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR008140959BJNG000501118",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR008140959BJNE010900118",
+          "paragraph" : "§ 45",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR008140959BJNE005911119",
+          "paragraph" : "§ 46",
+          "title" : "Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR008140959BJNE006000326",
+          "paragraph" : "(XXXX) §§ 47 und 48",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR008140959BJNE006102118",
+          "paragraph" : "§ 49",
+          "title" : "Einziehung"
+        },
+        {
+          "documentIdentifier" : "BJNR008140959BJNE006200326",
+          "paragraph" : "(XXXX) §§ 50 bis 52",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Bußgeldvorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR008140959BJNG000600326",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR008140959BJNE006301377",
+          "paragraph" : "§ 53",
+          "title" : "Erfassung von Schäden aus ungeklärter Ursache"
+        },
+        {
+          "documentIdentifier" : "BJNR008140959BJNE006406118",
+          "paragraph" : "§ 54",
+          "title" : "Erlaß von Rechtsverordnungen"
+        },
+        {
+          "documentIdentifier" : "BJNR008140959BJNE006500326",
+          "paragraph" : "§ 55",
+          "title" : "(Aufhebung von Rechtsvorschriften)"
+        },
+        {
+          "documentIdentifier" : "BJNR008140959BJNE006600326",
+          "paragraph" : "§ 56",
+          "title" : "Genehmigungen auf Grund Landesrechts"
+        },
+        {
+          "documentIdentifier" : "BJNR008140959BJNE006701377",
+          "paragraph" : "§ 57",
+          "title" : "Abgrenzungen"
+        },
+        {
+          "documentIdentifier" : "BJNR008140959BJNE007504118",
+          "paragraph" : "§ 57a",
+          "title" : "Überleitungsregelung aus Anlaß der Herstellung der Einheit Deutschlands"
+        },
+        {
+          "documentIdentifier" : "BJNR008140959BJNE009505119",
+          "paragraph" : "§ 57b",
+          "title" : "Betrieb und Stilllegung der Schachtanlage Asse II"
+        },
+        {
+          "documentIdentifier" : "BJNR008140959BJNE006810118",
+          "paragraph" : "§ 58",
+          "title" : "Übergangsvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR008140959BJNE008401118",
+          "paragraph" : "§ 58a",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR008140959BJNE006900326",
+          "paragraph" : "§ 59",
+          "title" : "(Inkrafttreten)"
+        },
+        {
+          "documentIdentifier" : "BJNR008140959BJNE007001308",
+          "paragraph" : "Anlage 1",
+          "title" : "Begriffsbestimmungen nach § 2 Abs. 4"
+        },
+        {
+          "documentIdentifier" : "BJNR008140959BJNE007101118",
+          "paragraph" : "Anlage 2",
+          "title" : "Haftungs- und Deckungsfreigrenzen"
+        },
+        {
+          "documentIdentifier" : "BJNR008140959BJNE008702310",
+          "paragraph" : "Anlage 3",
+          "title" : "(zu § 7 Absatz 1a)"
+        },
+        {
+          "documentIdentifier" : "BJNR008140959BJNE008800377",
+          "paragraph" : "Anlage 4",
+          "title" : "Sicherheitsüberprüfung nach § 19a Abs. 1"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlußvorschriften"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "documentIdentifier" : "BJNR007090969",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR007090969Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR007090969BJNE000101310",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR007090969BJNE000200304",
+          "paragraph" : "§ 2",
+          "title" : "Gesetzliche Einheiten im Meßwesen"
+        },
+        {
+          "documentIdentifier" : "BJNR007090969BJNE000305118",
+          "paragraph" : "§ 3",
+          "title" : "Ermächtigung"
+        },
+        {
+          "documentIdentifier" : "BJNR007090969BJNE001000310",
+          "paragraph" : "§ 4",
+          "title" : "Gesetzliche Zeit"
+        },
+        {
+          "documentIdentifier" : "BJNR007090969BJNE001101118",
+          "paragraph" : "§ 5",
+          "title" : "Ermächtigung zur Einführung der mitteleuropäischen Sommerzeit"
+        },
+        {
+          "documentIdentifier" : "BJNR007090969BJNE000402118",
+          "paragraph" : "§ 6",
+          "title" : "Physikalisch-Technische Bundesanstalt"
+        },
+        {
+          "documentIdentifier" : "BJNR007090969BJNE001206301",
+          "paragraph" : "§ 7",
+          "title" : "Gebühren und Auslagen für Nutzleistungen der Physikalisch-Technischen Bundesanstalt"
+        },
+        {
+          "documentIdentifier" : "BJNR007090969BJNE000501310",
+          "paragraph" : "§ 8",
+          "title" : "Zuständige Behörden"
+        },
+        {
+          "documentIdentifier" : "BJNR007090969BJNE000601310",
+          "paragraph" : "§ 9",
+          "title" : "Auskünfte"
+        },
+        {
+          "documentIdentifier" : "BJNR007090969BJNE000701310",
+          "paragraph" : "§ 10",
+          "title" : "Bußgeldvorschrift"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

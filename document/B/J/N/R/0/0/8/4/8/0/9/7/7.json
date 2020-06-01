@@ -1,0 +1,96 @@
+{
+  "documentIdentifier" : "BJNR008480977",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR008480977BJNG000102301",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR008480977BJNE000502301",
+          "paragraph" : "§ 1",
+          "title" : "Allgemeines"
+        },
+        {
+          "documentIdentifier" : "BJNR008480977BJNE000605301",
+          "paragraph" : "§ 2",
+          "title" : "Kassen mit Rechtsanspruch der Leistungsempfänger"
+        },
+        {
+          "documentIdentifier" : "BJNR008480977BJNE000702301",
+          "paragraph" : "§ 3",
+          "title" : "Kassen ohne Rechtsanspruch der Leistungsempfänger"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Zu § 5 Abs. 1 Nr. 3 des Gesetzes"
+    },
+    {
+      "documentIdentifier" : "BJNR008480977BJNG000202301",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR008480977BJNE000806377",
+          "paragraph" : "§ 4",
+          "title" : "Kleinere Versicherungsvereine"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Zu § 5 Abs. 1 Nr. 4 des Gesetzes"
+    },
+    {
+      "documentIdentifier" : "BJNR008480977BJNG000401301",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR008480977BJNE001202140",
+          "paragraph" : "§ 5",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Zu § 26 Abs. 3 des Gesetzes"
+    },
+    {
+      "documentIdentifier" : "BJNR008480977BJNG000303301",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR008480977BJNE000907377",
+          "paragraph" : "§ 6",
+          "title" : "Anwendungszeitraum"
+        },
+        {
+          "documentIdentifier" : "BJNR008480977BJNE001302140",
+          "paragraph" : "Anlage",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlußvorschrift"
+    }
+  ]
+}

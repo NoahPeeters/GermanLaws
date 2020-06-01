@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR213910961",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR213910961Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR213910961BJNE000200326",
+          "paragraph" : "Art 2",
+          "title" : "Übergangsvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR213910961BJNE000300326",
+          "paragraph" : "Art 3",
+          "title" : "Geltung im Land Berlin"
+        },
+        {
+          "documentIdentifier" : "BJNR213910961BJNE000400326",
+          "paragraph" : "Art 4",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

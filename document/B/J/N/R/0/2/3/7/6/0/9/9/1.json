@@ -1,0 +1,50 @@
+{
+  "documentIdentifier" : "BJNR023760991",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR023760991BJNG000100307",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Dienstrecht"
+    },
+    {
+      "documentIdentifier" : "BJNR023760991BJNG000200307",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Versorgung"
+    },
+    {
+      "documentIdentifier" : "BJNR023760991BJNG000300307",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inkrafttreten"
+    }
+  ]
+}

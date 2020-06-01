@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR117010009",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR117010009Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR117010009BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Finanzierung"
+        },
+        {
+          "documentIdentifier" : "BJNR117010009BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Verteilung"
+        },
+        {
+          "documentIdentifier" : "BJNR117010009BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Zahlungsverkehr"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

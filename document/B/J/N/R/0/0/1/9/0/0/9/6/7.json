@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR001900967",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR001900967Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR001900967BJNE000200303",
+          "paragraph" : "§ 1",
+          "title" : "Bewertungsfreiheit für abnutzbare Wirtschaftsgüter des Anlagevermögens"
+        },
+        {
+          "documentIdentifier" : "BJNR001900967BJNE000300303",
+          "paragraph" : "§ 2",
+          "title" : "Anwendung im Land Berlin"
+        },
+        {
+          "documentIdentifier" : "BJNR001900967BJNE000400303",
+          "paragraph" : "§ 3",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

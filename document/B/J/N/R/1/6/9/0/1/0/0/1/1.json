@@ -1,0 +1,284 @@
+{
+  "documentIdentifier" : "BJNR169010011",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR169010011BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR169010011BJNE000201118",
+          "paragraph" : "§ 1",
+          "title" : "Grundsatz"
+        },
+        {
+          "documentIdentifier" : "BJNR169010011BJNE000303118",
+          "paragraph" : "§ 2",
+          "title" : "Anwendungsbereich, Verordnungsermächtigung"
+        },
+        {
+          "documentIdentifier" : "BJNR169010011BJNE000401118",
+          "paragraph" : "§ 3",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR169010011BJNE003700118",
+          "paragraph" : "§ 3a",
+          "title" : "Zusammenarbeit von Bund und Ländern"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR169010011BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR169010011BJNE000501140",
+          "paragraph" : "§ 4",
+          "title" : "Zweck der Bundesfachplanung"
+        },
+        {
+          "documentIdentifier" : "BJNR169010011BJNE000604118",
+          "paragraph" : "§ 5",
+          "title" : "Inhalt der Bundesfachplanung"
+        },
+        {
+          "documentIdentifier" : "BJNR169010011BJNE003800118",
+          "paragraph" : "§ 5a",
+          "title" : "Verzicht auf Bundesfachplanung"
+        },
+        {
+          "documentIdentifier" : "BJNR169010011BJNE003900118",
+          "paragraph" : "§ 5b",
+          "title" : "Zusammentreffen mehrerer Vorhaben in der Bundesfachplanung"
+        },
+        {
+          "documentIdentifier" : "BJNR169010011BJNE000702118",
+          "paragraph" : "§ 6",
+          "title" : "Antrag auf Bundesfachplanung"
+        },
+        {
+          "documentIdentifier" : "BJNR169010011BJNE000802118",
+          "paragraph" : "§ 7",
+          "title" : "Festlegung des Untersuchungsrahmens"
+        },
+        {
+          "documentIdentifier" : "BJNR169010011BJNE000902118",
+          "paragraph" : "§ 8",
+          "title" : "Unterlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR169010011BJNE001003118",
+          "paragraph" : "§ 9",
+          "title" : "Behörden- und Öffentlichkeitsbeteiligung"
+        },
+        {
+          "documentIdentifier" : "BJNR169010011BJNE001101118",
+          "paragraph" : "§ 10",
+          "title" : "Erörterungstermin"
+        },
+        {
+          "documentIdentifier" : "BJNR169010011BJNE001203118",
+          "paragraph" : "§ 11",
+          "title" : "Vereinfachtes Verfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR169010011BJNE001303118",
+          "paragraph" : "§ 12",
+          "title" : "Abschluss der Bundesfachplanung"
+        },
+        {
+          "documentIdentifier" : "BJNR169010011BJNE001401118",
+          "paragraph" : "§ 13",
+          "title" : "Bekanntgabe und Veröffentlichung der Entscheidung"
+        },
+        {
+          "documentIdentifier" : "BJNR169010011BJNE001500000",
+          "paragraph" : "§ 14",
+          "title" : "Einwendungen der Länder"
+        },
+        {
+          "documentIdentifier" : "BJNR169010011BJNE001603118",
+          "paragraph" : "§ 15",
+          "title" : "Bindungswirkung der Bundesfachplanung"
+        },
+        {
+          "documentIdentifier" : "BJNR169010011BJNE001701118",
+          "paragraph" : "§ 16",
+          "title" : "Veränderungssperren"
+        },
+        {
+          "documentIdentifier" : "BJNR169010011BJNE001802123",
+          "paragraph" : "§ 17",
+          "title" : "Bundesnetzplan"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Bundesfachplanung"
+    },
+    {
+      "documentIdentifier" : "BJNR169010011BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR169010011BJNE001901118",
+          "paragraph" : "§ 18",
+          "title" : "Erfordernis einer Planfeststellung"
+        },
+        {
+          "documentIdentifier" : "BJNR169010011BJNE002001118",
+          "paragraph" : "§ 19",
+          "title" : "Antrag auf Planfeststellungsbeschluss"
+        },
+        {
+          "documentIdentifier" : "BJNR169010011BJNE002102118",
+          "paragraph" : "§ 20",
+          "title" : "Antragskonferenz, Festlegung des Untersuchungsrahmens"
+        },
+        {
+          "documentIdentifier" : "BJNR169010011BJNE002201118",
+          "paragraph" : "§ 21",
+          "title" : "Einreichung des Plans und der Unterlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR169010011BJNE002302118",
+          "paragraph" : "§ 22",
+          "title" : "Anhörungsverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR169010011BJNE002400000",
+          "paragraph" : "§ 23",
+          "title" : "Umweltverträglichkeitsprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR169010011BJNE002501118",
+          "paragraph" : "§ 24",
+          "title" : "Planfeststellungsbeschluss"
+        },
+        {
+          "documentIdentifier" : "BJNR169010011BJNE002601118",
+          "paragraph" : "§ 25",
+          "title" : "Änderungen im Anzeigeverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR169010011BJNE002701118",
+          "paragraph" : "§ 26",
+          "title" : "Zusammentreffen mehrerer Vorhaben"
+        },
+        {
+          "documentIdentifier" : "BJNR169010011BJNE002800000",
+          "paragraph" : "§ 27",
+          "title" : "Vorzeitige Besitzeinweisung und Enteignungsverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR169010011BJNE002901118",
+          "paragraph" : "§ 28",
+          "title" : "Durchführung eines Raumordnungsverfahrens"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Planfeststellung"
+    },
+    {
+      "documentIdentifier" : "BJNR169010011BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR169010011BJNE003001118",
+          "paragraph" : "§ 29",
+          "title" : "Projektmanager"
+        },
+        {
+          "documentIdentifier" : "BJNR169010011BJNE003101118",
+          "paragraph" : "§ 30",
+          "title" : "Kostenpflichtige Amtshandlungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gemeinsame Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR169010011BJNG000500000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR169010011BJNE003202118",
+          "paragraph" : "§ 31",
+          "title" : "Zuständige Behörde"
+        },
+        {
+          "documentIdentifier" : "BJNR169010011BJNE003301118",
+          "paragraph" : "§ 32",
+          "title" : "Bundesfachplanungsbeirat"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Behörden und Gremien"
+    },
+    {
+      "documentIdentifier" : "BJNR169010011BJNG000600000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR169010011BJNE003401118",
+          "paragraph" : "§ 33",
+          "title" : "Bußgeldvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR169010011BJNE003502118",
+          "paragraph" : "§ 34",
+          "title" : "Zwangsgeld"
+        },
+        {
+          "documentIdentifier" : "BJNR169010011BJNE003601118",
+          "paragraph" : "§ 35",
+          "title" : "Übergangsvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR169010011BJNE004000118",
+          "paragraph" : "§ 36",
+          "title" : "Evaluierung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Sanktions- und Schlussvorschriften"
+    }
+  ]
+}

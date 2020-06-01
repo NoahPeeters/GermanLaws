@@ -1,0 +1,59 @@
+{
+  "documentIdentifier" : "BJNR009800011",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR009800011Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR009800011BJNE000201116",
+          "paragraph" : "§ 1",
+          "title" : "Gebührentarif"
+        },
+        {
+          "documentIdentifier" : "BJNR009800011BJNE000301311",
+          "paragraph" : "§ 2",
+          "title" : "Auslagen"
+        },
+        {
+          "documentIdentifier" : "BJNR009800011BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Kostengläubiger"
+        },
+        {
+          "documentIdentifier" : "BJNR009800011BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Kostenschuldner"
+        },
+        {
+          "documentIdentifier" : "BJNR009800011BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Persönliche Gebührenfreiheit"
+        },
+        {
+          "documentIdentifier" : "BJNR009800011BJNE000702305",
+          "paragraph" : "§ 6",
+          "title" : "Übergangs- und Anwendungsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR009800011BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR009800011BJNE001121124",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 1)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

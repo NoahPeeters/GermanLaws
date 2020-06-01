@@ -1,0 +1,483 @@
+{
+  "documentIdentifier" : "BJNR137310005",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR137310005BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR137310005BJNE000202360",
+          "paragraph" : "§ 1",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR137310005BJNE000304116",
+          "paragraph" : "§ 2",
+          "title" : "Erlaubnis"
+        },
+        {
+          "documentIdentifier" : "BJNR137310005BJNE000402118",
+          "paragraph" : "§ 3",
+          "title" : "Aufsicht; Auskunfts- und Vorlageverlangen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Anwendungsbereich, Erlaubnis und Aufsicht"
+    },
+    {
+      "documentIdentifier" : "BJNR137310005BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR137310005BJNE000508128",
+          "paragraph" : "§ 4",
+          "title" : "Deckungskongruenz; Anordnung erhöhter Mindestdeckungsanforderungen"
+        },
+        {
+          "documentIdentifier" : "BJNR137310005BJNE006201118",
+          "paragraph" : "§ 4a",
+          "title" : "Umschuldungsklauseln in Staatsanleihen"
+        },
+        {
+          "documentIdentifier" : "BJNR137310005BJNE000604118",
+          "paragraph" : "§ 5",
+          "title" : "Deckungsregister"
+        },
+        {
+          "documentIdentifier" : "BJNR137310005BJNE000701377",
+          "paragraph" : "§ 6",
+          "title" : "Inhalt der Pfandbriefe"
+        },
+        {
+          "documentIdentifier" : "BJNR137310005BJNE000802360",
+          "paragraph" : "§ 7",
+          "title" : "Treuhänder und Stellvertreter"
+        },
+        {
+          "documentIdentifier" : "BJNR137310005BJNE000901377",
+          "paragraph" : "§ 8",
+          "title" : "Aufgaben"
+        },
+        {
+          "documentIdentifier" : "BJNR137310005BJNE001001377",
+          "paragraph" : "§ 9",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR137310005BJNE001101377",
+          "paragraph" : "§ 10",
+          "title" : "Befugnisse"
+        },
+        {
+          "documentIdentifier" : "BJNR137310005BJNE001201360",
+          "paragraph" : "§ 11",
+          "title" : "Vergütung, Streitentscheidung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften über die Pfandbriefemission"
+    },
+    {
+      "documentIdentifier" : "BJNR137310005BJNG000300000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR137310005BJNG000400000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR137310005BJNE001304118",
+              "paragraph" : "§ 12",
+              "title" : "Deckungswerte"
+            },
+            {
+              "documentIdentifier" : "BJNR137310005BJNE001402128",
+              "paragraph" : "§ 13",
+              "title" : "Belegenheit der Sicherheiten"
+            },
+            {
+              "documentIdentifier" : "BJNR137310005BJNE001501377",
+              "paragraph" : "§ 14",
+              "title" : "Beleihungsgrenze"
+            },
+            {
+              "documentIdentifier" : "BJNR137310005BJNE001601118",
+              "paragraph" : "§ 15",
+              "title" : "Versicherungspflicht"
+            },
+            {
+              "documentIdentifier" : "BJNR137310005BJNE001702118",
+              "paragraph" : "§ 16",
+              "title" : "Beleihungswertermittlung"
+            },
+            {
+              "documentIdentifier" : "BJNR137310005BJNE001801377",
+              "paragraph" : "§ 17",
+              "title" : "(weggefallen)"
+            },
+            {
+              "documentIdentifier" : "BJNR137310005BJNE001902360",
+              "paragraph" : "§ 18",
+              "title" : "Grundschulden und ausländische Sicherungsrechte"
+            },
+            {
+              "documentIdentifier" : "BJNR137310005BJNE002007118",
+              "paragraph" : "§ 19",
+              "title" : "Weitere Deckungswerte"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Hypothekenpfandbriefe"
+        },
+        {
+          "documentIdentifier" : "BJNR137310005BJNG000500000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR137310005BJNE002105128",
+              "paragraph" : "§ 20",
+              "title" : "Deckungswerte"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Öffentliche Pfandbriefe"
+        },
+        {
+          "documentIdentifier" : "BJNR137310005BJNG000600000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR137310005BJNE002201377",
+              "paragraph" : "§ 21",
+              "title" : "Deckungswerte"
+            },
+            {
+              "documentIdentifier" : "BJNR137310005BJNE002302360",
+              "paragraph" : "§ 22",
+              "title" : "Beleihungsgrenze"
+            },
+            {
+              "documentIdentifier" : "BJNR137310005BJNE002401377",
+              "paragraph" : "§ 23",
+              "title" : "Versicherung"
+            },
+            {
+              "documentIdentifier" : "BJNR137310005BJNE002502118",
+              "paragraph" : "§ 24",
+              "title" : "Beleihungswertermittlung"
+            },
+            {
+              "documentIdentifier" : "BJNR137310005BJNE002601377",
+              "paragraph" : "§ 25",
+              "title" : "Abzahlungsbeginn"
+            },
+            {
+              "documentIdentifier" : "BJNR137310005BJNE002704118",
+              "paragraph" : "§ 26",
+              "title" : "Weitere Deckungswerte"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Schiffspfandbriefe"
+        },
+        {
+          "documentIdentifier" : "BJNR137310005BJNG001100377",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR137310005BJNE005500377",
+              "paragraph" : "§ 26a",
+              "title" : "Deckungswerte"
+            },
+            {
+              "documentIdentifier" : "BJNR137310005BJNE005602360",
+              "paragraph" : "§ 26b",
+              "title" : "Beleihungsgrenze"
+            },
+            {
+              "documentIdentifier" : "BJNR137310005BJNE005700377",
+              "paragraph" : "§ 26c",
+              "title" : "Versicherung"
+            },
+            {
+              "documentIdentifier" : "BJNR137310005BJNE005801118",
+              "paragraph" : "§ 26d",
+              "title" : "Beleihungswertermittlung"
+            },
+            {
+              "documentIdentifier" : "BJNR137310005BJNE005900377",
+              "paragraph" : "§ 26e",
+              "title" : "Abzahlungsbeginn"
+            },
+            {
+              "documentIdentifier" : "BJNR137310005BJNE006003118",
+              "paragraph" : "§ 26f",
+              "title" : "Weitere Deckungswerte"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Flugzeugpfandbriefe"
+        }
+      ],
+      "title" : "Besondere Vorschriften über die Deckungswerte"
+    },
+    {
+      "documentIdentifier" : "BJNR137310005BJNG000700000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR137310005BJNE002800000",
+          "paragraph" : "§ 27",
+          "title" : "Risikomanagement"
+        },
+        {
+          "documentIdentifier" : "BJNR137310005BJNE006500118",
+          "paragraph" : "§ 27a",
+          "title" : "Pfandbriefmeldungen; Verordnungsermächtigung"
+        },
+        {
+          "documentIdentifier" : "BJNR137310005BJNE002905118",
+          "paragraph" : "§ 28",
+          "title" : "Transparenzvorschriften"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften für das Pfandbriefgeschäft"
+    },
+    {
+      "documentIdentifier" : "BJNR137310005BJNG000801360",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR137310005BJNE003002360",
+          "paragraph" : "§ 29",
+          "title" : "Schutz vor Zwangsvollstreckung, Arresten und Aufrechnung"
+        },
+        {
+          "documentIdentifier" : "BJNR137310005BJNE003107118",
+          "paragraph" : "§ 30",
+          "title" : "Trennungsprinzip bei Insolvenz der Pfandbriefbank; Sachwalterernennung"
+        },
+        {
+          "documentIdentifier" : "BJNR137310005BJNE003206360",
+          "paragraph" : "§ 31",
+          "title" : "Ernennung des Sachwalters; Rechte und Pflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR137310005BJNE006301360",
+          "paragraph" : "§ 31a",
+          "title" : "Vergütung des Sachwalters; Verordnungsermächtigung"
+        },
+        {
+          "documentIdentifier" : "BJNR137310005BJNE003301377",
+          "paragraph" : "§ 32",
+          "title" : "Übertragung der Deckungsmassen und -verbindlichkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR137310005BJNE003401377",
+          "paragraph" : "§ 33",
+          "title" : "Handelsregistereintragung"
+        },
+        {
+          "documentIdentifier" : "BJNR137310005BJNE003501360",
+          "paragraph" : "§ 34",
+          "title" : "Übergang von Deckungswerten und -verbindlichkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR137310005BJNE003602360",
+          "paragraph" : "§ 35",
+          "title" : "Treuhänderische Verwaltung"
+        },
+        {
+          "documentIdentifier" : "BJNR137310005BJNE003700000",
+          "paragraph" : "§ 36",
+          "title" : "Teilweise Übertragung"
+        },
+        {
+          "documentIdentifier" : "BJNR137310005BJNE006103118",
+          "paragraph" : "§ 36a",
+          "title" : "Trennungsprinzip bei Reorganisation oder Restrukturierung der Pfandbriefbank"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schutz vor Zwangsvollstreckung; Trennungsprinzip bei Insolvenz der Pfandbriefbank"
+    },
+    {
+      "documentIdentifier" : "BJNR137310005BJNG000900000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR137310005BJNE003802118",
+          "paragraph" : "§ 37",
+          "title" : "Sofortige Vollziehbarkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR137310005BJNE003900000",
+          "paragraph" : "§ 38",
+          "title" : "Strafvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR137310005BJNE004000000",
+          "paragraph" : "§ 39",
+          "title" : "Bußgeldvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR137310005BJNE004100000",
+          "paragraph" : "§ 40",
+          "title" : "Verwaltungsbehörde"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Rechtsbehelfe und Zuwiderhandlungen"
+    },
+    {
+      "documentIdentifier" : "BJNR137310005BJNG001000000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR137310005BJNE004202360",
+          "paragraph" : "§ 41",
+          "title" : "Bezeichnungsschutz"
+        },
+        {
+          "documentIdentifier" : "BJNR137310005BJNE004300000",
+          "paragraph" : "§ 42",
+          "title" : "Erlaubnis für bestehende Pfandbriefbanken"
+        },
+        {
+          "documentIdentifier" : "BJNR137310005BJNE004400000",
+          "paragraph" : "§ 43",
+          "title" : "Erlaubnis für Hypothekenbanken"
+        },
+        {
+          "documentIdentifier" : "BJNR137310005BJNE004500000",
+          "paragraph" : "§ 44",
+          "title" : "Erlaubnis für Schiffspfandbriefbanken"
+        },
+        {
+          "documentIdentifier" : "BJNR137310005BJNE004601118",
+          "paragraph" : "§ 45",
+          "title" : "Versicherungspflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR137310005BJNE004700000",
+          "paragraph" : "§ 46",
+          "title" : "Beleihungsgrenze"
+        },
+        {
+          "documentIdentifier" : "BJNR137310005BJNE004800000",
+          "paragraph" : "§ 47",
+          "title" : "Vorrecht der Schiffspfandbriefgläubiger"
+        },
+        {
+          "documentIdentifier" : "BJNR137310005BJNE004900000",
+          "paragraph" : "§ 48",
+          "title" : "Schiffspfandbriefe in ausländischer Währung"
+        },
+        {
+          "documentIdentifier" : "BJNR137310005BJNE005005128",
+          "paragraph" : "§ 49",
+          "title" : "Fortgeltende Deckungsfähigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR137310005BJNE005100000",
+          "paragraph" : "§ 50",
+          "title" : "Fortgeltung bisherigen Rechts"
+        },
+        {
+          "documentIdentifier" : "BJNR137310005BJNE005201377",
+          "paragraph" : "§ 51",
+          "title" : "Getrennter Pfandbriefumlauf"
+        },
+        {
+          "documentIdentifier" : "BJNR137310005BJNE005300000",
+          "paragraph" : "§ 52",
+          "title" : "Fortgeltende Bestimmungen des Gesetzes zur Änderung und Ergänzung des\nSchiffsbankgesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR137310005BJNE005403360",
+          "paragraph" : "§ 53",
+          "title" : "Übergangsvorschrift zum CRD IV-Umsetzungsgesetz"
+        },
+        {
+          "documentIdentifier" : "BJNR137310005BJNE006400118",
+          "paragraph" : "§ 54",
+          "title" : "Übergangsvorschrift zum BRRD-Umsetzungsgesetz"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussvorschriften"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR169800006",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR169800006Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR169800006BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Vorschriften betreffend Angebote im Sinne des § 1 Abs. 2 des\nWertpapiererwerbs- und Übernahmegesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR169800006BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Vorschriften betreffend Angebote im Sinne des § 1 Abs. 3 des\nWertpapiererwerbs- und Übernahmegesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR169800006BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

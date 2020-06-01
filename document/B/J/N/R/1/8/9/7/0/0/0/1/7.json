@@ -1,0 +1,171 @@
+{
+  "documentIdentifier" : "BJNR189700017",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR189700017BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR189700017BJNE000201311",
+          "paragraph" : "§ 1",
+          "title" : "Ziel des Vorbereitungsdienstes"
+        },
+        {
+          "documentIdentifier" : "BJNR189700017BJNE000301311",
+          "paragraph" : "§ 2",
+          "title" : "Einstellungsbehörden, Ausbildungsstellen, Dienstaufsicht"
+        },
+        {
+          "documentIdentifier" : "BJNR189700017BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Nachteilsausgleich"
+        },
+        {
+          "documentIdentifier" : "BJNR189700017BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Bewertung von Leistungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeines"
+    },
+    {
+      "documentIdentifier" : "BJNR189700017BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR189700017BJNE000601311",
+          "paragraph" : "§ 5",
+          "title" : "Einstellungsvoraussetzungen"
+        },
+        {
+          "documentIdentifier" : "BJNR189700017BJNE000701311",
+          "paragraph" : "§ 6",
+          "title" : "Auswahlverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR189700017BJNE000801311",
+          "paragraph" : "§ 7",
+          "title" : "Auswahlkommission"
+        },
+        {
+          "documentIdentifier" : "BJNR189700017BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Durchführung des Auswahlverfahrens"
+        },
+        {
+          "documentIdentifier" : "BJNR189700017BJNE001000000",
+          "paragraph" : "§ 9",
+          "title" : "Ergebnis des Auswahlverfahrens, Rangfolge"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Einstellung in den Vorbereitungsdienst"
+    },
+    {
+      "documentIdentifier" : "BJNR189700017BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR189700017BJNE001101311",
+          "paragraph" : "§ 10",
+          "title" : "Dauer und Gliederung des Vorbereitungsdienstes; Laufbahnprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR189700017BJNE001200000",
+          "paragraph" : "§ 11",
+          "title" : "Leistungspunkte nach dem Europäischen System zur Übertragung und Akkumulierung von Studienleistungen"
+        },
+        {
+          "documentIdentifier" : "BJNR189700017BJNE001301311",
+          "paragraph" : "§ 12",
+          "title" : "Modulhandbücher"
+        },
+        {
+          "documentIdentifier" : "BJNR189700017BJNE001400000",
+          "paragraph" : "§ 13",
+          "title" : "Ausbildungsleitung"
+        },
+        {
+          "documentIdentifier" : "BJNR189700017BJNE001500000",
+          "paragraph" : "§ 14",
+          "title" : "Modulverantwortliche, Prüfende"
+        },
+        {
+          "documentIdentifier" : "BJNR189700017BJNE001601311",
+          "paragraph" : "§ 15",
+          "title" : "Berufspraktische Studien"
+        },
+        {
+          "documentIdentifier" : "BJNR189700017BJNE001700000",
+          "paragraph" : "§ 16",
+          "title" : "Studienleistungen und Modulprüfungen in den berufspraktischen Studien"
+        },
+        {
+          "documentIdentifier" : "BJNR189700017BJNE001801311",
+          "paragraph" : "§ 17",
+          "title" : "Bewertung der Modulprüfungen und der Gesamtleistung in den berufspraktischen Studien"
+        },
+        {
+          "documentIdentifier" : "BJNR189700017BJNE001900000",
+          "paragraph" : "§ 18",
+          "title" : "Transferphase, Transferarbeit, Bewertung"
+        },
+        {
+          "documentIdentifier" : "BJNR189700017BJNE002001311",
+          "paragraph" : "§ 19",
+          "title" : "Verhinderung, Rücktritt, Säumnis"
+        },
+        {
+          "documentIdentifier" : "BJNR189700017BJNE002101311",
+          "paragraph" : "§ 20",
+          "title" : "Täuschung, Ordnungsverstoß"
+        },
+        {
+          "documentIdentifier" : "BJNR189700017BJNE002201311",
+          "paragraph" : "§ 21",
+          "title" : "Prüfungsakte"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Ausbildung"
+    },
+    {
+      "documentIdentifier" : "BJNR189700017BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR189700017BJNE002300000",
+          "paragraph" : "§ 22",
+          "title" : "Übergangsvorschrift"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussvorschrift"
+    }
+  ]
+}

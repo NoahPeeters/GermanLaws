@@ -1,0 +1,81 @@
+{
+  "documentIdentifier" : "BJNR001490936",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR001490936BJNG000100304",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Bestimmungen"
+    },
+    {
+      "documentIdentifier" : "BJNR001490936BJNG000200304",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR001490936BJNG000300304",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Enteignung mit Landentschädigungsplan"
+        },
+        {
+          "documentIdentifier" : "BJNR001490936BJNG000400304",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Umlegung"
+        }
+      ],
+      "title" : "Besondere Bestimmungen"
+    },
+    {
+      "documentIdentifier" : "BJNR001490936BJNG000500304",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlußbestimmungen"
+    }
+  ]
+}

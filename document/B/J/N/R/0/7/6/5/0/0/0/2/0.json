@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR076500020",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR076500020Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR076500020BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR076500020BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Übermittlung elektronischer Akten"
+        },
+        {
+          "documentIdentifier" : "BJNR076500020BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Übergang der Aktenführung oder Bearbeitung"
+        },
+        {
+          "documentIdentifier" : "BJNR076500020BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Übermittlungswege"
+        },
+        {
+          "documentIdentifier" : "BJNR076500020BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Ersatzmaßnahmen"
+        },
+        {
+          "documentIdentifier" : "BJNR076500020BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Bekanntmachung technischer Anforderungen"
+        },
+        {
+          "documentIdentifier" : "BJNR076500020BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

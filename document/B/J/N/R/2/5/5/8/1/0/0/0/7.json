@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR255810007",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR255810007Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR255810007BJNE000701311",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR255810007BJNE000104311",
+          "paragraph" : "§ 2",
+          "title" : "Anspruch auf Zugang zu Informationen"
+        },
+        {
+          "documentIdentifier" : "BJNR255810007BJNE000203311",
+          "paragraph" : "§ 3",
+          "title" : "Ausschluss- und Beschränkungsgründe"
+        },
+        {
+          "documentIdentifier" : "BJNR255810007BJNE000303311",
+          "paragraph" : "§ 4",
+          "title" : "Antrag"
+        },
+        {
+          "documentIdentifier" : "BJNR255810007BJNE000403311",
+          "paragraph" : "§ 5",
+          "title" : "Entscheidung über den Antrag"
+        },
+        {
+          "documentIdentifier" : "BJNR255810007BJNE000503311",
+          "paragraph" : "§ 6",
+          "title" : "Informationsgewährung"
+        },
+        {
+          "documentIdentifier" : "BJNR255810007BJNE000603116",
+          "paragraph" : "§ 7",
+          "title" : "Gebühren und Auslagen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

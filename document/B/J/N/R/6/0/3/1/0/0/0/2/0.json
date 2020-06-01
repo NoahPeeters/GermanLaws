@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR603100020",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR603100020Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR603100020BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Ausdehnung der Meldepflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR603100020BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

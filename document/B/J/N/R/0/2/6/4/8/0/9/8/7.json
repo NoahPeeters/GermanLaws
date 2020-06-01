@@ -1,0 +1,462 @@
+{
+  "documentIdentifier" : "BJNR026480987",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR026480987BJNG000100328",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR026480987BJNE001101123",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich und allgemeine Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR026480987BJNE001202124",
+          "paragraph" : "§ 2",
+          "title" : "Grundregeln"
+        },
+        {
+          "documentIdentifier" : "BJNR026480987BJNE001303124",
+          "paragraph" : "§ 3",
+          "title" : "Allgemeine Anforderungen an den Bau der Betriebsanlagen und Fahrzeuge"
+        },
+        {
+          "documentIdentifier" : "BJNR026480987BJNE001402124",
+          "paragraph" : "§ 4",
+          "title" : "Allgemeine Anforderungen an den Betrieb"
+        },
+        {
+          "documentIdentifier" : "BJNR026480987BJNE001502124",
+          "paragraph" : "§ 5",
+          "title" : "Technische Aufsicht"
+        },
+        {
+          "documentIdentifier" : "BJNR026480987BJNE001601123",
+          "paragraph" : "§ 6",
+          "title" : "Ausnahmen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeines"
+    },
+    {
+      "documentIdentifier" : "BJNR026480987BJNG000200328",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR026480987BJNE001701123",
+          "paragraph" : "§ 7",
+          "title" : "Unternehmer"
+        },
+        {
+          "documentIdentifier" : "BJNR026480987BJNE001801123",
+          "paragraph" : "§ 8",
+          "title" : "Betriebsleiter"
+        },
+        {
+          "documentIdentifier" : "BJNR026480987BJNE001901123",
+          "paragraph" : "§ 9",
+          "title" : "Bestätigung als Betriebsleiter"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Betriebsleitung"
+    },
+    {
+      "documentIdentifier" : "BJNR026480987BJNG000300328",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR026480987BJNE002001123",
+          "paragraph" : "§ 10",
+          "title" : "Allgemeine Anforderungen an Betriebsbedienstete"
+        },
+        {
+          "documentIdentifier" : "BJNR026480987BJNE002101123",
+          "paragraph" : "§ 11",
+          "title" : "Besondere Anforderungen an Fahrbedienstete"
+        },
+        {
+          "documentIdentifier" : "BJNR026480987BJNE002201123",
+          "paragraph" : "§ 12",
+          "title" : "Ausbildung und Prüfung der Fahrbediensteten"
+        },
+        {
+          "documentIdentifier" : "BJNR026480987BJNE002301123",
+          "paragraph" : "§ 13",
+          "title" : "Verhalten während des Dienstes"
+        },
+        {
+          "documentIdentifier" : "BJNR026480987BJNE002402123",
+          "paragraph" : "§ 14",
+          "title" : "Verhalten bei Krankheit"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Betriebsbedienstete"
+    },
+    {
+      "documentIdentifier" : "BJNR026480987BJNG000400328",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR026480987BJNE002501123",
+          "paragraph" : "§ 15",
+          "title" : "Streckenführung"
+        },
+        {
+          "documentIdentifier" : "BJNR026480987BJNE002602124",
+          "paragraph" : "§ 16",
+          "title" : "Bahnkörper"
+        },
+        {
+          "documentIdentifier" : "BJNR026480987BJNE002701123",
+          "paragraph" : "§ 17",
+          "title" : "Oberbau"
+        },
+        {
+          "documentIdentifier" : "BJNR026480987BJNE002800328",
+          "paragraph" : "§ 18",
+          "title" : "Umgrenzung des lichten Raumes"
+        },
+        {
+          "documentIdentifier" : "BJNR026480987BJNE002901123",
+          "paragraph" : "§ 19",
+          "title" : "Sicherheitsräume"
+        },
+        {
+          "documentIdentifier" : "BJNR026480987BJNE003001123",
+          "paragraph" : "§ 20",
+          "title" : "Bahnübergänge"
+        },
+        {
+          "documentIdentifier" : "BJNR026480987BJNE003101123",
+          "paragraph" : "§ 21",
+          "title" : "Signalanlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR026480987BJNE003201123",
+          "paragraph" : "§ 22",
+          "title" : "Zugsicherungsanlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR026480987BJNE003301123",
+          "paragraph" : "§ 23",
+          "title" : "Nachrichtentechnische Anlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR026480987BJNE003401123",
+          "paragraph" : "§ 24",
+          "title" : "Energieversorgungsanlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR026480987BJNE003500328",
+          "paragraph" : "§ 25",
+          "title" : "Fahrleitungsanlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR026480987BJNE003600328",
+          "paragraph" : "§ 26",
+          "title" : "Rückleitungen"
+        },
+        {
+          "documentIdentifier" : "BJNR026480987BJNE003701123",
+          "paragraph" : "§ 27",
+          "title" : "Beleuchtungsanlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR026480987BJNE003800328",
+          "paragraph" : "§ 28",
+          "title" : "Rohrleitungen"
+        },
+        {
+          "documentIdentifier" : "BJNR026480987BJNE003900328",
+          "paragraph" : "§ 29",
+          "title" : "Brücken"
+        },
+        {
+          "documentIdentifier" : "BJNR026480987BJNE004002124",
+          "paragraph" : "§ 30",
+          "title" : "Tunnel"
+        },
+        {
+          "documentIdentifier" : "BJNR026480987BJNE004102124",
+          "paragraph" : "§ 31",
+          "title" : "Haltestellen"
+        },
+        {
+          "documentIdentifier" : "BJNR026480987BJNE004201123",
+          "paragraph" : "§ 32",
+          "title" : "Aufzüge, Fahrtreppen und Fahrsteige"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Betriebsanlagen"
+    },
+    {
+      "documentIdentifier" : "BJNR026480987BJNG000500328",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR026480987BJNE004301123",
+          "paragraph" : "§ 33",
+          "title" : "Fahrzeuggestaltung"
+        },
+        {
+          "documentIdentifier" : "BJNR026480987BJNE004401123",
+          "paragraph" : "§ 34",
+          "title" : "Fahrzeugmaße"
+        },
+        {
+          "documentIdentifier" : "BJNR026480987BJNE004501123",
+          "paragraph" : "§ 35",
+          "title" : "Fahrwerke"
+        },
+        {
+          "documentIdentifier" : "BJNR026480987BJNE004601123",
+          "paragraph" : "§ 36",
+          "title" : "Bremsen"
+        },
+        {
+          "documentIdentifier" : "BJNR026480987BJNE004700328",
+          "paragraph" : "§ 37",
+          "title" : "Antrieb"
+        },
+        {
+          "documentIdentifier" : "BJNR026480987BJNE004800328",
+          "paragraph" : "§ 38",
+          "title" : "Fahrsteuerung"
+        },
+        {
+          "documentIdentifier" : "BJNR026480987BJNE004900328",
+          "paragraph" : "§ 39",
+          "title" : "Stromabnehmer und Schleifer"
+        },
+        {
+          "documentIdentifier" : "BJNR026480987BJNE005001123",
+          "paragraph" : "§ 40",
+          "title" : "Signaleinrichtungen"
+        },
+        {
+          "documentIdentifier" : "BJNR026480987BJNE005100328",
+          "paragraph" : "§ 41",
+          "title" : "Bahnräumer und Schienenräumer"
+        },
+        {
+          "documentIdentifier" : "BJNR026480987BJNE005200328",
+          "paragraph" : "§ 42",
+          "title" : "Kupplungseinrichtungen"
+        },
+        {
+          "documentIdentifier" : "BJNR026480987BJNE005301123",
+          "paragraph" : "§ 43",
+          "title" : "Türen für den Fahrgastwechsel"
+        },
+        {
+          "documentIdentifier" : "BJNR026480987BJNE005401123",
+          "paragraph" : "§ 44",
+          "title" : "Fahrzeugführerplatz"
+        },
+        {
+          "documentIdentifier" : "BJNR026480987BJNE005500328",
+          "paragraph" : "§ 45",
+          "title" : "Innenbeleuchtung, Heizung und Lüftung"
+        },
+        {
+          "documentIdentifier" : "BJNR026480987BJNE005602124",
+          "paragraph" : "§ 46",
+          "title" : "Informationseinrichtungen"
+        },
+        {
+          "documentIdentifier" : "BJNR026480987BJNE005701123",
+          "paragraph" : "§ 47",
+          "title" : "Beschriftungen und Sinnbilder"
+        },
+        {
+          "documentIdentifier" : "BJNR026480987BJNE005801123",
+          "paragraph" : "§ 48",
+          "title" : "Ausrüstung für Notfälle"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Fahrzeuge"
+    },
+    {
+      "documentIdentifier" : "BJNR026480987BJNG000600328",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR026480987BJNE005901123",
+          "paragraph" : "§ 49",
+          "title" : "Fahrordnung"
+        },
+        {
+          "documentIdentifier" : "BJNR026480987BJNE006001123",
+          "paragraph" : "§ 50",
+          "title" : "Zulässige Geschwindigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR026480987BJNE006102124",
+          "paragraph" : "§ 51",
+          "title" : "Signale"
+        },
+        {
+          "documentIdentifier" : "BJNR026480987BJNE006200328",
+          "paragraph" : "§ 52",
+          "title" : "Einsatz von Betriebsbediensteten"
+        },
+        {
+          "documentIdentifier" : "BJNR026480987BJNE006302124",
+          "paragraph" : "§ 53",
+          "title" : "Besetzen der Züge mit Fahrbediensteten"
+        },
+        {
+          "documentIdentifier" : "BJNR026480987BJNE006400328",
+          "paragraph" : "§ 54",
+          "title" : "Fahrbetrieb"
+        },
+        {
+          "documentIdentifier" : "BJNR026480987BJNE006502124",
+          "paragraph" : "§ 55",
+          "title" : "Teilnahme am Straßenverkehr"
+        },
+        {
+          "documentIdentifier" : "BJNR026480987BJNE006601123",
+          "paragraph" : "§ 56",
+          "title" : "Verhalten bei Mängeln an Zügen"
+        },
+        {
+          "documentIdentifier" : "BJNR026480987BJNE006702124",
+          "paragraph" : "§ 57",
+          "title" : "Instandhaltung der Betriebsanlagen und Fahrzeuge"
+        },
+        {
+          "documentIdentifier" : "BJNR026480987BJNE006801123",
+          "paragraph" : "§ 58",
+          "title" : "Benutzen und Betreten der Betriebsanlagen und Fahrzeuge"
+        },
+        {
+          "documentIdentifier" : "BJNR026480987BJNE006902123",
+          "paragraph" : "§ 59",
+          "title" : "Betriebsgefährdende oder betriebsstörende Handlungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Betrieb"
+    },
+    {
+      "documentIdentifier" : "BJNR026480987BJNG000700328",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR026480987BJNE007001123",
+          "paragraph" : "§ 60",
+          "title" : "Prüfung der Bauunterlagen für Betriebsanlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR026480987BJNE007102124",
+          "paragraph" : "§ 61",
+          "title" : "Aufsicht über den Bau von Betriebsanlagen und Fahrzeugen"
+        },
+        {
+          "documentIdentifier" : "BJNR026480987BJNE007202124",
+          "paragraph" : "§ 62",
+          "title" : "Inbetriebnahmegenehmigung für Betriebsanlagen und Fahrzeuge"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Verfahrensvorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR026480987BJNG000800328",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR026480987BJNE007302123",
+          "paragraph" : "§ 63",
+          "title" : "Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR026480987BJNE007403124",
+          "paragraph" : "§ 64",
+          "title" : "Übergangsvorschrift"
+        },
+        {
+          "documentIdentifier" : "BJNR026480987BJNE007501123",
+          "paragraph" : "§ 65",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR026480987BJNE007701123",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 20 Absatz 5 Nummer 1)"
+        },
+        {
+          "documentIdentifier" : "BJNR026480987BJNE007801123",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 36)"
+        },
+        {
+          "documentIdentifier" : "BJNR026480987BJNE007900328",
+          "paragraph" : "Anlage 3",
+          "title" : "(zu § 47 Abs. 2 Nr. 2)"
+        },
+        {
+          "documentIdentifier" : "BJNR026480987BJNE008001123",
+          "paragraph" : "Anlage 4",
+          "title" : "(zu den §§ 20, 21, 40, 51)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          8
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Ordnungswidrigkeiten, Schluß- und Übergangsvorschriften"
+    }
+  ]
+}

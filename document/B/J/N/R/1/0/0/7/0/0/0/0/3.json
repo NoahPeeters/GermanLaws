@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR100700003",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR100700003Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR100700003BJNE000100000",
+          "paragraph" : "I.",
+          "title" : "Erlass von Widerspruchsbescheiden"
+        },
+        {
+          "documentIdentifier" : "BJNR100700003BJNE000300000",
+          "paragraph" : "III.",
+          "title" : "Vertretung bei Klagen aus dem Beamtenverhältnis"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

@@ -1,0 +1,2958 @@
+{
+  "documentIdentifier" : "BJNR010890965",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR010890965BJNG000300308",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR010890965BJNG000400308",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR010890965BJNE000500308",
+              "paragraph" : "§ 1",
+              "title" : "Wesen der Aktiengesellschaft"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE000601307",
+              "paragraph" : "§ 2",
+              "title" : "Gründerzahl"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE000702307",
+              "paragraph" : "§ 3",
+              "title" : "Formkaufmann. Börsennotierung"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE000801307",
+              "paragraph" : "§ 4",
+              "title" : "Firma"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE000901140",
+              "paragraph" : "§ 5",
+              "title" : "Sitz"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE001002307",
+              "paragraph" : "§ 6",
+              "title" : "Grundkapital"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE001101307",
+              "paragraph" : "§ 7",
+              "title" : "Mindestnennbetrag des Grundkapitals"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE001204307",
+              "paragraph" : "§ 8",
+              "title" : "Form und Mindestbeträge der Aktien"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE001301307",
+              "paragraph" : "§ 9",
+              "title" : "Ausgabebetrag der Aktien"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE001404123",
+              "paragraph" : "§ 10",
+              "title" : "Aktien und Zwischenscheine"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE001500308",
+              "paragraph" : "§ 11",
+              "title" : "Aktien besonderer Gattung"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE001601307",
+              "paragraph" : "§ 12",
+              "title" : "Stimmrecht. Keine Mehrstimmrechte"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE001700308",
+              "paragraph" : "§ 13",
+              "title" : "Unterzeichnung der Aktien"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE001800308",
+              "paragraph" : "§ 14",
+              "title" : "Zuständigkeit"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE001900308",
+              "paragraph" : "§ 15",
+              "title" : "Verbundene Unternehmen"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE002001307",
+              "paragraph" : "§ 16",
+              "title" : "In Mehrheitsbesitz stehende Unternehmen und mit Mehrheit\nbeteiligte Unternehmen"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE002100308",
+              "paragraph" : "§ 17",
+              "title" : "Abhängige und herrschende Unternehmen"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE002200308",
+              "paragraph" : "§ 18",
+              "title" : "Konzern und Konzernunternehmen"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE002301307",
+              "paragraph" : "§ 19",
+              "title" : "Wechselseitig beteiligte Unternehmen"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE002404123",
+              "paragraph" : "§ 20",
+              "title" : "Mitteilungspflichten"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE002504123",
+              "paragraph" : "§ 21",
+              "title" : "Mitteilungspflichten der Gesellschaft"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE002600308",
+              "paragraph" : "§ 22",
+              "title" : "Nachweis mitgeteilter Beteiligungen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Allgemeine Vorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR010890965BJNG002700308",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR010890965BJNE002801307",
+              "paragraph" : "§ 23",
+              "title" : "Feststellung der Satzung"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE002901123",
+              "paragraph" : "§ 24",
+              "title" : "(weggefallen)"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE003004123",
+              "paragraph" : "§ 25",
+              "title" : "Bekanntmachungen der Gesellschaft"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE003100308",
+              "paragraph" : "§ 26",
+              "title" : "Sondervorteile. Gründungsaufwand"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE003202140",
+              "paragraph" : "§ 27",
+              "title" : "Sacheinlagen, Sachübernahmen; Rückzahlung von Einlagen"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE003300308",
+              "paragraph" : "§ 28",
+              "title" : "Gründer"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE003400308",
+              "paragraph" : "§ 29",
+              "title" : "Errichtung der Gesellschaft"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE003500308",
+              "paragraph" : "§ 30",
+              "title" : "Bestellung des Aufsichtsrats, des Vorstands und des\nAbschlußprüfers"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE003601307",
+              "paragraph" : "§ 31",
+              "title" : "Bestellung des Aufsichtsrats bei Sachgründung"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE003700308",
+              "paragraph" : "§ 32",
+              "title" : "Gründungsbericht"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE003802140",
+              "paragraph" : "§ 33",
+              "title" : "Gründungsprüfung. Allgemeines"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE056702123",
+              "paragraph" : "§ 33a",
+              "title" : "Sachgründung ohne externe Gründungsprüfung"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE003903140",
+              "paragraph" : "§ 34",
+              "title" : "Umfang der Gründungsprüfung"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE004001140",
+              "paragraph" : "§ 35",
+              "title" : "Meinungsverschiedenheiten zwischen Gründern und Gründungsprüfern. Vergütung und Auslagen der Gründungsprüfer"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE004102140",
+              "paragraph" : "§ 36",
+              "title" : "Anmeldung der Gesellschaft"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE004201307",
+              "paragraph" : "§ 36a",
+              "title" : "Leistung der Einlagen"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE004305140",
+              "paragraph" : "§ 37",
+              "title" : "Inhalt der Anmeldung"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE056800140",
+              "paragraph" : "§ 37a",
+              "title" : "Anmeldung bei Sachgründung ohne externe Gründungsprüfung"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE004403140",
+              "paragraph" : "§ 38",
+              "title" : "Prüfung durch das Gericht"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE004501140",
+              "paragraph" : "§ 39",
+              "title" : "Inhalt der Eintragung"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE004604377",
+              "paragraph" : "§ 40",
+              "title" : "(weggefallen)"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE004700308",
+              "paragraph" : "§ 41",
+              "title" : "Handeln im Namen der Gesellschaft vor der Eintragung.\nVerbotene Aktienausgabe"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE054501307",
+              "paragraph" : "§ 42",
+              "title" : "Einpersonen-Gesellschaft"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE005101377",
+              "paragraph" : "§ 45",
+              "title" : "Sitzverlegung"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE005200308",
+              "paragraph" : "§ 46",
+              "title" : "Verantwortlichkeit der Gründer"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE005300308",
+              "paragraph" : "§ 47",
+              "title" : "Verantwortlichkeit anderer Personen neben den Gründern"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE005400308",
+              "paragraph" : "§ 48",
+              "title" : "Verantwortlichkeit des Vorstands und des Aufsichtsrats"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE005500308",
+              "paragraph" : "§ 49",
+              "title" : "Verantwortlichkeit der Gründungsprüfer"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE005601307",
+              "paragraph" : "§ 50",
+              "title" : "Verzicht und Vergleich"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE005701377",
+              "paragraph" : "§ 51",
+              "title" : "Verjährung der Ersatzansprüche"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE005803140",
+              "paragraph" : "§ 52",
+              "title" : "Nachgründung"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE005900308",
+              "paragraph" : "§ 53",
+              "title" : "Ersatzansprüche bei der Nachgründung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Gründung der Gesellschaft"
+        },
+        {
+          "documentIdentifier" : "BJNR010890965BJNG006000308",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR010890965BJNE006100308",
+              "paragraph" : "§ 53a",
+              "title" : "Gleichbehandlung der Aktionäre"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE006203377",
+              "paragraph" : "§ 54",
+              "title" : "Hauptverpflichtung der Aktionäre"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE006300308",
+              "paragraph" : "§ 55",
+              "title" : "Nebenverpflichtungen der Aktionäre"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE006400308",
+              "paragraph" : "§ 56",
+              "title" : "Keine Zeichnung eigener Aktien. Aktienübernahme für Rechnung\nder Gesellschaft oder durch ein abhängiges oder in Mehrheitsbesitz\nstehendes Unternehmen"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE006502140",
+              "paragraph" : "§ 57",
+              "title" : "Keine Rückgewähr, keine Verzinsung der Einlagen"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE006605123",
+              "paragraph" : "§ 58",
+              "title" : "Verwendung des Jahresüberschusses"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE006700308",
+              "paragraph" : "§ 59",
+              "title" : "Abschlagszahlung auf den Bilanzgewinn"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE006801307",
+              "paragraph" : "§ 60",
+              "title" : "Gewinnverteilung"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE006900308",
+              "paragraph" : "§ 61",
+              "title" : "Vergütung von Nebenleistungen"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE007002377",
+              "paragraph" : "§ 62",
+              "title" : "Haftung der Aktionäre beim Empfang verbotener Leistungen"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE007100308",
+              "paragraph" : "§ 63",
+              "title" : "Folgen nicht rechtzeitiger Einzahlung"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE007200308",
+              "paragraph" : "§ 64",
+              "title" : "Ausschluß säumiger Aktionäre"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE007302377",
+              "paragraph" : "§ 65",
+              "title" : "Zahlungspflicht der Vormänner"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE007400308",
+              "paragraph" : "§ 66",
+              "title" : "Keine Befreiung der Aktionäre von ihren Leistungspflichten"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE007507360",
+              "paragraph" : "§ 67",
+              "title" : "Eintragung im Aktienregister"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE057300360",
+              "paragraph" : "§ 67a",
+              "title" : "Übermittlung von Informationen über Unternehmensereignisse; Begriffsbestimmungen"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE057400360",
+              "paragraph" : "§ 67b",
+              "title" : "Übermittlung von Informationen durch Intermediäre an die Aktionäre"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE057500360",
+              "paragraph" : "§ 67c",
+              "title" : "Übermittlung von Informationen durch Intermediäre an die Gesellschaft; Nachweis des Anteilsbesitzes"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE057600360",
+              "paragraph" : "§ 67d",
+              "title" : "Informationsanspruch der Gesellschaft gegenüber Intermediären"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE057700360",
+              "paragraph" : "§ 67e",
+              "title" : "Verarbeitung und Berichtigung personenbezogener Daten der Aktionäre"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE057800360",
+              "paragraph" : "§ 67f",
+              "title" : "Kosten; Verordnungsermächtigung"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE007601311",
+              "paragraph" : "§ 68",
+              "title" : "Übertragung von Namensaktien. Vinkulierung"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE007700308",
+              "paragraph" : "§ 69",
+              "title" : "Rechtsgemeinschaft an einer Aktie"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE007802360",
+              "paragraph" : "§ 70",
+              "title" : "Berechnung der Aktienbesitzzeit"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE007909140",
+              "paragraph" : "§ 71",
+              "title" : "Erwerb eigener Aktien"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE008003140",
+              "paragraph" : "§ 71a",
+              "title" : "Umgehungsgeschäfte"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE008100308",
+              "paragraph" : "§ 71b",
+              "title" : "Rechte aus eigenen Aktien"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE008201307",
+              "paragraph" : "§ 71c",
+              "title" : "Veräußerung und Einziehung eigener Aktien"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE008303307",
+              "paragraph" : "§ 71d",
+              "title" : "Erwerb eigener Aktien durch Dritte"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE008402307",
+              "paragraph" : "§ 71e",
+              "title" : "Inpfandnahme eigener Aktien"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE008501140",
+              "paragraph" : "§ 72",
+              "title" : "Kraftloserklärung von Aktien im Aufgebotsverfahren"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE008602140",
+              "paragraph" : "§ 73",
+              "title" : "Kraftloserklärung von Aktien durch die Gesellschaft"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE008700308",
+              "paragraph" : "§ 74",
+              "title" : "Neue Urkunden an Stelle beschädigter oder verunstalteter\nAktien oder Zwischenscheine"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE008800308",
+              "paragraph" : "§ 75",
+              "title" : "Neue Gewinnanteilscheine"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Rechtsverhältnisse der Gesellschaft und der Gesellschafter"
+        },
+        {
+          "documentIdentifier" : "BJNR010890965BJNG008900308",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              4
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR010890965BJNG009000308",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE009104360",
+                  "paragraph" : "§ 76",
+                  "title" : "Leitung der Aktiengesellschaft"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE009200308",
+                  "paragraph" : "§ 77",
+                  "title" : "Geschäftsführung"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE009301140",
+                  "paragraph" : "§ 78",
+                  "title" : "Vertretung"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE009401140",
+                  "paragraph" : "§ 79",
+                  "title" : "(weggefallen)"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE009504140",
+                  "paragraph" : "§ 80",
+                  "title" : "Angaben auf Geschäftsbriefen"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE009603140",
+                  "paragraph" : "§ 81",
+                  "title" : "Änderung des Vorstands und der Vertretungsbefugnis seiner Mitglieder"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE009700308",
+                  "paragraph" : "§ 82",
+                  "title" : "Beschränkungen der Vertretungs- und Geschäftsführungsbefugnis"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE009800308",
+                  "paragraph" : "§ 83",
+                  "title" : "Vorbereitung und Ausführung von\nHauptversammlungsbeschlüssen"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE009901360",
+                  "paragraph" : "§ 84",
+                  "title" : "Bestellung und Abberufung des Vorstands"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE010001140",
+                  "paragraph" : "§ 85",
+                  "title" : "Bestellung durch das Gericht"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE010203360",
+                  "paragraph" : "§ 87",
+                  "title" : "Grundsätze für die Bezüge der Vorstandsmitglieder"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE057900360",
+                  "paragraph" : "§ 87a",
+                  "title" : "Vergütungssystem börsennotierter Gesellschaften"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE010301377",
+                  "paragraph" : "§ 88",
+                  "title" : "Wettbewerbsverbot"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE010402320",
+                  "paragraph" : "§ 89",
+                  "title" : "Kreditgewährung an Vorstandsmitglieder"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE010503123",
+                  "paragraph" : "§ 90",
+                  "title" : "Berichte an den Aufsichtsrat"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE010601307",
+                  "paragraph" : "§ 91",
+                  "title" : "Organisation. Buchführung"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE010702140",
+                  "paragraph" : "§ 92",
+                  "title" : "Vorstandspflichten bei Verlust, Überschuldung oder Zahlungsunfähigkeit"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE010809360",
+                  "paragraph" : "§ 93",
+                  "title" : "Sorgfaltspflicht und Verantwortlichkeit der Vorstandsmitglieder"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE010900308",
+                  "paragraph" : "§ 94",
+                  "title" : "Stellvertreter von Vorstandsmitgliedern"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  1,
+                  4,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Vorstand"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNG011000308",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE011103123",
+                  "paragraph" : "§ 95",
+                  "title" : "Zahl der Aufsichtsratsmitglieder"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE011203360",
+                  "paragraph" : "§ 96",
+                  "title" : "Zusammensetzung des Aufsichtsrats"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE011302360",
+                  "paragraph" : "§ 97",
+                  "title" : "Bekanntmachung über die Zusammensetzung des Aufsichtsrats"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE011405140",
+                  "paragraph" : "§ 98",
+                  "title" : "Gerichtliche Entscheidung über die Zusammensetzung des Aufsichtsrats"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE011509301",
+                  "paragraph" : "§ 99",
+                  "title" : "Verfahren"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE011607123",
+                  "paragraph" : "§ 100",
+                  "title" : "Persönliche Voraussetzungen für Aufsichtsratsmitglieder"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE011703140",
+                  "paragraph" : "§ 101",
+                  "title" : "Bestellung der Aufsichtsratsmitglieder"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE011800308",
+                  "paragraph" : "§ 102",
+                  "title" : "Amtszeit der Aufsichtsratsmitglieder"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE011905140",
+                  "paragraph" : "§ 103",
+                  "title" : "Abberufung der Aufsichtsratsmitglieder"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE012005360",
+                  "paragraph" : "§ 104",
+                  "title" : "Bestellung durch das Gericht"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE012101140",
+                  "paragraph" : "§ 105",
+                  "title" : "Unvereinbarkeit der Zugehörigkeit zum Vorstand und zum Aufsichtsrat"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE012201377",
+                  "paragraph" : "§ 106",
+                  "title" : "Bekanntmachung der Änderungen im Aufsichtsrat"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE012306360",
+                  "paragraph" : "§ 107",
+                  "title" : "Innere Ordnung des Aufsichtsrats"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE012401311",
+                  "paragraph" : "§ 108",
+                  "title" : "Beschlußfassung des Aufsichtsrats"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE012501377",
+                  "paragraph" : "§ 109",
+                  "title" : "Teilnahme an Sitzungen des Aufsichtsrats und seiner\nAusschüsse"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE012602377",
+                  "paragraph" : "§ 110",
+                  "title" : "Einberufung des Aufsichtsrats"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE012704123",
+                  "paragraph" : "§ 111",
+                  "title" : "Aufgaben und Rechte des Aufsichtsrats"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE058000360",
+                  "paragraph" : "§ 111a",
+                  "title" : "Geschäfte mit nahestehenden Personen"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE058100360",
+                  "paragraph" : "§ 111b",
+                  "title" : "Zustimmungsvorbehalt des Aufsichtsrats bei Geschäften mit nahestehenden Personen"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE058200360",
+                  "paragraph" : "§ 111c",
+                  "title" : "Veröffentlichung von Geschäften mit nahestehenden Personen"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE012801140",
+                  "paragraph" : "§ 112",
+                  "title" : "Vertretung der Gesellschaft gegenüber Vorstandsmitgliedern"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE012902360",
+                  "paragraph" : "§ 113",
+                  "title" : "Vergütung der Aufsichtsratsmitglieder"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE013000308",
+                  "paragraph" : "§ 114",
+                  "title" : "Verträge mit Aufsichtsratsmitgliedern"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE013102320",
+                  "paragraph" : "§ 115",
+                  "title" : "Kreditgewährung an Aufsichtsratsmitglieder"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE013202140",
+                  "paragraph" : "§ 116",
+                  "title" : "Sorgfaltspflicht und Verantwortlichkeit der Aufsichtsratsmitglieder"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  1,
+                  4,
+                  2
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Aufsichtsrat"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNG013300308",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE013402377",
+                  "paragraph" : "§ 117",
+                  "title" : "Schadenersatzpflicht"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  1,
+                  4,
+                  3
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Benutzung des Einflusses auf die Gesellschaft"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNG013500308",
+              "laws" : [
+
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  1,
+                  4,
+                  4
+                ]
+              },
+              "subsections" : [
+                {
+                  "documentIdentifier" : "BJNR010890965BJNG013600308",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE013703360",
+                      "paragraph" : "§ 118",
+                      "title" : "Allgemeines"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE013803360",
+                      "paragraph" : "§ 119",
+                      "title" : "Rechte der Hauptversammlung"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE013908360",
+                      "paragraph" : "§ 120",
+                      "title" : "Entlastung"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE058300360",
+                      "paragraph" : "§ 120a",
+                      "title" : "Votum zum Vergütungssystem und zum Vergütungsbericht"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      1,
+                      4,
+                      4,
+                      1
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Rechte der Hauptversammlung"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNG014000308",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE014107360",
+                      "paragraph" : "§ 121",
+                      "title" : "Allgemeines"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE014208123",
+                      "paragraph" : "§ 122",
+                      "title" : "Einberufung auf Verlangen einer Minderheit"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE014305360",
+                      "paragraph" : "§ 123",
+                      "title" : "Frist, Anmeldung zur Hauptversammlung, Nachweis"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE014408360",
+                      "paragraph" : "§ 124",
+                      "title" : "Bekanntmachung von Ergänzungsverlangen; Vorschläge zur Beschlussfassung"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE056900140",
+                      "paragraph" : "§ 124a",
+                      "title" : "Veröffentlichungen auf der Internetseite der Gesellschaft"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE014508360",
+                      "paragraph" : "§ 125",
+                      "title" : "Mitteilungen für die Aktionäre und an Aufsichtsratsmitglieder"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE014602140",
+                      "paragraph" : "§ 126",
+                      "title" : "Anträge von Aktionären"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE014705123",
+                      "paragraph" : "§ 127",
+                      "title" : "Wahlvorschläge von Aktionären"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE056302301",
+                      "paragraph" : "§ 127a",
+                      "title" : "Aktionärsforum"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE014811360",
+                      "paragraph" : "§ 128",
+                      "title" : "(weggefallen)"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      1,
+                      4,
+                      4,
+                      2
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Einberufung der Hauptversammlung"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNG014900308",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE015056360",
+                      "paragraph" : "§ 129",
+                      "title" : "Geschäftsordnung; Verzeichnis der Teilnehmer; Nachweis der Stimmzählung"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE056601123",
+                      "paragraph" : "§ 130",
+                      "title" : "Niederschrift"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE015105123",
+                      "paragraph" : "§ 131",
+                      "title" : "Auskunftsrecht des Aktionärs"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE015203301",
+                      "paragraph" : "§ 132",
+                      "title" : "Gerichtliche Entscheidung über das Auskunftsrecht"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      1,
+                      4,
+                      4,
+                      3
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Verhandlungsniederschrift. Auskunftsrecht"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNG015300308",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE015400308",
+                      "paragraph" : "§ 133",
+                      "title" : "Grundsatz der einfachen Stimmenmehrheit"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE015504140",
+                      "paragraph" : "§ 134",
+                      "title" : "Stimmrecht"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE058400360",
+                      "paragraph" : "§ 134a",
+                      "title" : "Begriffsbestimmungen; Anwendungsbereich"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE058500360",
+                      "paragraph" : "§ 134b",
+                      "title" : "Mitwirkungspolitik, Mitwirkungsbericht, Abstimmungsverhalten"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE058600360",
+                      "paragraph" : "§ 134c",
+                      "title" : "Offenlegungspflichten von institutionellen Anlegern und Vermögensverwaltern"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE058700360",
+                      "paragraph" : "§ 134d",
+                      "title" : "Offenlegungspflichten der Stimmrechtsberater"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE015609360",
+                      "paragraph" : "§ 135",
+                      "title" : "Ausübung des Stimmrechts durch Intermediäre und geschäftsmäßig Handelnde"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE015700308",
+                      "paragraph" : "§ 136",
+                      "title" : "Ausschluß des Stimmrechts"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE015800308",
+                      "paragraph" : "§ 137",
+                      "title" : "Abstimmung über Wahlvorschläge von Aktionären"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      1,
+                      4,
+                      4,
+                      4
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Stimmrecht"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNG015900308",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE016000308",
+                      "paragraph" : "§ 138",
+                      "title" : "Gesonderte Versammlung. Gesonderte Abstimmung"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      1,
+                      4,
+                      4,
+                      5
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Sonderbeschluß"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNG016100308",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE016202123",
+                      "paragraph" : "§ 139",
+                      "title" : "Wesen"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE016301123",
+                      "paragraph" : "§ 140",
+                      "title" : "Rechte der Vorzugsaktionäre"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE016400308",
+                      "paragraph" : "§ 141",
+                      "title" : "Aufhebung oder Beschränkung des Vorzugs"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      1,
+                      4,
+                      4,
+                      6
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Vorzugsaktien ohne Stimmrecht"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNG016500308",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE016610360",
+                      "paragraph" : "§ 142",
+                      "title" : "Bestellung der Sonderprüfer"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE016702140",
+                      "paragraph" : "§ 143",
+                      "title" : "Auswahl der Sonderprüfer"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE016800308",
+                      "paragraph" : "§ 144",
+                      "title" : "Verantwortlichkeit der Sonderprüfer"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE016903140",
+                      "paragraph" : "§ 145",
+                      "title" : "Rechte der Sonderprüfer. Prüfungsbericht"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE017001377",
+                      "paragraph" : "§ 146",
+                      "title" : "Kosten"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE017105140",
+                      "paragraph" : "§ 147",
+                      "title" : "Geltendmachung von Ersatzansprüchen"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE017403140",
+                      "paragraph" : "§ 148",
+                      "title" : "Klagezulassungsverfahren"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE017501377",
+                      "paragraph" : "§ 149",
+                      "title" : "Bekanntmachungen zur Haftungsklage"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      1,
+                      4,
+                      4,
+                      7
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Sonderprüfung. Geltendmachung von Ersatzansprüchen"
+                }
+              ],
+              "title" : "Hauptversammlung"
+            }
+          ],
+          "title" : "Verfassung der Aktiengesellschaft"
+        },
+        {
+          "documentIdentifier" : "BJNR010890965BJNG017201377",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              5
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR010890965BJNG052701360",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE052600308",
+                  "paragraph" : "§ 150",
+                  "title" : "Gesetzliche Rücklage. Kapitalrücklage"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE017700308",
+                  "paragraph" : "§ 150a",
+                  "title" : "(weggefallen)"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE017800308",
+                  "paragraph" : "§ 151",
+                  "title" : "(weggefallen)"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE052703360",
+                  "paragraph" : "§ 152",
+                  "title" : "Vorschriften zur Bilanz"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE018000308",
+                  "paragraph" : "(XXXX) §§ 153 bis 157",
+                  "title" : "(weggefallen)"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE052802377",
+                  "paragraph" : "§ 158",
+                  "title" : "Vorschriften zur Gewinn- und Verlustrechnung"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE052907123",
+                  "paragraph" : "§ 160",
+                  "title" : "Vorschriften zum Anhang"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE018805123",
+                  "paragraph" : "§ 161",
+                  "title" : "Erklärung zum Corporate Governance Kodex"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  1,
+                  5,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Jahresabschluss und Lagebericht; Entsprechenserklärung und Vergütungsbericht"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNG018900308",
+              "laws" : [
+
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  1,
+                  5,
+                  2
+                ]
+              },
+              "subsections" : [
+                {
+                  "documentIdentifier" : "BJNR010890965BJNG019000308",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE058800360",
+                      "paragraph" : "§ 162",
+                      "title" : "Vergütungsbericht"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      1,
+                      5,
+                      2,
+                      1
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Prüfung durch Abschlußprüfer"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNG019900308",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE020004123",
+                      "paragraph" : "§ 170",
+                      "title" : "Vorlage an den Aufsichtsrat"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE020107123",
+                      "paragraph" : "§ 171",
+                      "title" : "Prüfung durch den Aufsichtsrat"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      1,
+                      5,
+                      2,
+                      2
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Prüfung durch den Aufsichtsrat"
+                }
+              ],
+              "title" : "Prüfung des Jahresabschlusses"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNG020200308",
+              "laws" : [
+
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  1,
+                  5,
+                  3
+                ]
+              },
+              "subsections" : [
+                {
+                  "documentIdentifier" : "BJNR010890965BJNG020300308",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE020400308",
+                      "paragraph" : "§ 172",
+                      "title" : "Feststellung durch Vorstand und Aufsichtsrat"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE020501377",
+                      "paragraph" : "§ 173",
+                      "title" : "Feststellung durch die Hauptversammlung"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      1,
+                      5,
+                      3,
+                      1
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Feststellung des Jahresabschlusses"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNG020600308",
+                  "laws" : [
+
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      1,
+                      5,
+                      3,
+                      2
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Gewinnverwendung"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNG020800308",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE020907123",
+                      "paragraph" : "§ 175",
+                      "title" : "Einberufung"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE021005360",
+                      "paragraph" : "§ 176",
+                      "title" : "Vorlagen. Anwesenheit des Abschlußprüfers"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      1,
+                      5,
+                      3,
+                      3
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Ordentliche Hauptversammlung"
+                }
+              ],
+              "title" : "Feststellung des Jahresabschlusses. Gewinnverwendung"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNG021100308",
+              "laws" : [
+
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  1,
+                  5,
+                  4
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Bekanntmachung des Jahresabschlusses"
+            }
+          ],
+          "title" : "Rechnungslegung Gewinnverwendung"
+        },
+        {
+          "documentIdentifier" : "BJNR010890965BJNG021400308",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              6
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR010890965BJNG021500308",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE021600308",
+                  "paragraph" : "§ 179",
+                  "title" : "Beschluß der Hauptversammlung"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE054601140",
+                  "paragraph" : "§ 179a",
+                  "title" : "Verpflichtung zur Übertragung des ganzen Gesellschaftsvermögens"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE021700308",
+                  "paragraph" : "§ 180",
+                  "title" : "Zustimmung der betroffenen Aktionäre"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE021802140",
+                  "paragraph" : "§ 181",
+                  "title" : "Eintragung der Satzungsänderung"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  1,
+                  6,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Satzungsänderung"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNG021900308",
+              "laws" : [
+
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  1,
+                  6,
+                  2
+                ]
+              },
+              "subsections" : [
+                {
+                  "documentIdentifier" : "BJNR010890965BJNG022000308",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE022102307",
+                      "paragraph" : "§ 182",
+                      "title" : "Voraussetzungen"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE022202140",
+                      "paragraph" : "§ 183",
+                      "title" : "Kapitalerhöhung mit Sacheinlagen; Rückzahlung von Einlagen"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE057000140",
+                      "paragraph" : "§ 183a",
+                      "title" : "Kapitalerhöhung mit Sacheinlagen ohne Prüfung"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE022301140",
+                      "paragraph" : "§ 184",
+                      "title" : "Anmeldung des Beschlusses"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE022401307",
+                      "paragraph" : "§ 185",
+                      "title" : "Zeichnung der neuen Aktien"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE022505360",
+                      "paragraph" : "§ 186",
+                      "title" : "Bezugsrecht"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE022600308",
+                      "paragraph" : "§ 187",
+                      "title" : "Zusicherung von Rechten auf den Bezug neuer\nAktien"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE022703140",
+                      "paragraph" : "§ 188",
+                      "title" : "Anmeldung und Eintragung der Durchführung"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE022800308",
+                      "paragraph" : "§ 189",
+                      "title" : "Wirksamwerden der Kapitalerhöhung"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE022901377",
+                      "paragraph" : "§ 190",
+                      "title" : "(weggefallen)"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE023000308",
+                      "paragraph" : "§ 191",
+                      "title" : "Verbotene Ausgabe von Aktien und Zwischenscheinen"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      1,
+                      6,
+                      2,
+                      1
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Kapitalerhöhung gegen Einlagen"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNG023100308",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE023203123",
+                      "paragraph" : "§ 192",
+                      "title" : "Voraussetzungen"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE023304140",
+                      "paragraph" : "§ 193",
+                      "title" : "Erfordernisse des Beschlusses"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE023403123",
+                      "paragraph" : "§ 194",
+                      "title" : "Bedingte Kapitalerhöhung mit Sacheinlagen; Rückzahlung von Einlagen"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE023503123",
+                      "paragraph" : "§ 195",
+                      "title" : "Anmeldung des Beschlusses"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE023602377",
+                      "paragraph" : "§ 196",
+                      "title" : "(weggefallen)"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE023700308",
+                      "paragraph" : "§ 197",
+                      "title" : "Verbotene Aktienausgabe"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE023801307",
+                      "paragraph" : "§ 198",
+                      "title" : "Bezugserklärung"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE023901307",
+                      "paragraph" : "§ 199",
+                      "title" : "Ausgabe der Bezugsaktien"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE024000308",
+                      "paragraph" : "§ 200",
+                      "title" : "Wirksamwerden der bedingten\nKapitalerhöhung"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE024102123",
+                      "paragraph" : "§ 201",
+                      "title" : "Anmeldung der Ausgabe von Bezugsaktien"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      1,
+                      6,
+                      2,
+                      2
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Bedingte Kapitalerhöhung"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNG024200308",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE024301307",
+                      "paragraph" : "§ 202",
+                      "title" : "Voraussetzungen"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE024400308",
+                      "paragraph" : "§ 203",
+                      "title" : "Ausgabe der neuen Aktien"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE024500308",
+                      "paragraph" : "§ 204",
+                      "title" : "Bedingungen der Aktienausgabe"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE024602140",
+                      "paragraph" : "§ 205",
+                      "title" : "Ausgabe gegen Sacheinlagen; Rückzahlung von Einlagen"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE024701140",
+                      "paragraph" : "§ 206",
+                      "title" : "Verträge über Sacheinlagen vor Eintragung der Gesellschaft"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      1,
+                      6,
+                      2,
+                      3
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Genehmigtes Kapital"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNG024800308",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE024902377",
+                      "paragraph" : "§ 207",
+                      "title" : "Voraussetzungen"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE053000308",
+                      "paragraph" : "§ 208",
+                      "title" : "Umwandlungsfähigkeit von Kapital- und Gewinnrücklagen"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE025106360",
+                      "paragraph" : "§ 209",
+                      "title" : "Zugrunde gelegte Bilanz"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE025201377",
+                      "paragraph" : "§ 210",
+                      "title" : "Anmeldung und Eintragung des Beschlusses"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE025301307",
+                      "paragraph" : "§ 211",
+                      "title" : "Wirksamwerden der Kapitalerhöhung"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE025401307",
+                      "paragraph" : "§ 212",
+                      "title" : "Aus der Kapitalerhöhung Berechtigte"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE025500308",
+                      "paragraph" : "§ 213",
+                      "title" : "Teilrechte"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE025603360",
+                      "paragraph" : "§ 214",
+                      "title" : "Aufforderung an die Aktionäre"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE025701307",
+                      "paragraph" : "§ 215",
+                      "title" : "Eigene Aktien. Teileingezahlte Aktien"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE025801140",
+                      "paragraph" : "§ 216",
+                      "title" : "Wahrung der Rechte der Aktionäre und Dritter"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE025902140",
+                      "paragraph" : "§ 217",
+                      "title" : "Beginn der Gewinnbeteiligung"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE026001307",
+                      "paragraph" : "§ 218",
+                      "title" : "Bedingtes Kapital"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE026100308",
+                      "paragraph" : "§ 219",
+                      "title" : "Verbotene Ausgabe von Aktien und Zwischenscheinen"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE026201307",
+                      "paragraph" : "§ 220",
+                      "title" : "Wertansätze"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      1,
+                      6,
+                      2,
+                      4
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Kapitalerhöhung aus Gesellschaftsmitteln"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNG026300308",
+                  "laws" : [
+
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      1,
+                      6,
+                      2,
+                      5
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Wandelschuldverschreibungen. Gewinnschuldverschreibungen"
+                }
+              ],
+              "title" : "Maßnahmen der Kapitalbeschaffung"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNG026500308",
+              "laws" : [
+
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  1,
+                  6,
+                  3
+                ]
+              },
+              "subsections" : [
+                {
+                  "documentIdentifier" : "BJNR010890965BJNG026600308",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE026702307",
+                      "paragraph" : "§ 222",
+                      "title" : "Voraussetzungen"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE026800308",
+                      "paragraph" : "§ 223",
+                      "title" : "Anmeldung des Beschlusses"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE026900308",
+                      "paragraph" : "§ 224",
+                      "title" : "Wirksamwerden der Kapitalherabsetzung"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE027001307",
+                      "paragraph" : "§ 225",
+                      "title" : "Gläubigerschutz"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE027101377",
+                      "paragraph" : "§ 226",
+                      "title" : "Kraftloserklärung von Aktien"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE027200308",
+                      "paragraph" : "§ 227",
+                      "title" : "Anmeldung der Durchführung"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE027301140",
+                      "paragraph" : "§ 228",
+                      "title" : "Herabsetzung unter den Mindestnennbetrag"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      1,
+                      6,
+                      3,
+                      81
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Ordentliche Kapitalherabsetzung"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNG027400308",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE027500308",
+                      "paragraph" : "§ 229",
+                      "title" : "Voraussetzungen"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE027600308",
+                      "paragraph" : "§ 230",
+                      "title" : "Verbot von Zahlungen an die Aktionäre"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE053100308",
+                      "paragraph" : "§ 231",
+                      "title" : "Beschränkte Einstellung in die Kapitalrücklage und\nin die gesetzliche Rücklage"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE027800308",
+                      "paragraph" : "§ 232",
+                      "title" : "Einstellung von Beträgen in die Kapitalrücklage bei zu\nhoch angenommenen Verlusten"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE027902377",
+                      "paragraph" : "§ 233",
+                      "title" : "Gewinnausschüttung. Gläubigerschutz"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE028001140",
+                      "paragraph" : "§ 234",
+                      "title" : "Rückwirkung der Kapitalherabsetzung"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE028101140",
+                      "paragraph" : "§ 235",
+                      "title" : "Rückwirkung einer gleichzeitigen Kapitalerhöhung"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE028200308",
+                      "paragraph" : "§ 236",
+                      "title" : "Offenlegung"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      1,
+                      6,
+                      3,
+                      82
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Vereinfachte Kapitalherabsetzung"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNG028301377",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE028404123",
+                      "paragraph" : "§ 237",
+                      "title" : "Voraussetzungen"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE028501307",
+                      "paragraph" : "§ 238",
+                      "title" : "Wirksamwerden der Kapitalherabsetzung"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE028600308",
+                      "paragraph" : "§ 239",
+                      "title" : "Anmeldung der Durchführung"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      1,
+                      6,
+                      3,
+                      83
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Kapitalherabsetzung durch Einziehung von Aktien. Ausnahme für Stückaktien"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNG028700308",
+                  "laws" : [
+
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      1,
+                      6,
+                      3,
+                      84
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Ausweis der Kapitalherabsetzung"
+                }
+              ],
+              "title" : "Maßnahmen der Kapitalherabsetzung"
+            }
+          ],
+          "title" : "Satzungsänderung. Maßnahmen der Kapitalbeschaffung und Kapitalherabsetzung"
+        },
+        {
+          "documentIdentifier" : "BJNR010890965BJNG028900308",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              7
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR010890965BJNG029000308",
+              "laws" : [
+
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  1,
+                  7,
+                  1
+                ]
+              },
+              "subsections" : [
+                {
+                  "documentIdentifier" : "BJNR010890965BJNG029100308",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE029203140",
+                      "paragraph" : "§ 241",
+                      "title" : "Nichtigkeitsgründe"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE029304140",
+                      "paragraph" : "§ 242",
+                      "title" : "Heilung der Nichtigkeit"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE029404360",
+                      "paragraph" : "§ 243",
+                      "title" : "Anfechtungsgründe"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE029500308",
+                      "paragraph" : "§ 244",
+                      "title" : "Bestätigung anfechtbarer Hauptversammlungsbeschlüsse*."
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE029601377",
+                      "paragraph" : "§ 245",
+                      "title" : "Anfechtungsbefugnis"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE029705123",
+                      "paragraph" : "§ 246",
+                      "title" : "Anfechtungsklage"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE056403360",
+                      "paragraph" : "§ 246a",
+                      "title" : "Freigabeverfahren"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE029801308",
+                      "paragraph" : "§ 247",
+                      "title" : "Streitwert"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE029900308",
+                      "paragraph" : "§ 248",
+                      "title" : "Urteilswirkung"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE056500377",
+                      "paragraph" : "§ 248a",
+                      "title" : "Bekanntmachungen zur Anfechtungsklage"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE030003140",
+                      "paragraph" : "§ 249",
+                      "title" : "Nichtigkeitsklage"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      1,
+                      7,
+                      1,
+                      1
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Allgemeines"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNG030100308",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE030205360",
+                      "paragraph" : "§ 250",
+                      "title" : "Nichtigkeit der Wahl von Aufsichtsratsmitgliedern"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE030309377",
+                      "paragraph" : "§ 251",
+                      "title" : "Anfechtung der Wahl von Aufsichtsratsmitgliedern"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE030402307",
+                      "paragraph" : "§ 252",
+                      "title" : "Urteilswirkung"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE030500308",
+                      "paragraph" : "§ 253",
+                      "title" : "Nichtigkeit des Beschlusses über die Verwendung des\nBilanzgewinns"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE030603377",
+                      "paragraph" : "§ 254",
+                      "title" : "Anfechtung des Beschlusses über die Verwendung des\nBilanzgewinns"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE030701377",
+                      "paragraph" : "§ 255",
+                      "title" : "Anfechtung der Kapitalerhöhung gegen Einlagen"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      1,
+                      7,
+                      1,
+                      2
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Nichtigkeit bestimmter Hauptversammlungsbeschlüsse"
+                }
+              ],
+              "title" : "Nichtigkeit von Hauptversammlungsbeschlüssen"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNG030800308",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE030915360",
+                  "paragraph" : "§ 256",
+                  "title" : "Nichtigkeit"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE031001377",
+                  "paragraph" : "§ 257",
+                  "title" : "Anfechtung der Feststellung des Jahresabschlusses durch die\nHauptversammlung"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  1,
+                  7,
+                  2
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Nichtigkeit des festgestellten Jahresabschlusses"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNG031100308",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE031210360",
+                  "paragraph" : "§ 258",
+                  "title" : "Bestellung der Sonderprüfer"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE031301377",
+                  "paragraph" : "§ 259",
+                  "title" : "Prüfungsbericht. Abschließende Feststellungen"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE031406301",
+                  "paragraph" : "§ 260",
+                  "title" : "Gerichtliche Entscheidung über die abschließenden Feststellungen der Sonderprüfer"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE031502360",
+                  "paragraph" : "§ 261",
+                  "title" : "Entscheidung über den Ertrag auf Grund höherer Bewertung"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE056203360",
+                  "paragraph" : "§ 261a",
+                  "title" : "Mitteilungen an die Bundesanstalt für Finanzdienstleistungsaufsicht"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  1,
+                  7,
+                  3
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Sonderprüfung wegen unzulässiger Unterbewertung"
+            }
+          ],
+          "title" : "Nichtigkeit von Hauptversammlungsbeschlüssen und des festgestellten Jahresabschlusses. Sonderprüfung wegen unzulässiger Unterbewertung"
+        },
+        {
+          "documentIdentifier" : "BJNR010890965BJNG031600308",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              8
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR010890965BJNG031700308",
+              "laws" : [
+
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  1,
+                  8,
+                  1
+                ]
+              },
+              "subsections" : [
+                {
+                  "documentIdentifier" : "BJNR010890965BJNG031800308",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE031902140",
+                      "paragraph" : "§ 262",
+                      "title" : "Auflösungsgründe"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE032001307",
+                      "paragraph" : "§ 263",
+                      "title" : "Anmeldung und Eintragung der Auflösung"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      1,
+                      8,
+                      1,
+                      1
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Auflösungsgründe und Anmeldung"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNG032100308",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE032201307",
+                      "paragraph" : "§ 264",
+                      "title" : "Notwendigkeit der Abwicklung"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE032305140",
+                      "paragraph" : "§ 265",
+                      "title" : "Abwickler"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE032401377",
+                      "paragraph" : "§ 266",
+                      "title" : "Anmeldung der Abwickler"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE032501140",
+                      "paragraph" : "§ 267",
+                      "title" : "Aufruf der Gläubiger"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE032601307",
+                      "paragraph" : "§ 268",
+                      "title" : "Pflichten der Abwickler"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE032700308",
+                      "paragraph" : "§ 269",
+                      "title" : "Vertretung durch die Abwickler"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE053201140",
+                      "paragraph" : "§ 270",
+                      "title" : "Eröffnungsbilanz. Jahresabschluß und Lagebericht"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE032901307",
+                      "paragraph" : "§ 271",
+                      "title" : "Verteilung des Vermögens"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE033001140",
+                      "paragraph" : "§ 272",
+                      "title" : "Gläubigerschutz"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE033101140",
+                      "paragraph" : "§ 273",
+                      "title" : "Schluß der Abwicklung"
+                    },
+                    {
+                      "documentIdentifier" : "BJNR010890965BJNE033201307",
+                      "paragraph" : "§ 274",
+                      "title" : "Fortsetzung einer aufgelösten Gesellschaft"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      1,
+                      8,
+                      1,
+                      2
+                    ]
+                  },
+                  "subsections" : [
+
+                  ],
+                  "title" : "Abwicklung"
+                }
+              ],
+              "title" : "Auflösung"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNG033300308",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE033402140",
+                  "paragraph" : "§ 275",
+                  "title" : "Klage auf Nichtigerklärung"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE033500308",
+                  "paragraph" : "§ 276",
+                  "title" : "Heilung von Mängeln"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE033600308",
+                  "paragraph" : "§ 277",
+                  "title" : "Wirkung der Eintragung der Nichtigkeit"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  1,
+                  8,
+                  2
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Nichtigerklärung der Gesellschaft"
+            }
+          ],
+          "title" : "Auflösung und Nichtigerklärung der Gesellschaft"
+        }
+      ],
+      "title" : "Aktiengesellschaft"
+    },
+    {
+      "documentIdentifier" : "BJNR010890965BJNG033700308",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR010890965BJNE033800308",
+          "paragraph" : "§ 278",
+          "title" : "Wesen der Kommanditgesellschaft auf Aktien"
+        },
+        {
+          "documentIdentifier" : "BJNR010890965BJNE033901307",
+          "paragraph" : "§ 279",
+          "title" : "Firma"
+        },
+        {
+          "documentIdentifier" : "BJNR010890965BJNE034002377",
+          "paragraph" : "§ 280",
+          "title" : "Feststellung der Satzung. Gründer"
+        },
+        {
+          "documentIdentifier" : "BJNR010890965BJNE034101307",
+          "paragraph" : "§ 281",
+          "title" : "Inhalt der Satzung"
+        },
+        {
+          "documentIdentifier" : "BJNR010890965BJNE034200308",
+          "paragraph" : "§ 282",
+          "title" : "Eintragung der persönlich haftenden Gesellschafter"
+        },
+        {
+          "documentIdentifier" : "BJNR010890965BJNE034303123",
+          "paragraph" : "§ 283",
+          "title" : "Persönlich haftende Gesellschafter"
+        },
+        {
+          "documentIdentifier" : "BJNR010890965BJNE034401377",
+          "paragraph" : "§ 284",
+          "title" : "Wettbewerbsverbot"
+        },
+        {
+          "documentIdentifier" : "BJNR010890965BJNE034500308",
+          "paragraph" : "§ 285",
+          "title" : "Hauptversammlung"
+        },
+        {
+          "documentIdentifier" : "BJNR010890965BJNE034603140",
+          "paragraph" : "§ 286",
+          "title" : "Jahresabschluß. Lagebericht"
+        },
+        {
+          "documentIdentifier" : "BJNR010890965BJNE034700308",
+          "paragraph" : "§ 287",
+          "title" : "Aufsichtsrat"
+        },
+        {
+          "documentIdentifier" : "BJNR010890965BJNE034801140",
+          "paragraph" : "§ 288",
+          "title" : "Entnahmen der persönlich haftenden Gesellschafter. Kreditgewährung"
+        },
+        {
+          "documentIdentifier" : "BJNR010890965BJNE034902140",
+          "paragraph" : "§ 289",
+          "title" : "Auflösung"
+        },
+        {
+          "documentIdentifier" : "BJNR010890965BJNE035001307",
+          "paragraph" : "§ 290",
+          "title" : "Abwicklung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Kommanditgesellschaft auf Aktien"
+    },
+    {
+      "documentIdentifier" : "BJNR010890965BJNG035100308",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR010890965BJNG035200308",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              1
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR010890965BJNG035300308",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE035401140",
+                  "paragraph" : "§ 291",
+                  "title" : "Beherrschungsvertrag. Gewinnabführungsvertrag"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE035500308",
+                  "paragraph" : "§ 292",
+                  "title" : "Andere Unternehmensverträge"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  3,
+                  1,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Arten von Unternehmensverträgen"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNG035600308",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE035701307",
+                  "paragraph" : "§ 293",
+                  "title" : "Zustimmung der Hauptversammlung"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE054700307",
+                  "paragraph" : "§ 293a",
+                  "title" : "Bericht über den Unternehmensvertrag"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE054801307",
+                  "paragraph" : "§ 293b",
+                  "title" : "Prüfung des Unternehmensvertrags"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE054903140",
+                  "paragraph" : "§ 293c",
+                  "title" : "Bestellung der Vertragsprüfer"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE055002140",
+                  "paragraph" : "§ 293d",
+                  "title" : "Auswahl, Stellung und Verantwortlichkeit der Vertragsprüfer"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE055100307",
+                  "paragraph" : "§ 293e",
+                  "title" : "Prüfungsbericht"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE055201140",
+                  "paragraph" : "§ 293f",
+                  "title" : "Vorbereitung der Hauptversammlung"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE055301140",
+                  "paragraph" : "§ 293g",
+                  "title" : "Durchführung der Hauptversammlung"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE035801377",
+                  "paragraph" : "§ 294",
+                  "title" : "Eintragung. Wirksamwerden"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE035901307",
+                  "paragraph" : "§ 295",
+                  "title" : "Änderung"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE036000308",
+                  "paragraph" : "§ 296",
+                  "title" : "Aufhebung"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE036100308",
+                  "paragraph" : "§ 297",
+                  "title" : "Kündigung"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE036200308",
+                  "paragraph" : "§ 298",
+                  "title" : "Anmeldung und Eintragung"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE036300308",
+                  "paragraph" : "§ 299",
+                  "title" : "Ausschluß von Weisungen"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  3,
+                  1,
+                  2
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Abschluß, Änderung und Beendigung von Unternehmensverträgen"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNG036400308",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE036500308",
+                  "paragraph" : "§ 300",
+                  "title" : "Gesetzliche Rücklage"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE036601140",
+                  "paragraph" : "§ 301",
+                  "title" : "Höchstbetrag der Gewinnabführung"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE036703377",
+                  "paragraph" : "§ 302",
+                  "title" : "Verlustübernahme"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE036802377",
+                  "paragraph" : "§ 303",
+                  "title" : "Gläubigerschutz"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  3,
+                  1,
+                  3
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Sicherung der Gesellschaft und der Gläubiger"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNG036900308",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE037002377",
+                  "paragraph" : "§ 304",
+                  "title" : "Angemessener Ausgleich"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE037108360",
+                  "paragraph" : "§ 305",
+                  "title" : "Abfindung"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE037300308",
+                  "paragraph" : "§ 307",
+                  "title" : "Vertragsbeendigung zur Sicherung\naußenstehender Aktionäre"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  3,
+                  1,
+                  4
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Sicherung der außenstehenden Aktionäre bei Beherrschungs- und Gewinnabführungsverträgen"
+            }
+          ],
+          "title" : "Unternehmensverträge"
+        },
+        {
+          "documentIdentifier" : "BJNR010890965BJNG037400308",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              2
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR010890965BJNG037500308",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE037600308",
+                  "paragraph" : "§ 308",
+                  "title" : "Leitungsmacht"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE037701307",
+                  "paragraph" : "§ 309",
+                  "title" : "Verantwortlichkeit der gesetzlichen Vertreter des\nherrschenden Unternehmens"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE037800308",
+                  "paragraph" : "§ 310",
+                  "title" : "Verantwortlichkeit der Verwaltungsmitglieder der\nGesellschaft"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  3,
+                  2,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Leitungsmacht und Verantwortlichkeit bei Bestehen eines Beherrschungsvertrags"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNG037900308",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE038001360",
+                  "paragraph" : "§ 311",
+                  "title" : "Schranken des Einflusses"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE038100308",
+                  "paragraph" : "§ 312",
+                  "title" : "Bericht des Vorstands über Beziehungen zu verbundenen\nUnternehmen"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE038201305",
+                  "paragraph" : "§ 313",
+                  "title" : "Prüfung durch den Abschlußprüfer"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE038302377",
+                  "paragraph" : "§ 314",
+                  "title" : "Prüfung durch den Aufsichtsrat"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE038405140",
+                  "paragraph" : "§ 315",
+                  "title" : "Sonderprüfung"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE038500308",
+                  "paragraph" : "§ 316",
+                  "title" : "Kein Bericht über Beziehungen zu verbundenen Unternehmen\nbei Gewinnabführungsvertrag"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE038600308",
+                  "paragraph" : "§ 317",
+                  "title" : "Verantwortlichkeit des herrschenden Unternehmens und seiner\ngesetzlichen Vertreter"
+                },
+                {
+                  "documentIdentifier" : "BJNR010890965BJNE038700308",
+                  "paragraph" : "§ 318",
+                  "title" : "Verantwortlichkeit der Verwaltungsmitglieder der\nGesellschaft"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  3,
+                  2,
+                  2
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Verantwortlichkeit bei Fehlen eines Beherrschungsvertrags"
+            }
+          ],
+          "title" : "Leitungsmacht und Verantwortlichkeit bei Abhängigkeit von Unternehmen"
+        },
+        {
+          "documentIdentifier" : "BJNR010890965BJNG038800308",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR010890965BJNE038903140",
+              "paragraph" : "§ 319",
+              "title" : "Eingliederung"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE039005140",
+              "paragraph" : "§ 320",
+              "title" : "Eingliederung durch Mehrheitsbeschluß"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE055400307",
+              "paragraph" : "§ 320a",
+              "title" : "Wirkungen der Eingliederung"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE055503140",
+              "paragraph" : "§ 320b",
+              "title" : "Abfindung der ausgeschiedenen Aktionäre"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE039101307",
+              "paragraph" : "§ 321",
+              "title" : "Gläubigerschutz"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE039200308",
+              "paragraph" : "§ 322",
+              "title" : "Haftung der Hauptgesellschaft"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE039300308",
+              "paragraph" : "§ 323",
+              "title" : "Leitungsmacht der Hauptgesellschaft und Verantwortlichkeit\nder Vorstandsmitglieder"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE039400308",
+              "paragraph" : "§ 324",
+              "title" : "Gesetzliche Rücklage. Gewinnabführung. Verlustübernahme"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE039600308",
+              "paragraph" : "§ 326",
+              "title" : "Auskunftsrecht der Aktionäre der Hauptgesellschaft"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE039702377",
+              "paragraph" : "§ 327",
+              "title" : "Ende der Eingliederung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Eingegliederte Gesellschaften"
+        },
+        {
+          "documentIdentifier" : "BJNR010890965BJNG052600377",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR010890965BJNE055600377",
+              "paragraph" : "§ 327a",
+              "title" : "Übertragung von Aktien gegen Barabfindung"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE055702140",
+              "paragraph" : "§ 327b",
+              "title" : "Barabfindung"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE055802140",
+              "paragraph" : "§ 327c",
+              "title" : "Vorbereitung der Hauptversammlung"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE055901140",
+              "paragraph" : "§ 327d",
+              "title" : "Durchführung der Hauptversammlung"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE056000377",
+              "paragraph" : "§ 327e",
+              "title" : "Eintragung des Übertragungsbeschlusses"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE056101377",
+              "paragraph" : "§ 327f",
+              "title" : "Gerichtliche Nachprüfung der Abfindung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Ausschluss von Minderheitsaktionären"
+        },
+        {
+          "documentIdentifier" : "BJNR010890965BJNG039801377",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR010890965BJNE039901307",
+              "paragraph" : "§ 328",
+              "title" : "Beschränkung der Rechte"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              5
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Wechselseitig beteiligte Unternehmen"
+        },
+        {
+          "documentIdentifier" : "BJNR010890965BJNG040001377",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              6
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Rechnungslegung im Konzern"
+        }
+      ],
+      "title" : "Verbundene Unternehmen"
+    },
+    {
+      "documentIdentifier" : "BJNR010890965BJNG050301307",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR010890965BJNG050401307",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR010890965BJNE050501123",
+              "paragraph" : "§ 394",
+              "title" : "Berichte der Aufsichtsratsmitglieder"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE050600308",
+              "paragraph" : "§ 395",
+              "title" : "Verschwiegenheitspflicht"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Sondervorschriften bei Beteiligung von Gebietskörperschaften"
+        },
+        {
+          "documentIdentifier" : "BJNR010890965BJNG050701307",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR010890965BJNE050800308",
+              "paragraph" : "§ 396",
+              "title" : "Voraussetzungen"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE050900308",
+              "paragraph" : "§ 397",
+              "title" : "Anordnungen bei der Auflösung"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE051000308",
+              "paragraph" : "§ 398",
+              "title" : "Eintragung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Gerichtliche Auflösung"
+        },
+        {
+          "documentIdentifier" : "BJNR010890965BJNG051101307",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR010890965BJNE051205123",
+              "paragraph" : "§ 399",
+              "title" : "Falsche Angaben"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE051302360",
+              "paragraph" : "§ 400",
+              "title" : "Unrichtige Darstellung"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE051402140",
+              "paragraph" : "§ 401",
+              "title" : "Pflichtverletzung bei Verlust, Überschuldung oder Zahlungsunfähigkeit"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE051501377",
+              "paragraph" : "§ 402",
+              "title" : "Falsche Ausstellung von Berechtigungsnachweisen"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE051600308",
+              "paragraph" : "§ 403",
+              "title" : "Verletzung der Berichtspflicht"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE051701377",
+              "paragraph" : "§ 404",
+              "title" : "Verletzung der Geheimhaltungspflicht"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE057101123",
+              "paragraph" : "§ 404a",
+              "title" : "Verletzung der Pflichten bei Abschlussprüfungen"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE051807360",
+              "paragraph" : "§ 405",
+              "title" : "Ordnungswidrigkeiten"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE051902140",
+              "paragraph" : "§ 406",
+              "title" : "(weggefallen)"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE052007140",
+              "paragraph" : "§ 407",
+              "title" : "Zwangsgelder"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE057200123",
+              "paragraph" : "§ 407a",
+              "title" : "Mitteilungen an die Abschlussprüferaufsichtsstelle"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE052100308",
+              "paragraph" : "§ 408",
+              "title" : "Strafbarkeit persönlich haftender Gesellschafter einer\nKommanditgesellschaft auf Aktien"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE052200308",
+              "paragraph" : "§ 409",
+              "title" : "Geltung in Berlin"
+            },
+            {
+              "documentIdentifier" : "BJNR010890965BJNE052300308",
+              "paragraph" : "§ 410",
+              "title" : "Inkrafttreten"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Straf- und Bußgeldvorschriften. Schlußvorschriften"
+        }
+      ],
+      "title" : "Sonder-, Straf- und Schlußvorschriften"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "documentIdentifier" : "BJNR003930922",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR003930922BJNG000100314",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR003930922BJNG000200314",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Allgemeine Vorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR003930922BJNG000300314",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Steuervorschriften"
+        }
+      ],
+      "title" : "Rennwetten"
+    },
+    {
+      "documentIdentifier" : "BJNR003930922BJNG000402140",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Besteuerung von Lotterien, Ausspielungen und Sportwetten"
+    },
+    {
+      "documentIdentifier" : "BJNR003930922BJNG000500314",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlußvorschriften"
+    }
+  ]
+}

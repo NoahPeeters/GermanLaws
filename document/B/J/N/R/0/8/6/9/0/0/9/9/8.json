@@ -1,0 +1,69 @@
+{
+  "documentIdentifier" : "BJNR086900998",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR086900998Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR086900998BJNE000200320",
+          "paragraph" : "§ 1",
+          "title" : "Anordnung als Bundesstatistik"
+        },
+        {
+          "documentIdentifier" : "BJNR086900998BJNE000301320",
+          "paragraph" : "§ 2",
+          "title" : "Erhebungseinheiten"
+        },
+        {
+          "documentIdentifier" : "BJNR086900998BJNE000401310",
+          "paragraph" : "§ 3",
+          "title" : "Erhebungsmerkmale"
+        },
+        {
+          "documentIdentifier" : "BJNR086900998BJNE000501116",
+          "paragraph" : "§ 4",
+          "title" : "Hilfsmerkmale"
+        },
+        {
+          "documentIdentifier" : "BJNR086900998BJNE000601310",
+          "paragraph" : "§ 5",
+          "title" : "Berichtszeitraum, Berichtszeitpunkt"
+        },
+        {
+          "documentIdentifier" : "BJNR086900998BJNE000701116",
+          "paragraph" : "§ 6",
+          "title" : "Auskunftspflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR086900998BJNE000800320",
+          "paragraph" : "§ 7",
+          "title" : "Anschriftenübermittlung"
+        },
+        {
+          "documentIdentifier" : "BJNR086900998BJNE000900320",
+          "paragraph" : "§ 8",
+          "title" : "Fortschreibung des Wohngebäude- und Wohnungsbestandes"
+        },
+        {
+          "documentIdentifier" : "BJNR086900998BJNE001000320",
+          "paragraph" : "§ 9",
+          "title" : "Verwendung von Merkmalen"
+        },
+        {
+          "documentIdentifier" : "BJNR086900998BJNE001100320",
+          "paragraph" : "§ 10",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

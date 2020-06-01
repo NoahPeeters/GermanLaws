@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR212000007",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR212000007Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR212000007BJNE000201124",
+          "paragraph" : "§ 1",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR212000007BJNE000403124",
+          "paragraph" : "§ 2",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR212000007BJNE000303124",
+          "paragraph" : "§ 3",
+          "title" : "Monatliche Sonderzahlungen für Oktober 2013 bis Mai 2020"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

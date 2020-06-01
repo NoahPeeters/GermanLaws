@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR283800011",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR283800011Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR283800011BJNE000100000",
+          "paragraph" : "I.",
+          "title" : "Widerspruchsverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR283800011BJNE000200000",
+          "paragraph" : "II.",
+          "title" : "Verwaltungsgerichtliches Verfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR283800011BJNE000300000",
+          "paragraph" : "III.",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

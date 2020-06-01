@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR089000019",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR089000019Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR089000019BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Zeitpunkt"
+        },
+        {
+          "documentIdentifier" : "BJNR089000019BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Stichprobenverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR089000019BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Grunddaten"
+        },
+        {
+          "documentIdentifier" : "BJNR089000019BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR089000019BJNE000700000",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 2 Satz 2)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

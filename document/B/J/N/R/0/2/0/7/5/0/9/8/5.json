@@ -1,0 +1,89 @@
+{
+  "documentIdentifier" : "BJNR020750985",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR020750985Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR020750985BJNE000100325",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR020750985BJNE000200325",
+          "paragraph" : "§ 2",
+          "title" : "Anzeige"
+        },
+        {
+          "documentIdentifier" : "BJNR020750985BJNE000400325",
+          "paragraph" : "§ 3",
+          "title" : "Ausnahmen"
+        },
+        {
+          "documentIdentifier" : "BJNR020750985BJNE000603377",
+          "paragraph" : "§ 4",
+          "title" : "Beanstandung"
+        },
+        {
+          "documentIdentifier" : "BJNR020750985BJNE000700325",
+          "paragraph" : "§ 5",
+          "title" : "Härteklausel"
+        },
+        {
+          "documentIdentifier" : "BJNR020750985BJNE000800325",
+          "paragraph" : "§ 6",
+          "title" : "Zuständigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR020750985BJNE000900325",
+          "paragraph" : "§ 7",
+          "title" : "Beanstandungsverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR020750985BJNE001000325",
+          "paragraph" : "§ 8",
+          "title" : "Entscheidungen und Anordnungen des Landwirtschaftsgerichts"
+        },
+        {
+          "documentIdentifier" : "BJNR020750985BJNE001100325",
+          "paragraph" : "§ 9",
+          "title" : "Unzulässigkeit der Änderung eines Landpachtvertrags\ndurch das Landwirtschaftsgericht"
+        },
+        {
+          "documentIdentifier" : "BJNR020750985BJNE001200325",
+          "paragraph" : "§ 10",
+          "title" : "Ordnungsmaßnahmen"
+        },
+        {
+          "documentIdentifier" : "BJNR020750985BJNE001300325",
+          "paragraph" : "§ 11",
+          "title" : "Fischereipacht"
+        },
+        {
+          "documentIdentifier" : "BJNR020750985BJNE001401377",
+          "paragraph" : "§ 12",
+          "title" : "Überleitungsvorschrift"
+        },
+        {
+          "documentIdentifier" : "BJNR020750985BJNE001501377",
+          "paragraph" : "§ 13",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR020750985BJNE001600325",
+          "paragraph" : "§ 14",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

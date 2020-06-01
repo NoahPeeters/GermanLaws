@@ -1,0 +1,126 @@
+{
+  "documentIdentifier" : "BJNR103600009",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR103600009BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR103600009BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR103600009BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Gegenstand der Wertermittlung"
+        },
+        {
+          "documentIdentifier" : "BJNR103600009BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Grundsatz der Flugzeugbeleihungswertermittlung"
+        },
+        {
+          "documentIdentifier" : "BJNR103600009BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Verfahren zur Ermittlung von Beleihungswerten für Flugzeuge"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Bestimmungen und Verfahrensgrundsätze"
+    },
+    {
+      "documentIdentifier" : "BJNR103600009BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR103600009BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Gutachten"
+        },
+        {
+          "documentIdentifier" : "BJNR103600009BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Besichtigung"
+        },
+        {
+          "documentIdentifier" : "BJNR103600009BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Gutachter"
+        },
+        {
+          "documentIdentifier" : "BJNR103600009BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Unabhängigkeit des Gutachters"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gutachten und Gutachter"
+    },
+    {
+      "documentIdentifier" : "BJNR103600009BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR103600009BJNE001000000",
+          "paragraph" : "§ 9",
+          "title" : "Aktueller Marktwert"
+        },
+        {
+          "documentIdentifier" : "BJNR103600009BJNE001100000",
+          "paragraph" : "§ 10",
+          "title" : "Durchschnittlicher Marktwert"
+        },
+        {
+          "documentIdentifier" : "BJNR103600009BJNE001200000",
+          "paragraph" : "§ 11",
+          "title" : "Wert bei ausgeglichenen Marktbedingungen und durchschnittlichem Zustand"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Wertermittlungsverfahren"
+    },
+    {
+      "documentIdentifier" : "BJNR103600009BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR103600009BJNE001300000",
+          "paragraph" : "§ 12",
+          "title" : "Überprüfung der Grundlagen der Flugzeugbeleihungswertermittlung"
+        },
+        {
+          "documentIdentifier" : "BJNR103600009BJNE001400000",
+          "paragraph" : "§ 13",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Überprüfung der Flugzeug- beleihungswertermittlung und Inkrafttreten"
+    }
+  ]
+}

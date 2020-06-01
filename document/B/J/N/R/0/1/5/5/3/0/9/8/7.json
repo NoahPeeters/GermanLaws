@@ -1,0 +1,92 @@
+{
+  "documentIdentifier" : "BJNR015530987",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR015530987BJNG000100304",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR015530987BJNE000500304",
+          "paragraph" : "§ 1",
+          "title" : "Berufsbild"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Berufsbild"
+    },
+    {
+      "documentIdentifier" : "BJNR015530987BJNG000200304",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR015530987BJNE000600304",
+          "paragraph" : "§ 2",
+          "title" : "Gliederung, Dauer und Bestehen der praktischen Prüfung\n(Teil I)"
+        },
+        {
+          "documentIdentifier" : "BJNR015530987BJNE000700304",
+          "paragraph" : "§ 3",
+          "title" : "Meisterprüfungsarbeit"
+        },
+        {
+          "documentIdentifier" : "BJNR015530987BJNE000800304",
+          "paragraph" : "§ 4",
+          "title" : "Arbeitsprobe"
+        },
+        {
+          "documentIdentifier" : "BJNR015530987BJNE000900304",
+          "paragraph" : "§ 5",
+          "title" : "Prüfung der fachtheoretischen Kenntnisse (Teil II)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Prüfungsanforderungen in den Teilen I und II der Meisterprüfung"
+    },
+    {
+      "documentIdentifier" : "BJNR015530987BJNG000300304",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR015530987BJNE001000304",
+          "paragraph" : "§ 6",
+          "title" : "Übergangsvorschrift"
+        },
+        {
+          "documentIdentifier" : "BJNR015530987BJNE001100304",
+          "paragraph" : "§ 7",
+          "title" : "Weitere Anforderungen"
+        },
+        {
+          "documentIdentifier" : "BJNR015530987BJNE001200304",
+          "paragraph" : "§ 8",
+          "title" : "Berlin-Klausel"
+        },
+        {
+          "documentIdentifier" : "BJNR015530987BJNE001300304",
+          "paragraph" : "§ 9",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übergangs- und Schlußvorschriften"
+    }
+  ]
+}

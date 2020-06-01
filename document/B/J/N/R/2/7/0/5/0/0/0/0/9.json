@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR270500009",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR270500009Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR270500009BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Konsolidierungshilfen"
+        },
+        {
+          "documentIdentifier" : "BJNR270500009BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Konsolidierungsverpflichtungen"
+        },
+        {
+          "documentIdentifier" : "BJNR270500009BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Finanzierung"
+        },
+        {
+          "documentIdentifier" : "BJNR270500009BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Verwaltungsvereinbarung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR033800998",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR033800998Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR033800998BJNE000200311",
+          "paragraph" : "§ 1",
+          "title" : "Einbeziehung weiterer Bereiche"
+        },
+        {
+          "documentIdentifier" : "BJNR033800998BJNE000300311",
+          "paragraph" : "§ 2",
+          "title" : "Teilnahmeerklärung"
+        },
+        {
+          "documentIdentifier" : "BJNR033800998BJNE000400311",
+          "paragraph" : "§ 3",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR033800998BJNE000600311",
+          "paragraph" : "Anhang",
+          "title" : "(zu § 1)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

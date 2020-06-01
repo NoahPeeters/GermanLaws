@@ -1,0 +1,59 @@
+{
+  "documentIdentifier" : "BJNR051600006",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR051600006Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR051600006BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR051600006BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Lärmindizes"
+        },
+        {
+          "documentIdentifier" : "BJNR051600006BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Datenerhebung und Datenübermittlung"
+        },
+        {
+          "documentIdentifier" : "BJNR051600006BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Ausarbeitung von Lärmkarten"
+        },
+        {
+          "documentIdentifier" : "BJNR051600006BJNE000601116",
+          "paragraph" : "§ 5",
+          "title" : "Berechnungsverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR051600006BJNE000701116",
+          "paragraph" : "§ 6",
+          "title" : "Übermittlung der Lärmkarten"
+        },
+        {
+          "documentIdentifier" : "BJNR051600006BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Information der Öffentlichkeit über Lärmkarten"
+        },
+        {
+          "documentIdentifier" : "BJNR051600006BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR015980984",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR015980984Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR015980984BJNE000201377",
+          "paragraph" : "§ 1",
+          "title" : "Versicherungspflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR015980984BJNE000301377",
+          "paragraph" : "§ 2",
+          "title" : "Vorzeigen der Versicherungsunterlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR015980984BJNE000400314",
+          "paragraph" : "§ 3",
+          "title" : "Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR015980984BJNE000500314",
+          "paragraph" : "§ 4",
+          "title" : "Berlin-Klausel"
+        },
+        {
+          "documentIdentifier" : "BJNR015980984BJNE000600314",
+          "paragraph" : "§ 5",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

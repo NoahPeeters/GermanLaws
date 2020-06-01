@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR198000016",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR198000016Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR198000016BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Geltungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR198000016BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Kostenerstattung für übertragene Aufgaben"
+        },
+        {
+          "documentIdentifier" : "BJNR198000016BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Festsetzung und Berechnung der Kosten"
+        },
+        {
+          "documentIdentifier" : "BJNR198000016BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Meldung der Beschäftigtenzahlen"
+        },
+        {
+          "documentIdentifier" : "BJNR198000016BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Säumniszuschlag"
+        },
+        {
+          "documentIdentifier" : "BJNR198000016BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

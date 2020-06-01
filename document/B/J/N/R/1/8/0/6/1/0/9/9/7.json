@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR180610997",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR180610997Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR180610997BJNE000100311",
+          "paragraph" : "§ 1",
+          "title" : "Anpassung der Unterhaltshilfe"
+        },
+        {
+          "documentIdentifier" : "BJNR180610997BJNE000200311",
+          "paragraph" : "§ 2",
+          "title" : "Anpassung von Beträgen in § 276 Abs. 4 des Gesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR180610997BJNE000300311",
+          "paragraph" : "§ 3",
+          "title" : "Anpassung des Einkommenshöchstbetrages der\nEntschädigungsrente"
+        },
+        {
+          "documentIdentifier" : "BJNR180610997BJNE000400311",
+          "paragraph" : "§ 4",
+          "title" : "Anpassung von Beträgen in § 292 des Gesetzes"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

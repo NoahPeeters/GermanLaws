@@ -1,0 +1,59 @@
+{
+  "documentIdentifier" : "BJNR192700013",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR192700013Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR192700013BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Begriffsbestimmung"
+        },
+        {
+          "documentIdentifier" : "BJNR192700013BJNE000201116",
+          "paragraph" : "§ 2",
+          "title" : "Antrag auf Ausstellung einer Wrackbeseitigungshaftungsbescheinigung"
+        },
+        {
+          "documentIdentifier" : "BJNR192700013BJNE000301116",
+          "paragraph" : "§ 3",
+          "title" : "Antrag auf Ausstellung einer Personenhaftungsbescheinigung"
+        },
+        {
+          "documentIdentifier" : "BJNR192700013BJNE000401116",
+          "paragraph" : "§ 4",
+          "title" : "Ausstellung"
+        },
+        {
+          "documentIdentifier" : "BJNR192700013BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Pflichten des Antragstellers"
+        },
+        {
+          "documentIdentifier" : "BJNR192700013BJNE000601116",
+          "paragraph" : "§ 6",
+          "title" : "Übergangsregelung"
+        },
+        {
+          "documentIdentifier" : "BJNR192700013BJNE000700000",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 4 Absatz 1)"
+        },
+        {
+          "documentIdentifier" : "BJNR192700013BJNE000800000",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 4 Absatz 2)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

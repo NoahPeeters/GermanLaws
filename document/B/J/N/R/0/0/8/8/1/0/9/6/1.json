@@ -1,0 +1,1437 @@
+{
+  "documentIdentifier" : "BJNR008810961",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR008810961BJNG000104377",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR008810961BJNG000209118",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR008810961BJNE030210123",
+              "paragraph" : "§ 1",
+              "title" : "Begriffsbestimmungen"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE016607118",
+              "paragraph" : "§ 1a",
+              "title" : "Geltung der Verordnungen (EU) Nr. 575\/2013, (EG) Nr. 1060\/2009 und (EU) 2017\/2402 für Kredit- und Finanzdienstleistungsinstitute"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE018901301",
+              "paragraph" : "§ 1b",
+              "title" : "(weggefallen)"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE031209123",
+              "paragraph" : "§ 2",
+              "title" : "Ausnahmen"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE016705118",
+              "paragraph" : "§ 2a",
+              "title" : "Ausnahmen für gruppenangehörige Institute und Institute, die institutsbezogenen Sicherungssystemen angehören"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE002607301",
+              "paragraph" : "§ 2b",
+              "title" : "Rechtsform"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE010623124",
+              "paragraph" : "§ 2c",
+              "title" : "Inhaber bedeutender Beteiligungen"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE014004301",
+              "paragraph" : "§ 2d",
+              "title" : "Leitungsorgane von Finanzholding-Gesellschaften und gemischten Finanzholding-Gesellschaften"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE024001124",
+              "paragraph" : "§ 2e",
+              "title" : "Ausnahmen für gemischte Finanzholding-Gesellschaften"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE002707118",
+              "paragraph" : "§ 3",
+              "title" : "Verbotene Geschäfte"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE002806377",
+              "paragraph" : "§ 4",
+              "title" : "Entscheidung der Bundesanstalt für Finanzdienstleistungsaufsicht"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Kreditinstitute, Finanzdienstleistungsinstitute, Finanzholding-Gesellschaften, gemischte Finanzholding-Gesellschaften und gemischte Holdinggesellschaften sowie Finanzunternehmen"
+        },
+        {
+          "documentIdentifier" : "BJNR008810961BJNG000305377",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR008810961BJNE031103118",
+              "paragraph" : "§ 6",
+              "title" : "Aufgaben"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE013603118",
+              "paragraph" : "§ 6a",
+              "title" : "Besondere Aufgaben"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE029101118",
+              "paragraph" : "§ 6b",
+              "title" : "Aufsichtliche Überprüfung und Beurteilung"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE003110123",
+              "paragraph" : "§ 7",
+              "title" : "Zusammenarbeit mit der Deutschen Bundesbank"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE022203118",
+              "paragraph" : "§ 7a",
+              "title" : "Zusammenarbeit mit der Europäischen Kommission"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE022308118",
+              "paragraph" : "§ 7b",
+              "title" : "Zusammenarbeit mit der Europäischen Bankenaufsichtsbehörde, der Europäischen Wertpapier- und Marktaufsichtsbehörde und der Europäischen Aufsichtsbehörde für das Versicherungswesen und die betriebliche Altersversorgung"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE022400360",
+              "paragraph" : "§ 7c",
+              "title" : "Zusammenarbeit mit dem Europäischen Bankenausschuss"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE029200301",
+              "paragraph" : "§ 7d",
+              "title" : "Zusammenarbeit mit dem Europäischen Ausschuss für Systemrisiken"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE003221123",
+              "paragraph" : "§ 8",
+              "title" : "Zusammenarbeit mit anderen Stellen"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE016804301",
+              "paragraph" : "§ 8a",
+              "title" : "Besondere Aufgaben bei der Aufsicht auf zusammengefasster Basis"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE014106360",
+              "paragraph" : "§ 8b",
+              "title" : "(weggefallen)"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE011710301",
+              "paragraph" : "§ 8c",
+              "title" : "Übertragung der Zuständigkeit für die Aufsicht über Institutsgruppen, Finanzholding-Gruppen, gemischte Finanzholding-Gruppen und gruppenangehörige Institute"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE014202360",
+              "paragraph" : "§ 8d",
+              "title" : "(weggefallen)"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE019003301",
+              "paragraph" : "§ 8e",
+              "title" : "Aufsichtskollegien"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE029300301",
+              "paragraph" : "§ 8f",
+              "title" : "Zusammenarbeit bei der Aufsicht über bedeutende Zweigniederlassungen"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE022106123",
+              "paragraph" : "§ 9",
+              "title" : "Verschwiegenheitspflicht"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Bundesanstalt für Finanzdienstleistungsaufsicht"
+        }
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR008810961BJNG000408118",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR008810961BJNG000505377",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR008810961BJNE003433123",
+              "paragraph" : "§ 10",
+              "title" : "Ergänzende Anforderungen an die Eigenmittelausstattung von Instituten, Institutsgruppen, Finanzholding-Gruppen und gemischten Finanzholding-Gruppen; Verordnungsermächtigung"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE011822118",
+              "paragraph" : "§ 10a",
+              "title" : "Ermittlung der Eigenmittelausstattung von Institutsgruppen, Finanzholding-Gruppen und gemischten Finanzholding-Gruppen; Verordnungsermächtigung"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE014306360",
+              "paragraph" : "§ 10b",
+              "title" : "(weggefallen)"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE016903301",
+              "paragraph" : "§ 10c",
+              "title" : "Kapitalerhaltungspuffer"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE026901116",
+              "paragraph" : "§ 10d",
+              "title" : "Antizyklischer Kapitalpuffer"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE027000301",
+              "paragraph" : "§ 10e",
+              "title" : "Kapitalpuffer für systemische Risiken"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE027101118",
+              "paragraph" : "§ 10f",
+              "title" : "Kapitalpuffer für global systemrelevante Institute"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE027201118",
+              "paragraph" : "§ 10g",
+              "title" : "Kapitalpuffer für anderweitig systemrelevante Institute"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE027301118",
+              "paragraph" : "§ 10h",
+              "title" : "Zusammenwirken der Kapitalpuffer für systemische Risiken, für global systemrelevante Institute und für anderweitig systemrelevante Institute"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE027401116",
+              "paragraph" : "§ 10i",
+              "title" : "Kombinierte Kapitalpuffer-Anforderung"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE003613118",
+              "paragraph" : "§ 11",
+              "title" : "Liquidität"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE003817301",
+              "paragraph" : "§ 12",
+              "title" : "(weggefallen)"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE003913301",
+              "paragraph" : "§ 12a",
+              "title" : "Begründung von Unternehmensbeziehungen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Eigenmittel und Liquidität"
+        },
+        {
+          "documentIdentifier" : "BJNR008810961BJNG000604377",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR008810961BJNE026801118",
+              "paragraph" : "§ 13",
+              "title" : "Großkredite; Verordnungsermächtigung"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE004112301",
+              "paragraph" : "(XXXX) §§ 13a u. 13b",
+              "title" : "(weggefallen)"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE014407118",
+              "paragraph" : "§ 13c",
+              "title" : "Gruppeninterne Transaktionen mit gemischten Holdinggesellschaften"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE014501360",
+              "paragraph" : "§ 13d",
+              "title" : "(weggefallen)"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE027502123",
+              "paragraph" : "§ 14",
+              "title" : "Millionenkredite"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE004315116",
+              "paragraph" : "§ 15",
+              "title" : "Organkredite"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE004505377",
+              "paragraph" : "§ 17",
+              "title" : "Haftungsbestimmung"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE004613118",
+              "paragraph" : "§ 18",
+              "title" : "Kreditunterlagen"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE019106118",
+              "paragraph" : "§ 18a",
+              "title" : "Verbraucherdarlehen und entgeltliche Finanzierungshilfen; Verordnungsermächtigung"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE004711118",
+              "paragraph" : "§ 19",
+              "title" : "Begriff des Kredits für § 14 und des Kreditnehmers für die §§ 14, 15 und 18"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE004814301",
+              "paragraph" : "§ 20",
+              "title" : "Ausnahmen von den Verpflichtungen nach § 14"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE017005301",
+              "paragraph" : "(XXXX) §§ 20a bis 20c",
+              "title" : "(weggefallen)"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE004913118",
+              "paragraph" : "§ 21",
+              "title" : "Begriff des Kredits für die §§ 15 bis 18"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE011908301",
+              "paragraph" : "§ 22",
+              "title" : "Verordnungsermächtigung für Millionenkredite"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              2
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR008810961BJNG002400377",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR008810961BJNE015102301",
+                  "paragraph" : "§ 22a",
+                  "title" : "Registerführendes Unternehmen"
+                },
+                {
+                  "documentIdentifier" : "BJNR008810961BJNE015202301",
+                  "paragraph" : "§ 22b",
+                  "title" : "Führung des Refinanzierungsregisters für Dritte"
+                },
+                {
+                  "documentIdentifier" : "BJNR008810961BJNE015300377",
+                  "paragraph" : "§ 22c",
+                  "title" : "Refinanzierungsmittler"
+                },
+                {
+                  "documentIdentifier" : "BJNR008810961BJNE015403118",
+                  "paragraph" : "§ 22d",
+                  "title" : "Refinanzierungsregister"
+                },
+                {
+                  "documentIdentifier" : "BJNR008810961BJNE015501360",
+                  "paragraph" : "§ 22e",
+                  "title" : "Bestellung des Verwalters"
+                },
+                {
+                  "documentIdentifier" : "BJNR008810961BJNE015600377",
+                  "paragraph" : "§ 22f",
+                  "title" : "Verhältnis des Verwalters zur Bundesanstalt"
+                },
+                {
+                  "documentIdentifier" : "BJNR008810961BJNE015700377",
+                  "paragraph" : "§ 22g",
+                  "title" : "Aufgaben des Verwalters"
+                },
+                {
+                  "documentIdentifier" : "BJNR008810961BJNE015800377",
+                  "paragraph" : "§ 22h",
+                  "title" : "Verhältnis des Verwalters zum registerführenden Unternehmen und zum Refinanzierungsunternehmen"
+                },
+                {
+                  "documentIdentifier" : "BJNR008810961BJNE015901360",
+                  "paragraph" : "§ 22i",
+                  "title" : "Vergütung des Verwalters"
+                },
+                {
+                  "documentIdentifier" : "BJNR008810961BJNE016002301",
+                  "paragraph" : "§ 22j",
+                  "title" : "Wirkungen der Eintragung in das Refinanzierungsregister"
+                },
+                {
+                  "documentIdentifier" : "BJNR008810961BJNE016101301",
+                  "paragraph" : "§ 22k",
+                  "title" : "Beendigung und Übertragung der Registerführung"
+                },
+                {
+                  "documentIdentifier" : "BJNR008810961BJNE016200377",
+                  "paragraph" : "§ 22l",
+                  "title" : "Bestellung des Sachwalters bei Eröffnung des Insolvenzverfahrens"
+                },
+                {
+                  "documentIdentifier" : "BJNR008810961BJNE016300377",
+                  "paragraph" : "§ 22m",
+                  "title" : "Bekanntmachung der Bestellung des Sachwalters"
+                },
+                {
+                  "documentIdentifier" : "BJNR008810961BJNE016400377",
+                  "paragraph" : "§ 22n",
+                  "title" : "Rechtsstellung des Sachwalters"
+                },
+                {
+                  "documentIdentifier" : "BJNR008810961BJNE016501360",
+                  "paragraph" : "§ 22o",
+                  "title" : "Bestellung des Sachwalters bei Insolvenzgefahr"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  2
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Refinanzierungsregister"
+            }
+          ],
+          "title" : "Kreditgeschäft"
+        },
+        {
+          "documentIdentifier" : "BJNR008810961BJNG002201377",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR008810961BJNE013202360",
+              "paragraph" : "§ 22p",
+              "title" : "(weggefallen)"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Kundenrechte"
+        },
+        {
+          "documentIdentifier" : "BJNR008810961BJNG000806377",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR008810961BJNE005208118",
+              "paragraph" : "§ 23",
+              "title" : "Werbung"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE010711118",
+              "paragraph" : "§ 23a",
+              "title" : "Sicherungseinrichtung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Werbung und Hinweispflichten der Institute"
+        },
+        {
+          "documentIdentifier" : "BJNR008810961BJNG000908118",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR008810961BJNE005330118",
+              "paragraph" : "§ 24",
+              "title" : "Anzeigen"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE010820124",
+              "paragraph" : "§ 24a",
+              "title" : "Errichtung einer Zweigniederlassung und Erbringung grenzüberschreitender Dienstleistungen in anderen Staaten des Europäischen Wirtschaftsraums"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE013108118",
+              "paragraph" : "§ 24b",
+              "title" : "Teilnahme an Zahlungs- sowie Wertpapierliefer- und -abrechnungssystemen sowie interoperablen Systemen"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE013306123",
+              "paragraph" : "§ 24c",
+              "title" : "Automatisierter Abruf von Kontoinformationen"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE027601118",
+              "paragraph" : "§ 25",
+              "title" : "Finanzinformationen, Informationen zur Risikotragfähigkeit; Verordnungsermächtigung"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE027710123",
+              "paragraph" : "§ 25a",
+              "title" : "Besondere organisatorische Pflichten, Bestimmungen für Risikoträger; Verordnungsermächtigung"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE027801118",
+              "paragraph" : "§ 25b",
+              "title" : "Auslagerung von Aktivitäten und Prozessen; Verordnungsermächtigung"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE027906118",
+              "paragraph" : "§ 25c",
+              "title" : "Geschäftsleiter"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE028006118",
+              "paragraph" : "§ 25d",
+              "title" : "Verwaltungs- oder Aufsichtsorgan"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE028101118",
+              "paragraph" : "§ 25e",
+              "title" : "Anforderungen bei vertraglich gebundenen Vermittlern"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE029601118",
+              "paragraph" : "§ 25f",
+              "title" : "Besondere Anforderungen an die ordnungsgemäße Geschäftsorganisation von CRR-Kreditinstituten sowie von Institutsgruppen, Finanzholding-Gruppen und gemischten Finanzholding-Gruppen, denen ein CRR-Kreditinstitut angehört; Verordnungsermächtigung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              5
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR008810961BJNG001010360",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR008810961BJNE013509118",
+                  "paragraph" : "§ 25g",
+                  "title" : "Einhaltung der besonderen organisatorischen Pflichten im bargeldlosen Zahlungsverkehr"
+                },
+                {
+                  "documentIdentifier" : "BJNR008810961BJNE017809123",
+                  "paragraph" : "§ 25h",
+                  "title" : "Interne Sicherungsmaßnahmen"
+                },
+                {
+                  "documentIdentifier" : "BJNR008810961BJNE017909123",
+                  "paragraph" : "§ 25i",
+                  "title" : "Allgemeine Sorgfaltspflichten in Bezug auf E-Geld"
+                },
+                {
+                  "documentIdentifier" : "BJNR008810961BJNE018004118",
+                  "paragraph" : "§ 25j",
+                  "title" : "Zeitpunkt der Identitätsüberprüfung"
+                },
+                {
+                  "documentIdentifier" : "BJNR008810961BJNE018107118",
+                  "paragraph" : "§ 25k",
+                  "title" : "Verstärkte Sorgfaltspflichten"
+                },
+                {
+                  "documentIdentifier" : "BJNR008810961BJNE018208118",
+                  "paragraph" : "§ 25l",
+                  "title" : "Geldwäscherechtliche Pflichten für Finanzholding-Gesellschaften"
+                },
+                {
+                  "documentIdentifier" : "BJNR008810961BJNE018404118",
+                  "paragraph" : "§ 25m",
+                  "title" : "Verbotene Geschäfte"
+                },
+                {
+                  "documentIdentifier" : "BJNR008810961BJNE022607128",
+                  "paragraph" : "§ 25n",
+                  "title" : "Einstufung als bedeutendes Institut"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  2,
+                  5
+                ]
+              },
+              "subsections" : [
+                {
+                  "documentIdentifier" : "BJNR008810961BJNG002700377",
+                  "laws" : [
+                    {
+                      "documentIdentifier" : "BJNR008810961BJNE005714118",
+                      "paragraph" : "§ 26",
+                      "title" : "Vorlage von Jahresabschluß, Lagebericht und Prüfungsberichten"
+                    }
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      2,
+                      5
+                    ]
+                  },
+                  "subsections" : [
+                    {
+                      "documentIdentifier" : "BJNR008810961BJNG002601377",
+                      "laws" : [
+                        {
+                          "documentIdentifier" : "BJNR008810961BJNE017305116",
+                          "paragraph" : "§ 26a",
+                          "title" : "Offenlegung durch die Institute"
+                        }
+                      ],
+                      "sectionNumber" : {
+                        "numbers" : [
+                          2,
+                          5
+                        ]
+                      },
+                      "subsections" : [
+
+                      ],
+                      "title" : "Offenlegung"
+                    }
+                  ],
+                  "title" : "Vorlage von Rechnungslegungsunterlagen"
+                }
+              ],
+              "title" : "Bargeldloser Zahlungsverkehr; Verhinderung von Geldwäsche, Terrorismusfinanzierung und sonstigen strafbaren Handlungen zu Lasten der Institute"
+            }
+          ],
+          "title" : "Besondere Pflichten der Institute, ihrer Geschäftsleiter sowie der Finanzholding-Gesellschaften, der gemischten Finanzholding-Gesellschaften und der gemischten Holdinggesellschaften"
+        },
+        {
+          "documentIdentifier" : "BJNR008810961BJNG001105377",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR008810961BJNE006111118",
+              "paragraph" : "§ 28",
+              "title" : "Bestellung des Prüfers in besonderen Fällen"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE006242123",
+              "paragraph" : "§ 29",
+              "title" : "Besondere Pflichten des Prüfers"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE006308377",
+              "paragraph" : "§ 30",
+              "title" : "Bestimmung von Prüfungsinhalten"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              6
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Prüfung und Prüferbestellung"
+        },
+        {
+          "documentIdentifier" : "BJNR008810961BJNG001204377",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR008810961BJNE029800116",
+              "paragraph" : "§ 31",
+              "title" : "Befreiungen; Verordnungsermächtigung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              7
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Befreiungen"
+        }
+      ],
+      "title" : "Vorschriften für Institute, Institutsgruppen, Finanzholding-Gruppen, gemischte Finanzholding-Gruppen und gemischte Holdinggesellschaften"
+    },
+    {
+      "documentIdentifier" : "BJNR008810961BJNG001305377",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR008810961BJNG001404377",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR008810961BJNE006531123",
+              "paragraph" : "§ 32",
+              "title" : "Erlaubnis"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE006625124",
+              "paragraph" : "§ 33",
+              "title" : "Versagung der Erlaubnis"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE010911118",
+              "paragraph" : "§ 33a",
+              "title" : "Aussetzung oder Beschränkung der Erlaubnis bei Unternehmen mit Sitz außerhalb der Europäischen Union"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE011013118",
+              "paragraph" : "§ 33b",
+              "title" : "Anhörung der zuständigen Stellen eines anderen Staates des Europäischen Wirtschaftsraums"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE006707118",
+              "paragraph" : "§ 34",
+              "title" : "Stellvertretung und Fortführung bei Todesfall"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE006822118",
+              "paragraph" : "§ 35",
+              "title" : "Erlöschen und Aufhebung der Erlaubnis"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE001728118",
+              "paragraph" : "§ 36",
+              "title" : "Maßnahmen gegen Geschäftsleiter und Mitglieder des Verwaltungs- oder Aufsichtsorgans"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE030604118",
+              "paragraph" : "§ 36a",
+              "title" : "Tätigkeitsverbot für natürliche Personen"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE007013118",
+              "paragraph" : "§ 37",
+              "title" : "Einschreiten gegen unerlaubte oder verbotene Geschäfte"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE007113118",
+              "paragraph" : "§ 38",
+              "title" : "Folgen der Aufhebung und des Erlöschens der Erlaubnis, Maßnahmen bei der Abwicklung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Zulassung zum Geschäftsbetrieb"
+        },
+        {
+          "documentIdentifier" : "BJNR008810961BJNG001505377",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR008810961BJNE007207377",
+              "paragraph" : "§ 39",
+              "title" : "Bezeichnungen \"Bank\" und \"Bankier\""
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE007305377",
+              "paragraph" : "§ 40",
+              "title" : "Bezeichnung \"Sparkasse\""
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE007405377",
+              "paragraph" : "§ 41",
+              "title" : "Ausnahmen"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE007505377",
+              "paragraph" : "§ 42",
+              "title" : "Entscheidung der Bundesanstalt"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE007607377",
+              "paragraph" : "§ 43",
+              "title" : "Registervorschriften"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Bezeichnungsschutz"
+        },
+        {
+          "documentIdentifier" : "BJNR008810961BJNG001604377",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR008810961BJNE007720118",
+              "paragraph" : "§ 44",
+              "title" : "Auskünfte und Prüfungen von Instituten, Anbietern von Nebendienstleistungen, Finanzholding-Gesellschaften, gemischten Finanzholding-Gesellschaften und anderen Unternehmen"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE007818118",
+              "paragraph" : "§ 44a",
+              "title" : "Grenzüberschreitende Auskünfte und Prüfungen"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE011109377",
+              "paragraph" : "§ 44b",
+              "title" : "Auskünfte und Prüfungen bei Inhabern bedeutender Beteiligungen"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE012711118",
+              "paragraph" : "§ 44c",
+              "title" : "Verfolgung unerlaubter Bankgeschäfte und Finanzdienstleistungen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Auskünfte und Prüfungen"
+        },
+        {
+          "documentIdentifier" : "BJNR008810961BJNG001704377",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR008810961BJNE007919118",
+              "paragraph" : "§ 45",
+              "title" : "Maßnahmen zur Verbesserung der Eigenmittelausstattung und der Liquidität"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE012010301",
+              "paragraph" : "§ 45a",
+              "title" : "Maßnahmen gegenüber Finanzholding-Gesellschaften und gemischten Finanzholding-Gesellschaften"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE017509118",
+              "paragraph" : "§ 45b",
+              "title" : "Maßnahmen bei organisatorischen Mängeln"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE019806118",
+              "paragraph" : "§ 45c",
+              "title" : "Sonderbeauftragter"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE008014118",
+              "paragraph" : "§ 46",
+              "title" : "Maßnahmen bei Gefahr"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE008117118",
+              "paragraph" : "§ 46a",
+              "title" : "Untersagungs- und Anordnungsbefugnis bei Verwenden externer Ratings"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE008219118",
+              "paragraph" : "§ 46b",
+              "title" : "Insolvenzantrag"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE008308360",
+              "paragraph" : "§ 46c",
+              "title" : "Insolvenzrechtliche Fristen und Haftungsfragen"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE013705301",
+              "paragraph" : "§ 46d",
+              "title" : "Unterrichtung der anderen Staaten des Europäischen Wirtschaftsraums über Sanierungsmaßnahmen"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE013805118",
+              "paragraph" : "§ 46e",
+              "title" : "Insolvenzverfahren in den Staaten des Europäischen Wirtschaftsraums"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE013907124",
+              "paragraph" : "§ 46f",
+              "title" : "Unterrichtung der Gläubiger im Insolvenzverfahren und Insolvenzrangfolge"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE008408301",
+              "paragraph" : "§ 46g",
+              "title" : "Moratorium, Einstellung des Bank- und Börsenverkehrs"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE008506301",
+              "paragraph" : "§ 46h",
+              "title" : "Wiederaufnahme des Bank- und Börsenverkehrs"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE024202118",
+              "paragraph" : "§ 47",
+              "title" : "Anordnungsbefugnis nach der Verordnung (EU) Nr. 1286\/2014"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE031700118",
+              "paragraph" : "§ 48",
+              "title" : "Maßnahmen bei Verstößen gegen die Verordnung (EU) 2017\/2402"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              4
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR008810961BJNG002802118",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR008810961BJNE019901118",
+                  "paragraph" : "(XXXX) §§ 48a bis 48s",
+                  "title" : "(weggefallen)"
+                },
+                {
+                  "documentIdentifier" : "BJNR008810961BJNE028301116",
+                  "paragraph" : "§ 48t",
+                  "title" : "Maßnahmen zur Begrenzung makroprudenzieller oder systemischer Risiken"
+                },
+                {
+                  "documentIdentifier" : "BJNR008810961BJNE031400118",
+                  "paragraph" : "§ 48u",
+                  "title" : "Maßnahmen zur Begrenzung makroprudenzieller Risiken im Bereich der Darlehensvergabe zum Bau oder zum Erwerb von Wohnimmobilien; Verordnungsermächtigung"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  3,
+                  4
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Maßnahmen gegenüber Kreditinstituten bei Gefahren für die Stabilität des Finanzsystems"
+            }
+          ],
+          "title" : "Maßnahmen in besonderen Fällen"
+        },
+        {
+          "documentIdentifier" : "BJNR008810961BJNG001805377",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR008810961BJNE008631128",
+              "paragraph" : "§ 49",
+              "title" : "Sofortige Vollziehbarkeit"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE008812360",
+              "paragraph" : "§ 51",
+              "title" : "Umlage und Kosten"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              5
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Vollziehbarkeit, Zwangsmittel, Umlage und Kosten"
+        }
+      ],
+      "title" : "Vorschriften über die Beaufsichtigung der Institute"
+    },
+    {
+      "documentIdentifier" : "BJNR008810961BJNG001400301",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR008810961BJNE028801116",
+          "paragraph" : "§ 51a",
+          "title" : "Anforderungen an die Eigenkapitalausstattung für Wohnungsunternehmen mit Spareinrichtung"
+        },
+        {
+          "documentIdentifier" : "BJNR008810961BJNE028900360",
+          "paragraph" : "§ 51b",
+          "title" : "Anforderungen an die Liquidität für Wohnungsunternehmen mit Spareinrichtung"
+        },
+        {
+          "documentIdentifier" : "BJNR008810961BJNE028602118",
+          "paragraph" : "§ 51c",
+          "title" : "Sonstige Sondervorschriften für Wohnungsunternehmen mit Spareinrichtung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Besondere Vorschriften für Wohnungsunternehmen mit Spareinrichtung"
+    },
+    {
+      "documentIdentifier" : "BJNR008810961BJNG001905377",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR008810961BJNE008906377",
+          "paragraph" : "§ 52",
+          "title" : "Sonderaufsicht"
+        },
+        {
+          "documentIdentifier" : "BJNR008810961BJNE021800360",
+          "paragraph" : "§ 52a",
+          "title" : "Verjährung von Ansprüchen gegen Organmitglieder von Kreditinstituten"
+        },
+        {
+          "documentIdentifier" : "BJNR008810961BJNE009112116",
+          "paragraph" : "§ 53",
+          "title" : "Zweigstellen von Unternehmen mit Sitz im Ausland"
+        },
+        {
+          "documentIdentifier" : "BJNR008810961BJNE009206377",
+          "paragraph" : "§ 53a",
+          "title" : "Repräsentanzen von Instituten mit Sitz im Ausland"
+        },
+        {
+          "documentIdentifier" : "BJNR008810961BJNE011233128",
+          "paragraph" : "§ 53b",
+          "title" : "Unternehmen mit Sitz in einem anderen Staat des Europäischen Wirtschaftsraums"
+        },
+        {
+          "documentIdentifier" : "BJNR008810961BJNE011310118",
+          "paragraph" : "§ 53c",
+          "title" : "Unternehmen mit Sitz in einem Drittstaat; Verordnungsermächtigung"
+        },
+        {
+          "documentIdentifier" : "BJNR008810961BJNE014906124",
+          "paragraph" : "§ 53d",
+          "title" : "Mutterunternehmen mit Sitz in einem Drittstaat"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Sondervorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR008810961BJNG002901118",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR008810961BJNG003100118",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR008810961BJNE022700360",
+              "paragraph" : "§ 53e",
+              "title" : "Inhaber bedeutender Beteiligungen"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE022800360",
+              "paragraph" : "§ 53f",
+              "title" : "Aufsichtskollegien"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE022900360",
+              "paragraph" : "§ 53g",
+              "title" : "Finanzmittelausstattung von zentralen Gegenparteien"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE023000360",
+              "paragraph" : "§ 53h",
+              "title" : "Liquidität"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE023100360",
+              "paragraph" : "§ 53i",
+              "title" : "Gewährung des Zugangs nach den Artikeln 7 und 8 der Verordnung (EU) Nr. 648\/2012"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE023200360",
+              "paragraph" : "§ 53j",
+              "title" : "Anzeigen; Verordnungsermächtigung"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE023301301",
+              "paragraph" : "§ 53k",
+              "title" : "Auslagerung von Aktivitäten und Prozessen"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE023401116",
+              "paragraph" : "§ 53l",
+              "title" : "Anordnungsbefugnis; Maßnahmen bei organisatorischen Mängeln"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE023500360",
+              "paragraph" : "§ 53m",
+              "title" : "Inhalt des Zulassungsantrags"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE023602118",
+              "paragraph" : "§ 53n",
+              "title" : "Maßnahmen zur Verbesserung der Finanzmittel und der Liquidität einer nach der Verordnung (EU) Nr. 648\/2012 zugelassenen zentralen Gegenpartei"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              6,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Zentrale Gegenparteien"
+        },
+        {
+          "documentIdentifier" : "BJNR008810961BJNG003200118",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR008810961BJNE030300118",
+              "paragraph" : "§ 53o",
+              "title" : "Anträge nach der Verordnung (EU) Nr. 909\/2014; Verschwiegenheitspflicht"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE030700118",
+              "paragraph" : "§ 53p",
+              "title" : "Anordnungsbefugnis für die Aufsicht nach der Verordnung (EU) Nr. 909\/2014"
+            },
+            {
+              "documentIdentifier" : "BJNR008810961BJNE030800118",
+              "paragraph" : "§ 53q",
+              "title" : "Eigentumsrechte an Zentralverwahrern"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              6,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Zentralverwahrer"
+        }
+      ],
+      "title" : "Sondervorschriften für zentrale Gegenparteien und Zentralverwahrer"
+    },
+    {
+      "documentIdentifier" : "BJNR008810961BJNG002006360",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR008810961BJNE009309118",
+          "paragraph" : "§ 54",
+          "title" : "Verbotene Geschäfte, Handeln ohne Erlaubnis"
+        },
+        {
+          "documentIdentifier" : "BJNR008810961BJNE029500301",
+          "paragraph" : "§ 54a",
+          "title" : "Strafvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR008810961BJNE009408377",
+          "paragraph" : "§ 55",
+          "title" : "Verletzung der Pflicht zur Anzeige der Zahlungsunfähigkeit oder der Überschuldung"
+        },
+        {
+          "documentIdentifier" : "BJNR008810961BJNE012803377",
+          "paragraph" : "§ 55a",
+          "title" : "Unbefugte Verwertung von Angaben über Millionenkredite"
+        },
+        {
+          "documentIdentifier" : "BJNR008810961BJNE012904377",
+          "paragraph" : "§ 55b",
+          "title" : "Unbefugte Offenbarung von Angaben über Millionenkredite"
+        },
+        {
+          "documentIdentifier" : "BJNR008810961BJNE009543123",
+          "paragraph" : "§ 56",
+          "title" : "Bußgeldvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR008810961BJNE009604377",
+          "paragraph" : "(XXXX) §§ 57 und 58",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR008810961BJNE009707377",
+          "paragraph" : "§ 59",
+          "title" : "Geldbußen gegen Unternehmen"
+        },
+        {
+          "documentIdentifier" : "BJNR008810961BJNE009805377",
+          "paragraph" : "§ 60",
+          "title" : "Zuständige Verwaltungsbehörde"
+        },
+        {
+          "documentIdentifier" : "BJNR008810961BJNE013005301",
+          "paragraph" : "§ 60a",
+          "title" : "Beteiligung der Bundesanstalt und Mitteilungen in Strafsachen"
+        },
+        {
+          "documentIdentifier" : "BJNR008810961BJNE028904118",
+          "paragraph" : "§ 60b",
+          "title" : "Bekanntmachung von Maßnahmen"
+        },
+        {
+          "documentIdentifier" : "BJNR008810961BJNE030903118",
+          "paragraph" : "§ 60c",
+          "title" : "Bekanntmachung von Maßnahmen und Sanktionen wegen Verstößen gegen die Verordnung (EU) Nr. 909\/2014, die Verordnung (EU) 2015\/2365, die Verordnung (EU) 2016\/1011 oder die Verordnung (EU) 2017\/2402"
+        },
+        {
+          "documentIdentifier" : "BJNR008810961BJNE031500118",
+          "paragraph" : "§ 60d",
+          "title" : "Bekanntmachung von Maßnahmen und Sanktionen gegen Wertpapierdienstleistungsunternehmen und Betreiber von Datenbereitstellungsdiensten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Strafvorschriften, Bußgeldvorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR008810961BJNG002106360",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR008810961BJNE009904377",
+          "paragraph" : "§ 61",
+          "title" : "Erlaubnis für bestehende Kreditinstitute"
+        },
+        {
+          "documentIdentifier" : "BJNR008810961BJNE010108377",
+          "paragraph" : "§ 62",
+          "title" : "Überleitungsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR008810961BJNE010510377",
+          "paragraph" : "§ 63a",
+          "title" : "Sondervorschriften für das in Artikel 3 des Einigungsvertrages genannte Gebiet"
+        },
+        {
+          "documentIdentifier" : "BJNR008810961BJNE010307377",
+          "paragraph" : "§ 64",
+          "title" : "Nachfolgeunternehmen der Deutschen Bundespost"
+        },
+        {
+          "documentIdentifier" : "BJNR008810961BJNE011506377",
+          "paragraph" : "§ 64a",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR008810961BJNE011608301",
+          "paragraph" : "§ 64b",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR008810961BJNE012105377",
+          "paragraph" : "§ 64c",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR008810961BJNE012207301",
+          "paragraph" : "§ 64d",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR008810961BJNE012308301",
+          "paragraph" : "§ 64e",
+          "title" : "Übergangsvorschriften zum Sechsten Gesetz zur Änderung des Gesetzes über das Kreditwesen"
+        },
+        {
+          "documentIdentifier" : "BJNR008810961BJNE013401377",
+          "paragraph" : "§ 64f",
+          "title" : "Übergangsvorschriften zum Vierten Finanzmarktförderungsgesetz"
+        },
+        {
+          "documentIdentifier" : "BJNR008810961BJNE015002118",
+          "paragraph" : "§ 64g",
+          "title" : "Übergangsvorschriften zum Finanzkonglomeraterichtlinie-Umsetzungsgesetz"
+        },
+        {
+          "documentIdentifier" : "BJNR008810961BJNE017605123",
+          "paragraph" : "§ 64h",
+          "title" : "Übergangsvorschriften zum Gesetz zur Umsetzung der neu gefassten Bankenrichtlinie und der neu gefassten Kapitaladäquanzrichtlinie"
+        },
+        {
+          "documentIdentifier" : "BJNR008810961BJNE017700377",
+          "paragraph" : "§ 64i",
+          "title" : "Übergangsvorschriften zum Finanzmarktrichtlinie-Umsetzungsgesetz"
+        },
+        {
+          "documentIdentifier" : "BJNR008810961BJNE018500377",
+          "paragraph" : "§ 64j",
+          "title" : "Übergangsvorschriften zum Jahressteuergesetz 2009"
+        },
+        {
+          "documentIdentifier" : "BJNR008810961BJNE018700377",
+          "paragraph" : "§ 64k",
+          "title" : "Übergangsvorschrift zum Gesetz zur Umsetzung der Beteiligungsrichtlinie"
+        },
+        {
+          "documentIdentifier" : "BJNR008810961BJNE018800377",
+          "paragraph" : "§ 64l",
+          "title" : "Übergangsvorschrift zur Erlaubnis für die Anlageverwaltung"
+        },
+        {
+          "documentIdentifier" : "BJNR008810961BJNE019302128",
+          "paragraph" : "§ 64m",
+          "title" : "Übergangsvorschrift zum Brexit-Steuerbegleitgesetz"
+        },
+        {
+          "documentIdentifier" : "BJNR008810961BJNE022500360",
+          "paragraph" : "§ 64n",
+          "title" : "Übergangsvorschrift zum Gesetz zur Novellierung des Finanzvermittler- und Vermögensanlagenrechts"
+        },
+        {
+          "documentIdentifier" : "BJNR008810961BJNE023800360",
+          "paragraph" : "§ 64o",
+          "title" : "Übergangsvorschriften zum EMIR-Ausführungsgesetz"
+        },
+        {
+          "documentIdentifier" : "BJNR008810961BJNE023900377",
+          "paragraph" : "§ 64p",
+          "title" : "Übergangsvorschrift zum Hochfrequenzhandelsgesetz"
+        },
+        {
+          "documentIdentifier" : "BJNR008810961BJNE024100360",
+          "paragraph" : "§ 64q",
+          "title" : "Übergangsvorschrift zum AIFM-Umsetzungsgesetz"
+        },
+        {
+          "documentIdentifier" : "BJNR008810961BJNE029005118",
+          "paragraph" : "§ 64r",
+          "title" : "Übergangsvorschriften zum CRD IV-Umsetzungsgesetz"
+        },
+        {
+          "documentIdentifier" : "BJNR008810961BJNE029700360",
+          "paragraph" : "§ 64s",
+          "title" : "Übergangsvorschrift zum Gesetz zur Abschirmung von Risiken und zur Planung der Sanierung und Abwicklung von Kreditinstituten"
+        },
+        {
+          "documentIdentifier" : "BJNR008810961BJNE029900118",
+          "paragraph" : "§ 64t",
+          "title" : "Übergangsvorschrift zur Verordnung (EU) Nr. 1060\/2009"
+        },
+        {
+          "documentIdentifier" : "BJNR008810961BJNE030001118",
+          "paragraph" : "§ 64u",
+          "title" : "Übergangsvorschrift zum BRRD-Umsetzungsgesetz"
+        },
+        {
+          "documentIdentifier" : "BJNR008810961BJNE031000118",
+          "paragraph" : "§ 64v",
+          "title" : "Übergangsvorschriften zum Ersten Finanzmarktnovellierungsgesetz"
+        },
+        {
+          "documentIdentifier" : "BJNR008810961BJNE031300118",
+          "paragraph" : "§ 64w",
+          "title" : "Übergangsregelung zum CSR-Richtlinie-Umsetzungsgesetz"
+        },
+        {
+          "documentIdentifier" : "BJNR008810961BJNE031601118",
+          "paragraph" : "§ 64x",
+          "title" : "Übergangsvorschrift zum Zweiten Finanzmarktnovellierungsgesetz"
+        },
+        {
+          "documentIdentifier" : "BJNR008810961BJNE031800123",
+          "paragraph" : "§ 64y",
+          "title" : "Übergangsvorschriften zum Gesetz zur Umsetzung der Änderungsrichtlinie zur Vierten EU-Geldwäscherichtlinie"
+        },
+        {
+          "documentIdentifier" : "BJNR008810961BJNE030100118",
+          "paragraph" : "Anhang I",
+          "title" : "Informationsbogen für den Einleger"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          8
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übergangs- und Schlußvorschriften"
+    }
+  ]
+}

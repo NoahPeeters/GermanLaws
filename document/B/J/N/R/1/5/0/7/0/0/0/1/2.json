@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR150700012",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR150700012Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR150700012BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Übertragung der Ermächtigung"
+        },
+        {
+          "documentIdentifier" : "BJNR150700012BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

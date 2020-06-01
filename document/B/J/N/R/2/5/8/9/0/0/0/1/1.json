@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR258900011",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR258900011Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR258900011BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Insolvenzstatistik"
+        },
+        {
+          "documentIdentifier" : "BJNR258900011BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Erhebungsmerkmale"
+        },
+        {
+          "documentIdentifier" : "BJNR258900011BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Hilfsmerkmale"
+        },
+        {
+          "documentIdentifier" : "BJNR258900011BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Auskunftspflicht und Erteilung der Auskunft; Verordnungsermächtigung"
+        },
+        {
+          "documentIdentifier" : "BJNR258900011BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Veröffentlichung und Übermittlung"
+        },
+        {
+          "documentIdentifier" : "BJNR258900011BJNE000600000",
+          "paragraph" : "§ 6",
+          "title" : "Übergangsregelung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

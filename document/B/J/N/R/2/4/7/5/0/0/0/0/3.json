@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR247500003",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR247500003Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR247500003BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Aufhebung der Entschuldung"
+        },
+        {
+          "documentIdentifier" : "BJNR247500003BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Fälligkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR247500003BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Abschlag und Härteregelung"
+        },
+        {
+          "documentIdentifier" : "BJNR247500003BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Wegfall der Entschuldung zu früherem Zeitpunkt"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

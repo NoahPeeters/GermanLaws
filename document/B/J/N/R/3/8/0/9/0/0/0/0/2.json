@@ -1,0 +1,84 @@
+{
+  "documentIdentifier" : "BJNR380900002",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR380900002Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR380900002BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Zweck der Verordnung"
+        },
+        {
+          "documentIdentifier" : "BJNR380900002BJNE000203118",
+          "paragraph" : "§ 2",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR380900002BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Grundsätzliche Anforderungen"
+        },
+        {
+          "documentIdentifier" : "BJNR380900002BJNE000401118",
+          "paragraph" : "§ 4",
+          "title" : "Sonstige Anforderungen"
+        },
+        {
+          "documentIdentifier" : "BJNR380900002BJNE001202118",
+          "paragraph" : "§ 4a",
+          "title" : "Anzeigepflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR380900002BJNE000503119",
+          "paragraph" : "§ 5",
+          "title" : "Prüfung von Rohrfernleitungsanlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR380900002BJNE000607118",
+          "paragraph" : "§ 6",
+          "title" : "Prüfstellen für Rohrfernleitungsanlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR380900002BJNE000702118",
+          "paragraph" : "§ 7",
+          "title" : "Schadensfall"
+        },
+        {
+          "documentIdentifier" : "BJNR380900002BJNE000800000",
+          "paragraph" : "§ 8",
+          "title" : "Schadensfallvorsorge"
+        },
+        {
+          "documentIdentifier" : "BJNR380900002BJNE001301311",
+          "paragraph" : "§ 8a",
+          "title" : "Überwachung"
+        },
+        {
+          "documentIdentifier" : "BJNR380900002BJNE000905118",
+          "paragraph" : "§ 9",
+          "title" : "Ausschuss für Rohrfernleitungen"
+        },
+        {
+          "documentIdentifier" : "BJNR380900002BJNE001003118",
+          "paragraph" : "§ 10",
+          "title" : "Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR380900002BJNE001101377",
+          "paragraph" : "§ 11",
+          "title" : "Übergangsvorschriften"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

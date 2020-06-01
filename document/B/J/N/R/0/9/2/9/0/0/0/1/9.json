@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR092900019",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR092900019Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR092900019BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Gleichstellung von Prüfungszeugnissen"
+        },
+        {
+          "documentIdentifier" : "BJNR092900019BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

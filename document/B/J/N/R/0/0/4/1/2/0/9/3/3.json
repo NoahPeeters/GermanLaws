@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR004120933",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR004120933Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR004120933BJNE000100328",
+          "paragraph" : "§ 1",
+          "title" : "Verpflichtung"
+        },
+        {
+          "documentIdentifier" : "BJNR004120933BJNE000300328",
+          "paragraph" : "§ 3",
+          "title" : "Überwachungs- und Zwangsvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR004120933BJNE000400328",
+          "paragraph" : "§ 3a",
+          "title" : "Bußgeldvorschrift"
+        },
+        {
+          "documentIdentifier" : "BJNR004120933BJNE000500328",
+          "paragraph" : "§ 4",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

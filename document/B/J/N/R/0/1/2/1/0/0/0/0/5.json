@@ -1,0 +1,79 @@
+{
+  "documentIdentifier" : "BJNR012100005",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR012100005Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR012100005BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Staatliche Anerkennung des Ausbildungsberufes"
+        },
+        {
+          "documentIdentifier" : "BJNR012100005BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Ausbildungsdauer"
+        },
+        {
+          "documentIdentifier" : "BJNR012100005BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Zielsetzung der Berufsausbildung"
+        },
+        {
+          "documentIdentifier" : "BJNR012100005BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Ausbildungsberufsbild"
+        },
+        {
+          "documentIdentifier" : "BJNR012100005BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Ausbildungsrahmenplan"
+        },
+        {
+          "documentIdentifier" : "BJNR012100005BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Ausbildungsplan"
+        },
+        {
+          "documentIdentifier" : "BJNR012100005BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Berichtsheft"
+        },
+        {
+          "documentIdentifier" : "BJNR012100005BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Zwischenprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR012100005BJNE001000000",
+          "paragraph" : "§ 9",
+          "title" : "Abschlussprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR012100005BJNE001100000",
+          "paragraph" : "§ 10",
+          "title" : "Übergangsregelung"
+        },
+        {
+          "documentIdentifier" : "BJNR012100005BJNE001200000",
+          "paragraph" : "§ 11",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR012100005BJNE001300000",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 5)\n"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR262200007",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR262200007Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR262200007BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Aufhebung von Fideikommiss-Auflösungsrecht"
+        },
+        {
+          "documentIdentifier" : "BJNR262200007BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Folgen der Aufhebung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "documentIdentifier" : "BJNR020919992",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR020919992BJNG000100333",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          0
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "-"
+    },
+    {
+      "documentIdentifier" : "BJNR020919992BJNG000200333",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR020919992BJNE000301310",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR020919992BJNE000402310",
+              "laws" : [
+
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  1
+                ]
+              },
+              "subsections" : [
+                {
+                  "documentIdentifier" : "BJNR020919992BJNE000700310",
+                  "laws" : [
+
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      1
+                    ]
+                  },
+                  "subsections" : [
+                    {
+                      "documentIdentifier" : "BJNR020919992BJNE000500333",
+                      "laws" : [
+
+                      ],
+                      "sectionNumber" : {
+                        "numbers" : [
+                          1
+                        ]
+                      },
+                      "subsections" : [
+                        {
+                          "documentIdentifier" : "BJNR020919992BJNE000600333",
+                          "laws" : [
+
+                          ],
+                          "sectionNumber" : {
+                            "numbers" : [
+                              1
+                            ]
+                          },
+                          "subsections" : [
+
+                          ],
+                          "title" : "Art 1"
+                        }
+                      ],
+                      "title" : "Art 1"
+                    }
+                  ],
+                  "title" : "Art 1"
+                }
+              ],
+              "title" : "Art 1"
+            }
+          ],
+          "title" : "Art 1"
+        }
+      ],
+      "title" : "Förderung der anderweitigen Verwendung von Berufssoldaten und Beamten des Geschäftsbereichs des Bundesministers der Verteidigung"
+    },
+    {
+      "documentIdentifier" : "BJNR020919992BJNG000700333",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Art 2"
+    },
+    {
+      "documentIdentifier" : "BJNR020919992BJNG000800333",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Einmaliges Übergangsgeld für Soldaten auf Zeit im Beitrittsgebiet"
+    },
+    {
+      "documentIdentifier" : "BJNR020919992BJNG000900333",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Geltungsdauer"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR104600001",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR104600001Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR104600001BJNE000600305",
+          "paragraph" : "Art 64",
+          "title" : "Rückkehr zum einheitlichen Verordnungsrang"
+        },
+        {
+          "documentIdentifier" : "BJNR104600001BJNE000700305",
+          "paragraph" : "Art 65",
+          "title" : "Neubekanntmachung"
+        },
+        {
+          "documentIdentifier" : "BJNR104600001BJNE000900305",
+          "paragraph" : "Art 67",
+          "title" : "Übergangsvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR104600001BJNE001000305",
+          "paragraph" : "Art 68",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

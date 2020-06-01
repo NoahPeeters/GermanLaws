@@ -1,0 +1,59 @@
+{
+  "documentIdentifier" : "BJNR028700010",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR028700010Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR028700010BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Begriffsbestimmung"
+        },
+        {
+          "documentIdentifier" : "BJNR028700010BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Höchstgehalte"
+        },
+        {
+          "documentIdentifier" : "BJNR028700010BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Behandlung von Lebensmitteln mit überhöhten Mykotoxingehalten"
+        },
+        {
+          "documentIdentifier" : "BJNR028700010BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Lagerung und Aufbewahrung sowie Kenntlichmachung von Lebensmitteln mit überhöhten Mykotoxingehalten"
+        },
+        {
+          "documentIdentifier" : "BJNR028700010BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Probenahme und Analyse bei der amtlichen Kontrolle von Lebensmitteln auf Mykotoxine und Nitrat"
+        },
+        {
+          "documentIdentifier" : "BJNR028700010BJNE000603116",
+          "paragraph" : "§ 6",
+          "title" : "Straftaten"
+        },
+        {
+          "documentIdentifier" : "BJNR028700010BJNE000700000",
+          "paragraph" : "§ 7",
+          "title" : "Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR028700010BJNE000801140",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 2, § 3, § 4 Absatz 1 und 2 Satz 1 und § 5)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

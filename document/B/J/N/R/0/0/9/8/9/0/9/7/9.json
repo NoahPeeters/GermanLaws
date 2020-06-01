@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR009890979",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR009890979Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR009890979BJNE000301306",
+          "paragraph" : "Art 2",
+          "title" : "Besitzstand"
+        },
+        {
+          "documentIdentifier" : "BJNR009890979BJNE000400311",
+          "paragraph" : "Art 3",
+          "title" : "Frühere Ausweise"
+        },
+        {
+          "documentIdentifier" : "BJNR009890979BJNE000500311",
+          "paragraph" : "Art 4",
+          "title" : "Erstattungsregelungen für die Jahre 1979 und 1980"
+        },
+        {
+          "documentIdentifier" : "BJNR009890979BJNE000800311",
+          "paragraph" : "Art 9",
+          "title" : "Berlin-Klausel"
+        },
+        {
+          "documentIdentifier" : "BJNR009890979BJNE000900311",
+          "paragraph" : "Art 10",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

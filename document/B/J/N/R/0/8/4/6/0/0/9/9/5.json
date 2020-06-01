@@ -1,0 +1,78 @@
+{
+  "documentIdentifier" : "BJNR084600995",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR084600995BJNG000100305",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR084600995BJNE000402301",
+          "paragraph" : "§ 1",
+          "title" : "Begebung, Nennwert, Laufzeit, Tilgung und Verzinsung\nder Schuldverschreibungen"
+        },
+        {
+          "documentIdentifier" : "BJNR084600995BJNE000500305",
+          "paragraph" : "§ 2",
+          "title" : "Marktpflege"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Begebung"
+    },
+    {
+      "documentIdentifier" : "BJNR084600995BJNG000200305",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR084600995BJNE000603301",
+          "paragraph" : "§ 3",
+          "title" : "Zuteilung der Schuldverschreibungen"
+        },
+        {
+          "documentIdentifier" : "BJNR084600995BJNE000700305",
+          "paragraph" : "§ 4",
+          "title" : "Handelbarkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR084600995BJNE000801301",
+          "paragraph" : "§ 5",
+          "title" : "Verwaltung der Einzelschuldbuchkonten"
+        },
+        {
+          "documentIdentifier" : "BJNR084600995BJNE000900305",
+          "paragraph" : "§ 6",
+          "title" : "Verwaltung durch Kreditinstitute"
+        },
+        {
+          "documentIdentifier" : "BJNR084600995BJNE001000305",
+          "paragraph" : "§ 7",
+          "title" : "Datenschutz"
+        },
+        {
+          "documentIdentifier" : "BJNR084600995BJNE001100305",
+          "paragraph" : "§ 8",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR084600995BJNE001301307",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 3 Abs. 3)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Zuteilung und Verwaltung"
+    }
+  ]
+}

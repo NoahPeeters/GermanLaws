@@ -1,0 +1,93 @@
+{
+  "documentIdentifier" : "BJNR163109996",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR163109996BJNG000100310",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gesetz zur Beitragsentlastung der gesetzlichen Krankenversicherung"
+    },
+    {
+      "documentIdentifier" : "BJNR163109996BJNG000200310",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Art 2 u. 3"
+    },
+    {
+      "documentIdentifier" : "BJNR163109996BJNG000300310",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR163109996BJNE000500310",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR163109996BJNE000600310",
+              "laws" : [
+
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  4
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Art 4"
+            }
+          ],
+          "title" : "Art 4"
+        }
+      ],
+      "title" : "Übergangsregelungen"
+    },
+    {
+      "documentIdentifier" : "BJNR163109996BJNG000400310",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inkrafttreten"
+    }
+  ]
+}

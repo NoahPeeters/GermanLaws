@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR256300013",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR256300013Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR256300013BJNE000103119",
+          "paragraph" : "§ 1",
+          "title" : "Errichtung"
+        },
+        {
+          "documentIdentifier" : "BJNR256300013BJNE000203119",
+          "paragraph" : "§ 2",
+          "title" : "Aufgaben"
+        },
+        {
+          "documentIdentifier" : "BJNR256300013BJNE000303119",
+          "paragraph" : "§ 3",
+          "title" : "Aufsicht"
+        },
+        {
+          "documentIdentifier" : "BJNR256300013BJNE000401118",
+          "paragraph" : "§ 4",
+          "title" : "Übergangsvorschriften"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

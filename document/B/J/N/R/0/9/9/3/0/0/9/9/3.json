@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR099300993",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR099300993Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR099300993BJNE000205125",
+          "paragraph" : "§ 1",
+          "title" : "Gesetzliche Handelsklassen, Einstufung in Kategorien und Kennzeichnung"
+        },
+        {
+          "documentIdentifier" : "BJNR099300993BJNE000301377",
+          "paragraph" : "§ 2",
+          "title" : "Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR099300993BJNE000600125",
+          "paragraph" : "§ 2a",
+          "title" : "Überwachung, Duldungs- und Auskunftspflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR099300993BJNE000400307",
+          "paragraph" : "§ 3",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR401100001",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR401100001Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR401100001BJNE000100305",
+          "paragraph" : "§ 1",
+          "title" : "Beitrag in der Alterssicherung der Landwirte"
+        },
+        {
+          "documentIdentifier" : "BJNR401100001BJNE000200305",
+          "paragraph" : "§ 2",
+          "title" : "Beitragszuschuss in der Alterssicherung der Landwirte"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR368500005",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR368500005Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR368500005BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Zweck der Statistik,\nAnordnung als Bundesstatistik"
+        },
+        {
+          "documentIdentifier" : "BJNR368500005BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Art der Erhebung,\nErhebungseinheiten"
+        },
+        {
+          "documentIdentifier" : "BJNR368500005BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Mindestalter"
+        },
+        {
+          "documentIdentifier" : "BJNR368500005BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Hilfsmerkmale"
+        },
+        {
+          "documentIdentifier" : "BJNR368500005BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Freiwilligkeit der Auskunftserteilung"
+        },
+        {
+          "documentIdentifier" : "BJNR368500005BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Übermittlungsregelung"
+        },
+        {
+          "documentIdentifier" : "BJNR368500005BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

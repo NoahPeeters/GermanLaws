@@ -1,0 +1,288 @@
+{
+  "documentIdentifier" : "BJNR273000002",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR273000002BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR273000002BJNE000101310",
+          "paragraph" : "§ 1",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR273000002BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Prüfungs- und Nachweispflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR273000002BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Bekanntmachung der Vorschriften"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeines"
+    },
+    {
+      "documentIdentifier" : "BJNR273000002BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR273000002BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Gaststätten"
+        },
+        {
+          "documentIdentifier" : "BJNR273000002BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Tanzveranstaltungen"
+        },
+        {
+          "documentIdentifier" : "BJNR273000002BJNE000600000",
+          "paragraph" : "§ 6",
+          "title" : "Spielhallen, Glücksspiele"
+        },
+        {
+          "documentIdentifier" : "BJNR273000002BJNE000700000",
+          "paragraph" : "§ 7",
+          "title" : "Jugendgefährdende Veranstaltungen und Betriebe"
+        },
+        {
+          "documentIdentifier" : "BJNR273000002BJNE000800000",
+          "paragraph" : "§ 8",
+          "title" : "Jugendgefährdende Orte"
+        },
+        {
+          "documentIdentifier" : "BJNR273000002BJNE000902116",
+          "paragraph" : "§ 9",
+          "title" : "Alkoholische Getränke"
+        },
+        {
+          "documentIdentifier" : "BJNR273000002BJNE001003377",
+          "paragraph" : "§ 10",
+          "title" : "Rauchen in der Öffentlichkeit, Tabakwaren"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Jugendschutz in der Öffentlichkeit"
+    },
+    {
+      "documentIdentifier" : "BJNR273000002BJNG000300000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR273000002BJNG000400000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR273000002BJNE001100000",
+              "paragraph" : "§ 11",
+              "title" : "Filmveranstaltungen"
+            },
+            {
+              "documentIdentifier" : "BJNR273000002BJNE001201310",
+              "paragraph" : "§ 12",
+              "title" : "Bildträger mit Filmen oder Spielen"
+            },
+            {
+              "documentIdentifier" : "BJNR273000002BJNE001301310",
+              "paragraph" : "§ 13",
+              "title" : "Bildschirmspielgeräte"
+            },
+            {
+              "documentIdentifier" : "BJNR273000002BJNE001400000",
+              "paragraph" : "§ 14",
+              "title" : "Kennzeichnung von Filmen und Film- und Spielprogrammen"
+            },
+            {
+              "documentIdentifier" : "BJNR273000002BJNE001503310",
+              "paragraph" : "§ 15",
+              "title" : "Jugendgefährdende Trägermedien"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Trägermedien"
+        },
+        {
+          "documentIdentifier" : "BJNR273000002BJNG000500000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR273000002BJNE001600000",
+              "paragraph" : "§ 16",
+              "title" : "Sonderregelung für Telemedien"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Telemedien"
+        }
+      ],
+      "title" : "Jugendschutz im Bereich der Medien"
+    },
+    {
+      "documentIdentifier" : "BJNR273000002BJNG000600000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR273000002BJNE001700000",
+          "paragraph" : "§ 17",
+          "title" : "Name und Zuständigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR273000002BJNE001803310",
+          "paragraph" : "§ 18",
+          "title" : "Liste jugendgefährdender Medien"
+        },
+        {
+          "documentIdentifier" : "BJNR273000002BJNE001900000",
+          "paragraph" : "§ 19",
+          "title" : "Personelle Besetzung"
+        },
+        {
+          "documentIdentifier" : "BJNR273000002BJNE002000000",
+          "paragraph" : "§ 20",
+          "title" : "Vorschlagsberechtigte Verbände"
+        },
+        {
+          "documentIdentifier" : "BJNR273000002BJNE002105301",
+          "paragraph" : "§ 21",
+          "title" : "Verfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR273000002BJNE002200000",
+          "paragraph" : "§ 22",
+          "title" : "Aufnahme von periodischen Trägermedien und Telemedien"
+        },
+        {
+          "documentIdentifier" : "BJNR273000002BJNE002300000",
+          "paragraph" : "§ 23",
+          "title" : "Vereinfachtes Verfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR273000002BJNE002400000",
+          "paragraph" : "§ 24",
+          "title" : "Führung der Liste jugendgefährdender Medien"
+        },
+        {
+          "documentIdentifier" : "BJNR273000002BJNE002500000",
+          "paragraph" : "§ 25",
+          "title" : "Rechtsweg"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Bundesprüfstelle für jugendgefährdende Medien"
+    },
+    {
+      "documentIdentifier" : "BJNR273000002BJNG000700000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR273000002BJNE002600000",
+          "paragraph" : "§ 26",
+          "title" : "Verordnungsermächtigung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Verordnungsermächtigung"
+    },
+    {
+      "documentIdentifier" : "BJNR273000002BJNG000800000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR273000002BJNE002700000",
+          "paragraph" : "§ 27",
+          "title" : "Strafvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR273000002BJNE002805377",
+          "paragraph" : "§ 28",
+          "title" : "Bußgeldvorschriften"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Ahndung von Verstößen"
+    },
+    {
+      "documentIdentifier" : "BJNR273000002BJNG000900000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR273000002BJNE002900000",
+          "paragraph" : "§ 29",
+          "title" : "Übergangsvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR273000002BJNE003200310",
+          "paragraph" : "§ 29a",
+          "title" : "Weitere Übergangsregelung"
+        },
+        {
+          "documentIdentifier" : "BJNR273000002BJNE003000000",
+          "paragraph" : "§ 30",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          9
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussvorschriften"
+    }
+  ]
+}

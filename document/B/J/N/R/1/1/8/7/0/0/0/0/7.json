@@ -1,0 +1,102 @@
+{
+  "documentIdentifier" : "BJNR118700007",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR118700007BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR118700007BJNE000300000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR118700007BJNE000400000",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR118700007BJNE000500000",
+          "paragraph" : "§ 3",
+          "title" : "Verfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR118700007BJNE000600000",
+          "paragraph" : "§ 4",
+          "title" : "Anschlusszusage und Netzanschlussvertrag"
+        },
+        {
+          "documentIdentifier" : "BJNR118700007BJNE000700000",
+          "paragraph" : "§ 5",
+          "title" : "Informationspflichten des Netzbetreibers"
+        },
+        {
+          "documentIdentifier" : "BJNR118700007BJNE000800000",
+          "paragraph" : "§ 6",
+          "title" : "Netzanschluss"
+        },
+        {
+          "documentIdentifier" : "BJNR118700007BJNE000900000",
+          "paragraph" : "§ 7",
+          "title" : "Netzzugang bei Engpässen"
+        },
+        {
+          "documentIdentifier" : "BJNR118700007BJNE001000000",
+          "paragraph" : "§ 8",
+          "title" : "Kostentragung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR118700007BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR118700007BJNE001100000",
+          "paragraph" : "§ 9",
+          "title" : "Kraftwerksanschluss-Register"
+        },
+        {
+          "documentIdentifier" : "BJNR118700007BJNE001200000",
+          "paragraph" : "§ 10",
+          "title" : "Festlegungen der Regulierungsbehörde"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Sonstige Bestimmungen"
+    },
+    {
+      "documentIdentifier" : "BJNR118700007BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR118700007BJNE001300000",
+          "paragraph" : "§ 11",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussvorschriften"
+    }
+  ]
+}

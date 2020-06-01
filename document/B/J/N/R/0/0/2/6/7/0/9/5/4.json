@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR002670954",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR002670954Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR002670954BJNE000300306",
+          "paragraph" : "§ 2",
+          "title" : "Bestimmung des Stichtags"
+        },
+        {
+          "documentIdentifier" : "BJNR002670954BJNE000400306",
+          "paragraph" : "§ 3",
+          "title" : "Land Berlin"
+        },
+        {
+          "documentIdentifier" : "BJNR002670954BJNE000500306",
+          "paragraph" : "§ 4",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "documentIdentifier" : "BJNR317600007",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR317600007BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR317600007BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Umfang und Zweck"
+        },
+        {
+          "documentIdentifier" : "BJNR317600007BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeines"
+    },
+    {
+      "documentIdentifier" : "BJNR317600007BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR317600007BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Schätzungsrahmen"
+        },
+        {
+          "documentIdentifier" : "BJNR317600007BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Wertzahlen"
+        },
+        {
+          "documentIdentifier" : "BJNR317600007BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Klassen-, Klassenabschnitts- und Sonderflächen der Bodenschätzung"
+        },
+        {
+          "documentIdentifier" : "BJNR317600007BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Musterstücke"
+        },
+        {
+          "documentIdentifier" : "BJNR317600007BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Vergleichsstücke"
+        },
+        {
+          "documentIdentifier" : "BJNR317600007BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Bodenprofile"
+        },
+        {
+          "documentIdentifier" : "BJNR317600007BJNE001000000",
+          "paragraph" : "§ 9",
+          "title" : "Ertragsmesszahl"
+        },
+        {
+          "documentIdentifier" : "BJNR317600007BJNE001100000",
+          "paragraph" : "§ 10",
+          "title" : "Schätzungsbücher und -karten"
+        },
+        {
+          "documentIdentifier" : "BJNR317600007BJNE001200000",
+          "paragraph" : "§ 11",
+          "title" : "Nachschätzung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Besondere Schätzungsvorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR317600007BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR317600007BJNE001300000",
+          "paragraph" : "§ 12",
+          "title" : "Anwendung der Abgabenordnung"
+        },
+        {
+          "documentIdentifier" : "BJNR317600007BJNE001400000",
+          "paragraph" : "§ 13",
+          "title" : "Offenlegung der Bodenschätzungsergebnisse"
+        },
+        {
+          "documentIdentifier" : "BJNR317600007BJNE001500000",
+          "paragraph" : "§ 14",
+          "title" : "Übernahme in das Liegenschaftskataster"
+        },
+        {
+          "documentIdentifier" : "BJNR317600007BJNE001600000",
+          "paragraph" : "§ 15",
+          "title" : "Betreten von Grundstücken"
+        },
+        {
+          "documentIdentifier" : "BJNR317600007BJNE001700000",
+          "paragraph" : "§ 16",
+          "title" : "Aufgaben anderer Behörden"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Verfahrensvorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR317600007BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR317600007BJNE001802123",
+          "paragraph" : "§ 17",
+          "title" : "Schätzungsbeirat"
+        },
+        {
+          "documentIdentifier" : "BJNR317600007BJNE001900000",
+          "paragraph" : "§ 18",
+          "title" : "Schätzungsausschüsse"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schätzungsbeirat, Schätzungsausschüsse"
+    },
+    {
+      "documentIdentifier" : "BJNR317600007BJNG000500000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR317600007BJNE002000000",
+          "paragraph" : "§ 19",
+          "title" : "Nutzung der Ergebnisse der Bodenschätzung durch andere Behörden"
+        },
+        {
+          "documentIdentifier" : "BJNR317600007BJNE002100000",
+          "paragraph" : "§ 20",
+          "title" : "Fortgeltung bisherigen Rechts"
+        },
+        {
+          "documentIdentifier" : "BJNR317600007BJNE002200000",
+          "paragraph" : "Anlage 1",
+          "title" : "Ackerschätzungsrahmen"
+        },
+        {
+          "documentIdentifier" : "BJNR317600007BJNE002300000",
+          "paragraph" : "Anlage 2",
+          "title" : "Grünlandschätzungsrahmen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussvorschriften"
+    }
+  ]
+}

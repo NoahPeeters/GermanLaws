@@ -1,0 +1,180 @@
+{
+  "documentIdentifier" : "BJNR298200012",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR298200012BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR298200012BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR298200012BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR298200012BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Allgemeine Grundsätze"
+        },
+        {
+          "documentIdentifier" : "BJNR298200012BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Sachkunde"
+        },
+        {
+          "documentIdentifier" : "BJNR298200012BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Treiben und Befördern von Tieren innerhalb eines Schlachthofes"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR298200012BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR298200012BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Anforderungen an die Ausstattung"
+        },
+        {
+          "documentIdentifier" : "BJNR298200012BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Allgemeine Vorschriften über das Betreuen von Tieren"
+        },
+        {
+          "documentIdentifier" : "BJNR298200012BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Betreuen von Tieren, die sich nicht in Behältnissen befinden"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Vorschriften über Schlachthöfe"
+    },
+    {
+      "documentIdentifier" : "BJNR298200012BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR298200012BJNE001000000",
+          "paragraph" : "§ 9",
+          "title" : "Aufbewahren von Fischen"
+        },
+        {
+          "documentIdentifier" : "BJNR298200012BJNE001100000",
+          "paragraph" : "§ 10",
+          "title" : "Aufbewahren von Krebstieren"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Vorschriften über das Aufbewahren von Fischen und Krebstieren"
+    },
+    {
+      "documentIdentifier" : "BJNR298200012BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR298200012BJNE001200000",
+          "paragraph" : "§ 11",
+          "title" : "Ruhigstellen warmblütiger Tiere"
+        },
+        {
+          "documentIdentifier" : "BJNR298200012BJNE001300000",
+          "paragraph" : "§ 12",
+          "title" : "Betäuben, Schlachten und Töten"
+        },
+        {
+          "documentIdentifier" : "BJNR298200012BJNE001400000",
+          "paragraph" : "§ 13",
+          "title" : "Behördliche Zulassung weiterer Betäubungs- oder Tötungsverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR298200012BJNE001500000",
+          "paragraph" : "§ 14",
+          "title" : "Aufbewahrungs- und Vorlagepflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR298200012BJNE001600000",
+          "paragraph" : "§ 15",
+          "title" : "Entsprechende Anwendung von EU-Vorschriften"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Vorschriften über das Ruhigstellen, Betäuben, Schlachten und Töten von Tieren"
+    },
+    {
+      "documentIdentifier" : "BJNR298200012BJNG000500000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR298200012BJNE001700000",
+          "paragraph" : "§ 16",
+          "title" : "Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR298200012BJNE001800000",
+          "paragraph" : "§ 17",
+          "title" : "Übergangsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR298200012BJNE001900000",
+          "paragraph" : "§ 18",
+          "title" : "Aufheben von Vorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR298200012BJNE002000000",
+          "paragraph" : "§ 19",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR298200012BJNE002200000",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 12 Absatz 3 und 10)"
+        },
+        {
+          "documentIdentifier" : "BJNR298200012BJNE002300000",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 12 Absatz 6)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Ordnungswidrigkeiten und Schlussbestimmungen"
+    }
+  ]
+}

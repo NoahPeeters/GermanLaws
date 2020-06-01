@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR092300013",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR092300013Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR092300013BJNE000201360",
+          "paragraph" : "§ 1",
+          "title" : "Gebühren"
+        },
+        {
+          "documentIdentifier" : "BJNR092300013BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Gebührenpflicht, Gebührensätze"
+        },
+        {
+          "documentIdentifier" : "BJNR092300013BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR092300013BJNE000600000",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 2)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

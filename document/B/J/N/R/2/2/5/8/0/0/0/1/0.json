@@ -1,0 +1,69 @@
+{
+  "documentIdentifier" : "BJNR225800010",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR225800010Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR225800010BJNE000101311",
+          "paragraph" : "§ 1",
+          "title" : "Grundsatz"
+        },
+        {
+          "documentIdentifier" : "BJNR225800010BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Übernahme"
+        },
+        {
+          "documentIdentifier" : "BJNR225800010BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Weiterverarbeitung"
+        },
+        {
+          "documentIdentifier" : "BJNR225800010BJNE000401311",
+          "paragraph" : "§ 4",
+          "title" : "Mitteilungswesen im Übergangszeitraum"
+        },
+        {
+          "documentIdentifier" : "BJNR225800010BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Vernichtung"
+        },
+        {
+          "documentIdentifier" : "BJNR225800010BJNE000600000",
+          "paragraph" : "§ 6",
+          "title" : "Protokollierung"
+        },
+        {
+          "documentIdentifier" : "BJNR225800010BJNE000700000",
+          "paragraph" : "§ 7",
+          "title" : "Auftragnehmer"
+        },
+        {
+          "documentIdentifier" : "BJNR225800010BJNE000800000",
+          "paragraph" : "§ 8",
+          "title" : "Datenschutz und Datensicherheit"
+        },
+        {
+          "documentIdentifier" : "BJNR225800010BJNE001000308",
+          "paragraph" : "§ 9",
+          "title" : "Überführung sonstiger Daten"
+        },
+        {
+          "documentIdentifier" : "BJNR225800010BJNE000901308",
+          "paragraph" : "§ 10",
+          "title" : "Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

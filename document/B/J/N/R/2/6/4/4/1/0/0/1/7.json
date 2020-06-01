@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR264410017",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR264410017Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR264410017BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR264410017BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "POP-haltige Abfälle"
+        },
+        {
+          "documentIdentifier" : "BJNR264410017BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Getrennte Sammlung und Beförderung; Vermischungsverbot"
+        },
+        {
+          "documentIdentifier" : "BJNR264410017BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Nachweispflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR264410017BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Registerpflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR264410017BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Ordnungswidrigkeiten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

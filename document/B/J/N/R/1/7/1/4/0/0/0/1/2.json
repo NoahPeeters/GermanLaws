@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR171400012",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR171400012Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR171400012BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Dienstbereiche der Truppendienstgerichte"
+        },
+        {
+          "documentIdentifier" : "BJNR171400012BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Auswärtige Truppendienstkammern"
+        },
+        {
+          "documentIdentifier" : "BJNR171400012BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Übergangsregelung"
+        },
+        {
+          "documentIdentifier" : "BJNR171400012BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Auflösung der bestehenden auswärtigen Truppendienstkammern"
+        },
+        {
+          "documentIdentifier" : "BJNR171400012BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

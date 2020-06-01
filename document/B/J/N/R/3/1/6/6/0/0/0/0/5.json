@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR316600005",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR316600005Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR316600005BJNE000203116",
+          "paragraph" : "§ 1",
+          "title" : "Gebühren und Auslagen"
+        },
+        {
+          "documentIdentifier" : "BJNR316600005BJNE000303116",
+          "paragraph" : "§ 2",
+          "title" : "Widerspruch"
+        },
+        {
+          "documentIdentifier" : "BJNR316600005BJNE000402116",
+          "paragraph" : "§ 3",
+          "title" : "Widerruf und Rücknahme eines Verwaltungsaktes, Ablehnung und Zurücknahme von Anträgen"
+        },
+        {
+          "documentIdentifier" : "BJNR316600005BJNE000503116",
+          "paragraph" : "§ 4",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR316600005BJNE000603116",
+          "paragraph" : "Anhang",
+          "title" : "(zu § 1 Abs. 1)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

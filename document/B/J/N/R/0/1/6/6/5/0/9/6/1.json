@@ -1,0 +1,851 @@
+{
+  "documentIdentifier" : "BJNR016650961",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR016650961BJNG000100666",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR016650961BJNG000200666",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR016650961BJNE001900666",
+              "paragraph" : "§ 1",
+              "title" : "Berufsrichter und ehrenamtliche Richter"
+            },
+            {
+              "documentIdentifier" : "BJNR016650961BJNE002000666",
+              "paragraph" : "§ 2",
+              "title" : "Geltung für Berufsrichter"
+            },
+            {
+              "documentIdentifier" : "BJNR016650961BJNE002100666",
+              "paragraph" : "§ 3",
+              "title" : "Dienstherr"
+            },
+            {
+              "documentIdentifier" : "BJNR016650961BJNE002200666",
+              "paragraph" : "§ 4",
+              "title" : "Unvereinbare Aufgaben"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Einleitende Vorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR016650961BJNG000300666",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR016650961BJNE002302310",
+              "paragraph" : "§ 5",
+              "title" : "Befähigung zum Richteramt"
+            },
+            {
+              "documentIdentifier" : "BJNR016650961BJNE002405125",
+              "paragraph" : "§ 5a",
+              "title" : "Studium"
+            },
+            {
+              "documentIdentifier" : "BJNR016650961BJNE002504310",
+              "paragraph" : "§ 5b",
+              "title" : "Vorbereitungsdienst"
+            },
+            {
+              "documentIdentifier" : "BJNR016650961BJNE002601306",
+              "paragraph" : "§ 5c",
+              "title" : "Anrechnung einer Ausbildung für den gehobenen Dienst"
+            },
+            {
+              "documentIdentifier" : "BJNR016650961BJNE002706125",
+              "paragraph" : "§ 5d",
+              "title" : "Prüfungen"
+            },
+            {
+              "documentIdentifier" : "BJNR016650961BJNE002801310",
+              "paragraph" : "§ 6",
+              "title" : "Anerkennung von Prüfungen"
+            },
+            {
+              "documentIdentifier" : "BJNR016650961BJNE002900666",
+              "paragraph" : "§ 7",
+              "title" : "Universitätsprofessoren"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Befähigung zum Richteramt"
+        },
+        {
+          "documentIdentifier" : "BJNR016650961BJNG000400666",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR016650961BJNE003000666",
+              "paragraph" : "§ 8",
+              "title" : "Rechtsformen des Richterdienstes"
+            },
+            {
+              "documentIdentifier" : "BJNR016650961BJNE003101310",
+              "paragraph" : "§ 9",
+              "title" : "Voraussetzungen für die Berufungen"
+            },
+            {
+              "documentIdentifier" : "BJNR016650961BJNE003200666",
+              "paragraph" : "§ 10",
+              "title" : "Ernennung auf Lebenszeit"
+            },
+            {
+              "documentIdentifier" : "BJNR016650961BJNE003300666",
+              "paragraph" : "§ 11",
+              "title" : "Ernennung auf Zeit"
+            },
+            {
+              "documentIdentifier" : "BJNR016650961BJNE003400666",
+              "paragraph" : "§ 12",
+              "title" : "Ernennung auf Probe"
+            },
+            {
+              "documentIdentifier" : "BJNR016650961BJNE003500666",
+              "paragraph" : "§ 13",
+              "title" : "Verwendung eines Richters auf Probe"
+            },
+            {
+              "documentIdentifier" : "BJNR016650961BJNE003600666",
+              "paragraph" : "§ 14",
+              "title" : "Ernennung zum Richter kraft Auftrags"
+            },
+            {
+              "documentIdentifier" : "BJNR016650961BJNE003700666",
+              "paragraph" : "§ 15",
+              "title" : "Wirkungen auf das Beamtenverhältnis"
+            },
+            {
+              "documentIdentifier" : "BJNR016650961BJNE003800666",
+              "paragraph" : "§ 16",
+              "title" : "Dauer der Verwendung als Richter kraft Auftrags"
+            },
+            {
+              "documentIdentifier" : "BJNR016650961BJNE003900666",
+              "paragraph" : "§ 17",
+              "title" : "Ernennung durch Urkunde"
+            },
+            {
+              "documentIdentifier" : "BJNR016650961BJNE004101309",
+              "paragraph" : "§ 18",
+              "title" : "Nichtigkeit der Ernennung"
+            },
+            {
+              "documentIdentifier" : "BJNR016650961BJNE004201309",
+              "paragraph" : "§ 19",
+              "title" : "Rücknahme der Ernennung"
+            },
+            {
+              "documentIdentifier" : "BJNR016650961BJNE004300666",
+              "paragraph" : "§ 19a",
+              "title" : "Amtsbezeichnungen"
+            },
+            {
+              "documentIdentifier" : "BJNR016650961BJNE004400666",
+              "paragraph" : "§ 20",
+              "title" : "Allgemeines Dienstalter"
+            },
+            {
+              "documentIdentifier" : "BJNR016650961BJNE004501309",
+              "paragraph" : "§ 21",
+              "title" : "Entlassung aus dem Dienstverhältnis"
+            },
+            {
+              "documentIdentifier" : "BJNR016650961BJNE004601301",
+              "paragraph" : "§ 22",
+              "title" : "Entlassung eines Richters auf Probe"
+            },
+            {
+              "documentIdentifier" : "BJNR016650961BJNE004700666",
+              "paragraph" : "§ 23",
+              "title" : "Entlassung eines Richters kraft Auftrags"
+            },
+            {
+              "documentIdentifier" : "BJNR016650961BJNE004800666",
+              "paragraph" : "§ 24",
+              "title" : "Beendigung des Dienstverhältnisses durch richterliche\nEntscheidung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Richterverhältnis"
+        },
+        {
+          "documentIdentifier" : "BJNR016650961BJNG000500666",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR016650961BJNE004900666",
+              "paragraph" : "§ 25",
+              "title" : "Grundsatz"
+            },
+            {
+              "documentIdentifier" : "BJNR016650961BJNE005000666",
+              "paragraph" : "§ 26",
+              "title" : "Dienstaufsicht"
+            },
+            {
+              "documentIdentifier" : "BJNR016650961BJNE005100666",
+              "paragraph" : "§ 27",
+              "title" : "Übertragung eines Richteramts"
+            },
+            {
+              "documentIdentifier" : "BJNR016650961BJNE005200666",
+              "paragraph" : "§ 28",
+              "title" : "Besetzung der Gerichte mit Richtern auf Lebenszeit"
+            },
+            {
+              "documentIdentifier" : "BJNR016650961BJNE014000305",
+              "paragraph" : "§ 29",
+              "title" : "Besetzung der Gerichte mit Richtern auf Probe, Richtern\nkraft Auftrags und abgeordneten Richtern"
+            },
+            {
+              "documentIdentifier" : "BJNR016650961BJNE005401301",
+              "paragraph" : "§ 30",
+              "title" : "Versetzung und Amtsenthebung"
+            },
+            {
+              "documentIdentifier" : "BJNR016650961BJNE005500666",
+              "paragraph" : "§ 31",
+              "title" : "Versetzung im Interesse der Rechtspflege"
+            },
+            {
+              "documentIdentifier" : "BJNR016650961BJNE005600666",
+              "paragraph" : "§ 32",
+              "title" : "Veränderung der Gerichtsorganisation"
+            },
+            {
+              "documentIdentifier" : "BJNR016650961BJNE005700666",
+              "paragraph" : "§ 33",
+              "title" : "Belassung des vollen Gehalts"
+            },
+            {
+              "documentIdentifier" : "BJNR016650961BJNE005801307",
+              "paragraph" : "§ 34",
+              "title" : "Versetzung in den Ruhestand wegen Dienstunfähigkeit"
+            },
+            {
+              "documentIdentifier" : "BJNR016650961BJNE005900666",
+              "paragraph" : "§ 35",
+              "title" : "Vorläufige Untersagung der Amtsgeschäfte"
+            },
+            {
+              "documentIdentifier" : "BJNR016650961BJNE006000666",
+              "paragraph" : "§ 36",
+              "title" : "Mitgliedschaft in einer Volksvertretung oder Regierung"
+            },
+            {
+              "documentIdentifier" : "BJNR016650961BJNE006100666",
+              "paragraph" : "§ 37",
+              "title" : "Abordnung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Unabhängigkeit des Richters"
+        },
+        {
+          "documentIdentifier" : "BJNR016650961BJNG000600666",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR016650961BJNE006200666",
+              "paragraph" : "§ 38",
+              "title" : "Richtereid"
+            },
+            {
+              "documentIdentifier" : "BJNR016650961BJNE006300666",
+              "paragraph" : "§ 39",
+              "title" : "Wahrung der Unabhängigkeit"
+            },
+            {
+              "documentIdentifier" : "BJNR016650961BJNE006400666",
+              "paragraph" : "§ 40",
+              "title" : "Schiedsrichter und Schlichter"
+            },
+            {
+              "documentIdentifier" : "BJNR016650961BJNE006500666",
+              "paragraph" : "§ 41",
+              "title" : "Rechtsgutachten"
+            },
+            {
+              "documentIdentifier" : "BJNR016650961BJNE006600666",
+              "paragraph" : "§ 42",
+              "title" : "Nebentätigkeiten in der Rechtspflege"
+            },
+            {
+              "documentIdentifier" : "BJNR016650961BJNE006700666",
+              "paragraph" : "§ 43",
+              "title" : "Beratungsgeheimnis"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              5
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Besondere Pflichten des Richters"
+        },
+        {
+          "documentIdentifier" : "BJNR016650961BJNG000700666",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR016650961BJNE006801301",
+              "paragraph" : "§ 44",
+              "title" : "Bestellung und Abberufung des ehrenamtlichen Richters"
+            },
+            {
+              "documentIdentifier" : "BJNR016650961BJNE014700301",
+              "paragraph" : "§ 44a",
+              "title" : "Hindernisse für Berufungen als ehrenamtliche Richter"
+            },
+            {
+              "documentIdentifier" : "BJNR016650961BJNE014800301",
+              "paragraph" : "§ 44b",
+              "title" : "Abberufung von ehrenamtlichen Richtern"
+            },
+            {
+              "documentIdentifier" : "BJNR016650961BJNE006903311",
+              "paragraph" : "§ 45",
+              "title" : "Unabhängigkeit und besondere Pflichten des ehrenamtlichen Richters"
+            },
+            {
+              "documentIdentifier" : "BJNR016650961BJNE007000666",
+              "paragraph" : "§ 45a",
+              "title" : "Bezeichnungen der ehrenamtlichen Richter"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              6
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Ehrenamtliche Richter"
+        }
+      ],
+      "title" : "Richteramt in Bund und Ländern"
+    },
+    {
+      "documentIdentifier" : "BJNR016650961BJNG000800666",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR016650961BJNG000900666",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR016650961BJNE007100666",
+              "paragraph" : "§ 46",
+              "title" : "Geltung des Bundesbeamtenrechts"
+            },
+            {
+              "documentIdentifier" : "BJNR016650961BJNE007201311",
+              "paragraph" : "§ 47",
+              "title" : "Bundespersonalausschuß in Angelegenheiten der Richter"
+            },
+            {
+              "documentIdentifier" : "BJNR016650961BJNE007306311",
+              "paragraph" : "§ 48",
+              "title" : "Eintritt in den Ruhestand"
+            },
+            {
+              "documentIdentifier" : "BJNR016650961BJNE007408307",
+              "paragraph" : "§ 48a",
+              "title" : "Teilzeitbeschäftigung und Beurlaubung aus familiären Gründen"
+            },
+            {
+              "documentIdentifier" : "BJNR016650961BJNE013906160",
+              "paragraph" : "§ 48b",
+              "title" : "Beurlaubung aus Arbeitsmarktgründen"
+            },
+            {
+              "documentIdentifier" : "BJNR016650961BJNE014200307",
+              "paragraph" : "§ 48c",
+              "title" : "Teilzeitbeschäftigung"
+            },
+            {
+              "documentIdentifier" : "BJNR016650961BJNE014301307",
+              "paragraph" : "§ 48d",
+              "title" : "Teilzeitbeschäftigung, Beurlaubung und berufliches Fortkommen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Allgemeine Vorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR016650961BJNG001000666",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR016650961BJNE007500666",
+              "paragraph" : "§ 49",
+              "title" : "Richterrat und Präsidialrat"
+            },
+            {
+              "documentIdentifier" : "BJNR016650961BJNE007601301",
+              "paragraph" : "§ 50",
+              "title" : "Zusammensetzung des Richterrats"
+            },
+            {
+              "documentIdentifier" : "BJNR016650961BJNE007700666",
+              "paragraph" : "§ 51",
+              "title" : "Wahl des Richterrats"
+            },
+            {
+              "documentIdentifier" : "BJNR016650961BJNE007800666",
+              "paragraph" : "§ 52",
+              "title" : "Aufgaben des Richterrats"
+            },
+            {
+              "documentIdentifier" : "BJNR016650961BJNE007900666",
+              "paragraph" : "§ 53",
+              "title" : "Gemeinsame Aufgaben von Richterrat und Personalvertretung"
+            },
+            {
+              "documentIdentifier" : "BJNR016650961BJNE008001301",
+              "paragraph" : "§ 54",
+              "title" : "Bildung des Präsidialrats"
+            },
+            {
+              "documentIdentifier" : "BJNR016650961BJNE008100666",
+              "paragraph" : "§ 55",
+              "title" : "Aufgabe des Präsidialrats"
+            },
+            {
+              "documentIdentifier" : "BJNR016650961BJNE008200666",
+              "paragraph" : "§ 56",
+              "title" : "Einleitung der Beteiligung"
+            },
+            {
+              "documentIdentifier" : "BJNR016650961BJNE008300666",
+              "paragraph" : "§ 57",
+              "title" : "Stellungnahme des Präsidialrats"
+            },
+            {
+              "documentIdentifier" : "BJNR016650961BJNE008400666",
+              "paragraph" : "§ 58",
+              "title" : "Geschäftsführung, Rechtsstellung der Mitglieder"
+            },
+            {
+              "documentIdentifier" : "BJNR016650961BJNE008500666",
+              "paragraph" : "§ 59",
+              "title" : "Abgeordnete Richter"
+            },
+            {
+              "documentIdentifier" : "BJNR016650961BJNE008600666",
+              "paragraph" : "§ 60",
+              "title" : "Rechtsweg in Angelegenheiten der Richtervertretungen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Richtervertretungen"
+        },
+        {
+          "documentIdentifier" : "BJNR016650961BJNG001100666",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR016650961BJNE008702301",
+              "paragraph" : "§ 61",
+              "title" : "Verfassung des Dienstgerichts"
+            },
+            {
+              "documentIdentifier" : "BJNR016650961BJNE008802307",
+              "paragraph" : "§ 62",
+              "title" : "Zuständigkeit des Dienstgerichts"
+            },
+            {
+              "documentIdentifier" : "BJNR016650961BJNE008902160",
+              "paragraph" : "§ 63",
+              "title" : "Disziplinarverfahren"
+            },
+            {
+              "documentIdentifier" : "BJNR016650961BJNE009000666",
+              "paragraph" : "§ 64",
+              "title" : "Disziplinarmaßnahmen"
+            },
+            {
+              "documentIdentifier" : "BJNR016650961BJNE009101301",
+              "paragraph" : "§ 65",
+              "title" : "Versetzungsverfahren"
+            },
+            {
+              "documentIdentifier" : "BJNR016650961BJNE009201301",
+              "paragraph" : "§ 66",
+              "title" : "Prüfungsverfahren"
+            },
+            {
+              "documentIdentifier" : "BJNR016650961BJNE009300666",
+              "paragraph" : "§ 67",
+              "title" : "Urteilsformel im Prüfungsverfahren"
+            },
+            {
+              "documentIdentifier" : "BJNR016650961BJNE009400666",
+              "paragraph" : "§ 68",
+              "title" : "Aussetzung von Verfahren"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Dienstgericht des Bundes"
+        },
+        {
+          "documentIdentifier" : "BJNR016650961BJNG001200666",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR016650961BJNE009500666",
+              "paragraph" : "§ 69",
+              "title" : "Beschränkte Geltung dieses Gesetzes"
+            },
+            {
+              "documentIdentifier" : "BJNR016650961BJNE009601306",
+              "paragraph" : "§ 70",
+              "title" : "Bundesrichter als Richter des Bundesverfassungsgerichts"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Richter des Bundesverfassungsgerichts"
+        }
+      ],
+      "title" : "Richter im Bundesdienst"
+    },
+    {
+      "documentIdentifier" : "BJNR016650961BJNG001300666",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR016650961BJNE009701160",
+          "paragraph" : "§ 71",
+          "title" : "Geltung des Beamtenstatusgesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR016650961BJNE009800666",
+          "paragraph" : "§ 71a",
+          "title" : "Anwendung des Beamtenversorgungsgesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR016650961BJNE009900666",
+          "paragraph" : "§ 72",
+          "title" : "Bildung des Richterrats"
+        },
+        {
+          "documentIdentifier" : "BJNR016650961BJNE010000666",
+          "paragraph" : "§ 73",
+          "title" : "Aufgaben des Richterrats"
+        },
+        {
+          "documentIdentifier" : "BJNR016650961BJNE010100666",
+          "paragraph" : "§ 74",
+          "title" : "Bildung des Präsidialrats"
+        },
+        {
+          "documentIdentifier" : "BJNR016650961BJNE010200666",
+          "paragraph" : "§ 75",
+          "title" : "Aufgaben des Präsidialrats"
+        },
+        {
+          "documentIdentifier" : "BJNR016650961BJNE010302160",
+          "paragraph" : "§ 76",
+          "title" : "Altersgrenzen"
+        },
+        {
+          "documentIdentifier" : "BJNR016650961BJNE010409160",
+          "paragraph" : "§ 76a",
+          "title" : "Teilzeitbeschäftigung"
+        },
+        {
+          "documentIdentifier" : "BJNR016650961BJNE010501308",
+          "paragraph" : "§ 77",
+          "title" : "Errichtung von Dienstgerichten"
+        },
+        {
+          "documentIdentifier" : "BJNR016650961BJNE010604160",
+          "paragraph" : "§ 78",
+          "title" : "Zuständigkeit des Dienstgerichts"
+        },
+        {
+          "documentIdentifier" : "BJNR016650961BJNE010700666",
+          "paragraph" : "§ 79",
+          "title" : "Rechtszug"
+        },
+        {
+          "documentIdentifier" : "BJNR016650961BJNE010801301",
+          "paragraph" : "§ 80",
+          "title" : "Revision im Versetzungsverfahren und im Prüfungsverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR016650961BJNE010900666",
+          "paragraph" : "§ 81",
+          "title" : "Zulässigkeit der Revision im Disziplinarverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR016650961BJNE011001301",
+          "paragraph" : "§ 82",
+          "title" : "Revisionsverfahren im Disziplinarverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR016650961BJNE011101160",
+          "paragraph" : "§ 83",
+          "title" : "Verfahrensvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR016650961BJNE011200666",
+          "paragraph" : "§ 84",
+          "title" : "Verfassungsrichter"
+        },
+        {
+          "documentIdentifier" : "BJNR016650961BJNE011300666",
+          "paragraph" : "(XXXX) §§ 85 bis 103",
+          "title" : "(Änderungs- und Aufhebungsvorschriften)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Richter im Landesdienst"
+    },
+    {
+      "documentIdentifier" : "BJNR016650961BJNG001400666",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR016650961BJNG001500666",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR016650961BJNE011400666",
+              "paragraph" : "§ 104",
+              "title" : "Verweisung auf aufgehobene Vorschriften"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Änderung von Bundesrecht"
+        },
+        {
+          "documentIdentifier" : "BJNR016650961BJNG001600666",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR016650961BJNE011500666",
+              "paragraph" : "§ 105",
+              "title" : "Überleitungsvorschriften für Richter auf Lebenszeit und auf Zeit"
+            },
+            {
+              "documentIdentifier" : "BJNR016650961BJNE011600666",
+              "paragraph" : "§ 106",
+              "title" : "Überleitungsvorschriften für Richter auf Probe, Richter kraft\nAuftrags und abgeordnete Richter"
+            },
+            {
+              "documentIdentifier" : "BJNR016650961BJNE011701301",
+              "paragraph" : "§ 107",
+              "title" : "(weggefallen)"
+            },
+            {
+              "documentIdentifier" : "BJNR016650961BJNE011801301",
+              "paragraph" : "§ 108",
+              "title" : "(weggefallen)"
+            },
+            {
+              "documentIdentifier" : "BJNR016650961BJNE011902310",
+              "paragraph" : "§ 109",
+              "title" : "Befähigung zum Richteramt"
+            },
+            {
+              "documentIdentifier" : "BJNR016650961BJNE012001301",
+              "paragraph" : "§ 110",
+              "title" : "Befähigung zum höheren Verwaltungsdienst"
+            },
+            {
+              "documentIdentifier" : "BJNR016650961BJNE012100666",
+              "paragraph" : "§ 111",
+              "title" : "Vorsitzende der Arbeitsgerichte und Sozialgerichte"
+            },
+            {
+              "documentIdentifier" : "BJNR016650961BJNE012203308",
+              "paragraph" : "§ 112",
+              "title" : "Anerkennung ausländischer Prüfungen und im Ausland erworbener Ausbildungsnachweise"
+            },
+            {
+              "documentIdentifier" : "BJNR016650961BJNE015001308",
+              "paragraph" : "§ 112a",
+              "title" : "Gleichwertigkeitsprüfung für die Zulassung zum juristischen Vorbereitungsdienst"
+            },
+            {
+              "documentIdentifier" : "BJNR016650961BJNE012401301",
+              "paragraph" : "(XXXX) §§ 113 bis 118",
+              "title" : "(weggefallen)"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Überleitung von Rechtsverhältnissen"
+        },
+        {
+          "documentIdentifier" : "BJNR016650961BJNG001700666",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR016650961BJNE013101309",
+              "paragraph" : "§ 120",
+              "title" : "Technische Mitglieder des Bundespatentgerichts"
+            },
+            {
+              "documentIdentifier" : "BJNR016650961BJNE013200666",
+              "paragraph" : "§ 120a",
+              "title" : "Besondere Vorschriften über die Amtsbezeichnungen"
+            },
+            {
+              "documentIdentifier" : "BJNR016650961BJNE013300666",
+              "paragraph" : "§ 121",
+              "title" : "Richter im Bundesdienst als Mitglieder der gesetzgebenden Körperschaft eines Landes"
+            },
+            {
+              "documentIdentifier" : "BJNR016650961BJNE013402311",
+              "paragraph" : "§ 122",
+              "title" : "Staatsanwälte"
+            },
+            {
+              "documentIdentifier" : "BJNR016650961BJNE013501307",
+              "paragraph" : "§ 123",
+              "title" : "Besetzung der Berufsgerichte für Rechtsanwälte"
+            },
+            {
+              "documentIdentifier" : "BJNR016650961BJNE013601301",
+              "paragraph" : "§ 124",
+              "title" : "Laufbahnwechsel"
+            },
+            {
+              "documentIdentifier" : "BJNR016650961BJNE013701301",
+              "paragraph" : "§ 125",
+              "title" : "(weggefallen)"
+            },
+            {
+              "documentIdentifier" : "BJNR016650961BJNE013800666",
+              "paragraph" : "§ 126",
+              "title" : "Inkrafttreten"
+            },
+            {
+              "documentIdentifier" : "BJNR016650961BJNE888803308",
+              "paragraph" : "Anhang EV",
+              "title" : "Auszug aus EinigVtr Anlage I Kapitel III Sachgebiet A Abschnitte III und IV"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Schlußvorschriften"
+        }
+      ],
+      "title" : "Übergangs- und Schlußvorschriften"
+    }
+  ]
+}

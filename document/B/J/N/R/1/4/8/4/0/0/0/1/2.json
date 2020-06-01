@@ -1,0 +1,135 @@
+{
+  "documentIdentifier" : "BJNR148400012",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR148400012BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR148400012BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Abkommen"
+        },
+        {
+          "documentIdentifier" : "BJNR148400012BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Anwendungsbereich"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeines"
+    },
+    {
+      "documentIdentifier" : "BJNR148400012BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR148400012BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Arbeitsentgelt"
+        },
+        {
+          "documentIdentifier" : "BJNR148400012BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Vergütungen oder Zusatzvergütungen, Sonderfälle"
+        },
+        {
+          "documentIdentifier" : "BJNR148400012BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Vertraglich vereinbarte Arbeitstage"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Grenzpendler"
+    },
+    {
+      "documentIdentifier" : "BJNR148400012BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR148400012BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Tätigkeit in einem Staat"
+        },
+        {
+          "documentIdentifier" : "BJNR148400012BJNE000801377",
+          "paragraph" : "§ 7",
+          "title" : "Tätigkeit in mehreren Staaten"
+        },
+        {
+          "documentIdentifier" : "BJNR148400012BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Sonderregelungen"
+        },
+        {
+          "documentIdentifier" : "BJNR148400012BJNE001000000",
+          "paragraph" : "§ 9",
+          "title" : "Betriebsstätte im anderen Staat"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Berufskraftfahrer, Lokomotivführer und Begleitpersonal"
+    },
+    {
+      "documentIdentifier" : "BJNR148400012BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR148400012BJNE001100000",
+          "paragraph" : "§ 10",
+          "title" : "Abfindungen und Entschädigungen an Arbeitnehmer, Arbeitslosengeld"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Sonstige Anwendungsfälle"
+    },
+    {
+      "documentIdentifier" : "BJNR148400012BJNG000500000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR148400012BJNE001200000",
+          "paragraph" : "§ 11",
+          "title" : "Anwendungszeitpunkt"
+        },
+        {
+          "documentIdentifier" : "BJNR148400012BJNE001300000",
+          "paragraph" : "§ 12",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussbestimmungen"
+    }
+  ]
+}

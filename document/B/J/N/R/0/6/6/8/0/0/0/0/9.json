@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR066800009",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR066800009Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR066800009BJNE000701313",
+          "paragraph" : "§ 6",
+          "title" : "Bestehende Berufsausbildungsverhältnisse"
+        },
+        {
+          "documentIdentifier" : "BJNR066800009BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

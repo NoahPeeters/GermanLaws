@@ -1,0 +1,438 @@
+{
+  "documentIdentifier" : "BJNR108410013",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR108410013BJNG000101116",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR108410013BJNE000201116",
+          "paragraph" : "§ 1",
+          "title" : "Meldebehörden"
+        },
+        {
+          "documentIdentifier" : "BJNR108410013BJNE000302116",
+          "paragraph" : "§ 2",
+          "title" : "Aufgaben und Befugnisse der Meldebehörden"
+        },
+        {
+          "documentIdentifier" : "BJNR108410013BJNE000406360",
+          "paragraph" : "§ 3",
+          "title" : "Speicherung von Daten"
+        },
+        {
+          "documentIdentifier" : "BJNR108410013BJNE000502116",
+          "paragraph" : "§ 4",
+          "title" : "Ordnungsmerkmale"
+        },
+        {
+          "documentIdentifier" : "BJNR108410013BJNE000603116",
+          "paragraph" : "§ 5",
+          "title" : "Zweckbindung der Daten"
+        },
+        {
+          "documentIdentifier" : "BJNR108410013BJNE000702116",
+          "paragraph" : "§ 6",
+          "title" : "Richtigkeit und Vollständigkeit des Melderegisters"
+        },
+        {
+          "documentIdentifier" : "BJNR108410013BJNE000802116",
+          "paragraph" : "§ 7",
+          "title" : "Meldegeheimnis"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Bestimmungen"
+    },
+    {
+      "documentIdentifier" : "BJNR108410013BJNG000201116",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR108410013BJNE000902116",
+          "paragraph" : "§ 8",
+          "title" : "Schutzwürdige Interessen der betroffenen Person"
+        },
+        {
+          "documentIdentifier" : "BJNR108410013BJNE001002116",
+          "paragraph" : "§ 9",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR108410013BJNE001104116",
+          "paragraph" : "§ 10",
+          "title" : "Auskunftsrecht der betroffenen Person"
+        },
+        {
+          "documentIdentifier" : "BJNR108410013BJNE001203116",
+          "paragraph" : "§ 11",
+          "title" : "Auskunftsbeschränkungen"
+        },
+        {
+          "documentIdentifier" : "BJNR108410013BJNE001302116",
+          "paragraph" : "§ 12",
+          "title" : "Recht auf Berichtigung"
+        },
+        {
+          "documentIdentifier" : "BJNR108410013BJNE001403116",
+          "paragraph" : "§ 13",
+          "title" : "Aufbewahrung von Daten"
+        },
+        {
+          "documentIdentifier" : "BJNR108410013BJNE001504116",
+          "paragraph" : "§ 14",
+          "title" : "Löschung von Daten"
+        },
+        {
+          "documentIdentifier" : "BJNR108410013BJNE001601116",
+          "paragraph" : "§ 15",
+          "title" : "Aufbewahrung und Löschung von Hinweisen"
+        },
+        {
+          "documentIdentifier" : "BJNR108410013BJNE001702116",
+          "paragraph" : "§ 16",
+          "title" : "Anbieten von Daten an Archive"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schutzrechte"
+    },
+    {
+      "documentIdentifier" : "BJNR108410013BJNG000301116",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR108410013BJNE001801116",
+          "paragraph" : "§ 17",
+          "title" : "Anmeldung, Abmeldung"
+        },
+        {
+          "documentIdentifier" : "BJNR108410013BJNE001903116",
+          "paragraph" : "§ 18",
+          "title" : "Meldebescheinigung"
+        },
+        {
+          "documentIdentifier" : "BJNR108410013BJNE002003116",
+          "paragraph" : "§ 19",
+          "title" : "Mitwirkung des Wohnungsgebers"
+        },
+        {
+          "documentIdentifier" : "BJNR108410013BJNE002101116",
+          "paragraph" : "§ 20",
+          "title" : "Begriff der Wohnung"
+        },
+        {
+          "documentIdentifier" : "BJNR108410013BJNE002201116",
+          "paragraph" : "§ 21",
+          "title" : "Mehrere Wohnungen"
+        },
+        {
+          "documentIdentifier" : "BJNR108410013BJNE002301116",
+          "paragraph" : "§ 22",
+          "title" : "Bestimmung der Hauptwohnung"
+        },
+        {
+          "documentIdentifier" : "BJNR108410013BJNE002404116",
+          "paragraph" : "§ 23",
+          "title" : "Erfüllung der allgemeinen Meldepflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR108410013BJNE002502116",
+          "paragraph" : "§ 24",
+          "title" : "Datenerhebung, Meldebestätigung"
+        },
+        {
+          "documentIdentifier" : "BJNR108410013BJNE002601116",
+          "paragraph" : "§ 25",
+          "title" : "Mitwirkungspflichten der meldepflichtigen Person"
+        },
+        {
+          "documentIdentifier" : "BJNR108410013BJNE002701116",
+          "paragraph" : "§ 26",
+          "title" : "Befreiung von der Meldepflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR108410013BJNE002803116",
+          "paragraph" : "§ 27",
+          "title" : "Ausnahmen von der Meldepflicht"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Meldepflichten"
+    },
+    {
+      "documentIdentifier" : "BJNR108410013BJNG000401116",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR108410013BJNE002901116",
+          "paragraph" : "§ 28",
+          "title" : "Besondere Meldepflichten für Binnenschiffer und Seeleute"
+        },
+        {
+          "documentIdentifier" : "BJNR108410013BJNE003002116",
+          "paragraph" : "§ 29",
+          "title" : "Besondere Meldepflicht in Beherbergungsstätten"
+        },
+        {
+          "documentIdentifier" : "BJNR108410013BJNE003102116",
+          "paragraph" : "§ 30",
+          "title" : "Besondere Meldescheine für Beherbergungsstätten"
+        },
+        {
+          "documentIdentifier" : "BJNR108410013BJNE003202116",
+          "paragraph" : "§ 31",
+          "title" : "Verarbeitungsbeschränkungen"
+        },
+        {
+          "documentIdentifier" : "BJNR108410013BJNE003301116",
+          "paragraph" : "§ 32",
+          "title" : "Besondere Meldepflicht in Krankenhäusern, Heimen und ähnlichen Einrichtungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Besondere Meldepflichten"
+    },
+    {
+      "documentIdentifier" : "BJNR108410013BJNG000501116",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR108410013BJNG000601116",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR108410013BJNE003403116",
+              "paragraph" : "§ 33",
+              "title" : "Datenübermittlungen zwischen den Meldebehörden"
+            },
+            {
+              "documentIdentifier" : "BJNR108410013BJNE003503116",
+              "paragraph" : "§ 34",
+              "title" : "Datenübermittlungen an andere öffentliche Stellen"
+            },
+            {
+              "documentIdentifier" : "BJNR108410013BJNE003601116",
+              "paragraph" : "§ 35",
+              "title" : "Datenübermittlungen an ausländische Stellen"
+            },
+            {
+              "documentIdentifier" : "BJNR108410013BJNE003702116",
+              "paragraph" : "§ 36",
+              "title" : "Regelmäßige Datenübermittlungen"
+            },
+            {
+              "documentIdentifier" : "BJNR108410013BJNE003802116",
+              "paragraph" : "§ 37",
+              "title" : "Datenweitergabe"
+            },
+            {
+              "documentIdentifier" : "BJNR108410013BJNE003904116",
+              "paragraph" : "§ 38",
+              "title" : "Automatisierter Abruf"
+            },
+            {
+              "documentIdentifier" : "BJNR108410013BJNE004002116",
+              "paragraph" : "§ 39",
+              "title" : "Verfahren des automatisierten Abrufs"
+            },
+            {
+              "documentIdentifier" : "BJNR108410013BJNE004102116",
+              "paragraph" : "§ 40",
+              "title" : "Protokollierungspflicht bei automatisiertem Abruf"
+            },
+            {
+              "documentIdentifier" : "BJNR108410013BJNE004202116",
+              "paragraph" : "§ 41",
+              "title" : "Zweckbindung übermittelter Daten und Hinweise"
+            },
+            {
+              "documentIdentifier" : "BJNR108410013BJNE004303116",
+              "paragraph" : "§ 42",
+              "title" : "Datenübermittlungen an öffentlich-rechtliche Religionsgesellschaften"
+            },
+            {
+              "documentIdentifier" : "BJNR108410013BJNE004402116",
+              "paragraph" : "§ 43",
+              "title" : "Datenübermittlungen an die Suchdienste"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              5,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Datenübermittlungen zwischen öffentlichen Stellen"
+        },
+        {
+          "documentIdentifier" : "BJNR108410013BJNG000701116",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR108410013BJNE004503116",
+              "paragraph" : "§ 44",
+              "title" : "Einfache Melderegisterauskunft"
+            },
+            {
+              "documentIdentifier" : "BJNR108410013BJNE004602116",
+              "paragraph" : "§ 45",
+              "title" : "Erweiterte Melderegisterauskunft"
+            },
+            {
+              "documentIdentifier" : "BJNR108410013BJNE004701116",
+              "paragraph" : "§ 46",
+              "title" : "Gruppenauskunft"
+            },
+            {
+              "documentIdentifier" : "BJNR108410013BJNE004801116",
+              "paragraph" : "§ 47",
+              "title" : "Zweckbindung der Melderegisterauskunft"
+            },
+            {
+              "documentIdentifier" : "BJNR108410013BJNE004902116",
+              "paragraph" : "§ 48",
+              "title" : "Melderegisterauskunft für öffentlich-rechtliche Rundfunkanstalten"
+            },
+            {
+              "documentIdentifier" : "BJNR108410013BJNE005004116",
+              "paragraph" : "§ 49",
+              "title" : "Automatisierte Melderegisterauskunft"
+            },
+            {
+              "documentIdentifier" : "BJNR108410013BJNE005102116",
+              "paragraph" : "§ 50",
+              "title" : "Melderegisterauskünfte in besonderen Fällen"
+            },
+            {
+              "documentIdentifier" : "BJNR108410013BJNE005203116",
+              "paragraph" : "§ 51",
+              "title" : "Auskunftssperren"
+            },
+            {
+              "documentIdentifier" : "BJNR108410013BJNE005303116",
+              "paragraph" : "§ 52",
+              "title" : "Bedingter Sperrvermerk"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              5,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Melderegisterauskunft"
+        },
+        {
+          "documentIdentifier" : "BJNR108410013BJNG000801116",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR108410013BJNE005401116",
+              "paragraph" : "§ 53",
+              "title" : "Zeugenschutz"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              5,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Zeugenschutz"
+        }
+      ],
+      "title" : "Datenübermittlungen"
+    },
+    {
+      "documentIdentifier" : "BJNR108410013BJNG000901116",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR108410013BJNE005503116",
+          "paragraph" : "§ 54",
+          "title" : "Bußgeldvorschriften"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Ordnungswidrigkeiten"
+    },
+    {
+      "documentIdentifier" : "BJNR108410013BJNG001001116",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR108410013BJNE005602116",
+          "paragraph" : "§ 55",
+          "title" : "Regelungsbefugnisse der Länder"
+        },
+        {
+          "documentIdentifier" : "BJNR108410013BJNE005703116",
+          "paragraph" : "§ 56",
+          "title" : "Verordnungsermächtigungen"
+        },
+        {
+          "documentIdentifier" : "BJNR108410013BJNE005801116",
+          "paragraph" : "§ 57",
+          "title" : "Verwaltungsvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR108410013BJNE005902116",
+          "paragraph" : "§ 58",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Sonstige Vorschriften, Schlussvorschriften"
+    }
+  ]
+}

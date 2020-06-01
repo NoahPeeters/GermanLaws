@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR006300020",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR006300020Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR006300020BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR006300020BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Struktur und Format elektronischer Akten; Repräsentat"
+        },
+        {
+          "documentIdentifier" : "BJNR006300020BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Bearbeitung der elektronischen Akte"
+        },
+        {
+          "documentIdentifier" : "BJNR006300020BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Barrierefreiheit"
+        },
+        {
+          "documentIdentifier" : "BJNR006300020BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Ersatzmaßnahmen"
+        },
+        {
+          "documentIdentifier" : "BJNR006300020BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR012600980",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR012600980Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR012600980BJNE000100311",
+          "paragraph" : "I.",
+          "title" : "Voraussetzungen der Aktuellen Stunde"
+        },
+        {
+          "documentIdentifier" : "BJNR012600980BJNE000200311",
+          "paragraph" : "II.",
+          "title" : "Rangfolge der Aussprache"
+        },
+        {
+          "documentIdentifier" : "BJNR012600980BJNE000301305",
+          "paragraph" : "III.",
+          "title" : "Dauer und Redeordnung der Aussprache"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

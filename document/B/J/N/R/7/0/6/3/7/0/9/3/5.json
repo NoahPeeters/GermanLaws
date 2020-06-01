@@ -1,0 +1,701 @@
+{
+  "documentIdentifier" : "BJNR706370935",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR706370935BJNG000102307",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR706370935BJNG000202307",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Grundbuchbezirke"
+        },
+        {
+          "documentIdentifier" : "BJNR706370935BJNG000302307",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Die äußere Form des Grundbuchs"
+        }
+      ],
+      "title" : "Das Grundbuch"
+    },
+    {
+      "documentIdentifier" : "BJNR706370935BJNG000402307",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Das Grundbuchblatt"
+    },
+    {
+      "documentIdentifier" : "BJNR706370935BJNG000502307",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR706370935BJNE004002311",
+          "paragraph" : "§ 23",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Die Eintragungen"
+    },
+    {
+      "documentIdentifier" : "BJNR706370935BJNG000602307",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Die Grundakten"
+    },
+    {
+      "documentIdentifier" : "BJNR706370935BJNG000702307",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Der Zuständigkeitswechsel"
+    },
+    {
+      "documentIdentifier" : "BJNR706370935BJNG000802307",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Die Umschreibung von Grundbüchern"
+    },
+    {
+      "documentIdentifier" : "BJNR706370935BJNG000902307",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Die Schließung des Grundbuchblatts"
+    },
+    {
+      "documentIdentifier" : "BJNR706370935BJNG001002307",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          8
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Die Beseitigung einer Doppelbuchung"
+    },
+    {
+      "documentIdentifier" : "BJNR706370935BJNG001102307",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          9
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Die Bekanntmachung der Eintragungen"
+    },
+    {
+      "documentIdentifier" : "BJNR706370935BJNG001202307",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          10
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Grundbucheinsicht und -abschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR706370935BJNG001302307",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          11
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Hypotheken-, Grundschuld- und Rentenschuldbriefe"
+    },
+    {
+      "documentIdentifier" : "BJNR706370935BJNG001402307",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          12
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Das Erbbaugrundbuch"
+    },
+    {
+      "documentIdentifier" : "BJNR706370935BJNG001705307",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          13
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR706370935BJNG001804307",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR706370935BJNE010603307",
+              "paragraph" : "§ 61",
+              "title" : "Grundsatz"
+            },
+            {
+              "documentIdentifier" : "BJNR706370935BJNE010705311",
+              "paragraph" : "§ 62",
+              "title" : "Begriff des maschinell geführten Grundbuchs"
+            },
+            {
+              "documentIdentifier" : "BJNR706370935BJNE010804311",
+              "paragraph" : "§ 63",
+              "title" : "Gestaltung des maschinell geführten Grundbuchs; Verordnungsermächtigung"
+            },
+            {
+              "documentIdentifier" : "BJNR706370935BJNE010904307",
+              "paragraph" : "§ 64",
+              "title" : "Anforderungen an Anlagen und Programme"
+            },
+            {
+              "documentIdentifier" : "BJNR706370935BJNE011004307",
+              "paragraph" : "§ 65",
+              "title" : "Sicherung der Anlagen und Programme"
+            },
+            {
+              "documentIdentifier" : "BJNR706370935BJNE011103307",
+              "paragraph" : "§ 66",
+              "title" : "Sicherung der Daten"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              13,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Das maschinell geführte Grundbuch"
+        },
+        {
+          "documentIdentifier" : "BJNR706370935BJNG001905307",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR706370935BJNE011203307",
+              "paragraph" : "§ 67",
+              "title" : "Festlegung der Anlegungsverfahren"
+            },
+            {
+              "documentIdentifier" : "BJNR706370935BJNE011306311",
+              "paragraph" : "§ 68",
+              "title" : "Anlegung des maschinell geführten Grundbuchs durch Umschreibung"
+            },
+            {
+              "documentIdentifier" : "BJNR706370935BJNE011406311",
+              "paragraph" : "§ 69",
+              "title" : "Anlegung des maschinell geführten Grundbuchs durch Neufassung"
+            },
+            {
+              "documentIdentifier" : "BJNR706370935BJNE011510311",
+              "paragraph" : "§ 70",
+              "title" : "Anlegung des maschinell geführten Grundbuchs durch Umstellung"
+            },
+            {
+              "documentIdentifier" : "BJNR706370935BJNE011605307",
+              "paragraph" : "§ 71",
+              "title" : "Freigabe des maschinell geführten Grundbuchs"
+            },
+            {
+              "documentIdentifier" : "BJNR706370935BJNE016300311",
+              "paragraph" : "§ 71a",
+              "title" : "Anlegung des Datenbankgrundbuchs"
+            },
+            {
+              "documentIdentifier" : "BJNR706370935BJNE011706311",
+              "paragraph" : "§ 72",
+              "title" : "Umschreibung, Neufassung und Schließung des maschinell geführten Grundbuchs"
+            },
+            {
+              "documentIdentifier" : "BJNR706370935BJNE011804307",
+              "paragraph" : "§ 73",
+              "title" : "Grundakten"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              13,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Anlegung des maschinell geführten Grundbuchs"
+        },
+        {
+          "documentIdentifier" : "BJNR706370935BJNG002004307",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR706370935BJNE011904311",
+              "paragraph" : "§ 74",
+              "title" : "Veranlassung der Eintragung"
+            },
+            {
+              "documentIdentifier" : "BJNR706370935BJNE012005307",
+              "paragraph" : "§ 75",
+              "title" : "Elektronische Unterschrift"
+            },
+            {
+              "documentIdentifier" : "BJNR706370935BJNE012105311",
+              "paragraph" : "§ 76",
+              "title" : "Äußere Form der Eintragung"
+            },
+            {
+              "documentIdentifier" : "BJNR706370935BJNE016400311",
+              "paragraph" : "§ 76a",
+              "title" : "Eintragungen in das Datenbankgrundbuch; Verordnungsermächtigung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              13,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Eintragungen in das maschinell geführte Grundbuch"
+        },
+        {
+          "documentIdentifier" : "BJNR706370935BJNG002104307",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR706370935BJNE012204307",
+              "paragraph" : "§ 77",
+              "title" : "Grundsatz"
+            },
+            {
+              "documentIdentifier" : "BJNR706370935BJNE012305307",
+              "paragraph" : "§ 78",
+              "title" : "Ausdrucke aus dem maschinell geführten Grundbuch"
+            },
+            {
+              "documentIdentifier" : "BJNR706370935BJNE012405307",
+              "paragraph" : "§ 79",
+              "title" : "Einsicht"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              13,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Einsicht in das maschinell geführte Grundbuch und Abschriften hieraus"
+        },
+        {
+          "documentIdentifier" : "BJNR706370935BJNG002204307",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR706370935BJNE012509125",
+              "paragraph" : "§ 80",
+              "title" : "Abruf von Daten"
+            },
+            {
+              "documentIdentifier" : "BJNR706370935BJNE012603307",
+              "paragraph" : "§ 81",
+              "title" : "Genehmigungsverfahren, Einrichtungsvertrag"
+            },
+            {
+              "documentIdentifier" : "BJNR706370935BJNE012705307",
+              "paragraph" : "§ 82",
+              "title" : "Einrichtung der Verfahren"
+            },
+            {
+              "documentIdentifier" : "BJNR706370935BJNE012809311",
+              "paragraph" : "§ 83",
+              "title" : "Abrufprotokollierung"
+            },
+            {
+              "documentIdentifier" : "BJNR706370935BJNE012903307",
+              "paragraph" : "§ 84",
+              "title" : "Kontrolle"
+            },
+            {
+              "documentIdentifier" : "BJNR706370935BJNE013008311",
+              "paragraph" : "§ 85",
+              "title" : "Erteilung von Grundbuchabdrucken durch Notare"
+            },
+            {
+              "documentIdentifier" : "BJNR706370935BJNE016100311",
+              "paragraph" : "§ 85a",
+              "title" : "Protokollierung der Mitteilung des Grundbuchinhalts durch den Notar"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              13,
+              5
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Automatisierter Abruf von Daten"
+        },
+        {
+          "documentIdentifier" : "BJNR706370935BJNG002305307",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR706370935BJNE013106311",
+              "paragraph" : "§ 86",
+              "title" : "Zusammenarbeit mit den katasterführenden Stellen"
+            },
+            {
+              "documentIdentifier" : "BJNR706370935BJNE014601360",
+              "paragraph" : "§ 86a",
+              "title" : "Zusammenarbeit mit Versorgungsunternehmen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              13,
+              6
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Zusammenarbeit mit den katasterführenden Stellen und Versorgungsunternehmen"
+        },
+        {
+          "documentIdentifier" : "BJNR706370935BJNG002404307",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR706370935BJNE013206311",
+              "paragraph" : "§ 87",
+              "title" : "Erteilung von Briefen"
+            },
+            {
+              "documentIdentifier" : "BJNR706370935BJNE013304307",
+              "paragraph" : "§ 88",
+              "title" : "Verfahren bei Schuldurkunden"
+            },
+            {
+              "documentIdentifier" : "BJNR706370935BJNE013403307",
+              "paragraph" : "§ 89",
+              "title" : "Ergänzungen des Briefes"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              13,
+              7
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Hypotheken-, Grundschuld- und Rentenschuldbriefe"
+        },
+        {
+          "documentIdentifier" : "BJNR706370935BJNG002504307",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR706370935BJNE013504307",
+              "paragraph" : "§ 90",
+              "title" : "Datenverarbeitung im Auftrag"
+            },
+            {
+              "documentIdentifier" : "BJNR706370935BJNE013606307",
+              "paragraph" : "§ 91",
+              "title" : "Behandlung von Verweisungen, Löschungen"
+            },
+            {
+              "documentIdentifier" : "BJNR706370935BJNE013706311",
+              "paragraph" : "§ 92",
+              "title" : "Ersetzung von Grundbuchdaten, Ersatzgrundbuch"
+            },
+            {
+              "documentIdentifier" : "BJNR706370935BJNE016500311",
+              "paragraph" : "§ 92a",
+              "title" : "Zuständigkeitswechsel"
+            },
+            {
+              "documentIdentifier" : "BJNR706370935BJNE013806311",
+              "paragraph" : "§ 93",
+              "title" : "Ausführungsvorschriften; Verordnungsermächtigung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              13,
+              8
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Schlußbestimmungen"
+        }
+      ],
+      "title" : "Vorschriften über das maschinell geführte Grundbuch"
+    },
+    {
+      "documentIdentifier" : "BJNR706370935BJNG002600307",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR706370935BJNE015000307",
+          "paragraph" : "§ 93a",
+          "title" : "Eintragung öffentlicher Lasten"
+        },
+        {
+          "documentIdentifier" : "BJNR706370935BJNE015100307",
+          "paragraph" : "§ 93b",
+          "title" : "Eintragung des Bodenschutzlastvermerks"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          14
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Vermerke über öffentliche Lasten"
+    },
+    {
+      "documentIdentifier" : "BJNR706370935BJNG002700160",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR706370935BJNE015300160",
+          "paragraph" : "§ 94",
+          "title" : "Grundsatz"
+        },
+        {
+          "documentIdentifier" : "BJNR706370935BJNE015401311",
+          "paragraph" : "§ 95",
+          "title" : "Allgemeine technische und organisatorische Maßgaben"
+        },
+        {
+          "documentIdentifier" : "BJNR706370935BJNE015500160",
+          "paragraph" : "§ 96",
+          "title" : "Anlegung und Führung der elektronischen Grundakte"
+        },
+        {
+          "documentIdentifier" : "BJNR706370935BJNE015701311",
+          "paragraph" : "§ 97",
+          "title" : "Übertragung von Papierdokumenten in die elektronische Form"
+        },
+        {
+          "documentIdentifier" : "BJNR706370935BJNE015800160",
+          "paragraph" : "§ 98",
+          "title" : "Übertragung elektronischer Dokumente in die Papierform oder in andere Dateiformate"
+        },
+        {
+          "documentIdentifier" : "BJNR706370935BJNE015900160",
+          "paragraph" : "§ 99",
+          "title" : "Aktenausdruck, Akteneinsicht und Datenabruf"
+        },
+        {
+          "documentIdentifier" : "BJNR706370935BJNE015600160",
+          "paragraph" : "§ 100",
+          "title" : "Wiederherstellung des Grundakteninhalts"
+        },
+        {
+          "documentIdentifier" : "BJNR706370935BJNE016600311",
+          "paragraph" : "§ 100a",
+          "title" : "Zuständigkeitswechsel"
+        },
+        {
+          "documentIdentifier" : "BJNR706370935BJNE016000160",
+          "paragraph" : "§ 101",
+          "title" : "Ausführungsvorschriften"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          15
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Vorschriften über den elektronischen Rechtsverkehr und die elektronische Grundakte"
+    },
+    {
+      "documentIdentifier" : "BJNR706370935BJNG001605160",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR706370935BJNE009302307",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 22)\n"
+        },
+        {
+          "documentIdentifier" : "BJNR706370935BJNE009403160",
+          "paragraph" : "Anlage 2a",
+          "title" : "(zu § 31)"
+        },
+        {
+          "documentIdentifier" : "BJNR706370935BJNE009501307",
+          "paragraph" : "Anlage 2b",
+          "title" : "(zu § 31)\n"
+        },
+        {
+          "documentIdentifier" : "BJNR706370935BJNE009601307",
+          "paragraph" : "Anlage 3",
+          "title" : "(zu § 52 Abs. 1)\n"
+        },
+        {
+          "documentIdentifier" : "BJNR706370935BJNE009701307",
+          "paragraph" : "Anlage 4",
+          "title" : "(zu § 52 Abs. 1)\n"
+        },
+        {
+          "documentIdentifier" : "BJNR706370935BJNE009801307",
+          "paragraph" : "Anlage 5",
+          "title" : "(zu § 52 Abs. 1)\n"
+        },
+        {
+          "documentIdentifier" : "BJNR706370935BJNE009901307",
+          "paragraph" : "Anlage 6",
+          "title" : "(zu § 52 Abs. 1)\n"
+        },
+        {
+          "documentIdentifier" : "BJNR706370935BJNE010001307",
+          "paragraph" : "Anlage 7",
+          "title" : "(zu § 52 Abs. 1)\n"
+        },
+        {
+          "documentIdentifier" : "BJNR706370935BJNE010101307",
+          "paragraph" : "Anlage 8",
+          "title" : "(zu § 52 Abs. 1)\n"
+        },
+        {
+          "documentIdentifier" : "BJNR706370935BJNE010201307",
+          "paragraph" : "Anlage 9",
+          "title" : "(zu § 58)\n"
+        },
+        {
+          "documentIdentifier" : "BJNR706370935BJNE014401307",
+          "paragraph" : "Anlage 10a",
+          "title" : "(zu § 69 Abs. 4)\n"
+        },
+        {
+          "documentIdentifier" : "BJNR706370935BJNE014501307",
+          "paragraph" : "Anlage 10b",
+          "title" : "(zu § 69 Abs. 4)\n"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          16
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übergangs- und Schlußvorschriften"
+    }
+  ]
+}

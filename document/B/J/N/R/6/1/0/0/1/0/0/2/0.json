@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR610010020",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR610010020Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR610010020BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Arbeitszeit der Arbeitnehmerinnen und Arbeitnehmer"
+        },
+        {
+          "documentIdentifier" : "BJNR610010020BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Ruhezeit"
+        },
+        {
+          "documentIdentifier" : "BJNR610010020BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Sonn- und Feiertagsbeschäftigung"
+        },
+        {
+          "documentIdentifier" : "BJNR610010020BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Zeitlicher Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR610010020BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Behördliche Befugnisse"
+        },
+        {
+          "documentIdentifier" : "BJNR610010020BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Verhältnis zu landesrechtlichen und anderen Vorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR610010020BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

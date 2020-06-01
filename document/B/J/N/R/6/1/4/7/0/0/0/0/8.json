@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR614700008",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR614700008Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR614700008BJNE000201377",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR614700008BJNE000302119",
+          "paragraph" : "§ 2",
+          "title" : "Inhalt und Aufbau der Internetseite"
+        },
+        {
+          "documentIdentifier" : "BJNR614700008BJNE000800119",
+          "paragraph" : "§ 2a",
+          "title" : "Schwellenwertregelung"
+        },
+        {
+          "documentIdentifier" : "BJNR614700008BJNE000401377",
+          "paragraph" : "§ 3",
+          "title" : "Berichtigung, Sperrung und Löschung von Informationen"
+        },
+        {
+          "documentIdentifier" : "BJNR614700008BJNE000502119",
+          "paragraph" : "§ 4",
+          "title" : "Einsichtnahme"
+        },
+        {
+          "documentIdentifier" : "BJNR614700008BJNE000601377",
+          "paragraph" : "§ 5",
+          "title" : "Datensicherheit"
+        },
+        {
+          "documentIdentifier" : "BJNR614700008BJNE000701377",
+          "paragraph" : "§ 6",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

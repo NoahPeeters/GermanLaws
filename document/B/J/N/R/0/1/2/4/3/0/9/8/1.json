@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR012430981",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR012430981Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR012430981BJNE000200304",
+          "paragraph" : "§ 1",
+          "title" : "Notenstufen und Punktzahlen"
+        },
+        {
+          "documentIdentifier" : "BJNR012430981BJNE000300304",
+          "paragraph" : "§ 2",
+          "title" : "Bildung von Gesamtnoten"
+        },
+        {
+          "documentIdentifier" : "BJNR012430981BJNE000400304",
+          "paragraph" : "§ 3",
+          "title" : "Übergangsvorschrift"
+        },
+        {
+          "documentIdentifier" : "BJNR012430981BJNE000600304",
+          "paragraph" : "§ 5",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

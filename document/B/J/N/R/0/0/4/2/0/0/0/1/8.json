@@ -1,0 +1,182 @@
+{
+  "documentIdentifier" : "BJNR004200018",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR004200018BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR004200018BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Errichtung"
+        },
+        {
+          "documentIdentifier" : "BJNR004200018BJNE000302124",
+          "paragraph" : "§ 2",
+          "title" : "Zusammensetzung"
+        },
+        {
+          "documentIdentifier" : "BJNR004200018BJNE000401124",
+          "paragraph" : "§ 3",
+          "title" : "Berufung der Mitglieder"
+        },
+        {
+          "documentIdentifier" : "BJNR004200018BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Ausgeschlossene Personen, Befangenheit"
+        },
+        {
+          "documentIdentifier" : "BJNR004200018BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Verschwiegenheit"
+        },
+        {
+          "documentIdentifier" : "BJNR004200018BJNE000702124",
+          "paragraph" : "§ 6",
+          "title" : "Örtliche Zuständigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR004200018BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Beschlussfähigkeit und Abstimmung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Prüfungsausschüsse"
+    },
+    {
+      "documentIdentifier" : "BJNR004200018BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR004200018BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Zulassung zur Fahrlehrerprüfung (§ 8 des Fahrlehrergesetzes)"
+        },
+        {
+          "documentIdentifier" : "BJNR004200018BJNE001000000",
+          "paragraph" : "§ 9",
+          "title" : "Prüfungstermine"
+        },
+        {
+          "documentIdentifier" : "BJNR004200018BJNE001100000",
+          "paragraph" : "§ 10",
+          "title" : "Rücktritt"
+        },
+        {
+          "documentIdentifier" : "BJNR004200018BJNE001200000",
+          "paragraph" : "§ 11",
+          "title" : "Ordnungsverstöße"
+        },
+        {
+          "documentIdentifier" : "BJNR004200018BJNE001300000",
+          "paragraph" : "§ 12",
+          "title" : "Nichtöffentlichkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR004200018BJNE001400000",
+          "paragraph" : "§ 13",
+          "title" : "Gegenstand der Prüfungen und Lehrproben"
+        },
+        {
+          "documentIdentifier" : "BJNR004200018BJNE001500000",
+          "paragraph" : "§ 14",
+          "title" : "Gliederung der Prüfungen und Lehrproben"
+        },
+        {
+          "documentIdentifier" : "BJNR004200018BJNE001600000",
+          "paragraph" : "§ 15",
+          "title" : "Fahrpraktische Prüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR004200018BJNE001701124",
+          "paragraph" : "§ 16",
+          "title" : "Fachkundeprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR004200018BJNE001800000",
+          "paragraph" : "§ 17",
+          "title" : "Lehrprobe im theoretischen Unterricht"
+        },
+        {
+          "documentIdentifier" : "BJNR004200018BJNE001900000",
+          "paragraph" : "§ 18",
+          "title" : "Lehrprobe im fahrpraktischen Unterricht"
+        },
+        {
+          "documentIdentifier" : "BJNR004200018BJNE002000000",
+          "paragraph" : "§ 19",
+          "title" : "Bewertung"
+        },
+        {
+          "documentIdentifier" : "BJNR004200018BJNE002100000",
+          "paragraph" : "§ 20",
+          "title" : "Entscheidung über die Prüfungen und Lehrproben"
+        },
+        {
+          "documentIdentifier" : "BJNR004200018BJNE002200000",
+          "paragraph" : "§ 21",
+          "title" : "Bekanntgabe der Entscheidung"
+        },
+        {
+          "documentIdentifier" : "BJNR004200018BJNE002300000",
+          "paragraph" : "§ 22",
+          "title" : "Niederschrift"
+        },
+        {
+          "documentIdentifier" : "BJNR004200018BJNE002400000",
+          "paragraph" : "§ 23",
+          "title" : "Nicht bestandene Prüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR004200018BJNE002500000",
+          "paragraph" : "§ 24",
+          "title" : "Wiederholungen der Prüfungen und Lehrproben"
+        },
+        {
+          "documentIdentifier" : "BJNR004200018BJNE002600000",
+          "paragraph" : "§ 25",
+          "title" : "Erneute Fahrlehrerprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR004200018BJNE002700000",
+          "paragraph" : "§ 26",
+          "title" : "Prüfungsunterlagen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Durchführung der Fahrlehrerprüfung"
+    },
+    {
+      "documentIdentifier" : "BJNR004200018BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR004200018BJNE002800000",
+          "paragraph" : "§ 27",
+          "title" : "Ausnahmen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Ausnahmebestimmungen"
+    }
+  ]
+}

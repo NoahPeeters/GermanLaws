@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR003700016",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR003700016Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR003700016BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Verwaltungsaufwand aus der Beihilfebearbeitung"
+        },
+        {
+          "documentIdentifier" : "BJNR003700016BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Verwaltungsaufwand aus der Grundversicherung"
+        },
+        {
+          "documentIdentifier" : "BJNR003700016BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Weiterer Verwaltungsaufwand"
+        },
+        {
+          "documentIdentifier" : "BJNR003700016BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Reduzierung des Personalbedarfs"
+        },
+        {
+          "documentIdentifier" : "BJNR003700016BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Kostenabrechnung"
+        },
+        {
+          "documentIdentifier" : "BJNR003700016BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

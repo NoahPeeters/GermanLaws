@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR052800003",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR052800003Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR052800003BJNE000200311",
+          "paragraph" : "§ 1",
+          "title" : "Zu Beglaubigungen befugte Behörden"
+        },
+        {
+          "documentIdentifier" : "BJNR052800003BJNE000300311",
+          "paragraph" : "§ 2",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

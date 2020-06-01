@@ -1,0 +1,126 @@
+{
+  "documentIdentifier" : "BJNR257600004",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR257600004BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR257600004BJNE000202123",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Anwendungsbereich"
+    },
+    {
+      "documentIdentifier" : "BJNR257600004BJNG000201123",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR257600004BJNE000301377",
+          "paragraph" : "§ 2",
+          "title" : "Name und Anschrift"
+        },
+        {
+          "documentIdentifier" : "BJNR257600004BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Zuverlässigkeit der Geschäftsleitung"
+        },
+        {
+          "documentIdentifier" : "BJNR257600004BJNE000501377",
+          "paragraph" : "§ 4",
+          "title" : "Geschäftsplan"
+        },
+        {
+          "documentIdentifier" : "BJNR257600004BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Zustellungsbevollmächtigter"
+        },
+        {
+          "documentIdentifier" : "BJNR257600004BJNE000701377",
+          "paragraph" : "§ 6",
+          "title" : "Zuständige Überwachungsstellen und Befugnisse"
+        },
+        {
+          "documentIdentifier" : "BJNR257600004BJNE000801377",
+          "paragraph" : "§ 7",
+          "title" : "Gehandelte Finanzinstrumente"
+        },
+        {
+          "documentIdentifier" : "BJNR257600004BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Handelsteilnehmer"
+        },
+        {
+          "documentIdentifier" : "BJNR257600004BJNE001001123",
+          "paragraph" : "§ 9",
+          "title" : "Zusätzliche Angaben und Unterlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR257600004BJNE001100000",
+          "paragraph" : "§ 10",
+          "title" : "Form des Antrags"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Erlaubnisantrag nach § 102 des Wertpapierhandelsgesetzes"
+    },
+    {
+      "documentIdentifier" : "BJNR257600004BJNG000301377",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR257600004BJNE001201377",
+          "paragraph" : "(XXXX) §§ 11 bis 13",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "(weggefallen)"
+    },
+    {
+      "documentIdentifier" : "BJNR257600004BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR257600004BJNE001500000",
+          "paragraph" : "§ 14",
+          "title" : "Übergangsbestimmung"
+        },
+        {
+          "documentIdentifier" : "BJNR257600004BJNE001600000",
+          "paragraph" : "§ 15",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übergangs- und Schlussbestimmungen"
+    }
+  ]
+}

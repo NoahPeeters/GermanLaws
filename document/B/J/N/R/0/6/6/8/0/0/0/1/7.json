@@ -1,0 +1,142 @@
+{
+  "documentIdentifier" : "BJNR066800017",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR066800017BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR066800017BJNE000300000",
+          "paragraph" : "§ 1",
+          "title" : "Staatliche Anerkennung des Ausbildungsberufes"
+        },
+        {
+          "documentIdentifier" : "BJNR066800017BJNE000400000",
+          "paragraph" : "§ 2",
+          "title" : "Dauer der Berufsausbildung"
+        },
+        {
+          "documentIdentifier" : "BJNR066800017BJNE000500000",
+          "paragraph" : "§ 3",
+          "title" : "Gegenstand der Berufsausbildung und Ausbildungsrahmenplan"
+        },
+        {
+          "documentIdentifier" : "BJNR066800017BJNE000600000",
+          "paragraph" : "§ 4",
+          "title" : "Struktur der Berufsausbildung, Ausbildungsberufsbild"
+        },
+        {
+          "documentIdentifier" : "BJNR066800017BJNE000700000",
+          "paragraph" : "§ 5",
+          "title" : "Ausbildungsplan"
+        },
+        {
+          "documentIdentifier" : "BJNR066800017BJNE000800000",
+          "paragraph" : "§ 6",
+          "title" : "Schriftlicher Ausbildungsnachweis"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gegenstand, Dauer und Gliederung der Berufsausbildung"
+    },
+    {
+      "documentIdentifier" : "BJNR066800017BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR066800017BJNE000900000",
+          "paragraph" : "§ 7",
+          "title" : "Ziel, Aufteilung in zwei Teile und Zeitpunkt"
+        },
+        {
+          "documentIdentifier" : "BJNR066800017BJNE001000000",
+          "paragraph" : "§ 8",
+          "title" : "Inhalt von Teil 1"
+        },
+        {
+          "documentIdentifier" : "BJNR066800017BJNE001100000",
+          "paragraph" : "§ 9",
+          "title" : "Prüfungsbereiche von Teil 1"
+        },
+        {
+          "documentIdentifier" : "BJNR066800017BJNE001200000",
+          "paragraph" : "§ 10",
+          "title" : "Prüfungsbereich Passagierprozesse"
+        },
+        {
+          "documentIdentifier" : "BJNR066800017BJNE001300000",
+          "paragraph" : "§ 11",
+          "title" : "Prüfungsbereich Personal und Beschaffung"
+        },
+        {
+          "documentIdentifier" : "BJNR066800017BJNE001400000",
+          "paragraph" : "§ 12",
+          "title" : "Inhalt von Teil 2"
+        },
+        {
+          "documentIdentifier" : "BJNR066800017BJNE001500000",
+          "paragraph" : "§ 13",
+          "title" : "Prüfungsbereiche von Teil 2"
+        },
+        {
+          "documentIdentifier" : "BJNR066800017BJNE001600000",
+          "paragraph" : "§ 14",
+          "title" : "Prüfungsbereich Kaufmännische Unterstützungsprozesse"
+        },
+        {
+          "documentIdentifier" : "BJNR066800017BJNE001700000",
+          "paragraph" : "§ 15",
+          "title" : "Prüfungsbereich Abfertigungsprozesse"
+        },
+        {
+          "documentIdentifier" : "BJNR066800017BJNE001800000",
+          "paragraph" : "§ 16",
+          "title" : "Prüfungsbereich Wirtschafts- und Sozialkunde"
+        },
+        {
+          "documentIdentifier" : "BJNR066800017BJNE001900000",
+          "paragraph" : "§ 17",
+          "title" : "Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Abschlussprüfung"
+    },
+    {
+      "documentIdentifier" : "BJNR066800017BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR066800017BJNE002000000",
+          "paragraph" : "§ 18",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR066800017BJNE002100000",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 3 Absatz 1)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussvorschrift"
+    }
+  ]
+}

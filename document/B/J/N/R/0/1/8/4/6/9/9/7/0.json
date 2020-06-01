@@ -1,0 +1,120 @@
+{
+  "documentIdentifier" : "BJNR018469970",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR018469970BJNE000300314",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          0
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "-"
+    },
+    {
+      "documentIdentifier" : "BJNR018469970BJNG000100314",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Art 1 bis 3"
+    },
+    {
+      "documentIdentifier" : "BJNR018469970BJNG000200314",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR018469970BJNE000401308",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR018469970BJNE000501308",
+              "laws" : [
+
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  4
+                ]
+              },
+              "subsections" : [
+                {
+                  "documentIdentifier" : "BJNR018469970BJNE000600314",
+                  "laws" : [
+
+                  ],
+                  "sectionNumber" : {
+                    "numbers" : [
+                      4
+                    ]
+                  },
+                  "subsections" : [
+                    {
+                      "documentIdentifier" : "BJNR018469970BJNE000700314",
+                      "laws" : [
+
+                      ],
+                      "sectionNumber" : {
+                        "numbers" : [
+                          4
+                        ]
+                      },
+                      "subsections" : [
+                        {
+                          "documentIdentifier" : "BJNR018469970BJNE000800314",
+                          "laws" : [
+
+                          ],
+                          "sectionNumber" : {
+                            "numbers" : [
+                              4
+                            ]
+                          },
+                          "subsections" : [
+
+                          ],
+                          "title" : "Art 4"
+                        }
+                      ],
+                      "title" : "Art 4"
+                    }
+                  ],
+                  "title" : "Art 4"
+                }
+              ],
+              "title" : "Art 4"
+            }
+          ],
+          "title" : "Art 4"
+        }
+      ],
+      "title" : "Übergangs- und Schlußvorschriften"
+    }
+  ]
+}

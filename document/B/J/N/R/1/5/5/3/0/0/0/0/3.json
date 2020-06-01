@@ -1,0 +1,168 @@
+{
+  "documentIdentifier" : "BJNR155300003",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR155300003BJNG000101377",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR155300003BJNE000104377",
+          "paragraph" : "§ 1",
+          "title" : "Aufgaben mit vergleichbarer Sicherheitsempfindlichkeit"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Feststellung der Behörden des Bundes mit Aufgaben von vergleichbarer Sicherheitsempfindlichkeit wie die der Nachrichtendienste des Bundes"
+    },
+    {
+      "documentIdentifier" : "BJNR155300003BJNG000201377",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR155300003BJNG000301377",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR155300003BJNE000305377",
+              "paragraph" : "§ 2",
+              "title" : "Deutscher Bundestag"
+            },
+            {
+              "documentIdentifier" : "BJNR155300003BJNE000404377",
+              "paragraph" : "§ 3",
+              "title" : "Bundesrat"
+            },
+            {
+              "documentIdentifier" : "BJNR155300003BJNE000504377",
+              "paragraph" : "§ 4",
+              "title" : "Bundesverfassungsgericht"
+            },
+            {
+              "documentIdentifier" : "BJNR155300003BJNE000604377",
+              "paragraph" : "§ 5",
+              "title" : "Deutsche Bundesbank"
+            },
+            {
+              "documentIdentifier" : "BJNR155300003BJNE001504377",
+              "paragraph" : "§ 5a",
+              "title" : "Oberste Bundesbehörden"
+            },
+            {
+              "documentIdentifier" : "BJNR155300003BJNE001903377",
+              "paragraph" : "§ 5b",
+              "title" : "Geschäftsbereiche der obersten Bundesbehörden"
+            },
+            {
+              "documentIdentifier" : "BJNR155300003BJNE000706377",
+              "paragraph" : "§ 6",
+              "title" : "Bundesministerium des Innern"
+            },
+            {
+              "documentIdentifier" : "BJNR155300003BJNE002003377",
+              "paragraph" : "§ 6a",
+              "title" : "Geschäftsbereich des Bundesministeriums des Innern"
+            },
+            {
+              "documentIdentifier" : "BJNR155300003BJNE000808377",
+              "paragraph" : "§ 7",
+              "title" : "Geschäftsbereich des Bundesministeriums für Arbeit und Soziales"
+            },
+            {
+              "documentIdentifier" : "BJNR155300003BJNE000907377",
+              "paragraph" : "§ 8",
+              "title" : "Geschäftsbereich des Bundesministeriums für Gesundheit"
+            },
+            {
+              "documentIdentifier" : "BJNR155300003BJNE001007377",
+              "paragraph" : "§ 9",
+              "title" : "Geschäftsbereich des Bundesministeriums für Ernährung und Landwirtschaft"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Feststellung des öffentlichen Bereichs"
+        },
+        {
+          "documentIdentifier" : "BJNR155300003BJNG000401377",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR155300003BJNE002103377",
+              "paragraph" : "§ 9a",
+              "title" : "Bundesministerium des Innern"
+            },
+            {
+              "documentIdentifier" : "BJNR155300003BJNE001109377",
+              "paragraph" : "§ 10",
+              "title" : "Bundesministerium für Wirtschaft und Energie"
+            },
+            {
+              "documentIdentifier" : "BJNR155300003BJNE002400377",
+              "paragraph" : "§ 10a",
+              "title" : "Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit"
+            },
+            {
+              "documentIdentifier" : "BJNR155300003BJNE002203377",
+              "paragraph" : "§ 11",
+              "title" : "Bundesministerium für Verkehr und digitale Infrastruktur"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Feststellung des nichtöffentlichen Bereichs"
+        },
+        {
+          "documentIdentifier" : "BJNR155300003BJNG000501377",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR155300003BJNE002303377",
+              "paragraph" : "§ 12",
+              "title" : "Zuständigkeit"
+            },
+            {
+              "documentIdentifier" : "BJNR155300003BJNE001405377",
+              "paragraph" : "§ 13",
+              "title" : "Außerkrafttreten"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Zuständigkeits- und Schlussvorschriften"
+        }
+      ],
+      "title" : "Feststellung der lebens- oder verteidigungswichtigen Einrichtungen im Sinne des § 1 Abs. 4 des Sicherheitsüberprüfungsgesetzes"
+    }
+  ]
+}

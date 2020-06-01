@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR024780977",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR024780977Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR024780977BJNE000201307",
+          "paragraph" : "§ 1",
+          "title" : "Nachweispflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR024780977BJNE000301307",
+          "paragraph" : "§ 2",
+          "title" : "Kosten"
+        },
+        {
+          "documentIdentifier" : "BJNR024780977BJNE000401307",
+          "paragraph" : "§ 3",
+          "title" : "Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR024780977BJNE000500314",
+          "paragraph" : "§ 4",
+          "title" : "Berlin-Klausel"
+        },
+        {
+          "documentIdentifier" : "BJNR024780977BJNE000600314",
+          "paragraph" : "§ 5",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

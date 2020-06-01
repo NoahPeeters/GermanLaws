@@ -1,0 +1,590 @@
+{
+  "documentIdentifier" : "BJNR003900020",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR003900020BJNG000100000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR003900020BJNG000200000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR003900020BJNE000300000",
+              "paragraph" : "§ 1",
+              "title" : "Inhalt des Studiums"
+            },
+            {
+              "documentIdentifier" : "BJNR003900020BJNE000400000",
+              "paragraph" : "§ 2",
+              "title" : "Studiengangskonzept"
+            },
+            {
+              "documentIdentifier" : "BJNR003900020BJNE000500000",
+              "paragraph" : "§ 3",
+              "title" : "Inhalt des modularen Curriculums"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Allgemeines"
+        },
+        {
+          "documentIdentifier" : "BJNR003900020BJNG000300000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR003900020BJNE000600000",
+              "paragraph" : "§ 4",
+              "title" : "Kompetenzerwerb durch Praxiseinsätze"
+            },
+            {
+              "documentIdentifier" : "BJNR003900020BJNE000700000",
+              "paragraph" : "§ 5",
+              "title" : "Kooperationsvereinbarungen"
+            },
+            {
+              "documentIdentifier" : "BJNR003900020BJNE000800000",
+              "paragraph" : "§ 6",
+              "title" : "Praxiseinsätze in Krankenhäusern"
+            },
+            {
+              "documentIdentifier" : "BJNR003900020BJNE000900000",
+              "paragraph" : "§ 7",
+              "title" : "Praxiseinsätze bei freiberuflichen Hebammen oder in ambulanten hebammengeleiteten Einrichtungen"
+            },
+            {
+              "documentIdentifier" : "BJNR003900020BJNE001000000",
+              "paragraph" : "§ 8",
+              "title" : "Umfang und Inhalt der Praxiseinsätze"
+            },
+            {
+              "documentIdentifier" : "BJNR003900020BJNE001100000",
+              "paragraph" : "§ 9",
+              "title" : "Praxisplan"
+            },
+            {
+              "documentIdentifier" : "BJNR003900020BJNE001200000",
+              "paragraph" : "§ 10",
+              "title" : "Qualifikation der Praxisanleitung"
+            },
+            {
+              "documentIdentifier" : "BJNR003900020BJNE001300000",
+              "paragraph" : "§ 11",
+              "title" : "Praxisbegleitung"
+            },
+            {
+              "documentIdentifier" : "BJNR003900020BJNE001400000",
+              "paragraph" : "§ 12",
+              "title" : "Tätigkeitsnachweis"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Der berufspraktische Teil des Studiums"
+        }
+      ],
+      "title" : "Studium"
+    },
+    {
+      "documentIdentifier" : "BJNR003900020BJNG000400000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR003900020BJNG000500000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR003900020BJNE001500000",
+              "paragraph" : "§ 13",
+              "title" : "Gegenstand und Teile der staatlichen Prüfung"
+            },
+            {
+              "documentIdentifier" : "BJNR003900020BJNE001600000",
+              "paragraph" : "§ 14",
+              "title" : "Bildung und Zuständigkeit des Prüfungsausschusses"
+            },
+            {
+              "documentIdentifier" : "BJNR003900020BJNE001700000",
+              "paragraph" : "§ 15",
+              "title" : "Zusammensetzung des Prüfungsausschusses"
+            },
+            {
+              "documentIdentifier" : "BJNR003900020BJNE001800000",
+              "paragraph" : "§ 16",
+              "title" : "Benennung der Mitglieder des Prüfungsausschusses"
+            },
+            {
+              "documentIdentifier" : "BJNR003900020BJNE001900000",
+              "paragraph" : "§ 17",
+              "title" : "Teilnahme der Vorsitzenden des Prüfungsausschusses an der staatlichen Prüfung"
+            },
+            {
+              "documentIdentifier" : "BJNR003900020BJNE002000000",
+              "paragraph" : "§ 18",
+              "title" : "Zulassung zur staatlichen Prüfung"
+            },
+            {
+              "documentIdentifier" : "BJNR003900020BJNE002100000",
+              "paragraph" : "§ 19",
+              "title" : "Nachteilsausgleich"
+            },
+            {
+              "documentIdentifier" : "BJNR003900020BJNE002200000",
+              "paragraph" : "§ 20",
+              "title" : "Benotung von Leistungen in der staatlichen Prüfung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Gemeinsame Bestimmungen für die staatliche Prüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR003900020BJNG000600000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR003900020BJNE002300000",
+              "paragraph" : "§ 21",
+              "title" : "Gegenstand des schriftlichen Teils der staatlichen Prüfung"
+            },
+            {
+              "documentIdentifier" : "BJNR003900020BJNE002400000",
+              "paragraph" : "§ 22",
+              "title" : "Bewertung des schriftlichen Teils der staatlichen Prüfung"
+            },
+            {
+              "documentIdentifier" : "BJNR003900020BJNE002500000",
+              "paragraph" : "§ 23",
+              "title" : "Bestehen und Note des schriftlichen Teils der staatlichen Prüfung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Schriftlicher Teil der staatlichen Prüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR003900020BJNG000700000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR003900020BJNE002600000",
+              "paragraph" : "§ 24",
+              "title" : "Gegenstand des mündlichen Teils der staatlichen Prüfung"
+            },
+            {
+              "documentIdentifier" : "BJNR003900020BJNE002700000",
+              "paragraph" : "§ 25",
+              "title" : "Durchführung des mündlichen Teils der staatlichen Prüfung"
+            },
+            {
+              "documentIdentifier" : "BJNR003900020BJNE002800000",
+              "paragraph" : "§ 26",
+              "title" : "Bewertung des mündlichen Teils der staatlichen Prüfung"
+            },
+            {
+              "documentIdentifier" : "BJNR003900020BJNE002900000",
+              "paragraph" : "§ 27",
+              "title" : "Bestehen des mündlichen Teils der staatlichen Prüfung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Mündlicher Teil der staatlichen Prüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR003900020BJNG000800000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR003900020BJNE003000000",
+              "paragraph" : "§ 28",
+              "title" : "Gegenstand des praktischen Teils der staatlichen Prüfung"
+            },
+            {
+              "documentIdentifier" : "BJNR003900020BJNE003100000",
+              "paragraph" : "§ 29",
+              "title" : "Prüfungsorte und Prüfungsarten des praktischen Teils der staatlichen Prüfung"
+            },
+            {
+              "documentIdentifier" : "BJNR003900020BJNE003200000",
+              "paragraph" : "§ 30",
+              "title" : "Ablauf der Prüfungsteile des praktischen Teils der staatlichen Prüfung"
+            },
+            {
+              "documentIdentifier" : "BJNR003900020BJNE003300000",
+              "paragraph" : "§ 31",
+              "title" : "Durchführung des praktischen Teils der staatlichen Prüfung"
+            },
+            {
+              "documentIdentifier" : "BJNR003900020BJNE003400000",
+              "paragraph" : "§ 32",
+              "title" : "Bewertung des praktischen Teils der staatlichen Prüfung"
+            },
+            {
+              "documentIdentifier" : "BJNR003900020BJNE003500000",
+              "paragraph" : "§ 33",
+              "title" : "Bestehen und Note des praktischen Teils der staatlichen Prüfung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Praktischer Teil der staatlichen Prüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR003900020BJNG000900000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR003900020BJNE003600000",
+              "paragraph" : "§ 34",
+              "title" : "Bestehen und Gesamtnote der staatlichen Prüfung"
+            },
+            {
+              "documentIdentifier" : "BJNR003900020BJNE003700000",
+              "paragraph" : "§ 35",
+              "title" : "Zeugnis"
+            },
+            {
+              "documentIdentifier" : "BJNR003900020BJNE003800000",
+              "paragraph" : "§ 36",
+              "title" : "Wiederholung von Teilen der staatlichen Prüfung und zusätzliche Praxiseinsätze"
+            },
+            {
+              "documentIdentifier" : "BJNR003900020BJNE003900000",
+              "paragraph" : "§ 37",
+              "title" : "Rücktritt von der staatlichen Prüfung"
+            },
+            {
+              "documentIdentifier" : "BJNR003900020BJNE004000000",
+              "paragraph" : "§ 38",
+              "title" : "Versäumnisse"
+            },
+            {
+              "documentIdentifier" : "BJNR003900020BJNE004100000",
+              "paragraph" : "§ 39",
+              "title" : "Ordnungsverstöße und Täuschungsversuche"
+            },
+            {
+              "documentIdentifier" : "BJNR003900020BJNE004200000",
+              "paragraph" : "§ 40",
+              "title" : "Niederschrift"
+            },
+            {
+              "documentIdentifier" : "BJNR003900020BJNE004300000",
+              "paragraph" : "§ 41",
+              "title" : "Aufbewahrung von Prüfungsunterlagen und Einsichtnahme"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              5
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Weitere Vorschriften"
+        }
+      ],
+      "title" : "Staatliche Prüfung zur Erlangung der Erlaubnis zum Führen der Berufsbezeichnung"
+    },
+    {
+      "documentIdentifier" : "BJNR003900020BJNG001000000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR003900020BJNE004400000",
+          "paragraph" : "§ 42",
+          "title" : "Erlaubnisurkunde"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Erlaubnis zum Führen der Berufsbezeichnung"
+    },
+    {
+      "documentIdentifier" : "BJNR003900020BJNG001100000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR003900020BJNG001200000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR003900020BJNE004501000",
+              "paragraph" : "§ 43",
+              "title" : "Fristen"
+            },
+            {
+              "documentIdentifier" : "BJNR003900020BJNE004600000",
+              "paragraph" : "§ 44",
+              "title" : "Bescheide bei Feststellung wesentlicher Unterschiede"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Verfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR003900020BJNG001300000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR003900020BJNE004700000",
+              "paragraph" : "§ 45",
+              "title" : "Gegenstand, Ablauf und Ort der Eignungsprüfung"
+            },
+            {
+              "documentIdentifier" : "BJNR003900020BJNE004800000",
+              "paragraph" : "§ 46",
+              "title" : "Durchführung und Abschluss der Eignungsprüfung"
+            },
+            {
+              "documentIdentifier" : "BJNR003900020BJNE004900000",
+              "paragraph" : "§ 47",
+              "title" : "Inhalt und Durchführung des Anpassungslehrgangs"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Anpassungsmaßnahmen nach § 58 des Hebammengesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR003900020BJNG001400000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR003900020BJNE005000000",
+              "paragraph" : "§ 48",
+              "title" : "Gegenstand der Kenntnisprüfung"
+            },
+            {
+              "documentIdentifier" : "BJNR003900020BJNE005100000",
+              "paragraph" : "§ 49",
+              "title" : "Mündlicher Teil der Kenntnisprüfung"
+            },
+            {
+              "documentIdentifier" : "BJNR003900020BJNE005200000",
+              "paragraph" : "§ 50",
+              "title" : "Praktischer Teil der Kenntnisprüfung"
+            },
+            {
+              "documentIdentifier" : "BJNR003900020BJNE005300000",
+              "paragraph" : "§ 51",
+              "title" : "Durchführung und Abschluss der Kenntnisprüfung"
+            },
+            {
+              "documentIdentifier" : "BJNR003900020BJNE005400000",
+              "paragraph" : "§ 52",
+              "title" : "Inhalt und Durchführung des Anpassungslehrgangs"
+            },
+            {
+              "documentIdentifier" : "BJNR003900020BJNE005500000",
+              "paragraph" : "§ 53",
+              "title" : "Abschluss des Anpassungslehrgangs"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Anpassungsmaßnahmen nach § 59 des Hebammengesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR003900020BJNG001500000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR003900020BJNE005600000",
+              "paragraph" : "§ 54",
+              "title" : "Nachweise der Zuverlässigkeit"
+            },
+            {
+              "documentIdentifier" : "BJNR003900020BJNE005700000",
+              "paragraph" : "§ 55",
+              "title" : "Nachweise der gesundheitlichen Eignung"
+            },
+            {
+              "documentIdentifier" : "BJNR003900020BJNE005800000",
+              "paragraph" : "§ 56",
+              "title" : "Aktualität von Nachweisen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Nachweise der Zuverlässigkeit und der gesundheitlichen Eignung durch Inhaberinnen und Inhaber von Berufsqualifikationen aus einem anderen Mitgliedstaat, einem anderen Vertragsstaat oder einem gleichgestellten Staat"
+        }
+      ],
+      "title" : "Anerkennung ausländischer Berufsqualifikationen und erforderliche Anpassungsmaßnahmen"
+    },
+    {
+      "documentIdentifier" : "BJNR003900020BJNG001600000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR003900020BJNE005900000",
+          "paragraph" : "§ 57",
+          "title" : "Übergangsvorschriften zur fachschulischen Ausbildung"
+        },
+        {
+          "documentIdentifier" : "BJNR003900020BJNE006000000",
+          "paragraph" : "§ 58",
+          "title" : "Übergangsvorschriften zur Ausbildung in Form von Modellvorhaben"
+        },
+        {
+          "documentIdentifier" : "BJNR003900020BJNE006100000",
+          "paragraph" : "§ 59",
+          "title" : "Ausnahmeregelung zur Praxisanleitung"
+        },
+        {
+          "documentIdentifier" : "BJNR003900020BJNE006200000",
+          "paragraph" : "§ 60",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR003900020BJNE006400000",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 1, § 3 Absatz 1, § 6 Absatz 1, § 7 Absatz 1 und 2,"
+        },
+        {
+          "documentIdentifier" : "BJNR003900020BJNE006500000",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 8 Absatz 1)"
+        },
+        {
+          "documentIdentifier" : "BJNR003900020BJNE006600000",
+          "paragraph" : "Anlage 3",
+          "title" : "(zu § 8 Absatz 2, den §§ 12 und 18 Absatz 2)"
+        },
+        {
+          "documentIdentifier" : "BJNR003900020BJNE006700000",
+          "paragraph" : "Anlage 4",
+          "title" : "(zu § 42 Absatz 1)"
+        },
+        {
+          "documentIdentifier" : "BJNR003900020BJNE006800000",
+          "paragraph" : "Anlage 5",
+          "title" : "(zu § 42 Absatz 2)"
+        },
+        {
+          "documentIdentifier" : "BJNR003900020BJNE006900000",
+          "paragraph" : "Anlage 6",
+          "title" : "(zu § 42 Absatz 3)"
+        },
+        {
+          "documentIdentifier" : "BJNR003900020BJNE007000000",
+          "paragraph" : "Anlage 7",
+          "title" : "(zu § 46 Absatz 4)"
+        },
+        {
+          "documentIdentifier" : "BJNR003900020BJNE007100000",
+          "paragraph" : "Anlage 8",
+          "title" : "(zu § 47 Absatz 3)"
+        },
+        {
+          "documentIdentifier" : "BJNR003900020BJNE007200000",
+          "paragraph" : "Anlage 9",
+          "title" : "(zu § 51 Absatz 4)"
+        },
+        {
+          "documentIdentifier" : "BJNR003900020BJNE007300000",
+          "paragraph" : "Anlage 10",
+          "title" : "(zu § 53 Absatz 4)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übergangs- und Schlussvorschriften"
+    }
+  ]
+}

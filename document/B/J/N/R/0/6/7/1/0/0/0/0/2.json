@@ -1,0 +1,59 @@
+{
+  "documentIdentifier" : "BJNR067100002",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR067100002Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR067100002BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Vordrucke"
+        },
+        {
+          "documentIdentifier" : "BJNR067100002BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Zulässige Abweichungen"
+        },
+        {
+          "documentIdentifier" : "BJNR067100002BJNE000301301",
+          "paragraph" : "§ 3",
+          "title" : "Überleitungsvorschrift"
+        },
+        {
+          "documentIdentifier" : "BJNR067100002BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR067100002BJNE000601301",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 1 Nr. 1)\n"
+        },
+        {
+          "documentIdentifier" : "BJNR067100002BJNE000700000",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 1 Nr. 2)\n"
+        },
+        {
+          "documentIdentifier" : "BJNR067100002BJNE000800000",
+          "paragraph" : "Anlage 3",
+          "title" : "(zu § 1 Nr. 3)\n"
+        },
+        {
+          "documentIdentifier" : "BJNR067100002BJNE000900000",
+          "paragraph" : "Anlage 4",
+          "title" : "(zu § 1 Nr. 4)\n"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

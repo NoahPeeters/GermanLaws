@@ -1,0 +1,195 @@
+{
+  "documentIdentifier" : "DDNR003010980",
+  "sections" : [
+    {
+      "documentIdentifier" : "DDNR003010980BJNG000100307",
+      "laws" : [
+        {
+          "documentIdentifier" : "DDNR003010980BJNE001200307",
+          "paragraph" : "§ 3",
+          "title" : "Begriffsbestimmungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Geltungsbereich"
+    },
+    {
+      "documentIdentifier" : "DDNR003010980BJNG000200307",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Grundforderungen"
+    },
+    {
+      "documentIdentifier" : "DDNR003010980BJNG000300307",
+      "laws" : [
+        {
+          "documentIdentifier" : "DDNR003010980BJNE001700307",
+          "paragraph" : "§ 8",
+          "title" : "Haldenauflageflächen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Anzeige"
+    },
+    {
+      "documentIdentifier" : "DDNR003010980BJNG000400307",
+      "laws" : [
+        {
+          "documentIdentifier" : "DDNR003010980BJNE002100307",
+          "paragraph" : "§ 12",
+          "title" : "Sicherheitsabstand"
+        },
+        {
+          "documentIdentifier" : "DDNR003010980BJNE002200307",
+          "paragraph" : "§ 13",
+          "title" : "Wasserableitung, Erosionsschutz"
+        },
+        {
+          "documentIdentifier" : "DDNR003010980BJNE002300307",
+          "paragraph" : "§ 14",
+          "title" : "Absperrungen und Verbotsschilder"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gestaltung von Böschungen"
+    },
+    {
+      "documentIdentifier" : "DDNR003010980BJNG000500307",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Technische Dokumentation"
+    },
+    {
+      "documentIdentifier" : "DDNR003010980BJNG000600307",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Kontroll- und Sicherungsmaßnahmen"
+    },
+    {
+      "documentIdentifier" : "DDNR003010980BJNG000700307",
+      "laws" : [
+        {
+          "documentIdentifier" : "DDNR003010980BJNE003300307",
+          "paragraph" : "§ 24",
+          "title" : "Wechsel des Rechtsträgers, Nutzers oder Eigentümers"
+        },
+        {
+          "documentIdentifier" : "DDNR003010980BJNE003400307",
+          "paragraph" : "§ 25",
+          "title" : "Verantwortung"
+        },
+        {
+          "documentIdentifier" : "DDNR003010980BJNE003500307",
+          "paragraph" : "§ 26",
+          "title" : "Ersatzpflicht"
+        },
+        {
+          "documentIdentifier" : "DDNR003010980BJNE003600307",
+          "paragraph" : "§ 27",
+          "title" : "Staatliche Kontrolle"
+        },
+        {
+          "documentIdentifier" : "DDNR003010980BJNE003700307",
+          "paragraph" : "§ 28",
+          "title" : "Ordnungsstrafbestimmungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Maßnahmen bei Gefahr"
+    },
+    {
+      "documentIdentifier" : "DDNR003010980BJNG000800307",
+      "laws" : [
+        {
+          "documentIdentifier" : "DDNR003010980BJNE004200307",
+          "paragraph" : "Anlage 1",
+          "title" : "zu § 3 vorstehender Anordnung\n"
+        },
+        {
+          "documentIdentifier" : "DDNR003010980BJNE004300307",
+          "paragraph" : "Anlage 2",
+          "title" : "zu § 12 Abs. 3 vorstehender Anordnung\n"
+        },
+        {
+          "documentIdentifier" : "DDNR003010980BJNE004400307",
+          "paragraph" : "Anlage 3",
+          "title" : "zu § 16 Abs. 1 Buchst. c vorstehender Anordnung\n"
+        },
+        {
+          "documentIdentifier" : "DDNR003010980BJNE004500307",
+          "paragraph" : "Anlage 4",
+          "title" : "zu § 14 Abs. 3 vorstehender Anordnung"
+        },
+        {
+          "documentIdentifier" : "DDNR003010980BJNE888800301",
+          "paragraph" : "Anhang EV",
+          "title" : "Auszug aus EinigVtr Anlage II Kapitel V Sachgebiet D Abschnitt III\n"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          8
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlußbestimmungen"
+    }
+  ]
+}

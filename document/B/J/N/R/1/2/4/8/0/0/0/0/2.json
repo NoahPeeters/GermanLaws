@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR124800002",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR124800002Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR124800002BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR124800002BJNE000201377",
+          "paragraph" : "§ 2",
+          "title" : "Ausnahmen vom Verbringungs- und Einfuhrverbot"
+        },
+        {
+          "documentIdentifier" : "BJNR124800002BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Pflichten der Begleitperson"
+        },
+        {
+          "documentIdentifier" : "BJNR124800002BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Befugnisse der zuständigen Behörde"
+        },
+        {
+          "documentIdentifier" : "BJNR124800002BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

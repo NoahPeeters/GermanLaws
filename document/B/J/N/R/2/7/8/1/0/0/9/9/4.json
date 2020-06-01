@@ -1,0 +1,150 @@
+{
+  "documentIdentifier" : "BJNR278100994",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR278100994BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR278100994BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Aufbau der Anstalt"
+        },
+        {
+          "documentIdentifier" : "BJNR278100994BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Geschäftsführung"
+        },
+        {
+          "documentIdentifier" : "BJNR278100994BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Vertretung, Aufgabenübertragung, Zeichnungsbefugnis"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Aufbau und Geschäftsführung"
+    },
+    {
+      "documentIdentifier" : "BJNR278100994BJNG000500000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR278100994BJNE000600000",
+          "paragraph" : "§ 4",
+          "title" : "Berufung der Mitglieder des Verwaltungsrates und\nihrer Stellvertreter"
+        },
+        {
+          "documentIdentifier" : "BJNR278100994BJNE000700000",
+          "paragraph" : "§ 5",
+          "title" : "Auskunftsrecht und -pflicht des Verwaltungsrates"
+        },
+        {
+          "documentIdentifier" : "BJNR278100994BJNE000800000",
+          "paragraph" : "§ 6",
+          "title" : "Vertretung des Verwaltungsrates"
+        },
+        {
+          "documentIdentifier" : "BJNR278100994BJNE000901308",
+          "paragraph" : "§ 7",
+          "title" : "Sitzungen des Verwaltungsrates"
+        },
+        {
+          "documentIdentifier" : "BJNR278100994BJNE001000000",
+          "paragraph" : "§ 8",
+          "title" : "Schriftliches Verfahren"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Verwaltungsrat"
+    },
+    {
+      "documentIdentifier" : "BJNR278100994BJNG001100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR278100994BJNE001200000",
+          "paragraph" : "§ 9",
+          "title" : "Einsetzung und Zusammensetzung von Fachbeiräten"
+        },
+        {
+          "documentIdentifier" : "BJNR278100994BJNE001300000",
+          "paragraph" : "§ 10",
+          "title" : "Aufgaben der Fachbeiräte"
+        },
+        {
+          "documentIdentifier" : "BJNR278100994BJNE001400000",
+          "paragraph" : "§ 11",
+          "title" : "Sitzungen der Fachbeiräte"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Fachbeiräte"
+    },
+    {
+      "documentIdentifier" : "BJNR278100994BJNG001500000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR278100994BJNE001600000",
+          "paragraph" : "§ 12",
+          "title" : "Verwaltungshaushalt, Haushaltsführung"
+        },
+        {
+          "documentIdentifier" : "BJNR278100994BJNE001700000",
+          "paragraph" : "§ 13",
+          "title" : "Wirtschaftsplan, Wirtschaftsführung"
+        },
+        {
+          "documentIdentifier" : "BJNR278100994BJNE001800000",
+          "paragraph" : "§ 14",
+          "title" : "Kreditaufnahme"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Wirtschaftsführung"
+    },
+    {
+      "documentIdentifier" : "BJNR278100994BJNG001900000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR278100994BJNE002000000",
+          "paragraph" : "§ 15",
+          "title" : "Übergangsregelungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übergangsbestimmungen"
+    }
+  ]
+}

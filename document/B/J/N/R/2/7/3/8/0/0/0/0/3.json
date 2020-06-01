@@ -1,0 +1,64 @@
+{
+  "documentIdentifier" : "BJNR273800003",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR273800003Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR273800003BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR273800003BJNE000302116",
+          "paragraph" : "§ 2",
+          "title" : "Zutaten"
+        },
+        {
+          "documentIdentifier" : "BJNR273800003BJNE000401116",
+          "paragraph" : "§ 3",
+          "title" : "Kennzeichnung"
+        },
+        {
+          "documentIdentifier" : "BJNR273800003BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Verkehrsverbote"
+        },
+        {
+          "documentIdentifier" : "BJNR273800003BJNE000601310",
+          "paragraph" : "§ 5",
+          "title" : "Straftaten und Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR273800003BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Übergangsvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR273800003BJNE000901116",
+          "paragraph" : "§ 7",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR273800003BJNE001100000",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu den §§ 1, 2, 3)"
+        },
+        {
+          "documentIdentifier" : "BJNR273800003BJNE001200000",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 2 Abs. 1 Nr. 1)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

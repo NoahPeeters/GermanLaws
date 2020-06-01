@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR146410002",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR146410002Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR146410002BJNE000100305",
+          "paragraph" : "§ 1",
+          "title" : "Umlageverfahren der Träger der Krankenversicherung"
+        },
+        {
+          "documentIdentifier" : "BJNR146410002BJNE000200305",
+          "paragraph" : "§ 2",
+          "title" : "Umlageverfahren der Träger der Unfallversicherung"
+        },
+        {
+          "documentIdentifier" : "BJNR146410002BJNE000300305",
+          "paragraph" : "§ 3",
+          "title" : "Übertragung der Zuständigkeit für Entsendevereinbarungen auf die Deutsche\nVerbindungsstelle Krankenversicherung - Ausland"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

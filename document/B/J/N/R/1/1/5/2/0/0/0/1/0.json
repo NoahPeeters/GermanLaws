@@ -1,0 +1,64 @@
+{
+  "documentIdentifier" : "BJNR115200010",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR115200010Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR115200010BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Ziele"
+        },
+        {
+          "documentIdentifier" : "BJNR115200010BJNE000301126",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR115200010BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Umsetzung"
+        },
+        {
+          "documentIdentifier" : "BJNR115200010BJNE000501308",
+          "paragraph" : "§ 4",
+          "title" : "Verringerung der Hilfebedürftigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR115200010BJNE000602126",
+          "paragraph" : "§ 5",
+          "title" : "Verbesserung der Integration in Erwerbstätigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR115200010BJNE000702126",
+          "paragraph" : "§ 6",
+          "title" : "Vermeidung von langfristigem Leistungsbezug"
+        },
+        {
+          "documentIdentifier" : "BJNR115200010BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Form der Veröffentlichung"
+        },
+        {
+          "documentIdentifier" : "BJNR115200010BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Verfahren zur Weiterentwicklung dieser Rechtsverordnung"
+        },
+        {
+          "documentIdentifier" : "BJNR115200010BJNE001000000",
+          "paragraph" : "§ 9",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

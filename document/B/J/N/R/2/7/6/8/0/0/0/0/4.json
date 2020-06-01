@@ -1,0 +1,64 @@
+{
+  "documentIdentifier" : "BJNR276800004",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR276800004Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR276800004BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Grundsatz"
+        },
+        {
+          "documentIdentifier" : "BJNR276800004BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Mindestanforderungen"
+        },
+        {
+          "documentIdentifier" : "BJNR276800004BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Leistungsvereinbarung"
+        },
+        {
+          "documentIdentifier" : "BJNR276800004BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Vergütungsvereinbarung"
+        },
+        {
+          "documentIdentifier" : "BJNR276800004BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Prüfungsvereinbarung"
+        },
+        {
+          "documentIdentifier" : "BJNR276800004BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Mitteilungspflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR276800004BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Befristung"
+        },
+        {
+          "documentIdentifier" : "BJNR276800004BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Kündigung"
+        },
+        {
+          "documentIdentifier" : "BJNR276800004BJNE001000000",
+          "paragraph" : "§ 9",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

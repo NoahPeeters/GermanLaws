@@ -1,0 +1,74 @@
+{
+  "documentIdentifier" : "BJNR166700017",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR166700017Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR166700017BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich, Verpflichtete"
+        },
+        {
+          "documentIdentifier" : "BJNR166700017BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Ersuchen"
+        },
+        {
+          "documentIdentifier" : "BJNR166700017BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Personenbasiertes Ersuchen"
+        },
+        {
+          "documentIdentifier" : "BJNR166700017BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Nummernbasiertes Ersuchen"
+        },
+        {
+          "documentIdentifier" : "BJNR166700017BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Anschriftenbasiertes Ersuchen"
+        },
+        {
+          "documentIdentifier" : "BJNR166700017BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Abfrage der Daten"
+        },
+        {
+          "documentIdentifier" : "BJNR166700017BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Datenübermittlung durch den Verpflichteten"
+        },
+        {
+          "documentIdentifier" : "BJNR166700017BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Datenübermittlung durch die Bundesnetzagentur"
+        },
+        {
+          "documentIdentifier" : "BJNR166700017BJNE001000000",
+          "paragraph" : "§ 9",
+          "title" : "Sicherheitsanforderungen"
+        },
+        {
+          "documentIdentifier" : "BJNR166700017BJNE001100000",
+          "paragraph" : "§ 10",
+          "title" : "Evaluierung"
+        },
+        {
+          "documentIdentifier" : "BJNR166700017BJNE001200000",
+          "paragraph" : "§ 11",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

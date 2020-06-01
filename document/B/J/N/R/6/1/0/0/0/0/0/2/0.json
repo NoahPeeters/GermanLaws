@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR610000020",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR610000020Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR610000020BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Gegenstand"
+        },
+        {
+          "documentIdentifier" : "BJNR610000020BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Befreiung von Inhabern von Schengen-Visa"
+        },
+        {
+          "documentIdentifier" : "BJNR610000020BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

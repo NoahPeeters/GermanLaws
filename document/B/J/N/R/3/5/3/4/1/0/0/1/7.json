@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR353410017",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR353410017Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR353410017BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Übertragung von Verordnungsermächtigungen nach dem Telekommunikationsgesetz"
+        },
+        {
+          "documentIdentifier" : "BJNR353410017BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Übertragung von Verordnungsermächtigungen nach dem Elektromagnetische-Verträglichkeit-Gesetz"
+        },
+        {
+          "documentIdentifier" : "BJNR353410017BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Übertragung von Verordnungsermächtigungen nach dem Funkanlagengesetz"
+        },
+        {
+          "documentIdentifier" : "BJNR353410017BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Reichweite der Befugnisse der Bundesnetzagentur"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

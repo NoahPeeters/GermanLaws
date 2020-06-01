@@ -1,0 +1,69 @@
+{
+  "documentIdentifier" : "BJNR042800009",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR042800009Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR042800009BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Förderziel und Fördervolumen"
+        },
+        {
+          "documentIdentifier" : "BJNR042800009BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Verteilung"
+        },
+        {
+          "documentIdentifier" : "BJNR042800009BJNE000301377",
+          "paragraph" : "§ 3",
+          "title" : "Förderbereiche"
+        },
+        {
+          "documentIdentifier" : "BJNR042800009BJNE000401377",
+          "paragraph" : "§ 3a",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR042800009BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Doppelförderung"
+        },
+        {
+          "documentIdentifier" : "BJNR042800009BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Förderzeitraum"
+        },
+        {
+          "documentIdentifier" : "BJNR042800009BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Förderquote und Bewirtschaftung"
+        },
+        {
+          "documentIdentifier" : "BJNR042800009BJNE000800000",
+          "paragraph" : "§ 6a",
+          "title" : "Prüfung durch den Bundesrechnungshof"
+        },
+        {
+          "documentIdentifier" : "BJNR042800009BJNE000901377",
+          "paragraph" : "§ 7",
+          "title" : "Rückforderung"
+        },
+        {
+          "documentIdentifier" : "BJNR042800009BJNE001002377",
+          "paragraph" : "§ 8",
+          "title" : "Verwaltungsvereinbarung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

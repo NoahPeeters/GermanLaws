@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR145200019",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR145200019Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR145200019BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Fortschreibung der Regelbedarfe für das Jahr 2020"
+        },
+        {
+          "documentIdentifier" : "BJNR145200019BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Ergänzung der Anlage zu § 28 des Zwölften Buches Sozialgesetzbuch"
+        },
+        {
+          "documentIdentifier" : "BJNR145200019BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Übergangsregelung aus Anlass dieser Verordnung"
+        },
+        {
+          "documentIdentifier" : "BJNR145200019BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

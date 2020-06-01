@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR019720991",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR019720991Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR019720991BJNE000204116",
+          "paragraph" : "§ 1",
+          "title" : "Gebühren und Auslagen"
+        },
+        {
+          "documentIdentifier" : "BJNR019720991BJNE000303116",
+          "paragraph" : "§ 2",
+          "title" : "Höhe der Gebühren"
+        },
+        {
+          "documentIdentifier" : "BJNR019720991BJNE000403116",
+          "paragraph" : "§ 3",
+          "title" : "Gebühren in besonderen Fällen"
+        },
+        {
+          "documentIdentifier" : "BJNR019720991BJNE000502116",
+          "paragraph" : "§ 4",
+          "title" : "Gebührenermäßigung und Gebührenbefreiung"
+        },
+        {
+          "documentIdentifier" : "BJNR019720991BJNE000603116",
+          "paragraph" : "§ 5",
+          "title" : "Sonstige Gebühren"
+        },
+        {
+          "documentIdentifier" : "BJNR019720991BJNE000702116",
+          "paragraph" : "§ 6",
+          "title" : "Übergangsregelung"
+        },
+        {
+          "documentIdentifier" : "BJNR019720991BJNE000801116",
+          "paragraph" : "§ 7",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

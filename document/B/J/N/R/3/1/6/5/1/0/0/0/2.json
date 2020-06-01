@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR316510002",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR316510002Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR316510002BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Zuständigkeitsübergang"
+        },
+        {
+          "documentIdentifier" : "BJNR316510002BJNE000201377",
+          "paragraph" : "§ 2",
+          "title" : "Anpassung der Gesetze und Rechtsverordnungen"
+        },
+        {
+          "documentIdentifier" : "BJNR316510002BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Neufassung der Gesetze und Rechtsverordnungen"
+        },
+        {
+          "documentIdentifier" : "BJNR316510002BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Anwendungsvorschrift"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

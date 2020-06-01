@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR236300004",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR236300004Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR236300004BJNE000203124",
+          "paragraph" : "§ 1",
+          "title" : "Gebühren und Auslagen"
+        },
+        {
+          "documentIdentifier" : "BJNR236300004BJNE000302124",
+          "paragraph" : "§ 2",
+          "title" : "Allgemeine Gebührengrundsätze"
+        },
+        {
+          "documentIdentifier" : "BJNR236300004BJNE000401124",
+          "paragraph" : "§ 3",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR236300004BJNE000505124",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 1 Abs 1)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

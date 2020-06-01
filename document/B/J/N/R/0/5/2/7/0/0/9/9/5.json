@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR052700995",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR052700995Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR052700995BJNE000200307",
+          "paragraph" : "§ 1",
+          "title" : "Aufhebung der staatlichen Anerkennung des Ausbildungsberufs"
+        },
+        {
+          "documentIdentifier" : "BJNR052700995BJNE000300307",
+          "paragraph" : "§ 2",
+          "title" : "Übergangsregelung"
+        },
+        {
+          "documentIdentifier" : "BJNR052700995BJNE000400307",
+          "paragraph" : "§ 3",
+          "title" : "Übergangsfrist"
+        },
+        {
+          "documentIdentifier" : "BJNR052700995BJNE000500307",
+          "paragraph" : "§ 4",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

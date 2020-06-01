@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR239600014",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR239600014Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR239600014BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Beitragssätze in der Rentenversicherung"
+        },
+        {
+          "documentIdentifier" : "BJNR239600014BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "documentIdentifier" : "BJNR150400002",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR150400002BJNG000104301",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR150400002BJNE000103360",
+          "paragraph" : "§ 1",
+          "title" : "Gebühren"
+        },
+        {
+          "documentIdentifier" : "BJNR150400002BJNE000207360",
+          "paragraph" : "§ 2",
+          "title" : "Gebührentatbestände; Höhe der Gebühren"
+        },
+        {
+          "documentIdentifier" : "BJNR150400002BJNE000309124",
+          "paragraph" : "§ 3",
+          "title" : "Gebührenerhebung in besonderen Fällen"
+        },
+        {
+          "documentIdentifier" : "BJNR150400002BJNE000401377",
+          "paragraph" : "§ 4",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gebührenerhebung"
+    },
+    {
+      "documentIdentifier" : "BJNR150400002BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR150400002BJNE000506360",
+          "paragraph" : "(XXXX) §§ 5 bis 12b",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Umlage"
+    },
+    {
+      "documentIdentifier" : "BJNR150400002BJNG000401112",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR150400002BJNE001314360",
+          "paragraph" : "§ 13",
+          "title" : "Übergangsregelungen"
+        },
+        {
+          "documentIdentifier" : "BJNR150400002BJNE002101308",
+          "paragraph" : "§ 13a",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR150400002BJNE001401377",
+          "paragraph" : "§ 14",
+          "title" : "Aufhebung von Rechtsvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR150400002BJNE001500000",
+          "paragraph" : "§ 15",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR150400002BJNE002208360",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 2 Abs. 1)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übergangs- und Schlussbestimmungen"
+    }
+  ]
+}

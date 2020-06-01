@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR071600009",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR071600009Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR071600009BJNE000101311",
+          "paragraph" : "§ 1",
+          "title" : "Zweckbestimmung"
+        },
+        {
+          "documentIdentifier" : "BJNR071600009BJNE000202311",
+          "paragraph" : "§ 2",
+          "title" : "Anspruch"
+        },
+        {
+          "documentIdentifier" : "BJNR071600009BJNE000302311",
+          "paragraph" : "§ 3",
+          "title" : "Anpassung"
+        },
+        {
+          "documentIdentifier" : "BJNR071600009BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Rückforderung"
+        },
+        {
+          "documentIdentifier" : "BJNR071600009BJNE000501311",
+          "paragraph" : "§ 5",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

@@ -1,0 +1,257 @@
+{
+  "documentIdentifier" : "BJNR005720957",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR005720957BJNG000100333",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Arztregister"
+    },
+    {
+      "documentIdentifier" : "BJNR005720957BJNG000200333",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Bildung und Abgrenzung der Zulassungsbezirke"
+    },
+    {
+      "documentIdentifier" : "BJNR005720957BJNG000300333",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Bedarfsplanung"
+    },
+    {
+      "documentIdentifier" : "BJNR005720957BJNG000400333",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR005720957BJNG001700333",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Überversorgung"
+        }
+      ],
+      "title" : "Unterversorgung"
+    },
+    {
+      "documentIdentifier" : "BJNR005720957BJNG000500333",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Voraussetzungen für die Zulassung"
+    },
+    {
+      "documentIdentifier" : "BJNR005720957BJNG000601308",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR005720957BJNE004000333",
+          "paragraph" : "(XXXX) §§ 22 u 23",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Zulassung und Vertragsarztsitz"
+    },
+    {
+      "documentIdentifier" : "BJNR005720957BJNG000700333",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR005720957BJNE004601308",
+          "paragraph" : "(XXXX) §§ 29 und 30",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Ruhen, Entziehung und Ende der Zulassung"
+    },
+    {
+      "documentIdentifier" : "BJNR005720957BJNG000901308",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          8
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Ermächtigung"
+    },
+    {
+      "documentIdentifier" : "BJNR005720957BJNG001002308",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          9
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Vertreter, Assistenten, angestellte Ärzte und Berufsausübungsgemeinschaft"
+    },
+    {
+      "documentIdentifier" : "BJNR005720957BJNG001100333",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          10
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Zulassungs- und Berufungsausschüsse"
+    },
+    {
+      "documentIdentifier" : "BJNR005720957BJNG001200333",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          11
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR005720957BJNG001300333",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              11,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Zulassungsausschuß für Ärzte"
+        },
+        {
+          "documentIdentifier" : "BJNR005720957BJNG001400333",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              11,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Berufungsausschuß für Ärzte (Widerspruchsverfahren)"
+        }
+      ],
+      "title" : "Verfahren vor den Zulassungs- und Berufungsausschüssen"
+    },
+    {
+      "documentIdentifier" : "BJNR005720957BJNG001500333",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          12
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gebühren"
+    },
+    {
+      "documentIdentifier" : "BJNR005720957BJNG001600333",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR005720957BJNE007101308",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 2 Abs. 2)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          13
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übergangs- und Schlußbestimmungen"
+    }
+  ]
+}

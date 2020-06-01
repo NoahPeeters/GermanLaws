@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR617910019",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR617910019Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR617910019BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Geltungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR617910019BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Mindestlöhne"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

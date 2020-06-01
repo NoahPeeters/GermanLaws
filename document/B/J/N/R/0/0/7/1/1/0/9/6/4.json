@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR007110964",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR007110964Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR007110964BJNE000200312",
+          "paragraph" : "§ 1",
+          "title" : "Umfang der Kostenmasse"
+        },
+        {
+          "documentIdentifier" : "BJNR007110964BJNE000300312",
+          "paragraph" : "§ 2",
+          "title" : "Zusammensetzung der Kostenmasse"
+        },
+        {
+          "documentIdentifier" : "BJNR007110964BJNE000400312",
+          "paragraph" : "§ 3",
+          "title" : "Grunderwerbskosten"
+        },
+        {
+          "documentIdentifier" : "BJNR007110964BJNE000500312",
+          "paragraph" : "§ 4",
+          "title" : "Baukosten"
+        },
+        {
+          "documentIdentifier" : "BJNR007110964BJNE000600312",
+          "paragraph" : "§ 5",
+          "title" : "Verwaltungskosten"
+        },
+        {
+          "documentIdentifier" : "BJNR007110964BJNE000700312",
+          "paragraph" : "§ 6",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR322110013",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR322110013Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR322110013BJNE000101124",
+          "paragraph" : "§ 1",
+          "title" : "Voraussetzungen für das Inverkehrbringen oder die Inbetriebnahme von energieverbrauchsrelevanten Produkten"
+        },
+        {
+          "documentIdentifier" : "BJNR322110013BJNE000301124",
+          "paragraph" : "§ 2",
+          "title" : "Ordnungswidrigkeiten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

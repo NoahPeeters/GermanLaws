@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR005850960",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR005850960Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR005850960BJNE000100314",
+          "paragraph" : "§ 1",
+          "title" : "Umwandlung in eine Aktiengesellschaft"
+        },
+        {
+          "documentIdentifier" : "BJNR005850960BJNE000201160",
+          "paragraph" : "§ 2",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR005850960BJNE000301160",
+          "paragraph" : "§ 3",
+          "title" : "Vertretung bei der Stimmrechtsausübung"
+        },
+        {
+          "documentIdentifier" : "BJNR005850960BJNE000401160",
+          "paragraph" : "§ 4",
+          "title" : "Verfassung der Gesellschaft"
+        },
+        {
+          "documentIdentifier" : "BJNR005850960BJNE000600314",
+          "paragraph" : "§ 13",
+          "title" : "Berlin-Klausel"
+        },
+        {
+          "documentIdentifier" : "BJNR005850960BJNE000700314",
+          "paragraph" : "§ 14",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

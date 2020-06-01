@@ -1,0 +1,710 @@
+{
+  "documentIdentifier" : "BJNR244610017",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR244610017BJNG000100000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR244610017BJNG000200000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR244610017BJNE000200000",
+              "paragraph" : "§ 1",
+              "title" : "Begriffsbestimmungen"
+            },
+            {
+              "documentIdentifier" : "BJNR244610017BJNE000300000",
+              "paragraph" : "§ 2",
+              "title" : "Ausnahmen; Verordnungsermächtigung"
+            },
+            {
+              "documentIdentifier" : "BJNR244610017BJNE000400000",
+              "paragraph" : "§ 3",
+              "title" : "Für Institute zugelassene Tätigkeiten und verbotene Geschäfte"
+            },
+            {
+              "documentIdentifier" : "BJNR244610017BJNE000500000",
+              "paragraph" : "§ 4",
+              "title" : "Aufgaben und allgemeine Befugnisse der Bundesanstalt, Entscheidung in Zweifelsfällen"
+            },
+            {
+              "documentIdentifier" : "BJNR244610017BJNE000600000",
+              "paragraph" : "§ 5",
+              "title" : "Zusammenarbeit mit anderen Behörden"
+            },
+            {
+              "documentIdentifier" : "BJNR244610017BJNE000700000",
+              "paragraph" : "§ 6",
+              "title" : "Verschwiegenheitspflicht"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Begriffsbestimmungen, Anwendungsbereich, Aufsicht"
+        },
+        {
+          "documentIdentifier" : "BJNR244610017BJNG000300000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR244610017BJNE000800000",
+              "paragraph" : "§ 7",
+              "title" : "Einschreiten gegen unerlaubte Zahlungsdienste und E-Geld-Geschäfte"
+            },
+            {
+              "documentIdentifier" : "BJNR244610017BJNE000900000",
+              "paragraph" : "§ 8",
+              "title" : "Verfolgung unerlaubter Zahlungsdienste und E-Geld-Geschäfte"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Durchsetzung des Erlaubnisvorbehalts"
+        },
+        {
+          "documentIdentifier" : "BJNR244610017BJNG000400000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR244610017BJNE001001128",
+              "paragraph" : "§ 9",
+              "title" : "Sofortige Vollziehbarkeit"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Sofortige Vollziehbarkeit"
+        }
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR244610017BJNG000500000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR244610017BJNG000600000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR244610017BJNE001100000",
+              "paragraph" : "§ 10",
+              "title" : "Erlaubnis für das Erbringen von Zahlungsdiensten; Verordnungsermächtigung"
+            },
+            {
+              "documentIdentifier" : "BJNR244610017BJNE001200000",
+              "paragraph" : "§ 11",
+              "title" : "Erlaubnis für das Betreiben von E-Geld-Geschäften; Verordnungsermächtigung"
+            },
+            {
+              "documentIdentifier" : "BJNR244610017BJNE001300000",
+              "paragraph" : "§ 12",
+              "title" : "Versagung der Erlaubnis"
+            },
+            {
+              "documentIdentifier" : "BJNR244610017BJNE001400000",
+              "paragraph" : "§ 13",
+              "title" : "Erlöschen und Aufhebung der Erlaubnis"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Erlaubnis"
+        },
+        {
+          "documentIdentifier" : "BJNR244610017BJNG000700000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR244610017BJNE001500000",
+              "paragraph" : "§ 14",
+              "title" : "Inhaber bedeutender Beteiligungen; Verordnungsermächtigung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Inhaber bedeutender Beteiligungen"
+        }
+      ],
+      "title" : "Erlaubnis; Inhaber bedeutender Beteiligungen"
+    },
+    {
+      "documentIdentifier" : "BJNR244610017BJNG000800000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR244610017BJNE001600000",
+          "paragraph" : "§ 15",
+          "title" : "Eigenmittel; Verordnungsermächtigung"
+        },
+        {
+          "documentIdentifier" : "BJNR244610017BJNE001700000",
+          "paragraph" : "§ 16",
+          "title" : "Absicherung für den Haftungsfall für Zahlungsauslösedienste; Verordnungsermächtigung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Eigenmittel, Absicherung im Haftungsfall"
+    },
+    {
+      "documentIdentifier" : "BJNR244610017BJNG000900000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR244610017BJNE001800000",
+          "paragraph" : "§ 17",
+          "title" : "Sicherungsanforderungen für die Entgegennahme von Geldbeträgen im Rahmen der Erbringung von Zahlungsdiensten und des Betreibens des E-Geld-Geschäfts"
+        },
+        {
+          "documentIdentifier" : "BJNR244610017BJNE001900000",
+          "paragraph" : "§ 18",
+          "title" : "Sicherungsanforderungen für die Entgegennahme von Geldbeträgen für die Ausgabe von E-Geld"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Sicherungsanforderungen"
+    },
+    {
+      "documentIdentifier" : "BJNR244610017BJNG001000000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR244610017BJNE002000000",
+          "paragraph" : "§ 19",
+          "title" : "Auskünfte und Prüfungen"
+        },
+        {
+          "documentIdentifier" : "BJNR244610017BJNE002100000",
+          "paragraph" : "§ 20",
+          "title" : "Abberufung von Geschäftsleitern und Mitgliedern des Verwaltungs- und Aufsichtsorgans, Übertragung von Organbefugnissen auf Sonderbeauftragte"
+        },
+        {
+          "documentIdentifier" : "BJNR244610017BJNE002200000",
+          "paragraph" : "§ 21",
+          "title" : "Maßnahmen in besonderen Fällen und Insolvenzantrag"
+        },
+        {
+          "documentIdentifier" : "BJNR244610017BJNE002300000",
+          "paragraph" : "§ 22",
+          "title" : "Vorlage von Jahresabschluss, Lagebericht und Prüfungsberichten"
+        },
+        {
+          "documentIdentifier" : "BJNR244610017BJNE002400000",
+          "paragraph" : "§ 23",
+          "title" : "Anzeigepflicht bei Bestellung des Abschlussprüfers, Bestellung in besonderen Fällen"
+        },
+        {
+          "documentIdentifier" : "BJNR244610017BJNE002500000",
+          "paragraph" : "§ 24",
+          "title" : "Besondere Pflichten des Prüfers; Verordnungsermächtigung"
+        },
+        {
+          "documentIdentifier" : "BJNR244610017BJNE002600000",
+          "paragraph" : "§ 25",
+          "title" : "Inanspruchnahme von Agenten; Verordnungsermächtigung"
+        },
+        {
+          "documentIdentifier" : "BJNR244610017BJNE002700000",
+          "paragraph" : "§ 26",
+          "title" : "Auslagerung"
+        },
+        {
+          "documentIdentifier" : "BJNR244610017BJNE002801126",
+          "paragraph" : "§ 27",
+          "title" : "Organisationspflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR244610017BJNE002900000",
+          "paragraph" : "§ 28",
+          "title" : "Anzeigen; Verordnungsermächtigung"
+        },
+        {
+          "documentIdentifier" : "BJNR244610017BJNE003000000",
+          "paragraph" : "§ 29",
+          "title" : "Monatsausweise; Verordnungsermächtigung"
+        },
+        {
+          "documentIdentifier" : "BJNR244610017BJNE003100000",
+          "paragraph" : "§ 30",
+          "title" : "Aufbewahrung von Unterlagen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Vorschriften über die laufende Beaufsichtigung von Instituten"
+    },
+    {
+      "documentIdentifier" : "BJNR244610017BJNG001100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR244610017BJNE003200000",
+          "paragraph" : "§ 31",
+          "title" : "Verbot der Ausgabe von E-Geld über andere Personen"
+        },
+        {
+          "documentIdentifier" : "BJNR244610017BJNE003300000",
+          "paragraph" : "§ 32",
+          "title" : "Vertrieb und Rücktausch von E-Geld durch E-Geld-Agenten"
+        },
+        {
+          "documentIdentifier" : "BJNR244610017BJNE003400000",
+          "paragraph" : "§ 33",
+          "title" : "Verpflichtungen des E-Geld-Emittenten bei der Ausgabe und dem Rücktausch von E-Geld"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Sondervorschriften für das E-Geld-Geschäft und den Vertrieb und die Rücktauschbarkeit"
+    },
+    {
+      "documentIdentifier" : "BJNR244610017BJNG001200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR244610017BJNE003500000",
+          "paragraph" : "§ 34",
+          "title" : "Registrierungspflicht; Verordnungsermächtigung"
+        },
+        {
+          "documentIdentifier" : "BJNR244610017BJNE003600000",
+          "paragraph" : "§ 35",
+          "title" : "Versagung der Registrierung"
+        },
+        {
+          "documentIdentifier" : "BJNR244610017BJNE003700000",
+          "paragraph" : "§ 36",
+          "title" : "Absicherung für den Haftungsfall; Verordnungsermächtigung"
+        },
+        {
+          "documentIdentifier" : "BJNR244610017BJNE003800000",
+          "paragraph" : "§ 37",
+          "title" : "Erlöschen und Aufhebung der Registrierung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Sonderbestimmungen für Kontoinformationsdienste"
+    },
+    {
+      "documentIdentifier" : "BJNR244610017BJNG001300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR244610017BJNE003900000",
+          "paragraph" : "§ 38",
+          "title" : "Errichten einer Zweigniederlassung, grenzüberschreitender Dienstleistungsverkehr durch inländische Institute"
+        },
+        {
+          "documentIdentifier" : "BJNR244610017BJNE004001128",
+          "paragraph" : "§ 39",
+          "title" : "Errichten einer Zweigniederlassung, grenzüberschreitender Dienstleistungsverkehr von Unternehmen mit Sitz in einem anderen Staat des Europäischen Wirtschaftsraums"
+        },
+        {
+          "documentIdentifier" : "BJNR244610017BJNE004100000",
+          "paragraph" : "§ 40",
+          "title" : "Berichtspflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR244610017BJNE004200000",
+          "paragraph" : "§ 41",
+          "title" : "Zentrale Kontaktperson; Verordnungsermächtigung"
+        },
+        {
+          "documentIdentifier" : "BJNR244610017BJNE004300000",
+          "paragraph" : "§ 42",
+          "title" : "Zweigstellen von Unternehmen mit Sitz außerhalb des Europäischen Wirtschaftsraums"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          8
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Europäischer Pass, Zweigniederlassung und grenzüberschreitender Dienstleistungsverkehr, Zweigstellen aus Drittstaaten"
+    },
+    {
+      "documentIdentifier" : "BJNR244610017BJNG001400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR244610017BJNE004400000",
+          "paragraph" : "§ 43",
+          "title" : "Zahlungsinstituts-Register"
+        },
+        {
+          "documentIdentifier" : "BJNR244610017BJNE004500000",
+          "paragraph" : "§ 44",
+          "title" : "E-Geld-Instituts-Register"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          9
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Register"
+    },
+    {
+      "documentIdentifier" : "BJNR244610017BJNG001500000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          10
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR244610017BJNG001600000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR244610017BJNE004601000",
+              "paragraph" : "§ 45",
+              "title" : "Pflichten des kontoführenden Zahlungsdienstleisters"
+            },
+            {
+              "documentIdentifier" : "BJNR244610017BJNE004700000",
+              "paragraph" : "§ 46",
+              "title" : "Rechte und Pflichten des kartenausgebenden Zahlungsdienstleisters"
+            },
+            {
+              "documentIdentifier" : "BJNR244610017BJNE004800000",
+              "paragraph" : "§ 47",
+              "title" : "Ausnahme für E-Geld-Instrumente"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              10,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Kartengebundene Zahlungsinstrumente"
+        },
+        {
+          "documentIdentifier" : "BJNR244610017BJNG001700000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR244610017BJNE004900000",
+              "paragraph" : "§ 48",
+              "title" : "Pflichten des kontoführenden Zahlungsdienstleisters bei Zahlungsauslösediensten"
+            },
+            {
+              "documentIdentifier" : "BJNR244610017BJNE005000000",
+              "paragraph" : "§ 49",
+              "title" : "Pflichten des Zahlungsauslösedienstleisters"
+            },
+            {
+              "documentIdentifier" : "BJNR244610017BJNE005100000",
+              "paragraph" : "§ 50",
+              "title" : "Pflichten des kontoführenden Zahlungsdienstleisters bei Kontoinformationsdiensten"
+            },
+            {
+              "documentIdentifier" : "BJNR244610017BJNE005200000",
+              "paragraph" : "§ 51",
+              "title" : "Pflichten des Kontoinformationsdienstleisters"
+            },
+            {
+              "documentIdentifier" : "BJNR244610017BJNE005300000",
+              "paragraph" : "§ 52",
+              "title" : "Zugang zu Zahlungskonten"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              10,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Zugang von Zahlungsauslöse- und Kontoinformationsdienstleistern zu Zahlungskonten"
+        },
+        {
+          "documentIdentifier" : "BJNR244610017BJNG001800000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR244610017BJNE005400000",
+              "paragraph" : "§ 53",
+              "title" : "Beherrschung operationeller und sicherheitsrelevanter Risiken"
+            },
+            {
+              "documentIdentifier" : "BJNR244610017BJNE005500000",
+              "paragraph" : "§ 54",
+              "title" : "Meldung schwerwiegender Betriebs- oder Sicherheitsvorfälle"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              10,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Risiken und Meldung von Vorfällen"
+        },
+        {
+          "documentIdentifier" : "BJNR244610017BJNG001900000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR244610017BJNE005601000",
+              "paragraph" : "§ 55",
+              "title" : "Starke Kundenauthentifizierung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              10,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Starke Kundenauthentifizierung"
+        },
+        {
+          "documentIdentifier" : "BJNR244610017BJNG002000000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR244610017BJNE005700000",
+              "paragraph" : "§ 56",
+              "title" : "Zugang zu Zahlungskontodiensten bei CRR-Kreditinstituten"
+            },
+            {
+              "documentIdentifier" : "BJNR244610017BJNE005800000",
+              "paragraph" : "§ 57",
+              "title" : "Zugang zu Zahlungssystemen"
+            },
+            {
+              "documentIdentifier" : "BJNR244610017BJNE005900000",
+              "paragraph" : "§ 58",
+              "title" : "Aufgaben der Bundesanstalt bei Kartenzahlverfahren, Ausnahmen für neue Zahlverfahren im Massenzahlungsverkehr; Verordnungsermächtigung"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              10,
+              5
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR244610017BJNG002500360",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR244610017BJNE006503360",
+                  "paragraph" : "§ 58a",
+                  "title" : "Zugang zu technischen Infrastrukturleistungen bei der Erbringung von Zahlungsdiensten oder dem Betreiben des E-Geld-Geschäfts"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  10,
+                  5
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Technische Infrastrukturleistungen"
+            }
+          ],
+          "title" : "Zugang zu Konten und Zahlungssystemen"
+        }
+      ],
+      "title" : "Gemeinsame Bestimmungen für alle Zahlungsdienstleister"
+    },
+    {
+      "documentIdentifier" : "BJNR244610017BJNG002100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR244610017BJNE006001126",
+          "paragraph" : "§ 59",
+          "title" : "Datenschutz"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          11
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Datenschutz"
+    },
+    {
+      "documentIdentifier" : "BJNR244610017BJNG002200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR244610017BJNE006100000",
+          "paragraph" : "§ 60",
+          "title" : "Beschwerden über Zahlungsdienstleister"
+        },
+        {
+          "documentIdentifier" : "BJNR244610017BJNE006200000",
+          "paragraph" : "§ 61",
+          "title" : "Beschwerden über E-Geld-Emittenten"
+        },
+        {
+          "documentIdentifier" : "BJNR244610017BJNE006300000",
+          "paragraph" : "§ 62",
+          "title" : "Streitbeilegung bei einem Zahlungsdienstleister"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          12
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Beschwerden und Außergerichtliche Streitbeilegung"
+    },
+    {
+      "documentIdentifier" : "BJNR244610017BJNG002300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR244610017BJNE006400000",
+          "paragraph" : "§ 63",
+          "title" : "Strafvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR244610017BJNE006502360",
+          "paragraph" : "§ 64",
+          "title" : "Bußgeldvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR244610017BJNE006600000",
+          "paragraph" : "§ 65",
+          "title" : "Mitteilung in Strafsachen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          13
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Strafvorschriften, Bußgeldvorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR244610017BJNG002400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR244610017BJNE006700000",
+          "paragraph" : "§ 66",
+          "title" : "Übergangsvorschriften für Zahlungsinstitute, die bereits über eine Erlaubnis verfügen"
+        },
+        {
+          "documentIdentifier" : "BJNR244610017BJNE006800000",
+          "paragraph" : "§ 67",
+          "title" : "Übergangsvorschriften für E-Geld-Institute, die bereits über eine Erlaubnis verfügen"
+        },
+        {
+          "documentIdentifier" : "BJNR244610017BJNE006900000",
+          "paragraph" : "§ 68",
+          "title" : "Übergangsvorschriften für bestimmte Zahlungsdienste und für die starke Kundenauthentifizierung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          14
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übergangsvorschriften"
+    }
+  ]
+}

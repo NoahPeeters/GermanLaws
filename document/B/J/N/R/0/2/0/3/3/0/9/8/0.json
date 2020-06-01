@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR020330980",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR020330980Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR020330980BJNE000206140",
+          "paragraph" : "§ 1",
+          "title" : "Zugelassene Betriebe"
+        },
+        {
+          "documentIdentifier" : "BJNR020330980BJNE000303308",
+          "paragraph" : "§ 2",
+          "title" : "Ausgeschlossene Betriebe"
+        },
+        {
+          "documentIdentifier" : "BJNR020330980BJNE000500319",
+          "paragraph" : "§ 4",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

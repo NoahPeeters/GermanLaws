@@ -1,0 +1,655 @@
+{
+  "documentIdentifier" : "BJNR226300008",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR226300008BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR226300008BJNE000300000",
+          "paragraph" : "§ 1",
+          "title" : "Standesamt"
+        },
+        {
+          "documentIdentifier" : "BJNR226300008BJNE000400000",
+          "paragraph" : "§ 2",
+          "title" : "Übersetzung in die deutsche Sprache"
+        },
+        {
+          "documentIdentifier" : "BJNR226300008BJNE000500000",
+          "paragraph" : "§ 3",
+          "title" : "Behinderung, Verweigerung der Unterschrift"
+        },
+        {
+          "documentIdentifier" : "BJNR226300008BJNE000600000",
+          "paragraph" : "§ 4",
+          "title" : "Rückgabe von Urkunden"
+        },
+        {
+          "documentIdentifier" : "BJNR226300008BJNE000700000",
+          "paragraph" : "§ 5",
+          "title" : "Prüfungspflicht des Standesbeamten"
+        },
+        {
+          "documentIdentifier" : "BJNR226300008BJNE000802116",
+          "paragraph" : "§ 6",
+          "title" : "Anzeige eines Personenstandsfalls"
+        },
+        {
+          "documentIdentifier" : "BJNR226300008BJNE000900000",
+          "paragraph" : "§ 7",
+          "title" : "Zurückstellen der Beurkundung"
+        },
+        {
+          "documentIdentifier" : "BJNR226300008BJNE001001116",
+          "paragraph" : "§ 8",
+          "title" : "Prüfung der Staatsangehörigkeit"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Bestimmungen"
+    },
+    {
+      "documentIdentifier" : "BJNR226300008BJNG000200000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR226300008BJNG000300000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR226300008BJNE001100000",
+              "paragraph" : "§ 9",
+              "title" : "Personenstandsregister, Registerinhalt"
+            },
+            {
+              "documentIdentifier" : "BJNR226300008BJNE001201116",
+              "paragraph" : "§ 10",
+              "title" : "Anforderungen an den Betrieb von Personenstandsregistern und Sicherungsregistern"
+            },
+            {
+              "documentIdentifier" : "BJNR226300008BJNE001301116",
+              "paragraph" : "§ 11",
+              "title" : "Anforderungen an Datenverarbeitungsverfahren"
+            },
+            {
+              "documentIdentifier" : "BJNR226300008BJNE001401116",
+              "paragraph" : "§ 12",
+              "title" : "Herstellererklärung"
+            },
+            {
+              "documentIdentifier" : "BJNR226300008BJNE001500000",
+              "paragraph" : "§ 13",
+              "title" : "Betriebs- und Sicherheitskonzept, Datenverarbeitungssysteme"
+            },
+            {
+              "documentIdentifier" : "BJNR226300008BJNE001601116",
+              "paragraph" : "§ 14",
+              "title" : "Berechtigungskonzept"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Betrieb elektronischer Personenstandsregister"
+        },
+        {
+          "documentIdentifier" : "BJNR226300008BJNG000400000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR226300008BJNE001700000",
+              "paragraph" : "§ 15",
+              "title" : "Personenstandsregister"
+            },
+            {
+              "documentIdentifier" : "BJNR226300008BJNE001802116",
+              "paragraph" : "§ 16",
+              "title" : "Haupteintrag"
+            },
+            {
+              "documentIdentifier" : "BJNR226300008BJNE001901116",
+              "paragraph" : "§ 17",
+              "title" : "Folgebeurkundungen"
+            },
+            {
+              "documentIdentifier" : "BJNR226300008BJNE002000000",
+              "paragraph" : "§ 18",
+              "title" : "Hinweise"
+            },
+            {
+              "documentIdentifier" : "BJNR226300008BJNE002100000",
+              "paragraph" : "§ 19",
+              "title" : "Aufbau und Gestaltung der Registereinträge"
+            },
+            {
+              "documentIdentifier" : "BJNR226300008BJNE002201116",
+              "paragraph" : "§ 20",
+              "title" : "Sicherungsregister"
+            },
+            {
+              "documentIdentifier" : "BJNR226300008BJNE002301116",
+              "paragraph" : "§ 21",
+              "title" : "Abschluss der Personenstandsregister"
+            },
+            {
+              "documentIdentifier" : "BJNR226300008BJNE002400000",
+              "paragraph" : "§ 22",
+              "title" : "Sammelakten"
+            },
+            {
+              "documentIdentifier" : "BJNR226300008BJNE002500000",
+              "paragraph" : "§ 23",
+              "title" : "Namensangabe"
+            },
+            {
+              "documentIdentifier" : "BJNR226300008BJNE002601116",
+              "paragraph" : "§ 24",
+              "title" : "Neubeurkundung nach Verlust eines Personenstandsregisters"
+            },
+            {
+              "documentIdentifier" : "BJNR226300008BJNE002700000",
+              "paragraph" : "§ 25",
+              "title" : "Übergabe der Register und Sammelakten an Archive"
+            },
+            {
+              "documentIdentifier" : "BJNR226300008BJNE002801116",
+              "paragraph" : "§ 26",
+              "title" : "Suchfunktion"
+            },
+            {
+              "documentIdentifier" : "BJNR226300008BJNE002902116",
+              "paragraph" : "§ 27",
+              "title" : "Verzeichnisse beim Standesamt I in Berlin"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Führung der Personenstandsregister"
+        }
+      ],
+      "title" : "Personenstandsregister"
+    },
+    {
+      "documentIdentifier" : "BJNR226300008BJNG000500000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR226300008BJNE003001116",
+          "paragraph" : "§ 28",
+          "title" : "Anmeldung"
+        },
+        {
+          "documentIdentifier" : "BJNR226300008BJNE003100000",
+          "paragraph" : "§ 29",
+          "title" : "Eheschließung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Eheschließung"
+    },
+    {
+      "documentIdentifier" : "BJNR226300008BJNG000600000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR226300008BJNE003201116",
+          "paragraph" : "§ 30",
+          "title" : "Umwandlung einer Lebenspartnerschaft in eine Ehe"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Lebenspartnerschaft"
+    },
+    {
+      "documentIdentifier" : "BJNR226300008BJNG000700000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR226300008BJNE003302116",
+          "paragraph" : "§ 31",
+          "title" : "Lebendgeburt, Totgeburt, Fehlgeburt"
+        },
+        {
+          "documentIdentifier" : "BJNR226300008BJNE003400000",
+          "paragraph" : "§ 32",
+          "title" : "Geburten in Fahrzeugen"
+        },
+        {
+          "documentIdentifier" : "BJNR226300008BJNE003501116",
+          "paragraph" : "§ 33",
+          "title" : "Nachweise bei Anzeige der Geburt"
+        },
+        {
+          "documentIdentifier" : "BJNR226300008BJNE003602116",
+          "paragraph" : "§ 34",
+          "title" : "Erwerb der deutschen Staatsangehörigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR226300008BJNE003701116",
+          "paragraph" : "§ 35",
+          "title" : "Besonderheiten bei der Beurkundung"
+        },
+        {
+          "documentIdentifier" : "BJNR226300008BJNE003800000",
+          "paragraph" : "§ 36",
+          "title" : "Fortführung des Geburtenregisters"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Geburt"
+    },
+    {
+      "documentIdentifier" : "BJNR226300008BJNG000800000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR226300008BJNE003901116",
+          "paragraph" : "§ 37",
+          "title" : "Sterbefälle in Fahrzeugen, Bergwerken und Gewässern; unbekannter Sterbeort"
+        },
+        {
+          "documentIdentifier" : "BJNR226300008BJNE004002116",
+          "paragraph" : "§ 38",
+          "title" : "Nachweise bei Anzeige des Sterbefalls"
+        },
+        {
+          "documentIdentifier" : "BJNR226300008BJNE004101116",
+          "paragraph" : "§ 39",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR226300008BJNE004201116",
+          "paragraph" : "§ 40",
+          "title" : "Besonderheiten bei der Beurkundung"
+        },
+        {
+          "documentIdentifier" : "BJNR226300008BJNE004301116",
+          "paragraph" : "§ 41",
+          "title" : "Sammlung der Beschlüsse über Todeserklärungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Sterbefall"
+    },
+    {
+      "documentIdentifier" : "BJNR226300008BJNG000900000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR226300008BJNE004403116",
+          "paragraph" : "§ 42",
+          "title" : "Familienrechtliche Zuordnung im Personenstandseintrag"
+        },
+        {
+          "documentIdentifier" : "BJNR226300008BJNE004500000",
+          "paragraph" : "§ 43",
+          "title" : "Sterbefälle in ehemaligen deutschen Konzentrationslagern"
+        },
+        {
+          "documentIdentifier" : "BJNR226300008BJNE004601116",
+          "paragraph" : "§ 44",
+          "title" : "Sterbefälle von Angehörigen der ehemaligen deutschen Wehrmacht"
+        },
+        {
+          "documentIdentifier" : "BJNR226300008BJNE004700000",
+          "paragraph" : "§ 45",
+          "title" : "Angleichung von Namen"
+        },
+        {
+          "documentIdentifier" : "BJNR226300008BJNE004801116",
+          "paragraph" : "§ 46",
+          "title" : "Bescheinigung über Erklärungen zur Namensführung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Besondere Beurkundungs- und Registervorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR226300008BJNG001000000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR226300008BJNE004901116",
+          "paragraph" : "§ 47",
+          "title" : "Berichtigungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          8
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Berichtigungen"
+    },
+    {
+      "documentIdentifier" : "BJNR226300008BJNG001100000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          9
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR226300008BJNG001200000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR226300008BJNE005000000",
+              "paragraph" : "§ 48",
+              "title" : "Personenstandsurkunden"
+            },
+            {
+              "documentIdentifier" : "BJNR226300008BJNE005101116",
+              "paragraph" : "§ 49",
+              "title" : "(weggefallen)"
+            },
+            {
+              "documentIdentifier" : "BJNR226300008BJNE005201116",
+              "paragraph" : "§ 50",
+              "title" : "Mehrsprachiger Auszug aus dem Personenstandsregister"
+            },
+            {
+              "documentIdentifier" : "BJNR226300008BJNE005300000",
+              "paragraph" : "§ 51",
+              "title" : "Mehrsprachiges Ehefähigkeitszeugnis"
+            },
+            {
+              "documentIdentifier" : "BJNR226300008BJNE005400000",
+              "paragraph" : "§ 52",
+              "title" : "Internationales Stammbuch der Familie"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              9,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Personenstandsurkunden"
+        },
+        {
+          "documentIdentifier" : "BJNR226300008BJNG001300000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR226300008BJNE005500000",
+              "paragraph" : "§ 53",
+              "title" : "Benutzung durch Personen"
+            },
+            {
+              "documentIdentifier" : "BJNR226300008BJNE005604116",
+              "paragraph" : "§ 54",
+              "title" : "Benutzung durch ausländische diplomatische und konsularische Vertretungen"
+            },
+            {
+              "documentIdentifier" : "BJNR226300008BJNE005700000",
+              "paragraph" : "§ 55",
+              "title" : "Benutzung für wissenschaftliche Zwecke"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              9,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Benutzung der Personenstandsregister"
+        },
+        {
+          "documentIdentifier" : "BJNR226300008BJNG001400000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR226300008BJNE005803116",
+              "paragraph" : "§ 56",
+              "title" : "Mitteilungen an das Standesamt"
+            },
+            {
+              "documentIdentifier" : "BJNR226300008BJNE005903116",
+              "paragraph" : "§ 57",
+              "title" : "Mitteilungen bei Beurkundung im Geburtenregister"
+            },
+            {
+              "documentIdentifier" : "BJNR226300008BJNE006005116",
+              "paragraph" : "§ 58",
+              "title" : "Mitteilungen bei Beurkundung im Eheregister"
+            },
+            {
+              "documentIdentifier" : "BJNR226300008BJNE006105116",
+              "paragraph" : "§ 59",
+              "title" : "Mitteilungen bei Beurkundung im Lebenspartnerschaftsregister"
+            },
+            {
+              "documentIdentifier" : "BJNR226300008BJNE006203116",
+              "paragraph" : "§ 60",
+              "title" : "Mitteilungen bei Beurkundung im Sterberegister"
+            },
+            {
+              "documentIdentifier" : "BJNR226300008BJNE006301116",
+              "paragraph" : "§ 61",
+              "title" : "Mitteilungen für statistische Zwecke"
+            },
+            {
+              "documentIdentifier" : "BJNR226300008BJNE006402116",
+              "paragraph" : "§ 62",
+              "title" : "Besonderheiten bei Mitteilungen"
+            },
+            {
+              "documentIdentifier" : "BJNR226300008BJNE006503116",
+              "paragraph" : "§ 63",
+              "title" : "Datenübermittlung"
+            },
+            {
+              "documentIdentifier" : "BJNR226300008BJNE006600000",
+              "paragraph" : "§ 64",
+              "title" : "Abrufverfahren"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              9,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Mitteilungen"
+        }
+      ],
+      "title" : "Personenstandsurkunden, Benutzung der Personenstandsregister, Mitteilungen"
+    },
+    {
+      "documentIdentifier" : "BJNR226300008BJNG001500000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR226300008BJNE006700000",
+          "paragraph" : "§ 65",
+          "title" : "Übergangsbeurkundungen"
+        },
+        {
+          "documentIdentifier" : "BJNR226300008BJNE006800000",
+          "paragraph" : "§ 66",
+          "title" : "Fortführung von Altregistern"
+        },
+        {
+          "documentIdentifier" : "BJNR226300008BJNE006901116",
+          "paragraph" : "§ 67",
+          "title" : "Fortführung des Familienbuchs als Heiratseintrag"
+        },
+        {
+          "documentIdentifier" : "BJNR226300008BJNE007000000",
+          "paragraph" : "§ 68",
+          "title" : "Fortführung des Heiratseintrags"
+        },
+        {
+          "documentIdentifier" : "BJNR226300008BJNE007102116",
+          "paragraph" : "§ 69",
+          "title" : "Übernahme in elektronische Personenstandsregister"
+        },
+        {
+          "documentIdentifier" : "BJNR226300008BJNE007201116",
+          "paragraph" : "§ 70",
+          "title" : "Personenstandsurkunden aus Altregistern und Übergangsbeurkundungen"
+        },
+        {
+          "documentIdentifier" : "BJNR226300008BJNE007301116",
+          "paragraph" : "§ 71",
+          "title" : "Fortführung, Benutzung und Aufbewahrung der Konsularregister"
+        },
+        {
+          "documentIdentifier" : "BJNR226300008BJNE007400000",
+          "paragraph" : "§ 72",
+          "title" : "Besondere Aufgaben des Standesamts I in Berlin"
+        },
+        {
+          "documentIdentifier" : "BJNR226300008BJNE007500000",
+          "paragraph" : "§ 73",
+          "title" : "Personenstandsbücher aus Grenzgebieten"
+        },
+        {
+          "documentIdentifier" : "BJNR226300008BJNE007600000",
+          "paragraph" : "§ 74",
+          "title" : "Personenstandsbücher des ehemaligen Standesamts I in Berlin (Ost)"
+        },
+        {
+          "documentIdentifier" : "BJNR226300008BJNE007700000",
+          "paragraph" : "§ 75",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR226300008BJNE007903116",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 11)"
+        },
+        {
+          "documentIdentifier" : "BJNR226300008BJNE008102116",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu den §§ 11, 19, 48, 65)"
+        },
+        {
+          "documentIdentifier" : "BJNR226300008BJNE008202116",
+          "paragraph" : "Anlage 3",
+          "title" : "(zu den §§ 11, 19, 48, 65)"
+        },
+        {
+          "documentIdentifier" : "BJNR226300008BJNE008303116",
+          "paragraph" : "Anlage 4",
+          "title" : "(zu den §§ 11, 19, 48, 65)"
+        },
+        {
+          "documentIdentifier" : "BJNR226300008BJNE008403116",
+          "paragraph" : "Anlage 5",
+          "title" : "(zu den §§ 11, 19, 48, 65)"
+        },
+        {
+          "documentIdentifier" : "BJNR226300008BJNE008503116",
+          "paragraph" : "Anlage 6",
+          "title" : "(zu den §§ 48, 70)"
+        },
+        {
+          "documentIdentifier" : "BJNR226300008BJNE008603116",
+          "paragraph" : "Anlage 7",
+          "title" : "(zu den §§ 48, 70)"
+        },
+        {
+          "documentIdentifier" : "BJNR226300008BJNE008702116",
+          "paragraph" : "Anlage 8",
+          "title" : "(zu den §§ 48, 70)"
+        },
+        {
+          "documentIdentifier" : "BJNR226300008BJNE008802116",
+          "paragraph" : "Anlage 9",
+          "title" : "(zu den §§ 48, 70)"
+        },
+        {
+          "documentIdentifier" : "BJNR226300008BJNE008902116",
+          "paragraph" : "Anlage 10",
+          "title" : "(zu § 29)"
+        },
+        {
+          "documentIdentifier" : "BJNR226300008BJNE009201116",
+          "paragraph" : "Anlage 11",
+          "title" : "(zu § 31 Absatz 2)"
+        },
+        {
+          "documentIdentifier" : "BJNR226300008BJNE009100000",
+          "paragraph" : "Anlage 12",
+          "title" : "(zu § 34)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          10
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übergangs- und Schlussvorschriften"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR014000010",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR014000010Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR014000010BJNE000201360",
+          "paragraph" : "§ 1",
+          "title" : "Art und Inhalt des Informationssystems"
+        },
+        {
+          "documentIdentifier" : "BJNR014000010BJNE000301310",
+          "paragraph" : "§ 2",
+          "title" : "Datenübermittlung an das Deutsche Institut für Medizinische Dokumentation und Information"
+        },
+        {
+          "documentIdentifier" : "BJNR014000010BJNE000403116",
+          "paragraph" : "§ 3",
+          "title" : "Bereitstellung von Daten und Nutzung des Informationssystems"
+        },
+        {
+          "documentIdentifier" : "BJNR014000010BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Speicherungsfrist"
+        },
+        {
+          "documentIdentifier" : "BJNR014000010BJNE000601116",
+          "paragraph" : "§ 5",
+          "title" : "Auskunftsrecht"
+        },
+        {
+          "documentIdentifier" : "BJNR014000010BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

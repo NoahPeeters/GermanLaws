@@ -1,0 +1,59 @@
+{
+  "documentIdentifier" : "BJNR050400012",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR050400012Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR050400012BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Akkreditierungsverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR050400012BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Trägerzulassung"
+        },
+        {
+          "documentIdentifier" : "BJNR050400012BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Maßnahmezulassung"
+        },
+        {
+          "documentIdentifier" : "BJNR050400012BJNE000501119",
+          "paragraph" : "§ 4",
+          "title" : "Ergänzende Anforderungen an Maßnahmen der beruflichen Weiterbildung"
+        },
+        {
+          "documentIdentifier" : "BJNR050400012BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Zulassungsverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR050400012BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Zusammenarbeit"
+        },
+        {
+          "documentIdentifier" : "BJNR050400012BJNE000801119",
+          "paragraph" : "§ 7",
+          "title" : "Sonderregelung"
+        },
+        {
+          "documentIdentifier" : "BJNR050400012BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

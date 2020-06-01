@@ -1,0 +1,102 @@
+{
+  "documentIdentifier" : "BJNR032010009",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR032010009BJNG000101116",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR032010009BJNE000101116",
+          "paragraph" : "§ 1",
+          "title" : "Allgemeines"
+        },
+        {
+          "documentIdentifier" : "BJNR032010009BJNE000201116",
+          "paragraph" : "§ 2",
+          "title" : "Anwendung des Mutterschutzgesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR032010009BJNE000302116",
+          "paragraph" : "§ 3",
+          "title" : "Besoldung bei Beschäftigungsverbot, Untersuchungen und Stillen"
+        },
+        {
+          "documentIdentifier" : "BJNR032010009BJNE000403116",
+          "paragraph" : "§ 4",
+          "title" : "Entlassung während der Schwangerschaft, nach einer Fehlgeburt und nach der Entbindung"
+        },
+        {
+          "documentIdentifier" : "BJNR032010009BJNE000501116",
+          "paragraph" : "§ 5",
+          "title" : "Zuschuss bei Beschäftigungsverbot während einer Elternzeit"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Mutterschutz"
+    },
+    {
+      "documentIdentifier" : "BJNR032010009BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR032010009BJNE000603311",
+          "paragraph" : "§ 6",
+          "title" : "Anwendung des Bundeselterngeld- und Elternzeitgesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR032010009BJNE000701116",
+          "paragraph" : "§ 7",
+          "title" : "Teilzeitbeschäftigung während der Elternzeit"
+        },
+        {
+          "documentIdentifier" : "BJNR032010009BJNE000802116",
+          "paragraph" : "§ 8",
+          "title" : "Entlassung während der Elternzeit"
+        },
+        {
+          "documentIdentifier" : "BJNR032010009BJNE000901311",
+          "paragraph" : "§ 9",
+          "title" : "Erstattung von Krankenversicherungsbeiträgen"
+        },
+        {
+          "documentIdentifier" : "BJNR032010009BJNE001000000",
+          "paragraph" : "§ 10",
+          "title" : "Sonderregelung für Richterinnen und Richter im Bundesdienst"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Elternzeit"
+    },
+    {
+      "documentIdentifier" : "BJNR032010009BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR032010009BJNE001101116",
+          "paragraph" : "§ 11",
+          "title" : "Übergangsvorschrift"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übergangs- und Schlussvorschriften"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "documentIdentifier" : "BJNR128510005",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR128510005Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR128510005BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Staatliche Anerkennung des Ausbildungsberufes"
+        },
+        {
+          "documentIdentifier" : "BJNR128510005BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Ausbildungsdauer"
+        },
+        {
+          "documentIdentifier" : "BJNR128510005BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Zielsetzung der Berufsausbildung"
+        },
+        {
+          "documentIdentifier" : "BJNR128510005BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Ausbildungsberufsbild"
+        },
+        {
+          "documentIdentifier" : "BJNR128510005BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Ausbildungsrahmenplan"
+        },
+        {
+          "documentIdentifier" : "BJNR128510005BJNE000600000",
+          "paragraph" : "§ 6",
+          "title" : "Ausbildungsplan"
+        },
+        {
+          "documentIdentifier" : "BJNR128510005BJNE000700000",
+          "paragraph" : "§ 7",
+          "title" : "Schriftlicher Ausbildungsnachweis"
+        },
+        {
+          "documentIdentifier" : "BJNR128510005BJNE000800000",
+          "paragraph" : "§ 8",
+          "title" : "Zwischenprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR128510005BJNE000900000",
+          "paragraph" : "§ 9",
+          "title" : "Gesellenprüfung\/Abschlussprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR128510005BJNE001000000",
+          "paragraph" : "§ 10",
+          "title" : "Fortsetzung der Berufsausbildung"
+        },
+        {
+          "documentIdentifier" : "BJNR128510005BJNE001100000",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 5)\n"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

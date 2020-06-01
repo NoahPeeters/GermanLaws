@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR164100013",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR164100013Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR164100013BJNE000200000",
+          "paragraph" : "Art 1",
+          "title" : "Zuständigkeit der Ausgangsbehörde"
+        },
+        {
+          "documentIdentifier" : "BJNR164100013BJNE000300000",
+          "paragraph" : "Art 2",
+          "title" : "Besondere Zuständigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR164100013BJNE000400000",
+          "paragraph" : "Art 3",
+          "title" : "Vorbehaltsklausel"
+        },
+        {
+          "documentIdentifier" : "BJNR164100013BJNE000500000",
+          "paragraph" : "Art 4",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

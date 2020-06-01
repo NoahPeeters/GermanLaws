@@ -1,0 +1,64 @@
+{
+  "documentIdentifier" : "BJNR002780944",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR002780944Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR002780944BJNE000200303",
+          "paragraph" : "§ 1",
+          "title" : "Steuerbegünstigte Unternehmen"
+        },
+        {
+          "documentIdentifier" : "BJNR002780944BJNE000300303",
+          "paragraph" : "§ 2",
+          "title" : "Steuerbegünstigte Anlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR002780944BJNE000401309",
+          "paragraph" : "§ 3",
+          "title" : "Voraussetzungen der steuerlichen Begünstigung"
+        },
+        {
+          "documentIdentifier" : "BJNR002780944BJNE000500303",
+          "paragraph" : "§ 4",
+          "title" : "Einkommensteuer und Körperschaftsteuer"
+        },
+        {
+          "documentIdentifier" : "BJNR002780944BJNE000600303",
+          "paragraph" : "§ 5",
+          "title" : "Vermögensteuer und Aufbringungsumlage"
+        },
+        {
+          "documentIdentifier" : "BJNR002780944BJNE000701140",
+          "paragraph" : "§ 6",
+          "title" : "Gewerbesteuer"
+        },
+        {
+          "documentIdentifier" : "BJNR002780944BJNE000800303",
+          "paragraph" : "§ 7",
+          "title" : "Absetzung für Abnutzung"
+        },
+        {
+          "documentIdentifier" : "BJNR002780944BJNE001000303",
+          "paragraph" : "§ 9",
+          "title" : "Weitergewährung bisheriger steuerlicher Begünstigungen"
+        },
+        {
+          "documentIdentifier" : "BJNR002780944BJNE001101309",
+          "paragraph" : "§ 10",
+          "title" : "Anwendungsvorschriften"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

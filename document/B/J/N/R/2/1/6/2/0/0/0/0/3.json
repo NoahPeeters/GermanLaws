@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR216200003",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR216200003Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR216200003BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Fahrkosten, Wegstreckenentschädigung"
+        },
+        {
+          "documentIdentifier" : "BJNR216200003BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Tagegeld, Übernachtungsgeld"
+        },
+        {
+          "documentIdentifier" : "BJNR216200003BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Verdienstausfall, notwendige Aufwendungen"
+        },
+        {
+          "documentIdentifier" : "BJNR216200003BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

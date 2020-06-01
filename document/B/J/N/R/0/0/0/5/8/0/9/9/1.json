@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR000580991",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR000580991Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR000580991BJNE000200308",
+          "paragraph" : "§ 1",
+          "title" : "Planunterlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR000580991BJNE000300308",
+          "paragraph" : "§ 2",
+          "title" : "Planzeichen"
+        },
+        {
+          "documentIdentifier" : "BJNR000580991BJNE000400308",
+          "paragraph" : "§ 3",
+          "title" : "Überleitungsvorschrift"
+        },
+        {
+          "documentIdentifier" : "BJNR000580991BJNE000500308",
+          "paragraph" : "§ 4",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

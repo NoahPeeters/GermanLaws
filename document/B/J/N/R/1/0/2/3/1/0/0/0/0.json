@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR102310000",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR102310000Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR102310000BJNE000101308",
+          "paragraph" : "§ 1",
+          "title" : "Bestellung der Betriebsleiter"
+        },
+        {
+          "documentIdentifier" : "BJNR102310000BJNE000200310",
+          "paragraph" : "§ 2",
+          "title" : "Bestätigung der Bestellung zum Betriebsleiter"
+        },
+        {
+          "documentIdentifier" : "BJNR102310000BJNE000300310",
+          "paragraph" : "§ 3",
+          "title" : "Ausnahmen"
+        },
+        {
+          "documentIdentifier" : "BJNR102310000BJNE000402305",
+          "paragraph" : "§ 4",
+          "title" : "Aufgaben und Befugnisse des Betriebsleiters"
+        },
+        {
+          "documentIdentifier" : "BJNR102310000BJNE000502305",
+          "paragraph" : "§ 5",
+          "title" : "Pflichten der Eisenbahn"
+        },
+        {
+          "documentIdentifier" : "BJNR102310000BJNE000600310",
+          "paragraph" : "§ 6",
+          "title" : "Übergangsvorschriften"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

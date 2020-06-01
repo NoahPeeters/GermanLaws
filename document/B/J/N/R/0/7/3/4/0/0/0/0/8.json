@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR073400008",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR073400008Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR073400008BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Grundsatz"
+        },
+        {
+          "documentIdentifier" : "BJNR073400008BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Verlust eines Anspruchs auf Arbeitslosengeld"
+        },
+        {
+          "documentIdentifier" : "BJNR073400008BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Bevorstehende abschlagsfreie Altersrente"
+        },
+        {
+          "documentIdentifier" : "BJNR073400008BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Erwerbstätigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR073400008BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Bevorstehende Erwerbstätigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR073400008BJNE000800119",
+          "paragraph" : "§ 6",
+          "title" : "Hilfebedürftigkeit im Alter"
+        },
+        {
+          "documentIdentifier" : "BJNR073400008BJNE000701119",
+          "paragraph" : "§ 7",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

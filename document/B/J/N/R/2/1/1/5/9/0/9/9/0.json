@@ -1,0 +1,359 @@
+{
+  "documentIdentifier" : "BJNR211590990",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR211590990BJNG000106301",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR211590990BJNE000208301",
+          "paragraph" : "§ 1",
+          "title" : "Geltungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR211590990BJNE000313301",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmung"
+        },
+        {
+          "documentIdentifier" : "BJNR211590990BJNE005306301",
+          "paragraph" : "§ 2a",
+          "title" : "Erbengemeinschaft"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Bestimmungen"
+    },
+    {
+      "documentIdentifier" : "BJNR211590990BJNG000406301",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR211590990BJNE006204160",
+          "paragraph" : "§ 3",
+          "title" : "Grundsatz"
+        },
+        {
+          "documentIdentifier" : "BJNR211590990BJNE006401301",
+          "paragraph" : "§ 3b",
+          "title" : "Gesamtvollstreckungsverfahren, Zwangsversteigerungsverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR211590990BJNE006002301",
+          "paragraph" : "§ 3c",
+          "title" : "Erlaubte Veräußerungen"
+        },
+        {
+          "documentIdentifier" : "BJNR211590990BJNE000508301",
+          "paragraph" : "§ 4",
+          "title" : "Ausschluss der Rückübertragung"
+        },
+        {
+          "documentIdentifier" : "BJNR211590990BJNE000608301",
+          "paragraph" : "§ 5",
+          "title" : "Ausschluss der Rückübertragung von Eigentumsrechten\nan Grundstücken und Gebäuden"
+        },
+        {
+          "documentIdentifier" : "BJNR211590990BJNE006607377",
+          "paragraph" : "§ 6",
+          "title" : "Rückübertragung von Unternehmen"
+        },
+        {
+          "documentIdentifier" : "BJNR211590990BJNE004208301",
+          "paragraph" : "§ 6a",
+          "title" : "Vorläufige Einweisung"
+        },
+        {
+          "documentIdentifier" : "BJNR211590990BJNE005604301",
+          "paragraph" : "§ 6b",
+          "title" : "Entflechtung"
+        },
+        {
+          "documentIdentifier" : "BJNR211590990BJNE000811301",
+          "paragraph" : "§ 7",
+          "title" : "Wertausgleich"
+        },
+        {
+          "documentIdentifier" : "BJNR211590990BJNE004510301",
+          "paragraph" : "§ 7a",
+          "title" : "Gegenleistung"
+        },
+        {
+          "documentIdentifier" : "BJNR211590990BJNE000910301",
+          "paragraph" : "§ 8",
+          "title" : "Wahlrecht"
+        },
+        {
+          "documentIdentifier" : "BJNR211590990BJNE001108301",
+          "paragraph" : "§ 10",
+          "title" : "Bewegliche Sachen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Rückübertragung von Vermögenswerten"
+    },
+    {
+      "documentIdentifier" : "BJNR211590990BJNG001106301",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR211590990BJNE001210308",
+          "paragraph" : "§ 11",
+          "title" : "Grundsatz"
+        },
+        {
+          "documentIdentifier" : "BJNR211590990BJNE004606301",
+          "paragraph" : "§ 11a",
+          "title" : "Beendigung der staatlichen Verwaltung"
+        },
+        {
+          "documentIdentifier" : "BJNR211590990BJNE004706301",
+          "paragraph" : "§ 11b",
+          "title" : "Vertreter des Eigentümers"
+        },
+        {
+          "documentIdentifier" : "BJNR211590990BJNE004807308",
+          "paragraph" : "§ 11c",
+          "title" : "Genehmigungsvorbehalt"
+        },
+        {
+          "documentIdentifier" : "BJNR211590990BJNE001306301",
+          "paragraph" : "§ 12",
+          "title" : "Staatlich verwaltete Unternehmen\nund Unternehmensbeteiligungen"
+        },
+        {
+          "documentIdentifier" : "BJNR211590990BJNE001406301",
+          "paragraph" : "§ 13",
+          "title" : "Haftung des staatlichen Verwalters"
+        },
+        {
+          "documentIdentifier" : "BJNR211590990BJNE004905301",
+          "paragraph" : "§ 14a",
+          "title" : "Werterhöhungen durch den staatlichen Verwalter"
+        },
+        {
+          "documentIdentifier" : "BJNR211590990BJNE001608301",
+          "paragraph" : "§ 15",
+          "title" : "Befugnisse des staatlichen Verwalters"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Aufhebung der staatlichen Verwaltung"
+    },
+    {
+      "documentIdentifier" : "BJNR211590990BJNG001706301",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR211590990BJNE001711301",
+          "paragraph" : "§ 16",
+          "title" : "Übernahme von Rechten und Pflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR211590990BJNE001808301",
+          "paragraph" : "§ 17",
+          "title" : "Miet- und Nutzungsrechte"
+        },
+        {
+          "documentIdentifier" : "BJNR211590990BJNE001910301",
+          "paragraph" : "§ 18",
+          "title" : "Grundstücksbelastungen"
+        },
+        {
+          "documentIdentifier" : "BJNR211590990BJNE005008160",
+          "paragraph" : "§ 18a",
+          "title" : "Rückübertragung des Grundstücks"
+        },
+        {
+          "documentIdentifier" : "BJNR211590990BJNE005107160",
+          "paragraph" : "§ 18b",
+          "title" : "Herausgabe des Ablösebetrages"
+        },
+        {
+          "documentIdentifier" : "BJNR211590990BJNE002113301",
+          "paragraph" : "§ 20",
+          "title" : "Vorkaufsrecht von Mietern und Nutzern"
+        },
+        {
+          "documentIdentifier" : "BJNR211590990BJNE005404301",
+          "paragraph" : "§ 20a",
+          "title" : "Vorkaufsrecht des Berechtigten"
+        },
+        {
+          "documentIdentifier" : "BJNR211590990BJNE002207301",
+          "paragraph" : "§ 21",
+          "title" : "Ersatzgrundstück"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Rechtsverhältnisse zwischen Berechtigten und Dritten"
+    },
+    {
+      "documentIdentifier" : "BJNR211590990BJNG002306301",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR211590990BJNE002311308",
+          "paragraph" : "§ 22",
+          "title" : "Durchführung der Regelung offener Vermögensfragen"
+        },
+        {
+          "documentIdentifier" : "BJNR211590990BJNE002408160",
+          "paragraph" : "§ 23",
+          "title" : "Landesbehörden"
+        },
+        {
+          "documentIdentifier" : "BJNR211590990BJNE002507301",
+          "paragraph" : "§ 24",
+          "title" : "Untere Landesbehörden"
+        },
+        {
+          "documentIdentifier" : "BJNR211590990BJNE002610301",
+          "paragraph" : "§ 25",
+          "title" : "Landesamt zur Regelung offener Vermögensfragen"
+        },
+        {
+          "documentIdentifier" : "BJNR211590990BJNE002708160",
+          "paragraph" : "§ 26",
+          "title" : "Widerspruchsausschüsse"
+        },
+        {
+          "documentIdentifier" : "BJNR211590990BJNE002810308",
+          "paragraph" : "§ 27",
+          "title" : "Amts- und Rechtshilfe"
+        },
+        {
+          "documentIdentifier" : "BJNR211590990BJNE002907301",
+          "paragraph" : "§ 28",
+          "title" : "Übergangsregelungen"
+        },
+        {
+          "documentIdentifier" : "BJNR211590990BJNE003013160",
+          "paragraph" : "§ 29",
+          "title" : "Bundesamt für zentrale Dienste und offene Vermögensfragen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Organisation"
+    },
+    {
+      "documentIdentifier" : "BJNR211590990BJNG003106301",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR211590990BJNE003108301",
+          "paragraph" : "§ 30",
+          "title" : "Antrag"
+        },
+        {
+          "documentIdentifier" : "BJNR211590990BJNE005210301",
+          "paragraph" : "§ 30a",
+          "title" : "Ausschlussfrist"
+        },
+        {
+          "documentIdentifier" : "BJNR211590990BJNE006801305",
+          "paragraph" : "§ 30b",
+          "title" : "Anmeldevermerk"
+        },
+        {
+          "documentIdentifier" : "BJNR211590990BJNE003211301",
+          "paragraph" : "§ 31",
+          "title" : "Pflichten der Behörde"
+        },
+        {
+          "documentIdentifier" : "BJNR211590990BJNE003309301",
+          "paragraph" : "§ 32",
+          "title" : "Beabsichtigte Entscheidung, Auskunft"
+        },
+        {
+          "documentIdentifier" : "BJNR211590990BJNE003413308",
+          "paragraph" : "§ 33",
+          "title" : "Entscheidung"
+        },
+        {
+          "documentIdentifier" : "BJNR211590990BJNE005902301",
+          "paragraph" : "§ 33a",
+          "title" : "Fälligkeit, Verzinsung"
+        },
+        {
+          "documentIdentifier" : "BJNR211590990BJNE003512377",
+          "paragraph" : "§ 34",
+          "title" : "Eigentumsübergang, Grundbuchberichtigung und Löschung von Vermerken über die staatliche Verwaltung"
+        },
+        {
+          "documentIdentifier" : "BJNR211590990BJNE003607301",
+          "paragraph" : "§ 35",
+          "title" : "Örtliche Zuständigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR211590990BJNE003712301",
+          "paragraph" : "§ 36",
+          "title" : "Widerspruchsverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR211590990BJNE003809301",
+          "paragraph" : "§ 37",
+          "title" : "Gerichtliches Verfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR211590990BJNE003906301",
+          "paragraph" : "§ 38",
+          "title" : "Kosten"
+        },
+        {
+          "documentIdentifier" : "BJNR211590990BJNE005706301",
+          "paragraph" : "§ 38a",
+          "title" : "Schiedsgericht, Schiedsverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR211590990BJNE005508377",
+          "paragraph" : "§ 40",
+          "title" : "Verordnungsermächtigung"
+        },
+        {
+          "documentIdentifier" : "BJNR211590990BJNE005807301",
+          "paragraph" : "§ 41",
+          "title" : "Überleitungsvorschrift"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Verfahrensregelungen"
+    }
+  ]
+}

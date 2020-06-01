@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR023530988",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR023530988Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR023530988BJNE000102360",
+          "paragraph" : "§ 1",
+          "title" : "Erhebungszweck, Zuständigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR023530988BJNE000202124",
+          "paragraph" : "§ 2",
+          "title" : "Meldepflichtige"
+        },
+        {
+          "documentIdentifier" : "BJNR023530988BJNE000304360",
+          "paragraph" : "§ 3",
+          "title" : "Meldepflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR023530988BJNE000404118",
+          "paragraph" : "§ 4",
+          "title" : "Verordnungsermächtigung"
+        },
+        {
+          "documentIdentifier" : "BJNR023530988BJNE000507124",
+          "paragraph" : "§ 5",
+          "title" : "Geheimhaltung, Weiterleitung"
+        },
+        {
+          "documentIdentifier" : "BJNR023530988BJNE000602377",
+          "paragraph" : "§ 6",
+          "title" : "Bußgeldvorschrift"
+        },
+        {
+          "documentIdentifier" : "BJNR023530988BJNE000900325",
+          "paragraph" : "§ 9",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

@@ -1,0 +1,218 @@
+{
+  "documentIdentifier" : "BJNR223100014",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR223100014BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR223100014BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR223100014BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Antragsverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR223100014BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Vorlage und Aufbewahrung von Unterlagen und sonstigen Beweismitteln"
+        },
+        {
+          "documentIdentifier" : "BJNR223100014BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Prüfkriterien, Anforderungen, sachliche Geltungsbereiche"
+        },
+        {
+          "documentIdentifier" : "BJNR223100014BJNE000601116",
+          "paragraph" : "§ 5",
+          "title" : "Form der Entscheidungen; Anhörungspflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR223100014BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Mitwirkungsobliegenheit des Antragstellers"
+        },
+        {
+          "documentIdentifier" : "BJNR223100014BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Veröffentlichung von Zertifikaten und Anerkennungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Bestimmungen"
+    },
+    {
+      "documentIdentifier" : "BJNR223100014BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR223100014BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Zertifizierung von informationstechnischen Produkten oder Komponenten"
+        },
+        {
+          "documentIdentifier" : "BJNR223100014BJNE001000000",
+          "paragraph" : "§ 9",
+          "title" : "Zertifizierung von informationstechnischen Systemen"
+        },
+        {
+          "documentIdentifier" : "BJNR223100014BJNE001100000",
+          "paragraph" : "§ 10",
+          "title" : "Zertifizierung von Schutzprofilen"
+        },
+        {
+          "documentIdentifier" : "BJNR223100014BJNE001200000",
+          "paragraph" : "§ 11",
+          "title" : "Mitwirkungsobliegenheiten"
+        },
+        {
+          "documentIdentifier" : "BJNR223100014BJNE001300000",
+          "paragraph" : "§ 12",
+          "title" : "Zertifikat"
+        },
+        {
+          "documentIdentifier" : "BJNR223100014BJNE001400000",
+          "paragraph" : "§ 13",
+          "title" : "Rückgabe von informationstechnischen Produkten oder Komponenten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Zertifizierung von informationstechnischen Produkten oder Komponenten, informationstechnischen Systemen sowie Schutzprofilen"
+    },
+    {
+      "documentIdentifier" : "BJNR223100014BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR223100014BJNE001500000",
+          "paragraph" : "§ 14",
+          "title" : "Antrag"
+        },
+        {
+          "documentIdentifier" : "BJNR223100014BJNE001600000",
+          "paragraph" : "§ 15",
+          "title" : "Zertifikat"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Zertifizierung von Personen"
+    },
+    {
+      "documentIdentifier" : "BJNR223100014BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR223100014BJNE001700000",
+          "paragraph" : "§ 16",
+          "title" : "Antrag"
+        },
+        {
+          "documentIdentifier" : "BJNR223100014BJNE001800000",
+          "paragraph" : "§ 17",
+          "title" : "Mitwirkungsobliegenheiten"
+        },
+        {
+          "documentIdentifier" : "BJNR223100014BJNE001900000",
+          "paragraph" : "§ 18",
+          "title" : "Zertifikat"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Zertifizierung von IT-Sicherheitsdienstleistern"
+    },
+    {
+      "documentIdentifier" : "BJNR223100014BJNG000500000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR223100014BJNE002000000",
+          "paragraph" : "§ 19",
+          "title" : "Antrag"
+        },
+        {
+          "documentIdentifier" : "BJNR223100014BJNE002100000",
+          "paragraph" : "§ 20",
+          "title" : "Mitwirkungsobliegenheiten"
+        },
+        {
+          "documentIdentifier" : "BJNR223100014BJNE002200000",
+          "paragraph" : "§ 21",
+          "title" : "Anerkennung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Anerkennung von sachverständigen Stellen"
+    },
+    {
+      "documentIdentifier" : "BJNR223100014BJNG000600000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR223100014BJNE002300000",
+          "paragraph" : "§ 22",
+          "title" : "Nebenbestimmungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Nebenbestimmungen"
+    },
+    {
+      "documentIdentifier" : "BJNR223100014BJNG000700000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR223100014BJNE002400000",
+          "paragraph" : "§ 23",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussbestimmungen"
+    }
+  ]
+}

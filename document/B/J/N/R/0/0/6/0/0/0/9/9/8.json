@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR006000998",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR006000998Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR006000998BJNE000202308",
+          "paragraph" : "§ 1",
+          "title" : "Grundsatz"
+        },
+        {
+          "documentIdentifier" : "BJNR006000998BJNE000303308",
+          "paragraph" : "§ 2",
+          "title" : "Berechnungsgrundlage"
+        },
+        {
+          "documentIdentifier" : "BJNR006000998BJNE000502308",
+          "paragraph" : "§ 4",
+          "title" : "Zahlung und Fälligkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR006000998BJNE000600310",
+          "paragraph" : "§ 5",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

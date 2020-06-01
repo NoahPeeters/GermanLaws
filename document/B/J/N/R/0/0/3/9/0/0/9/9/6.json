@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR003900996",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR003900996Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR003900996BJNE000800310",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 2 der Verordnung über die Festsetzung des\nLärmschutzbereichs für den militärischen Flugplatz Hohn)"
+        },
+        {
+          "documentIdentifier" : "BJNR003900996BJNE000900310",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 4 der Verordnung über die Festsetzung des Lärmschutzbereichs\nfür den militärischen Flugplatz Hohn)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR004490909",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR004490909BJNG000100317",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Sicherungsmaßregeln"
+    },
+    {
+      "documentIdentifier" : "BJNR004490909BJNG000200317",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR004490909BJNG000300317",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR004490909BJNE001200317",
+              "paragraph" : "(XXXX) §§ 9 bis 67",
+              "title" : "(weggefallen)"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Erster bis siebenter Titel"
+        }
+      ],
+      "title" : "Dingliche Sicherung der Bauforderungen"
+    }
+  ]
+}

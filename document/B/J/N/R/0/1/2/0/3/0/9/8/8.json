@@ -1,0 +1,59 @@
+{
+  "documentIdentifier" : "BJNR012030988",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR012030988Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR012030988BJNE000200328",
+          "paragraph" : "§ 1",
+          "title" : "Anzeigepflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR012030988BJNE000300328",
+          "paragraph" : "§ 2",
+          "title" : "Bekämpfungspflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR012030988BJNE000400328",
+          "paragraph" : "§ 3",
+          "title" : "Verkehr mit Pflanzgut von Rebe"
+        },
+        {
+          "documentIdentifier" : "BJNR012030988BJNE000501377",
+          "paragraph" : "§ 4",
+          "title" : "Beschränkung des Anbaus von Wurzelreben"
+        },
+        {
+          "documentIdentifier" : "BJNR012030988BJNE000601308",
+          "paragraph" : "§ 5",
+          "title" : "Verbot des Züchtens und Haltens"
+        },
+        {
+          "documentIdentifier" : "BJNR012030988BJNE000700328",
+          "paragraph" : "§ 6",
+          "title" : "Länderbefugnisse"
+        },
+        {
+          "documentIdentifier" : "BJNR012030988BJNE000803377",
+          "paragraph" : "§ 7",
+          "title" : "Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR012030988BJNE001001308",
+          "paragraph" : "§ 8",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

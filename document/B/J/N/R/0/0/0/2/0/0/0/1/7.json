@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR000200017",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR000200017Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR000200017BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Finanzierung der Verwaltung des Ausgleichsfonds der sozialen Pflegeversicherung"
+        },
+        {
+          "documentIdentifier" : "BJNR000200017BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

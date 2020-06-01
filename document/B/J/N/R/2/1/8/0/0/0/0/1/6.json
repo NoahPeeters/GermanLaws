@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR218000016",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR218000016Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR218000016BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Befahrensregelungen"
+        },
+        {
+          "documentIdentifier" : "BJNR218000016BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Ausnahmen und Befreiungen"
+        },
+        {
+          "documentIdentifier" : "BJNR218000016BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR218000016BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Inkrafttreten; Außerkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR218000016BJNE000600000",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 1 Absatz 11)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

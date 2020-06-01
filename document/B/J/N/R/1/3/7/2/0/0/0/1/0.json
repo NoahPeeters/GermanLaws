@@ -1,0 +1,54 @@
+{
+  "documentIdentifier" : "BJNR137200010",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR137200010Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR137200010BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Zweck und Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR137200010BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Erhebungspersonen"
+        },
+        {
+          "documentIdentifier" : "BJNR137200010BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Erhebende Stellen"
+        },
+        {
+          "documentIdentifier" : "BJNR137200010BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Daten zu Merkmalen des Migrationshintergrundes"
+        },
+        {
+          "documentIdentifier" : "BJNR137200010BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Anforderungen an die Datenübermittlung"
+        },
+        {
+          "documentIdentifier" : "BJNR137200010BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Bestimmung des Migrationshintergrundes"
+        },
+        {
+          "documentIdentifier" : "BJNR137200010BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

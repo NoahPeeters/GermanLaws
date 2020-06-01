@@ -1,0 +1,99 @@
+{
+  "documentIdentifier" : "BJNR002870941",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR002870941BJNG000100326",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Neuordnung der Krankenversicherung der Bergleute"
+    },
+    {
+      "documentIdentifier" : "BJNR002870941BJNG000200326",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gesundheitsfürsorge"
+    },
+    {
+      "documentIdentifier" : "BJNR002870941BJNG000300326",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Krankenversicherung der Rentner"
+    },
+    {
+      "documentIdentifier" : "BJNR002870941BJNG000400326",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gemeinschaftshilfe des Reichsstocks für Arbeitseinsatz"
+    },
+    {
+      "documentIdentifier" : "BJNR002870941BJNG000500326",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Umfang der Versicherung"
+    },
+    {
+      "documentIdentifier" : "BJNR002870941BJNG000600326",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR002870941BJNE001600326",
+          "paragraph" : "(XXXX) §§ 9 u. 10",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übergangs- und Schlußvorschriften"
+    }
+  ]
+}

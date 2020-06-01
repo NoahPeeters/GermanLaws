@@ -1,0 +1,97 @@
+{
+  "documentIdentifier" : "BJNR314100017",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR314100017BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR314100017BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Übertragung"
+        },
+        {
+          "documentIdentifier" : "BJNR314100017BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Errichtung der Gesellschaft"
+        },
+        {
+          "documentIdentifier" : "BJNR314100017BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Vertretung des Gesellschafters"
+        },
+        {
+          "documentIdentifier" : "BJNR314100017BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Sitz der Gesellschaft, Tochtergesellschaften"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gründung"
+    },
+    {
+      "documentIdentifier" : "BJNR314100017BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR314100017BJNE000501124",
+          "paragraph" : "§ 5",
+          "title" : "Gegenstand der Gesellschaft"
+        },
+        {
+          "documentIdentifier" : "BJNR314100017BJNE000601124",
+          "paragraph" : "§ 6",
+          "title" : "Beleihung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gegenstand und Aufgaben"
+    },
+    {
+      "documentIdentifier" : "BJNR314100017BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR314100017BJNE000700000",
+          "paragraph" : "§ 7",
+          "title" : "Finanzierung"
+        },
+        {
+          "documentIdentifier" : "BJNR314100017BJNE000800000",
+          "paragraph" : "§ 8",
+          "title" : "Finanzierungs- und Realisierungsplan, Verkehrsinvestitionsbericht"
+        },
+        {
+          "documentIdentifier" : "BJNR314100017BJNE000900000",
+          "paragraph" : "§ 9",
+          "title" : "Parlamentarische Kontrolle"
+        },
+        {
+          "documentIdentifier" : "BJNR314100017BJNE001000000",
+          "paragraph" : "§ 10",
+          "title" : "Übergangsregelungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Finanzierung"
+    }
+  ]
+}

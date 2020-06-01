@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR080500013",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR080500013Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR080500013BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Antragsverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR080500013BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Beurteilung der Persönlichen Zuverlässigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR080500013BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Beurteilung der Sachkunde"
+        },
+        {
+          "documentIdentifier" : "BJNR080500013BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Mitteilungspflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR080500013BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR080500013BJNE000700000",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 1 Absatz 2)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

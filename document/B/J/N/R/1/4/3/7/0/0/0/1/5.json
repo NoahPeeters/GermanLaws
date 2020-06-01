@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR143700015",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR143700015Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR143700015BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR143700015BJNE000302360",
+          "paragraph" : "§ 2",
+          "title" : "Gleichwertigkeit der Bestätigung"
+        },
+        {
+          "documentIdentifier" : "BJNR143700015BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

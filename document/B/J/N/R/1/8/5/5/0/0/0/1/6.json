@@ -1,0 +1,161 @@
+{
+  "documentIdentifier" : "BJNR185500016",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR185500016BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR185500016BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR185500016BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Parteien"
+        },
+        {
+          "documentIdentifier" : "BJNR185500016BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Vermittlungsgegenstand"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeiner Teil"
+    },
+    {
+      "documentIdentifier" : "BJNR185500016BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR185500016BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Vertretung des Vorsitzenden"
+        },
+        {
+          "documentIdentifier" : "BJNR185500016BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Beisitzer"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Organisation der Vermittlungsstelle"
+    },
+    {
+      "documentIdentifier" : "BJNR185500016BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR185500016BJNE000600000",
+          "paragraph" : "§ 6",
+          "title" : "Verfahrensgrundsätze"
+        },
+        {
+          "documentIdentifier" : "BJNR185500016BJNE000700000",
+          "paragraph" : "§ 7",
+          "title" : "Antragstellung"
+        },
+        {
+          "documentIdentifier" : "BJNR185500016BJNE000800000",
+          "paragraph" : "§ 8",
+          "title" : "Ablehnung eines Antrags"
+        },
+        {
+          "documentIdentifier" : "BJNR185500016BJNE000900000",
+          "paragraph" : "§ 9",
+          "title" : "Antragserwiderung"
+        },
+        {
+          "documentIdentifier" : "BJNR185500016BJNE001000000",
+          "paragraph" : "§ 10",
+          "title" : "Durchführung des Vermittlungsverfahrens"
+        },
+        {
+          "documentIdentifier" : "BJNR185500016BJNE001100000",
+          "paragraph" : "§ 11",
+          "title" : "Erörterungstermine"
+        },
+        {
+          "documentIdentifier" : "BJNR185500016BJNE001200000",
+          "paragraph" : "§ 12",
+          "title" : "Pflichten der Parteien"
+        },
+        {
+          "documentIdentifier" : "BJNR185500016BJNE001300000",
+          "paragraph" : "§ 13",
+          "title" : "Form und Fristen"
+        },
+        {
+          "documentIdentifier" : "BJNR185500016BJNE001400000",
+          "paragraph" : "§ 14",
+          "title" : "Stellungnahme"
+        },
+        {
+          "documentIdentifier" : "BJNR185500016BJNE001500000",
+          "paragraph" : "§ 15",
+          "title" : "Vertraulichkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR185500016BJNE001600000",
+          "paragraph" : "§ 16",
+          "title" : "Beendigung des Verfahrens"
+        },
+        {
+          "documentIdentifier" : "BJNR185500016BJNE001700000",
+          "paragraph" : "§ 17",
+          "title" : "Hinzuziehung Dritter"
+        },
+        {
+          "documentIdentifier" : "BJNR185500016BJNE001800000",
+          "paragraph" : "§ 18",
+          "title" : "Wiederaufnahme des Verfahrens"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Vermittlungsverfahren"
+    },
+    {
+      "documentIdentifier" : "BJNR185500016BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR185500016BJNE001900000",
+          "paragraph" : "§ 19",
+          "title" : "Kosten"
+        },
+        {
+          "documentIdentifier" : "BJNR185500016BJNE002000000",
+          "paragraph" : "§ 20",
+          "title" : "Rechtsweg"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussbestimmungen"
+    }
+  ]
+}

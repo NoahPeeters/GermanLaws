@@ -1,0 +1,73 @@
+{
+  "documentIdentifier" : "BJNR003600963",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR003600963BJNG000100326",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR003600963BJNE000300326",
+          "paragraph" : "§ 1",
+          "title" : "Änderung des Lastenausgleichsgesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR003600963BJNE000400326",
+          "paragraph" : "§ 2",
+          "title" : "Änderung des Währungsausgleichsgesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR003600963BJNE000500326",
+          "paragraph" : "§ 3",
+          "title" : "Änderung des Gesetzes zur Einführung von Vorschriften\ndes Lastenausgleichsrechts im Saarland"
+        },
+        {
+          "documentIdentifier" : "BJNR003600963BJNE000600326",
+          "paragraph" : "§ 4",
+          "title" : "Änderung des Vierzehnten Gesetzes zur Änderung\ndes Lastenausgleichsgesetzes"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Änderung von Gesetzen"
+    },
+    {
+      "documentIdentifier" : "BJNR003600963BJNG000200326",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR003600963BJNE000700326",
+          "paragraph" : "§ 5",
+          "title" : "Überleitungsvorschrift zu § 230 des\nLastenausgleichsgesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR003600963BJNE000800326",
+          "paragraph" : "§ 6",
+          "title" : "Anwendungszeitpunkt"
+        },
+        {
+          "documentIdentifier" : "BJNR003600963BJNE000900326",
+          "paragraph" : "§ 7",
+          "title" : "Anwendung in Berlin"
+        },
+        {
+          "documentIdentifier" : "BJNR003600963BJNE001000326",
+          "paragraph" : "§ 8",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Überleitungs- und Schlußvorschriften"
+    }
+  ]
+}

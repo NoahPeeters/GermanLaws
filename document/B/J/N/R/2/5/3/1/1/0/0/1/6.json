@@ -1,0 +1,275 @@
+{
+  "documentIdentifier" : "BJNR253110016",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR253110016BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR253110016BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR253110016BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Anwendungsbereich und Begriffsbestimmungen"
+    },
+    {
+      "documentIdentifier" : "BJNR253110016BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR253110016BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Gefährdungsbeurteilung"
+        },
+        {
+          "documentIdentifier" : "BJNR253110016BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Fachkundige Personen; Messungen, Berechnungen und Bewertungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gefährdungsbeurteilung; Fachkundige Personen; Messungen, Berechnungen und Bewertungen"
+    },
+    {
+      "documentIdentifier" : "BJNR253110016BJNG000300000",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR253110016BJNG000400000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR253110016BJNE000600000",
+              "paragraph" : "§ 5",
+              "title" : "Expositionsgrenzwerte und Auslöseschwellen für elektromagnetische Felder"
+            },
+            {
+              "documentIdentifier" : "BJNR253110016BJNE000700000",
+              "paragraph" : "§ 6",
+              "title" : "Maßnahmen zur Vermeidung und Verringerung der Gefährdungen von Beschäftigten durch elektromagnetische Felder"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Expositionsgrenzwerte und Auslöseschwellen; allgemeine Festlegungen zum Schutz vor Gefährdungen durch elektromagnetische Felder"
+        },
+        {
+          "documentIdentifier" : "BJNR253110016BJNG000500000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR253110016BJNE000800000",
+              "paragraph" : "§ 7",
+              "title" : "Besondere Festlegungen für die Überschreitung der Expositionsgrenzwerte für sensorische Wirkungen bei Tätigkeiten im statischen Magnetfeld über 2 Tesla"
+            },
+            {
+              "documentIdentifier" : "BJNR253110016BJNE000900000",
+              "paragraph" : "§ 8",
+              "title" : "Besondere Festlegungen für die Überschreitung der Auslöseschwellen für die Projektilwirkung von ferromagnetischen Gegenständen im Streufeld von Anlagen mit hohem statischen Magnetfeld ("
+            },
+            {
+              "documentIdentifier" : "BJNR253110016BJNE001000000",
+              "paragraph" : "§ 9",
+              "title" : "Besondere Festlegungen für die Überschreitung der oberen Auslöseschwelle für die Beeinflussung von implantierten aktiven oder am Körper getragenen medizinischen Geräten in statischen Magnetfeldern"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Besondere Festlegungen zum Schutz vor Gefährdungen durch statische Magnetfelder"
+        },
+        {
+          "documentIdentifier" : "BJNR253110016BJNG000600000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR253110016BJNE001100000",
+              "paragraph" : "§ 10",
+              "title" : "Besondere Festlegungen für die Überschreitung der unteren Auslöseschwellen für externe elektrische Felder im Frequenzbereich von 0 Hertz bis 10 Megahertz"
+            },
+            {
+              "documentIdentifier" : "BJNR253110016BJNE001200000",
+              "paragraph" : "§ 11",
+              "title" : "Besondere Festlegungen für die Überschreitung der oberen Auslöseschwellen für externe elektrische Felder im Frequenzbereich von 0 Hertz bis 10 Megahertz"
+            },
+            {
+              "documentIdentifier" : "BJNR253110016BJNE001300000",
+              "paragraph" : "§ 12",
+              "title" : "Besondere Festlegungen für die Überschreitung der unteren Auslöseschwellen für magnetische Felder im Frequenzbereich von 0 Hertz bis 10 Megahertz"
+            },
+            {
+              "documentIdentifier" : "BJNR253110016BJNE001400000",
+              "paragraph" : "§ 13",
+              "title" : "Besondere Festlegungen für die Überschreitung der Auslöseschwellen für Kontaktströme bei berührendem Kontakt"
+            },
+            {
+              "documentIdentifier" : "BJNR253110016BJNE001500000",
+              "paragraph" : "§ 14",
+              "title" : "Besondere Festlegungen für die Überschreitung der Expositionsgrenzwerte für sensorische Wirkungen im Frequenzbereich bis 400 Hertz"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Besondere Festlegungen zum Schutz vor Gefährdungen durch elektromagnetische Felder im Frequenzbereich von 0 Hertz bis 10 Megahertz"
+        },
+        {
+          "documentIdentifier" : "BJNR253110016BJNG000700000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR253110016BJNE001600000",
+              "paragraph" : "§ 15",
+              "title" : "Besondere Festlegungen für die Überschreitung der Auslöseschwellen für elektromagnetische Felder im Frequenzbereich von 100 Kilohertz bis 300 Gigahertz"
+            },
+            {
+              "documentIdentifier" : "BJNR253110016BJNE001700000",
+              "paragraph" : "§ 16",
+              "title" : "Besondere Festlegungen für die Überschreitung der Auslöseschwellen für stationäre Kontaktströme oder induzierte Ströme durch die Gliedmaßen im Frequenzbereich von 100 Kilohertz bis 110 Megahertz"
+            },
+            {
+              "documentIdentifier" : "BJNR253110016BJNE001800000",
+              "paragraph" : "§ 17",
+              "title" : "Besondere Festlegungen für die Überschreitung des Expositionsgrenzwertes der lokalen spezifischen Energieabsorption für sensorische Wirkungen von gepulsten elektromagnetischen Feldern im Frequenzbereich von 0,3 Gigahertz bis 6 Gigahertz (Mikrowellenhören)"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Besondere Festlegungen zum Schutz vor Gefährdungen durch elektromagnetische Felder im Frequenzbereich von 100 Kilohertz bis 300 Gigahertz"
+        },
+        {
+          "documentIdentifier" : "BJNR253110016BJNG000800000",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR253110016BJNE001900000",
+              "paragraph" : "§ 18",
+              "title" : "Besondere Festlegungen für die Überschreitung von Expositionsgrenzwerten bei medizinischen Anwendungen von Magnetresonanzverfahren"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              5
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Besondere Festlegungen zum Schutz vor Gefährdungen durch elektromagnetische Felder bei medizinischen Anwendungen von Magnetresonanzverfahren"
+        }
+      ],
+      "title" : "Expositionsgrenzwerte und Auslöseschwellen; Festlegungen zum Schutz vor Gefährdungen durch elektromagnetische Felder"
+    },
+    {
+      "documentIdentifier" : "BJNR253110016BJNG000900000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR253110016BJNE002000000",
+          "paragraph" : "§ 19",
+          "title" : "Unterweisung der Beschäftigten"
+        },
+        {
+          "documentIdentifier" : "BJNR253110016BJNE002101126",
+          "paragraph" : "§ 20",
+          "title" : "Beratung durch den Ausschuss für Betriebssicherheit"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Unterweisung der Beschäftigten; Beratung durch den Ausschuss für Betriebssicherheit"
+    },
+    {
+      "documentIdentifier" : "BJNR253110016BJNG001000000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR253110016BJNE002200000",
+          "paragraph" : "§ 21",
+          "title" : "Ausnahmen"
+        },
+        {
+          "documentIdentifier" : "BJNR253110016BJNE002300000",
+          "paragraph" : "§ 22",
+          "title" : "Straftaten und Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR253110016BJNE002400000",
+          "paragraph" : "Anhang 1",
+          "title" : "Physikalische Größen im Zusammenhang mit der Exposition gegenüber elektromagnetischen Feldern"
+        },
+        {
+          "documentIdentifier" : "BJNR253110016BJNE002500000",
+          "paragraph" : "Anhang 2",
+          "title" : "Nichtthermische Wirkungen: Expositionsgrenzwerte und Auslöseschwellen für statische und zeitveränderliche elektrische und magnetische Felder im Frequenzbereich bis 10 MHz"
+        },
+        {
+          "documentIdentifier" : "BJNR253110016BJNE002600000",
+          "paragraph" : "Anhang 3",
+          "title" : "Thermische Wirkungen: Expositionsgrenzwerte und Auslöseschwellen für zeitveränderliche elektromagnetische Felder im Frequenzbereich von 100 kHz bis 300 GHz"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Ausnahmen; Straftaten und Ordnungswidrigkeiten"
+    }
+  ]
+}

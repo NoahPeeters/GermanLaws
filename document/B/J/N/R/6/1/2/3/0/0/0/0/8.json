@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR612300008",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR612300008Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR612300008BJNE000203301",
+          "paragraph" : "§ 1",
+          "title" : "Verwaltung des Finanzmarktstabilisierungsfonds"
+        },
+        {
+          "documentIdentifier" : "BJNR612300008BJNE000303140",
+          "paragraph" : "§ 2",
+          "title" : "Garantieübernahme"
+        },
+        {
+          "documentIdentifier" : "BJNR612300008BJNE000402140",
+          "paragraph" : "§ 3",
+          "title" : "Rekapitalisierung"
+        },
+        {
+          "documentIdentifier" : "BJNR612300008BJNE000503116",
+          "paragraph" : "§ 4",
+          "title" : "Risikoübernahme"
+        },
+        {
+          "documentIdentifier" : "BJNR612300008BJNE000605140",
+          "paragraph" : "§ 5",
+          "title" : "Bedingungen für Stabilisierungsmaßnahmen"
+        },
+        {
+          "documentIdentifier" : "BJNR612300008BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

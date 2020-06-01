@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR312600017",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR312600017Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR312600017BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Sanierungshilfen"
+        },
+        {
+          "documentIdentifier" : "BJNR312600017BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Sanierungsverpflichtungen"
+        },
+        {
+          "documentIdentifier" : "BJNR312600017BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Finanzierung"
+        },
+        {
+          "documentIdentifier" : "BJNR312600017BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Verwaltungsvereinbarung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR200500014",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR200500014Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR200500014BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Neufestsetzung der Neurenten-Faktoren nach § 178 Absatz 1 des Siebten Buches Sozialgesetzbuch"
+        },
+        {
+          "documentIdentifier" : "BJNR200500014BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

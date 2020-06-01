@@ -1,0 +1,228 @@
+{
+  "documentIdentifier" : "BJNR191900009",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR191900009BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR191900009BJNE000201000",
+          "paragraph" : "§ 1",
+          "title" : "Steuergebiet, Steuergegenstand"
+        },
+        {
+          "documentIdentifier" : "BJNR191900009BJNE000301000",
+          "paragraph" : "§ 2",
+          "title" : "Steuertarif"
+        },
+        {
+          "documentIdentifier" : "BJNR191900009BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Kaffeehaltige Waren"
+        },
+        {
+          "documentIdentifier" : "BJNR191900009BJNE000501140",
+          "paragraph" : "§ 4",
+          "title" : "Sonstige Begriffsbestimmungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Bestimmungen"
+    },
+    {
+      "documentIdentifier" : "BJNR191900009BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR191900009BJNE000601000",
+          "paragraph" : "§ 5",
+          "title" : "Steuerlager"
+        },
+        {
+          "documentIdentifier" : "BJNR191900009BJNE000702140",
+          "paragraph" : "§ 6",
+          "title" : "Steuerlagerinhaber"
+        },
+        {
+          "documentIdentifier" : "BJNR191900009BJNE000801000",
+          "paragraph" : "§ 7",
+          "title" : "Registrierte Versender"
+        },
+        {
+          "documentIdentifier" : "BJNR191900009BJNE000901000",
+          "paragraph" : "§ 8",
+          "title" : "Begünstigte"
+        },
+        {
+          "documentIdentifier" : "BJNR191900009BJNE001002140",
+          "paragraph" : "§ 9",
+          "title" : "Beförderungen im und aus dem Steuergebiet"
+        },
+        {
+          "documentIdentifier" : "BJNR191900009BJNE001101000",
+          "paragraph" : "§ 10",
+          "title" : "Unregelmäßigkeiten während der Beförderung"
+        },
+        {
+          "documentIdentifier" : "BJNR191900009BJNE001201000",
+          "paragraph" : "§ 11",
+          "title" : "Steuerentstehung, Steuerschuldner"
+        },
+        {
+          "documentIdentifier" : "BJNR191900009BJNE001302140",
+          "paragraph" : "§ 12",
+          "title" : "Steueranmeldung, Fälligkeit"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Steueraussetzung und Besteuerung"
+    },
+    {
+      "documentIdentifier" : "BJNR191900009BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR191900009BJNE001400000",
+          "paragraph" : "§ 13",
+          "title" : "Einfuhr"
+        },
+        {
+          "documentIdentifier" : "BJNR191900009BJNE001500000",
+          "paragraph" : "§ 14",
+          "title" : "Unregelmäßigkeiten im zollrechtlichen Nichterhebungsverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR191900009BJNE001602140",
+          "paragraph" : "§ 15",
+          "title" : "Steuerentstehung, Steuerschuldner"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Einfuhr von Kaffee aus Drittländern oder Drittgebieten"
+    },
+    {
+      "documentIdentifier" : "BJNR191900009BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR191900009BJNE001701000",
+          "paragraph" : "§ 16",
+          "title" : "Erwerb durch Privatpersonen"
+        },
+        {
+          "documentIdentifier" : "BJNR191900009BJNE001802140",
+          "paragraph" : "§ 17",
+          "title" : "Bezug und Besitz zu gewerblichen Zwecken"
+        },
+        {
+          "documentIdentifier" : "BJNR191900009BJNE001902140",
+          "paragraph" : "§ 18",
+          "title" : "Versandhandel"
+        },
+        {
+          "documentIdentifier" : "BJNR191900009BJNE002001000",
+          "paragraph" : "§ 19",
+          "title" : "Unregelmäßigkeiten während der Beförderung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Beförderung und Besteuerung von Kaffee des zollrechtlich freien Verkehrs anderer Mitgliedstaaten"
+    },
+    {
+      "documentIdentifier" : "BJNR191900009BJNG000500000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR191900009BJNE002101000",
+          "paragraph" : "§ 20",
+          "title" : "Steuerbefreiungen"
+        },
+        {
+          "documentIdentifier" : "BJNR191900009BJNE002201000",
+          "paragraph" : "§ 21",
+          "title" : "Steuerentlastung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Steuervergünstigungen"
+    },
+    {
+      "documentIdentifier" : "BJNR191900009BJNG000600000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR191900009BJNE002300000",
+          "paragraph" : "§ 22",
+          "title" : "Steueraufsicht"
+        },
+        {
+          "documentIdentifier" : "BJNR191900009BJNE002402301",
+          "paragraph" : "§ 23",
+          "title" : "Besondere Ermächtigungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Steueraufsicht, Besondere Ermächtigungen"
+    },
+    {
+      "documentIdentifier" : "BJNR191900009BJNG000700000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR191900009BJNE002500000",
+          "paragraph" : "§ 24",
+          "title" : "Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR191900009BJNE002600000",
+          "paragraph" : "§ 25",
+          "title" : "Übergangsvorschriften"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussbestimmungen"
+    }
+  ]
+}

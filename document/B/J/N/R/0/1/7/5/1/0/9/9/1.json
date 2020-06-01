@@ -1,0 +1,241 @@
+{
+  "documentIdentifier" : "BJNR017510991",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR017510991BJNG000100307",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR017510991BJNE001002124",
+          "paragraph" : "§ 1",
+          "title" : "Räumliche und sachliche Anwendung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Anwendungsbereich"
+    },
+    {
+      "documentIdentifier" : "BJNR017510991BJNG000201124",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR017510991BJNE001104124",
+          "paragraph" : "§ 2",
+          "title" : "Eignungsuntersuchungen"
+        },
+        {
+          "documentIdentifier" : "BJNR017510991BJNE001201124",
+          "paragraph" : "§ 3",
+          "title" : "Fristen für die Erst- und Nachuntersuchungen"
+        },
+        {
+          "documentIdentifier" : "BJNR017510991BJNE004101116",
+          "paragraph" : "§ 4",
+          "title" : "Arbeitsmedizinische Vorsorge"
+        },
+        {
+          "documentIdentifier" : "BJNR017510991BJNE004200124",
+          "paragraph" : "§ 5",
+          "title" : "Durchführung der Untersuchungen"
+        },
+        {
+          "documentIdentifier" : "BJNR017510991BJNE004300124",
+          "paragraph" : "§ 6",
+          "title" : "Mitteilung, Aufzeichnung, Aufbewahrung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Eignungsuntersuchungen und arbeitsmedizinische Vorsorge"
+    },
+    {
+      "documentIdentifier" : "BJNR017510991BJNG000301124",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR017510991BJNG000401124",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR017510991BJNE001304124",
+              "paragraph" : "§ 7",
+              "title" : "Tätigkeiten mit Gefahrstoffen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Allgemeine Bestimmungen für Tätigkeiten mit Gefahrstoffen"
+        },
+        {
+          "documentIdentifier" : "BJNR017510991BJNG000501124",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR017510991BJNE001401124",
+              "paragraph" : "§ 8",
+              "title" : "Ermittlung der persönlichen Belastung durch fibrogene Grubenstäube"
+            },
+            {
+              "documentIdentifier" : "BJNR017510991BJNE001501124",
+              "paragraph" : "§ 9",
+              "title" : "Zulässige persönliche Staubbelastungswerte"
+            },
+            {
+              "documentIdentifier" : "BJNR017510991BJNE001601124",
+              "paragraph" : "§ 10",
+              "title" : "Einstufung der Betriebspunkte"
+            },
+            {
+              "documentIdentifier" : "BJNR017510991BJNE001703124",
+              "paragraph" : "§ 11",
+              "title" : "Staubmessungen"
+            },
+            {
+              "documentIdentifier" : "BJNR017510991BJNE001801124",
+              "paragraph" : "§ 12",
+              "title" : "Überwachung der staubexponierten Personen"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Besondere Bestimmungen für den untertägigen Steinkohlenbergbau"
+        },
+        {
+          "documentIdentifier" : "BJNR017510991BJNG000601124",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR017510991BJNE001902124",
+              "paragraph" : "§ 13",
+              "title" : "Maßnahmen bei Belastung durch fibrogene Grubenstäube"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Besondere Bestimmungen für den untertägigen Nichtsteinkohlenbergbau"
+        }
+      ],
+      "title" : "Besondere Vorschriften für Gefahrstoffe einschließlich fibrogener Grubenstäube"
+    },
+    {
+      "documentIdentifier" : "BJNR017510991BJNG000701124",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR017510991BJNE002301124",
+          "paragraph" : "§ 14",
+          "title" : "Unterrichtung"
+        },
+        {
+          "documentIdentifier" : "BJNR017510991BJNE002401124",
+          "paragraph" : "§ 15",
+          "title" : "Übertragung von Pflichten"
+        },
+        {
+          "documentIdentifier" : "BJNR017510991BJNE002501124",
+          "paragraph" : "§ 16",
+          "title" : "Behördliche Ausnahmen"
+        },
+        {
+          "documentIdentifier" : "BJNR017510991BJNE002603124",
+          "paragraph" : "§ 17",
+          "title" : "Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR017510991BJNE002702124",
+          "paragraph" : "§ 18",
+          "title" : "Übergangsvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR017510991BJNE003002124",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 2 Absatz 1)"
+        },
+        {
+          "documentIdentifier" : "BJNR017510991BJNE003101124",
+          "paragraph" : "Anlage 2",
+          "title" : "(zu § 3 Absatz 2)"
+        },
+        {
+          "documentIdentifier" : "BJNR017510991BJNE003201124",
+          "paragraph" : "Anlage 3",
+          "title" : "(zu § 5 Absatz 3)"
+        },
+        {
+          "documentIdentifier" : "BJNR017510991BJNE003302124",
+          "paragraph" : "Anlage 4",
+          "title" : "(zu § 5 Absatz 4)"
+        },
+        {
+          "documentIdentifier" : "BJNR017510991BJNE003402124",
+          "paragraph" : "Anlage 5",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR017510991BJNE003500307",
+          "paragraph" : "Anlage 6",
+          "title" : "(zu § 5)\n"
+        },
+        {
+          "documentIdentifier" : "BJNR017510991BJNE003600307",
+          "paragraph" : "Anlage 7",
+          "title" : "(zu § 7)\n"
+        },
+        {
+          "documentIdentifier" : "BJNR017510991BJNE003701377",
+          "paragraph" : "Anlage 8",
+          "title" : "(zu § 8)\n"
+        },
+        {
+          "documentIdentifier" : "BJNR017510991BJNE003800307",
+          "paragraph" : "Anlage 9",
+          "title" : "(zu § 9)\n"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussvorschriften"
+    }
+  ]
+}

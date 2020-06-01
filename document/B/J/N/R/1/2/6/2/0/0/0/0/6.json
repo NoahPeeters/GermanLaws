@@ -1,0 +1,44 @@
+{
+  "documentIdentifier" : "BJNR126200006",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR126200006Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR126200006BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Errichtung von Truppendienstgerichten"
+        },
+        {
+          "documentIdentifier" : "BJNR126200006BJNE000301140",
+          "paragraph" : "§ 2",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR126200006BJNE000401140",
+          "paragraph" : "§ 3",
+          "title" : "Truppendienstkammern"
+        },
+        {
+          "documentIdentifier" : "BJNR126200006BJNE000501140",
+          "paragraph" : "§ 4",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR126200006BJNE000601140",
+          "paragraph" : "§ 5",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

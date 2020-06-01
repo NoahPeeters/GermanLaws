@@ -1,0 +1,150 @@
+{
+  "documentIdentifier" : "BJNR117400998",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR117400998BJNG000101116",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR117400998BJNE000903116",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR117400998BJNE001004116",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR117400998BJNG000201116",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR117400998BJNE001103116",
+          "paragraph" : "§ 3",
+          "title" : "Lagerung in Tanklagern"
+        },
+        {
+          "documentIdentifier" : "BJNR117400998BJNE001204116",
+          "paragraph" : "§ 4",
+          "title" : "Befüllung und Entleerung von Lagertanks oder beweglichen Behältnissen in Tanklagern"
+        },
+        {
+          "documentIdentifier" : "BJNR117400998BJNE001303116",
+          "paragraph" : "§ 5",
+          "title" : "Bewegliche Behältnisse"
+        },
+        {
+          "documentIdentifier" : "BJNR117400998BJNE001402116",
+          "paragraph" : "§ 6",
+          "title" : "Befüllung der Lagertanks von Tankstellen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Anforderungen an die Errichtung, die Beschaffenheit und den Betrieb"
+    },
+    {
+      "documentIdentifier" : "BJNR117400998BJNG000301116",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR117400998BJNE001501116",
+          "paragraph" : "§ 7",
+          "title" : "Meßöffnungen und Meßplätze"
+        },
+        {
+          "documentIdentifier" : "BJNR117400998BJNE001603116",
+          "paragraph" : "§ 8",
+          "title" : "Nicht genehmigungsbedürftige Anlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR117400998BJNE001703116",
+          "paragraph" : "§ 9",
+          "title" : "Genehmigungsbedürftige Anlagen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Verfahren zur Messung und Überwachung"
+    },
+    {
+      "documentIdentifier" : "BJNR117400998BJNG000401116",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR117400998BJNE001801116",
+          "paragraph" : "§ 10",
+          "title" : "Andere oder weitergehende Anforderungen"
+        },
+        {
+          "documentIdentifier" : "BJNR117400998BJNE001905116",
+          "paragraph" : "§ 11",
+          "title" : "Zulassung von Ausnahmen"
+        },
+        {
+          "documentIdentifier" : "BJNR117400998BJNE002002116",
+          "paragraph" : "§ 12",
+          "title" : "Zugänglichkeit der Normen"
+        },
+        {
+          "documentIdentifier" : "BJNR117400998BJNE002103116",
+          "paragraph" : "§ 13",
+          "title" : "Ordnungswidrigkeiten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gemeinsame Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR117400998BJNG000502116",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR117400998BJNE002202116",
+          "paragraph" : "§ 14",
+          "title" : "Übergangsregelung"
+        },
+        {
+          "documentIdentifier" : "BJNR117400998BJNE002401116",
+          "paragraph" : "§ 15",
+          "title" : "(Inkrafttreten, Außerkrafttreten)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übergangs- und Schlussvorschriften"
+    }
+  ]
+}

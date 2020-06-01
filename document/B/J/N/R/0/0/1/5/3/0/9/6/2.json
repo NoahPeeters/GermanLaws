@@ -1,0 +1,145 @@
+{
+  "documentIdentifier" : "BJNR001530962",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR001530962BJNG000102377",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Aufstellung von Geldspielgeräten"
+    },
+    {
+      "documentIdentifier" : "BJNR001530962BJNG000202377",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR001530962BJNG000302377",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Erlaubnispflichtige Spiele"
+        },
+        {
+          "documentIdentifier" : "BJNR001530962BJNG000402377",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Erlaubnisfreie Spiele"
+        }
+      ],
+      "title" : "Veranstaltung anderer Spiele"
+    },
+    {
+      "documentIdentifier" : "BJNR001530962BJNG000502377",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Verpflichtungen bei der Ausübung des Gewerbes"
+    },
+    {
+      "documentIdentifier" : "BJNR001530962BJNG000603377",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Zulassung von Spielgeräten"
+    },
+    {
+      "documentIdentifier" : "BJNR001530962BJNG000704377",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Erteilung von Unbedenklichkeitsbescheinigungen für gewerbsmäßig betriebene Ausspielungen"
+    },
+    {
+      "documentIdentifier" : "BJNR001530962BJNG000803377",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Ordnungswidrigkeiten"
+    },
+    {
+      "documentIdentifier" : "BJNR001530962BJNG000903377",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR001530962BJNE002706377",
+          "paragraph" : "Anlage",
+          "title" : "(zu § 5a)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussvorschriften"
+    }
+  ]
+}

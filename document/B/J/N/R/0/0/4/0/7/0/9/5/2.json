@@ -1,0 +1,88 @@
+{
+  "documentIdentifier" : "BJNR004070952",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR004070952BJNG000100302",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Begriffsbestimmung"
+    },
+    {
+      "documentIdentifier" : "BJNR004070952BJNG000200302",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Bürgerliches Recht"
+    },
+    {
+      "documentIdentifier" : "BJNR004070952BJNG000301301",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR004070952BJNE002001301",
+          "paragraph" : "(XXXX) §§ 14 bis 16",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Dritter Abschnitt"
+    },
+    {
+      "documentIdentifier" : "BJNR004070952BJNG000400302",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Strafrecht"
+    },
+    {
+      "documentIdentifier" : "BJNR004070952BJNG000501301",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR004070952BJNE002601301",
+          "paragraph" : "(XXXX) §§ 20 bis 24",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Fünfter Abschnitt"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "documentIdentifier" : "BJNR012550980",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR012550980Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR012550980BJNE000303140",
+          "paragraph" : "§ 1",
+          "title" : "Anzeigepflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR012550980BJNE000400307",
+          "paragraph" : "§ 2",
+          "title" : "Rechtsanwälte"
+        },
+        {
+          "documentIdentifier" : "BJNR012550980BJNE000504140",
+          "paragraph" : "§ 3",
+          "title" : "Veröffentlichung"
+        },
+        {
+          "documentIdentifier" : "BJNR012550980BJNE000604140",
+          "paragraph" : "§ 4",
+          "title" : "Spenden"
+        },
+        {
+          "documentIdentifier" : "BJNR012550980BJNE000700307",
+          "paragraph" : "§ 5",
+          "title" : "Hinweise auf Mitgliedschaft"
+        },
+        {
+          "documentIdentifier" : "BJNR012550980BJNE000801377",
+          "paragraph" : "§ 6",
+          "title" : "Interessenverknüpfung im Ausschuß"
+        },
+        {
+          "documentIdentifier" : "BJNR012550980BJNE000901377",
+          "paragraph" : "§ 7",
+          "title" : "Rückfrage"
+        },
+        {
+          "documentIdentifier" : "BJNR012550980BJNE001001377",
+          "paragraph" : "§ 8",
+          "title" : "Verfahren"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

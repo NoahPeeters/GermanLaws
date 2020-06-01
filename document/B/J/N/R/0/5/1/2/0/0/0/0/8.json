@@ -1,0 +1,89 @@
+{
+  "documentIdentifier" : "BJNR051200008",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR051200008Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR051200008BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR051200008BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Anforderungen an die Entnahme von Geweben"
+        },
+        {
+          "documentIdentifier" : "BJNR051200008BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Anforderungen an die ärztliche Beurteilung der medizinischen Eignung des Spenders"
+        },
+        {
+          "documentIdentifier" : "BJNR051200008BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Anforderungen an Laboruntersuchungen und Untersuchungsverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR051200008BJNE000603116",
+          "paragraph" : "§ 5",
+          "title" : "Anforderungen an Spenderakte und Entnahmebericht"
+        },
+        {
+          "documentIdentifier" : "BJNR051200008BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Voraussetzungen für die Verwendung von Keimzellen im Rahmen von Maßnahmen einer medizinisch unterstützten Befruchtung"
+        },
+        {
+          "documentIdentifier" : "BJNR051200008BJNE000801116",
+          "paragraph" : "§ 7",
+          "title" : "Dokumentation von übertragenen Geweben durch Einrichtungen der medizinischen Versorgung"
+        },
+        {
+          "documentIdentifier" : "BJNR051200008BJNE000901116",
+          "paragraph" : "§ 8",
+          "title" : "Meldung schwerwiegender Zwischenfälle durch Einrichtungen der medizinischen Versorgung"
+        },
+        {
+          "documentIdentifier" : "BJNR051200008BJNE001001116",
+          "paragraph" : "§ 9",
+          "title" : "Meldung schwerwiegender unerwünschter Reaktionen durch Einrichtungen der medizinischen Versorgung"
+        },
+        {
+          "documentIdentifier" : "BJNR051200008BJNE001100000",
+          "paragraph" : "§ 10",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR051200008BJNE001300000",
+          "paragraph" : "Anlage 1",
+          "title" : "Anforderungen an die ärztliche Beurteilung der medizinischen Eignung des toten Spenders nach § 3 Abs. 1"
+        },
+        {
+          "documentIdentifier" : "BJNR051200008BJNE001401116",
+          "paragraph" : "Anlage 2",
+          "title" : "Anforderungen an die ärztliche Beurteilung der medizinischen Eignung des lebenden Spenders nach § 3 Abs. 2"
+        },
+        {
+          "documentIdentifier" : "BJNR051200008BJNE001501116",
+          "paragraph" : "Anlage 3",
+          "title" : "Erforderliche Laboruntersuchungen und Untersuchungsverfahren nach § 4"
+        },
+        {
+          "documentIdentifier" : "BJNR051200008BJNE001601116",
+          "paragraph" : "Anlage 4",
+          "title" : "Erforderliche Laboruntersuchungen für die Verwendung von Keimzellen nach § 6"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

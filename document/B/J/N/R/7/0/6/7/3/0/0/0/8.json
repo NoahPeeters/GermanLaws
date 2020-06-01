@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR706730008",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR706730008Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR706730008BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Festsetzung der Schleusenbetriebszeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR706730008BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Schleusungen außerhalb der Betriebszeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR706730008BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Abweichungen von Schleusenbetriebszeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR706730008BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Außerkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR706730008BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR706730008BJNE000700000",
+          "paragraph" : "Anhang",
+          "title" : "Anhang zur Schleusenbetriebzeitenverordnung mit den ab 1. Januar 2009 geltenden Schleusenbetriebszeiten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR018600019",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR018600019Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR018600019BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Abkommen"
+        },
+        {
+          "documentIdentifier" : "BJNR018600019BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Vermeidung der Doppelbesteuerung"
+        },
+        {
+          "documentIdentifier" : "BJNR018600019BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Anwendung"
+        },
+        {
+          "documentIdentifier" : "BJNR018600019BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

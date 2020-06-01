@@ -1,0 +1,175 @@
+{
+  "documentIdentifier" : "BJNR126200001",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR126200001BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR126200001BJNE000101308",
+          "paragraph" : "§ 1",
+          "title" : "Staatliche Anerkennung der Ausbildungsberufe"
+        },
+        {
+          "documentIdentifier" : "BJNR126200001BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Ausbildungsdauer"
+        },
+        {
+          "documentIdentifier" : "BJNR126200001BJNE000301308",
+          "paragraph" : "§ 3",
+          "title" : "Struktur und Zielsetzung der Berufsausbildung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gemeinsame Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR126200001BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR126200001BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Ausbildungsberufsbild"
+        },
+        {
+          "documentIdentifier" : "BJNR126200001BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Ausbildungsrahmenplan"
+        },
+        {
+          "documentIdentifier" : "BJNR126200001BJNE000600000",
+          "paragraph" : "§ 6",
+          "title" : "Ausbildungsplan"
+        },
+        {
+          "documentIdentifier" : "BJNR126200001BJNE000700000",
+          "paragraph" : "§ 7",
+          "title" : "Berichtsheft"
+        },
+        {
+          "documentIdentifier" : "BJNR126200001BJNE000800000",
+          "paragraph" : "§ 8",
+          "title" : "Zwischenprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR126200001BJNE000900000",
+          "paragraph" : "§ 9",
+          "title" : "Abschlussprüfung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Vorschriften für den Ausbildungsberuf Kaufmann im Gesundheitswesen\/Kauffrau im Gesundheitswesen"
+    },
+    {
+      "documentIdentifier" : "BJNR126200001BJNG000301308",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR126200001BJNE001001308",
+          "paragraph" : "(XXXX) §§ 10 bis 15",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "(weggefallen)"
+    },
+    {
+      "documentIdentifier" : "BJNR126200001BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR126200001BJNE001600000",
+          "paragraph" : "§ 16",
+          "title" : "Ausbildungsberufsbild"
+        },
+        {
+          "documentIdentifier" : "BJNR126200001BJNE001700000",
+          "paragraph" : "§ 17",
+          "title" : "Ausbildungsrahmenplan"
+        },
+        {
+          "documentIdentifier" : "BJNR126200001BJNE001800000",
+          "paragraph" : "§ 18",
+          "title" : "Ausbildungsplan"
+        },
+        {
+          "documentIdentifier" : "BJNR126200001BJNE001900000",
+          "paragraph" : "§ 19",
+          "title" : "Berichtsheft"
+        },
+        {
+          "documentIdentifier" : "BJNR126200001BJNE002000000",
+          "paragraph" : "§ 20",
+          "title" : "Zwischenprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR126200001BJNE002100000",
+          "paragraph" : "§ 21",
+          "title" : "Abschlussprüfung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Vorschriften für den Ausbildungsberuf Veranstaltungskaufmann\/Veranstaltungskauffrau"
+    },
+    {
+      "documentIdentifier" : "BJNR126200001BJNG000500000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR126200001BJNE002200000",
+          "paragraph" : "§ 22",
+          "title" : "Inkrafttreten"
+        },
+        {
+          "documentIdentifier" : "BJNR126200001BJNE002300000",
+          "paragraph" : "Anlage 1",
+          "title" : "(zu § 5)"
+        },
+        {
+          "documentIdentifier" : "BJNR126200001BJNE002401308",
+          "paragraph" : "Anlage 2",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR126200001BJNE002501119",
+          "paragraph" : "Anlage 3",
+          "title" : "(zu § 17)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Schlussvorschriften"
+    }
+  ]
+}

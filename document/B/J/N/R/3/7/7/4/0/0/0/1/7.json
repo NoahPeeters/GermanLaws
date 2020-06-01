@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR377400017",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR377400017Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR377400017BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Verlängerung der Frist"
+        },
+        {
+          "documentIdentifier" : "BJNR377400017BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

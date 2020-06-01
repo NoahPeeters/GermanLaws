@@ -1,0 +1,496 @@
+{
+  "documentIdentifier" : "BJNR001850976",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR001850976Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR001850976BJNE001803310",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR001850976BJNG000102310",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              1
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR001850976BJNG000202310",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR001850976BJNE001906301",
+                  "paragraph" : "§ 2",
+                  "title" : "Aufgaben"
+                },
+                {
+                  "documentIdentifier" : "BJNR001850976BJNE011601310",
+                  "paragraph" : "§ 3",
+                  "title" : "Gleichberechtigung von Frauen und Männern"
+                },
+                {
+                  "documentIdentifier" : "BJNR001850976BJNE002003310",
+                  "paragraph" : "§ 4",
+                  "title" : "Freiheit von Kunst und Wissenschaft, Forschung, Lehre und\nStudium"
+                },
+                {
+                  "documentIdentifier" : "BJNR001850976BJNE002104310",
+                  "paragraph" : "§ 5",
+                  "title" : "Staatliche Finanzierung"
+                },
+                {
+                  "documentIdentifier" : "BJNR001850976BJNE011202310",
+                  "paragraph" : "§ 6",
+                  "title" : "Bewertung der Forschung, Lehre, Förderung des wissenschaftlichen\nNachwuchses und der Gleichstellung der Geschlechter"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  1,
+                  1
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Allgemeine Bestimmungen"
+            },
+            {
+              "documentIdentifier" : "BJNR001850976BJNG000302310",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR001850976BJNE002402310",
+                  "paragraph" : "§ 7",
+                  "title" : "Ziel des Studiums"
+                },
+                {
+                  "documentIdentifier" : "BJNR001850976BJNE002503310",
+                  "paragraph" : "§ 8",
+                  "title" : "Studienreform"
+                },
+                {
+                  "documentIdentifier" : "BJNR001850976BJNE002604310",
+                  "paragraph" : "§ 9",
+                  "title" : "Koordinierung der Ordnung von Studium und Prüfungen"
+                },
+                {
+                  "documentIdentifier" : "BJNR001850976BJNE002705310",
+                  "paragraph" : "§ 10",
+                  "title" : "Studiengänge"
+                },
+                {
+                  "documentIdentifier" : "BJNR001850976BJNE002804310",
+                  "paragraph" : "§ 11",
+                  "title" : "Regelstudienzeit bis zum ersten berufsqualifizierenden Abschluß"
+                },
+                {
+                  "documentIdentifier" : "BJNR001850976BJNE002903310",
+                  "paragraph" : "§ 12",
+                  "title" : "Postgraduale Studiengänge"
+                },
+                {
+                  "documentIdentifier" : "BJNR001850976BJNE003003310",
+                  "paragraph" : "§ 13",
+                  "title" : "Fernstudium, Multimedia"
+                },
+                {
+                  "documentIdentifier" : "BJNR001850976BJNE003103310",
+                  "paragraph" : "§ 14",
+                  "title" : "Studienberatung"
+                },
+                {
+                  "documentIdentifier" : "BJNR001850976BJNE003204310",
+                  "paragraph" : "§ 15",
+                  "title" : "Prüfungen und Leistungspunktsystem"
+                },
+                {
+                  "documentIdentifier" : "BJNR001850976BJNE003308360",
+                  "paragraph" : "§ 16",
+                  "title" : "Prüfungsordnungen"
+                },
+                {
+                  "documentIdentifier" : "BJNR001850976BJNE003403310",
+                  "paragraph" : "§ 17",
+                  "title" : "Vorzeitiges Ablegen der Prüfung"
+                },
+                {
+                  "documentIdentifier" : "BJNR001850976BJNE003505320",
+                  "paragraph" : "§ 18",
+                  "title" : "Hochschulgrade"
+                },
+                {
+                  "documentIdentifier" : "BJNR001850976BJNE003604320",
+                  "paragraph" : "§ 19",
+                  "title" : "Bachelor- und Masterstudiengänge"
+                },
+                {
+                  "documentIdentifier" : "BJNR001850976BJNE003704310",
+                  "paragraph" : "§ 20",
+                  "title" : "Studium an ausländischen Hochschulen"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  1,
+                  2
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Studium und Lehre"
+            },
+            {
+              "documentIdentifier" : "BJNR001850976BJNG000402310",
+              "laws" : [
+                {
+                  "documentIdentifier" : "BJNR001850976BJNE003903310",
+                  "paragraph" : "§ 22",
+                  "title" : "Aufgaben und Koordination der Forschung"
+                },
+                {
+                  "documentIdentifier" : "BJNR001850976BJNE004102310",
+                  "paragraph" : "§ 24",
+                  "title" : "Veröffentlichung von Forschungsergebnissen"
+                },
+                {
+                  "documentIdentifier" : "BJNR001850976BJNE004204310",
+                  "paragraph" : "§ 25",
+                  "title" : "Forschung mit Mitteln Dritter"
+                },
+                {
+                  "documentIdentifier" : "BJNR001850976BJNE004303310",
+                  "paragraph" : "§ 26",
+                  "title" : "Entwicklungsvorhaben"
+                }
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  1,
+                  3
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Forschung"
+            }
+          ],
+          "title" : "Aufgaben der Hochschulen"
+        }
+      ],
+      "title" : "Inhalt"
+    },
+    {
+      "documentIdentifier" : "BJNR001850976BJNG000502310",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR001850976BJNE004404310",
+          "paragraph" : "§ 27",
+          "title" : "Allgemeine Voraussetzungen"
+        },
+        {
+          "documentIdentifier" : "BJNR001850976BJNE004603310",
+          "paragraph" : "§ 29",
+          "title" : "Maßstäbe der Ausbildungskapazität"
+        },
+        {
+          "documentIdentifier" : "BJNR001850976BJNE004703310",
+          "paragraph" : "§ 30",
+          "title" : "Festsetzung von Zulassungszahlen"
+        },
+        {
+          "documentIdentifier" : "BJNR001850976BJNE004805116",
+          "paragraph" : "§ 31",
+          "title" : "Zentrale Vergabe von Studienplätzen"
+        },
+        {
+          "documentIdentifier" : "BJNR001850976BJNE004906116",
+          "paragraph" : "§ 32",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR001850976BJNE005109116",
+          "paragraph" : "§ 34",
+          "title" : "Benachteiligungsverbot"
+        },
+        {
+          "documentIdentifier" : "BJNR001850976BJNE005205116",
+          "paragraph" : "§ 35",
+          "title" : "Unabhängigkeit der Zulassung von der Landeszugehörigkeit"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Zulassung zum Studium"
+    },
+    {
+      "documentIdentifier" : "BJNR001850976BJNG000602310",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR001850976BJNG000702310",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR001850976BJNE005304310",
+              "paragraph" : "§ 36",
+              "title" : "Mitgliedschaft"
+            },
+            {
+              "documentIdentifier" : "BJNR001850976BJNE005405310",
+              "paragraph" : "§ 37",
+              "title" : "Allgemeine Grundsätze der Mitwirkung"
+            },
+            {
+              "documentIdentifier" : "BJNR001850976BJNE005504310",
+              "paragraph" : "(XXXX) §§ 38 bis 40",
+              "title" : "(weggefallen)"
+            },
+            {
+              "documentIdentifier" : "BJNR001850976BJNE005803310",
+              "paragraph" : "§ 41",
+              "title" : "Studentenschaft"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Mitgliedschaft und Mitwirkung"
+        },
+        {
+          "documentIdentifier" : "BJNR001850976BJNG000802310",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR001850976BJNE005905310",
+              "paragraph" : "§ 42",
+              "title" : "Hauptberufliches wissenschaftliches und künstlerisches Personal"
+            },
+            {
+              "documentIdentifier" : "BJNR001850976BJNE006005310",
+              "paragraph" : "§ 43",
+              "title" : "Dienstliche Aufgaben der Hochschullehrerinnen und Hochschullehrer"
+            },
+            {
+              "documentIdentifier" : "BJNR001850976BJNE006105310",
+              "paragraph" : "§ 44",
+              "title" : "Einstellungsvoraussetzungen für Professorinnen und Professoren"
+            },
+            {
+              "documentIdentifier" : "BJNR001850976BJNE006205310",
+              "paragraph" : "§ 45",
+              "title" : "Ausschreibung von Stellen für Hochschullehrerinnen und Hochschullehrer"
+            },
+            {
+              "documentIdentifier" : "BJNR001850976BJNE006303310",
+              "paragraph" : "§ 46",
+              "title" : "Dienstrechtliche Stellung der Professoren"
+            },
+            {
+              "documentIdentifier" : "BJNR001850976BJNE006406310",
+              "paragraph" : "§ 47",
+              "title" : "Einstellungsvoraussetzungen für Juniorprofessorinnen und\nJuniorprofessoren"
+            },
+            {
+              "documentIdentifier" : "BJNR001850976BJNE006505310",
+              "paragraph" : "§ 48",
+              "title" : "Dienstrechtliche Stellung der Juniorprofessorinnen und Juniorprofessoren"
+            },
+            {
+              "documentIdentifier" : "BJNR001850976BJNE006604310",
+              "paragraph" : "§ 49",
+              "title" : "Anwendung der Vorschriften des Beamtenrechtsrahmengesetzes"
+            },
+            {
+              "documentIdentifier" : "BJNR001850976BJNE006710310",
+              "paragraph" : "§ 50",
+              "title" : "Dienstrechtliche Sonderregelungen"
+            },
+            {
+              "documentIdentifier" : "BJNR001850976BJNE007005310",
+              "paragraph" : "§ 53",
+              "title" : "Wissenschaftliche und künstlerische Mitarbeiterinnen und Mitarbeiter"
+            },
+            {
+              "documentIdentifier" : "BJNR001850976BJNE007203310",
+              "paragraph" : "§ 55",
+              "title" : "Lehrbeauftragte"
+            },
+            {
+              "documentIdentifier" : "BJNR001850976BJNE007303310",
+              "paragraph" : "§ 56",
+              "title" : "Lehrkräfte für besondere Aufgaben"
+            },
+            {
+              "documentIdentifier" : "BJNR001850976BJNE010104310",
+              "paragraph" : "(XXXX) §§ 57a bis 57f",
+              "title" : "(weggefallen)"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              3,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Wissenschaftliches und künstlerisches Personal"
+        }
+      ],
+      "title" : "Mitglieder der Hochschule"
+    },
+    {
+      "documentIdentifier" : "BJNR001850976BJNG000903310",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR001850976BJNE007503310",
+          "paragraph" : "§ 58",
+          "title" : "Rechtsform und Selbstverwaltungsrecht"
+        },
+        {
+          "documentIdentifier" : "BJNR001850976BJNE007603310",
+          "paragraph" : "§ 59",
+          "title" : "Aufsicht"
+        },
+        {
+          "documentIdentifier" : "BJNR001850976BJNE007704310",
+          "paragraph" : "(XXXX) §§ 60 bis 69",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Rechtsstellung der Hochschule"
+    },
+    {
+      "documentIdentifier" : "BJNR001850976BJNG001302310",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR001850976BJNE008708310",
+          "paragraph" : "§ 70",
+          "title" : "Anerkennung von Einrichtungen"
+        },
+        {
+          "documentIdentifier" : "BJNR001850976BJNE008803310",
+          "paragraph" : "§ 71",
+          "title" : "Gleichstellung von Abschlüssen der Notarschule"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Staatliche Anerkennung"
+    },
+    {
+      "documentIdentifier" : "BJNR001850976BJNG001402310",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR001850976BJNE008917116",
+          "paragraph" : "§ 72",
+          "title" : "Anpassungsfristen"
+        },
+        {
+          "documentIdentifier" : "BJNR001850976BJNE009004310",
+          "paragraph" : "§ 73",
+          "title" : "Abweichende Regelungen"
+        },
+        {
+          "documentIdentifier" : "BJNR001850976BJNE011900310",
+          "paragraph" : "§ 74",
+          "title" : "Bisherige Dienstverhältnisse und Berufungsvereinbarungen"
+        },
+        {
+          "documentIdentifier" : "BJNR001850976BJNE009104320",
+          "paragraph" : "(XXXX) §§ 75 und 75a",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR001850976BJNE009303310",
+          "paragraph" : "§ 76",
+          "title" : "Besitzstandswahrung bei der Entpflichtung"
+        },
+        {
+          "documentIdentifier" : "BJNR001850976BJNE011102310",
+          "paragraph" : "§ 76a",
+          "title" : "Übergangsvorschrift für Hochschulassistenten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Anpassung des Landesrechts"
+    },
+    {
+      "documentIdentifier" : "BJNR001850976BJNG001502310",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR001850976BJNE009402310",
+          "paragraph" : "(XXXX) §§ 77 bis 80",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR001850976BJNE009802310",
+          "paragraph" : "§ 81",
+          "title" : "Verträge mit den Kirchen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Änderung von Bundesgesetzen, Schlußvorschriften"
+    }
+  ]
+}

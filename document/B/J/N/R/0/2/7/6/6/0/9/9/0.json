@@ -1,0 +1,29 @@
+{
+  "documentIdentifier" : "BJNR027660990",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR027660990Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR027660990BJNE000209116",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR027660990BJNE000400308",
+          "paragraph" : "§ 3",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

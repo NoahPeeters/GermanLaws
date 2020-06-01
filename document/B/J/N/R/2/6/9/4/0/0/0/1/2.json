@@ -1,0 +1,59 @@
+{
+  "documentIdentifier" : "BJNR269400012",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR269400012Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR269400012BJNE000204125",
+          "paragraph" : "§ 1",
+          "title" : "Inhalt und Aufbau des Klageregisters"
+        },
+        {
+          "documentIdentifier" : "BJNR269400012BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Eintragungen"
+        },
+        {
+          "documentIdentifier" : "BJNR269400012BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Bekanntmachungen"
+        },
+        {
+          "documentIdentifier" : "BJNR269400012BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Berichtigung, Löschung, Kennzeichnung und Überprüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR269400012BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Einsichtnahme"
+        },
+        {
+          "documentIdentifier" : "BJNR269400012BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Datensicherheit"
+        },
+        {
+          "documentIdentifier" : "BJNR269400012BJNE000801125",
+          "paragraph" : "§ 7",
+          "title" : "Übergangsvorschrift"
+        },
+        {
+          "documentIdentifier" : "BJNR269400012BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

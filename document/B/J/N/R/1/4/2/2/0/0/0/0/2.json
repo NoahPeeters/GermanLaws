@@ -1,0 +1,204 @@
+{
+  "documentIdentifier" : "BJNR142200002",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR142200002BJNG000600000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR142200002BJNE000103119",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR142200002BJNE000206126",
+          "paragraph" : "§ 2",
+          "title" : "Krankenhausleistungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR142200002BJNG000700000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR142200002BJNE000307126",
+          "paragraph" : "§ 3",
+          "title" : "Grundlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR142200002BJNE000429126",
+          "paragraph" : "§ 4",
+          "title" : "Vereinbarung eines Erlösbudgets"
+        },
+        {
+          "documentIdentifier" : "BJNR142200002BJNE000510126",
+          "paragraph" : "§ 5",
+          "title" : "Vereinbarung und Abrechnung von Zu- und Abschlägen"
+        },
+        {
+          "documentIdentifier" : "BJNR142200002BJNE000612126",
+          "paragraph" : "§ 6",
+          "title" : "Vereinbarung sonstiger Entgelte"
+        },
+        {
+          "documentIdentifier" : "BJNR142200002BJNE002401126",
+          "paragraph" : "§ 6a",
+          "title" : "Vereinbarung eines Pflegebudgets"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Vergütung der Krankenhausleistungen"
+    },
+    {
+      "documentIdentifier" : "BJNR142200002BJNG000800000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR142200002BJNE002300126",
+          "paragraph" : "§ 7",
+          "title" : "Entgelte für allgemeine Krankenhausleistungen"
+        },
+        {
+          "documentIdentifier" : "BJNR142200002BJNE000821126",
+          "paragraph" : "§ 8",
+          "title" : "Berechnung der Entgelte"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Entgeltarten und Abrechnung"
+    },
+    {
+      "documentIdentifier" : "BJNR142200002BJNG000900000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR142200002BJNE000911126",
+          "paragraph" : "§ 9",
+          "title" : "Vereinbarung auf Bundesebene"
+        },
+        {
+          "documentIdentifier" : "BJNR142200002BJNE001025126",
+          "paragraph" : "§ 10",
+          "title" : "Vereinbarung auf Landesebene"
+        },
+        {
+          "documentIdentifier" : "BJNR142200002BJNE001106126",
+          "paragraph" : "§ 11",
+          "title" : "Vereinbarung für das einzelne Krankenhaus"
+        },
+        {
+          "documentIdentifier" : "BJNR142200002BJNE001202126",
+          "paragraph" : "§ 12",
+          "title" : "Vorläufige Vereinbarung"
+        },
+        {
+          "documentIdentifier" : "BJNR142200002BJNE001301308",
+          "paragraph" : "§ 13",
+          "title" : "Schiedsstelle"
+        },
+        {
+          "documentIdentifier" : "BJNR142200002BJNE001405126",
+          "paragraph" : "§ 14",
+          "title" : "Genehmigung"
+        },
+        {
+          "documentIdentifier" : "BJNR142200002BJNE001505126",
+          "paragraph" : "§ 15",
+          "title" : "Laufzeit"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Vereinbarungsverfahren"
+    },
+    {
+      "documentIdentifier" : "BJNR142200002BJNG001000000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR142200002BJNE001601308",
+          "paragraph" : "§ 16",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR142200002BJNE001706126",
+          "paragraph" : "§ 17",
+          "title" : "Wahlleistungen"
+        },
+        {
+          "documentIdentifier" : "BJNR142200002BJNE001802308",
+          "paragraph" : "§ 18",
+          "title" : "Belegärzte"
+        },
+        {
+          "documentIdentifier" : "BJNR142200002BJNE001904308",
+          "paragraph" : "§ 19",
+          "title" : "Kostenerstattung der Ärzte"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gesondert berechenbare ärztliche und andere Leistungen"
+    },
+    {
+      "documentIdentifier" : "BJNR142200002BJNG001100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR142200002BJNE002003308",
+          "paragraph" : "§ 20",
+          "title" : "Zuständigkeit der Krankenkassen auf Landesebene"
+        },
+        {
+          "documentIdentifier" : "BJNR142200002BJNE002115126",
+          "paragraph" : "§ 21",
+          "title" : "Übermittlung und Nutzung von Daten"
+        },
+        {
+          "documentIdentifier" : "BJNR142200002BJNE002207119",
+          "paragraph" : "Anlage 1",
+          "title" : "Aufstellung der Entgelte und Budgetermittlung (AEB) nach § 11 Abs. 4 des Krankenhausentgeltgesetzes (KHEntgG)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Sonstige Vorschriften"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR608810019",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR608810019Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR608810019BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Geltungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR608810019BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Regelungsgegenstände"
+        },
+        {
+          "documentIdentifier" : "BJNR608810019BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Entgelt"
+        },
+        {
+          "documentIdentifier" : "BJNR608810019BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Öffnungsklausel Altersvorsorge; Entgeltumwandlung"
+        },
+        {
+          "documentIdentifier" : "BJNR608810019BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Urlaub"
+        },
+        {
+          "documentIdentifier" : "BJNR608810019BJNE000600000",
+          "paragraph" : "Anhang",
+          "title" : "(zur Anlage)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

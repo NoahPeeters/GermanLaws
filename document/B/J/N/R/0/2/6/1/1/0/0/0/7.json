@@ -1,0 +1,179 @@
+{
+  "documentIdentifier" : "BJNR026110007",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR026110007BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR026110007BJNE000201360",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR026110007BJNE000302119",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Anwendungsbereich und Begriffsbestimmungen"
+    },
+    {
+      "documentIdentifier" : "BJNR026110007BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR026110007BJNE000401308",
+          "paragraph" : "§ 3",
+          "title" : "Gefährdungsbeurteilung"
+        },
+        {
+          "documentIdentifier" : "BJNR026110007BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Messungen"
+        },
+        {
+          "documentIdentifier" : "BJNR026110007BJNE000601308",
+          "paragraph" : "§ 5",
+          "title" : "Fachkunde"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Ermittlung und Bewertung der Gefährdung; Messungen"
+    },
+    {
+      "documentIdentifier" : "BJNR026110007BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR026110007BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Auslösewerte bei Lärm"
+        },
+        {
+          "documentIdentifier" : "BJNR026110007BJNE000801308",
+          "paragraph" : "§ 7",
+          "title" : "Maßnahmen zur Vermeidung und Verringerung der Lärmexposition"
+        },
+        {
+          "documentIdentifier" : "BJNR026110007BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Gehörschutz"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Auslösewerte und Schutzmaßnahmen bei Lärm"
+    },
+    {
+      "documentIdentifier" : "BJNR026110007BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR026110007BJNE001000000",
+          "paragraph" : "§ 9",
+          "title" : "Expositionsgrenzwerte und Auslösewerte für Vibrationen"
+        },
+        {
+          "documentIdentifier" : "BJNR026110007BJNE001100000",
+          "paragraph" : "§ 10",
+          "title" : "Maßnahmen zur Vermeidung und Verringerung der Exposition durch\nVibrationen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Expositionsgrenzwerte und Auslösewerte sowie Schutzmaßnahmen bei Vibrationen"
+    },
+    {
+      "documentIdentifier" : "BJNR026110007BJNG000501308",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR026110007BJNE001201308",
+          "paragraph" : "§ 11",
+          "title" : "Unterweisung der Beschäftigten"
+        },
+        {
+          "documentIdentifier" : "BJNR026110007BJNE001300000",
+          "paragraph" : "§ 12",
+          "title" : "Beratung durch den Ausschuss für Betriebssicherheit"
+        },
+        {
+          "documentIdentifier" : "BJNR026110007BJNE001402308",
+          "paragraph" : "§ 13",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR026110007BJNE001501308",
+          "paragraph" : "§ 14",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Unterweisung der Beschäftigten; Beratung durch den Ausschuss für Betriebssicherheit"
+    },
+    {
+      "documentIdentifier" : "BJNR026110007BJNG000600000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR026110007BJNE001603119",
+          "paragraph" : "§ 15",
+          "title" : "Ausnahmen"
+        },
+        {
+          "documentIdentifier" : "BJNR026110007BJNE001701308",
+          "paragraph" : "§ 16",
+          "title" : "Straftaten und Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR026110007BJNE001800000",
+          "paragraph" : "§ 17",
+          "title" : "Übergangsvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR026110007BJNE001901308",
+          "paragraph" : "Anhang",
+          "title" : "Vibrationen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Ausnahmen, Straftaten und Ordnungswidrigkeiten, Übergangsvorschriften"
+    }
+  ]
+}

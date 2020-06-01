@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR170000006",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR170000006Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR170000006BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Übertragung von Aufgaben des Schuldenwesens"
+        },
+        {
+          "documentIdentifier" : "BJNR170000006BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Vorbehalt"
+        },
+        {
+          "documentIdentifier" : "BJNR170000006BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

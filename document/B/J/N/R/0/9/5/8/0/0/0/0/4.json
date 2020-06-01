@@ -1,0 +1,64 @@
+{
+  "documentIdentifier" : "BJNR095800004",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR095800004Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR095800004BJNE000204123",
+          "paragraph" : "§ 1",
+          "title" : "Beitragspflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR095800004BJNE000303123",
+          "paragraph" : "§ 2",
+          "title" : "Beitragsbefreiungen"
+        },
+        {
+          "documentIdentifier" : "BJNR095800004BJNE000403123",
+          "paragraph" : "§ 3",
+          "title" : "Ermittlung der Kosten und Festlegung von Jahresbeiträgen"
+        },
+        {
+          "documentIdentifier" : "BJNR095800004BJNE000602305",
+          "paragraph" : "§ 4",
+          "title" : "Fälligkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR095800004BJNE000702305",
+          "paragraph" : "§ 5",
+          "title" : "Säumniszuschlag"
+        },
+        {
+          "documentIdentifier" : "BJNR095800004BJNE000801308",
+          "paragraph" : "§ 6",
+          "title" : "Verjährung"
+        },
+        {
+          "documentIdentifier" : "BJNR095800004BJNE000901308",
+          "paragraph" : "§ 7",
+          "title" : "Erstattung von Beitragsanteilen"
+        },
+        {
+          "documentIdentifier" : "BJNR095800004BJNE001203123",
+          "paragraph" : "§ 8",
+          "title" : "Anwendungsbestimmung"
+        },
+        {
+          "documentIdentifier" : "BJNR095800004BJNE001000000",
+          "paragraph" : "§ 9",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

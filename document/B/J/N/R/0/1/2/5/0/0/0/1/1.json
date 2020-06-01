@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR012500011",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR012500011Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR012500011BJNE000200000",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR012500011BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Gegenstand der Förderung"
+        },
+        {
+          "documentIdentifier" : "BJNR012500011BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Zuwendungsempfänger"
+        },
+        {
+          "documentIdentifier" : "BJNR012500011BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Art und Umfang, Höhe der Zuwendung"
+        },
+        {
+          "documentIdentifier" : "BJNR012500011BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Verfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR012500011BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

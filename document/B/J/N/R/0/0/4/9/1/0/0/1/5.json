@@ -1,0 +1,210 @@
+{
+  "documentIdentifier" : "BJNR004910015",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR004910015BJNG000100000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR004910015BJNE000201301",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich und Zielsetzung"
+        },
+        {
+          "documentIdentifier" : "BJNR004910015BJNE000301301",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Anwendungsbereich und Begriffsbestimmungen"
+    },
+    {
+      "documentIdentifier" : "BJNR004910015BJNG000200000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR004910015BJNE000402126",
+          "paragraph" : "§ 3",
+          "title" : "Gefährdungsbeurteilung"
+        },
+        {
+          "documentIdentifier" : "BJNR004910015BJNE000502126",
+          "paragraph" : "§ 4",
+          "title" : "Grundpflichten des Arbeitgebers"
+        },
+        {
+          "documentIdentifier" : "BJNR004910015BJNE000600000",
+          "paragraph" : "§ 5",
+          "title" : "Anforderungen an die zur Verfügung gestellten Arbeitsmittel"
+        },
+        {
+          "documentIdentifier" : "BJNR004910015BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Grundlegende Schutzmaßnahmen bei der Verwendung von Arbeitsmitteln"
+        },
+        {
+          "documentIdentifier" : "BJNR004910015BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Vereinfachte Vorgehensweise bei der Verwendung von Arbeitsmitteln"
+        },
+        {
+          "documentIdentifier" : "BJNR004910015BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Schutzmaßnahmen bei Gefährdungen durch Energien, Ingangsetzen und Stillsetzen"
+        },
+        {
+          "documentIdentifier" : "BJNR004910015BJNE001001301",
+          "paragraph" : "§ 9",
+          "title" : "Weitere Schutzmaßnahmen bei der Verwendung von Arbeitsmitteln"
+        },
+        {
+          "documentIdentifier" : "BJNR004910015BJNE001100000",
+          "paragraph" : "§ 10",
+          "title" : "Instandhaltung und Änderung von Arbeitsmitteln"
+        },
+        {
+          "documentIdentifier" : "BJNR004910015BJNE001200000",
+          "paragraph" : "§ 11",
+          "title" : "Besondere Betriebszustände, Betriebsstörungen und Unfälle"
+        },
+        {
+          "documentIdentifier" : "BJNR004910015BJNE001301301",
+          "paragraph" : "§ 12",
+          "title" : "Unterweisung und besondere Beauftragung von Beschäftigten"
+        },
+        {
+          "documentIdentifier" : "BJNR004910015BJNE001400000",
+          "paragraph" : "§ 13",
+          "title" : "Zusammenarbeit verschiedener Arbeitgeber"
+        },
+        {
+          "documentIdentifier" : "BJNR004910015BJNE001502126",
+          "paragraph" : "§ 14",
+          "title" : "Prüfung von Arbeitsmitteln"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gefährdungsbeurteilung und Schutzmaßnahmen"
+    },
+    {
+      "documentIdentifier" : "BJNR004910015BJNG000300000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR004910015BJNE001602126",
+          "paragraph" : "§ 15",
+          "title" : "Prüfung vor Inbetriebnahme und vor Wiederinbetriebnahme nach prüfpflichtigen Änderungen"
+        },
+        {
+          "documentIdentifier" : "BJNR004910015BJNE001701126",
+          "paragraph" : "§ 16",
+          "title" : "Wiederkehrende Prüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR004910015BJNE001802126",
+          "paragraph" : "§ 17",
+          "title" : "Prüfaufzeichnungen und -bescheinigungen"
+        },
+        {
+          "documentIdentifier" : "BJNR004910015BJNE001902311",
+          "paragraph" : "§ 18",
+          "title" : "Erlaubnispflicht"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Zusätzliche Vorschriften für überwachungsbedürftige Anlagen"
+    },
+    {
+      "documentIdentifier" : "BJNR004910015BJNG000400000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR004910015BJNE002001301",
+          "paragraph" : "§ 19",
+          "title" : "Mitteilungspflichten, behördliche Ausnahmen"
+        },
+        {
+          "documentIdentifier" : "BJNR004910015BJNE002102301",
+          "paragraph" : "§ 20",
+          "title" : "Sonderbestimmungen für überwachungsbedürftige Anlagen des Bundes"
+        },
+        {
+          "documentIdentifier" : "BJNR004910015BJNE002202360",
+          "paragraph" : "§ 21",
+          "title" : "Ausschuss für Betriebssicherheit"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Vollzugsregelungen und Ausschuss für Betriebssicherheit"
+    },
+    {
+      "documentIdentifier" : "BJNR004910015BJNG000500000",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR004910015BJNE002304126",
+          "paragraph" : "§ 22",
+          "title" : "Ordnungswidrigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR004910015BJNE002400000",
+          "paragraph" : "§ 23",
+          "title" : "Straftaten"
+        },
+        {
+          "documentIdentifier" : "BJNR004910015BJNE002502126",
+          "paragraph" : "§ 24",
+          "title" : "Übergangsvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR004910015BJNE002604126",
+          "paragraph" : "Anhang 1",
+          "title" : "(zu § 6 Absatz 1 Satz 2)"
+        },
+        {
+          "documentIdentifier" : "BJNR004910015BJNE002702126",
+          "paragraph" : "Anhang 2",
+          "title" : "(zu den §§ 15 und 16)"
+        },
+        {
+          "documentIdentifier" : "BJNR004910015BJNE002801126",
+          "paragraph" : "Anhang 3",
+          "title" : "(zu § 14 Absatz 4)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Ordnungswidrigkeiten und Straftaten, Schlussvorschriften"
+    }
+  ]
+}

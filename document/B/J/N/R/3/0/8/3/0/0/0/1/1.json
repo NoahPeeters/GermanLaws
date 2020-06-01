@@ -1,0 +1,69 @@
+{
+  "documentIdentifier" : "BJNR308300011",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR308300011Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR308300011BJNE000100001",
+          "paragraph" : "§ 1",
+          "title" : "Art und Zweck"
+        },
+        {
+          "documentIdentifier" : "BJNR308300011BJNE000200001",
+          "paragraph" : "§ 2",
+          "title" : "Durchführung"
+        },
+        {
+          "documentIdentifier" : "BJNR308300011BJNE000300001",
+          "paragraph" : "§ 3",
+          "title" : "Erhebungseinheiten"
+        },
+        {
+          "documentIdentifier" : "BJNR308300011BJNE000400001",
+          "paragraph" : "§ 4",
+          "title" : "Periodizität"
+        },
+        {
+          "documentIdentifier" : "BJNR308300011BJNE000500001",
+          "paragraph" : "§ 5",
+          "title" : "Erhebungsmerkmale, Berichtszeitpunkte und -zeiträume"
+        },
+        {
+          "documentIdentifier" : "BJNR308300011BJNE000700000",
+          "paragraph" : "§ 6",
+          "title" : "Hilfsmerkmale"
+        },
+        {
+          "documentIdentifier" : "BJNR308300011BJNE000800000",
+          "paragraph" : "§ 7",
+          "title" : "Auskunftserteilung"
+        },
+        {
+          "documentIdentifier" : "BJNR308300011BJNE000900000",
+          "paragraph" : "§ 8",
+          "title" : "Übermittlung von Tabellen und Einzelangaben an oberste Bundes- oder Landesbehörden oder an Statistikstellen der Gemeinden oder Gemeindeverbände"
+        },
+        {
+          "documentIdentifier" : "BJNR308300011BJNE001000000",
+          "paragraph" : "§ 9",
+          "title" : "Bericht"
+        },
+        {
+          "documentIdentifier" : "BJNR308300011BJNE001100000",
+          "paragraph" : "§ 10",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

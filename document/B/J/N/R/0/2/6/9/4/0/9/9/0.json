@@ -1,0 +1,160 @@
+{
+  "documentIdentifier" : "BJNR026940990",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR026940990BJNG000100308",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR026940990BJNE000902116",
+          "paragraph" : "§ 1",
+          "title" : "Anwendungsbereich"
+        },
+        {
+          "documentIdentifier" : "BJNR026940990BJNE001006116",
+          "paragraph" : "§ 2",
+          "title" : "Einsatzstoffe"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Vorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR026940990BJNG000200308",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR026940990BJNE001103116",
+          "paragraph" : "§ 3",
+          "title" : "Oberflächenbehandlungsanlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR026940990BJNE001203116",
+          "paragraph" : "§ 4",
+          "title" : "Chemischreinigungs- und Textilausrüstungsanlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR026940990BJNE001303116",
+          "paragraph" : "§ 5",
+          "title" : "Extraktionsanlagen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Errichtung und Betrieb"
+    },
+    {
+      "documentIdentifier" : "BJNR026940990BJNG000300308",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR026940990BJNE001401377",
+          "paragraph" : "(XXXX) §§ 6 bis 9",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Anforderungen an Altanlagen"
+    },
+    {
+      "documentIdentifier" : "BJNR026940990BJNG000400308",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR026940990BJNE001801377",
+          "paragraph" : "§ 10",
+          "title" : "Meßöffnungen"
+        },
+        {
+          "documentIdentifier" : "BJNR026940990BJNE001902116",
+          "paragraph" : "§ 11",
+          "title" : "Eigenkontrolle"
+        },
+        {
+          "documentIdentifier" : "BJNR026940990BJNE002003116",
+          "paragraph" : "§ 12",
+          "title" : "Überwachung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Eigenkontrolle und Überwachung"
+    },
+    {
+      "documentIdentifier" : "BJNR026940990BJNG000500308",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR026940990BJNE002101377",
+          "paragraph" : "§ 13",
+          "title" : "Umgang mit leichtflüchtigen halogenierten\norganischen Verbindungen"
+        },
+        {
+          "documentIdentifier" : "BJNR026940990BJNE002201377",
+          "paragraph" : "§ 14",
+          "title" : "Ableitung der Abgase"
+        },
+        {
+          "documentIdentifier" : "BJNR026940990BJNE003000116",
+          "paragraph" : "§ 15",
+          "title" : "An- und Abfahren von Anlagen"
+        },
+        {
+          "documentIdentifier" : "BJNR026940990BJNE002302116",
+          "paragraph" : "§ 16",
+          "title" : "Allgemeine Anforderungen"
+        },
+        {
+          "documentIdentifier" : "BJNR026940990BJNE002902116",
+          "paragraph" : "§ 17",
+          "title" : "Berichterstattung an die Europäische Kommission, Unterrichtung der Öffentlichkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR026940990BJNE002401116",
+          "paragraph" : "§ 18",
+          "title" : "Weitergehende Anforderungen"
+        },
+        {
+          "documentIdentifier" : "BJNR026940990BJNE002502116",
+          "paragraph" : "§ 19",
+          "title" : "Zulassung von Ausnahmen"
+        },
+        {
+          "documentIdentifier" : "BJNR026940990BJNE002605116",
+          "paragraph" : "§ 20",
+          "title" : "Ordnungswidrigkeiten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gemeinsame Vorschriften"
+    }
+  ]
+}

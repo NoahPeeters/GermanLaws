@@ -1,0 +1,391 @@
+{
+  "documentIdentifier" : "BJNR196300994",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR196300994BJNG000101377",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR196300994BJNE001301377",
+          "paragraph" : "§ 1",
+          "title" : "Zweck des Gesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR196300994BJNE001408118",
+          "paragraph" : "§ 2",
+          "title" : "Anwendungsbereich des Gesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR196300994BJNE001505360",
+          "paragraph" : "§ 3",
+          "title" : "Begriffsbestimmungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Zweck, Anwendungsbereich des Gesetzes, Begriffsbestimmungen"
+    },
+    {
+      "documentIdentifier" : "BJNR196300994BJNG000202377",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR196300994BJNE001603310",
+          "paragraph" : "§ 4",
+          "title" : "Verbote zum Schutz von Patienten, Anwendern und\nDritten"
+        },
+        {
+          "documentIdentifier" : "BJNR196300994BJNE001705377",
+          "paragraph" : "§ 5",
+          "title" : "Verantwortlicher für das erstmalige Inverkehrbringen"
+        },
+        {
+          "documentIdentifier" : "BJNR196300994BJNE001804377",
+          "paragraph" : "§ 6",
+          "title" : "Voraussetzungen für das Inverkehrbringen und die Inbetriebnahme"
+        },
+        {
+          "documentIdentifier" : "BJNR196300994BJNE001903377",
+          "paragraph" : "§ 7",
+          "title" : "Grundlegende Anforderungen"
+        },
+        {
+          "documentIdentifier" : "BJNR196300994BJNE002002377",
+          "paragraph" : "§ 8",
+          "title" : "Harmonisierte Normen, Gemeinsame Technische Spezifikationen"
+        },
+        {
+          "documentIdentifier" : "BJNR196300994BJNE002103377",
+          "paragraph" : "§ 9",
+          "title" : "CE-Kennzeichnung"
+        },
+        {
+          "documentIdentifier" : "BJNR196300994BJNE002203377",
+          "paragraph" : "§ 10",
+          "title" : "Voraussetzungen für das erstmalige Inverkehrbringen\nund die Inbetriebnahme von Systemen und\nBehandlungseinheiten sowie für das Sterilisieren\nvon Medizinprodukten"
+        },
+        {
+          "documentIdentifier" : "BJNR196300994BJNE002308118",
+          "paragraph" : "§ 11",
+          "title" : "Sondervorschriften für das Inverkehrbringen und die Inbetriebnahme"
+        },
+        {
+          "documentIdentifier" : "BJNR196300994BJNE002404377",
+          "paragraph" : "§ 12",
+          "title" : "Sonderanfertigungen, Medizinprodukte aus Eigenherstellung, Medizinprodukte zur klinischen Prüfung oder für Leistungsbewertungszwecke, Ausstellen"
+        },
+        {
+          "documentIdentifier" : "BJNR196300994BJNE002508116",
+          "paragraph" : "§ 13",
+          "title" : "Klassifizierung von Medizinprodukten, Abgrenzung zu anderen Produkten"
+        },
+        {
+          "documentIdentifier" : "BJNR196300994BJNE002604118",
+          "paragraph" : "§ 14",
+          "title" : "Tätigkeiten im Zusammenhang mit Medizinprodukten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Anforderungen an Medizinprodukte und deren Betrieb"
+    },
+    {
+      "documentIdentifier" : "BJNR196300994BJNG001101377",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR196300994BJNE006508118",
+          "paragraph" : "§ 15",
+          "title" : "Benennung und Überwachung der Stellen, Anerkennung und Beauftragung von Prüflaboratorien"
+        },
+        {
+          "documentIdentifier" : "BJNR196300994BJNE007102118",
+          "paragraph" : "§ 15a",
+          "title" : "Benennung und Überwachung von Konformitätsbewertungsstellen für Drittstaaten"
+        },
+        {
+          "documentIdentifier" : "BJNR196300994BJNE002810118",
+          "paragraph" : "§ 16",
+          "title" : "Erlöschen, Rücknahme, Widerruf und Ruhen der Benennung"
+        },
+        {
+          "documentIdentifier" : "BJNR196300994BJNE002703377",
+          "paragraph" : "§ 17",
+          "title" : "Geltungsdauer von Bescheinigungen der Benannten Stellen"
+        },
+        {
+          "documentIdentifier" : "BJNR196300994BJNE006606360",
+          "paragraph" : "§ 18",
+          "title" : "Einschränkung, Aussetzung und Zurückziehung von Bescheinigungen, Unterrichtungspflichten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Benannte Stellen und Bescheinigungen"
+    },
+    {
+      "documentIdentifier" : "BJNR196300994BJNG001201377",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR196300994BJNE003103377",
+          "paragraph" : "§ 19",
+          "title" : "Klinische Bewertung, Leistungsbewertung"
+        },
+        {
+          "documentIdentifier" : "BJNR196300994BJNE002905116",
+          "paragraph" : "§ 20",
+          "title" : "Allgemeine Voraussetzungen zur klinischen Prüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR196300994BJNE003004116",
+          "paragraph" : "§ 21",
+          "title" : "Besondere Voraussetzungen zur klinischen Prüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR196300994BJNE003404377",
+          "paragraph" : "§ 22",
+          "title" : "Verfahren bei der Ethik-Kommission"
+        },
+        {
+          "documentIdentifier" : "BJNR196300994BJNE007200377",
+          "paragraph" : "§ 22a",
+          "title" : "Genehmigungsverfahren bei der Bundesoberbehörde"
+        },
+        {
+          "documentIdentifier" : "BJNR196300994BJNE007300377",
+          "paragraph" : "§ 22b",
+          "title" : "Rücknahme, Widerruf und Ruhen der Genehmigung oder der zustimmenden Bewertung"
+        },
+        {
+          "documentIdentifier" : "BJNR196300994BJNE007400377",
+          "paragraph" : "§ 22c",
+          "title" : "Änderungen nach Genehmigung von klinischen Prüfungen"
+        },
+        {
+          "documentIdentifier" : "BJNR196300994BJNE003504377",
+          "paragraph" : "§ 23",
+          "title" : "Durchführung der klinischen Prüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR196300994BJNE007500377",
+          "paragraph" : "§ 23a",
+          "title" : "Meldungen über Beendigung oder Abbruch von klinischen Prüfungen"
+        },
+        {
+          "documentIdentifier" : "BJNR196300994BJNE007600377",
+          "paragraph" : "§ 23b",
+          "title" : "Ausnahmen zur klinischen Prüfung"
+        },
+        {
+          "documentIdentifier" : "BJNR196300994BJNE003605377",
+          "paragraph" : "§ 24",
+          "title" : "Leistungsbewertungsprüfung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Klinische Bewertung, Leistungsbewertung, klinische Prüfung, Leistungsbewertungsprüfung"
+    },
+    {
+      "documentIdentifier" : "BJNR196300994BJNG000602377",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR196300994BJNE003705116",
+          "paragraph" : "§ 25",
+          "title" : "Allgemeine Anzeigepflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR196300994BJNE003809118",
+          "paragraph" : "§ 26",
+          "title" : "Durchführung der Überwachung"
+        },
+        {
+          "documentIdentifier" : "BJNR196300994BJNE003905360",
+          "paragraph" : "§ 27",
+          "title" : "Verfahren bei unrechtmäßiger und unzulässiger Anbringung der CE-Kennzeichnung"
+        },
+        {
+          "documentIdentifier" : "BJNR196300994BJNE004004377",
+          "paragraph" : "§ 28",
+          "title" : "Verfahren zum Schutze vor Risiken"
+        },
+        {
+          "documentIdentifier" : "BJNR196300994BJNE004105116",
+          "paragraph" : "§ 29",
+          "title" : "Medizinprodukte-Beobachtungs- und -Meldesystem"
+        },
+        {
+          "documentIdentifier" : "BJNR196300994BJNE004305116",
+          "paragraph" : "§ 30",
+          "title" : "Sicherheitsbeauftragter für Medizinprodukte"
+        },
+        {
+          "documentIdentifier" : "BJNR196300994BJNE004404118",
+          "paragraph" : "§ 31",
+          "title" : "Medizinprodukteberater"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Überwachung und Schutz vor Risiken"
+    },
+    {
+      "documentIdentifier" : "BJNR196300994BJNG001301377",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR196300994BJNE004504118",
+          "paragraph" : "§ 32",
+          "title" : "Aufgaben und Zuständigkeiten der Bundesoberbehörden im Medizinproduktebereich"
+        },
+        {
+          "documentIdentifier" : "BJNR196300994BJNE008000118",
+          "paragraph" : "§ 32a",
+          "title" : "Besondere Zuständigkeiten"
+        },
+        {
+          "documentIdentifier" : "BJNR196300994BJNE004808116",
+          "paragraph" : "§ 33",
+          "title" : "Datenbankgestütztes Informationssystem, Europäische Datenbank"
+        },
+        {
+          "documentIdentifier" : "BJNR196300994BJNE006701377",
+          "paragraph" : "§ 34",
+          "title" : "Ausfuhr"
+        },
+        {
+          "documentIdentifier" : "BJNR196300994BJNE006808301",
+          "paragraph" : "§ 35",
+          "title" : "Gebühren und Auslagen"
+        },
+        {
+          "documentIdentifier" : "BJNR196300994BJNE006902377",
+          "paragraph" : "§ 36",
+          "title" : "Zusammenarbeit der Behörden und Benannten Stellen im Europäischen Wirtschaftsraum und der Europäischen Kommission"
+        },
+        {
+          "documentIdentifier" : "BJNR196300994BJNE004914116",
+          "paragraph" : "§ 37",
+          "title" : "Verordnungsermächtigungen"
+        },
+        {
+          "documentIdentifier" : "BJNR196300994BJNE007700377",
+          "paragraph" : "§ 37a",
+          "title" : "Allgemeine Verwaltungsvorschriften"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Zuständige Behörden, Rechtsverordnungen, sonstige Bestimmungen"
+    },
+    {
+      "documentIdentifier" : "BJNR196300994BJNG001401377",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR196300994BJNE005302377",
+          "paragraph" : "§ 38",
+          "title" : "Anwendung und Vollzug des Gesetzes"
+        },
+        {
+          "documentIdentifier" : "BJNR196300994BJNE005406360",
+          "paragraph" : "§ 39",
+          "title" : "Ausnahmen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Sondervorschriften für den Bereich der Bundeswehr"
+    },
+    {
+      "documentIdentifier" : "BJNR196300994BJNG001501377",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR196300994BJNE005503118",
+          "paragraph" : "§ 40",
+          "title" : "Strafvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR196300994BJNE005604118",
+          "paragraph" : "§ 41",
+          "title" : "Strafvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR196300994BJNE005708118",
+          "paragraph" : "§ 42",
+          "title" : "Bußgeldvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR196300994BJNE005802377",
+          "paragraph" : "§ 43",
+          "title" : "Einziehung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          8
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Straf- und Bußgeldvorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR196300994BJNG001601377",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR196300994BJNE007003377",
+          "paragraph" : "§ 44",
+          "title" : "Übergangsbestimmungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          9
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übergangsbestimmungen"
+    }
+  ]
+}

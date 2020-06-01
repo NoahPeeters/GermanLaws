@@ -1,0 +1,884 @@
+{
+  "documentIdentifier" : "BJNR111260992",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR111260992BJNG000104311",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR111260992BJNE001807311",
+          "paragraph" : "§ 1",
+          "title" : "Geltungsbereich"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Geltungsbereich"
+    },
+    {
+      "documentIdentifier" : "BJNR111260992BJNG001600311",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          2
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR111260992BJNG001700311",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR111260992BJNE001904377",
+              "paragraph" : "§ 2",
+              "title" : "Rechtsstellung Asylberechtigter"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Asyl"
+        },
+        {
+          "documentIdentifier" : "BJNR111260992BJNG001800311",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR111260992BJNE002007116",
+              "paragraph" : "§ 3",
+              "title" : "Zuerkennung der Flüchtlingseigenschaft"
+            },
+            {
+              "documentIdentifier" : "BJNR111260992BJNE015800311",
+              "paragraph" : "§ 3a",
+              "title" : "Verfolgungshandlungen"
+            },
+            {
+              "documentIdentifier" : "BJNR111260992BJNE015900311",
+              "paragraph" : "§ 3b",
+              "title" : "Verfolgungsgründe"
+            },
+            {
+              "documentIdentifier" : "BJNR111260992BJNE016000311",
+              "paragraph" : "§ 3c",
+              "title" : "Akteure, von denen Verfolgung ausgehen kann"
+            },
+            {
+              "documentIdentifier" : "BJNR111260992BJNE016100311",
+              "paragraph" : "§ 3d",
+              "title" : "Akteure, die Schutz bieten können"
+            },
+            {
+              "documentIdentifier" : "BJNR111260992BJNE016200311",
+              "paragraph" : "§ 3e",
+              "title" : "Interner Schutz"
+            },
+            {
+              "documentIdentifier" : "BJNR111260992BJNE016300311",
+              "paragraph" : "§ 4",
+              "title" : "Subsidiärer Schutz"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              2,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Internationaler Schutz"
+        }
+      ],
+      "title" : "Schutzgewährung"
+    },
+    {
+      "documentIdentifier" : "BJNR111260992BJNG001900311",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR111260992BJNE002211116",
+          "paragraph" : "§ 5",
+          "title" : "Bundesamt"
+        },
+        {
+          "documentIdentifier" : "BJNR111260992BJNE002306311",
+          "paragraph" : "§ 6",
+          "title" : "Verbindlichkeit asylrechtlicher Entscheidungen"
+        },
+        {
+          "documentIdentifier" : "BJNR111260992BJNE002406311",
+          "paragraph" : "§ 7",
+          "title" : "Erhebung personenbezogener Daten"
+        },
+        {
+          "documentIdentifier" : "BJNR111260992BJNE002516311",
+          "paragraph" : "§ 8",
+          "title" : "Übermittlung personenbezogener Daten"
+        },
+        {
+          "documentIdentifier" : "BJNR111260992BJNE002605311",
+          "paragraph" : "§ 9",
+          "title" : "Hoher Flüchtlingskommissar der Vereinten Nationen"
+        },
+        {
+          "documentIdentifier" : "BJNR111260992BJNE002707116",
+          "paragraph" : "§ 10",
+          "title" : "Zustellungsvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR111260992BJNE002803377",
+          "paragraph" : "§ 11",
+          "title" : "Ausschluss des Widerspruchs"
+        },
+        {
+          "documentIdentifier" : "BJNR111260992BJNE015001377",
+          "paragraph" : "§ 11a",
+          "title" : "Vorübergehende Aussetzung von Entscheidungen"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          3
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Allgemeine Bestimmungen"
+    },
+    {
+      "documentIdentifier" : "BJNR111260992BJNG000204311",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          4
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR111260992BJNG000304311",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR111260992BJNE002906116",
+              "paragraph" : "§ 12",
+              "title" : "Handlungsfähigkeit"
+            },
+            {
+              "documentIdentifier" : "BJNR111260992BJNE017400311",
+              "paragraph" : "§ 12a",
+              "title" : "Asylverfahrensberatung"
+            },
+            {
+              "documentIdentifier" : "BJNR111260992BJNE003008311",
+              "paragraph" : "§ 13",
+              "title" : "Asylantrag"
+            },
+            {
+              "documentIdentifier" : "BJNR111260992BJNE003210311",
+              "paragraph" : "§ 14",
+              "title" : "Antragstellung"
+            },
+            {
+              "documentIdentifier" : "BJNR111260992BJNE015104116",
+              "paragraph" : "§ 14a",
+              "title" : "Familieneinheit"
+            },
+            {
+              "documentIdentifier" : "BJNR111260992BJNE003307310",
+              "paragraph" : "§ 15",
+              "title" : "Allgemeine Mitwirkungspflichten"
+            },
+            {
+              "documentIdentifier" : "BJNR111260992BJNE017301311",
+              "paragraph" : "§ 15a",
+              "title" : "Auswertung von Datenträgern"
+            },
+            {
+              "documentIdentifier" : "BJNR111260992BJNE003512311",
+              "paragraph" : "§ 16",
+              "title" : "Sicherung, Feststellung und Überprüfung der Identität"
+            },
+            {
+              "documentIdentifier" : "BJNR111260992BJNE003604377",
+              "paragraph" : "§ 17",
+              "title" : "Sprachmittler"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4,
+              1
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Allgemeine Verfahrensvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR111260992BJNG000404311",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR111260992BJNE003804377",
+              "paragraph" : "§ 18",
+              "title" : "Aufgaben der Grenzbehörde"
+            },
+            {
+              "documentIdentifier" : "BJNR111260992BJNE013004377",
+              "paragraph" : "§ 18a",
+              "title" : "Verfahren bei Einreise auf dem Luftwege"
+            },
+            {
+              "documentIdentifier" : "BJNR111260992BJNE004006311",
+              "paragraph" : "§ 19",
+              "title" : "Aufgaben der Ausländerbehörde und der Polizei"
+            },
+            {
+              "documentIdentifier" : "BJNR111260992BJNE004204116",
+              "paragraph" : "§ 20",
+              "title" : "Weiterleitung an eine Aufnahmeeinrichtung"
+            },
+            {
+              "documentIdentifier" : "BJNR111260992BJNE004404116",
+              "paragraph" : "§ 21",
+              "title" : "Verwahrung und Weitergabe von Unterlagen"
+            },
+            {
+              "documentIdentifier" : "BJNR111260992BJNE004606116",
+              "paragraph" : "§ 22",
+              "title" : "Meldepflicht"
+            },
+            {
+              "documentIdentifier" : "BJNR111260992BJNE013103377",
+              "paragraph" : "§ 22a",
+              "title" : "Übernahme zur Durchführung eines Asylverfahrens"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4,
+              2
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Einleitung des Asylverfahrens"
+        },
+        {
+          "documentIdentifier" : "BJNR111260992BJNG000504311",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR111260992BJNE004804116",
+              "paragraph" : "§ 23",
+              "title" : "Antragstellung bei der Außenstelle"
+            },
+            {
+              "documentIdentifier" : "BJNR111260992BJNE004908116",
+              "paragraph" : "§ 24",
+              "title" : "Pflichten des Bundesamtes"
+            },
+            {
+              "documentIdentifier" : "BJNR111260992BJNE005105311",
+              "paragraph" : "§ 25",
+              "title" : "Anhörung"
+            },
+            {
+              "documentIdentifier" : "BJNR111260992BJNE005209377",
+              "paragraph" : "§ 26",
+              "title" : "Familienasyl und internationaler Schutz für Familienangehörige"
+            },
+            {
+              "documentIdentifier" : "BJNR111260992BJNE013204377",
+              "paragraph" : "§ 26a",
+              "title" : "Sichere Drittstaaten"
+            },
+            {
+              "documentIdentifier" : "BJNR111260992BJNE005304377",
+              "paragraph" : "§ 27",
+              "title" : "Anderweitige Sicherheit vor Verfolgung"
+            },
+            {
+              "documentIdentifier" : "BJNR111260992BJNE015502116",
+              "paragraph" : "§ 27a",
+              "title" : "(weggefallen)"
+            },
+            {
+              "documentIdentifier" : "BJNR111260992BJNE005406311",
+              "paragraph" : "§ 28",
+              "title" : "Nachfluchttatbestände"
+            },
+            {
+              "documentIdentifier" : "BJNR111260992BJNE005506116",
+              "paragraph" : "§ 29",
+              "title" : "Unzulässige Anträge"
+            },
+            {
+              "documentIdentifier" : "BJNR111260992BJNE013305116",
+              "paragraph" : "§ 29a",
+              "title" : "Sicherer Herkunftsstaat; Bericht; Verordnungsermächtigung"
+            },
+            {
+              "documentIdentifier" : "BJNR111260992BJNE005708116",
+              "paragraph" : "§ 30",
+              "title" : "Offensichtlich unbegründete Asylanträge"
+            },
+            {
+              "documentIdentifier" : "BJNR111260992BJNE017101116",
+              "paragraph" : "§ 30a",
+              "title" : "Beschleunigte Verfahren"
+            },
+            {
+              "documentIdentifier" : "BJNR111260992BJNE005809311",
+              "paragraph" : "§ 31",
+              "title" : "Entscheidung des Bundesamtes über Asylanträge"
+            },
+            {
+              "documentIdentifier" : "BJNR111260992BJNE005906311",
+              "paragraph" : "§ 32",
+              "title" : "Entscheidung bei Antragsrücknahme oder Verzicht"
+            },
+            {
+              "documentIdentifier" : "BJNR111260992BJNE013403377",
+              "paragraph" : "§ 32a",
+              "title" : "Ruhen des Verfahrens"
+            },
+            {
+              "documentIdentifier" : "BJNR111260992BJNE006007116",
+              "paragraph" : "§ 33",
+              "title" : "Nichtbetreiben des Verfahrens"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4,
+              3
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Verfahren beim Bundesamt"
+        },
+        {
+          "documentIdentifier" : "BJNR111260992BJNG000604311",
+          "laws" : [
+            {
+              "documentIdentifier" : "BJNR111260992BJNE006107311",
+              "paragraph" : "§ 34",
+              "title" : "Abschiebungsandrohung"
+            },
+            {
+              "documentIdentifier" : "BJNR111260992BJNE013507116",
+              "paragraph" : "§ 34a",
+              "title" : "Abschiebungsanordnung"
+            },
+            {
+              "documentIdentifier" : "BJNR111260992BJNE006206116",
+              "paragraph" : "§ 35",
+              "title" : "Abschiebungsandrohung bei Unzulässigkeit des Asylantrags"
+            },
+            {
+              "documentIdentifier" : "BJNR111260992BJNE006306116",
+              "paragraph" : "§ 36",
+              "title" : "Verfahren bei Unzulässigkeit nach § 29 Absatz 1 Nummer 2 und 4 und bei offensichtlicher Unbegründetheit"
+            },
+            {
+              "documentIdentifier" : "BJNR111260992BJNE006405116",
+              "paragraph" : "§ 37",
+              "title" : "Weiteres Verfahren bei stattgebender gerichtlicher Entscheidung"
+            },
+            {
+              "documentIdentifier" : "BJNR111260992BJNE006505311",
+              "paragraph" : "§ 38",
+              "title" : "Ausreisefrist bei sonstiger Ablehnung und bei Rücknahme des Asylantrags"
+            },
+            {
+              "documentIdentifier" : "BJNR111260992BJNE006607311",
+              "paragraph" : "§ 39",
+              "title" : "(weggefallen)"
+            },
+            {
+              "documentIdentifier" : "BJNR111260992BJNE006708116",
+              "paragraph" : "§ 40",
+              "title" : "Unterrichtung der Ausländerbehörde"
+            },
+            {
+              "documentIdentifier" : "BJNR111260992BJNE006804377",
+              "paragraph" : "§ 41",
+              "title" : "(weggefallen)"
+            },
+            {
+              "documentIdentifier" : "BJNR111260992BJNE006906311",
+              "paragraph" : "§ 42",
+              "title" : "Bindungswirkung ausländerrechtlicher Entscheidungen"
+            },
+            {
+              "documentIdentifier" : "BJNR111260992BJNE007006311",
+              "paragraph" : "§ 43",
+              "title" : "Vollziehbarkeit und Aussetzung der Abschiebung"
+            },
+            {
+              "documentIdentifier" : "BJNR111260992BJNE013603377",
+              "paragraph" : "§ 43a",
+              "title" : "(weggefallen)"
+            },
+            {
+              "documentIdentifier" : "BJNR111260992BJNE013703377",
+              "paragraph" : "§ 43b",
+              "title" : "(weggefallen)"
+            }
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              4,
+              4
+            ]
+          },
+          "subsections" : [
+
+          ],
+          "title" : "Aufenthaltsbeendigung"
+        }
+      ],
+      "title" : "Asylverfahren"
+    },
+    {
+      "documentIdentifier" : "BJNR111260992BJNG000704311",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR111260992BJNE007108311",
+          "paragraph" : "§ 44",
+          "title" : "Schaffung und Unterhaltung von Aufnahmeeinrichtungen"
+        },
+        {
+          "documentIdentifier" : "BJNR111260992BJNE007206116",
+          "paragraph" : "§ 45",
+          "title" : "Aufnahmequoten"
+        },
+        {
+          "documentIdentifier" : "BJNR111260992BJNE007406116",
+          "paragraph" : "§ 46",
+          "title" : "Bestimmung der zuständigen Aufnahmeeinrichtung"
+        },
+        {
+          "documentIdentifier" : "BJNR111260992BJNE007508311",
+          "paragraph" : "§ 47",
+          "title" : "Aufenthalt in Aufnahmeeinrichtungen"
+        },
+        {
+          "documentIdentifier" : "BJNR111260992BJNE007609311",
+          "paragraph" : "§ 48",
+          "title" : "Beendigung der Verpflichtung, in einer Aufnahmeeinrichtung zu wohnen"
+        },
+        {
+          "documentIdentifier" : "BJNR111260992BJNE007705311",
+          "paragraph" : "§ 49",
+          "title" : "Entlassung aus der Aufnahmeeinrichtung"
+        },
+        {
+          "documentIdentifier" : "BJNR111260992BJNE007909311",
+          "paragraph" : "§ 50",
+          "title" : "Landesinterne Verteilung"
+        },
+        {
+          "documentIdentifier" : "BJNR111260992BJNE008103311",
+          "paragraph" : "§ 51",
+          "title" : "Länderübergreifende Verteilung"
+        },
+        {
+          "documentIdentifier" : "BJNR111260992BJNE008205116",
+          "paragraph" : "§ 52",
+          "title" : "Quotenanrechnung"
+        },
+        {
+          "documentIdentifier" : "BJNR111260992BJNE008406311",
+          "paragraph" : "§ 53",
+          "title" : "Unterbringung in Gemeinschaftsunterkünften"
+        },
+        {
+          "documentIdentifier" : "BJNR111260992BJNE008504116",
+          "paragraph" : "§ 54",
+          "title" : "Unterrichtung des Bundesamtes"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          5
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Unterbringung und Verteilung"
+    },
+    {
+      "documentIdentifier" : "BJNR111260992BJNG000805311",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR111260992BJNE008608116",
+          "paragraph" : "§ 55",
+          "title" : "Aufenthaltsgestattung"
+        },
+        {
+          "documentIdentifier" : "BJNR111260992BJNE008804116",
+          "paragraph" : "§ 56",
+          "title" : "Räumliche Beschränkung"
+        },
+        {
+          "documentIdentifier" : "BJNR111260992BJNE009002377",
+          "paragraph" : "§ 57",
+          "title" : "Verlassen des Aufenthaltsbereichs einer Aufnahmeeinrichtung"
+        },
+        {
+          "documentIdentifier" : "BJNR111260992BJNE009207311",
+          "paragraph" : "§ 58",
+          "title" : "Verlassen eines zugewiesenen Aufenthaltsbereichs"
+        },
+        {
+          "documentIdentifier" : "BJNR111260992BJNE009404116",
+          "paragraph" : "§ 59",
+          "title" : "Durchsetzung der räumlichen Beschränkung"
+        },
+        {
+          "documentIdentifier" : "BJNR111260992BJNE016601116",
+          "paragraph" : "§ 59a",
+          "title" : "Erlöschen der räumlichen Beschränkung"
+        },
+        {
+          "documentIdentifier" : "BJNR111260992BJNE016701310",
+          "paragraph" : "§ 59b",
+          "title" : "Anordnung der räumlichen Beschränkung"
+        },
+        {
+          "documentIdentifier" : "BJNR111260992BJNE009603116",
+          "paragraph" : "§ 60",
+          "title" : "Auflagen"
+        },
+        {
+          "documentIdentifier" : "BJNR111260992BJNE009809311",
+          "paragraph" : "§ 61",
+          "title" : "Erwerbstätigkeit"
+        },
+        {
+          "documentIdentifier" : "BJNR111260992BJNE009904116",
+          "paragraph" : "§ 62",
+          "title" : "Gesundheitsuntersuchung"
+        },
+        {
+          "documentIdentifier" : "BJNR111260992BJNE010110311",
+          "paragraph" : "§ 63",
+          "title" : "Bescheinigung über die Aufenthaltsgestattung"
+        },
+        {
+          "documentIdentifier" : "BJNR111260992BJNE016901116",
+          "paragraph" : "§ 63a",
+          "title" : "Bescheinigung über die Meldung als Asylsuchender"
+        },
+        {
+          "documentIdentifier" : "BJNR111260992BJNE010203377",
+          "paragraph" : "§ 64",
+          "title" : "Ausweispflicht"
+        },
+        {
+          "documentIdentifier" : "BJNR111260992BJNE010305116",
+          "paragraph" : "§ 65",
+          "title" : "Herausgabe des Passes"
+        },
+        {
+          "documentIdentifier" : "BJNR111260992BJNE010503116",
+          "paragraph" : "§ 66",
+          "title" : "Ausschreibung zur Aufenthaltsermittlung"
+        },
+        {
+          "documentIdentifier" : "BJNR111260992BJNE010609116",
+          "paragraph" : "§ 67",
+          "title" : "Erlöschen der Aufenthaltsgestattung"
+        },
+        {
+          "documentIdentifier" : "BJNR111260992BJNE010704377",
+          "paragraph" : "§ 68",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR111260992BJNE015600377",
+          "paragraph" : "§ 69",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR111260992BJNE015700377",
+          "paragraph" : "§ 70",
+          "title" : "(weggefallen)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          6
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Recht des Aufenthalts während des Asylverfahrens"
+    },
+    {
+      "documentIdentifier" : "BJNR111260992BJNG001105311",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR111260992BJNE011009116",
+          "paragraph" : "§ 71",
+          "title" : "Folgeantrag"
+        },
+        {
+          "documentIdentifier" : "BJNR111260992BJNE013804377",
+          "paragraph" : "§ 71a",
+          "title" : "Zweitantrag"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          7
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Folgeantrag, Zweitantrag"
+    },
+    {
+      "documentIdentifier" : "BJNR111260992BJNG001204311",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR111260992BJNE011105377",
+          "paragraph" : "§ 72",
+          "title" : "Erlöschen"
+        },
+        {
+          "documentIdentifier" : "BJNR111260992BJNE011212311",
+          "paragraph" : "§ 73",
+          "title" : "Widerruf und Rücknahme der Asylberechtigung und der Flüchtlingseigenschaft"
+        },
+        {
+          "documentIdentifier" : "BJNR111260992BJNE014603377",
+          "paragraph" : "§ 73a",
+          "title" : "Ausländische Anerkennung als Flüchtling"
+        },
+        {
+          "documentIdentifier" : "BJNR111260992BJNE016400311",
+          "paragraph" : "§ 73b",
+          "title" : "Widerruf und Rücknahme des subsidiären Schutzes"
+        },
+        {
+          "documentIdentifier" : "BJNR111260992BJNE016500311",
+          "paragraph" : "§ 73c",
+          "title" : "Widerruf und Rücknahme von Abschiebungsverboten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          8
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Erlöschen der Rechtsstellung"
+    },
+    {
+      "documentIdentifier" : "BJNR111260992BJNG001304311",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR111260992BJNE011305116",
+          "paragraph" : "§ 74",
+          "title" : "Klagefrist, Zurückweisung verspäteten Vorbringens"
+        },
+        {
+          "documentIdentifier" : "BJNR111260992BJNE011407311",
+          "paragraph" : "§ 75",
+          "title" : "Aufschiebende Wirkung der Klage"
+        },
+        {
+          "documentIdentifier" : "BJNR111260992BJNE011505377",
+          "paragraph" : "§ 76",
+          "title" : "Einzelrichter"
+        },
+        {
+          "documentIdentifier" : "BJNR111260992BJNE011603377",
+          "paragraph" : "§ 77",
+          "title" : "Entscheidung des Gerichts"
+        },
+        {
+          "documentIdentifier" : "BJNR111260992BJNE011708310",
+          "paragraph" : "§ 78",
+          "title" : "Rechtsmittel"
+        },
+        {
+          "documentIdentifier" : "BJNR111260992BJNE011805377",
+          "paragraph" : "§ 79",
+          "title" : "Besondere Vorschriften für das Berufungsverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR111260992BJNE011903377",
+          "paragraph" : "§ 80",
+          "title" : "Ausschluss der Beschwerde"
+        },
+        {
+          "documentIdentifier" : "BJNR111260992BJNE013903377",
+          "paragraph" : "§ 80a",
+          "title" : "Ruhen des Verfahrens"
+        },
+        {
+          "documentIdentifier" : "BJNR111260992BJNE012003377",
+          "paragraph" : "§ 81",
+          "title" : "Nichtbetreiben des Verfahrens"
+        },
+        {
+          "documentIdentifier" : "BJNR111260992BJNE012103377",
+          "paragraph" : "§ 82",
+          "title" : "Akteneinsicht in Verfahren des vorläufigen Rechtsschutzes"
+        },
+        {
+          "documentIdentifier" : "BJNR111260992BJNE012205116",
+          "paragraph" : "§ 83",
+          "title" : "Besondere Spruchkörper"
+        },
+        {
+          "documentIdentifier" : "BJNR111260992BJNE014003116",
+          "paragraph" : "§ 83a",
+          "title" : "Unterrichtung der Ausländerbehörde"
+        },
+        {
+          "documentIdentifier" : "BJNR111260992BJNE014104377",
+          "paragraph" : "§ 83b",
+          "title" : "Gerichtskosten, Gegenstandswert"
+        },
+        {
+          "documentIdentifier" : "BJNR111260992BJNE017000116",
+          "paragraph" : "§ 83c",
+          "title" : "Anwendbares Verfahren für die Anordnung und Befristung von Einreise- und Aufenthaltsverboten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          9
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Gerichtsverfahren"
+    },
+    {
+      "documentIdentifier" : "BJNR111260992BJNG001404311",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR111260992BJNE012307377",
+          "paragraph" : "§ 84",
+          "title" : "Verleitung zur missbräuchlichen Asylantragstellung"
+        },
+        {
+          "documentIdentifier" : "BJNR111260992BJNE014502377",
+          "paragraph" : "§ 84a",
+          "title" : "Gewerbs- und bandenmäßige Verleitung zur missbräuchlichen Asylantragstellung"
+        },
+        {
+          "documentIdentifier" : "BJNR111260992BJNE012405116",
+          "paragraph" : "§ 85",
+          "title" : "Sonstige Straftaten"
+        },
+        {
+          "documentIdentifier" : "BJNR111260992BJNE012506116",
+          "paragraph" : "§ 86",
+          "title" : "Bußgeldvorschriften"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          10
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Straf- und Bußgeldvorschriften"
+    },
+    {
+      "documentIdentifier" : "BJNR111260992BJNG001504311",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR111260992BJNE012604377",
+          "paragraph" : "§ 87",
+          "title" : "Übergangsvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR111260992BJNE014202377",
+          "paragraph" : "§ 87a",
+          "title" : "Übergangsvorschriften aus Anlass der am 1. Juli 1993 in Kraft getretenen Änderungen"
+        },
+        {
+          "documentIdentifier" : "BJNR111260992BJNE015201377",
+          "paragraph" : "§ 87b",
+          "title" : "Übergangsvorschrift aus Anlass der am 1. September 2004 in Kraft getretenen Änderungen"
+        },
+        {
+          "documentIdentifier" : "BJNR111260992BJNE017200116",
+          "paragraph" : "§ 87c",
+          "title" : "Übergangsvorschriften aus Anlass der am 6. August 2016 in Kraft getretenen Änderungen"
+        },
+        {
+          "documentIdentifier" : "BJNR111260992BJNE012709116",
+          "paragraph" : "§ 88",
+          "title" : "Verordnungsermächtigungen"
+        },
+        {
+          "documentIdentifier" : "BJNR111260992BJNE016800116",
+          "paragraph" : "§ 88a",
+          "title" : "Bestimmungen zum Verwaltungsverfahren"
+        },
+        {
+          "documentIdentifier" : "BJNR111260992BJNE012804377",
+          "paragraph" : "§ 89",
+          "title" : "Einschränkung von Grundrechten"
+        },
+        {
+          "documentIdentifier" : "BJNR111260992BJNE012907116",
+          "paragraph" : "§ 90",
+          "title" : "(weggefallen)"
+        },
+        {
+          "documentIdentifier" : "BJNR111260992BJNE014303377",
+          "paragraph" : "Anlage I",
+          "title" : "(zu § 26a)"
+        },
+        {
+          "documentIdentifier" : "BJNR111260992BJNE014406116",
+          "paragraph" : "Anlage II",
+          "title" : "(zu § 29a)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          11
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Übergangs- und Schlussvorschriften"
+    }
+  ]
+}

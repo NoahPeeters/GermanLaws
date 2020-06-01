@@ -1,0 +1,59 @@
+{
+  "documentIdentifier" : "BJNR270600009",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR270600009Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR270600009BJNE000100000",
+          "paragraph" : "§ 1",
+          "title" : "Gegenstand der Zusammenarbeit; Koordinierungsgremium"
+        },
+        {
+          "documentIdentifier" : "BJNR270600009BJNE000200000",
+          "paragraph" : "§ 2",
+          "title" : "Begriffsbestimmungen"
+        },
+        {
+          "documentIdentifier" : "BJNR270600009BJNE000300000",
+          "paragraph" : "§ 3",
+          "title" : "Datenaustausch über das Verbindungsnetz"
+        },
+        {
+          "documentIdentifier" : "BJNR270600009BJNE000400000",
+          "paragraph" : "§ 4",
+          "title" : "Beschlüsse über das Verbindungsnetz"
+        },
+        {
+          "documentIdentifier" : "BJNR270600009BJNE000500000",
+          "paragraph" : "§ 5",
+          "title" : "Vergabe"
+        },
+        {
+          "documentIdentifier" : "BJNR270600009BJNE000600000",
+          "paragraph" : "§ 6",
+          "title" : "Betrieb"
+        },
+        {
+          "documentIdentifier" : "BJNR270600009BJNE000700000",
+          "paragraph" : "§ 7",
+          "title" : "Kosten"
+        },
+        {
+          "documentIdentifier" : "BJNR270600009BJNE000800000",
+          "paragraph" : "§ 8",
+          "title" : "Übergangsregelung"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "documentIdentifier" : "BJNR027300976",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR027300976Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR027300976BJNE000200326",
+          "paragraph" : "§ 1",
+          "title" : "Zweck der Verordnung"
+        },
+        {
+          "documentIdentifier" : "BJNR027300976BJNE000301311",
+          "paragraph" : "§ 2",
+          "title" : "Sicherstellung von Beförderungsmitteln"
+        },
+        {
+          "documentIdentifier" : "BJNR027300976BJNE000401311",
+          "paragraph" : "§ 3",
+          "title" : "Beschleunigung der Ver- und Entladung"
+        },
+        {
+          "documentIdentifier" : "BJNR027300976BJNE000601311",
+          "paragraph" : "§ 5",
+          "title" : "Ruhen der Lieferfristen"
+        },
+        {
+          "documentIdentifier" : "BJNR027300976BJNE000801314",
+          "paragraph" : "§ 7",
+          "title" : "Straf- und Bußgeldvorschriften"
+        },
+        {
+          "documentIdentifier" : "BJNR027300976BJNE000903305",
+          "paragraph" : "§ 8",
+          "title" : "Inkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

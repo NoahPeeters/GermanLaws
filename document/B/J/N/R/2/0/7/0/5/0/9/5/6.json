@@ -1,0 +1,34 @@
+{
+  "documentIdentifier" : "BJNR207050956",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR207050956Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR207050956BJNE002400325",
+          "paragraph" : "Anhang A",
+          "title" : "(zu § 7)"
+        },
+        {
+          "documentIdentifier" : "BJNR207050956BJNE002500325",
+          "paragraph" : "Anhang B",
+          "title" : "(zu § 9 Nr. 1)\n"
+        },
+        {
+          "documentIdentifier" : "BJNR207050956BJNE002600325",
+          "paragraph" : "Anhang C",
+          "title" : "(zu § 12 Nr. 1)"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "documentIdentifier" : "BJNR006099957",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR006099957BJNG000100304",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Art 1 bis 7"
+    },
+    {
+      "documentIdentifier" : "BJNR006099957BJNG000800304",
+      "laws" : [
+
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          8
+        ]
+      },
+      "subsections" : [
+        {
+          "documentIdentifier" : "BJNR006099957BJNE000901377",
+          "laws" : [
+
+          ],
+          "sectionNumber" : {
+            "numbers" : [
+              8
+            ]
+          },
+          "subsections" : [
+            {
+              "documentIdentifier" : "BJNR006099957BJNE001001377",
+              "laws" : [
+
+              ],
+              "sectionNumber" : {
+                "numbers" : [
+                  8
+                ]
+              },
+              "subsections" : [
+
+              ],
+              "title" : "Art 8"
+            }
+          ],
+          "title" : "Art 8"
+        }
+      ],
+      "title" : "Übergangs- und Schlußvorschriften"
+    }
+  ]
+}

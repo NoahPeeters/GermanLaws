@@ -1,0 +1,39 @@
+{
+  "documentIdentifier" : "BJNR022800011",
+  "sections" : [
+    {
+      "documentIdentifier" : "BJNR022800011Content",
+      "laws" : [
+        {
+          "documentIdentifier" : "BJNR022800011BJNE000201360",
+          "paragraph" : "§ 1",
+          "title" : "Mindestanforderungen an die Einrichtung und den Bewirtschaftungszustand"
+        },
+        {
+          "documentIdentifier" : "BJNR022800011BJNE000300000",
+          "paragraph" : "§ 2",
+          "title" : "Fachrichtungsspezifische Anforderungen"
+        },
+        {
+          "documentIdentifier" : "BJNR022800011BJNE000400000",
+          "paragraph" : "§ 3",
+          "title" : "Ausnahmeregelung"
+        },
+        {
+          "documentIdentifier" : "BJNR022800011BJNE000500000",
+          "paragraph" : "§ 4",
+          "title" : "Inkrafttreten, Außerkrafttreten"
+        }
+      ],
+      "sectionNumber" : {
+        "numbers" : [
+          1
+        ]
+      },
+      "subsections" : [
+
+      ],
+      "title" : "Inhalt"
+    }
+  ]
+}
